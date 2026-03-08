@@ -30,7 +30,15 @@ export function buildSession(
     }
   }
 
-  const cappedNew = newItems.slice(0, maxNew);
+  // Shuffle new words so every session samples different words, not always the first N
+  const newWords = [...new Set(newItems.map((i) => i.word))];
+  for (let i = newWords.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [newWords[i], newWords[j]] = [newWords[j], newWords[i]];
+  }
+  const pickedWords = new Set(newWords.slice(0, maxNew));
+  const cappedNew = newItems.filter((i) => pickedWords.has(i.word));
+
   return [...overdue, ...dueToday, ...cappedNew];
 }
 
