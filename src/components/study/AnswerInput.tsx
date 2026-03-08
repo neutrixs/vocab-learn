@@ -1,15 +1,18 @@
 import { useState, useRef, useEffect, type KeyboardEvent } from 'react';
 import { Button } from '../ui/Button';
+import { getLocale } from '../../lib/locale';
 
 interface AnswerInputProps {
   onSubmit: (value: string) => void;
   onReveal: () => void;
+  lang: string;
   disabled?: boolean;
 }
 
-export function AnswerInput({ onSubmit, onReveal, disabled = false }: AnswerInputProps) {
+export function AnswerInput({ onSubmit, onReveal, lang, disabled = false }: AnswerInputProps) {
   const [value, setValue] = useState('');
   const inputRef = useRef<HTMLInputElement>(null);
+  const t = getLocale(lang);
 
   useEffect(() => {
     inputRef.current?.focus();
@@ -34,7 +37,7 @@ export function AnswerInput({ onSubmit, onReveal, disabled = false }: AnswerInpu
         value={value}
         onChange={(e) => setValue(e.target.value)}
         onKeyDown={handleKey}
-        placeholder="Cevabınızı yazın…"
+        placeholder={t.answer_placeholder}
         disabled={disabled}
         autoComplete="off"
         autoCorrect="off"
@@ -42,10 +45,10 @@ export function AnswerInput({ onSubmit, onReveal, disabled = false }: AnswerInpu
         spellCheck={false}
       />
       <Button variant="primary" disabled={disabled} onClick={() => onSubmit(value.trim())}>
-        Gönder
+        {t.submit}
       </Button>
       <Button variant="ghost" disabled={disabled} onClick={onReveal}>
-        İpucu (Esc)
+        {t.hint_esc}
       </Button>
     </div>
   );

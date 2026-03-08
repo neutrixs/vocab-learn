@@ -6,14 +6,17 @@ import { Button } from '../ui/Button';
 import { Badge } from '../ui/Badge';
 import { SentenceList } from './SentenceList';
 import { useKeyboard } from '../../lib/keyboard';
+import { getLocale } from '../../lib/locale';
 
 interface RecognitionCardProps {
   entry: WordEntry;
+  lang: string;
   onGrade: (grade: ReviewGrade) => void;
 }
 
-export function RecognitionCard({ entry, onGrade }: RecognitionCardProps) {
+export function RecognitionCard({ entry, lang, onGrade }: RecognitionCardProps) {
   const [revealed, setRevealed] = useState(false);
+  const t = getLocale(lang);
 
   function reveal() {
     setRevealed(true);
@@ -44,8 +47,8 @@ export function RecognitionCard({ entry, onGrade }: RecognitionCardProps) {
   return (
     <Card className="study-card">
       <div className="study-card-header">
-        <Badge variant="default">{entry.part_of_speech}</Badge>
-        <Badge variant="accent">Tanıma</Badge>
+        <Badge variant="default">{t.pos[entry.part_of_speech] ?? entry.part_of_speech}</Badge>
+        <Badge variant="accent">{t.mode_recognition}</Badge>
       </div>
 
       <h2 className="word-display">{entry.word}</h2>
@@ -55,10 +58,10 @@ export function RecognitionCard({ entry, onGrade }: RecognitionCardProps) {
       {!revealed ? (
         <div className="study-card-actions">
           <Button variant="primary" size="lg" onClick={() => onGrade('pass')}>
-            Biliyorum ✓ (Enter)
+            {t.know_it}
           </Button>
           <Button variant="ghost" size="lg" onClick={reveal}>
-            Göster (Space)
+            {t.reveal}
           </Button>
         </div>
       ) : (
@@ -66,10 +69,10 @@ export function RecognitionCard({ entry, onGrade }: RecognitionCardProps) {
           <p className="gloss-text">{entry.english_gloss}</p>
           <div className="study-card-actions">
             <Button variant="danger" size="lg" onClick={() => onGrade('fail')}>
-              Bilmiyordum (Enter / Space)
+              {t.didnt_know}
             </Button>
           </div>
-          <p className="keyboard-hint">Enter veya Space → devam</p>
+          <p className="keyboard-hint">{t.continue_hint}</p>
         </div>
       )}
     </Card>

@@ -4,11 +4,13 @@ import { Card } from '../components/ui/Card';
 import { Button } from '../components/ui/Button';
 import { useProgress } from '../context/ProgressContext';
 import { useLanguage } from '../context/LanguageContext';
+import { getLocale } from '../lib/locale';
 
 export function SettingsPage() {
   const { lang, setLang } = useLanguage();
   const { resetLang, resetAll } = useProgress();
   const [confirmReset, setConfirmReset] = useState<'lang' | 'all' | null>(null);
+  const t = getLocale(lang);
 
   function handleResetLang() {
     if (confirmReset === 'lang') {
@@ -30,12 +32,12 @@ export function SettingsPage() {
 
   return (
     <div className="page">
-      <PageHeader title="Ayarlar" subtitle="Tercihler ve sıfırlama" />
+      <PageHeader title={t.settings_title} subtitle={t.settings_subtitle} />
 
       <div className="settings-grid">
         <Card>
-          <h3 className="card-section-title">Dil</h3>
-          <p className="text-secondary">Aktif dil: <strong>{lang.toUpperCase()}</strong></p>
+          <h3 className="card-section-title">{t.language_title}</h3>
+          <p className="text-secondary">{t.active_lang}: <strong>{lang.toUpperCase()}</strong></p>
           <div className="lang-buttons">
             <Button
               variant={lang === 'tr' ? 'primary' : 'secondary'}
@@ -47,36 +49,30 @@ export function SettingsPage() {
         </Card>
 
         <Card>
-          <h3 className="card-section-title">İlerlemeyi Sıfırla</h3>
-          <p className="text-secondary">
-            Bu işlem geri alınamaz. Tüm SM-2 kart verileri silinir.
-          </p>
+          <h3 className="card-section-title">{t.reset_title}</h3>
+          <p className="text-secondary">{t.reset_warning}</p>
           <div className="danger-buttons">
             <Button variant="danger" onClick={handleResetLang}>
-              {confirmReset === 'lang' ? 'Emin misiniz? (Tekrar tıklayın)' : `${lang.toUpperCase()} verisini sıfırla`}
+              {confirmReset === 'lang' ? t.confirm_prompt : t.reset_lang(lang)}
             </Button>
             {confirmReset === 'lang' && (
-              <Button variant="ghost" onClick={() => setConfirmReset(null)}>İptal</Button>
+              <Button variant="ghost" onClick={() => setConfirmReset(null)}>{t.cancel}</Button>
             )}
           </div>
           <div className="danger-buttons" style={{ marginTop: '0.75rem' }}>
             <Button variant="danger" onClick={handleResetAll}>
-              {confirmReset === 'all' ? 'Emin misiniz? (Tekrar tıklayın)' : 'Tüm ilerlemeyi sıfırla'}
+              {confirmReset === 'all' ? t.confirm_prompt : t.reset_all}
             </Button>
             {confirmReset === 'all' && (
-              <Button variant="ghost" onClick={() => setConfirmReset(null)}>İptal</Button>
+              <Button variant="ghost" onClick={() => setConfirmReset(null)}>{t.cancel}</Button>
             )}
           </div>
         </Card>
 
         <Card>
-          <h3 className="card-section-title">Hakkında</h3>
-          <p className="text-secondary">
-            Sözcük Öğren — Aralıklı tekrar (SM-2) ile yabancı dil kelime öğrenme uygulaması.
-          </p>
-          <p className="text-secondary" style={{ marginTop: '0.5rem' }}>
-            Veriler yalnızca tarayıcınızda saklanır.
-          </p>
+          <h3 className="card-section-title">{t.about_title}</h3>
+          <p className="text-secondary">{t.about_text}</p>
+          <p className="text-secondary" style={{ marginTop: '0.5rem' }}>{t.data_local}</p>
         </Card>
       </div>
     </div>

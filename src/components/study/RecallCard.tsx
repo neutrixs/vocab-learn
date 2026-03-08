@@ -6,9 +6,11 @@ import { Button } from '../ui/Button';
 import { Badge } from '../ui/Badge';
 import { AnswerInput } from './AnswerInput';
 import { useKeyboard } from '../../lib/keyboard';
+import { getLocale } from '../../lib/locale';
 
 interface RecallCardProps {
   entry: WordEntry;
+  lang: string;
   onGrade: (grade: ReviewGrade) => void;
 }
 
@@ -18,11 +20,12 @@ function pickPrompt(entry: WordEntry): RecallPrompt {
 
 type Phase = 'input' | 'result';
 
-export function RecallCard({ entry, onGrade }: RecallCardProps) {
+export function RecallCard({ entry, lang, onGrade }: RecallCardProps) {
   const [prompt] = useState<RecallPrompt>(() => pickPrompt(entry));
   const [phase, setPhase] = useState<Phase>('input');
   const [correct, setCorrect] = useState<boolean | null>(null);
   const [userAnswer, setUserAnswer] = useState('');
+  const t = getLocale(lang);
 
   function checkAnswer(value: string) {
     const normalised = value.toLowerCase().trim();
@@ -59,14 +62,14 @@ export function RecallCard({ entry, onGrade }: RecallCardProps) {
   return (
     <Card className="study-card">
       <div className="study-card-header">
-        <Badge variant="default">{entry.part_of_speech}</Badge>
-        <Badge variant="accent">Aktif Hatırlama</Badge>
+        <Badge variant="default">{t.pos[entry.part_of_speech] ?? entry.part_of_speech}</Badge>
+        <Badge variant="accent">{t.mode_recall}</Badge>
       </div>
 
       <p className="recall-prompt">{prompt.prompt}</p>
 
       {phase === 'input' && (
-        <AnswerInput onSubmit={checkAnswer} onReveal={reveal} />
+        <AnswerInput onSubmit={checkAnswer} onReveal={reveal} lang={lang} />
       )}
 
       {phase === 'result' && (
@@ -77,18 +80,18 @@ export function RecallCard({ entry, onGrade }: RecallCardProps) {
             </p>
           )}
           <div className="accepted-forms">
-            <span className="accepted-label">Doğru cevap: </span>
+            <span className="accepted-label">{t.correct_answer_label}</span>
             {prompt.accepted_forms.join(' / ')}
           </div>
           <p className="gloss-text">{entry.english_gloss}</p>
           <div className="study-card-actions">
             {correct ? (
               <Button variant="primary" size="lg" onClick={() => onGrade('pass')}>
-                Doğru ✓ (Enter)
+                {t.correct_btn}
               </Button>
             ) : (
               <Button variant="danger" size="lg" onClick={() => onGrade('fail')}>
-                Yanlış ✗ (Enter)
+                {t.wrong_btn}
               </Button>
             )}
           </div>

@@ -4,6 +4,7 @@ import { useLanguage } from '../context/LanguageContext';
 import { useProgress } from '../context/ProgressContext';
 import { loadIndex, loadWord, preloadWords } from '../lib/dataLoader';
 import { buildSession } from '../lib/scheduler';
+import { getLocale } from '../lib/locale';
 import { ProgressBar } from '../components/ui/ProgressBar';
 import { Button } from '../components/ui/Button';
 import { RecognitionCard } from '../components/study/RecognitionCard';
@@ -20,6 +21,7 @@ export function StudyPage() {
   const [params] = useSearchParams();
   const navigate = useNavigate();
   const modeParam = (params.get('mode') ?? 'mixed') as StudyMode;
+  const t = getLocale(lang);
 
   const [queue, setQueue] = useState<StudyItem[]>([]);
   const [currentIdx, setCurrentIdx] = useState(0);
@@ -104,7 +106,7 @@ export function StudyPage() {
   if (loading) {
     return (
       <div className="page page-centered">
-        <p className="text-secondary">Yükleniyor…</p>
+        <p className="text-secondary">{t.loading}</p>
       </div>
     );
   }
@@ -113,7 +115,7 @@ export function StudyPage() {
     return (
       <div className="page page-centered">
         <p className="error-text">{error}</p>
-        <Button onClick={() => navigate('/')}>Ana Sayfaya Dön</Button>
+        <Button onClick={() => navigate('/')}>{t.btn_home}</Button>
       </div>
     );
   }
@@ -124,23 +126,23 @@ export function StudyPage() {
     return (
       <div className="page page-centered">
         <div className="session-complete">
-          <h2 className="session-complete-title">Oturum Tamamlandı!</h2>
+          <h2 className="session-complete-title">{t.session_complete}</h2>
           <div className="session-complete-stats">
             <div className="stat-item">
               <span className="stat-value stat-success">{results.pass}</span>
-              <span className="stat-label">Doğru</span>
+              <span className="stat-label">{t.stat_correct}</span>
             </div>
             <div className="stat-item">
               <span className="stat-value stat-error">{results.fail}</span>
-              <span className="stat-label">Yanlış</span>
+              <span className="stat-label">{t.stat_wrong}</span>
             </div>
             <div className="stat-item">
               <span className="stat-value">{pct}%</span>
-              <span className="stat-label">Doğruluk</span>
+              <span className="stat-label">{t.stat_accuracy}</span>
             </div>
           </div>
           <Button variant="primary" size="lg" onClick={() => navigate('/')}>
-            Ana Sayfaya Dön
+            {t.btn_home}
           </Button>
         </div>
       </div>
@@ -161,13 +163,13 @@ export function StudyPage() {
 
       {currentEntry ? (
         item.mode === 'recognition' ? (
-          <RecognitionCard key={item.cardKey} entry={currentEntry} onGrade={handleGrade} />
+          <RecognitionCard key={item.cardKey} entry={currentEntry} lang={lang} onGrade={handleGrade} />
         ) : (
-          <RecallCard key={item.cardKey} entry={currentEntry} onGrade={handleGrade} />
+          <RecallCard key={item.cardKey} entry={currentEntry} lang={lang} onGrade={handleGrade} />
         )
       ) : (
         <div className="page-centered">
-          <p className="text-secondary">Yükleniyor…</p>
+          <p className="text-secondary">{t.loading}</p>
         </div>
       )}
     </div>

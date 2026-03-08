@@ -9,25 +9,20 @@ import { useLanguage } from '../context/LanguageContext';
 import { useProgress } from '../context/ProgressContext';
 import { loadIndex } from '../lib/dataLoader';
 import { buildSession } from '../lib/scheduler';
+import { getLocale } from '../lib/locale';
+import type { UILocale } from '../lib/locale';
 import type { WordIndex, WordIndexEntry } from '../types/word';
 import type { SM2Card } from '../types/progress';
 
 const PAGE_SIZE = 10;
 
-const POS_LABELS: Record<string, string> = {
-  verb: 'Fiil',
-  noun: 'İsim',
-  adjective: 'Sıfat',
-  adverb: 'Zarf',
-};
-
-function WordList({ words, cards, lang }: { words: WordIndexEntry[]; cards: Record<string, SM2Card>; lang: string }) {
+function WordList({ words, cards, lang, t }: { words: WordIndexEntry[]; cards: Record<string, SM2Card>; lang: string; t: UILocale }) {
   const [search, setSearch] = useState('');
   const [selectedPos, setSelectedPos] = useState<Set<string>>(new Set());
   const [page, setPage] = useState(0);
 
   const allPos = [...new Set(words.map((w) => w.part_of_speech))].sort((a, b) =>
-    (POS_LABELS[a] ?? a).localeCompare(POS_LABELS[b] ?? b, lang)
+    (t.pos[a] ?? a).localeCompare(t.pos[b] ?? b, lang)
   );
 
   const sorted = [...words].sort((a, b) => a.word.localeCompare(b.word, lang));
@@ -60,11 +55,11 @@ function WordList({ words, cards, lang }: { words: WordIndexEntry[]; cards: Reco
 
   return (
     <Card className="words-card">
-      <h3 className="card-section-title">Sözcük Listesi ({words.length})</h3>
+      <h3 className="card-section-title">{t.word_list_title(words.length)}</h3>
       <input
         className="word-search-input"
         type="text"
-        placeholder="Ara…"
+        placeholder={t.search_placeholder}
         value={search}
         onChange={(e) => handleSearch(e.target.value)}
       />
@@ -75,7 +70,7 @@ function WordList({ words, cards, lang }: { words: WordIndexEntry[]; cards: Reco
             className={`pos-pill${selectedPos.has(pos) ? ' pos-pill--active' : ''}`}
             onClick={() => togglePos(pos)}
           >
-            {POS_LABELS[pos] ?? pos}
+            {t.pos[pos] ?? pos}
           </button>
         ))}
       </div>
@@ -86,7 +81,7 @@ function WordList({ words, cards, lang }: { words: WordIndexEntry[]; cards: Reco
           return (
             <li key={w.word} className="word-index-item">
               <span className="word-index-word">{w.word}</span>
-              <span className="word-index-pos">{w.part_of_speech}</span>
+              <span className="word-index-pos">{t.pos[w.part_of_speech] ?? w.part_of_speech}</span>
               <div className="word-index-cards">
                 <Badge variant={recCard ? 'success' : 'default'}>T</Badge>
                 <Badge variant={recallCard ? 'success' : 'default'}>H</Badge>
@@ -95,7 +90,7 @@ function WordList({ words, cards, lang }: { words: WordIndexEntry[]; cards: Reco
           );
         })}
         {visible.length === 0 && (
-          <li className="word-index-empty">Sonuç bulunamadı.</li>
+          <li className="word-index-empty">{t.no_results}</li>
         )}
       </ul>
       {totalPages > 1 && (
@@ -127,6 +122,7 @@ export function HomePage() {
   const navigate = useNavigate();
   const [index, setIndex] = useState<WordIndex | null>(null);
   const [error, setError] = useState<string | null>(null);
+  const t = getLocale(lang);
 
   useEffect(() => {
     loadIndex(lang)
@@ -146,21 +142,21 @@ export function HomePage() {
 
   return (
     <div className="page">
-      <PageHeader title="Sözcük Öğren" subtitle={`${lang.toUpperCase()} · Türkçe`} />
+      <PageHeader title={t.home_title} subtitle={`${lang.toUpperCase()} · ${t.home_subtitle}`} />
 
       {error && <p className="error-text">{error}</p>}
 
       <div className="home-grid">
         <Card className="stats-card">
-          <h3 className="card-section-title">İlerleme</h3>
+          <h3 className="card-section-title">{t.progress_title}</h3>
           <div className="stats-row">
             <div className="stat-item">
               <span className="stat-value">{stats?.streak_days ?? 0}</span>
-              <span className="stat-label">Gün serisi</span>
+              <span className="stat-label">{t.stat_streak}</span>
             </div>
             <div className="stat-item">
               <span className="stat-value">{stats?.total_reviews ?? 0}</span>
-              <span className="stat-label">Toplam tekrar</span>
+              <span className="stat-label">{t.stat_reviews}</span>
             </div>
             <div className="stat-item">
               <span className="stat-value">
@@ -168,12 +164,12 @@ export function HomePage() {
                   ? Math.round((stats.total_correct / stats.total_reviews) * 100)
                   : 0}%
               </span>
-              <span className="stat-label">Doğruluk</span>
+              <span className="stat-label">{t.stat_accuracy}</span>
             </div>
           </div>
           <div className="mastery-section">
             <div className="mastery-label-row">
-              <span>Ustalık</span>
+              <span>{t.mastery}</span>
               <span>{Math.round(masteryPct)}%</span>
             </div>
             <ProgressBar value={masteryPct} />
@@ -181,22 +177,22 @@ export function HomePage() {
         </Card>
 
         <Card className="session-card">
-          <h3 className="card-section-title">Bugünkü Oturum</h3>
+          <h3 className="card-section-title">{t.session_title}</h3>
           {index === null ? (
-            <p className="text-secondary">Yükleniyor…</p>
+            <p className="text-secondary">{t.loading}</p>
           ) : sessionItems.length === 0 ? (
-            <p className="all-done-text">Harika! Bugün tüm kartları tamamladınız. 🎉</p>
+            <p className="all-done-text">{t.all_done}</p>
           ) : (
             <>
               <div className="session-badges">
                 {dueCount > 0 && (
-                  <Badge variant="accent">{dueCount} tekrar</Badge>
+                  <Badge variant="accent">{t.review_count(dueCount)}</Badge>
                 )}
                 {newCount > 0 && (
-                  <Badge variant="default">{newCount} yeni</Badge>
+                  <Badge variant="default">{t.new_count(newCount)}</Badge>
                 )}
               </div>
-              <p className="session-total">{sessionItems.length} kart bekliyor</p>
+              <p className="session-total">{t.cards_waiting(sessionItems.length)}</p>
             </>
           )}
 
@@ -207,7 +203,7 @@ export function HomePage() {
               disabled={!index || sessionItems.length === 0}
               onClick={() => navigate('/study?mode=recognition')}
             >
-              Kelime Tanıma
+              {t.btn_recognition}
             </Button>
             <Button
               variant="secondary"
@@ -215,7 +211,7 @@ export function HomePage() {
               disabled={!index || sessionItems.length === 0}
               onClick={() => navigate('/study?mode=recall')}
             >
-              Aktif Hatırlama
+              {t.btn_recall}
             </Button>
             <Button
               variant="secondary"
@@ -223,13 +219,13 @@ export function HomePage() {
               disabled={!index || sessionItems.length === 0}
               onClick={() => navigate('/study?mode=mixed')}
             >
-              Karma Çalışma
+              {t.btn_mixed}
             </Button>
           </div>
         </Card>
 
         {index && (
-          <WordList words={index.words} cards={lp?.cards ?? {}} lang={lang} />
+          <WordList words={index.words} cards={lp?.cards ?? {}} lang={lang} t={t} />
         )}
       </div>
     </div>
