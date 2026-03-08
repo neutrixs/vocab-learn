@@ -1,0 +1,56 @@
+{
+  "word": "deneyim",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "experience",
+  "sentences": [
+    {
+      "id": "deneyim_s1",
+      "text": "Bu iş için iki yıllık [deneyim] gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "deneyim_s2",
+      "text": "Yurt dışında çalışmak çok değerli bir [deneyimdi].",
+      "note": null
+    },
+    {
+      "id": "deneyim_s3",
+      "text": "[Deneyimli] bir doktor bulmanız önemli.",
+      "note": "Sıfat türevi"
+    },
+    {
+      "id": "deneyim_s4",
+      "text": "Bu [deneyimden] çok şey öğrendim.",
+      "note": null
+    },
+    {
+      "id": "deneyim_s5",
+      "text": "Hiç [deneyimim] olmadan bu işe başladım.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "deneyim_r1",
+      "prompt": "Bir iş ilanında 'en az üç yıllık ___' yazıyor. Boşluğu doldur.",
+      "accepted_forms": [
+        "deneyim",
+        "deneyimi",
+        "deneyime"
+      ],
+      "note": null
+    },
+    {
+      "id": "deneyim_r2",
+      "prompt": "Yaptığın bir şeyden çok şey öğrendiğini anlatıyorsun. 'Bu ___ sayesinde çok şey öğrendim.'",
+      "accepted_forms": [
+        "deneyim",
+        "deneyimden",
+        "deneyimin"
+      ],
+      "note": null
+    }
+  ]
+}

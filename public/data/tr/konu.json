@@ -1,0 +1,56 @@
+{
+  "word": "konu",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "subject, topic",
+  "sentences": [
+    {
+      "id": "konu_s1",
+      "text": "Bugünkü toplantının [konusu] nedir?",
+      "note": null
+    },
+    {
+      "id": "konu_s2",
+      "text": "Bu [konuda] çok fazla bilgim yok.",
+      "note": null
+    },
+    {
+      "id": "konu_s3",
+      "text": "Hassas bir [konuya] girdik.",
+      "note": null
+    },
+    {
+      "id": "konu_s4",
+      "text": "Farklı [konularda] okumayı seviyorum.",
+      "note": null
+    },
+    {
+      "id": "konu_s5",
+      "text": "Bu [konuyu] daha sonra konuşalım.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "konu_r1",
+      "prompt": "Bir ders veya tartışmada ele alınan meseleye ne denir?",
+      "accepted_forms": [
+        "konu",
+        "konudur",
+        "konusu"
+      ],
+      "note": null
+    },
+    {
+      "id": "konu_r2",
+      "prompt": "Toplantı başlamadan önce neyin tartışılacağını soruyorsun. 'Bugünkü ___ nedir?'",
+      "accepted_forms": [
+        "konu",
+        "konumuz",
+        "konusu"
+      ],
+      "note": null
+    }
+  ]
+}

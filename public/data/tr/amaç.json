@@ -1,0 +1,55 @@
+{
+  "word": "amaç",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "goal, purpose, aim",
+  "sentences": [
+    {
+      "id": "amaç_s1",
+      "text": "Hayatımın [amacı] insanlara yardım etmek.",
+      "note": null
+    },
+    {
+      "id": "amaç_s2",
+      "text": "Bu projenin [amacı] nedir?",
+      "note": null
+    },
+    {
+      "id": "amaç_s3",
+      "text": "Net bir [amacın] olması başarıyı kolaylaştırır.",
+      "note": null
+    },
+    {
+      "id": "amaç_s4",
+      "text": "[Amacıma] ulaşmak için her şeyi göze aldım.",
+      "note": null
+    },
+    {
+      "id": "amaç_s5",
+      "text": "Bu yolculuğun [amacı] sadece eğlenmek değil, öğrenmek.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "amaç_r1",
+      "prompt": "Bir şey yapmanın sebebi veya ulaşmak istediğin hedef nedir?",
+      "accepted_forms": [
+        "amaç",
+        "amacım",
+        "amacıdır"
+      ],
+      "note": null
+    },
+    {
+      "id": "amaç_r2",
+      "prompt": "Projenin neden yapıldığını soran birine cevap veriyorsun. 'Bu projenin ___ maliyetleri düşürmek.'",
+      "accepted_forms": [
+        "amacı",
+        "amaç"
+      ],
+      "note": null
+    }
+  ]
+}

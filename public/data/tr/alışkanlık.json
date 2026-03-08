@@ -1,0 +1,55 @@
+{
+  "word": "alışkanlık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "habit, custom",
+  "sentences": [
+    {
+      "id": "alışkanlık_s1",
+      "text": "Her sabah kahve içmek benim için bir [alışkanlık] haline geldi.",
+      "note": null
+    },
+    {
+      "id": "alışkanlık_s2",
+      "text": "Kötü [alışkanlıklardan] kurtulmak zor ama mümkün.",
+      "note": null
+    },
+    {
+      "id": "alışkanlık_s3",
+      "text": "Düzenli egzersiz yapmak sağlıklı bir [alışkanlıktır].",
+      "note": null
+    },
+    {
+      "id": "alışkanlık_s4",
+      "text": "Bu [alışkanlığını] değiştirmesi gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "alışkanlık_s5",
+      "text": "İyi [alışkanlıklar] küçük yaşta kazanılır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "alışkanlık_r1",
+      "prompt": "Her gece yatmadan önce kitap okuyorsun, yıllardır. Bu davranışa ne denir?",
+      "accepted_forms": [
+        "alışkanlık",
+        "alışkanlığım",
+        "alışkanlıktır"
+      ],
+      "note": null
+    },
+    {
+      "id": "alışkanlık_r2",
+      "prompt": "Sigara içen biri bırakmak istiyor. 'Bu ___ bırakmak çok zor.' diyor.",
+      "accepted_forms": [
+        "alışkanlığı",
+        "alışkanlık"
+      ],
+      "note": null
+    }
+  ]
+}

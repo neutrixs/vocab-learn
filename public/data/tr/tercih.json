@@ -1,0 +1,56 @@
+{
+  "word": "tercih",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "preference, choice",
+  "sentences": [
+    {
+      "id": "tercih_s1",
+      "text": "Bu tamamen senin [tercihin].",
+      "note": null
+    },
+    {
+      "id": "tercih_s2",
+      "text": "Üniversite [tercihlerini] doldurman gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "tercih_s3",
+      "text": "Çay mı kahve mi? [Tercihin] nedir?",
+      "note": null
+    },
+    {
+      "id": "tercih_s4",
+      "text": "[Tercih] ettiğim yöntemi kullanacağım.",
+      "note": "Fiil olarak kullanım"
+    },
+    {
+      "id": "tercih_s5",
+      "text": "Farklı [tercihlerimiz] olsa da anlaşabiliyoruz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tercih_r1",
+      "prompt": "İki seçenek arasında birini seçtiğinde buna ne denir?",
+      "accepted_forms": [
+        "tercih",
+        "tercihim",
+        "tercihtir"
+      ],
+      "note": null
+    },
+    {
+      "id": "tercih_r2",
+      "prompt": "Biri sana ne istediğini soruyor. 'Bu senin ___.' diyorsun.",
+      "accepted_forms": [
+        "tercihin",
+        "tercih",
+        "seçimin"
+      ],
+      "note": null
+    }
+  ]
+}

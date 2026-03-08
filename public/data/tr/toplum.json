@@ -1,0 +1,56 @@
+{
+  "word": "toplum",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "society, community",
+  "sentences": [
+    {
+      "id": "toplum_s1",
+      "text": "Sanat, [toplumu] yansıtan bir ayadır.",
+      "note": null
+    },
+    {
+      "id": "toplum_s2",
+      "text": "Bu yasa [toplumun] büyük bir bölümünü etkiliyor.",
+      "note": null
+    },
+    {
+      "id": "toplum_s3",
+      "text": "[Toplumda] herkesin eşit haklara sahip olması gerekir.",
+      "note": null
+    },
+    {
+      "id": "toplum_s4",
+      "text": "Bireyler ve [toplum] arasındaki denge önemlidir.",
+      "note": null
+    },
+    {
+      "id": "toplum_s5",
+      "text": "Bu sorun [toplumsal] bir farkındalık gerektiriyor.",
+      "note": "Sıfat türevi"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "toplum_r1",
+      "prompt": "İnsanların birlikte yaşadığı, ortak değerleri olan büyük insan grubuna ne denir?",
+      "accepted_forms": [
+        "toplum",
+        "toplumu",
+        "toplumdur"
+      ],
+      "note": null
+    },
+    {
+      "id": "toplum_r2",
+      "prompt": "Bir politikacı konuşmasında herkesi kapsayan bir değişiklikten söz ediyor. '___ için daha iyi bir gelecek istiyoruz.'",
+      "accepted_forms": [
+        "toplum",
+        "toplumun",
+        "topluma"
+      ],
+      "note": null
+    }
+  ]
+}

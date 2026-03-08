@@ -1,0 +1,56 @@
+{
+  "word": "başarı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "success, achievement",
+  "sentences": [
+    {
+      "id": "başarı_s1",
+      "text": "Bu ödül yıllarca süren çalışmanın [başarısıdır].",
+      "note": null
+    },
+    {
+      "id": "başarı_s2",
+      "text": "[Başarı] sadece şansla değil, emekle gelir.",
+      "note": null
+    },
+    {
+      "id": "başarı_s3",
+      "text": "Sınıftaki [başarısı] herkesi şaşırttı.",
+      "note": null
+    },
+    {
+      "id": "başarı_s4",
+      "text": "[Başarılarını] kutlamak için bir araya geldik.",
+      "note": null
+    },
+    {
+      "id": "başarı_s5",
+      "text": "Bu projedeki [başarı] tüm ekibin emeğinin ürünüdür.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "başarı_r1",
+      "prompt": "Bir hedefi gerçekleştirdiğinde elde ettiğin şeye ne denir?",
+      "accepted_forms": [
+        "başarı",
+        "başarıdır",
+        "başarım"
+      ],
+      "note": null
+    },
+    {
+      "id": "başarı_r2",
+      "prompt": "Arkadaşın sınavı çok iyi geçti. Ona ne diyorsun? 'Bu harika bir ___!'",
+      "accepted_forms": [
+        "başarı",
+        "başarıdır",
+        "başarın"
+      ],
+      "note": null
+    }
+  ]
+}

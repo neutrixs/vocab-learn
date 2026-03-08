@@ -1,0 +1,56 @@
+{
+  "word": "ilişki",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "relationship, connection, relation",
+  "sentences": [
+    {
+      "id": "ilişki_s1",
+      "text": "Onunla olan [ilişkim] son zamanlarda bozuldu.",
+      "note": null
+    },
+    {
+      "id": "ilişki_s2",
+      "text": "İki ülke arasındaki [ilişkiler] gelişiyor.",
+      "note": null
+    },
+    {
+      "id": "ilişki_s3",
+      "text": "Sağlıklı bir [ilişki] karşılıklı saygıya dayanır.",
+      "note": null
+    },
+    {
+      "id": "ilişki_s4",
+      "text": "Bu iki olay arasında doğrudan bir [ilişki] var.",
+      "note": "Bağlantı anlamında"
+    },
+    {
+      "id": "ilişki_s5",
+      "text": "İş [ilişkilerini] iyi tutmak kariyer açısından önemlidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ilişki_r1",
+      "prompt": "İki kişi arasındaki duygusal bağa ne denir?",
+      "accepted_forms": [
+        "ilişki",
+        "ilişkidir",
+        "ilişkiye"
+      ],
+      "note": null
+    },
+    {
+      "id": "ilişki_r2",
+      "prompt": "İki olay arasında bir bağlantı olduğunu söylüyorsun. 'Bu iki şey arasında bir ___ var.'",
+      "accepted_forms": [
+        "ilişki",
+        "ilişkisi",
+        "bağlantı"
+      ],
+      "note": null
+    }
+  ]
+}

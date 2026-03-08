@@ -1,0 +1,55 @@
+{
+  "word": "anlam",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "meaning, sense",
+  "sentences": [
+    {
+      "id": "anlam_s1",
+      "text": "Bu kelimenin [anlamını] bilmiyorum.",
+      "note": null
+    },
+    {
+      "id": "anlam_s2",
+      "text": "Hayatın [anlamını] aramak evrensel bir ihtiyaçtır.",
+      "note": null
+    },
+    {
+      "id": "anlam_s3",
+      "text": "Bu cümle iki farklı [anlama] gelebilir.",
+      "note": null
+    },
+    {
+      "id": "anlam_s4",
+      "text": "Söylediklerinin [anlamını] tam kavrayamadım.",
+      "note": null
+    },
+    {
+      "id": "anlam_s5",
+      "text": "[Anlamlı] bir iş yapmak beni mutlu ediyor.",
+      "note": "Sıfat türevi"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "anlam_r1",
+      "prompt": "Sözlükte bir kelimeyi aradığında ne buluyorsun?",
+      "accepted_forms": [
+        "anlam",
+        "anlamı",
+        "anlamını"
+      ],
+      "note": null
+    },
+    {
+      "id": "anlam_r2",
+      "prompt": "Birinin söylediği şeyi tam anlayamadın. Ne diyorsun? 'Bunun ___ nedir?'",
+      "accepted_forms": [
+        "anlamı",
+        "anlam"
+      ],
+      "note": null
+    }
+  ]
+}

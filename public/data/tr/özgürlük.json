@@ -1,0 +1,56 @@
+{
+  "word": "özgürlük",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "freedom, liberty",
+  "sentences": [
+    {
+      "id": "özgürlük_s1",
+      "text": "[Özgürlük] en temel insan haklarından biridir.",
+      "note": null
+    },
+    {
+      "id": "özgürlük_s2",
+      "text": "Üniversiteye gidince gerçek [özgürlüğü] tattım.",
+      "note": null
+    },
+    {
+      "id": "özgürlük_s3",
+      "text": "İfade [özgürlüğü] demokratik toplumların temelidir.",
+      "note": null
+    },
+    {
+      "id": "özgürlük_s4",
+      "text": "Bu kısıtlamalar bireysel [özgürlüğü] engelliyor.",
+      "note": null
+    },
+    {
+      "id": "özgürlük_s5",
+      "text": "[Özgürce] yaşamak herkesin hakkıdır.",
+      "note": "Zarf türevi"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "özgürlük_r1",
+      "prompt": "Baskı veya kısıtlama olmadan yaşayabilme durumuna ne denir?",
+      "accepted_forms": [
+        "özgürlük",
+        "özgürlüktür",
+        "özgürlüğü"
+      ],
+      "note": null
+    },
+    {
+      "id": "özgürlük_r2",
+      "prompt": "Kendi kararlarını verebilme ve istediğin gibi yaşayabilme hakkından bahsediyorsun. 'Herkesin ___ hakkı var.'",
+      "accepted_forms": [
+        "özgürlük",
+        "özgürlüğü",
+        "özgür olma"
+      ],
+      "note": null
+    }
+  ]
+}

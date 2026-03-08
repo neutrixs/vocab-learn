@@ -1,0 +1,56 @@
+{
+  "word": "öneri",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "suggestion, proposal, recommendation",
+  "sentences": [
+    {
+      "id": "öneri_s1",
+      "text": "Bir [önerim] var, dinler misin?",
+      "note": null
+    },
+    {
+      "id": "öneri_s2",
+      "text": "Komite [önerisini] oybirliğiyle kabul etti.",
+      "note": null
+    },
+    {
+      "id": "öneri_s3",
+      "text": "Restoran için bir [öneride] bulunabilir misin?",
+      "note": null
+    },
+    {
+      "id": "öneri_s4",
+      "text": "[Önerilerini] dikkate alacağız.",
+      "note": null
+    },
+    {
+      "id": "öneri_s5",
+      "text": "Bu [öneri] bence çok mantıklı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "öneri_r1",
+      "prompt": "Birine ne yapması gerektiği hakkında bir fikir paylaşıyorsun. Buna ne denir?",
+      "accepted_forms": [
+        "öneri",
+        "önerim",
+        "öneridir"
+      ],
+      "note": null
+    },
+    {
+      "id": "öneri_r2",
+      "prompt": "Arkadaşına gidilecek bir yer söylemesini istiyorsun. 'Bir ___ de bulunur musun?'",
+      "accepted_forms": [
+        "öneri",
+        "öneride",
+        "önerim"
+      ],
+      "note": null
+    }
+  ]
+}

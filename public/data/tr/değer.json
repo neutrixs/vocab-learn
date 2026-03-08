@@ -1,0 +1,55 @@
+{
+  "word": "değer",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "value, worth",
+  "sentences": [
+    {
+      "id": "değer_s1",
+      "text": "Bu antikanın [değeri] binlerce lirayı buluyor.",
+      "note": null
+    },
+    {
+      "id": "değer_s2",
+      "text": "Dürüstlük benim için vazgeçilmez bir [değerdir].",
+      "note": null
+    },
+    {
+      "id": "değer_s3",
+      "text": "Zamanın [değerini] ancak kaybedince anlıyoruz.",
+      "note": null
+    },
+    {
+      "id": "değer_s4",
+      "text": "Aile [değerleri] toplumun temelini oluşturur.",
+      "note": null
+    },
+    {
+      "id": "değer_s5",
+      "text": "Bu teklifin [değerini] küçümseme.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "değer_r1",
+      "prompt": "Bir şeyin ne kadar önemli veya kıymetli olduğunu ifade eden kavrama ne denir?",
+      "accepted_forms": [
+        "değer",
+        "değeri",
+        "değerdir"
+      ],
+      "note": null
+    },
+    {
+      "id": "değer_r2",
+      "prompt": "Bir eşyanın fiyatını veya önemini soruyorsun. 'Bu tablonun ___ nedir?'",
+      "accepted_forms": [
+        "değeri",
+        "değer"
+      ],
+      "note": null
+    }
+  ]
+}

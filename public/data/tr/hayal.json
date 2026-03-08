@@ -1,0 +1,56 @@
+{
+  "word": "hayal",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "dream, imagination",
+  "sentences": [
+    {
+      "id": "hayal_s1",
+      "text": "Çocukluğumdan beri astronot olmak [hayalimdi].",
+      "note": null
+    },
+    {
+      "id": "hayal_s2",
+      "text": "[Hayallerinden] vazgeçme!",
+      "note": "Olumsuz emir"
+    },
+    {
+      "id": "hayal_s3",
+      "text": "Bu bir [hayal] mi gerçek mi, anlayamıyorum.",
+      "note": null
+    },
+    {
+      "id": "hayal_s4",
+      "text": "[Hayal] kurmak yaratıcılığın başlangıcıdır.",
+      "note": null
+    },
+    {
+      "id": "hayal_s5",
+      "text": "O anı [hayal] etmek bile beni heyecanlandırıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hayal_r1",
+      "prompt": "Gerçekleşmesini istediğin ama henüz olmamış bir şeye ne denir?",
+      "accepted_forms": [
+        "hayal",
+        "hayalim",
+        "hayaldir"
+      ],
+      "note": null
+    },
+    {
+      "id": "hayal_r2",
+      "prompt": "Birisi çok büyük ve gerçekleşmesi zor şeyler anlatıyor. 'Bu sadece bir ___.' diyorsun.",
+      "accepted_forms": [
+        "hayal",
+        "hayaldir",
+        "hayal gibi"
+      ],
+      "note": null
+    }
+  ]
+}

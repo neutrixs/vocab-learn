@@ -1,0 +1,56 @@
+{
+  "word": "gerçek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "truth, reality; (adj) real, true",
+  "sentences": [
+    {
+      "id": "gerçek_s1",
+      "text": "Bana [gerçeği] söyle, lütfen.",
+      "note": null
+    },
+    {
+      "id": "gerçek_s2",
+      "text": "Bu [gerçeği] kabullenmek zor.",
+      "note": null
+    },
+    {
+      "id": "gerçek_s3",
+      "text": "[Gerçek] bir arkadaş zor günlerde yanında olur.",
+      "note": "Sıfat olarak kullanım"
+    },
+    {
+      "id": "gerçek_s4",
+      "text": "Hayalden [gerçeğe] dönmek bazen acı verir.",
+      "note": null
+    },
+    {
+      "id": "gerçek_s5",
+      "text": "[Gerçekte] ne olduğunu kimse bilmiyor.",
+      "note": "Zarf olarak"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gerçek_r1",
+      "prompt": "Birinden doğru ve dürüst bilgi vermesini istiyorsun. Ne diyorsun?",
+      "accepted_forms": [
+        "gerçeği söyle",
+        "gerçeği",
+        "gerçek söyle"
+      ],
+      "note": null
+    },
+    {
+      "id": "gerçek_r2",
+      "prompt": "Bir şeyin gerçek mi hayal mi olduğunu sorguluyorsun. 'Bu ___ mi, yoksa hayal mi?'",
+      "accepted_forms": [
+        "gerçek",
+        "gerçekten",
+        "gerçeği"
+      ],
+      "note": null
+    }
+  ]
+}

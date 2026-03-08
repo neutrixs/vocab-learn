@@ -1,0 +1,55 @@
+{
+  "word": "fırsat",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "opportunity, chance",
+  "sentences": [
+    {
+      "id": "fırsat_s1",
+      "text": "Bu iş teklifi kaçırılmaması gereken bir [fırsat].",
+      "note": null
+    },
+    {
+      "id": "fırsat_s2",
+      "text": "Her zorluğun içinde bir [fırsat] saklıdır.",
+      "note": null
+    },
+    {
+      "id": "fırsat_s3",
+      "text": "Bu [fırsatı] değerlendirmeliyim.",
+      "note": null
+    },
+    {
+      "id": "fırsat_s4",
+      "text": "Yurt dışında okumak büyük bir [fırsat]tı.",
+      "note": null
+    },
+    {
+      "id": "fırsat_s5",
+      "text": "Bir daha böyle bir [fırsat] çıkmayabilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "fırsat_r1",
+      "prompt": "Sana çok iyi bir iş teklifi geldi. Bunu tek kelimeyle nasıl tanımlarsın?",
+      "accepted_forms": [
+        "fırsat",
+        "bir fırsat",
+        "fırsattır"
+      ],
+      "note": null
+    },
+    {
+      "id": "fırsat_r2",
+      "prompt": "Arkadaşına kaçırmak istemediğin bir şeyden bahsediyorsun. 'Bu ___ kesinlikle değerlendirmeliyiz.'",
+      "accepted_forms": [
+        "fırsatı",
+        "fırsat"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "word": "sorumluluk",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "responsibility",
+  "sentences": [
+    {
+      "id": "sorumluluk_s1",
+      "text": "Bu projenin [sorumluluğunu] üstlendim.",
+      "note": null
+    },
+    {
+      "id": "sorumluluk_s2",
+      "text": "Ebeveynlik büyük bir [sorumluluk] gerektirir.",
+      "note": null
+    },
+    {
+      "id": "sorumluluk_s3",
+      "text": "Kendi hatalarının [sorumluluğunu] kabul etmek olgunluktur.",
+      "note": null
+    },
+    {
+      "id": "sorumluluk_s4",
+      "text": "Bu [sorumluluk] benim için çok ağır.",
+      "note": null
+    },
+    {
+      "id": "sorumluluk_s5",
+      "text": "Herkesin topluma karşı bir [sorumluluğu] var.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sorumluluk_r1",
+      "prompt": "Bir işi veya görevi üstlenen kişinin taşıdığı yükümlülüğe ne denir?",
+      "accepted_forms": [
+        "sorumluluk",
+        "sorumluluğu",
+        "sorumluluktur"
+      ],
+      "note": null
+    },
+    {
+      "id": "sorumluluk_r2",
+      "prompt": "Yaptığın bir hatayı kabul edip özür dilemek hangi duygunun göstergesi? 'Bu hatanın ___ kabul ediyorum.'",
+      "accepted_forms": [
+        "sorumluluğunu",
+        "sorumluluğu"
+      ],
+      "note": null
+    }
+  ]
+}

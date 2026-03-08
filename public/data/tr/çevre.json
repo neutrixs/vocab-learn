@@ -1,0 +1,55 @@
+{
+  "word": "çevre",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "environment, surroundings, circle (of people)",
+  "sentences": [
+    {
+      "id": "çevre_s1",
+      "text": "[Çevreyi] korumak hepimizin görevidir.",
+      "note": null
+    },
+    {
+      "id": "çevre_s2",
+      "text": "Geniş bir sosyal [çevresi] var, herkesi tanıyor.",
+      "note": "Sosyal çevre anlamında"
+    },
+    {
+      "id": "çevre_s3",
+      "text": "Bu fabrika [çevreye] zarar veriyor.",
+      "note": null
+    },
+    {
+      "id": "çevre_s4",
+      "text": "Yeni şehirde [çevreme] alışmak zaman aldı.",
+      "note": null
+    },
+    {
+      "id": "çevre_s5",
+      "text": "[Çevre] kirliliği küresel bir sorun haline geldi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çevre_r1",
+      "prompt": "Fabrikaların ve arabaların doğaya verdiği zarardan bahsediyorsun. 'Bu durum ___ olumsuz etkiliyor.'",
+      "accepted_forms": [
+        "çevreyi",
+        "çevre",
+        "doğayı"
+      ],
+      "note": null
+    },
+    {
+      "id": "çevre_r2",
+      "prompt": "Birinin geniş bir arkadaş ve iş ağı olduğunu anlatıyorsun. 'Çok geniş bir sosyal ___ var.'",
+      "accepted_forms": [
+        "çevresi",
+        "çevre"
+      ],
+      "note": null
+    }
+  ]
+}
