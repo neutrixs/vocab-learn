@@ -70,7 +70,7 @@ For **each word**, produce a JSON object matching this schema exactly:
 - 2 = intermediate (B1)
 - 3 = advanced (B2+)
 
-**File naming:** Turkish special characters are replaced in filenames: ç→c, ğ→g, ı→i, ö→o, ş→s, ü→u — but the `"word"` field keeps the proper spelling.
+**File naming:** Use the word as-is for the filename — Turkish diacritics (ç, ğ, ı, ö, ş, ü) are preserved. Both `"word"` and `"file"` fields use the same spelling.
 
 ---
 
@@ -78,7 +78,7 @@ For **each word**, produce a JSON object matching this schema exactly:
 
 For each generated word:
 
-1. Determine the filename: replace ç→c, ğ→g, ı→i, ö→o, ş→s, ü→u in the word.
+1. The filename is `{word}.json` — keep Turkish diacritics as-is (ç, ğ, ı, ö, ş, ü stay in the filename).
 2. Check if `public/data/tr/{filename}.json` exists.
    - If it exists and `--replace` was NOT specified: **skip it** and note it was skipped.
    - If it exists and `--replace` was specified: overwrite it.
