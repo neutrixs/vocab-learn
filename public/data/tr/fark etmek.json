@@ -1,0 +1,56 @@
+{
+  "word": "fark etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to notice, to realize",
+  "sentences": [
+    {
+      "id": "fark etmek_s1",
+      "text": "Saçını kestiğini hemen [fark ettim].",
+      "note": null
+    },
+    {
+      "id": "fark etmek_s2",
+      "text": "Hata yaptığını çok geç [fark etti].",
+      "note": null
+    },
+    {
+      "id": "fark etmek_s3",
+      "text": "Kimse [fark etmeden] sessizce çıktı.",
+      "note": null
+    },
+    {
+      "id": "fark etmek_s4",
+      "text": "Bu değişikliği [fark ettin] mi?",
+      "note": null
+    },
+    {
+      "id": "fark etmek_s5",
+      "text": "Ne kadar yorgun göründüğünü [fark ettim].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "fark etmek_r1",
+      "prompt": "Bir şeyin değiştiğini veya var olduğunu gözlemledin. Ne yaptın?",
+      "accepted_forms": [
+        "fark ettim",
+        "fark etim",
+        "fark ettik"
+      ],
+      "note": null
+    },
+    {
+      "id": "fark etmek_r2",
+      "prompt": "Birinden bir şeyi gözden kaçırıp kaçırmadığını soruyorsun. 'Bunu ___ mi?'",
+      "accepted_forms": [
+        "fark ettin",
+        "fark ettiniz",
+        "fark etti"
+      ],
+      "note": null
+    }
+  ]
+}

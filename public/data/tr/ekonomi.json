@@ -1,0 +1,56 @@
+{
+  "word": "ekonomi",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "economy, economics",
+  "sentences": [
+    {
+      "id": "ekonomi_s1",
+      "text": "Ülkenin [ekonomisi] son yıllarda büyüdü.",
+      "note": null
+    },
+    {
+      "id": "ekonomi_s2",
+      "text": "[Ekonomik] kriz pek çok aileyi etkiledi.",
+      "note": "Sıfat türevi"
+    },
+    {
+      "id": "ekonomi_s3",
+      "text": "Küresel [ekonomi] sürekli değişiyor.",
+      "note": null
+    },
+    {
+      "id": "ekonomi_s4",
+      "text": "[Ekonomi] dersinde piyasa sistemlerini inceledik.",
+      "note": null
+    },
+    {
+      "id": "ekonomi_s5",
+      "text": "Enflasyon [ekonomiyi] olumsuz etkiliyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ekonomi_r1",
+      "prompt": "Bir ülkenin üretim, tüketim ve para sistemiyle ilgili alana ne denir?",
+      "accepted_forms": [
+        "ekonomi",
+        "ekonomidir",
+        "ekonomisi"
+      ],
+      "note": null
+    },
+    {
+      "id": "ekonomi_r2",
+      "prompt": "Haberlerde fiyat artışlarının ülkeyi nasıl etkilediğinden bahsediliyor. 'Bu durum ___ etkiliyor.'",
+      "accepted_forms": [
+        "ekonomiyi",
+        "ekonomi",
+        "ekonomimizi"
+      ],
+      "note": null
+    }
+  ]
+}

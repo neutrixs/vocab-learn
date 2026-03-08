@@ -1,0 +1,56 @@
+{
+  "word": "karşılaşmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to encounter, to come across, to face",
+  "sentences": [
+    {
+      "id": "karşılaşmak_s1",
+      "text": "Bugün beklenmedik bir sorunla [karşılaştım].",
+      "note": null
+    },
+    {
+      "id": "karşılaşmak_s2",
+      "text": "Hayatta pek çok zorlukla [karşılaşacaksın].",
+      "note": null
+    },
+    {
+      "id": "karşılaşmak_s3",
+      "text": "Yıllar sonra eski bir arkadaşımla [karşılaştım].",
+      "note": null
+    },
+    {
+      "id": "karşılaşmak_s4",
+      "text": "Bu tür engellerle [karşılaşmak] normaldir.",
+      "note": null
+    },
+    {
+      "id": "karşılaşmak_s5",
+      "text": "Hiç beklemediğim bir durumla [karşılaştım].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "karşılaşmak_r1",
+      "prompt": "İş hayatında beklenmedik bir problemle yüz yüze geldin. Ne diyorsun?",
+      "accepted_forms": [
+        "karşılaştım",
+        "karşılaşıyorum",
+        "karşılaştık"
+      ],
+      "note": null
+    },
+    {
+      "id": "karşılaşmak_r2",
+      "prompt": "Sokakta yıllardır görmediğin biriyle aniden karşılaştın. Bunu nasıl ifade edersin?",
+      "accepted_forms": [
+        "karşılaştım",
+        "karşılaşıyorum",
+        "karşılaşabildim"
+      ],
+      "note": null
+    }
+  ]
+}

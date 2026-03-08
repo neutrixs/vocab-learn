@@ -1,0 +1,56 @@
+{
+  "word": "yetenek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "talent, skill, ability",
+  "sentences": [
+    {
+      "id": "yetenek_s1",
+      "text": "Müzikal [yeteneği] küçük yaşta keşfedildi.",
+      "note": null
+    },
+    {
+      "id": "yetenek_s2",
+      "text": "Bu iş için gerekli [yeteneklere] sahipsin.",
+      "note": null
+    },
+    {
+      "id": "yetenek_s3",
+      "text": "[Yetenek] önemli, ama çalışmak daha önemli.",
+      "note": null
+    },
+    {
+      "id": "yetenek_s4",
+      "text": "Liderlik [yeteneğini] geliştirmek istiyorum.",
+      "note": null
+    },
+    {
+      "id": "yetenek_s5",
+      "text": "Herkesin farklı [yetenekleri] vardır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yetenek_r1",
+      "prompt": "Doğuştan ya da pratikle kazanılan özel bir beceriye ne denir?",
+      "accepted_forms": [
+        "yetenek",
+        "yetenektir",
+        "yeteneği"
+      ],
+      "note": null
+    },
+    {
+      "id": "yetenek_r2",
+      "prompt": "Birinin çizmede çok iyi olduğunu söylüyorsun. 'Çizim konusunda büyük bir ___ var.'",
+      "accepted_forms": [
+        "yeteneği",
+        "yetenek",
+        "yetenekte"
+      ],
+      "note": null
+    }
+  ]
+}

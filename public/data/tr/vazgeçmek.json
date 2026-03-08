@@ -1,0 +1,56 @@
+{
+  "word": "vazgeçmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to give up, to abandon, to quit",
+  "sentences": [
+    {
+      "id": "vazgeçmek_s1",
+      "text": "Ne kadar zor olursa olsun [vazgeçmeyeceğim].",
+      "note": null
+    },
+    {
+      "id": "vazgeçmek_s2",
+      "text": "Hayallerinden asla [vazgeçme]!",
+      "note": "Olumsuz emir"
+    },
+    {
+      "id": "vazgeçmek_s3",
+      "text": "Uzun uğraşların ardından [vazgeçti].",
+      "note": null
+    },
+    {
+      "id": "vazgeçmek_s4",
+      "text": "Bu projeden [vazgeçmek] istemiyorum.",
+      "note": null
+    },
+    {
+      "id": "vazgeçmek_s5",
+      "text": "[Vazgeçmeden] önce bir kez daha dene.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "vazgeçmek_r1",
+      "prompt": "Çok çalıştığın bir şeyi bırakmayı düşünüyorsun. Arkadaşın sana ne diyor?",
+      "accepted_forms": [
+        "vazgeçme",
+        "vazgeçme sakın",
+        "vazgeçmemelisin"
+      ],
+      "note": null
+    },
+    {
+      "id": "vazgeçmek_r2",
+      "prompt": "Bir kişi uzun süre uğraştığı projeyi terk etti. Bu durumu nasıl ifade edersin?",
+      "accepted_forms": [
+        "vazgeçti",
+        "vazgeçmiş",
+        "bıraktı"
+      ],
+      "note": null
+    }
+  ]
+}

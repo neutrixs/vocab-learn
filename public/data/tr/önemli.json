@@ -1,0 +1,55 @@
+{
+  "word": "önemli",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "important, significant",
+  "sentences": [
+    {
+      "id": "önemli_s1",
+      "text": "Bu karar çok [önemli], dikkatlice düşün.",
+      "note": null
+    },
+    {
+      "id": "önemli_s2",
+      "text": "Sağlık her şeyden daha [önemlidir].",
+      "note": null
+    },
+    {
+      "id": "önemli_s3",
+      "text": "[Önemli] bir toplantım var, geç kalamam.",
+      "note": null
+    },
+    {
+      "id": "önemli_s4",
+      "text": "Bu detay küçük görünüyor ama aslında çok [önemli].",
+      "note": null
+    },
+    {
+      "id": "önemli_s5",
+      "text": "Hayatımda en [önemli] şey ailemdir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "önemli_r1",
+      "prompt": "Bir şeyin büyük değer taşıdığını, göz ardı edilemeyeceğini söylemek istiyorsun. Nasıl ifade edersin?",
+      "accepted_forms": [
+        "önemli",
+        "önemlidir",
+        "çok önemli"
+      ],
+      "note": null
+    },
+    {
+      "id": "önemli_r2",
+      "prompt": "Birini randevuya yetişmesi gerektiği konusunda uyarıyorsun. 'Bu toplantı çok ___.'",
+      "accepted_forms": [
+        "önemli",
+        "önemlidir"
+      ],
+      "note": null
+    }
+  ]
+}

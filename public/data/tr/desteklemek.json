@@ -1,0 +1,56 @@
+{
+  "word": "desteklemek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to support, to back",
+  "sentences": [
+    {
+      "id": "desteklemek_s1",
+      "text": "Seni her zaman [destekleyeceğim].",
+      "note": null
+    },
+    {
+      "id": "desteklemek_s2",
+      "text": "Bu projeyi kim [destekliyor]?",
+      "note": null
+    },
+    {
+      "id": "desteklemek_s3",
+      "text": "Ailesi kararını tam olarak [destekledi].",
+      "note": null
+    },
+    {
+      "id": "desteklemek_s4",
+      "text": "Yerel sanatçıları [desteklemek] önemlidir.",
+      "note": null
+    },
+    {
+      "id": "desteklemek_s5",
+      "text": "Bu görüşü verilerle [destekleyemiyorum].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "desteklemek_r1",
+      "prompt": "Arkadaşın zor bir dönemde. Ona yanında olduğunu söylüyorsun. Ne diyorsun?",
+      "accepted_forms": [
+        "destekleyeceğim",
+        "destekliyorum",
+        "destek olacağım"
+      ],
+      "note": null
+    },
+    {
+      "id": "desteklemek_r2",
+      "prompt": "Bir proje için fon ve kaynak sağlayan kişiler ne yapıyor?",
+      "accepted_forms": [
+        "destekliyor",
+        "destekliyorlar",
+        "desteklemek"
+      ],
+      "note": null
+    }
+  ]
+}

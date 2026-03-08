@@ -1,0 +1,56 @@
+{
+  "word": "çözüm",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "solution, resolution",
+  "sentences": [
+    {
+      "id": "çözüm_s1",
+      "text": "Bu soruna bir [çözüm] bulmamız lazım.",
+      "note": null
+    },
+    {
+      "id": "çözüm_s2",
+      "text": "Önerdiğin [çözüm] işe yarayabilir.",
+      "note": null
+    },
+    {
+      "id": "çözüm_s3",
+      "text": "Her problemin bir [çözümü] vardır.",
+      "note": null
+    },
+    {
+      "id": "çözüm_s4",
+      "text": "[Çözüm] odaklı düşünmek önemli bir beceridir.",
+      "note": null
+    },
+    {
+      "id": "çözüm_s5",
+      "text": "Kalıcı bir [çözüm] için daha fazla çalışmamız gerekiyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çözüm_r1",
+      "prompt": "Bir problemi ortadan kaldıran yanıta ne denir?",
+      "accepted_forms": [
+        "çözüm",
+        "çözümdür",
+        "çözümü"
+      ],
+      "note": null
+    },
+    {
+      "id": "çözüm_r2",
+      "prompt": "Toplantıda bir sorun var ve herkes bir yol arıyor. 'Bir ___ bulmamız gerekiyor.'",
+      "accepted_forms": [
+        "çözüm",
+        "çözüme",
+        "çözüm yolu"
+      ],
+      "note": null
+    }
+  ]
+}

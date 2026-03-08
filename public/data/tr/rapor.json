@@ -1,0 +1,56 @@
+{
+  "word": "rapor",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "report",
+  "sentences": [
+    {
+      "id": "rapor_s1",
+      "text": "Aylık [raporu] bugün teslim etmem gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "rapor_s2",
+      "text": "Doktor [raporu] olmadan işe giremezsin.",
+      "note": null
+    },
+    {
+      "id": "rapor_s3",
+      "text": "[Raporu] okuyunca sonuçlara şaşırdım.",
+      "note": null
+    },
+    {
+      "id": "rapor_s4",
+      "text": "Araştırma [raporunu] hazırladım, inceleyebilirsin.",
+      "note": null
+    },
+    {
+      "id": "rapor_s5",
+      "text": "[Rapor] yazmak zaman alıyor ama gerekli.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "rapor_r1",
+      "prompt": "Bir konuyu yazılı olarak belgeleyen ve sunulan resmi belgeye ne denir?",
+      "accepted_forms": [
+        "rapor",
+        "rapordur",
+        "raporu"
+      ],
+      "note": null
+    },
+    {
+      "id": "rapor_r2",
+      "prompt": "Patronun senden toplantı öncesi hazır olmasını istediği yazılı özet nedir?",
+      "accepted_forms": [
+        "rapor",
+        "raporumu",
+        "raporu"
+      ],
+      "note": null
+    }
+  ]
+}

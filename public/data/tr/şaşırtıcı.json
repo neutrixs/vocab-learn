@@ -1,0 +1,55 @@
+{
+  "word": "şaşırtıcı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "surprising, astonishing",
+  "sentences": [
+    {
+      "id": "şaşırtıcı_s1",
+      "text": "Bu [şaşırtıcı] sonucu kimse beklemiyordu.",
+      "note": null
+    },
+    {
+      "id": "şaşırtıcı_s2",
+      "text": "Onun bu kadar hızlı öğrenmesi gerçekten [şaşırtıcı].",
+      "note": null
+    },
+    {
+      "id": "şaşırtıcı_s3",
+      "text": "Dünya hakkında [şaşırtıcı] gerçekler var.",
+      "note": null
+    },
+    {
+      "id": "şaşırtıcı_s4",
+      "text": "Bu kadar uyumlu olmaları [şaşırtıcı] değil mi?",
+      "note": null
+    },
+    {
+      "id": "şaşırtıcı_s5",
+      "text": "Film [şaşırtıcı] bir finalle bitti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şaşırtıcı_r1",
+      "prompt": "Kimsenin beklemediği ve herkesi hayrete düşüren bir sonucu nasıl tanımlarsın?",
+      "accepted_forms": [
+        "şaşırtıcı",
+        "şaşırtıcıydı",
+        "şaşırtıcı bir sonuç"
+      ],
+      "note": null
+    },
+    {
+      "id": "şaşırtıcı_r2",
+      "prompt": "Beklenmedik bir finalı olan filmi arkadaşına anlatıyorsun. 'Sonu çok ___ bitti.'",
+      "accepted_forms": [
+        "şaşırtıcı",
+        "şaşırtıcıydı"
+      ],
+      "note": null
+    }
+  ]
+}

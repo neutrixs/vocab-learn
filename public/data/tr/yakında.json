@@ -1,0 +1,56 @@
+{
+  "word": "yakında",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adverb",
+  "english_gloss": "soon, nearby",
+  "sentences": [
+    {
+      "id": "yakında_s1",
+      "text": "[Yakında] görüşürüz, değil mi?",
+      "note": null
+    },
+    {
+      "id": "yakında_s2",
+      "text": "Yeni şubemiz [yakında] açılıyor.",
+      "note": null
+    },
+    {
+      "id": "yakında_s3",
+      "text": "Markete [yakında] gideceğim, bir şey lazım mı?",
+      "note": null
+    },
+    {
+      "id": "yakında_s4",
+      "text": "Bu konuda [yakında] bir karar alınacak.",
+      "note": null
+    },
+    {
+      "id": "yakında_s5",
+      "text": "Film [yakında] vizyona girecek.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yakında_r1",
+      "prompt": "Birisiyle kısa süre sonra tekrar buluşacaksın. Vedalaşırken ne diyorsun?",
+      "accepted_forms": [
+        "yakında görüşürüz",
+        "yakında",
+        "görüşürüz"
+      ],
+      "note": null
+    },
+    {
+      "id": "yakında_r2",
+      "prompt": "Bir ürünün çok geçmeden piyasaya çıkacağını söylüyorsun. 'Bu ürün ___ çıkacak.'",
+      "accepted_forms": [
+        "yakında",
+        "kısa sürede",
+        "yakında piyasaya"
+      ],
+      "note": null
+    }
+  ]
+}

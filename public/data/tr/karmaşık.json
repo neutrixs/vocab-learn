@@ -1,0 +1,56 @@
+{
+  "word": "karmaşık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "complex, complicated",
+  "sentences": [
+    {
+      "id": "karmaşık_s1",
+      "text": "Bu problem düşündüğümden çok daha [karmaşık].",
+      "note": null
+    },
+    {
+      "id": "karmaşık_s2",
+      "text": "[Karmaşık] bir süreçten geçiyoruz.",
+      "note": null
+    },
+    {
+      "id": "karmaşık_s3",
+      "text": "Türkçe dil bilgisi bazen [karmaşık] gelebilir.",
+      "note": null
+    },
+    {
+      "id": "karmaşık_s4",
+      "text": "Bu konu o kadar [karmaşık] ki açıklamak zor.",
+      "note": null
+    },
+    {
+      "id": "karmaşık_s5",
+      "text": "[Karmaşık] durumlarla başa çıkmayı öğrenmek gerekiyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "karmaşık_r1",
+      "prompt": "Anlaması veya çözmesi çok zor, pek çok unsuru olan bir şeyi nasıl tanımlarsın?",
+      "accepted_forms": [
+        "karmaşık",
+        "karmaşıktır",
+        "karmaşık bir şey"
+      ],
+      "note": null
+    },
+    {
+      "id": "karmaşık_r2",
+      "prompt": "Çok fazla adımı olan zor bir süreci anlatıyorsun. 'Bu süreç gerçekten çok ___.'",
+      "accepted_forms": [
+        "karmaşık",
+        "karmaşıktı",
+        "karmaşık bir süreç"
+      ],
+      "note": null
+    }
+  ]
+}

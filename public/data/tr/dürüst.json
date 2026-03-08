@@ -1,0 +1,56 @@
+{
+  "word": "dürüst",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "honest, sincere",
+  "sentences": [
+    {
+      "id": "dürüst_s1",
+      "text": "Seninle [dürüst] olmak istiyorum.",
+      "note": null
+    },
+    {
+      "id": "dürüst_s2",
+      "text": "O çok [dürüst] bir insan, hiç yalan söylemez.",
+      "note": null
+    },
+    {
+      "id": "dürüst_s3",
+      "text": "[Dürüst] bir yanıt bekliyorum.",
+      "note": null
+    },
+    {
+      "id": "dürüst_s4",
+      "text": "[Dürüstlük] en önemli değerlerimden biridir.",
+      "note": "İsim türevi"
+    },
+    {
+      "id": "dürüst_s5",
+      "text": "Çalışanlarının [dürüst] olmasına büyük önem veriyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dürüst_r1",
+      "prompt": "Birine yalan söylemeden, açıkça bir şey söylemek istiyorsun. Ne diyorsun?",
+      "accepted_forms": [
+        "dürüst olmak istiyorum",
+        "dürüstçe",
+        "açıkça"
+      ],
+      "note": null
+    },
+    {
+      "id": "dürüst_r2",
+      "prompt": "Hiç yalan söylemeyen, her zaman gerçeği söyleyen birine ne denir?",
+      "accepted_forms": [
+        "dürüst",
+        "dürüst biri",
+        "dürüsttür"
+      ],
+      "note": null
+    }
+  ]
+}

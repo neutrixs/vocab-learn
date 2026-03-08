@@ -1,0 +1,56 @@
+{
+  "word": "eğitim",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "education, training",
+  "sentences": [
+    {
+      "id": "eğitim_s1",
+      "text": "[Eğitim] her insanın temel hakkıdır.",
+      "note": null
+    },
+    {
+      "id": "eğitim_s2",
+      "text": "İyi bir [eğitim] almak için çok çalıştım.",
+      "note": null
+    },
+    {
+      "id": "eğitim_s3",
+      "text": "Bu şirket çalışanlarına düzenli [eğitim] veriyor.",
+      "note": null
+    },
+    {
+      "id": "eğitim_s4",
+      "text": "[Eğitim] sistemi her ülkede farklıdır.",
+      "note": null
+    },
+    {
+      "id": "eğitim_s5",
+      "text": "Mesleki [eğitim] programına katıldım.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "eğitim_r1",
+      "prompt": "Okul, kurs veya öğretim yoluyla bilgi ve beceri kazanma sürecine ne denir?",
+      "accepted_forms": [
+        "eğitim",
+        "eğitimdir",
+        "eğitimi"
+      ],
+      "note": null
+    },
+    {
+      "id": "eğitim_r2",
+      "prompt": "Yeni işe başlayan birine verilen bilgilendirme programına ne denir?",
+      "accepted_forms": [
+        "eğitim",
+        "eğitim programı",
+        "eğitimi"
+      ],
+      "note": null
+    }
+  ]
+}

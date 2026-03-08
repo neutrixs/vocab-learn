@@ -1,0 +1,56 @@
+{
+  "word": "toplantı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "meeting",
+  "sentences": [
+    {
+      "id": "toplantı_s1",
+      "text": "Saat üçte önemli bir [toplantım] var.",
+      "note": null
+    },
+    {
+      "id": "toplantı_s2",
+      "text": "[Toplantı] iki saat sürdü.",
+      "note": null
+    },
+    {
+      "id": "toplantı_s3",
+      "text": "Bu [toplantıya] katılmak zorunda mıyım?",
+      "note": null
+    },
+    {
+      "id": "toplantı_s4",
+      "text": "[Toplantı] odası şu anda dolu.",
+      "note": null
+    },
+    {
+      "id": "toplantı_s5",
+      "text": "Haftalık [toplantıda] yeni projeyi tartıştık.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "toplantı_r1",
+      "prompt": "Bir grup insanın belirli bir konuyu görüşmek için bir araya geldiği etkinliğe ne denir?",
+      "accepted_forms": [
+        "toplantı",
+        "toplantıdır",
+        "toplantıya"
+      ],
+      "note": null
+    },
+    {
+      "id": "toplantı_r2",
+      "prompt": "İş arkadaşın saat üçte nerede olduğunu soruyor. '___ deyim.' diyorsun.",
+      "accepted_forms": [
+        "toplantıdayım",
+        "toplantıda",
+        "toplantım var"
+      ],
+      "note": null
+    }
+  ]
+}

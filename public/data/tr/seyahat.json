@@ -1,0 +1,56 @@
+{
+  "word": "seyahat",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "travel, journey, trip",
+  "sentences": [
+    {
+      "id": "seyahat_s1",
+      "text": "[Seyahat] etmek yeni kültürler tanımamı sağlıyor.",
+      "note": null
+    },
+    {
+      "id": "seyahat_s2",
+      "text": "Bu [seyahatte] çok güzel anılar biriktirdik.",
+      "note": null
+    },
+    {
+      "id": "seyahat_s3",
+      "text": "Uzun [seyahatlerden] sonra evim daha güzel geliyor.",
+      "note": null
+    },
+    {
+      "id": "seyahat_s4",
+      "text": "[Seyahat] planlarını önceden yapmak daha ekonomik.",
+      "note": null
+    },
+    {
+      "id": "seyahat_s5",
+      "text": "İş [seyahati] için İstanbul'a gidiyorum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "seyahat_r1",
+      "prompt": "Bir yerden başka bir yere gitmek için yapılan yolculuğa ne denir?",
+      "accepted_forms": [
+        "seyahat",
+        "seyahattir",
+        "seyahati"
+      ],
+      "note": null
+    },
+    {
+      "id": "seyahat_r2",
+      "prompt": "Tatilde farklı ülkeleri gezip gördüğünü anlatıyorsun. 'Bu ___ çok keyifliydi.'",
+      "accepted_forms": [
+        "seyahat",
+        "seyahatte",
+        "seyahatteydi"
+      ],
+      "note": null
+    }
+  ]
+}

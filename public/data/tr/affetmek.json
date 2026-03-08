@@ -1,0 +1,56 @@
+{
+  "word": "affetmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to forgive, to pardon",
+  "sentences": [
+    {
+      "id": "affetmek_s1",
+      "text": "Lütfen beni [affet], hata yaptım.",
+      "note": "Emir kipi"
+    },
+    {
+      "id": "affetmek_s2",
+      "text": "Onu [affetmek] çok zaman aldı ama sonunda başardım.",
+      "note": null
+    },
+    {
+      "id": "affetmek_s3",
+      "text": "Bazı hatalar kolay [affedilmez].",
+      "note": "Edilgen, olumsuz"
+    },
+    {
+      "id": "affetmek_s4",
+      "text": "[Affetmek] hem kendine hem karşındakine iyilik yapmaktır.",
+      "note": null
+    },
+    {
+      "id": "affetmek_s5",
+      "text": "Beni [affeder] misin?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "affetmek_r1",
+      "prompt": "Birine hata yaptın ve özür diliyorsun, hoşgörü istiyorsun. Ne diyorsun?",
+      "accepted_forms": [
+        "affet",
+        "affedin",
+        "affedebilir misin"
+      ],
+      "note": null
+    },
+    {
+      "id": "affetmek_r2",
+      "prompt": "Sana kötü davranan birine artık kızgın değilsin. Bu durumu nasıl ifade edersin?",
+      "accepted_forms": [
+        "affettim",
+        "affediyorum",
+        "affetim"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "word": "göndermek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to send",
+  "sentences": [
+    {
+      "id": "göndermek_s1",
+      "text": "Sana bir e-posta [gönderdim], kontrol et.",
+      "note": null
+    },
+    {
+      "id": "göndermek_s2",
+      "text": "Bu paketi kargoya [göndermem] lazım.",
+      "note": null
+    },
+    {
+      "id": "göndermek_s3",
+      "text": "Raporu patrona [gönderdin] mi?",
+      "note": null
+    },
+    {
+      "id": "göndermek_s4",
+      "text": "Mesajı yanlış kişiye [gönderdim]!",
+      "note": null
+    },
+    {
+      "id": "göndermek_s5",
+      "text": "Faturayı her ay otomatik [gönderiliyor].",
+      "note": "Edilgen"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "göndermek_r1",
+      "prompt": "Birine e-posta attın. Ne yaptın?",
+      "accepted_forms": [
+        "gönderdim",
+        "yolladım",
+        "attım"
+      ],
+      "note": null
+    },
+    {
+      "id": "göndermek_r2",
+      "prompt": "Patronun senden raporu iletmeni istiyor. 'Raporu bana ___ mısın?'",
+      "accepted_forms": [
+        "gönderir",
+        "gönderebilir",
+        "gönderir misin"
+      ],
+      "note": null
+    }
+  ]
+}

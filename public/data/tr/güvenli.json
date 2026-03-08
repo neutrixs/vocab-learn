@@ -1,0 +1,55 @@
+{
+  "word": "güvenli",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "safe, secure",
+  "sentences": [
+    {
+      "id": "güvenli_s1",
+      "text": "Bu semt geceleri de [güvenli].",
+      "note": null
+    },
+    {
+      "id": "güvenli_s2",
+      "text": "[Güvenli] bir şifre kullanmak önemlidir.",
+      "note": null
+    },
+    {
+      "id": "güvenli_s3",
+      "text": "Çocuklar için [güvenli] bir ortam oluşturmalıyız.",
+      "note": null
+    },
+    {
+      "id": "güvenli_s4",
+      "text": "Bu uçuş [güvenli] mi?",
+      "note": null
+    },
+    {
+      "id": "güvenli_s5",
+      "text": "[Güvenli] bir bağlantı üzerinden işlem yapın.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "güvenli_r1",
+      "prompt": "Bir bölgenin tehlikesiz ve korunaklı olduğunu söylemek istiyorsun. Nasıl ifade edersin?",
+      "accepted_forms": [
+        "güvenli",
+        "güvenlidir",
+        "güvenli bir yer"
+      ],
+      "note": null
+    },
+    {
+      "id": "güvenli_r2",
+      "prompt": "Birisi sana bir konunun risk taşıyıp taşımadığını soruyor. 'Endişelenme, burası tamamen ___.'",
+      "accepted_forms": [
+        "güvenli",
+        "güvenlidir"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "word": "planlamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to plan",
+  "sentences": [
+    {
+      "id": "planlamak_s1",
+      "text": "Tatilimizi üç ay önceden [planladık].",
+      "note": null
+    },
+    {
+      "id": "planlamak_s2",
+      "text": "Her şeyi önceden [planlamak] stresi azaltır.",
+      "note": null
+    },
+    {
+      "id": "planlamak_s3",
+      "text": "Bu projeyi nasıl [planlıyorsunuz]?",
+      "note": null
+    },
+    {
+      "id": "planlamak_s4",
+      "text": "Hafta sonunu [planladın] mı?",
+      "note": null
+    },
+    {
+      "id": "planlamak_s5",
+      "text": "İyi [planlanmış] bir etkinlik sorunsuz geçer.",
+      "note": "Sıfat-fiil"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "planlamak_r1",
+      "prompt": "Bir seyahat için önceden her şeyi organize ediyorsun. Ne yapıyorsun?",
+      "accepted_forms": [
+        "planlıyorum",
+        "planladım",
+        "planlamak"
+      ],
+      "note": null
+    },
+    {
+      "id": "planlamak_r2",
+      "prompt": "Yönetici ekipten projenin nasıl ilerleyeceğini soruyor. 'Bu projeyi nasıl ___?'",
+      "accepted_forms": [
+        "planlıyorsunuz",
+        "planladınız",
+        "planladık"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "word": "değiştirmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to change, to alter, to replace",
+  "sentences": [
+    {
+      "id": "değiştirmek_s1",
+      "text": "Planlarımı son anda [değiştirmek] zorunda kaldım.",
+      "note": null
+    },
+    {
+      "id": "değiştirmek_s2",
+      "text": "Bu alışkanlığını [değiştirmelisin].",
+      "note": null
+    },
+    {
+      "id": "değiştirmek_s3",
+      "text": "Telefonumun pilini [değiştirdim].",
+      "note": null
+    },
+    {
+      "id": "değiştirmek_s4",
+      "text": "Şifreyi düzenli olarak [değiştirmeniz] önerilir.",
+      "note": null
+    },
+    {
+      "id": "değiştirmek_s5",
+      "text": "Bu karar her şeyi [değiştirdi].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "değiştirmek_r1",
+      "prompt": "Eski kıyafetini beğenmiyorsun ve farklı bir şey giymek istiyorsun. Ne yapıyorsun?",
+      "accepted_forms": [
+        "değiştiriyorum",
+        "değiştirdim",
+        "değiştirecek"
+      ],
+      "note": null
+    },
+    {
+      "id": "değiştirmek_r2",
+      "prompt": "Bir karar alındı ve her şey farklı olmaya başladı. 'Bu karar her şeyi ___.'",
+      "accepted_forms": [
+        "değiştirdi",
+        "değiştiriyor",
+        "değiştirecek"
+      ],
+      "note": null
+    }
+  ]
+}

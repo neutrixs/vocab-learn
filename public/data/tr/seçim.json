@@ -1,0 +1,56 @@
+{
+  "word": "seçim",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "election; choice, selection",
+  "sentences": [
+    {
+      "id": "seçim_s1",
+      "text": "Bu yıl genel [seçimler] yapılacak.",
+      "note": null
+    },
+    {
+      "id": "seçim_s2",
+      "text": "[Seçim] sonuçları merakla bekleniyor.",
+      "note": null
+    },
+    {
+      "id": "seçim_s3",
+      "text": "Bu [seçim] senin için kolay olmadı, biliyorum.",
+      "note": "Tercih anlamında"
+    },
+    {
+      "id": "seçim_s4",
+      "text": "Her vatandaşın [seçim] hakkı vardır.",
+      "note": null
+    },
+    {
+      "id": "seçim_s5",
+      "text": "[Seçim] kampanyası tüm hızıyla devam ediyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "seçim_r1",
+      "prompt": "Halkın oy kullanarak temsilcilerini belirlediği demokratik sürece ne denir?",
+      "accepted_forms": [
+        "seçim",
+        "seçimdir",
+        "seçimi"
+      ],
+      "note": null
+    },
+    {
+      "id": "seçim_r2",
+      "prompt": "Ülkede oy kullanma günü yaklaşıyor. 'Bu yıl ___ var.' diyorsun.",
+      "accepted_forms": [
+        "seçim",
+        "seçimler",
+        "genel seçim"
+      ],
+      "note": null
+    }
+  ]
+}

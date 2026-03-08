@@ -1,0 +1,56 @@
+{
+  "word": "gerekli",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "necessary, required",
+  "sentences": [
+    {
+      "id": "gerekli_s1",
+      "text": "Pasaport, yurt dışı seyahati için [gerekli] bir belgedir.",
+      "note": null
+    },
+    {
+      "id": "gerekli_s2",
+      "text": "Başvuru için [gerekli] evrakları hazırladım.",
+      "note": null
+    },
+    {
+      "id": "gerekli_s3",
+      "text": "Bu adım [gerekli] mi, atlayabilir miyiz?",
+      "note": null
+    },
+    {
+      "id": "gerekli_s4",
+      "text": "Sağlıklı yaşam için egzersiz [gereklidir].",
+      "note": null
+    },
+    {
+      "id": "gerekli_s5",
+      "text": "[Gerekli] önlemleri aldık, artık hazırız.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gerekli_r1",
+      "prompt": "Bir işlemi tamamlamak için zorunlu olan şeye ne denir?",
+      "accepted_forms": [
+        "gerekli",
+        "gereklidir",
+        "gerekli olan"
+      ],
+      "note": null
+    },
+    {
+      "id": "gerekli_r2",
+      "prompt": "Bir form doldurmak için hangi belgelerin şart olduğunu soruyorsun. '...___ belgeler neler?'",
+      "accepted_forms": [
+        "gerekli",
+        "gerekli olan",
+        "gereklidir"
+      ],
+      "note": null
+    }
+  ]
+}

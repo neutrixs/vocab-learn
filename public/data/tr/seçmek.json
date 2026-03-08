@@ -1,0 +1,56 @@
+{
+  "word": "seçmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to choose, to select, to elect",
+  "sentences": [
+    {
+      "id": "seçmek_s1",
+      "text": "Menüden ne [seçeceksin]?",
+      "note": null
+    },
+    {
+      "id": "seçmek_s2",
+      "text": "Halk yeni bir başkanı [seçti].",
+      "note": null
+    },
+    {
+      "id": "seçmek_s3",
+      "text": "Hangisini [seçeceğimi] bilemedim.",
+      "note": null
+    },
+    {
+      "id": "seçmek_s4",
+      "text": "Doğru kelimeyi [seçmek] önemlidir.",
+      "note": null
+    },
+    {
+      "id": "seçmek_s5",
+      "text": "Takım kaptanı oyuncular tarafından [seçildi].",
+      "note": "Edilgen"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "seçmek_r1",
+      "prompt": "Birkaç seçenek arasından birini tercih ediyorsun. Ne yapıyorsun?",
+      "accepted_forms": [
+        "seçiyorum",
+        "seçtim",
+        "seçeceğim"
+      ],
+      "note": null
+    },
+    {
+      "id": "seçmek_r2",
+      "prompt": "Seçim günü vatandaşlar sandığa gidiyor. Ne yapıyorlar?",
+      "accepted_forms": [
+        "seçiyor",
+        "seçiyorlar",
+        "oy kullanıyor"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "word": "sonunda",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adverb",
+  "english_gloss": "finally, at last, in the end",
+  "sentences": [
+    {
+      "id": "sonunda_s1",
+      "text": "[Sonunda] o kitabı bitirebildim!",
+      "note": null
+    },
+    {
+      "id": "sonunda_s2",
+      "text": "Uzun bir bekleyişin ardından [sonunda] haber geldi.",
+      "note": null
+    },
+    {
+      "id": "sonunda_s3",
+      "text": "[Sonunda] ne karar verdin?",
+      "note": null
+    },
+    {
+      "id": "sonunda_s4",
+      "text": "Her şeyin [sonunda] bir çözüm bulundu.",
+      "note": null
+    },
+    {
+      "id": "sonunda_s5",
+      "text": "Çok uğraştım ama [sonunda] başardım.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sonunda_r1",
+      "prompt": "Uzun süre beklediğin bir şey gerçekleşti. Rahatlamayla ne diyorsun?",
+      "accepted_forms": [
+        "sonunda",
+        "nihayet",
+        "en sonunda"
+      ],
+      "note": null
+    },
+    {
+      "id": "sonunda_r2",
+      "prompt": "Çok emek verdiğin bir şeyi tamamladın. 'Çok çalıştım, ama ___ başardım.'",
+      "accepted_forms": [
+        "sonunda",
+        "nihayet",
+        "en sonunda"
+      ],
+      "note": null
+    }
+  ]
+}

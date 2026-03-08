@@ -1,0 +1,56 @@
+{
+  "word": "tehlikeli",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "dangerous, hazardous",
+  "sentences": [
+    {
+      "id": "tehlikeli_s1",
+      "text": "Bu yol kışın çok [tehlikeli] oluyor.",
+      "note": null
+    },
+    {
+      "id": "tehlikeli_s2",
+      "text": "[Tehlikeli] bir durumla karşılaştığında sakin kal.",
+      "note": null
+    },
+    {
+      "id": "tehlikeli_s3",
+      "text": "Bu madde insan sağlığı için son derece [tehlikelidir].",
+      "note": null
+    },
+    {
+      "id": "tehlikeli_s4",
+      "text": "O mahalleye gece gitme, [tehlikeli].",
+      "note": null
+    },
+    {
+      "id": "tehlikeli_s5",
+      "text": "Motosiklet sürmek doğru ekipman olmadan [tehlikeli] olabilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tehlikeli_r1",
+      "prompt": "Birini zararlı bir durumdan uzak durması için uyarıyorsun. Ne diyorsun?",
+      "accepted_forms": [
+        "tehlikeli",
+        "tehlikelidir",
+        "tehlikeli orası"
+      ],
+      "note": null
+    },
+    {
+      "id": "tehlikeli_r2",
+      "prompt": "Bir kimyasal madde üzerindeki uyarı etiketinde ne yazıyor olabilir?",
+      "accepted_forms": [
+        "tehlikeli",
+        "tehlikelidir",
+        "tehlikeli madde"
+      ],
+      "note": null
+    }
+  ]
+}

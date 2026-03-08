@@ -1,0 +1,56 @@
+{
+  "word": "haber",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "news, piece of news",
+  "sentences": [
+    {
+      "id": "haber_s1",
+      "text": "Bugünkü [haberleri] izledin mi?",
+      "note": null
+    },
+    {
+      "id": "haber_s2",
+      "text": "Senden iyi bir [haber] bekliyorum.",
+      "note": null
+    },
+    {
+      "id": "haber_s3",
+      "text": "Bu [haberi] duyunca çok şaşırdım.",
+      "note": null
+    },
+    {
+      "id": "haber_s4",
+      "text": "Kötü bir [haber] var, hazır mısın?",
+      "note": null
+    },
+    {
+      "id": "haber_s5",
+      "text": "Son dakika [haberi] yayınlandı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "haber_r1",
+      "prompt": "Gazetede veya televizyonda aktarılan güncel bilgiye ne denir?",
+      "accepted_forms": [
+        "haber",
+        "haberdir",
+        "haberi"
+      ],
+      "note": null
+    },
+    {
+      "id": "haber_r2",
+      "prompt": "Arkadaşından uzun süredir ses çıkmadı. 'Senden ___ bekliyorum.' diyorsun.",
+      "accepted_forms": [
+        "haber",
+        "haberin",
+        "haberini"
+      ],
+      "note": null
+    }
+  ]
+}

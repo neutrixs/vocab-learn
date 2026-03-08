@@ -1,0 +1,56 @@
+{
+  "word": "inanmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to believe, to trust",
+  "sentences": [
+    {
+      "id": "inanmak_s1",
+      "text": "Sana [inanıyorum], doğruyu söylüyorsun.",
+      "note": null
+    },
+    {
+      "id": "inanmak_s2",
+      "text": "Bu hikayeye bir türlü [inanamıyorum].",
+      "note": null
+    },
+    {
+      "id": "inanmak_s3",
+      "text": "Başarabileceğine [inan]!",
+      "note": "Emir kipi, teşvik"
+    },
+    {
+      "id": "inanmak_s4",
+      "text": "Geleceğin daha iyi olacağına [inanıyorum].",
+      "note": null
+    },
+    {
+      "id": "inanmak_s5",
+      "text": "Söylediklerine [inanmak] zor ama doğru.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "inanmak_r1",
+      "prompt": "Birinin dürüst olduğunu düşünüyor ve ona güveniyorsun. Ne diyorsun?",
+      "accepted_forms": [
+        "inanıyorum",
+        "inanırım",
+        "inanıyom"
+      ],
+      "note": null
+    },
+    {
+      "id": "inanmak_r2",
+      "prompt": "Birini motive etmek istiyorsun. 'Kendine ___!' diyorsun.",
+      "accepted_forms": [
+        "inan",
+        "inanmalısın",
+        "inanıyorum"
+      ],
+      "note": null
+    }
+  ]
+}

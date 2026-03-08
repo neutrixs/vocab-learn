@@ -1,0 +1,56 @@
+{
+  "word": "eleştirmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to criticize",
+  "sentences": [
+    {
+      "id": "eleştirmek_s1",
+      "text": "Bu kararı herkes [eleştirdi].",
+      "note": null
+    },
+    {
+      "id": "eleştirmek_s2",
+      "text": "Yapıcı biçimde [eleştirmek] gelişmeye katkı sağlar.",
+      "note": null
+    },
+    {
+      "id": "eleştirmek_s3",
+      "text": "Çalışmamı [eleştirmenden] memnunum, öğrendim.",
+      "note": null
+    },
+    {
+      "id": "eleştirmek_s4",
+      "text": "Sürekli [eleştirilmek] motivasyonu kırıyor.",
+      "note": "Edilgen"
+    },
+    {
+      "id": "eleştirmek_s5",
+      "text": "Başkalarını [eleştirmeden] önce kendine bak.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "eleştirmek_r1",
+      "prompt": "Bir filmin zayıf yönlerini belirtiyorsun. Ne yapıyorsun?",
+      "accepted_forms": [
+        "eleştiriyorum",
+        "eleştirdim",
+        "eleştirmek"
+      ],
+      "note": null
+    },
+    {
+      "id": "eleştirmek_r2",
+      "prompt": "Bir politikacının kararı kamuoyunda olumsuz karşılandı. 'Herkes bu kararı ___.'",
+      "accepted_forms": [
+        "eleştirdi",
+        "eleştiriyor",
+        "eleştirmek"
+      ],
+      "note": null
+    }
+  ]
+}

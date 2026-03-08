@@ -1,0 +1,56 @@
+{
+  "word": "gelişme",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "development, improvement, progress",
+  "sentences": [
+    {
+      "id": "gelişme_s1",
+      "text": "Teknolojideki [gelişmeler] hayatımızı değiştirdi.",
+      "note": null
+    },
+    {
+      "id": "gelişme_s2",
+      "text": "Son [gelişmeleri] takip etmek önemli.",
+      "note": null
+    },
+    {
+      "id": "gelişme_s3",
+      "text": "Bu alandaki [gelişmeler] çok hızlı.",
+      "note": null
+    },
+    {
+      "id": "gelişme_s4",
+      "text": "Hastanın durumunda olumlu [gelişmeler] var.",
+      "note": null
+    },
+    {
+      "id": "gelişme_s5",
+      "text": "Kişisel [gelişme] için kitap okumayı tercih ederim.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gelişme_r1",
+      "prompt": "Bir alanda yaşanan ilerleme veya değişime ne denir?",
+      "accepted_forms": [
+        "gelişme",
+        "gelişmedir",
+        "gelişmesi"
+      ],
+      "note": null
+    },
+    {
+      "id": "gelişme_r2",
+      "prompt": "Hastanın daha iyi olduğunu söylüyorsun. 'Durumunda olumlu ___ var.'",
+      "accepted_forms": [
+        "gelişmeler",
+        "gelişme",
+        "gelişmeler var"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "word": "başarısızlık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "failure, lack of success",
+  "sentences": [
+    {
+      "id": "başarısızlık_s1",
+      "text": "[Başarısızlık] seni yıkmasın, her hatadan ders çıkar.",
+      "note": null
+    },
+    {
+      "id": "başarısızlık_s2",
+      "text": "Bu projedeki [başarısızlığımızı] kabul ediyoruz.",
+      "note": null
+    },
+    {
+      "id": "başarısızlık_s3",
+      "text": "[Başarısızlık] korkusu onu deneyi engelliyor.",
+      "note": null
+    },
+    {
+      "id": "başarısızlık_s4",
+      "text": "Büyük [başarısızlıklardan] sonra daha güçlü dönenler var.",
+      "note": null
+    },
+    {
+      "id": "başarısızlık_s5",
+      "text": "Her [başarısızlık] bir sonraki başarının tohumunu taşır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "başarısızlık_r1",
+      "prompt": "Bir hedefe ulaşamamak veya bir işi başaramamak durumuna ne denir?",
+      "accepted_forms": [
+        "başarısızlık",
+        "başarısızlıktır",
+        "başarısızlığı"
+      ],
+      "note": null
+    },
+    {
+      "id": "başarısızlık_r2",
+      "prompt": "Birini hayal kırıklığından sonra cesaretlendiriyorsun. '___ seni durdurmaz.' diyorsun.",
+      "accepted_forms": [
+        "başarısızlık",
+        "başarısızlıklar",
+        "bu başarısızlık"
+      ],
+      "note": null
+    }
+  ]
+}

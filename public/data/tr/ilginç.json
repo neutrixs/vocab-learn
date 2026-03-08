@@ -1,0 +1,56 @@
+{
+  "word": "ilginç",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "interesting, intriguing",
+  "sentences": [
+    {
+      "id": "ilginç_s1",
+      "text": "Bu kitap gerçekten çok [ilginç].",
+      "note": null
+    },
+    {
+      "id": "ilginç_s2",
+      "text": "[İlginç] bir fikrin var, dinliyorum.",
+      "note": null
+    },
+    {
+      "id": "ilginç_s3",
+      "text": "Tarihle ilgili [ilginç] şeyler öğrendim.",
+      "note": null
+    },
+    {
+      "id": "ilginç_s4",
+      "text": "Ne [ilginç] bir tesadüf!",
+      "note": null
+    },
+    {
+      "id": "ilginç_s5",
+      "text": "Bu konu bana çok [ilginç] geliyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ilginç_r1",
+      "prompt": "Okuduğun bir kitap dikkatini çekiyor, merakla okuyorsun. Bu kitabı nasıl tanımlarsın?",
+      "accepted_forms": [
+        "ilginç",
+        "ilginçtir",
+        "ilginç bir kitap"
+      ],
+      "note": null
+    },
+    {
+      "id": "ilginç_r2",
+      "prompt": "Beklenmedik ve dikkat çekici bir tesadüfle karşılaştın. Ne diyorsun?",
+      "accepted_forms": [
+        "ne ilginç",
+        "ilginç",
+        "çok ilginç"
+      ],
+      "note": null
+    }
+  ]
+}

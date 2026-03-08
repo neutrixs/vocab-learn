@@ -1,0 +1,56 @@
+{
+  "word": "kariyer",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "career",
+  "sentences": [
+    {
+      "id": "kariyer_s1",
+      "text": "[Kariyerime] yön vermek için büyük kararlar aldım.",
+      "note": null
+    },
+    {
+      "id": "kariyer_s2",
+      "text": "Bu iş teklifi [kariyerim] için harika bir fırsat.",
+      "note": null
+    },
+    {
+      "id": "kariyer_s3",
+      "text": "Uzun ve başarılı bir [kariyer] yapmak istiyorum.",
+      "note": null
+    },
+    {
+      "id": "kariyer_s4",
+      "text": "[Kariyer] hedeflerini belirlemek önemlidir.",
+      "note": null
+    },
+    {
+      "id": "kariyer_s5",
+      "text": "Yurtdışında çalışmak [kariyerini] geliştirebilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kariyer_r1",
+      "prompt": "Bir kişinin iş hayatındaki uzun vadeli mesleki yolculuğuna ne denir?",
+      "accepted_forms": [
+        "kariyer",
+        "kariyerdir",
+        "kariyeri"
+      ],
+      "note": null
+    },
+    {
+      "id": "kariyer_r2",
+      "prompt": "Birine iş hayatındaki ilerleyişini soruyorsun. '___ nasıl gidiyor?' diyorsun.",
+      "accepted_forms": [
+        "kariyerin",
+        "kariyer",
+        "işin"
+      ],
+      "note": null
+    }
+  ]
+}

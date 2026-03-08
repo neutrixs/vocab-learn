@@ -1,0 +1,56 @@
+{
+  "word": "zorlanmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to struggle, to have difficulty",
+  "sentences": [
+    {
+      "id": "zorlanmak_s1",
+      "text": "Bu soruyla çok [zorlandım].",
+      "note": null
+    },
+    {
+      "id": "zorlanmak_s2",
+      "text": "Yeni dili öğrenirken [zorlanıyor] musun?",
+      "note": null
+    },
+    {
+      "id": "zorlanmak_s3",
+      "text": "İşte [zorlandığında] yardım istemekten çekinme.",
+      "note": null
+    },
+    {
+      "id": "zorlanmak_s4",
+      "text": "Herkes başlangıçta [zorlanır], bu normal.",
+      "note": null
+    },
+    {
+      "id": "zorlanmak_s5",
+      "text": "Mali açıdan ciddi şekilde [zorlanıyoruz].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "zorlanmak_r1",
+      "prompt": "Bir şeyi yapmak sana çok zor geliyor. Ne diyorsun?",
+      "accepted_forms": [
+        "zorlanıyorum",
+        "zorlandım",
+        "zorlanıyom"
+      ],
+      "note": null
+    },
+    {
+      "id": "zorlanmak_r2",
+      "prompt": "Yeni bir öğrenciye ilk başta zor gelebileceğini söylüyorsun. 'Başta herkes ___.'",
+      "accepted_forms": [
+        "zorlanır",
+        "zorlanıyor",
+        "zorlandı"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "word": "proje",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "project",
+  "sentences": [
+    {
+      "id": "proje_s1",
+      "text": "Bu [projeyi] üç ay içinde tamamlamamız gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "proje_s2",
+      "text": "Okul [projesi] için araştırma yapıyorum.",
+      "note": null
+    },
+    {
+      "id": "proje_s3",
+      "text": "[Proje] ekibi haftada bir toplanıyor.",
+      "note": null
+    },
+    {
+      "id": "proje_s4",
+      "text": "Bu [projenin] bütçesi çok sınırlı.",
+      "note": null
+    },
+    {
+      "id": "proje_s5",
+      "text": "Yeni bir [projeye] başlamak heyecan verici.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "proje_r1",
+      "prompt": "Belirli bir amaca ulaşmak için yürütülen planlı ve kapsamlı çalışmaya ne denir?",
+      "accepted_forms": [
+        "proje",
+        "projedir",
+        "projem"
+      ],
+      "note": null
+    },
+    {
+      "id": "proje_r2",
+      "prompt": "Ekibinle birlikte üzerinde çalıştığın büyük bir işten bahsediyorsun. 'Bu ___ bitmek üzere.'",
+      "accepted_forms": [
+        "proje",
+        "projeyi",
+        "projemiz"
+      ],
+      "note": null
+    }
+  ]
+}

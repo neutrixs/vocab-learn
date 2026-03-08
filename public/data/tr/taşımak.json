@@ -1,0 +1,56 @@
+{
+  "word": "taşımak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to carry, to transport, to move",
+  "sentences": [
+    {
+      "id": "taşımak_s1",
+      "text": "Bu koliler çok ağır, taşımakta [taşımakta] zorlanıyorum.",
+      "note": null
+    },
+    {
+      "id": "taşımak_s2",
+      "text": "Eşyaları yeni eve [taşıdık].",
+      "note": null
+    },
+    {
+      "id": "taşımak_s3",
+      "text": "Bu kamyon günde kaç ton yük [taşıyor]?",
+      "note": null
+    },
+    {
+      "id": "taşımak_s4",
+      "text": "Çantam çok doldu, [taşıyamıyorum].",
+      "note": null
+    },
+    {
+      "id": "taşımak_s5",
+      "text": "Bu sorumluluğu tek başına [taşımak] zor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "taşımak_r1",
+      "prompt": "Marketten aldığın ağır poşetleri eve götürüyorsun. Ne yapıyorsun?",
+      "accepted_forms": [
+        "taşıyorum",
+        "taşıyom",
+        "taşıdım"
+      ],
+      "note": null
+    },
+    {
+      "id": "taşımak_r2",
+      "prompt": "Yeni bir eve geçiyorsunuz. 'Eşyaları ___ yardım eder misin?'",
+      "accepted_forms": [
+        "taşımaya",
+        "taşımak için",
+        "taşıyalım"
+      ],
+      "note": null
+    }
+  ]
+}

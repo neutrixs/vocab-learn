@@ -1,0 +1,56 @@
+{
+  "word": "övmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to praise, to compliment",
+  "sentences": [
+    {
+      "id": "övmek_s1",
+      "text": "Öğretmen onun çalışmasını çok [övdü].",
+      "note": null
+    },
+    {
+      "id": "övmek_s2",
+      "text": "Kendini fazla [övme], mütevazı ol.",
+      "note": "Olumsuz emir"
+    },
+    {
+      "id": "övmek_s3",
+      "text": "Bu eseri [övmekten] kendimi alamıyorum.",
+      "note": null
+    },
+    {
+      "id": "övmek_s4",
+      "text": "Yaptığın işi herkese [övdüm].",
+      "note": null
+    },
+    {
+      "id": "övmek_s5",
+      "text": "Başarılarını [övmek] onu daha çok motive ediyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "övmek_r1",
+      "prompt": "Birinin yaptığı işi çok beğenip ona iltifat ediyorsun. Ne yapıyorsun?",
+      "accepted_forms": [
+        "övüyorum",
+        "övdüm",
+        "övmek"
+      ],
+      "note": null
+    },
+    {
+      "id": "övmek_r2",
+      "prompt": "Öğretmen başarılı bir öğrencinin çalışmasını sınıfa takdim ediyor ve takdirle bahsediyor. Ne yapıyor?",
+      "accepted_forms": [
+        "övüyor",
+        "övdü",
+        "övmek"
+      ],
+      "note": null
+    }
+  ]
+}

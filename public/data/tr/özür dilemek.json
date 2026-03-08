@@ -1,0 +1,56 @@
+{
+  "word": "özür dilemek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to apologize",
+  "sentences": [
+    {
+      "id": "özür dilemek_s1",
+      "text": "Geç kaldığım için [özür diliyorum].",
+      "note": null
+    },
+    {
+      "id": "özür dilemek_s2",
+      "text": "Ondan [özür dilemeliyim], haksız davrandım.",
+      "note": null
+    },
+    {
+      "id": "özür dilemek_s3",
+      "text": "Samimi bir şekilde [özür diledi] ve affettim.",
+      "note": null
+    },
+    {
+      "id": "özür dilemek_s4",
+      "text": "[Özür dilemek] zor ama gerekli.",
+      "note": null
+    },
+    {
+      "id": "özür dilemek_s5",
+      "text": "Asla [özür dilemez], gururu yüksek.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "özür dilemek_r1",
+      "prompt": "Birine hatalı davrandın ve pişmanlığını dile getiriyorsun. Ne diyorsun?",
+      "accepted_forms": [
+        "özür diliyorum",
+        "özür dilerim",
+        "özür dilemek istiyorum"
+      ],
+      "note": null
+    },
+    {
+      "id": "özür dilemek_r2",
+      "prompt": "Toplantıya geç kalan biri kapıdan giriyor. Ne diyor?",
+      "accepted_forms": [
+        "özür diliyorum",
+        "özür dilerim",
+        "geç kaldığım için özür"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "word": "izlemek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to watch, to follow, to observe",
+  "sentences": [
+    {
+      "id": "izlemek_s1",
+      "text": "Dün gece harika bir film [izledim].",
+      "note": null
+    },
+    {
+      "id": "izlemek_s2",
+      "text": "Haberleri her sabah [izliyorum].",
+      "note": null
+    },
+    {
+      "id": "izlemek_s3",
+      "text": "Polis şüpheliyi günlerce [izledi].",
+      "note": null
+    },
+    {
+      "id": "izlemek_s4",
+      "text": "Bu diziyi baştan beri [izliyorum].",
+      "note": null
+    },
+    {
+      "id": "izlemek_s5",
+      "text": "Gelişmeleri yakından [izliyoruz].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "izlemek_r1",
+      "prompt": "Akşamları ne yapmayı seversin? 'Film ___.'",
+      "accepted_forms": [
+        "izlerim",
+        "izliyorum",
+        "izlemek"
+      ],
+      "note": null
+    },
+    {
+      "id": "izlemek_r2",
+      "prompt": "Bir dedektif şüpheliyi takip ediyor ve hareketlerini gözlemliyor. Bu eyleme ne denir?",
+      "accepted_forms": [
+        "izlemek",
+        "izliyor",
+        "takip etmek"
+      ],
+      "note": null
+    }
+  ]
+}

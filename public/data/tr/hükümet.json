@@ -1,0 +1,56 @@
+{
+  "word": "hükümet",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "government",
+  "sentences": [
+    {
+      "id": "hükümet_s1",
+      "text": "[Hükümet] yeni bir eğitim politikası açıkladı.",
+      "note": null
+    },
+    {
+      "id": "hükümet_s2",
+      "text": "[Hükümetin] bu kararına çok sayıda vatandaş itiraz etti.",
+      "note": null
+    },
+    {
+      "id": "hükümet_s3",
+      "text": "Yeni [hükümet] kurulduktan sonra reformlar başladı.",
+      "note": null
+    },
+    {
+      "id": "hükümet_s4",
+      "text": "[Hükümet] destekli projeler hayata geçirildi.",
+      "note": null
+    },
+    {
+      "id": "hükümet_s5",
+      "text": "[Hükümetin] açıkladığı bütçe tartışma yarattı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hükümet_r1",
+      "prompt": "Bir ülkeyi yöneten siyasi organa ne denir?",
+      "accepted_forms": [
+        "hükümet",
+        "hükümettir",
+        "hükümeti"
+      ],
+      "note": null
+    },
+    {
+      "id": "hükümet_r2",
+      "prompt": "Yeni bir yasa çıktı. Haberde ne yazıyor? '___ yeni bir karar aldı.'",
+      "accepted_forms": [
+        "hükümet",
+        "hükümeti",
+        "hükümetimiz"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "word": "medya",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "media",
+  "sentences": [
+    {
+      "id": "medya_s1",
+      "text": "[Medya] toplumu şekillendiren güçlü bir araçtır.",
+      "note": null
+    },
+    {
+      "id": "medya_s2",
+      "text": "Sosyal [medyada] çok zaman geçiriyorum.",
+      "note": null
+    },
+    {
+      "id": "medya_s3",
+      "text": "[Medyanın] haberleri nasıl sunduğu önemlidir.",
+      "note": null
+    },
+    {
+      "id": "medya_s4",
+      "text": "Bu olay tüm [medyada] yer aldı.",
+      "note": null
+    },
+    {
+      "id": "medya_s5",
+      "text": "[Medya] okuryazarlığı günümüzde çok önemli.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "medya_r1",
+      "prompt": "Televizyon, gazete, internet gibi bilgi ve haber yayan araçların tümüne ne denir?",
+      "accepted_forms": [
+        "medya",
+        "medyadır",
+        "medyayı"
+      ],
+      "note": null
+    },
+    {
+      "id": "medya_r2",
+      "prompt": "Instagram ve Twitter gibi platformlarda çok vakit geçiriyorsun. Bunu nasıl ifade edersin?",
+      "accepted_forms": [
+        "sosyal medya",
+        "medyada",
+        "medya"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "word": "ödemek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to pay",
+  "sentences": [
+    {
+      "id": "ödemek_s1",
+      "text": "Faturayı bu ay [ödeyemedim].",
+      "note": null
+    },
+    {
+      "id": "ödemek_s2",
+      "text": "Hesabı ben [ödeyeceğim], merak etme.",
+      "note": null
+    },
+    {
+      "id": "ödemek_s3",
+      "text": "Kira her ayın birinde [ödeniyor].",
+      "note": "Edilgen"
+    },
+    {
+      "id": "ödemek_s4",
+      "text": "Kredi kartıyla [ödemek] mümkün mü?",
+      "note": null
+    },
+    {
+      "id": "ödemek_s5",
+      "text": "Bu borcu bir an önce [ödemem] gerekiyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ödemek_r1",
+      "prompt": "Restoranda yemekten sonra ne yapman gerekiyor?",
+      "accepted_forms": [
+        "ödemek",
+        "ödeyeceğim",
+        "hesabı ödemek"
+      ],
+      "note": null
+    },
+    {
+      "id": "ödemek_r2",
+      "prompt": "Arkadaşın lokantada masrafı karşılayacağını söylüyor. Ne diyor?",
+      "accepted_forms": [
+        "ödeyeceğim",
+        "ödüyorum",
+        "öderim"
+      ],
+      "note": null
+    }
+  ]
+}

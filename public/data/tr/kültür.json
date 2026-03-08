@@ -1,0 +1,55 @@
+{
+  "word": "kültür",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "culture",
+  "sentences": [
+    {
+      "id": "kültür_s1",
+      "text": "Türk [kültürü] çok zengin ve köklüdür.",
+      "note": null
+    },
+    {
+      "id": "kültür_s2",
+      "text": "Farklı [kültürleri] tanımak insanı geliştirir.",
+      "note": null
+    },
+    {
+      "id": "kültür_s3",
+      "text": "[Kültür] ve sanat etkinliklerine sık katılıyorum.",
+      "note": null
+    },
+    {
+      "id": "kültür_s4",
+      "text": "Bu gelenek, [kültürümüzün] ayrılmaz bir parçasıdır.",
+      "note": null
+    },
+    {
+      "id": "kültür_s5",
+      "text": "[Kültürel] farkları anlamak iletişimi kolaylaştırır.",
+      "note": "Sıfat türevi"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kültür_r1",
+      "prompt": "Bir toplumun değerlerini, geleneklerini ve sanatını kapsayan kavrama ne denir?",
+      "accepted_forms": [
+        "kültür",
+        "kültürdür",
+        "kültürü"
+      ],
+      "note": null
+    },
+    {
+      "id": "kültür_r2",
+      "prompt": "Türkiye'deki yaşam biçiminden bahsediyorsun. 'Türk ___ çok zengin.'",
+      "accepted_forms": [
+        "kültürü",
+        "kültür"
+      ],
+      "note": null
+    }
+  ]
+}

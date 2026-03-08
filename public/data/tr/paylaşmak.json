@@ -1,0 +1,56 @@
+{
+  "word": "paylaşmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to share",
+  "sentences": [
+    {
+      "id": "paylaşmak_s1",
+      "text": "Düşüncelerini bizimle [paylaşır] mısın?",
+      "note": null
+    },
+    {
+      "id": "paylaşmak_s2",
+      "text": "Kardeşimle odamı [paylaşıyorum].",
+      "note": null
+    },
+    {
+      "id": "paylaşmak_s3",
+      "text": "Bu haberi sosyal medyada [paylaştım].",
+      "note": null
+    },
+    {
+      "id": "paylaşmak_s4",
+      "text": "Mutluluğunu herkesle [paylaşmak] istedi.",
+      "note": null
+    },
+    {
+      "id": "paylaşmak_s5",
+      "text": "Yemeği eşit olarak [paylaştık].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "paylaşmak_r1",
+      "prompt": "Elindeki bir şeyi başkasına vermek veya birlikte kullanmak için ne yaparsın?",
+      "accepted_forms": [
+        "paylaşıyorum",
+        "paylaşırım",
+        "paylaştım"
+      ],
+      "note": null
+    },
+    {
+      "id": "paylaşmak_r2",
+      "prompt": "Sosyal medyada ilginç bir gönderi gördün ve başkalarının da görmesini istiyorsun. Ne yapıyorsun?",
+      "accepted_forms": [
+        "paylaşıyorum",
+        "paylaştım",
+        "paylaşacağım"
+      ],
+      "note": null
+    }
+  ]
+}

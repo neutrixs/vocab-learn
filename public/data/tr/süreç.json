@@ -1,0 +1,55 @@
+{
+  "word": "süreç",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "process, procedure",
+  "sentences": [
+    {
+      "id": "süreç_s1",
+      "text": "Başvuru [süreci] oldukça uzun sürdü.",
+      "note": null
+    },
+    {
+      "id": "süreç_s2",
+      "text": "Bu [süreçte] çok şey öğrendim.",
+      "note": null
+    },
+    {
+      "id": "süreç_s3",
+      "text": "İyileşme [süreci] zaman alabilir.",
+      "note": null
+    },
+    {
+      "id": "süreç_s4",
+      "text": "[Süreç] içinde birçok engelle karşılaştık.",
+      "note": null
+    },
+    {
+      "id": "süreç_s5",
+      "text": "Üretim [süreci] tamamen otomatik hale getirildi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "süreç_r1",
+      "prompt": "Bir hedefe ulaşmak için gereken adımların tamamına verilen ad nedir?",
+      "accepted_forms": [
+        "süreç",
+        "süreçtir",
+        "süreci"
+      ],
+      "note": null
+    },
+    {
+      "id": "süreç_r2",
+      "prompt": "Bir iş başvurusunun nasıl ilerlediğini anlatıyorsun. 'Başvuru ___ uzun sürdü.'",
+      "accepted_forms": [
+        "süreci",
+        "süreç"
+      ],
+      "note": null
+    }
+  ]
+}

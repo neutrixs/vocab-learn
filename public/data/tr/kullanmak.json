@@ -1,0 +1,56 @@
+{
+  "word": "kullanmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to use, to utilize",
+  "sentences": [
+    {
+      "id": "kullanmak_s1",
+      "text": "Bu uygulamayı nasıl [kullanacağımı] bilmiyorum.",
+      "note": null
+    },
+    {
+      "id": "kullanmak_s2",
+      "text": "Araba [kullanmayı] geçen yıl öğrendim.",
+      "note": null
+    },
+    {
+      "id": "kullanmak_s3",
+      "text": "Bu kelimeyi doğru bağlamda [kullanman] önemli.",
+      "note": null
+    },
+    {
+      "id": "kullanmak_s4",
+      "text": "Zamanı verimli [kullanmak] bir beceridir.",
+      "note": null
+    },
+    {
+      "id": "kullanmak_s5",
+      "text": "Bu cihazı daha önce [kullandın] mı?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kullanmak_r1",
+      "prompt": "Yeni bir telefon aldın ve işlevlerini deniyorsun. Ne yapıyorsun?",
+      "accepted_forms": [
+        "kullanıyorum",
+        "kullanıyom",
+        "kullandım"
+      ],
+      "note": null
+    },
+    {
+      "id": "kullanmak_r2",
+      "prompt": "Birine bir aleti nasıl işleteceğini soran biri var. '___ nasıl biliyor musun?'",
+      "accepted_forms": [
+        "kullanmayı",
+        "kullanmasını",
+        "kullanmak"
+      ],
+      "note": null
+    }
+  ]
+}

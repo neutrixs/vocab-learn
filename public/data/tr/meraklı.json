@@ -1,0 +1,55 @@
+{
+  "word": "meraklı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "curious, inquisitive",
+  "sentences": [
+    {
+      "id": "meraklı_s1",
+      "text": "Çok [meraklı] bir çocuktu, her şeyi sorardı.",
+      "note": null
+    },
+    {
+      "id": "meraklı_s2",
+      "text": "Bu konuya karşı son derece [meraklıyım].",
+      "note": null
+    },
+    {
+      "id": "meraklı_s3",
+      "text": "[Meraklı] insanlar daha hızlı öğrenir.",
+      "note": null
+    },
+    {
+      "id": "meraklı_s4",
+      "text": "Komşum her şeye karışan [meraklı] biridir.",
+      "note": null
+    },
+    {
+      "id": "meraklı_s5",
+      "text": "Bilime karşı [meraklı] olduğum için bu alanı seçtim.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "meraklı_r1",
+      "prompt": "Her şeyi araştıran, soru sormaktan zevk alan birine ne denir?",
+      "accepted_forms": [
+        "meraklı",
+        "meraklıdır",
+        "meraklı biri"
+      ],
+      "note": null
+    },
+    {
+      "id": "meraklı_r2",
+      "prompt": "Yeni öğrendiğin bir konuya ilgi duyduğunu söylüyorsun. 'Bu konuya çok ___yım.'",
+      "accepted_forms": [
+        "meraklı",
+        "meraklıyım"
+      ],
+      "note": null
+    }
+  ]
+}

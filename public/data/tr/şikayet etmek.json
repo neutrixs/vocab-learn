@@ -1,0 +1,56 @@
+{
+  "word": "şikayet etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to complain",
+  "sentences": [
+    {
+      "id": "şikayet etmek_s1",
+      "text": "Gürültüden [şikayet etmek] yerine bir çözüm bul.",
+      "note": null
+    },
+    {
+      "id": "şikayet etmek_s2",
+      "text": "Müşteri hizmetlerine [şikayet ettim].",
+      "note": null
+    },
+    {
+      "id": "şikayet etmek_s3",
+      "text": "Her şeyden [şikayet etmek] seni mutsuz ediyor.",
+      "note": null
+    },
+    {
+      "id": "şikayet etmek_s4",
+      "text": "Komşusu hakkında yönetime [şikayet etti].",
+      "note": null
+    },
+    {
+      "id": "şikayet etmek_s5",
+      "text": "Neden sürekli [şikayet ediyorsun]?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şikayet etmek_r1",
+      "prompt": "Aldığın bir ürün bozuk çıktı ve mağazaya gidip durumu anlattın. Ne yaptın?",
+      "accepted_forms": [
+        "şikayet ettim",
+        "şikayetçi oldum",
+        "şikayet etmek"
+      ],
+      "note": null
+    },
+    {
+      "id": "şikayet etmek_r2",
+      "prompt": "Biri sürekli mutsuzluğunu dile getirip yakınıyor. Bu kişi ne yapıyor?",
+      "accepted_forms": [
+        "şikayet ediyor",
+        "şikayet etmek",
+        "şikayetçi"
+      ],
+      "note": null
+    }
+  ]
+}

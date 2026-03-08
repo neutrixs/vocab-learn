@@ -1,0 +1,56 @@
+{
+  "word": "verimli",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "productive, efficient",
+  "sentences": [
+    {
+      "id": "verimli_s1",
+      "text": "Bugün çok [verimli] bir gün geçirdim.",
+      "note": null
+    },
+    {
+      "id": "verimli_s2",
+      "text": "[Verimli] çalışmak için odaklanmak şart.",
+      "note": null
+    },
+    {
+      "id": "verimli_s3",
+      "text": "Bu yöntem daha [verimli] sonuçlar veriyor.",
+      "note": null
+    },
+    {
+      "id": "verimli_s4",
+      "text": "Toplantı [verimli] geçti, çok şey kararlaştırdık.",
+      "note": null
+    },
+    {
+      "id": "verimli_s5",
+      "text": "[Verimli] bir öğrenci olmak için planlama gerekir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "verimli_r1",
+      "prompt": "Çok iş bitirdiğin, zamanı iyi kullandığın bir günü nasıl tanımlarsın?",
+      "accepted_forms": [
+        "verimli",
+        "verimli bir gün",
+        "verimliydi"
+      ],
+      "note": null
+    },
+    {
+      "id": "verimli_r2",
+      "prompt": "Az çabayla çok sonuç alan bir yöntemi tek kelimeyle nasıl tanımlarsın?",
+      "accepted_forms": [
+        "verimli",
+        "verimliydi",
+        "verimli bir yöntem"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "word": "önermek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to suggest, to recommend, to propose",
+  "sentences": [
+    {
+      "id": "önermek_s1",
+      "text": "Bu restoranı sana şiddetle [öneriyorum].",
+      "note": null
+    },
+    {
+      "id": "önermek_s2",
+      "text": "Doktor dinlenmemi [önerdi].",
+      "note": null
+    },
+    {
+      "id": "önermek_s3",
+      "text": "Başka bir çözüm [önerebilir] misin?",
+      "note": null
+    },
+    {
+      "id": "önermek_s4",
+      "text": "Ne [önerirsin], hangi kitabı okuyayım?",
+      "note": null
+    },
+    {
+      "id": "önermek_s5",
+      "text": "Toplantıda yeni bir plan [önerdi] ve herkes kabul etti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "önermek_r1",
+      "prompt": "Arkadaşın iyi bir film arıyor. Ona izlemesi için bir şey söylüyorsun. Ne yapıyorsun?",
+      "accepted_forms": [
+        "öneriyorum",
+        "önerdim",
+        "öneririm"
+      ],
+      "note": null
+    },
+    {
+      "id": "önermek_r2",
+      "prompt": "Toplantıda bir fikir ortaya atıyorsun. 'Şunu ___.' diyorsun.",
+      "accepted_forms": [
+        "öneriyorum",
+        "öneririm",
+        "önermek istiyorum"
+      ],
+      "note": null
+    }
+  ]
+}

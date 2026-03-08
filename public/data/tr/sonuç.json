@@ -1,0 +1,56 @@
+{
+  "word": "sonuç",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "result, outcome, conclusion",
+  "sentences": [
+    {
+      "id": "sonuç_s1",
+      "text": "Sınav [sonuçları] yarın açıklanacak.",
+      "note": null
+    },
+    {
+      "id": "sonuç_s2",
+      "text": "Uzun tartışmalar bir [sonuca] vardı.",
+      "note": null
+    },
+    {
+      "id": "sonuç_s3",
+      "text": "Bu kararın [sonuçlarını] düşündün mü?",
+      "note": null
+    },
+    {
+      "id": "sonuç_s4",
+      "text": "[Sonuç] olarak, projeyi başarıyla tamamladık.",
+      "note": "Bağlaç olarak"
+    },
+    {
+      "id": "sonuç_s5",
+      "text": "Araştırmanın [sonuçları] çok dikkat çekiciydi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sonuç_r1",
+      "prompt": "Bir sürecin ya da çalışmanın sonunda ortaya çıkan şeye ne denir?",
+      "accepted_forms": [
+        "sonuç",
+        "sonuçtur",
+        "sonucu"
+      ],
+      "note": null
+    },
+    {
+      "id": "sonuç_r2",
+      "prompt": "Sınav bitti ve notların açıklandı. 'Sınav ___ geldi.' diyorsun.",
+      "accepted_forms": [
+        "sonuçları",
+        "sonucu",
+        "sonuç"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "word": "görev",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "duty, task, mission",
+  "sentences": [
+    {
+      "id": "görev_s1",
+      "text": "Bu [görevi] tamamlamam için iki günüm var.",
+      "note": null
+    },
+    {
+      "id": "görev_s2",
+      "text": "Askeri [görev] için yurt dışına gönderildi.",
+      "note": null
+    },
+    {
+      "id": "görev_s3",
+      "text": "[Görevini] eksiksiz yerine getirdi.",
+      "note": null
+    },
+    {
+      "id": "görev_s4",
+      "text": "Bu benim [görevim], yardımcı olmaktan memnuniyet duyarım.",
+      "note": null
+    },
+    {
+      "id": "görev_s5",
+      "text": "Müdür bana yeni bir [görev] verdi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "görev_r1",
+      "prompt": "Senden yapman beklenen iş veya sorumluluk için hangi kelimeyi kullanırsın?",
+      "accepted_forms": [
+        "görev",
+        "görevim",
+        "görevidir"
+      ],
+      "note": null
+    },
+    {
+      "id": "görev_r2",
+      "prompt": "Yönetici sana tamamlaman gereken bir iş veriyor. 'Sana yeni bir ___ var.' diyor.",
+      "accepted_forms": [
+        "görev",
+        "görevin",
+        "görev var"
+      ],
+      "note": null
+    }
+  ]
+}

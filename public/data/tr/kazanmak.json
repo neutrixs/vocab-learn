@@ -1,0 +1,56 @@
+{
+  "word": "kazanmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to win, to earn, to gain",
+  "sentences": [
+    {
+      "id": "kazanmak_s1",
+      "text": "Takımımız maçı [kazandı]!",
+      "note": null
+    },
+    {
+      "id": "kazanmak_s2",
+      "text": "Bu işte iyi para [kazanıyorum].",
+      "note": null
+    },
+    {
+      "id": "kazanmak_s3",
+      "text": "Tecrübe [kazanmak] için staj yapıyorum.",
+      "note": null
+    },
+    {
+      "id": "kazanmak_s4",
+      "text": "Yarışmayı [kazanmayı] çok istiyorum.",
+      "note": null
+    },
+    {
+      "id": "kazanmak_s5",
+      "text": "Güvenini yeniden [kazanmak] çok zaman aldı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kazanmak_r1",
+      "prompt": "Oynadığın bir yarışmada birinci oldun. Ne yaptın?",
+      "accepted_forms": [
+        "kazandım",
+        "birinci oldum",
+        "kazanabildim"
+      ],
+      "note": null
+    },
+    {
+      "id": "kazanmak_r2",
+      "prompt": "Çalışmanın karşılığında maaş alıyorsun. Bu eylemi nasıl ifade edersin?",
+      "accepted_forms": [
+        "kazanıyorum",
+        "kazanırım",
+        "para kazanıyorum"
+      ],
+      "note": null
+    }
+  ]
+}

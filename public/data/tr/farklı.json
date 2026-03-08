@@ -1,0 +1,56 @@
+{
+  "word": "farklı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "different, various",
+  "sentences": [
+    {
+      "id": "farklı_s1",
+      "text": "Bu sefer [farklı] bir yaklaşım deneyelim.",
+      "note": null
+    },
+    {
+      "id": "farklı_s2",
+      "text": "İki kardeş olmasına rağmen çok [farklı] karakterleri var.",
+      "note": null
+    },
+    {
+      "id": "farklı_s3",
+      "text": "[Farklı] kültürlerden insanlarla tanışmayı seviyorum.",
+      "note": null
+    },
+    {
+      "id": "farklı_s4",
+      "text": "Beklediğimden tamamen [farklı] çıktı.",
+      "note": null
+    },
+    {
+      "id": "farklı_s5",
+      "text": "[Farklı] fikirler bir araya gelince daha iyi sonuçlar çıkıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "farklı_r1",
+      "prompt": "İki şeyin birbirine benzememesini ifade etmek istiyorsun. Bu durumu nasıl anlarsın?",
+      "accepted_forms": [
+        "farklı",
+        "farklıdır",
+        "farklı birbirinden"
+      ],
+      "note": null
+    },
+    {
+      "id": "farklı_r2",
+      "prompt": "Her zamanki yoldan gitmeye karar veriyorsun ama bu sefer değiştiriyorsun. Ne diyorsun?",
+      "accepted_forms": [
+        "farklı bir yol",
+        "farklı gidelim",
+        "farklı"
+      ],
+      "note": null
+    }
+  ]
+}

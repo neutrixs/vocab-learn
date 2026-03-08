@@ -1,0 +1,56 @@
+{
+  "word": "yorucu",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "tiring, exhausting",
+  "sentences": [
+    {
+      "id": "yorucu_s1",
+      "text": "Bu iş gerçekten çok [yorucu].",
+      "note": null
+    },
+    {
+      "id": "yorucu_s2",
+      "text": "Uzun yolculuklar beni [yorucu] buluyor.",
+      "note": null
+    },
+    {
+      "id": "yorucu_s3",
+      "text": "[Yorucu] bir günün ardından eve geldim.",
+      "note": null
+    },
+    {
+      "id": "yorucu_s4",
+      "text": "Bu toplantı çok [yorucuydu], dikkatimi toparlayamadım.",
+      "note": null
+    },
+    {
+      "id": "yorucu_s5",
+      "text": "Hem zihinsel hem fiziksel olarak [yorucu] bir süreçti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yorucu_r1",
+      "prompt": "Çok enerji harcatan, seni bitkin bırakan bir günü nasıl tanımlarsın?",
+      "accepted_forms": [
+        "yorucu",
+        "yorucuydu",
+        "çok yorucu"
+      ],
+      "note": null
+    },
+    {
+      "id": "yorucu_r2",
+      "prompt": "İşten eve geldin, çok yoruldun. Arkadaşın soruyor. '... nasıldı?' Ne diyorsun?",
+      "accepted_forms": [
+        "yorucuydu",
+        "çok yorucuydu",
+        "yorucu geçti"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "word": "endişeli",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "worried, anxious, concerned",
+  "sentences": [
+    {
+      "id": "endişeli_s1",
+      "text": "Sınav sonuçları için çok [endişeliyim].",
+      "note": null
+    },
+    {
+      "id": "endişeli_s2",
+      "text": "Yüzünden [endişeli] olduğun belli.",
+      "note": null
+    },
+    {
+      "id": "endişeli_s3",
+      "text": "Bu durum herkesi [endişelendirdi].",
+      "note": "Fiil türevi"
+    },
+    {
+      "id": "endişeli_s4",
+      "text": "[Endişeli] görünüyorsun, bir sorun mu var?",
+      "note": null
+    },
+    {
+      "id": "endişeli_s5",
+      "text": "Geleceği düşününce bazen [endişeli] hissediyorum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "endişeli_r1",
+      "prompt": "Bir şey hakkında kaygılı ve tedirgin hissediyorsun. Bu durumu nasıl tanımlarsın?",
+      "accepted_forms": [
+        "endişeliyim",
+        "endişeli",
+        "endişeliyim ben"
+      ],
+      "note": null
+    },
+    {
+      "id": "endişeli_r2",
+      "prompt": "Arkadaşının yüzü asık ve gergin. Ona ne diyorsun?",
+      "accepted_forms": [
+        "endişeli görünüyorsun",
+        "endişeli misin",
+        "endişeli"
+      ],
+      "note": null
+    }
+  ]
+}

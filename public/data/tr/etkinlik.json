@@ -1,0 +1,56 @@
+{
+  "word": "etkinlik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "event, activity",
+  "sentences": [
+    {
+      "id": "etkinlik_s1",
+      "text": "Bu hafta sonu kültürel bir [etkinliğe] katılacağım.",
+      "note": null
+    },
+    {
+      "id": "etkinlik_s2",
+      "text": "Okul [etkinlikleri] öğrencileri bir araya getiriyor.",
+      "note": null
+    },
+    {
+      "id": "etkinlik_s3",
+      "text": "Bu [etkinlik] her yıl düzenleniyor.",
+      "note": null
+    },
+    {
+      "id": "etkinlik_s4",
+      "text": "[Etkinlik] programı oldukça dolu görünüyor.",
+      "note": null
+    },
+    {
+      "id": "etkinlik_s5",
+      "text": "Çevre duyarlılığını artırmak için bir [etkinlik] organize ettik.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "etkinlik_r1",
+      "prompt": "Belirli bir amaçla düzenlenen organizasyon veya programa ne denir?",
+      "accepted_forms": [
+        "etkinlik",
+        "etkinliktir",
+        "etkinliği"
+      ],
+      "note": null
+    },
+    {
+      "id": "etkinlik_r2",
+      "prompt": "Arkadaşına hafta sonu yapılacak bir programa katılmayı teklif ediyorsun. 'Bu ___ birlikte gidelim mi?'",
+      "accepted_forms": [
+        "etkinliğe",
+        "etkinliğine",
+        "etkinlik"
+      ],
+      "note": null
+    }
+  ]
+}

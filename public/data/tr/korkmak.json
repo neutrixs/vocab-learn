@@ -1,0 +1,56 @@
+{
+  "word": "korkmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to be afraid, to fear",
+  "sentences": [
+    {
+      "id": "korkmak_s1",
+      "text": "Karanlıktan [korkuyorum].",
+      "note": null
+    },
+    {
+      "id": "korkmak_s2",
+      "text": "Başarısız olmaktan [korkma], dene!",
+      "note": "Olumsuz emir"
+    },
+    {
+      "id": "korkmak_s3",
+      "text": "O kadar [korkmuştum] ki sesim çıkmadı.",
+      "note": "Dolaylı geçmiş"
+    },
+    {
+      "id": "korkmak_s4",
+      "text": "Yüksekten [korkar] mısın?",
+      "note": null
+    },
+    {
+      "id": "korkmak_s5",
+      "text": "Gerçeği söylemekten [korktu] ve sessiz kaldı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "korkmak_r1",
+      "prompt": "Bir şey seni tedirgin ve endişeli yapıyor, ondan kaçmak istiyorsun. Bu duyguya ne denir?",
+      "accepted_forms": [
+        "korkmak",
+        "korkuyorum",
+        "korku"
+      ],
+      "note": null
+    },
+    {
+      "id": "korkmak_r2",
+      "prompt": "Birini cesaretlendiriyorsun. '___! Her şey yoluna girecek.' diyorsun.",
+      "accepted_forms": [
+        "korkma",
+        "korkma kardeşim",
+        "korkmamalısın"
+      ],
+      "note": null
+    }
+  ]
+}

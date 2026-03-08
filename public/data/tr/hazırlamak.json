@@ -1,0 +1,56 @@
+{
+  "word": "hazırlamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to prepare, to get ready",
+  "sentences": [
+    {
+      "id": "hazırlamak_s1",
+      "text": "Toplantı için bir sunum [hazırladım].",
+      "note": null
+    },
+    {
+      "id": "hazırlamak_s2",
+      "text": "Annem akşam yemeğini [hazırlıyor].",
+      "note": null
+    },
+    {
+      "id": "hazırlamak_s3",
+      "text": "Sınav için kendini nasıl [hazırlıyorsun]?",
+      "note": null
+    },
+    {
+      "id": "hazırlamak_s4",
+      "text": "Bu raporu yarına kadar [hazırlamam] gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "hazırlamak_s5",
+      "text": "Her şey [hazırlandı], artık başlayabiliriz.",
+      "note": "Edilgen"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hazırlamak_r1",
+      "prompt": "Yarın önemli bir sunum var. Bu gece ne yapıyorsun?",
+      "accepted_forms": [
+        "hazırlıyorum",
+        "hazırlıyom",
+        "hazırladım"
+      ],
+      "note": null
+    },
+    {
+      "id": "hazırlamak_r2",
+      "prompt": "Davetliler için her şeyi önceden düzenledin. Bunu tek kelimeyle ifade et.",
+      "accepted_forms": [
+        "hazırladım",
+        "hazırladık",
+        "hazırlandı"
+      ],
+      "note": null
+    }
+  ]
+}

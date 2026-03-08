@@ -1,0 +1,56 @@
+{
+  "word": "ikna etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to convince, to persuade",
+  "sentences": [
+    {
+      "id": "ikna etmek_s1",
+      "text": "Onu bu fikre [ikna etmek] çok zor.",
+      "note": null
+    },
+    {
+      "id": "ikna etmek_s2",
+      "text": "Seni buraya gelmem için [ikna ettim] değil mi?",
+      "note": null
+    },
+    {
+      "id": "ikna etmek_s3",
+      "text": "Müşteriyi ürünü almaya [ikna etti].",
+      "note": null
+    },
+    {
+      "id": "ikna etmek_s4",
+      "text": "Kendimi [ikna etmeye] çalışıyorum ama inanmıyorum.",
+      "note": null
+    },
+    {
+      "id": "ikna etmek_s5",
+      "text": "Arkadaşımı tatile gelmeye [ikna ettim].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ikna etmek_r1",
+      "prompt": "Birini senin görüşünü kabul etmesi için argümanlarla etkiliyorsun. Ne yapıyorsun?",
+      "accepted_forms": [
+        "ikna ediyorum",
+        "ikna ettim",
+        "ikna etmek"
+      ],
+      "note": null
+    },
+    {
+      "id": "ikna etmek_r2",
+      "prompt": "Arkadaşın gelmek istemiyordu ama sonunda kabul etti. Ne yaptın?",
+      "accepted_forms": [
+        "ikna ettim",
+        "ikna edebildim",
+        "ikna etti"
+      ],
+      "note": null
+    }
+  ]
+}
