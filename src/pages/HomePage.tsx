@@ -14,20 +14,48 @@ import type { SM2Card } from '../types/progress';
 
 const PAGE_SIZE = 10;
 
-function WordList({ words, cards }: { words: WordIndexEntry[]; cards: Record<string, SM2Card> }) {
+const POS_LABELS: Record<string, string> = {
+  verb: 'Fiil',
+  noun: 'İsim',
+  adjective: 'Sıfat',
+  adverb: 'Zarf',
+};
+
+function WordList({ words, cards, lang }: { words: WordIndexEntry[]; cards: Record<string, SM2Card>; lang: string }) {
   const [search, setSearch] = useState('');
+  const [selectedPos, setSelectedPos] = useState<Set<string>>(new Set());
   const [page, setPage] = useState(0);
 
-  const filtered = words.filter((w) =>
-    w.word.toLowerCase().includes(search.toLowerCase())
+  const allPos = [...new Set(words.map((w) => w.part_of_speech))].sort((a, b) =>
+    (POS_LABELS[a] ?? a).localeCompare(POS_LABELS[b] ?? b, lang)
   );
+
+  const sorted = [...words].sort((a, b) => a.word.localeCompare(b.word, lang));
+
+  const filtered = sorted.filter((w) => {
+    const matchesSearch = w.word.toLowerCase().includes(search.toLowerCase());
+    const matchesPos = selectedPos.size === 0 || selectedPos.has(w.part_of_speech);
+    return matchesSearch && matchesPos;
+  });
+
   const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
   const safePage = Math.min(page, Math.max(0, totalPages - 1));
   const visible = filtered.slice(safePage * PAGE_SIZE, safePage * PAGE_SIZE + PAGE_SIZE);
 
+  function resetPage() { setPage(0); }
+
   function handleSearch(value: string) {
     setSearch(value);
-    setPage(0);
+    resetPage();
+  }
+
+  function togglePos(pos: string) {
+    setSelectedPos((prev) => {
+      const next = new Set(prev);
+      if (next.has(pos)) next.delete(pos); else next.add(pos);
+      return next;
+    });
+    resetPage();
   }
 
   return (
@@ -40,6 +68,17 @@ function WordList({ words, cards }: { words: WordIndexEntry[]; cards: Record<str
         value={search}
         onChange={(e) => handleSearch(e.target.value)}
       />
+      <div className="pos-filter-pills">
+        {allPos.map((pos) => (
+          <button
+            key={pos}
+            className={`pos-pill${selectedPos.has(pos) ? ' pos-pill--active' : ''}`}
+            onClick={() => togglePos(pos)}
+          >
+            {POS_LABELS[pos] ?? pos}
+          </button>
+        ))}
+      </div>
       <ul className="word-index-list">
         {visible.map((w) => {
           const recCard = cards[`${w.word}::recognition`];
@@ -190,7 +229,7 @@ export function HomePage() {
         </Card>
 
         {index && (
-          <WordList words={index.words} cards={lp?.cards ?? {}} />
+          <WordList words={index.words} cards={lp?.cards ?? {}} lang={lang} />
         )}
       </div>
     </div>
