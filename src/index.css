@@ -150,7 +150,6 @@ body {
   font-size: 0.75rem;
   font-weight: 600;
   letter-spacing: 0.08em;
-  text-transform: uppercase;
   color: var(--color-text-secondary);
   margin-bottom: 1rem;
 }
@@ -223,7 +222,6 @@ body {
   font-size: 0.72rem;
   font-weight: 600;
   letter-spacing: 0.03em;
-  text-transform: uppercase;
 }
 
 .badge-default {
