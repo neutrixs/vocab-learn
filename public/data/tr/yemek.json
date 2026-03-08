@@ -1,0 +1,27 @@
+{
+  "word": "yemek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to eat (also: food, meal as noun)",
+  "sentences": [
+    { "id": "yemek_s1", "text": "Sabahleyin kahvaltı [yiyorum].", "note": null },
+    { "id": "yemek_s2", "text": "Dün akşam ne [yedin]?", "note": null },
+    { "id": "yemek_s3", "text": "Annem harika [yemek] yapıyor.", "note": "here 'yemek' is used as noun: food/meal" },
+    { "id": "yemek_s4", "text": "Çok acıktım, hemen bir şeyler [yemem] lazım.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yemek_r1",
+      "prompt": "Çok acıktın. Bir arkadaşına 'biraz sonra ...' diyorsun.",
+      "accepted_forms": ["yiyeceğim", "yemek yiyeceğim", "yemek yiyorum", "yemek"],
+      "note": null
+    },
+    {
+      "id": "yemek_r2",
+      "prompt": "Dün öğle yemeğinde pizza tercih ettin. Bu cümleyi tamamla: 'Öğle ... pizza ...'",
+      "accepted_forms": ["yedim", "yemek yedim"],
+      "note": null
+    }
+  ]
+}

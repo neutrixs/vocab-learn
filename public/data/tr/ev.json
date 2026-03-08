@@ -1,0 +1,27 @@
+{
+  "word": "ev",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "house, home",
+  "sentences": [
+    { "id": "ev_s1", "text": "Akşam [eve] erken geldim.", "note": "'eve' = to home (dative)" },
+    { "id": "ev_s2", "text": "[Evimiz] şehrin merkezinde.", "note": "'evimiz' = our home" },
+    { "id": "ev_s3", "text": "[Evde] kimse yoktu.", "note": "'evde' = at home (locative)" },
+    { "id": "ev_s4", "text": "Yeni [eve] taşınıyoruz.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ev_r1",
+      "prompt": "İş çıkışı nereye gidiyorsun? 'Doğruca ..e gidiyorum.' dersin.",
+      "accepted_forms": ["eve", "ev", "evime"],
+      "note": null
+    },
+    {
+      "id": "ev_r2",
+      "prompt": "Arkadaşın 'Neredesin?' diye soruyor. Şu an evdeyken cevabın ne?",
+      "accepted_forms": ["evdeyim", "evde", "evdeyim ben"],
+      "note": null
+    }
+  ]
+}

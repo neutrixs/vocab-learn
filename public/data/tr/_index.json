@@ -1,0 +1,15 @@
+{
+  "lang": "tr",
+  "words": [
+    { "word": "kalkmak", "file": "kalkmak.json", "difficulty": 1, "part_of_speech": "verb", "tags": ["movement", "daily"] },
+    { "word": "gitmek", "file": "gitmek.json", "difficulty": 1, "part_of_speech": "verb", "tags": ["movement", "daily"] },
+    { "word": "gelmek", "file": "gelmek.json", "difficulty": 1, "part_of_speech": "verb", "tags": ["movement", "daily"] },
+    { "word": "yemek", "file": "yemek.json", "difficulty": 1, "part_of_speech": "verb", "tags": ["daily"] },
+    { "word": "içmek", "file": "icmek.json", "difficulty": 1, "part_of_speech": "verb", "tags": ["daily"] },
+    { "word": "güzel", "file": "guzel.json", "difficulty": 1, "part_of_speech": "adjective", "tags": ["descriptive"] },
+    { "word": "büyük", "file": "buyuk.json", "difficulty": 1, "part_of_speech": "adjective", "tags": ["descriptive"] },
+    { "word": "ev", "file": "ev.json", "difficulty": 1, "part_of_speech": "noun", "tags": ["home"] },
+    { "word": "su", "file": "su.json", "difficulty": 1, "part_of_speech": "noun", "tags": ["daily"] },
+    { "word": "zaman", "file": "zaman.json", "difficulty": 2, "part_of_speech": "noun", "tags": ["time"] }
+  ]
+}

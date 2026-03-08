@@ -1,0 +1,26 @@
+{
+  "_instructions": [
+    "Sentences in target language only — no English.",
+    "Word must appear in [brackets] in every sentence.",
+    "accepted_forms covers top 3-5 inflections for recall.",
+    "recall_prompts must be in the target language only.",
+    "english_gloss is shown only on Reveal — not during study."
+  ],
+  "word": "TARGET_WORD",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "translation shown only on Reveal",
+  "sentences": [
+    { "id": "WORD_s1", "text": "sentence with [WORD_FORM] here.", "note": null },
+    { "id": "WORD_s2", "text": "another sentence with [WORD_FORM].", "note": "optional grammatical note" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "WORD_r1",
+      "prompt": "Turkish scenario/question obviously requiring the word",
+      "accepted_forms": ["form1", "form2", "form3"],
+      "note": null
+    }
+  ]
+}

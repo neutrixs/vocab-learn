@@ -1,0 +1,27 @@
+{
+  "word": "büyük",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "big, large, great, elder",
+  "sentences": [
+    { "id": "buyuk_s1", "text": "Bu çanta çok [büyük], taşıyamam.", "note": null },
+    { "id": "buyuk_s2", "text": "[Büyük] şehirlerde trafik sorunu var.", "note": null },
+    { "id": "buyuk_s3", "text": "O benim [büyük] kardeşim.", "note": "'büyük kardeş' = elder sibling" },
+    { "id": "buyuk_s4", "text": "Bu [büyük] bir fırsat, kaçırma!", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "buyuk_r1",
+      "prompt": "Karşındaki iki ekmekten hangisini alacaksın? 'Daha ... olanı alacağım.' dersin.",
+      "accepted_forms": ["büyük", "büyüğünü"],
+      "note": null
+    },
+    {
+      "id": "buyuk_r2",
+      "prompt": "İstanbul Ankara'ya göre nasıl bir şehir? 'İstanbul daha ...' diyorsun.",
+      "accepted_forms": ["büyük", "büyüktür"],
+      "note": null
+    }
+  ]
+}

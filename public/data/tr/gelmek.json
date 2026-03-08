@@ -1,0 +1,27 @@
+{
+  "word": "gelmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to come",
+  "sentences": [
+    { "id": "gelmek_s1", "text": "Misafirler akşam [geliyor].", "note": null },
+    { "id": "gelmek_s2", "text": "Türkiye'ye ne zaman [geldin]?", "note": null },
+    { "id": "gelmek_s3", "text": "Lütfen toplantıya zamanında [gel].", "note": "imperative form" },
+    { "id": "gelmek_s4", "text": "Bu fikir aklıma hiç [gelmemişti].", "note": "idiomatic: 'it never occurred to me'" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gelmek_r1",
+      "prompt": "Arkadaşın kapıda bekliyor. Ona 'içeri ...' diyorsun.",
+      "accepted_forms": ["gel", "gelin", "gelmek"],
+      "note": null
+    },
+    {
+      "id": "gelmek_r2",
+      "prompt": "Dün partiye katıldın. 'Partiye ne zaman ..?' sorusuna cevap ver.",
+      "accepted_forms": ["geldim", "geldin", "gelmek"],
+      "note": null
+    }
+  ]
+}
