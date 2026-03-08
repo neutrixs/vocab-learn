@@ -1,0 +1,56 @@
+{
+  "word": "sevinmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to be glad, to rejoice, to be pleased",
+  "sentences": [
+    {
+      "id": "sevinmek_s1",
+      "text": "Sınavı geçtiğimi öğrenince çok [sevindim].",
+      "note": null
+    },
+    {
+      "id": "sevinmek_s2",
+      "text": "Seni görünce ne kadar [sevineceğimi] bilemezsin.",
+      "note": null
+    },
+    {
+      "id": "sevinmek_s3",
+      "text": "Çocuklar hediyelerini görünce [sevindi].",
+      "note": null
+    },
+    {
+      "id": "sevinmek_s4",
+      "text": "Bu habere [sevinmemek] elde değil.",
+      "note": null
+    },
+    {
+      "id": "sevinmek_s5",
+      "text": "Takımımız maçı kazanınca hepimiz [sevindik].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sevinmek_r1",
+      "prompt": "Beklediğin iyi haber geldi. Tepkin ne oldu?",
+      "accepted_forms": [
+        "sevindim",
+        "çok sevindim",
+        "sevinçle karşıladım"
+      ],
+      "note": null
+    },
+    {
+      "id": "sevinmek_r2",
+      "prompt": "Arkadaşın iyi bir haber paylaşıyor. 'Bu habere çok ___!' diyorsun.",
+      "accepted_forms": [
+        "sevindim",
+        "seviniyorum",
+        "sevindik"
+      ],
+      "note": null
+    }
+  ]
+}

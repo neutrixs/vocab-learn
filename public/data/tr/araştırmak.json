@@ -1,0 +1,57 @@
+{
+  "word": "araştırmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to research, to investigate, to look into",
+  "sentences": [
+    {
+      "id": "araştırmak_s1",
+      "text": "Bu hastalık hakkında kapsamlı bir makale [araştırdım].",
+      "note": null
+    },
+    {
+      "id": "araştırmak_s2",
+      "text": "Yeni bir şehre taşınmadan önce mahalleleri [araştırmak] önemlidir.",
+      "note": null
+    },
+    {
+      "id": "araştırmak_s3",
+      "text": "Bilim insanları yıllardır bu konuyu [araştırıyor].",
+      "note": null
+    },
+    {
+      "id": "araştırmak_s4",
+      "text": "Polisler olayı ayrıntılı biçimde [araştırdı].",
+      "note": null
+    },
+    {
+      "id": "araştırmak_s5",
+      "text": "İnternette [araştırırsan] pek çok kaynak bulursun.",
+      "note": "Şart kipi"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "araştırmak_r1",
+      "prompt": "Bir üniversite öğrencisi tez yazmadan önce kütüphanede ve internette ne yapıyor?",
+      "accepted_forms": [
+        "araştırıyor",
+        "araştırır",
+        "araştırmak"
+      ],
+      "note": null
+    },
+    {
+      "id": "araştırmak_r2",
+      "prompt": "Bir konuyu derinlemesine incelemek istiyorsun. 'Bu konuyu daha fazla ___' diyorsun.",
+      "accepted_forms": [
+        "araştırmak istiyorum",
+        "araştıracağım",
+        "araştırmalıyım",
+        "araştırayım"
+      ],
+      "note": null
+    }
+  ]
+}

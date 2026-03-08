@@ -1,0 +1,56 @@
+{
+  "word": "hatırlamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to remember, to recall",
+  "sentences": [
+    {
+      "id": "hatırlamak_s1",
+      "text": "Onun adını bir türlü [hatırlayamıyorum].",
+      "note": null
+    },
+    {
+      "id": "hatırlamak_s2",
+      "text": "Çocukluğumu her detayıyla [hatırlıyorum].",
+      "note": null
+    },
+    {
+      "id": "hatırlamak_s3",
+      "text": "Bunu bana [hatırlatır] mısın? Unutabilirim.",
+      "note": "Hatırlatmak türevi"
+    },
+    {
+      "id": "hatırlamak_s4",
+      "text": "O günleri hâlâ [hatırlıyorum], sanki dündü.",
+      "note": null
+    },
+    {
+      "id": "hatırlamak_s5",
+      "text": "Toplantı saatini [hatırladın] mı?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hatırlamak_r1",
+      "prompt": "Birinin adını biliyordun ama şu an aklına gelmiyor. Ne diyorsun?",
+      "accepted_forms": [
+        "hatırlayamıyorum",
+        "hatırlamıyorum",
+        "aklıma gelmiyor"
+      ],
+      "note": null
+    },
+    {
+      "id": "hatırlamak_r2",
+      "prompt": "Arkadaşına önemli bir şeyi unutmamasını söylüyorsun. '...bunu ___ mısın?' diyorsun.",
+      "accepted_forms": [
+        "hatırlar",
+        "hatırlıyor",
+        "hatırlıyorsun"
+      ],
+      "note": null
+    }
+  ]
+}

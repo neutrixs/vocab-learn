@@ -1,0 +1,56 @@
+{
+  "word": "üzülmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to be sad, to feel sorry, to be upset",
+  "sentences": [
+    {
+      "id": "üzülmek_s1",
+      "text": "Bu haberi duyunca çok [üzüldüm].",
+      "note": null
+    },
+    {
+      "id": "üzülmek_s2",
+      "text": "Onun için [üzülüyorum], zor bir dönem geçiriyor.",
+      "note": null
+    },
+    {
+      "id": "üzülmek_s3",
+      "text": "[Üzülme], her şey düzelecek.",
+      "note": "Olumsuz emir, teselli"
+    },
+    {
+      "id": "üzülmek_s4",
+      "text": "Başarısız olduğumda [üzülmek] yerine ders çıkarmaya çalışırım.",
+      "note": null
+    },
+    {
+      "id": "üzülmek_s5",
+      "text": "Bu sonuçtan çok [üzüldük].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "üzülmek_r1",
+      "prompt": "Arkadaşın kötü bir haber aldı, yüzü asık. Ona ne diyorsun?",
+      "accepted_forms": [
+        "üzülme",
+        "üzülmeyin",
+        "üzülmene gerek yok"
+      ],
+      "note": null
+    },
+    {
+      "id": "üzülmek_r2",
+      "prompt": "Kötü bir haber aldın ve duygunu anlatıyorsun. '...bu habere çok ___.' diyorsun.",
+      "accepted_forms": [
+        "üzüldüm",
+        "üzüldük",
+        "üzülüyorum"
+      ],
+      "note": null
+    }
+  ]
+}

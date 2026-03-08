@@ -1,0 +1,57 @@
+{
+  "word": "tartışmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to discuss, to argue, to debate",
+  "sentences": [
+    {
+      "id": "tartışmak_s1",
+      "text": "Bu konuyu saatlerce [tartıştık] ama bir sonuca varamadık.",
+      "note": null
+    },
+    {
+      "id": "tartışmak_s2",
+      "text": "Siyaset hakkında [tartışmak] istemiyorum.",
+      "note": null
+    },
+    {
+      "id": "tartışmak_s3",
+      "text": "Arkadaşımla dün gece [tartıştım] ve çok üzüldüm.",
+      "note": null
+    },
+    {
+      "id": "tartışmak_s4",
+      "text": "Ekip, projenin detaylarını toplantıda [tartışacak].",
+      "note": null
+    },
+    {
+      "id": "tartışmak_s5",
+      "text": "Farklı görüşleri [tartışmak] bizi daha iyi kararlar almaya götürür.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tartışmak_r1",
+      "prompt": "Toplantıda bir karar verilmeden önce herkesin fikrini paylaştığı bir süreç yaşanıyor. Bu süreç için ne kullanırsın?",
+      "accepted_forms": [
+        "tartışmak",
+        "tartışıyoruz",
+        "tartışalım",
+        "tartışıldı"
+      ],
+      "note": null
+    },
+    {
+      "id": "tartışmak_r2",
+      "prompt": "İki arkadaş bir konuda anlaşamıyor ve sesleri yükseliyor. Bu durumu tek kelimeyle nasıl ifade edersin?",
+      "accepted_forms": [
+        "tartışıyorlar",
+        "tartışıyor",
+        "tartışmak"
+      ],
+      "note": null
+    }
+  ]
+}

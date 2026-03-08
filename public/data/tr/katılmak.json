@@ -1,0 +1,57 @@
+{
+  "word": "katılmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to join, to participate, to agree",
+  "sentences": [
+    {
+      "id": "katılmak_s1",
+      "text": "Toplantıya [katılmak] ister misin?",
+      "note": null
+    },
+    {
+      "id": "katılmak_s2",
+      "text": "Bu fikre tamamen [katılıyorum].",
+      "note": "Hemfikir olma anlamında"
+    },
+    {
+      "id": "katılmak_s3",
+      "text": "Yarışmaya kaç kişi [katıldı]?",
+      "note": null
+    },
+    {
+      "id": "katılmak_s4",
+      "text": "Maalesef bu sefer etkinliğe [katılamıyorum].",
+      "note": "Olumsuz"
+    },
+    {
+      "id": "katılmak_s5",
+      "text": "Herkesin tartışmaya [katılması] bekleniyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "katılmak_r1",
+      "prompt": "Birinin görüşünü doğru buluyorsun. Ne diyorsun?",
+      "accepted_forms": [
+        "katılıyorum",
+        "katılıyom",
+        "katılırım",
+        "tamamen katılıyorum"
+      ],
+      "note": null
+    },
+    {
+      "id": "katılmak_r2",
+      "prompt": "Seni bir etkinliğe davet ediyorlar. 'Bu etkinliğe ___ ister misin?' diyorlar.",
+      "accepted_forms": [
+        "katılmak",
+        "katılıyor",
+        "katılırsın"
+      ],
+      "note": null
+    }
+  ]
+}

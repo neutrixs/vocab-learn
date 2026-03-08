@@ -1,0 +1,56 @@
+{
+  "word": "geliştirmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to develop, to improve, to enhance",
+  "sentences": [
+    {
+      "id": "geliştirmek_s1",
+      "text": "Türkçemi [geliştirmek] için her gün pratik yapıyorum.",
+      "note": null
+    },
+    {
+      "id": "geliştirmek_s2",
+      "text": "Şirket, yeni bir yazılım [geliştiriyor].",
+      "note": null
+    },
+    {
+      "id": "geliştirmek_s3",
+      "text": "Kendini sürekli [geliştiren] insanlar daha başarılı olur.",
+      "note": "Geniş zaman sıfat-fiil"
+    },
+    {
+      "id": "geliştirmek_s4",
+      "text": "Bu program, öğrencilerin liderlik becerilerini [geliştirmelerine] yardımcı oluyor.",
+      "note": null
+    },
+    {
+      "id": "geliştirmek_s5",
+      "text": "Projeyi daha da [geliştirdik] ve müşteri memnun kaldı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "geliştirmek_r1",
+      "prompt": "Dil öğrenme uygulaması kullanıyorsun. Amacın ne?",
+      "accepted_forms": [
+        "geliştirmek",
+        "geliştiriyorum",
+        "geliştirmek istiyorum"
+      ],
+      "note": null
+    },
+    {
+      "id": "geliştirmek_r2",
+      "prompt": "Bir uygulama yeni özellikler kazandı. 'Yazılım ekibi uygulamayı ___.' cümlesini tamamla.",
+      "accepted_forms": [
+        "geliştirdi",
+        "geliştiriyor",
+        "geliştirdi"
+      ],
+      "note": null
+    }
+  ]
+}

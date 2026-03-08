@@ -1,15 +1,168 @@
 {
   "lang": "tr",
   "words": [
-    { "word": "kalkmak", "file": "kalkmak.json", "difficulty": 1, "part_of_speech": "verb", "tags": ["movement", "daily"] },
-    { "word": "gitmek", "file": "gitmek.json", "difficulty": 1, "part_of_speech": "verb", "tags": ["movement", "daily"] },
-    { "word": "gelmek", "file": "gelmek.json", "difficulty": 1, "part_of_speech": "verb", "tags": ["movement", "daily"] },
-    { "word": "yemek", "file": "yemek.json", "difficulty": 1, "part_of_speech": "verb", "tags": ["daily"] },
-    { "word": "içmek", "file": "içmek.json", "difficulty": 1, "part_of_speech": "verb", "tags": ["daily"] },
-    { "word": "güzel", "file": "güzel.json", "difficulty": 1, "part_of_speech": "adjective", "tags": ["descriptive"] },
-    { "word": "büyük", "file": "büyük.json", "difficulty": 1, "part_of_speech": "adjective", "tags": ["descriptive"] },
-    { "word": "ev", "file": "ev.json", "difficulty": 1, "part_of_speech": "noun", "tags": ["home"] },
-    { "word": "su", "file": "su.json", "difficulty": 1, "part_of_speech": "noun", "tags": ["daily"] },
-    { "word": "zaman", "file": "zaman.json", "difficulty": 2, "part_of_speech": "noun", "tags": ["time"] }
+    {
+      "word": "kalkmak",
+      "file": "kalkmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": [
+        "movement",
+        "daily"
+      ]
+    },
+    {
+      "word": "gitmek",
+      "file": "gitmek.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": [
+        "movement",
+        "daily"
+      ]
+    },
+    {
+      "word": "gelmek",
+      "file": "gelmek.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": [
+        "movement",
+        "daily"
+      ]
+    },
+    {
+      "word": "yemek",
+      "file": "yemek.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "word": "içmek",
+      "file": "içmek.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "word": "güzel",
+      "file": "güzel.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
+      "tags": [
+        "descriptive"
+      ]
+    },
+    {
+      "word": "büyük",
+      "file": "büyük.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
+      "tags": [
+        "descriptive"
+      ]
+    },
+    {
+      "word": "ev",
+      "file": "ev.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": [
+        "home"
+      ]
+    },
+    {
+      "word": "su",
+      "file": "su.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "word": "zaman",
+      "file": "zaman.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "word": "tartışmak",
+      "file": "tartışmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "araştırmak",
+      "file": "araştırmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "başarmak",
+      "file": "başarmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "geliştirmek",
+      "file": "geliştirmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "katılmak",
+      "file": "katılmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "reddetmek",
+      "file": "reddetmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "hatırlamak",
+      "file": "hatırlamak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "unutmak",
+      "file": "unutmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "üzülmek",
+      "file": "üzülmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "sevinmek",
+      "file": "sevinmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    }
   ]
 }

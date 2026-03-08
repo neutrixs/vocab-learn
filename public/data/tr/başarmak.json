@@ -1,0 +1,56 @@
+{
+  "word": "başarmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to succeed, to accomplish, to achieve",
+  "sentences": [
+    {
+      "id": "başarmak_s1",
+      "text": "Çok çalışırsan her şeyi [başarabilirsin].",
+      "note": null
+    },
+    {
+      "id": "başarmak_s2",
+      "text": "Sınavı geçmeyi sonunda [başardım]!",
+      "note": null
+    },
+    {
+      "id": "başarmak_s3",
+      "text": "Bu projeyi ekip olarak [başardık].",
+      "note": null
+    },
+    {
+      "id": "başarmak_s4",
+      "text": "İlk denemede [başaramadım] ama pes etmedim.",
+      "note": "Olumsuz yetenek geçmişi"
+    },
+    {
+      "id": "başarmak_s5",
+      "text": "Hedefine ulaşmayı [başarmak] için sabır gerekir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "başarmak_r1",
+      "prompt": "Uzun süredir uğraştığın zor bir sınavı sonunda geçtin. Arkadaşına ne diyorsun?",
+      "accepted_forms": [
+        "başardım",
+        "başarabildim",
+        "geçtim"
+      ],
+      "note": null
+    },
+    {
+      "id": "başarmak_r2",
+      "prompt": "Birine motivasyon veriyorsun. 'Çalışırsan kesinlikle ___' diyorsun.",
+      "accepted_forms": [
+        "başarırsın",
+        "başarabilirsin",
+        "başaracaksın"
+      ],
+      "note": null
+    }
+  ]
+}

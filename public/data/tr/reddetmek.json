@@ -1,0 +1,56 @@
+{
+  "word": "reddetmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to refuse, to reject, to turn down",
+  "sentences": [
+    {
+      "id": "reddetmek_s1",
+      "text": "Teklifini nazikçe [reddettim].",
+      "note": null
+    },
+    {
+      "id": "reddetmek_s2",
+      "text": "Başvurum [reddedildi], çok üzüldüm.",
+      "note": "Edilgen yapı"
+    },
+    {
+      "id": "reddetmek_s3",
+      "text": "Bu teklifi [reddedemezsin], çok iyi bir fırsat.",
+      "note": null
+    },
+    {
+      "id": "reddetmek_s4",
+      "text": "Mahkeme davayı [reddetti].",
+      "note": null
+    },
+    {
+      "id": "reddetmek_s5",
+      "text": "Neden bu öneriyi [reddettiğini] anlamıyorum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "reddetmek_r1",
+      "prompt": "Sana bir iş teklifi yapıldı ama kabul etmek istemiyorsun. Ne yapıyorsun?",
+      "accepted_forms": [
+        "reddettim",
+        "reddediyorum",
+        "kabul etmiyorum"
+      ],
+      "note": null
+    },
+    {
+      "id": "reddetmek_r2",
+      "prompt": "Üniversiteye başvuran birinin başvurusu kabul edilmedi. Bu durumu nasıl ifade edersin?",
+      "accepted_forms": [
+        "reddedildi",
+        "kabul edilmedi",
+        "reddetti"
+      ],
+      "note": null
+    }
+  ]
+}
