@@ -9,7 +9,78 @@ import { useLanguage } from '../context/LanguageContext';
 import { useProgress } from '../context/ProgressContext';
 import { loadIndex } from '../lib/dataLoader';
 import { buildSession } from '../lib/scheduler';
-import type { WordIndex } from '../types/word';
+import type { WordIndex, WordIndexEntry } from '../types/word';
+import type { SM2Card } from '../types/progress';
+
+const PAGE_SIZE = 10;
+
+function WordList({ words, cards }: { words: WordIndexEntry[]; cards: Record<string, SM2Card> }) {
+  const [search, setSearch] = useState('');
+  const [page, setPage] = useState(0);
+
+  const filtered = words.filter((w) =>
+    w.word.toLowerCase().includes(search.toLowerCase())
+  );
+  const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
+  const safePage = Math.min(page, Math.max(0, totalPages - 1));
+  const visible = filtered.slice(safePage * PAGE_SIZE, safePage * PAGE_SIZE + PAGE_SIZE);
+
+  function handleSearch(value: string) {
+    setSearch(value);
+    setPage(0);
+  }
+
+  return (
+    <Card className="words-card">
+      <h3 className="card-section-title">Sözcük Listesi ({words.length})</h3>
+      <input
+        className="word-search-input"
+        type="text"
+        placeholder="Ara…"
+        value={search}
+        onChange={(e) => handleSearch(e.target.value)}
+      />
+      <ul className="word-index-list">
+        {visible.map((w) => {
+          const recCard = cards[`${w.word}::recognition`];
+          const recallCard = cards[`${w.word}::recall`];
+          return (
+            <li key={w.word} className="word-index-item">
+              <span className="word-index-word">{w.word}</span>
+              <span className="word-index-pos">{w.part_of_speech}</span>
+              <div className="word-index-cards">
+                <Badge variant={recCard ? 'success' : 'default'}>T</Badge>
+                <Badge variant={recallCard ? 'success' : 'default'}>H</Badge>
+              </div>
+            </li>
+          );
+        })}
+        {visible.length === 0 && (
+          <li className="word-index-empty">Sonuç bulunamadı.</li>
+        )}
+      </ul>
+      {totalPages > 1 && (
+        <div className="word-index-pagination">
+          <button
+            className="pagination-btn"
+            disabled={safePage === 0}
+            onClick={() => setPage(safePage - 1)}
+          >
+            ←
+          </button>
+          <span className="pagination-info">{safePage + 1} / {totalPages}</span>
+          <button
+            className="pagination-btn"
+            disabled={safePage >= totalPages - 1}
+            onClick={() => setPage(safePage + 1)}
+          >
+            →
+          </button>
+        </div>
+      )}
+    </Card>
+  );
+}
 
 export function HomePage() {
   const { lang } = useLanguage();
@@ -119,27 +190,7 @@ export function HomePage() {
         </Card>
 
         {index && (
-          <Card className="words-card">
-            <h3 className="card-section-title">Sözcük Listesi ({index.words.length})</h3>
-            <ul className="word-index-list">
-              {index.words.map((w) => {
-                const recKey = `${w.word}::recognition`;
-                const recCard = lp?.cards[recKey];
-                const recallKey = `${w.word}::recall`;
-                const recallCard = lp?.cards[recallKey];
-                return (
-                  <li key={w.word} className="word-index-item">
-                    <span className="word-index-word">{w.word}</span>
-                    <span className="word-index-pos">{w.part_of_speech}</span>
-                    <div className="word-index-cards">
-                      <Badge variant={recCard ? 'success' : 'default'}>T</Badge>
-                      <Badge variant={recallCard ? 'success' : 'default'}>H</Badge>
-                    </div>
-                  </li>
-                );
-              })}
-            </ul>
-          </Card>
+          <WordList words={index.words} cards={lp?.cards ?? {}} />
         )}
       </div>
     </div>
