@@ -27,6 +27,8 @@ func NewRouter(db *sql.DB, jwtSecret []byte, dataDir string) http.Handler {
 	// Progress (authenticated)
 	mux.Handle("GET /api/progress/{lang}", requireAuth(http.HandlerFunc(progress.Get)))
 	mux.Handle("PUT /api/progress/{lang}", requireAuth(http.HandlerFunc(progress.Put)))
+	mux.Handle("DELETE /api/progress/{lang}", requireAuth(http.HandlerFunc(progress.Delete)))
+	mux.Handle("DELETE /api/progress", requireAuth(http.HandlerFunc(progress.DeleteAll)))
 
 	return mux
 }

@@ -66,11 +66,20 @@ func loadSecret() []byte {
 	if s := os.Getenv("JWT_SECRET"); s != "" {
 		return []byte(s)
 	}
+
+	// Persist a generated secret to a file so it survives restarts.
+	secretFile := ".jwt_secret"
+	if data, err := os.ReadFile(secretFile); err == nil && len(data) >= 32 {
+		return data
+	}
+
 	b := make([]byte, 32)
 	if _, err := rand.Read(b); err != nil {
 		log.Fatal(err)
 	}
-	log.Println("warning: using random JWT_SECRET (set JWT_SECRET env var for persistence)")
+	if err := os.WriteFile(secretFile, b, 0600); err != nil {
+		log.Printf("warning: could not persist JWT secret to %s: %v", secretFile, err)
+	}
 	return b
 }
 

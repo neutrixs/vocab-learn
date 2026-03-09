@@ -17,6 +17,7 @@ bin/
 *.db
 *.db-wal
 *.db-shm
+.jwt_secret
 
 # Editor directories and files
 .vscode/*

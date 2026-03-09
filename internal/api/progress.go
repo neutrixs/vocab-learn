@@ -99,3 +99,35 @@ func (h *ProgressHandler) Put(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json")
 	w.Write([]byte(`{"ok":true}`))
 }
+
+// Delete serves DELETE /api/progress/{lang} — deletes all cards for the user+lang.
+func (h *ProgressHandler) Delete(w http.ResponseWriter, r *http.Request) {
+	userID := middleware.UserID(r.Context())
+	lang := r.PathValue("lang")
+
+	_, err := h.db.Exec(
+		"DELETE FROM progress WHERE user_id = ? AND lang = ?",
+		userID, lang,
+	)
+	if err != nil {
+		http.Error(w, `{"error":"internal error"}`, http.StatusInternalServerError)
+		return
+	}
+
+	w.Header().Set("Content-Type", "application/json")
+	w.Write([]byte(`{"ok":true}`))
+}
+
+// DeleteAll serves DELETE /api/progress — deletes all cards for the user.
+func (h *ProgressHandler) DeleteAll(w http.ResponseWriter, r *http.Request) {
+	userID := middleware.UserID(r.Context())
+
+	_, err := h.db.Exec("DELETE FROM progress WHERE user_id = ?", userID)
+	if err != nil {
+		http.Error(w, `{"error":"internal error"}`, http.StatusInternalServerError)
+		return
+	}
+
+	w.Header().Set("Content-Type", "application/json")
+	w.Write([]byte(`{"ok":true}`))
+}
