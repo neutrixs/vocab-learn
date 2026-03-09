@@ -1,0 +1,27 @@
+{
+  "word": "nezih",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "adjective",
+  "english_gloss": "refined, decent, respectable, upscale",
+  "sentences": [
+    { "id": "nezih_s1", "text": "Bu [nezih] mahallede yaşamak güzel.", "note": null },
+    { "id": "nezih_s2", "text": "[Nezih] bir restoranda akşam yemeği yedik.", "note": null },
+    { "id": "nezih_s3", "text": "Otel [nezih] bir çevrede yer alıyor.", "note": null },
+    { "id": "nezih_s4", "text": "Ailesi [nezih] insanlardan oluşuyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "nezih_r1",
+      "prompt": "Çok kaliteli, saygın ve temiz bir semti tanımlamak istiyorsun. Hangi sıfatı kullanırsın?",
+      "accepted_forms": ["nezih", "nezih bir", "çok nezih"],
+      "note": null
+    },
+    {
+      "id": "nezih_r2",
+      "prompt": "Bir lokantayı 'temiz, şık ve saygın' diye tarif etmek istiyorsun. Tek kelimelik sıfat hangisi?",
+      "accepted_forms": ["nezih", "nezih bir restoran"],
+      "note": null
+    }
+  ]
+}

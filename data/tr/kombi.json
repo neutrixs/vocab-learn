@@ -1,0 +1,27 @@
+{
+  "word": "kombi",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "combi boiler (combined water heater and central heating unit)",
+  "sentences": [
+    { "id": "kombi_s1", "text": "Evde [kombi] bozulunca çok üşüdük.", "note": null },
+    { "id": "kombi_s2", "text": "Yeni [kombi] aldık, enerji tüketimi çok düştü.", "note": null },
+    { "id": "kombi_s3", "text": "[Kombi] hem ısıtma hem de sıcak su sağlar.", "note": null },
+    { "id": "kombi_s4", "text": "Teknisyen [kombinin] filtresini temizledi.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kombi_r1",
+      "prompt": "Kışın evin ısınmasını ve sıcak suyu sağlayan cihaza ne denir?",
+      "accepted_forms": ["kombi", "kombiler"],
+      "note": null
+    },
+    {
+      "id": "kombi_r2",
+      "prompt": "Kiracı ev sahibine 'ısıtma sistemi çalışmıyor' diye şikayet ediyor. Bu sistem için hangi kelimeyi kullanır?",
+      "accepted_forms": ["kombi", "kombinin", "kombisi"],
+      "note": null
+    }
+  ]
+}

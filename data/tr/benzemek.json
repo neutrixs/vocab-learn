@@ -1,0 +1,27 @@
+{
+  "word": "benzemek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to resemble, to look like, to be similar to",
+  "sentences": [
+    { "id": "benzemek_s1", "text": "Sen çok annenize [benziyorsun].", "note": null },
+    { "id": "benzemek_s2", "text": "Bu iki renk birbirine çok [benziyor].", "note": null },
+    { "id": "benzemek_s3", "text": "Onun sesi kardeşine [benziyor].", "note": null },
+    { "id": "benzemek_s4", "text": "Bu hikaye geçen okuduğuma [benzemiyor].", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "benzemek_r1",
+      "prompt": "Arkadaşın çok ünlü biri gibi görünüyor. Ona ne diyorsun?",
+      "accepted_forms": ["benziyorsun", "çok benziyorsun", "benziyor", "benzersin"],
+      "note": null
+    },
+    {
+      "id": "benzemek_r2",
+      "prompt": "İki kız kardeş aynı yüz hatlarına sahip. Bu durumu nasıl ifade edersin?",
+      "accepted_forms": ["benzemek", "benziyorlar", "birbirine benziyorlar", "birbirine benziyor"],
+      "note": null
+    }
+  ]
+}

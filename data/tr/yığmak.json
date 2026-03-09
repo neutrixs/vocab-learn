@@ -1,0 +1,27 @@
+{
+  "word": "yığmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to pile up, to heap, to stack",
+  "sentences": [
+    { "id": "yigmak_s1", "text": "Taşıma işçileri kutuları köşeye [yığdı].", "note": null },
+    { "id": "yigmak_s2", "text": "Çocuk oyuncaklarını odanın ortasına [yığmış].", "note": null },
+    { "id": "yigmak_s3", "text": "Müdür bütün işi bana [yığdı].", "note": "figurative: to dump work on someone" },
+    { "id": "yigmak_s4", "text": "Kışın çalı çırpıyı bahçeye [yığarlar].", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yigmak_r1",
+      "prompt": "Taşınma sırasında mobilyaları bir köşeye üst üste koymak ne demektir?",
+      "accepted_forms": ["yığmak", "yığdı", "yığıyor", "yığar"],
+      "note": null
+    },
+    {
+      "id": "yigmak_r2",
+      "prompt": "Patron bütün zor görevleri sana bıraktı. Arkadaşına nasıl anlat",
+      "accepted_forms": ["yığdı", "üstüme yığdı", "bana yığdı", "işi yığdı"],
+      "note": null
+    }
+  ]
+}

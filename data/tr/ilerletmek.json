@@ -1,0 +1,27 @@
+{
+  "word": "ilerletmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to advance, to move forward, to develop",
+  "sentences": [
+    { "id": "ilerletmek_s1", "text": "Her gün çalışarak Türkçemi [ilerletiyorum].", "note": null },
+    { "id": "ilerletmek_s2", "text": "Projeyi bir adım daha [ilerletmek] için toplantı yaptık.", "note": null },
+    { "id": "ilerletmek_s3", "text": "Satrançta piyonunu [ilerletti].", "note": null },
+    { "id": "ilerletmek_s4", "text": "Teknolojiyi [ilerletmek] için yatırım şarttır.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ilerletmek_r1",
+      "prompt": "Bir dili daha iyi konuşmak için düzenli pratik yaparak ne yapıyorsun?",
+      "accepted_forms": ["ilerletmek", "ilerletiyorum", "ilerlettim", "ilerletirim"],
+      "note": null
+    },
+    {
+      "id": "ilerletmek_r2",
+      "prompt": "Bir projeyi daha ileri bir aşamaya taşımak için ne yapıyorsun?",
+      "accepted_forms": ["ilerletmek", "ilerletiyorum", "projeyi ilerletmek", "ilerlettim"],
+      "note": null
+    }
+  ]
+}

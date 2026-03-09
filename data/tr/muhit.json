@@ -1,0 +1,27 @@
+{
+  "word": "muhit",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "neighborhood, surroundings, environment, social circle",
+  "sentences": [
+    { "id": "muhit_s1", "text": "Bu [muhit] sakin ve güvenli bir yer.", "note": null },
+    { "id": "muhit_s2", "text": "Çocuklar için iyi bir [muhitte] yaşıyoruz.", "note": null },
+    { "id": "muhit_s3", "text": "İş hayatında doğru [muhiti] tanımak önemlidir.", "note": null },
+    { "id": "muhit_s4", "text": "O [muhitte] herkes birbirini tanır.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "muhit_r1",
+      "prompt": "Evin çevresindeki mahalle ve sosyal ortamı tek kelimeyle nasıl tanımlarsın?",
+      "accepted_forms": ["muhit", "muhiti", "muhitte"],
+      "note": null
+    },
+    {
+      "id": "muhit_r2",
+      "prompt": "Emlakçı evin bulunduğu bölgenin sosyal yapısını ve çevresini anlatmak istiyor. Hangi kelimeyi kullanır?",
+      "accepted_forms": ["muhit", "muhiti", "muhit olarak"],
+      "note": null
+    }
+  ]
+}

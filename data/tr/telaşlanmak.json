@@ -1,0 +1,27 @@
+{
+  "word": "telaşlanmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to panic, to get flustered, to become anxious",
+  "sentences": [
+    { "id": "telaslanmak_s1", "text": "Sınav haberini duyunca herkes [telaşlandı].", "note": null },
+    { "id": "telaslanmak_s2", "text": "[Telaşlanma], her şey yolunda gidecek.", "note": null },
+    { "id": "telaslanmak_s3", "text": "Çocuk kaybolunca annesi çok [telaşlandı].", "note": null },
+    { "id": "telaslanmak_s4", "text": "Küçük bir gecikme yüzünden neden bu kadar [telaşlanıyorsun]?", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "telaslanmak_r1",
+      "prompt": "Uçağın geç kaldığını öğrenince ne hissediyorsun? Nasıl tepki veriyorsun?",
+      "accepted_forms": ["telaşlanıyorum", "telaşlandım", "telaşlanırım", "telaşlanıyorum"],
+      "note": null
+    },
+    {
+      "id": "telaslanmak_r2",
+      "prompt": "Arkadaşın sınavdan önce çok gergin görünüyor. Ona ne söylersin?",
+      "accepted_forms": ["telaşlanma", "telaşlanmayın", "telaşlanma lütfen"],
+      "note": null
+    }
+  ]
+}

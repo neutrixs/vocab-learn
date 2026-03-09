@@ -1,0 +1,28 @@
+{
+  "word": "konum",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "location, position, status",
+  "sentences": [
+    { "id": "konum_s1", "text": "Bu evin [konumu] çok merkezi.", "note": null },
+    { "id": "konum_s2", "text": "Telefonun [konum] servisini açmayı unuttum.", "note": null },
+    { "id": "konum_s3", "text": "Şirketinin [konumu] sektörde giderek güçleniyor.", "note": null },
+    { "id": "konum_s4", "text": "Haritada [konumunu] paylaştı.", "note": null },
+    { "id": "konum_s5", "text": "Dairenin [konumu] ulaşım açısından idealdir.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "konum_r1",
+      "prompt": "Arkadaşın seni bulmak istiyor, nerede olduğunu soruyor. Haritada neyi paylaşırsın?",
+      "accepted_forms": ["konum", "konumumu", "konumum"],
+      "note": null
+    },
+    {
+      "id": "konum_r2",
+      "prompt": "Emlakçı evi tanıtırken 'merkezi bir yerde' demek istiyor. Bunun için hangi kelimeyi kullanır?",
+      "accepted_forms": ["konum", "konumu", "konumda"],
+      "note": null
+    }
+  ]
+}

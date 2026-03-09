@@ -1,0 +1,27 @@
+{
+  "word": "vana",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "valve, tap, faucet",
+  "sentences": [
+    { "id": "vana_s1", "text": "Su akışını durdurmak için [vanayı] kapattım.", "note": null },
+    { "id": "vana_s2", "text": "Boru hattındaki [vana] arızalandı.", "note": null },
+    { "id": "vana_s3", "text": "Teknisyen [vanayı] değiştirmek için geldi.", "note": null },
+    { "id": "vana_s4", "text": "Gaz [vanasını] açmadan önce kontrol et.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "vana_r1",
+      "prompt": "Bir borudaki su akışını açıp kapayan mekanik parçaya ne denir?",
+      "accepted_forms": ["vana", "vanası"],
+      "note": null
+    },
+    {
+      "id": "vana_r2",
+      "prompt": "Tesisatçı, su kaçağını durdurmak için hangi parçayı sıktı?",
+      "accepted_forms": ["vana", "vanayı", "su vanası"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "boru",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "pipe, tube",
+  "sentences": [
+    { "id": "boru_s1", "text": "Su [borusu] patladı, her yer ıslandı.", "note": null },
+    { "id": "boru_s2", "text": "Tamirci [boru] döşemek için geldi.", "note": null },
+    { "id": "boru_s3", "text": "[Boru] hattı ülkeler arasında gaz taşıyor.", "note": null },
+    { "id": "boru_s4", "text": "Lavabonun [borusu] tıkandı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "boru_r1",
+      "prompt": "Evin içinde suyu bir yerden bir yere taşıyan uzun ve içi boş nesneye ne denir?",
+      "accepted_forms": ["boru", "su borusu"],
+      "note": null
+    },
+    {
+      "id": "boru_r2",
+      "prompt": "Lavabo tıkandı ve su akmıyor. Sorun muhtemelen nerede?",
+      "accepted_forms": ["boruda", "boru", "boru tıkandı"],
+      "note": null
+    }
+  ]
+}

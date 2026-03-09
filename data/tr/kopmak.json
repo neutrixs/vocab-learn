@@ -1,0 +1,27 @@
+{
+  "word": "kopmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to break off, to snap, to become detached",
+  "sentences": [
+    { "id": "kopmak_s1", "text": "Gitar tellerinden biri [koptu].", "note": null },
+    { "id": "kopmak_s2", "text": "Fırtınada bir dal ağaçtan [koptu].", "note": null },
+    { "id": "kopmak_s3", "text": "Uzun zaman görüşmeyince arkadaşlıklar [kopuyor].", "note": null },
+    { "id": "kopmak_s4", "text": "İnternet bağlantısı aniden [koptu].", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kopmak_r1",
+      "prompt": "Bir ip ya da tel aşırı gerilince ne olur?",
+      "accepted_forms": ["kopmak", "koptu", "kopar", "kopuyor"],
+      "note": null
+    },
+    {
+      "id": "kopmak_r2",
+      "prompt": "İnternet bağlantısı ya da telefon sinyali aniden kesildi. Ne oldu?",
+      "accepted_forms": ["koptu", "kopmak", "bağlantı koptu", "kopuyor"],
+      "note": null
+    }
+  ]
+}

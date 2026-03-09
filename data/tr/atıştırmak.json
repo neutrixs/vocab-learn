@@ -1,0 +1,27 @@
+{
+  "word": "atıştırmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to snack, to munch, to nibble",
+  "sentences": [
+    { "id": "atıştırmak_s1", "text": "Film izlerken cips [atıştırdım].", "note": null },
+    { "id": "atıştırmak_s2", "text": "Öğleden sonra biraz meyve [atıştırdım].", "note": null },
+    { "id": "atıştırmak_s3", "text": "Akşam yemeğini beklerken peynir [atıştırdı].", "note": null },
+    { "id": "atıştırmak_s4", "text": "Çalışırken sağlıklı bir şeyler [atıştırmayı] seviyorum.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "atıştırmak_r1",
+      "prompt": "Öğün arası küçük bir şeyler yemek için ne yapıyorsun?",
+      "accepted_forms": ["atıştırmak", "atıştırıyorum", "atıştırırım", "atıştırdım"],
+      "note": null
+    },
+    {
+      "id": "atıştırmak_r2",
+      "prompt": "Arkadaşın film izlerken patlamış mısır yiyor. Bu hareketi nasıl tanımlarsın?",
+      "accepted_forms": ["atıştırmak", "atıştırıyor", "atıştırma"],
+      "note": null
+    }
+  ]
+}

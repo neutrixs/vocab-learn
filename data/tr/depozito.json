@@ -1,0 +1,27 @@
+{
+  "word": "depozito",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "deposit, security deposit",
+  "sentences": [
+    { "id": "depozito_s1", "text": "Evi kiraladığımda iki aylık [depozito] ödedim.", "note": null },
+    { "id": "depozito_s2", "text": "[Depozitom] ne zaman iade edilecek?", "note": null },
+    { "id": "depozito_s3", "text": "Ev sahibi [depozitoyu] geri vermek istemiyor.", "note": null },
+    { "id": "depozito_s4", "text": "Kira sözleşmesinde [depozito] miktarı yazıyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "depozito_r1",
+      "prompt": "Bir ev kiralarken ev sahibine güvence olarak peşinen verdiğin paraya ne denir?",
+      "accepted_forms": ["depozito", "depozit"],
+      "note": null
+    },
+    {
+      "id": "depozito_r2",
+      "prompt": "Evden çıkarken ev sahibinden geri istediğin güvence parasının adı nedir?",
+      "accepted_forms": ["depozito", "depozitom"],
+      "note": null
+    }
+  ]
+}

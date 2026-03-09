@@ -1,0 +1,27 @@
+{
+  "word": "sığmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to fit (into), to have room for",
+  "sentences": [
+    { "id": "sığmak_s1", "text": "Bu koltuk odaya [sığmıyor].", "note": null },
+    { "id": "sığmak_s2", "text": "Bavuluma her şey [sığmadı].", "note": null },
+    { "id": "sığmak_s3", "text": "On kişi bu küçük arabaya [sığar] mı?", "note": null },
+    { "id": "sığmak_s4", "text": "Söylemek istediklerim tek sayfaya [sığmıyor].", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sığmak_r1",
+      "prompt": "Büyük bir mobilya küçük bir odaya girmiyor. Neden?",
+      "accepted_forms": ["sığmıyor", "sığmak", "sığmaz", "sığmadı"],
+      "note": null
+    },
+    {
+      "id": "sığmak_r2",
+      "prompt": "Bavulun kapanmıyor çünkü içine çok fazla şey koydun. Ne sorun var?",
+      "accepted_forms": ["sığmıyor", "sığmadı", "bavula sığmıyor", "her şey sığmıyor"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "bozulmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to break down, to spoil, to go bad, to deteriorate",
+  "sentences": [
+    { "id": "bozulmak_s1", "text": "Buzdolabındaki yiyecekler [bozulmuş].", "note": null },
+    { "id": "bozulmak_s2", "text": "Arabam yolda [bozuldu] ve yardım istedim.", "note": null },
+    { "id": "bozulmak_s3", "text": "Hava tahminleri öğleden sonra [bozulacağını] söylüyor.", "note": null },
+    { "id": "bozulmak_s4", "text": "İlişkileri son zamanlarda [bozuldu].", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bozulmak_r1",
+      "prompt": "Buzdolabında bekleyen et artık yenilemez hâle geldi. Ne oldu?",
+      "accepted_forms": ["bozuldu", "bozulmuş", "bozulmak", "bozuldu gitti"],
+      "note": null
+    },
+    {
+      "id": "bozulmak_r2",
+      "prompt": "Arabası çalışmayı bıraktı ve yolda kaldı. Araba için ne diyebiliriz?",
+      "accepted_forms": ["bozuldu", "araba bozuldu", "bozulmak", "çöktü"],
+      "note": null
+    }
+  ]
+}

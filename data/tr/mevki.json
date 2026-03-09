@@ -1,0 +1,27 @@
+{
+  "word": "mevki",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "position, rank, location, status",
+  "sentences": [
+    { "id": "mevki_s1", "text": "Onun toplumsal [mevkii] çok yüksek.", "note": null },
+    { "id": "mevki_s2", "text": "Bu bölge güzel bir [mevkide] yer alıyor.", "note": null },
+    { "id": "mevki_s3", "text": "Trenin birinci [mevkii] daha konforlu.", "note": null },
+    { "id": "mevki_s4", "text": "Askeri [mevkiler] kırmızı ile işaretlenmiş.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "mevki_r1",
+      "prompt": "Trende birinci sınıf ve ikinci sınıf koltuklar var. Bu sınıfları tanımlamak için hangi kelime kullanılır?",
+      "accepted_forms": ["mevki", "mevkii", "mevkiler"],
+      "note": null
+    },
+    {
+      "id": "mevki_r2",
+      "prompt": "Birinin toplumda saygın bir yeri ve statüsü var. Bu statüsünü tek kelimeyle nasıl tanımlarsın?",
+      "accepted_forms": ["mevki", "mevkii", "mevkisi"],
+      "note": null
+    }
+  ]
+}

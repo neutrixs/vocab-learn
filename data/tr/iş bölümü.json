@@ -1,0 +1,27 @@
+{
+  "word": "iş bölümü",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "division of labor, task allocation",
+  "sentences": [
+    { "id": "iş bölümü_s1", "text": "Ekip içinde [iş bölümü] çok önemlidir.", "note": null },
+    { "id": "iş bölümü_s2", "text": "Evde [iş bölümü] yaparak işleri bitirdik.", "note": null },
+    { "id": "iş bölümü_s3", "text": "Verimli bir [iş bölümü] olmadan proje başarıya ulaşamaz.", "note": null },
+    { "id": "iş bölümü_s4", "text": "Her çalışanın görevi [iş bölümüne] göre belirlendi.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "iş bölümü_r1",
+      "prompt": "Bir grupta herkesin farklı bir görev üstlendiği düzenlemeye ne denir?",
+      "accepted_forms": ["iş bölümü", "görev paylaşımı"],
+      "note": null
+    },
+    {
+      "id": "iş bölümü_r2",
+      "prompt": "Bir projede kimin ne yapacağını belirlemek için ne yapılır?",
+      "accepted_forms": ["iş bölümü yapılır", "iş bölümü", "görev dağılımı yapılır"],
+      "note": null
+    }
+  ]
+}

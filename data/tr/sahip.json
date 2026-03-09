@@ -1,0 +1,27 @@
+{
+  "word": "sahip",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "owner, possessor; (sahip olmak) to have, to own",
+  "sentences": [
+    { "id": "sahip_s1", "text": "Bu arabanın [sahibi] kim?", "note": null },
+    { "id": "sahip_s2", "text": "Ev [sahibiyle] görüşmemiz gerekiyor.", "note": null },
+    { "id": "sahip_s3", "text": "Köpeğin [sahibi] onu her gün gezdiriyor.", "note": null },
+    { "id": "sahip_s4", "text": "İyi bir lider, sorumluluklarına [sahip çıkar].", "note": "sahip çıkmak = to stand by, to take ownership of" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sahip_r1",
+      "prompt": "Bir ev var ve biri onu satın almış. O kişi o evin ne olur?",
+      "accepted_forms": ["sahibi", "ev sahibi", "sahip"],
+      "note": null
+    },
+    {
+      "id": "sahip_r2",
+      "prompt": "Birine 'bu dükkan sana mı ait?' diye soruyorsun. Dükkanın sana ait olduğunu söylemek için ne dersin?",
+      "accepted_forms": ["sahibiyim", "sahip oldum", "sahip"],
+      "note": null
+    }
+  ]
+}

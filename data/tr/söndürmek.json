@@ -1,0 +1,27 @@
+{
+  "word": "söndürmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to extinguish, to turn off, to put out",
+  "sentences": [
+    { "id": "sondurnek_s1", "text": "İtfaiyeciler yangını [söndürdü].", "note": null },
+    { "id": "sondurnek_s2", "text": "Lütfen çıkmadan önce ışıkları [söndür].", "note": null },
+    { "id": "sondurnek_s3", "text": "Rüzgar mumu [söndürdü].", "note": null },
+    { "id": "sondurnek_s4", "text": "Sigara içtikten sonra izmariti [söndürdü].", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sondurnek_r1",
+      "prompt": "Odadan çıkmadan önce lambayı kapatman gerekiyor. Ne yaparsın?",
+      "accepted_forms": ["söndürürüm", "söndür", "söndürdüm", "lambayı söndürürüm"],
+      "note": null
+    },
+    {
+      "id": "sondurnek_r2",
+      "prompt": "Mutfakta küçük bir ateş çıktı. İtfaiyeciler ne yaptı?",
+      "accepted_forms": ["söndürdü", "ateşi söndürdü", "yangını söndürdü", "söndürdüler"],
+      "note": null
+    }
+  ]
+}

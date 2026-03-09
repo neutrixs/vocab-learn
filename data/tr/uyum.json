@@ -1,0 +1,27 @@
+{
+  "word": "uyum",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "harmony, adaptation, compatibility",
+  "sentences": [
+    { "id": "uyum_s1", "text": "Yeni şehre [uyum] sağlamak zaman aldı.", "note": null },
+    { "id": "uyum_s2", "text": "Ekip içi [uyum] projenin başarısını artırdı.", "note": null },
+    { "id": "uyum_s3", "text": "Renkler arasındaki [uyum] tabloyu güzel yapıyor.", "note": null },
+    { "id": "uyum_s4", "text": "Toplumsal [uyum] için herkesin saygılı olması gerekir.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "uyum_r1",
+      "prompt": "Yeni bir işe başladığında ortama alışma sürecini hangi kelimeyle ifade edersin?",
+      "accepted_forms": ["uyum", "uyum sağlamak", "uyum sağlama"],
+      "note": null
+    },
+    {
+      "id": "uyum_r2",
+      "prompt": "İki renk birbirine çok yakışıyorsa, aralarında ne vardır?",
+      "accepted_forms": ["uyum", "renk uyumu", "uyum var"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "word": "ayırmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to separate, to set aside, to reserve",
+  "sentences": [
+    { "id": "ayırmak_s1", "text": "Çöpleri renklerine göre [ayırıyorum].", "note": null },
+    { "id": "ayırmak_s2", "text": "Toplantı için bir saat [ayırdım].", "note": null },
+    { "id": "ayırmak_s3", "text": "Kavga eden çocukları birbirinden [ayırdı].", "note": null },
+    { "id": "ayırmak_s4", "text": "Seyahat için biraz para [ayırıyorum].", "note": null },
+    { "id": "ayırmak_s5", "text": "Kitaplığımdaki kitapları konularına göre [ayırdım].", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ayırmak_r1",
+      "prompt": "İki şeyi bir arada tutmak yerine farklı yerlere koymak için ne yapıyorsun?",
+      "accepted_forms": ["ayırmak", "ayırıyorum", "ayırdım", "ayırırım"],
+      "note": null
+    },
+    {
+      "id": "ayırmak_r2",
+      "prompt": "Yarın için zaman planlarken o saati başka bir şeye kullanmamak adına ne yapıyorsun?",
+      "accepted_forms": ["ayırmak", "zaman ayırmak", "ayırıyorum", "zaman ayırıyorum"],
+      "note": null
+    }
+  ]
+}

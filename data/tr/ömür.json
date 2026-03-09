@@ -1,0 +1,27 @@
+{
+  "word": "ömür",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "lifetime, lifespan, life",
+  "sentences": [
+    { "id": "ömür_s1", "text": "Uzun bir [ömür] geçirmiş, çok şey görmüş.", "note": null },
+    { "id": "ömür_s2", "text": "Bu evin [ömrü] en az elli yıl.", "note": null },
+    { "id": "ömür_s3", "text": "[Ömrümün] sonuna kadar burada yaşamak istiyorum.", "note": null },
+    { "id": "ömür_s4", "text": "Pil [ömrü] bu modelde çok uzun.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ömür_r1",
+      "prompt": "Bir insan veya nesnenin var olduğu toplam süreye ne denir?",
+      "accepted_forms": ["ömür", "ömrü", "ömür süresi"],
+      "note": null
+    },
+    {
+      "id": "ömür_r2",
+      "prompt": "Yaşlı bir büyükanne hayatı boyunca çok şey yaşamış. Bu hayat süresini tek kelimeyle nasıl ifade edersin?",
+      "accepted_forms": ["ömür", "ömrü", "uzun bir ömür"],
+      "note": null
+    }
+  ]
+}

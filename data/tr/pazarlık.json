@@ -1,0 +1,27 @@
+{
+  "word": "pazarlık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "bargaining, negotiation, haggling",
+  "sentences": [
+    { "id": "pazarlık_s1", "text": "Ev almadan önce biraz [pazarlık] yaptık.", "note": null },
+    { "id": "pazarlık_s2", "text": "Çarşıda [pazarlık] etmek adettir.", "note": null },
+    { "id": "pazarlık_s3", "text": "[Pazarlık] sonunda fiyatı düşürdük.", "note": null },
+    { "id": "pazarlık_s4", "text": "Bu mağazada [pazarlık] kabul edilmez.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "pazarlık_r1",
+      "prompt": "Bir ürünün fiyatı çok yüksek, satıcıyla konuşarak indirmeye çalışıyorsun. Bu sürece ne denir?",
+      "accepted_forms": ["pazarlık", "pazarlık etmek", "pazarlık yapmak"],
+      "note": null
+    },
+    {
+      "id": "pazarlık_r2",
+      "prompt": "İkinci el eşya alırken satıcıya daha düşük fiyat teklifinde bulunuyorsun. Bu eylemi nasıl tanımlarsın?",
+      "accepted_forms": ["pazarlık", "pazarlık etmek", "pazarlık"],
+      "note": null
+    }
+  ]
+}

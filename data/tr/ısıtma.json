@@ -1,0 +1,27 @@
+{
+  "word": "ısıtma",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "heating",
+  "sentences": [
+    { "id": "ısıtma_s1", "text": "Binanın [ısıtma] sistemi yenilenmiş.", "note": null },
+    { "id": "ısıtma_s2", "text": "[Isıtma] giderleri kışın çok artıyor.", "note": null },
+    { "id": "ısıtma_s3", "text": "Merkezi [ısıtma] sistemi tüm dairelere sıcaklık sağlıyor.", "note": null },
+    { "id": "ısıtma_s4", "text": "Ev tutarken [ısıtma] masraflarını sormayı unutmadım.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ısıtma_r1",
+      "prompt": "Kışın evi sıcak tutmak için kullanılan sisteme ne denir?",
+      "accepted_forms": ["ısıtma", "ısıtma sistemi", "kalorifer"],
+      "note": null
+    },
+    {
+      "id": "ısıtma_r2",
+      "prompt": "Apartmanın kışın sıcak kalması için ödenen gidere ne denir?",
+      "accepted_forms": ["ısıtma gideri", "ısıtma masrafı", "ısıtma"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "fışkırmak",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "verb",
+  "english_gloss": "to gush, to spurt, to spring out",
+  "sentences": [
+    { "id": "fışkırmak_s1", "text": "Kırılan borudan su [fışkırdı].", "note": null },
+    { "id": "fışkırmak_s2", "text": "Açık yaradan kan [fışkırıyordu].", "note": null },
+    { "id": "fışkırmak_s3", "text": "Depremden sonra yerden petrol [fışkırdı].", "note": null },
+    { "id": "fışkırmak_s4", "text": "Şişelenen gazlı içecek açılınca [fışkırdı].", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "fışkırmak_r1",
+      "prompt": "Kırık bir boruda su aniden ve kuvvetle dışarı çıkıyor. Bu hareketi nasıl ifade edersin?",
+      "accepted_forms": ["fışkırmak", "fışkırıyor", "fışkırdı", "fışkırır"],
+      "note": null
+    },
+    {
+      "id": "fışkırmak_r2",
+      "prompt": "Bir nesne ya da sıvı şiddetle ve aniden yerinden çıkıyor. Hangi kelimeyi kullanırsın?",
+      "accepted_forms": ["fışkırmak", "fışkırıyor", "fışkırdı"],
+      "note": null
+    }
+  ]
+}

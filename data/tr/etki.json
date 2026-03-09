@@ -1,0 +1,27 @@
+{
+  "word": "etki",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "effect, influence, impact",
+  "sentences": [
+    { "id": "etki_s1", "text": "Bu kararın toplum üzerinde büyük [etkisi] olacak.", "note": null },
+    { "id": "etki_s2", "text": "İklim değişikliğinin [etkileri] her yerde hissediliyor.", "note": null },
+    { "id": "etki_s3", "text": "O konuşmanın bende derin bir [etkisi] var.", "note": null },
+    { "id": "etki_s4", "text": "İlacın [etkisi] birkaç saat sonra geçiyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "etki_r1",
+      "prompt": "Bir şeyin başka bir şeyi nasıl değiştirdiğini ya da etkilediğini anlatmak istiyorsun. Kullandığın kelime nedir?",
+      "accepted_forms": ["etki", "etkisi", "etkileri"],
+      "note": null
+    },
+    {
+      "id": "etki_r2",
+      "prompt": "Sosyal medyanın gençler üzerindeki ... nedir? Boşluğu doldur.",
+      "accepted_forms": ["etkisi", "etki", "etkileri"],
+      "note": null
+    }
+  ]
+}

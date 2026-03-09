@@ -1,0 +1,27 @@
+{
+  "word": "işlem",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "transaction, process, operation",
+  "sentences": [
+    { "id": "işlem_s1", "text": "Banka [işlemi] tamamlamak birkaç dakika sürdü.", "note": null },
+    { "id": "işlem_s2", "text": "Bu [işlem] için kimliğinizi göstermeniz gerekiyor.", "note": null },
+    { "id": "işlem_s3", "text": "Online [işlemler] artık çok daha hızlı.", "note": null },
+    { "id": "işlem_s4", "text": "Tapu [işlemleri] noter aracılığıyla yapıldı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "işlem_r1",
+      "prompt": "Bankaya gidiyorsun ve para göndermek istiyorsun. Banka görevlisi bunu ne olarak tanımlar?",
+      "accepted_forms": ["işlem", "işlemler", "banka işlemi"],
+      "note": null
+    },
+    {
+      "id": "işlem_r2",
+      "prompt": "Bilgisayar bir şey hesaplıyor. Bu hesaplama faaliyetine ne denir?",
+      "accepted_forms": ["işlem", "işlemler", "matematiksel işlem"],
+      "note": null
+    }
+  ]
+}

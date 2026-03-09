@@ -1,0 +1,28 @@
+{
+  "word": "fatura",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "bill, invoice",
+  "sentences": [
+    { "id": "fatura_s1", "text": "Elektrik [faturası] bu ay çok yüksek.", "note": null },
+    { "id": "fatura_s2", "text": "[Faturaları] ödemeyi unutma.", "note": null },
+    { "id": "fatura_s3", "text": "Alışverişten sonra [fatura] istedim.", "note": null },
+    { "id": "fatura_s4", "text": "[Faturayı] internetten ödeyebilirsin.", "note": null },
+    { "id": "fatura_s5", "text": "Telefon [faturası] her ayın on beşinde geliyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "fatura_r1",
+      "prompt": "Her ay elektrik, su ve gaz için ödemen gereken belgeye ne denir?",
+      "accepted_forms": ["fatura", "faturalar"],
+      "note": null
+    },
+    {
+      "id": "fatura_r2",
+      "prompt": "Bir alışveriş yaptıktan sonra işletmeden aldığın ödeme belgesinin adı nedir?",
+      "accepted_forms": ["fatura", "fiş"],
+      "note": null
+    }
+  ]
+}

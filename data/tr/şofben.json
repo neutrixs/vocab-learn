@@ -1,0 +1,27 @@
+{
+  "word": "şofben",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "water heater, geyser (instantaneous gas water heater)",
+  "sentences": [
+    { "id": "şofben_s1", "text": "[Şofben] bozuldu, sıcak su çıkmıyor.", "note": null },
+    { "id": "şofben_s2", "text": "Eski dairede [şofben] vardı, konforluydu.", "note": null },
+    { "id": "şofben_s3", "text": "[Şofbenin] gazı bitmeden önce haber ver.", "note": null },
+    { "id": "şofben_s4", "text": "Tamirci [şofbeni] kontrol etti ve temizledi.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şofben_r1",
+      "prompt": "Banyoda sıcak su sağlayan küçük doğalgazlı cihaza ne denir?",
+      "accepted_forms": ["şofben", "şofbeni", "şofbenim"],
+      "note": null
+    },
+    {
+      "id": "şofben_r2",
+      "prompt": "Duş alırken su soğuk geliyor, neyin bozulduğunu düşünürsün?",
+      "accepted_forms": ["şofben", "şofben bozulmuş", "şofbenim"],
+      "note": null
+    }
+  ]
+}

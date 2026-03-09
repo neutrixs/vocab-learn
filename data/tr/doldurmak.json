@@ -1,0 +1,27 @@
+{
+  "word": "doldurmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to fill, to fill in, to fill up",
+  "sentences": [
+    { "id": "doldurmak_s1", "text": "Formu eksiksiz [doldurun].", "note": null },
+    { "id": "doldurmak_s2", "text": "Bardağı suyla [doldurdum].", "note": null },
+    { "id": "doldurmak_s3", "text": "Arabanın deposunu benzinle [doldurmak] gerekiyor.", "note": null },
+    { "id": "doldurmak_s4", "text": "Çocuklar balonları havayla [doldurdu].", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "doldurmak_r1",
+      "prompt": "Boş bir bardağa su koymak için ne yapıyorsun?",
+      "accepted_forms": ["doldurmak", "dolduruyorum", "doldurdum", "doldururum"],
+      "note": null
+    },
+    {
+      "id": "doldurmak_r2",
+      "prompt": "Bir başvuru formu var ve tüm kutucukları tamamlaman gerekiyor. Ne yapıyorsun?",
+      "accepted_forms": ["doldurmak", "formu doldurmak", "dolduruyorum", "doldurdum"],
+      "note": null
+    }
+  ]
+}

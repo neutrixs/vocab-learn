@@ -1,0 +1,27 @@
+{
+  "word": "halat",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "rope, cable, hawser",
+  "sentences": [
+    { "id": "halat_s1", "text": "Tekneyi iskeleye [halatla] bağladılar.", "note": null },
+    { "id": "halat_s2", "text": "Dağcılar sağlam bir [halata] tutundu.", "note": null },
+    { "id": "halat_s3", "text": "[Halat] çekme yarışmasında kırmızı takım kazandı.", "note": null },
+    { "id": "halat_s4", "text": "Bu [halatın] kalınlığı yük taşımaya yetmez.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "halat_r1",
+      "prompt": "Gemileri ya da ağır yükleri bağlamak için kullanılan kalın ve dayanıklı ipe ne denir?",
+      "accepted_forms": ["halat", "ip"],
+      "note": null
+    },
+    {
+      "id": "halat_r2",
+      "prompt": "İki takımın birbirine karşı çektiği spor oyununda kullanılan nesne nedir?",
+      "accepted_forms": ["halat", "ip"],
+      "note": null
+    }
+  ]
+}

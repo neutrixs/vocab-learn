@@ -1,0 +1,27 @@
+{
+  "word": "vergi",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "tax",
+  "sentences": [
+    { "id": "vergi_s1", "text": "Her yıl gelir [vergisi] beyannamesi veriyorum.", "note": null },
+    { "id": "vergi_s2", "text": "Bu ürünün fiyatına [vergi] dahil değil.", "note": null },
+    { "id": "vergi_s3", "text": "Hükümet yeni bir [vergi] düzenlemesi açıkladı.", "note": null },
+    { "id": "vergi_s4", "text": "Şirketler kâr üzerinden [vergi] ödemek zorundadır.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "vergi_r1",
+      "prompt": "Devlete ödenen zorunlu para miktarına ne denir?",
+      "accepted_forms": ["vergi", "vergisi", "devlet vergisi"],
+      "note": null
+    },
+    {
+      "id": "vergi_r2",
+      "prompt": "Maaşından her ay devlete kesilen para nedir?",
+      "accepted_forms": ["vergi", "gelir vergisi", "vergi kesintisi"],
+      "note": null
+    }
+  ]
+}

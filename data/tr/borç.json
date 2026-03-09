@@ -1,0 +1,28 @@
+{
+  "word": "borç",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "debt, loan; obligation",
+  "sentences": [
+    { "id": "borç_s1", "text": "Bankaya olan [borcumu] bu ay ödeyeceğim.", "note": null },
+    { "id": "borç_s2", "text": "Arkadaşımdan [borç] para aldım.", "note": null },
+    { "id": "borç_s3", "text": "[Borçlarımı] ödemek için çok çalışıyorum.", "note": null },
+    { "id": "borç_s4", "text": "Sana [borcum] var, yarın vereceğim.", "note": null },
+    { "id": "borç_s5", "text": "Ülkenin dış [borcu] giderek artıyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "borç_r1",
+      "prompt": "Bir arkadaştan para aldın ve geri vermen gerekiyor. Bu paraya ne denir?",
+      "accepted_forms": ["borç", "borçluk"],
+      "note": null
+    },
+    {
+      "id": "borç_r2",
+      "prompt": "Birine para veya iyilik borçlu olduğunda 'sana ... var' diyorsun. Boşluğu doldur.",
+      "accepted_forms": ["borcum", "borcum var"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "akıtmak",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "verb",
+  "english_gloss": "to cause to flow, to drain, to shed (liquid)",
+  "sentences": [
+    { "id": "akıtmak_s1", "text": "Çocuk bardaktaki suyu masaya [akıttı].", "note": null },
+    { "id": "akıtmak_s2", "text": "Gözlerinden yaş [akıtarak] konuştu.", "note": null },
+    { "id": "akıtmak_s3", "text": "Boru deliğinden su [akıtıyor].", "note": null },
+    { "id": "akıtmak_s4", "text": "Bahçeyi sulamak için kanaldan su [akıttılar].", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "akıtmak_r1",
+      "prompt": "Bir bardağı devirip içindeki sıvıyı dışarı çıkarmak için ne yapıyorsun?",
+      "accepted_forms": ["akıtmak", "akıtıyorum", "akıtırım", "akıttım"],
+      "note": null
+    },
+    {
+      "id": "akıtmak_r2",
+      "prompt": "Üzgün biri gözyaşlarını döküyor. Türkçede bunu nasıl ifade edersin?",
+      "accepted_forms": ["yaş akıtmak", "gözyaşı akıtmak", "yaş akıtıyor", "gözyaşı akıtıyor"],
+      "note": null
+    }
+  ]
+}

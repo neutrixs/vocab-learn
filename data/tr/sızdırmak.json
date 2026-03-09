@@ -1,0 +1,27 @@
+{
+  "word": "sızdırmak",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "verb",
+  "english_gloss": "to leak, to cause to seep, to reveal (a secret)",
+  "sentences": [
+    { "id": "sızdırmak_s1", "text": "Eski çatı yağmurda su [sızdırıyor].", "note": null },
+    { "id": "sızdırmak_s2", "text": "Birisi gizli belgeleri basına [sızdırdı].", "note": null },
+    { "id": "sızdırmak_s3", "text": "Delik kap sıvıyı yavaş yavaş [sızdırıyor].", "note": null },
+    { "id": "sızdırmak_s4", "text": "Bu bilgiyi kimseye [sızdırmamalısın].", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sızdırmak_r1",
+      "prompt": "Bir borunun deliğinden yavaş yavaş su dışarı çıkıyor. Bu durumu nasıl ifade edersin?",
+      "accepted_forms": ["sızdırmak", "sızdırıyor", "sızdırdı", "su sızdırıyor"],
+      "note": null
+    },
+    {
+      "id": "sızdırmak_r2",
+      "prompt": "Gizli bir bilgi yetkisiz kişilere ulaştırıldı. Bu eylemi nasıl tanımlarsın?",
+      "accepted_forms": ["sızdırmak", "sızdırdı", "bilgi sızdırmak", "sızdırıldı"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "ısınmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to warm up, to get warm",
+  "sentences": [
+    { "id": "ısınmak_s1", "text": "Soğuktan gelince şöminenin yanında [ısındım].", "note": null },
+    { "id": "ısınmak_s2", "text": "Spordan önce iyi [ısınmak] sakatlıkları önler.", "note": null },
+    { "id": "ısınmak_s3", "text": "Çay içerek [ısınmaya] çalıştım.", "note": null },
+    { "id": "ısınmak_s4", "text": "Kış güneşine çıkıp biraz [ısındım].", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ısınmak_r1",
+      "prompt": "Soğuk bir günde içeri girip vücudunu sıcaklaştırmak için ne yapıyorsun?",
+      "accepted_forms": ["ısınmak", "ısınıyorum", "ısındım", "ısınırım"],
+      "note": null
+    },
+    {
+      "id": "ısınmak_r2",
+      "prompt": "Koşuya başlamadan önce kaslarını hazırlamak için antrenman öncesi ne yapılır?",
+      "accepted_forms": ["ısınmak", "ısınma", "ısınma hareketi", "ısınıyorum"],
+      "note": null
+    }
+  ]
+}

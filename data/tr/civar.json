@@ -1,0 +1,27 @@
+{
+  "word": "civar",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "vicinity, surroundings, around (a place or time)",
+  "sentences": [
+    { "id": "civar_s1", "text": "Ev, parkın [civarında] bir yerde.", "note": null },
+    { "id": "civar_s2", "text": "Saat beş [civarında] oraya varacağız.", "note": null },
+    { "id": "civar_s3", "text": "Bu [civarda] iyi bir restoran var mı?", "note": null },
+    { "id": "civar_s4", "text": "Fiyat iki yüz lira [civarında] olacak.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "civar_r1",
+      "prompt": "Bir yerin çevresini, yakın bölgesini tarif ediyorsun. 'Okulun ... nde iyi bir kafe var' diyorsun.",
+      "accepted_forms": ["civarın", "civarında"],
+      "note": null
+    },
+    {
+      "id": "civar_r2",
+      "prompt": "Tam saati bilmiyorsun ama yaklaşık olarak belirtmek istiyorsun. 'Saat üç ...' diyorsun.",
+      "accepted_forms": ["civarında", "civarı", "civar"],
+      "note": null
+    }
+  ]
+}

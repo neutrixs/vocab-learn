@@ -1,0 +1,28 @@
+{
+  "word": "ihtiyaç",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "need, necessity, requirement",
+  "sentences": [
+    { "id": "ihtiyaç_s1", "text": "Bu konuda yardıma [ihtiyacım] var.", "note": null },
+    { "id": "ihtiyaç_s2", "text": "Temel [ihtiyaçlar] karşılanmalıdır.", "note": null },
+    { "id": "ihtiyaç_s3", "text": "Şu an yeni bir bilgisayara [ihtiyacım] yok.", "note": null },
+    { "id": "ihtiyaç_s4", "text": "Çocukların sevgiye olan [ihtiyacı] çok önemlidir.", "note": null },
+    { "id": "ihtiyaç_s5", "text": "[İhtiyaç] duyduğunda beni ara.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ihtiyaç_r1",
+      "prompt": "Bir şey olmadan yapamıyorsun. 'Bu şeye ... duyuyorum' diyorsun. Boşluğu doldur.",
+      "accepted_forms": ["ihtiyaç", "ihtiyacım var"],
+      "note": null
+    },
+    {
+      "id": "ihtiyaç_r2",
+      "prompt": "Yiyecek, giyecek, barınak gibi temel şeylere ne denir?",
+      "accepted_forms": ["ihtiyaçlar", "temel ihtiyaçlar", "ihtiyaç"],
+      "note": null
+    }
+  ]
+}

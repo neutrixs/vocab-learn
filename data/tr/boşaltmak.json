@@ -1,0 +1,27 @@
+{
+  "word": "boşaltmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to empty, to evacuate, to unload",
+  "sentences": [
+    { "id": "boşaltmak_s1", "text": "Çantayı [boşaltıp] içindeki her şeyi masaya koydum.", "note": null },
+    { "id": "boşaltmak_s2", "text": "Yangın sırasında binayı hızla [boşalttılar].", "note": null },
+    { "id": "boşaltmak_s3", "text": "Kamyondaki yükleri [boşaltmak] bir saat sürdü.", "note": null },
+    { "id": "boşaltmak_s4", "text": "Taşınmadan önce odayı tamamen [boşalttım].", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "boşaltmak_r1",
+      "prompt": "İçindeki her şeyi çıkararak bir kutuyu tamamen boş hâle getirmek için ne yapıyorsun?",
+      "accepted_forms": ["boşaltmak", "boşaltıyorum", "boşalttım", "boşaltırım"],
+      "note": null
+    },
+    {
+      "id": "boşaltmak_r2",
+      "prompt": "Acil durum anında insanların binadan çıkarılması sürecini nasıl ifade edersin?",
+      "accepted_forms": ["boşaltmak", "binayı boşaltmak", "boşaltıyorlar", "tahliye etmek"],
+      "note": null
+    }
+  ]
+}

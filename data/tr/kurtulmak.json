@@ -1,0 +1,27 @@
+{
+  "word": "kurtulmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to escape, to be saved, to get rid of",
+  "sentences": [
+    { "id": "kurtulmak_s1", "text": "Yangından son anda [kurtuldu].", "note": null },
+    { "id": "kurtulmak_s2", "text": "Bu sıkıcı toplantıdan bir türlü [kurtulamıyorum].", "note": null },
+    { "id": "kurtulmak_s3", "text": "Ameliyat başarılı geçti ve hasta [kurtuldu].", "note": null },
+    { "id": "kurtulmak_s4", "text": "Yoğun trafikten [kurtulmak] için erken çıktım.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kurtulmak_r1",
+      "prompt": "Tehlikeli bir durumdan sağ salim çıktın. Ne yaptın?",
+      "accepted_forms": ["kurtulmak", "kurtuldum", "kurtuldu", "kurtulursun"],
+      "note": null
+    },
+    {
+      "id": "kurtulmak_r2",
+      "prompt": "Seni rahatsız eden bir durumdan ya da kişiden uzaklaşmak istiyorsun. Ne yapmak istiyorsun?",
+      "accepted_forms": ["kurtulmak", "kurtulmak istiyorum", "kurtulmalıyım", "kurtulacağım"],
+      "note": null
+    }
+  ]
+}

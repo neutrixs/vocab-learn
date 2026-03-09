@@ -1,0 +1,27 @@
+{
+  "word": "tesisatçı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "plumber, pipe fitter, installer",
+  "sentences": [
+    { "id": "tesisatçı_s1", "text": "Boru patladı, hemen [tesisatçı] çağırdık.", "note": null },
+    { "id": "tesisatçı_s2", "text": "[Tesisatçı] muslukları değiştirdi.", "note": null },
+    { "id": "tesisatçı_s3", "text": "İyi bir [tesisatçı] bulmak zor.", "note": null },
+    { "id": "tesisatçı_s4", "text": "[Tesisatçının] işçilik ücreti çok yüksekti.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tesisatçı_r1",
+      "prompt": "Evde su borusu patladı, ne yapıyorsun ve kimi arıyorsun?",
+      "accepted_forms": ["tesisatçı", "tesisatçıyı", "tesisatçı çağırıyorum"],
+      "note": null
+    },
+    {
+      "id": "tesisatçı_r2",
+      "prompt": "Su ve doğalgaz borularıyla çalışan, arızaları tamir eden ustaya ne denir?",
+      "accepted_forms": ["tesisatçı", "tesisatçılar"],
+      "note": null
+    }
+  ]
+}

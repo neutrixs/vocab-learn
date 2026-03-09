@@ -1,0 +1,27 @@
+{
+  "word": "değerlendirmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to evaluate, to assess, to make use of",
+  "sentences": [
+    { "id": "değerlendirmek_s1", "text": "Öğretmen sınavları dikkatli bir şekilde [değerlendirdi].", "note": null },
+    { "id": "değerlendirmek_s2", "text": "Bu fırsatı iyi [değerlendirmeliyiz].", "note": null },
+    { "id": "değerlendirmek_s3", "text": "Durumu doğru [değerlendirmek] için zaman lazım.", "note": null },
+    { "id": "değerlendirmek_s4", "text": "Komisyon başvuruları gelecek hafta [değerlendirecek].", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "değerlendirmek_r1",
+      "prompt": "Bir sınavı puanlayıp sonuçlarını çıkarmak için öğretmen ne yapıyor?",
+      "accepted_forms": ["değerlendirmek", "değerlendiriyor", "değerlendirdi", "değerlendirir"],
+      "note": null
+    },
+    {
+      "id": "değerlendirmek_r2",
+      "prompt": "Elindeki imkânı iyi kullanmak istiyorsun. Bu durumu nasıl ifade edersin?",
+      "accepted_forms": ["değerlendirmek", "değerlendirmeli", "iyi değerlendirmek", "değerlendirmeliyim"],
+      "note": null
+    }
+  ]
+}

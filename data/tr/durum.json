@@ -1,0 +1,28 @@
+{
+  "word": "durum",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "situation, condition, state",
+  "sentences": [
+    { "id": "durum_s1", "text": "Şu anki [durum] hiç iyi değil.", "note": null },
+    { "id": "durum_s2", "text": "Hasta [durumu] stabil görünüyor.", "note": null },
+    { "id": "durum_s3", "text": "Bu [durumda] ne yapmalıyız?", "note": null },
+    { "id": "durum_s4", "text": "Mali [durumum] geçen yıla göre daha iyi.", "note": null },
+    { "id": "durum_s5", "text": "[Durum] nasıl, bir iyilik var mı?", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "durum_r1",
+      "prompt": "Bir olayın ya da kişinin içinde bulunduğu şartları tarif ediyorsun. Buna ne denir?",
+      "accepted_forms": ["durum", "hal", "durum ve hal"],
+      "note": null
+    },
+    {
+      "id": "durum_r2",
+      "prompt": "Arkadaşına 'ne haber, nasılsın' yerine resmi bir şekilde sormak istiyorsun. '... nasıl?' diyorsun.",
+      "accepted_forms": ["durum", "durumun", "durumunuz"],
+      "note": null
+    }
+  ]
+}

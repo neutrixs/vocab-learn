@@ -1,0 +1,27 @@
+{
+  "word": "ödeme",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "payment",
+  "sentences": [
+    { "id": "ödeme_s1", "text": "[Ödemeyi] kredi kartıyla yaptım.", "note": null },
+    { "id": "ödeme_s2", "text": "Kira [ödemesi] her ayın birinde yapılmalı.", "note": null },
+    { "id": "ödeme_s3", "text": "Online [ödeme] sistemi çok pratik.", "note": null },
+    { "id": "ödeme_s4", "text": "[Ödeme] planını bankaya sorduk.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ödeme_r1",
+      "prompt": "Marketten alışveriş yaptın ve kasaya geldin. Kasiyerin senden beklediği eylem için hangi kelimeyi kullanırsın?",
+      "accepted_forms": ["ödeme", "ödeme yapmak", "ödemeyi"],
+      "note": null
+    },
+    {
+      "id": "ödeme_r2",
+      "prompt": "Her ay ev sahibine belirli bir miktar para veriyorsun. Bu düzenli para transferine ne denir?",
+      "accepted_forms": ["ödeme", "kira ödemesi", "ödeme yapmak"],
+      "note": null
+    }
+  ]
+}

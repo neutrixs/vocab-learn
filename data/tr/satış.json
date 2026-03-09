@@ -1,0 +1,27 @@
+{
+  "word": "satış",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "sale, selling",
+  "sentences": [
+    { "id": "satış_s1", "text": "Bu ay [satışlar] çok arttı.", "note": null },
+    { "id": "satış_s2", "text": "Evin [satışı] üç ay sürdü.", "note": null },
+    { "id": "satış_s3", "text": "[Satış] fiyatı piyasa değerinin üzerinde.", "note": null },
+    { "id": "satış_s4", "text": "Online [satış] platformları her geçen gün büyüyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "satış_r1",
+      "prompt": "Bir şirkette ürünleri müşterilere sunan ve satan birim hangi birimdir?",
+      "accepted_forms": ["satış", "satış birimi", "satış departmanı"],
+      "note": null
+    },
+    {
+      "id": "satış_r2",
+      "prompt": "Ev sahibi evini bir alıcıya devretme sürecini tek kelimeyle nasıl tanımlar?",
+      "accepted_forms": ["satış", "satışı", "ev satışı"],
+      "note": null
+    }
+  ]
+}

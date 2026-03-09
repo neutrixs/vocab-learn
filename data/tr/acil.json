@@ -1,0 +1,28 @@
+{
+  "word": "acil",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "urgent, emergency",
+  "sentences": [
+    { "id": "acil_s1", "text": "Bu konu çok [acil], hemen konuşmalıyız.", "note": null },
+    { "id": "acil_s2", "text": "Hastaneye [acil] servise götürdüler.", "note": null },
+    { "id": "acil_s3", "text": "[Acil] bir durum çıktı, toplantıyı erteledik.", "note": null },
+    { "id": "acil_s4", "text": "Bu mesaj [acil] değil, bekleyebilir.", "note": null },
+    { "id": "acil_s5", "text": "[Acil] çıkış kapısı binanın sonundadır.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "acil_r1",
+      "prompt": "Bir şey çok önemli ve hemen yapılması gerekiyor. Bu durumu bir kelimeyle nasıl tanımlarsın?",
+      "accepted_forms": ["acil", "acildir"],
+      "note": null
+    },
+    {
+      "id": "acil_r2",
+      "prompt": "Hastanede yaralı ve hasta kişilerin hızla tedavi edildiği bölüme ne denir?",
+      "accepted_forms": ["acil", "acil servis"],
+      "note": null
+    }
+  ]
+}

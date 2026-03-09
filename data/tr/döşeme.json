@@ -1,0 +1,27 @@
+{
+  "word": "döşeme",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "flooring, floor covering; upholstery",
+  "sentences": [
+    { "id": "döşeme_s1", "text": "Salona ahşap [döşeme] yaptırdık.", "note": null },
+    { "id": "döşeme_s2", "text": "[Döşeme] karoları çatlamış, yenilenmesi lazım.", "note": null },
+    { "id": "döşeme_s3", "text": "Yeni eve taşınmadan önce [döşemeleri] değiştirdik.", "note": null },
+    { "id": "döşeme_s4", "text": "Bu koltukların [döşemesi] yıpranmış.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "döşeme_r1",
+      "prompt": "Bir odanın tabanını kaplayan malzemeye ne denir?",
+      "accepted_forms": ["döşeme", "zemin döşemesi"],
+      "note": null
+    },
+    {
+      "id": "döşeme_r2",
+      "prompt": "Evinizin zeminini yenilemek istiyorsunuz. Hangi işlemi yaptırırsınız?",
+      "accepted_forms": ["döşeme", "döşeme değiştirme", "döşeme yenileme"],
+      "note": null
+    }
+  ]
+}

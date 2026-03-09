@@ -1,0 +1,27 @@
+{
+  "word": "müstakil",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "adjective",
+  "english_gloss": "detached, independent, standalone (especially of a house)",
+  "sentences": [
+    { "id": "müstakil_s1", "text": "[Müstakil] bir ev almak hayalimiz.", "note": null },
+    { "id": "müstakil_s2", "text": "Bu [müstakil] ev komşuyla duvar paylaşmıyor.", "note": null },
+    { "id": "müstakil_s3", "text": "[Müstakil] bahçeli evler bu mahallede çok aranan.", "note": null },
+    { "id": "müstakil_s4", "text": "Apartman dairesinden [müstakil] eve taşındık.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "müstakil_r1",
+      "prompt": "Bir ev var, komşularla hiçbir duvar paylaşmıyor, tamamen bağımsız duruyor. Bu tür eve ne denir?",
+      "accepted_forms": ["müstakil", "müstakil ev", "müstakil bir ev"],
+      "note": null
+    },
+    {
+      "id": "müstakil_r2",
+      "prompt": "İlan'da 'bahçeli, bağımsız ev' yazmak istiyorsun. Bağımsız anlamında hangi sıfatı kullanırsın?",
+      "accepted_forms": ["müstakil", "müstakil ev"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "tüketim",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "consumption",
+  "sentences": [
+    { "id": "tüketim_s1", "text": "Enerji [tüketimi] her yıl artıyor.", "note": null },
+    { "id": "tüketim_s2", "text": "Sürdürülebilir [tüketim] için alışkanlıklarımızı değiştirmeliyiz.", "note": null },
+    { "id": "tüketim_s3", "text": "Bu ülkenin su [tüketimi] oldukça yüksek.", "note": null },
+    { "id": "tüketim_s4", "text": "Aşırı [tüketim] çevreye zarar veriyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tüketim_r1",
+      "prompt": "Bir ülkenin elektrik kullanım miktarını tek kelimeyle nasıl ifade edersin?",
+      "accepted_forms": ["tüketim", "tüketimi", "enerji tüketimi"],
+      "note": null
+    },
+    {
+      "id": "tüketim_r2",
+      "prompt": "Ekonomistler, insanların mal ve hizmet satın alma davranışını hangi kavramla açıklar?",
+      "accepted_forms": ["tüketim", "tüketim davranışı"],
+      "note": null
+    }
+  ]
+}
