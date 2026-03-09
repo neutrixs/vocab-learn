@@ -1,0 +1,21 @@
+{
+  "word": "toplanmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to gather, to assemble, to collect oneself",
+  "sentences": [
+    { "id": "toplanmak_s1", "text": "Herkes meydanda [toplanmaya] başladı.", "note": null },
+    { "id": "toplanmak_s2", "text": "[Toplanıp] tartışmaya karar verdiler.", "note": null },
+    { "id": "toplanmak_s3", "text": "İnsanlar protestoda [toplanan] kalabalık.", "note": null },
+    { "id": "toplanmak_s4", "text": "Kendini [topla] ve başla yine.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "toplanmak_r1",
+      "prompt": "Bir grup insan bir yerde bir araya geliyor. '... insanlar.' dersin.",
+      "accepted_forms": ["toplanan", "toplanmak"],
+      "note": null
+    }
+  ]
+}

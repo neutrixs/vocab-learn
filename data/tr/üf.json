@@ -1,0 +1,21 @@
+{
+  "word": "üf",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "interjection",
+  "english_gloss": "ugh, wow (expression of surprise or discomfort)",
+  "sentences": [
+    { "id": "uf_s1", "text": "[Üf]! Çok sıcak bugün.", "note": null },
+    { "id": "uf_s2", "text": "[Üf], bitirdim sonunda!", "note": null },
+    { "id": "uf_s3", "text": "[Üf], ne yordum ben!", "note": null },
+    { "id": "uf_s4", "text": "[Üf] dediğim aman tanrı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "uf_r1",
+      "prompt": "Üzüntü veya yorgunluk belirtiyorsun kısa bir sese. Ne söylersin?",
+      "accepted_forms": ["üf", "eeeee"],
+      "note": null
+    }
+  ]
+}

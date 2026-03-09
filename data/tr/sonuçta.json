@@ -1,0 +1,47 @@
+{
+  "word": "sonuçta",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adverb",
+  "english_gloss": "in the end, ultimately, after all",
+  "sentences": [
+    {
+      "id": "sonucta_s1",
+      "text": "[Sonuçta] ayrıldık.",
+      "note": null
+    },
+    {
+      "id": "sonucta_s2",
+      "text": "[Sonuçta] haklı çıktı.",
+      "note": null
+    },
+    {
+      "id": "sonucta_s3",
+      "text": "[Sonuçta] ne yaptık?",
+      "note": null
+    },
+    {
+      "id": "sonucta_s4",
+      "text": "[Sonuçta] hepsi oldu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sonucta_r1",
+      "prompt": "'sonuçta' zarf ne demek?",
+      "accepted_forms": [
+        "sonuçta"
+      ],
+      "note": null
+    },
+    {
+      "id": "sonucta_r2",
+      "prompt": "Türkçede 'sonuçta' ne anlama gelir?",
+      "accepted_forms": [
+        "sonuçta"
+      ],
+      "note": null
+    }
+  ]
+}

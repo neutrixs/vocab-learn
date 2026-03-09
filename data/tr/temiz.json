@@ -1,0 +1,21 @@
+{
+  "word": "temiz",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "clean, pure",
+  "sentences": [
+    { "id": "temiz_s1", "text": "Ellerini [temiz] tut!", "note": null },
+    { "id": "temiz_s2", "text": "Odanız çok [temiz] ve düzenli.", "note": null },
+    { "id": "temiz_s3", "text": "İçme suyu [temiz] olmalıdır.", "note": null },
+    { "id": "temiz_s4", "text": "[Temiz] bir vicdan ile uyuduk.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "temiz_r1",
+      "prompt": "Bir evini beğendiyorsun ve çok düzenli olduğunu söylüyorsun. 'Burası çok ...' dersin.",
+      "accepted_forms": ["temiz", "temiz ve düzenli"],
+      "note": null
+    }
+  ]
+}

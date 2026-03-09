@@ -1,0 +1,47 @@
+{
+  "word": "sinirli",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "nervous, irritable, cross",
+  "sentences": [
+    {
+      "id": "sinirli_s1",
+      "text": "Çok [sinirli] bir insan.",
+      "note": null
+    },
+    {
+      "id": "sinirli_s2",
+      "text": "[Sinirli] konuşması beni rahatsız etti.",
+      "note": null
+    },
+    {
+      "id": "sinirli_s3",
+      "text": "Bugün [sinirli] mi oldun?",
+      "note": null
+    },
+    {
+      "id": "sinirli_s4",
+      "text": "[Sinirli] biri sıkıcıdır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sinirli_r1",
+      "prompt": "'sinirli' sıfatı ne demek?",
+      "accepted_forms": [
+        "sinirli"
+      ],
+      "note": null
+    },
+    {
+      "id": "sinirli_r2",
+      "prompt": "Türkçede 'sinirli' ne anlama gelir?",
+      "accepted_forms": [
+        "sinirli"
+      ],
+      "note": null
+    }
+  ]
+}

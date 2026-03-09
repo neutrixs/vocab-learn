@@ -1,0 +1,32 @@
+{
+  "word": "otuz",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "thirty",
+  "sentences": [
+    {
+      "id": "otuz_s1",
+      "text": "[Otuz] gün vardı.",
+      "note": null
+    },
+    {
+      "id": "otuz_s2",
+      "text": "[Otuz] yaşındayım.",
+      "note": null
+    },
+    {
+      "id": "otuz_s3",
+      "text": "[Otuzu] geçti yaşı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "otuz_r1",
+      "prompt": "Yirmi dokuz sonrası gelen sayı. Ne denir?",
+      "accepted_forms": ["otuz"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "tabii",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "natural, of course, obvious",
+  "sentences": [
+    { "id": "tabii_s1", "text": "[Tabii] ki geleceksin.", "note": "of course you will come" },
+    { "id": "tabii_s2", "text": "Bu [tabii] bir sonuç.", "note": null },
+    { "id": "tabii_s3", "text": "[Tabii] güzellikler doğadan gelir.", "note": null },
+    { "id": "tabii_s4", "text": "[Tabii] kanunlar vardır.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tabii_r1",
+      "prompt": "Doğa tarafından verilen, yapay olmayan. Ne denir?",
+      "accepted_forms": ["tabii", "tabii ki"],
+      "note": null
+    },
+    {
+      "id": "tabii_r2",
+      "prompt": "Herkes beklediği gibi, apaçık, bariz. Ne denir?",
+      "accepted_forms": ["tabii", "tabii ki", "elbette"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "tat",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "taste, flavor, savor",
+  "sentences": [
+    { "id": "tat_s1", "text": "[Tat]ı biliyor musun bu yemeğin?", "note": null },
+    { "id": "tat_s2", "text": "Bu dondurmanın [tatı] çok güzel.", "note": null },
+    { "id": "tat_s3", "text": "[Tat] ve koku duyum.", "note": null },
+    { "id": "tat_s4", "text": "Ürünün [tatı] insandan insana farklı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tat_r1",
+      "prompt": "Ağızda duyulan, yemeklerin tatlı, acı, tuzlu gibi özellikleri. Ne denir?",
+      "accepted_forms": ["tat", "tatı"],
+      "note": null
+    }
+  ]
+}

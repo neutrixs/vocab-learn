@@ -1,0 +1,47 @@
+{
+  "word": "şans",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "luck, chance, fortune",
+  "sentences": [
+    {
+      "id": "sans_s1",
+      "text": "[Şans]] isteyin.",
+      "note": null
+    },
+    {
+      "id": "sans_s2",
+      "text": "[Şansın]] var.",
+      "note": null
+    },
+    {
+      "id": "sans_s3",
+      "text": "İyi [şanslar]] dilerim.",
+      "note": null
+    },
+    {
+      "id": "sans_s4",
+      "text": "[Şanssız]] bir kişi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sans_r1",
+      "prompt": "'şans' kelimesi ne demek?",
+      "accepted_forms": [
+        "şans"
+      ],
+      "note": null
+    },
+    {
+      "id": "sans_r2",
+      "prompt": "Türkçede 'şans' ne anlama gelir?",
+      "accepted_forms": [
+        "şans"
+      ],
+      "note": null
+    }
+  ]
+}

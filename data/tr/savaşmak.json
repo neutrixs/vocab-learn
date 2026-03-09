@@ -1,0 +1,27 @@
+{
+  "word": "savaşmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to fight, to wage war, to struggle, to battle",
+  "sentences": [
+    { "id": "savaşmak_s1", "text": "Askerler [savaştı].", "note": null },
+    { "id": "savaşmak_s2", "text": "Hastalığa [savaşıyor].", "note": "fighting an illness" },
+    { "id": "savaşmak_s3", "text": "[Savaşan] iki ülke vardı.", "note": null },
+    { "id": "savaşmak_s4", "text": "Adalete [savaşmak] lazım.", "note": "to fight for justice" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "savaşmak_r1",
+      "prompt": "Silahlı çatışmaya katılmak ne demek?",
+      "accepted_forms": ["savaşmak", "çatışmak", "dövüşmek"],
+      "note": null
+    },
+    {
+      "id": "savaşmak_r2",
+      "prompt": "Hastalığa direnmek ve karşı koymak ne eylemdir?",
+      "accepted_forms": ["savaşmak", "direnme", "mücadele"],
+      "note": null
+    }
+  ]
+}

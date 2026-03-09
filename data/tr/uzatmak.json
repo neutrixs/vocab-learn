@@ -1,0 +1,21 @@
+{
+  "word": "uzatmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to extend, to stretch, to prolong",
+  "sentences": [
+    { "id": "uzatmak_s1", "text": "Eli [uzattı] bana elma ver diye.", "note": null },
+    { "id": "uzatmak_s2", "text": "Vizedim [uzatmam] lazım.", "note": null },
+    { "id": "uzatmak_s3", "text": "[Uzatmayın] işi çok ya!", "note": null },
+    { "id": "uzatmak_s4", "text": "Biraz daha müddet [uzatmak] istiyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "uzatmak_r1",
+      "prompt": "Bir şeyi daha da ileri götürmek, daha uzun yapmak istiyorsun. Ne yapıyorsun?",
+      "accepted_forms": ["uzatmak", "uzatıyorum"],
+      "note": null
+    }
+  ]
+}

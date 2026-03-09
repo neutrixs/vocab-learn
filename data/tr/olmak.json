@@ -1,0 +1,32 @@
+{
+  "word": "olmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to be, to become",
+  "sentences": [
+    {
+      "id": "olmak_s1",
+      "text": "[Olmak] istiyorum.",
+      "note": null
+    },
+    {
+      "id": "olmak_s2",
+      "text": "Doktor [olmak] zor.",
+      "note": null
+    },
+    {
+      "id": "olmak_s3",
+      "text": "[Olacaksa] başarı var.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "olmak_r1",
+      "prompt": "Var olmak veya durumda bulunmak. Ne yapmak?",
+      "accepted_forms": ["olmak", "oldum", "olacak"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "word": "müttefikler",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "allies",
+  "sentences": [
+    {
+      "id": "müttefikler_s1",
+      "text": "[Müttefikler] anlaşmaya vardı.",
+      "note": null
+    },
+    {
+      "id": "müttefikler_s2",
+      "text": "[Müttefikler]in desteği vardı.",
+      "note": null
+    },
+    {
+      "id": "müttefikler_s3",
+      "text": "[Müttefiklere] silah gönderdi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "müttefikler_r1",
+      "prompt": "Ortak amaç için birlikte çalışan ülkeler veya taraflar. Ne denir?",
+      "accepted_forms": ["müttefikler", "müttefiklerine"],
+      "note": null
+    }
+  ]
+}

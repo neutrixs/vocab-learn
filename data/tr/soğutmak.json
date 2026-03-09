@@ -1,0 +1,47 @@
+{
+  "word": "soğutmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to cool, to refrigerate, to chill",
+  "sentences": [
+    {
+      "id": "sogutmak_s1",
+      "text": "Suyu [soğutmalı].",
+      "note": null
+    },
+    {
+      "id": "sogutmak_s2",
+      "text": "Kahveyi [soğuttuk].",
+      "note": null
+    },
+    {
+      "id": "sogutmak_s3",
+      "text": "[Soğutmak] için buzluk kullanıyoruz.",
+      "note": null
+    },
+    {
+      "id": "sogutmak_s4",
+      "text": "Yemeği [soğutmalısın].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sogutmak_r1",
+      "prompt": "'soğutmak' fiilinin anlamı nedir?",
+      "accepted_forms": [
+        "soğutmak"
+      ],
+      "note": null
+    },
+    {
+      "id": "sogutmak_r2",
+      "prompt": "Türkçede 'soğutmak' ne demek?",
+      "accepted_forms": [
+        "soğutmak"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "word": "önümüzdeki",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "upcoming, next, forthcoming",
+  "sentences": [
+    {
+      "id": "onumuz_s1",
+      "text": "[Önümüzdeki] hafta sınav yapılacak.",
+      "note": "'önümüzdeki hafta' = next week"
+    },
+    {
+      "id": "onumuz_s2",
+      "text": "[Önümüzdeki] ay tatil yapacağız.",
+      "note": null
+    },
+    {
+      "id": "onumuz_s3",
+      "text": "[Önümüzdeki] yıl yeni proje başlayacak.",
+      "note": null
+    },
+    {
+      "id": "onumuz_s4",
+      "text": "[Önümüzdeki] günlerde seninle görüşeceğim.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "onumuz_r1",
+      "prompt": "Şimdi pazartesi, ... perşembe ne olacak?",
+      "accepted_forms": [
+        "önümüzdeki"
+      ],
+      "note": null
+    },
+    {
+      "id": "onumuz_r2",
+      "prompt": "'... ay tatil yapacağız.' İlk kelime ne?",
+      "accepted_forms": [
+        "önümüzdeki"
+      ],
+      "note": null
+    }
+  ]
+}

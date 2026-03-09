@@ -1,0 +1,47 @@
+{
+  "word": "sigara",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "cigarette, tobacco",
+  "sentences": [
+    {
+      "id": "sigara_s1",
+      "text": "[Sigara] içmek zararlı.",
+      "note": null
+    },
+    {
+      "id": "sigara_s2",
+      "text": "[Sigara] paketini aldı.",
+      "note": null
+    },
+    {
+      "id": "sigara_s3",
+      "text": "[Sigarayı] bırakmak istiyorum.",
+      "note": null
+    },
+    {
+      "id": "sigara_s4",
+      "text": "[Sigara] dumanı beni rahatsız ediyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sigara_r1",
+      "prompt": "'sigara' kelimesi ne demek?",
+      "accepted_forms": [
+        "sigara"
+      ],
+      "note": null
+    },
+    {
+      "id": "sigara_r2",
+      "prompt": "Türkçede 'sigara' ne anlama gelir?",
+      "accepted_forms": [
+        "sigara"
+      ],
+      "note": null
+    }
+  ]
+}

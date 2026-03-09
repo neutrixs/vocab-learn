@@ -1,0 +1,21 @@
+{
+  "word": "tane",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "grain, seed, item, piece, unit",
+  "sentences": [
+    { "id": "tane_s1", "text": "Üç [tane] elma aldım.", "note": null },
+    { "id": "tane_s2", "text": "Kaç [tane] çocuk var?", "note": null },
+    { "id": "tane_s3", "text": "Buğday [tane]leri sağlam.", "note": null },
+    { "id": "tane_s4", "text": "İki [tane] çay ister misin?", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tane_r1",
+      "prompt": "Bir, iki, üç gibi sayılarla kullanılan, bir nesne sayıcı kelime. Ne denir?",
+      "accepted_forms": ["tane", "tanesi"],
+      "note": null
+    }
+  ]
+}

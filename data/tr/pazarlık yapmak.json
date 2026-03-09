@@ -1,0 +1,27 @@
+{
+  "word": "pazarlık yapmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to bargain, to haggle",
+  "sentences": [
+    { "id": "pazarlik_s1", "text": "[Pazarlık yaptım] satıcıyla.", "note": "'pazarlık yaptım' = I bargained" },
+    { "id": "pazarlik_s2", "text": "[Pazarlık yapmaya] başladı.", "note": "'pazarlık yapmaya başladı' = started bargaining" },
+    { "id": "pazarlik_s3", "text": "Pazarda [pazarlık yapılır].", "note": "'pazarlık yapılır' = bargaining is done" },
+    { "id": "pazarlik_s4", "text": "[Pazarlık yapma], fiyatı kabul et.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "pazarlik_r1",
+      "prompt": "Satıcı ile alıcı arasında fiyatı düşürmek için yapılan tartışma nedir?",
+      "accepted_forms": ["pazarlık yapmak", "tarafisah"],
+      "note": null
+    },
+    {
+      "id": "pazarlik_r2",
+      "prompt": "Satıcıyla ... fiyatı düşürdü.",
+      "accepted_forms": ["pazarlık yapmak"],
+      "note": null
+    }
+  ]
+}

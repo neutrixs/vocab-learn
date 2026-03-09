@@ -1,0 +1,32 @@
+{
+  "word": "mutlu",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "happy, content",
+  "sentences": [
+    {
+      "id": "mutlu_s1",
+      "text": "Çok [mutlu] hissediyorum.",
+      "note": null
+    },
+    {
+      "id": "mutlu_s2",
+      "text": "[Mutlu] bir yaşam istiyorum.",
+      "note": null
+    },
+    {
+      "id": "mutlu_s3",
+      "text": "[Mutlu] olmak güzel.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "mutlu_r1",
+      "prompt": "Hoş ve memnun hissetme durumu. Hangi sıfat?",
+      "accepted_forms": ["mutlu"],
+      "note": null
+    }
+  ]
+}

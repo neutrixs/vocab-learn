@@ -1,0 +1,27 @@
+{
+  "word": "portakal suyu",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "orange juice",
+  "sentences": [
+    { "id": "portakal_s1", "text": "[Portakal suyu] içmek seviyorum.", "note": "'portakal suyu' = orange juice" },
+    { "id": "portakal_s2", "text": "Sabah [portakal suyu]na bir bardak.", "note": "'portakal suyuna' = orange juice (dative)" },
+    { "id": "portakal_s3", "text": "[Portakal suyu]nu siparişini yaptım.", "note": "'portakal suyunu' = orange juice (accusative)" },
+    { "id": "portakal_s4", "text": "[Portakal suyu]n fazla şeker var.", "note": "'portakal suyunun' = orange juice's" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "portakal_r1",
+      "prompt": "Portakaldan yapılan sıvı içecek ne demektir?",
+      "accepted_forms": ["portakal suyu", "meyve suyu"],
+      "note": null
+    },
+    {
+      "id": "portakal_r2",
+      "prompt": "Sabahları ... bardak içerim.",
+      "accepted_forms": ["portakal suyu"],
+      "note": null
+    }
+  ]
+}

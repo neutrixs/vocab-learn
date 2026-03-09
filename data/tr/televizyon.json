@@ -1,0 +1,21 @@
+{
+  "word": "televizyon",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "television, TV",
+  "sentences": [
+    { "id": "televizyon_s1", "text": "[Televizyon] çok fazla izleme, göz yorulur.", "note": null },
+    { "id": "televizyon_s2", "text": "Akşam haberleri [televizyonda] izledim.", "note": null },
+    { "id": "televizyon_s3", "text": "Yeni bir [televizyon] almaya karar verdik.", "note": null },
+    { "id": "televizyon_s4", "text": "[Televizyonun] sesi çok yüksek.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "televizyon_r1",
+      "prompt": "Akşamı rahatlayarak geçiriyorsun. '... izledim ve uyuyakaldım.' dersin.",
+      "accepted_forms": ["televizyon", "TV"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "word": "nisan",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "April, engagement",
+  "sentences": [
+    {
+      "id": "nisan_s1",
+      "text": "[Nisan]da düğün olacak.",
+      "note": null
+    },
+    {
+      "id": "nisan_s2",
+      "text": "[Nisan] ayında yağmur çok.",
+      "note": null
+    },
+    {
+      "id": "nisan_s3",
+      "text": "[Nisan]ı geçtik.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "nisan_r1",
+      "prompt": "Takvimde dördüncü ay. Ne denir?",
+      "accepted_forms": ["nisan"],
+      "note": null
+    }
+  ]
+}

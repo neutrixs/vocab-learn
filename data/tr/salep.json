@@ -1,0 +1,27 @@
+{
+  "word": "salep",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "salep (a hot drink made from orchid root powder)",
+  "sentences": [
+    { "id": "salep_s1", "text": "Kış aylarında sıcak [salep] içiyorum.", "note": null },
+    { "id": "salep_s2", "text": "[Salebi] kaynama çilek ile içerim.", "note": null },
+    { "id": "salep_s3", "text": "Pazarda [salep] satılıyor.", "note": null },
+    { "id": "salep_s4", "text": "Türk kültüründe [salep] önemli bir içki.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "salep_r1",
+      "prompt": "Kış aylarında tatlı ve sıcak bir içki ne denir?",
+      "accepted_forms": ["salep", "sıcak içki", "türk kahvesi"],
+      "note": null
+    },
+    {
+      "id": "salep_r2",
+      "prompt": "Orkide kökünden yapılan Türk içeceği ne denir?",
+      "accepted_forms": ["salep", "sıcak salep", "drink"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "word": "oğul",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "son",
+  "sentences": [
+    {
+      "id": "oğul_s1",
+      "text": "Benim [oğul]um vardır.",
+      "note": null
+    },
+    {
+      "id": "oğul_s2",
+      "text": "[Oğlu]nuz kaç yaşında?",
+      "note": null
+    },
+    {
+      "id": "oğul_s3",
+      "text": "[Oğullar] okula gidiyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "oğul_r1",
+      "prompt": "Bir erkek çocuk veya erkek çocuğu. Ne denir?",
+      "accepted_forms": ["oğul", "oğlu"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "sanatçı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "artist",
+  "sentences": [
+    { "id": "sanatçı_s1", "text": "Bu [sanatçı] ünlü bir heykeltıraş.", "note": null },
+    { "id": "sanatçı_s2", "text": "[Sanatçılar] duygularıyla eser yaratır.", "note": null },
+    { "id": "sanatçı_s3", "text": "[Sanatçının] sergisi açıldı.", "note": null },
+    { "id": "sanatçı_s4", "text": "Genç [sanatçı] ödül kazandı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sanatçı_r1",
+      "prompt": "Sanat yaparak hayatını kazanan kişi ne denir?",
+      "accepted_forms": ["sanatçı", "ressam", "yazar"],
+      "note": null
+    },
+    {
+      "id": "sanatçı_r2",
+      "prompt": "Duygularını eserler aracılığıyla ifade eden kişi hangisidir?",
+      "accepted_forms": ["sanatçı", "yaratıcı", "ressam"],
+      "note": null
+    }
+  ]
+}

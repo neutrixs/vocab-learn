@@ -1,0 +1,47 @@
+{
+  "word": "sevgilerle",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adverb",
+  "english_gloss": "with love, lovingly",
+  "sentences": [
+    {
+      "id": "sevgilerle_s1",
+      "text": "Anne kızına [sevgilerle] sarıldı.",
+      "note": null
+    },
+    {
+      "id": "sevgilerle_s2",
+      "text": "[Sevgilerle] hazırladığı yemeği tattık.",
+      "note": null
+    },
+    {
+      "id": "sevgilerle_s3",
+      "text": "Mektubunu [sevgilerle] okuduk.",
+      "note": null
+    },
+    {
+      "id": "sevgilerle_s4",
+      "text": "[Sevgilerle] hazırlanan hediye çok güzeldi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sevgilerle_r1",
+      "prompt": "'sevgilerle' zarf ne demek?",
+      "accepted_forms": [
+        "sevgilerle"
+      ],
+      "note": null
+    },
+    {
+      "id": "sevgilerle_r2",
+      "prompt": "Türkçede 'sevgilerle' ne anlama gelir?",
+      "accepted_forms": [
+        "sevgilerle"
+      ],
+      "note": null
+    }
+  ]
+}

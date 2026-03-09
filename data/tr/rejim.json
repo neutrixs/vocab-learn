@@ -1,0 +1,27 @@
+{
+  "word": "rejim",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "diet, regime",
+  "sentences": [
+    { "id": "rejim_s1", "text": "[Rejim] yapıyorum şu an.", "note": "'rejim' = diet" },
+    { "id": "rejim_s2", "text": "[Rejim]e uyması gerekiyor.", "note": "'rejime' = to the diet" },
+    { "id": "rejim_s3", "text": "[Rejim] yemeğini hazırladı.", "note": "'rejim yemeği' = diet meal" },
+    { "id": "rejim_s4", "text": "[Rejim] sonra kilo verdi.", "note": "'rejim sonra' = after diet" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "rejim_r1",
+      "prompt": "Sağlık veya zayıflama amacıyla belirlenen yeme düzeni nedir?",
+      "accepted_forms": ["rejim", "diyet"],
+      "note": null
+    },
+    {
+      "id": "rejim_r2",
+      "prompt": "Doktor ... önerdi bana.",
+      "accepted_forms": ["rejim"],
+      "note": null
+    }
+  ]
+}

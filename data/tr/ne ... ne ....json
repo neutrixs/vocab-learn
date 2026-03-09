@@ -1,0 +1,32 @@
+{
+  "word": "ne ... ne ...",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "conjunction",
+  "english_gloss": "neither ... nor",
+  "sentences": [
+    {
+      "id": "ne ... ne ..._s1",
+      "text": "[Ne] yemek [ne] içmek istedim.",
+      "note": null
+    },
+    {
+      "id": "ne ... ne ..._s2",
+      "text": "[Ne] gündüz [ne] gece uyudum.",
+      "note": null
+    },
+    {
+      "id": "ne ... ne ..._s3",
+      "text": "[Ne] burası [ne] şurası.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ne ... ne ..._r1",
+      "prompt": "İkisini de reddetme iki ayrı şeyi birleştiren bağlaç. Ne denir?",
+      "accepted_forms": ["ne ... ne", "ne ve ne"],
+      "note": null
+    }
+  ]
+}

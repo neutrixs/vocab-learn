@@ -1,0 +1,47 @@
+{
+  "word": "sinir",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "nerve, boundary, limit",
+  "sentences": [
+    {
+      "id": "sinir_s1",
+      "text": "[Sinirleri] bozulmuş.",
+      "note": null
+    },
+    {
+      "id": "sinir_s2",
+      "text": "[Sinir] sistemi komplekstir.",
+      "note": null
+    },
+    {
+      "id": "sinir_s3",
+      "text": "[Sınırı] geçmek tehlikeli.",
+      "note": null
+    },
+    {
+      "id": "sinir_s4",
+      "text": "[Sinirlerim] bozuldu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sinir_r1",
+      "prompt": "'sinir' kelimesi ne demek?",
+      "accepted_forms": [
+        "sinir"
+      ],
+      "note": null
+    },
+    {
+      "id": "sinir_r2",
+      "prompt": "Türkçede 'sinir' ne anlama gelir?",
+      "accepted_forms": [
+        "sinir"
+      ],
+      "note": null
+    }
+  ]
+}

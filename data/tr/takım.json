@@ -1,0 +1,21 @@
+{
+  "word": "takım",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "team, set, group, suite",
+  "sentences": [
+    { "id": "takım_s1", "text": "Futbol [takımı] maçta başarısız.", "note": null },
+    { "id": "takım_s2", "text": "Bu [takım]da iyi oyuncuları var.", "note": null },
+    { "id": "takım_s3", "text": "Türkiye [takımı] büyük sevgiler gördü.", "note": null },
+    { "id": "takım_s4", "text": "[Takım] çalışması başarının anahtarı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "takım_r1",
+      "prompt": "Spor oyunlarında bir hedef için beraber çalışan oyuncu grubu. Ne denir?",
+      "accepted_forms": ["takım", "takımı", "takımda"],
+      "note": null
+    }
+  ]
+}

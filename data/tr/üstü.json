@@ -1,0 +1,21 @@
+{
+  "word": "üstü",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "top, upper part, change (money)",
+  "sentences": [
+    { "id": "ustu_s1", "text": "Masanın [üstü] çok temiz.", "note": null },
+    { "id": "ustu_s2", "text": "[Üstü] on lira kalsın.", "note": null },
+    { "id": "ustu_s3", "text": "Kitabı masanın [üstüne] koy.", "note": null },
+    { "id": "ustu_s4", "text": "[Üstüyle] anlaşmayalım diye.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ustu_r1",
+      "prompt": "Para üstü almak istiyor musun?",
+      "accepted_forms": ["üstü", "para üstü"],
+      "note": null
+    }
+  ]
+}

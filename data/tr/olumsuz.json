@@ -1,0 +1,32 @@
+{
+  "word": "olumsuz",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "negative",
+  "sentences": [
+    {
+      "id": "olumsuz_s1",
+      "text": "[Olumsuz] bir yanıt.",
+      "note": null
+    },
+    {
+      "id": "olumsuz_s2",
+      "text": "[Olumsuz] düşünce vardı.",
+      "note": null
+    },
+    {
+      "id": "olumsuz_s3",
+      "text": "[Olumsuz] tepki gösterdi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "olumsuz_r1",
+      "prompt": "Hayır ve reddedici anlamı gösteren sıfat. Ne denir?",
+      "accepted_forms": ["olumsuz"],
+      "note": null
+    }
+  ]
+}

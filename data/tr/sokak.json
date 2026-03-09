@@ -1,0 +1,47 @@
+{
+  "word": "sokak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "street, lane, alley",
+  "sentences": [
+    {
+      "id": "sokak_s1",
+      "text": "[Sokakta] oynuyorlar.",
+      "note": null
+    },
+    {
+      "id": "sokak_s2",
+      "text": "[Sokağın] adı ne?",
+      "note": null
+    },
+    {
+      "id": "sokak_s3",
+      "text": "Bu [sokak] güvenli mi?",
+      "note": null
+    },
+    {
+      "id": "sokak_s4",
+      "text": "[Sokaklarda] çok araç var.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sokak_r1",
+      "prompt": "'sokak' kelimesi ne demek?",
+      "accepted_forms": [
+        "sokak"
+      ],
+      "note": null
+    },
+    {
+      "id": "sokak_r2",
+      "prompt": "Türkçede 'sokak' ne anlama gelir?",
+      "accepted_forms": [
+        "sokak"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "word": "mimar",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "architect",
+  "sentences": [
+    {
+      "id": "mimar_s1",
+      "text": "[Mimar], binaları tasarlar.",
+      "note": null
+    },
+    {
+      "id": "mimar_s2",
+      "text": "Ünlü [mimar] ulusal ödül kazandı.",
+      "note": null
+    },
+    {
+      "id": "mimar_s3",
+      "text": "[Mimarlar] yeni projeyi tartışıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "mimar_r1",
+      "prompt": "Binaları ve yapıları tasarlayan meslek. Profesyonel nedir?",
+      "accepted_forms": ["mimar", "mimara"],
+      "note": null
+    }
+  ]
+}

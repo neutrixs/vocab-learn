@@ -1,0 +1,47 @@
+{
+  "word": "şaka",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "joke, jest, prank",
+  "sentences": [
+    {
+      "id": "saka_s1",
+      "text": "[Şaka]] söyle bize.",
+      "note": null
+    },
+    {
+      "id": "saka_s2",
+      "text": "[Şakayı]] anladı mı?",
+      "note": null
+    },
+    {
+      "id": "saka_s3",
+      "text": "[Şakalarımıza]] gülüyordu.",
+      "note": null
+    },
+    {
+      "id": "saka_s4",
+      "text": "[Şakası]] var mı?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "saka_r1",
+      "prompt": "'şaka' kelimesi ne demek?",
+      "accepted_forms": [
+        "şaka"
+      ],
+      "note": null
+    },
+    {
+      "id": "saka_r2",
+      "prompt": "Türkçede 'şaka' ne anlama gelir?",
+      "accepted_forms": [
+        "şaka"
+      ],
+      "note": null
+    }
+  ]
+}

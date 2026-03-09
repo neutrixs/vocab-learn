@@ -1,0 +1,21 @@
+{
+  "word": "tur",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "tour, round",
+  "sentences": [
+    { "id": "tur_s1", "text": "[Tur] rehberi bize antik şehri tanıttı.", "note": null },
+    { "id": "tur_s2", "text": "Avrupa [turu] yapıyoruz bu yaz.", "note": null },
+    { "id": "tur_s3", "text": "Futbol turnuvasının [tur] sayısı belli.", "note": null },
+    { "id": "tur_s4", "text": "[Tura] katılmak istiyorum.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tur_r1",
+      "prompt": "Turizm amaçlı yolculuk yapıyorsun, rehber eşliğinde şehri dolaşıyorsun. Buna ne denir?",
+      "accepted_forms": ["tur", "turun"],
+      "note": null
+    }
+  ]
+}

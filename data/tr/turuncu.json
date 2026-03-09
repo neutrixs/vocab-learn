@@ -1,0 +1,21 @@
+{
+  "word": "turuncu",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "orange (color)",
+  "sentences": [
+    { "id": "turuncu_s1", "text": "[Turuncu] renk sıcak ve enerjik.", "note": null },
+    { "id": "turuncu_s2", "text": "Gün batımı [turuncu] gökyüzüne döndü.", "note": null },
+    { "id": "turuncu_s3", "text": "[Turuncu] portakal tadında tatlı.", "note": null },
+    { "id": "turuncu_s4", "text": "Çiçekler [turuncu] ve sarı renkte.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "turuncu_r1",
+      "prompt": "Portakal rengi anlatıyorsun. 'Portakal ... renktir.' dersin.",
+      "accepted_forms": ["turuncu", "portakal renginde"],
+      "note": null
+    }
+  ]
+}

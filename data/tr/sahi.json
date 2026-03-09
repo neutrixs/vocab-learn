@@ -1,0 +1,27 @@
+{
+  "word": "sahi",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adverb",
+  "english_gloss": "really, truly, indeed, actually",
+  "sentences": [
+    { "id": "sahi_s1", "text": "[Sahi] mi? Buna inanabilirim.", "note": null },
+    { "id": "sahi_s2", "text": "[Sahi] söyleyem, bu böyle değil.", "note": null },
+    { "id": "sahi_s3", "text": "[Sahi], çok güzel oldu.", "note": null },
+    { "id": "sahi_s4", "text": "Bu [sahi] mi, yoksa şaka mı?", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sahi_r1",
+      "prompt": "Bir şeyin doğru olduğunu sorguladığında, onaylayan bir söz ne?",
+      "accepted_forms": ["sahi", "doğru", "evet"],
+      "note": null
+    },
+    {
+      "id": "sahi_r2",
+      "prompt": "Müdür 'Buraya ben gitmedim' dedi. Sen '[Sahi] mi' diyorsun.",
+      "accepted_forms": ["sahi", "doğru", "gerçekten"],
+      "note": null
+    }
+  ]
+}

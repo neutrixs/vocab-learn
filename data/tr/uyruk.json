@@ -1,0 +1,21 @@
+{
+  "word": "uyruk",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "nationality, citizenship",
+  "sentences": [
+    { "id": "uyruk_s1", "text": "[Uyruk] belirle kimliğini.", "note": null },
+    { "id": "uyruk_s2", "text": "[Uyruk] belgesi nerede?", "note": null },
+    { "id": "uyruk_s3", "text": "Türk [uyruğu] alan insanlar vize alırlar.", "note": null },
+    { "id": "uyruk_s4", "text": "[Uyruğunu] değiştirdi geçen sene.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "uyruk_r1",
+      "prompt": "Hangi ülkenin vatandaşı olduğun hangi belgeyle kanıtlanır?",
+      "accepted_forms": ["uyruk", "uyruk belgesi"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "Türkçe",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "Turkish (language)",
+  "sentences": [
+    { "id": "turkce_s1", "text": "[Türkçe] konuşmak istiyorum.", "note": null },
+    { "id": "turkce_s2", "text": "[Türkçe] öğreniyorum, zorlu bir dil.", "note": null },
+    { "id": "turkce_s3", "text": "Bu konu [Türkçe] yazılı.", "note": null },
+    { "id": "turkce_s4", "text": "[Türkçesini] iyi mi?", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "turkce_r1",
+      "prompt": "Türkiye'de konuşulan dil nedir?",
+      "accepted_forms": ["Türkçe", "türkçe"],
+      "note": null
+    }
+  ]
+}

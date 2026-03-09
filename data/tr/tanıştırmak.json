@@ -1,0 +1,21 @@
+{
+  "word": "tanıştırmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to introduce, to make acquainted",
+  "sentences": [
+    { "id": "tanıştırmak_s1", "text": "Arkadaşımı [tanıştırıyorum] sana.", "note": null },
+    { "id": "tanıştırmak_s2", "text": "Iki insanı [tanıştırdım] birbirine.", "note": null },
+    { "id": "tanıştırmak_s3", "text": "Ona sevgilisini [tanıştıracak] sonra.", "note": null },
+    { "id": "tanıştırmak_s4", "text": "[Tanıştırmak] iyi bir fikir.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tanıştırmak_r1",
+      "prompt": "İki insanı karşılaştırarak birbirini tanımalarını sağlamak. Ne denir?",
+      "accepted_forms": ["tanıştırmak", "tanıştırıyorum", "tanıştırdı"],
+      "note": null
+    }
+  ]
+}

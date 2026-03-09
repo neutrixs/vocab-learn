@@ -1,0 +1,21 @@
+{
+  "word": "üniversite",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "university",
+  "sentences": [
+    { "id": "universite_s1", "text": "[Üniversite] dört sene sürer.", "note": null },
+    { "id": "universite_s2", "text": "Hangi [üniversitede] okuyorsun?", "note": null },
+    { "id": "universite_s3", "text": "[Üniversitenin] kütüphanesi çok iyi.", "note": null },
+    { "id": "universite_s4", "text": "Hedefim [üniversite] sınavında başarılı olmak.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "universite_r1",
+      "prompt": "Yüksek eğitim alan kurum nedir?",
+      "accepted_forms": ["üniversite", "üni"],
+      "note": null
+    }
+  ]
+}

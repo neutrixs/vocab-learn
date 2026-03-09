@@ -1,0 +1,21 @@
+{
+  "word": "toplamak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to gather, to collect, to add",
+  "sentences": [
+    { "id": "toplamak_s1", "text": "[Topladık] yerdeki eşyaları.", "note": null },
+    { "id": "toplamak_s2", "text": "Kütüphanede kitap [toplamak] iyi bir alışkanlık.", "note": null },
+    { "id": "toplamak_s3", "text": "Sayıları [topla] bakalım.", "note": null },
+    { "id": "toplamak_s4", "text": "[Toplanan] paralar insanın yardımına gidecek.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "toplamak_r1",
+      "prompt": "Yer temizlerken nesneleri bir yere koyuyorsun. '... gerek.' dersin.",
+      "accepted_forms": ["toplamak", "topladık"],
+      "note": null
+    }
+  ]
+}

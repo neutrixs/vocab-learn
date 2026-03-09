@@ -1,0 +1,27 @@
+{
+  "word": "püre",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "puree",
+  "sentences": [
+    { "id": "pure_s1", "text": "[Püre] yapmak kolay.", "note": "'püre' = puree" },
+    { "id": "pure_s2", "text": "Patates [püre]si lezzetli.", "note": "'püre' = puree" },
+    { "id": "pure_s3", "text": "[Püre]ye biraz tuz koydum.", "note": "'püreye' = to the puree" },
+    { "id": "pure_s4", "text": "Domates [püre]si satıyor.", "note": "'püre' = puree" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "pure_r1",
+      "prompt": "Haşlanmış ve ezilmiş sebze veya meyveden yapılan hamur şeklindeki yemek ne demektir?",
+      "accepted_forms": ["püre"],
+      "note": null
+    },
+    {
+      "id": "pure_r2",
+      "prompt": "Patates ... bebeğe iyi gelir.",
+      "accepted_forms": ["püre"],
+      "note": null
+    }
+  ]
+}

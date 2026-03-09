@@ -1,0 +1,32 @@
+{
+  "word": "o zaman",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adverb",
+  "english_gloss": "then, in that case",
+  "sentences": [
+    {
+      "id": "o zaman_s1",
+      "text": "[O zaman] gidecek mi?",
+      "note": null
+    },
+    {
+      "id": "o zaman_s2",
+      "text": "[O zaman] ne yapacağız?",
+      "note": null
+    },
+    {
+      "id": "o zaman_s3",
+      "text": "[O zaman] başlıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "o zaman_r1",
+      "prompt": "O durumda veya o vakitte. Ne anlamında cümle?",
+      "accepted_forms": ["o zaman"],
+      "note": null
+    }
+  ]
+}

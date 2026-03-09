@@ -1,0 +1,49 @@
+{
+  "word": "Sevgili",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "beloved, sweetheart, dear",
+  "sentences": [
+    {
+      "id": "sevgili_s1",
+      "text": "[Sevgilim] bana çiçek verdi.",
+      "note": null
+    },
+    {
+      "id": "sevgili_s2",
+      "text": "[Sevgili] arkadaşlarımızla buluştuk.",
+      "note": null
+    },
+    {
+      "id": "sevgili_s3",
+      "text": "[Sevgili] Mehmet, seni çok özledik.",
+      "note": null
+    },
+    {
+      "id": "sevgili_s4",
+      "text": "[Sevgilisini] çok seviyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sevgili_r1",
+      "prompt": "'Sevgili' kelimesi ne demek?",
+      "accepted_forms": [
+        "Sevgili",
+        "sevgili"
+      ],
+      "note": null
+    },
+    {
+      "id": "sevgili_r2",
+      "prompt": "Türkçede 'Sevgili' ne anlama gelir?",
+      "accepted_forms": [
+        "Sevgili",
+        "sevgili"
+      ],
+      "note": null
+    }
+  ]
+}

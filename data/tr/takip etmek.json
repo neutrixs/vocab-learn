@@ -1,0 +1,21 @@
+{
+  "word": "takip etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to follow, to track, to pursue, to keep up with",
+  "sentences": [
+    { "id": "takip etmek_s1", "text": "Haber serilerini [takip ediyorum].", "note": null },
+    { "id": "takip etmek_s2", "text": "Futbolcu imza [takip ediyor] medya.", "note": null },
+    { "id": "takip etmek_s3", "text": "[Takip etmek] kaldığında kalan sevgisiz.", "note": null },
+    { "id": "takip etmek_s4", "text": "Sosyal medyada mı [takip ediyorsun]?", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "takip etmek_r1",
+      "prompt": "Bir şey veya bir kişinin peşinden gitmek, onu izlemek. Ne denir?",
+      "accepted_forms": ["takip etmek", "takip ediyorum", "takip etti"],
+      "note": null
+    }
+  ]
+}

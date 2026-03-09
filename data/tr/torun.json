@@ -1,0 +1,21 @@
+{
+  "word": "torun",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "grandchild",
+  "sentences": [
+    { "id": "torun_s1", "text": "Anneanne [torununun] bu kadar akıllı olduğunu bilmiyordu.", "note": null },
+    { "id": "torun_s2", "text": "[Torunları] bayram tatilinde ziyarete geldiler.", "note": null },
+    { "id": "torun_s3", "text": "Her [torununun] ismini hatırlıyor.", "note": null },
+    { "id": "torun_s4", "text": "[Torun] ol diye bana söyledi.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "torun_r1",
+      "prompt": "Annenenin iki çocuğu vardır, bunlar sana göre ne?",
+      "accepted_forms": ["torun", "torunu"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "word": "sınav",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "exam, test",
+  "sentences": [
+    {
+      "id": "sinav_s1",
+      "text": "Yarın [sınav] var mı?",
+      "note": null
+    },
+    {
+      "id": "sinav_s2",
+      "text": "[Sınava] hazırlanıyorum.",
+      "note": null
+    },
+    {
+      "id": "sinav_s3",
+      "text": "[Sınavda] başarılı olmak istiyorum.",
+      "note": null
+    },
+    {
+      "id": "sinav_s4",
+      "text": "[Sınav] sonuçları açıklandı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sinav_r1",
+      "prompt": "'sınav' kelimesi ne demek?",
+      "accepted_forms": [
+        "sınav"
+      ],
+      "note": null
+    },
+    {
+      "id": "sinav_r2",
+      "prompt": "Türkçede 'sınav' ne anlama gelir?",
+      "accepted_forms": [
+        "sınav"
+      ],
+      "note": null
+    }
+  ]
+}

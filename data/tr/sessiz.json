@@ -1,0 +1,47 @@
+{
+  "word": "sessiz",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "silent, quiet",
+  "sentences": [
+    {
+      "id": "sessiz_s1",
+      "text": "[Sessiz] bir oda için müzik çalmıyoruz.",
+      "note": null
+    },
+    {
+      "id": "sessiz_s2",
+      "text": "Onun [sessiz] sesi hiç duyulmuyor.",
+      "note": null
+    },
+    {
+      "id": "sessiz_s3",
+      "text": "Kütüphanede [sessiz] olmak gerek.",
+      "note": null
+    },
+    {
+      "id": "sessiz_s4",
+      "text": "[Sessiz] gemi sessizce ilerliyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sessiz_r1",
+      "prompt": "'sessiz' sıfatı ne demek?",
+      "accepted_forms": [
+        "sessiz"
+      ],
+      "note": null
+    },
+    {
+      "id": "sessiz_r2",
+      "prompt": "Türkçede 'sessiz' ne anlama gelir?",
+      "accepted_forms": [
+        "sessiz"
+      ],
+      "note": null
+    }
+  ]
+}

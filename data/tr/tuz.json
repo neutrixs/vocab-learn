@@ -1,0 +1,21 @@
+{
+  "word": "tuz",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "salt",
+  "sentences": [
+    { "id": "tuz_s1", "text": "Yemeği [tuz] ile harika oldu.", "note": null },
+    { "id": "tuz_s2", "text": "[Tuzlamadan] yemek lezzetsiz.", "note": null },
+    { "id": "tuz_s3", "text": "[Tuz] eksik mi?", "note": null },
+    { "id": "tuz_s4", "text": "Deniz [tuzu] İtalya'da ünlü.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tuz_r1",
+      "prompt": "Yemeği tatlandırmak için hangi başlıca başlık kullanılır?",
+      "accepted_forms": ["tuz", "tuza"],
+      "note": null
+    }
+  ]
+}

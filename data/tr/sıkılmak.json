@@ -1,0 +1,47 @@
+{
+  "word": "sıkılmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to get bored, to be annoyed, to be squeezed",
+  "sentences": [
+    {
+      "id": "sikilmak_s1",
+      "text": "Dersten [sıkıldım].",
+      "note": null
+    },
+    {
+      "id": "sikilmak_s2",
+      "text": "[Sıkılıp] evde oturmak istedi.",
+      "note": null
+    },
+    {
+      "id": "sikilmak_s3",
+      "text": "[Sıkıldığında] müzik dinliyor.",
+      "note": null
+    },
+    {
+      "id": "sikilmak_s4",
+      "text": "Konuşmadan [sıkılmışız].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sikilmak_r1",
+      "prompt": "'sıkılmak' fiilinin anlamı nedir?",
+      "accepted_forms": [
+        "sıkılmak"
+      ],
+      "note": null
+    },
+    {
+      "id": "sikilmak_r2",
+      "prompt": "Türkçede 'sıkılmak' ne demek?",
+      "accepted_forms": [
+        "sıkılmak"
+      ],
+      "note": null
+    }
+  ]
+}

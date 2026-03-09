@@ -1,0 +1,27 @@
+{
+  "word": "saat",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "hour, clock, watch",
+  "sentences": [
+    { "id": "saat_s1", "text": "Bana [saat] ver, öğrenelim kaç?", "note": null },
+    { "id": "saat_s2", "text": "[Saat] dokuz buçukta toplantı.", "note": null },
+    { "id": "saat_s3", "text": "Bileğinde altın [saat] var.", "note": null },
+    { "id": "saat_s4", "text": "İki [saat] boyunca bekledim.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "saat_r1",
+      "prompt": "Zamanı ölçmek için kullandığımız alet nedir?",
+      "accepted_forms": ["saat", "dijital saat", "analog saat"],
+      "note": null
+    },
+    {
+      "id": "saat_r2",
+      "prompt": "Başarıs partinin kaç ... başlıyor? Bileğindeki aleti gözlerim.",
+      "accepted_forms": ["saat", "zamanda", "zaman"],
+      "note": null
+    }
+  ]
+}

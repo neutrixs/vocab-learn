@@ -1,0 +1,47 @@
+{
+  "word": "susmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to be silent, to keep quiet, to hush",
+  "sentences": [
+    {
+      "id": "susmak_s1",
+      "text": "[Susmak] zorundasın.",
+      "note": null
+    },
+    {
+      "id": "susmak_s2",
+      "text": "[Sus] artık.",
+      "note": null
+    },
+    {
+      "id": "susmak_s3",
+      "text": "Herkes [sussun].",
+      "note": null
+    },
+    {
+      "id": "susmak_s4",
+      "text": "Haykırıyor ama ben [sussam].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "susmak_r1",
+      "prompt": "'susmak' fiilinin anlamı nedir?",
+      "accepted_forms": [
+        "susmak"
+      ],
+      "note": null
+    },
+    {
+      "id": "susmak_r2",
+      "prompt": "Türkçede 'susmak' ne demek?",
+      "accepted_forms": [
+        "susmak"
+      ],
+      "note": null
+    }
+  ]
+}

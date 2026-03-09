@@ -1,53 +1,46 @@
 {
   "word": "önemli",
   "lang": "tr",
-  "difficulty": 2,
+  "difficulty": 1,
   "part_of_speech": "adjective",
-  "english_gloss": "important, significant",
+  "english_gloss": "important",
   "sentences": [
     {
-      "id": "önemli_s1",
-      "text": "Bu karar çok [önemli], dikkatlice düşün.",
+      "id": "onemli_s1",
+      "text": "Bu bir çok [önemli] karar.",
       "note": null
     },
     {
-      "id": "önemli_s2",
-      "text": "Sağlık her şeyden daha [önemlidir].",
+      "id": "onemli_s2",
+      "text": "[Önemli] haber var mı?",
       "note": null
     },
     {
-      "id": "önemli_s3",
-      "text": "[Önemli] bir toplantım var, geç kalamam.",
+      "id": "onemli_s3",
+      "text": "Eğitim [önemli]dir.",
       "note": null
     },
     {
-      "id": "önemli_s4",
-      "text": "Bu detay küçük görünüyor ama aslında çok [önemli].",
-      "note": null
-    },
-    {
-      "id": "önemli_s5",
-      "text": "Hayatımda en [önemli] şey ailemdir.",
+      "id": "onemli_s4",
+      "text": "Bu [önemli] bir veri değil.",
       "note": null
     }
   ],
   "recall_prompts": [
     {
-      "id": "önemli_r1",
-      "prompt": "Bir şeyin büyük değer taşıdığını, göz ardı edilemeyeceğini söylemek istiyorsun. Nasıl ifade edersin?",
+      "id": "onemli_r1",
+      "prompt": "Çok değeri olan, dikkat çeken bir şeyi nasıl tanımlarsın?",
       "accepted_forms": [
         "önemli",
-        "önemlidir",
-        "çok önemli"
+        "değerli"
       ],
       "note": null
     },
     {
-      "id": "önemli_r2",
-      "prompt": "Birini randevuya yetişmesi gerektiği konusunda uyarıyorsun. 'Bu toplantı çok ___.'",
+      "id": "onemli_r2",
+      "prompt": "Bu sınav çok ... .",
       "accepted_forms": [
-        "önemli",
-        "önemlidir"
+        "önemli"
       ],
       "note": null
     }

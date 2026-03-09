@@ -1,0 +1,32 @@
+{
+  "word": "mutfak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "kitchen, cuisine",
+  "sentences": [
+    {
+      "id": "mutfak_s1",
+      "text": "[Mutfak]ta yemek yaptı.",
+      "note": null
+    },
+    {
+      "id": "mutfak_s2",
+      "text": "Türk [mutfak]ı çok meşhur.",
+      "note": null
+    },
+    {
+      "id": "mutfak_s3",
+      "text": "[Mutfakta] birçok pot vardır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "mutfak_r1",
+      "prompt": "Yemek pişirilen yer. Ne denir?",
+      "accepted_forms": ["mutfak", "mutfağa"],
+      "note": null
+    }
+  ]
+}

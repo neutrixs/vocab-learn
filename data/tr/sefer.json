@@ -1,0 +1,27 @@
+{
+  "word": "sefer",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "trip, journey, voyage, expedition",
+  "sentences": [
+    { "id": "sefer_s1", "text": "[Sefer] hazırlıklarımız tamamlandı.", "note": null },
+    { "id": "sefer_s2", "text": "Bu [sefer] çok eğlenceli olacak.", "note": null },
+    { "id": "sefer_s3", "text": "[Seferden] geldiğim zaman yorgunum.", "note": null },
+    { "id": "sefer_s4", "text": "Tarihsel [seferler] savaş amaçlı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sefer_r1",
+      "prompt": "Bir yerden başka bir yere gitmek ne demek?",
+      "accepted_forms": ["sefer", "yolculuk", "gezi"],
+      "note": null
+    },
+    {
+      "id": "sefer_r2",
+      "prompt": "Plaj gezisi ne tür bir eylemdir?",
+      "accepted_forms": ["sefer", "yolculuk", "gezi"],
+      "note": null
+    }
+  ]
+}

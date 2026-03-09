@@ -1,0 +1,21 @@
+{
+  "word": "teslim etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to deliver, to hand over, to submit",
+  "sentences": [
+    { "id": "teslimetmek_s1", "text": "Paket [teslim ettim] müşterinin kapısında.", "note": null },
+    { "id": "teslimetmek_s2", "text": "Projeyi [teslim etmeden] önce kontrol et.", "note": null },
+    { "id": "teslimetmek_s3", "text": "Ödevi öğretmene [teslim etmesi] gerekti.", "note": null },
+    { "id": "teslimetmek_s4", "text": "Belgeleri hukuk bölümüne [teslim etmek] lazım.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "teslimetmek_r1",
+      "prompt": "Ödevi zamanında bitirdin ve öğretmene vermen gerekiyor. 'Ödevi ... lazım.' dersin.",
+      "accepted_forms": ["teslim etmek", "teslim etmeliyim"],
+      "note": null
+    }
+  ]
+}

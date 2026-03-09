@@ -1,0 +1,49 @@
+{
+  "word": "öğrenci",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "student",
+  "sentences": [
+    {
+      "id": "ogrenci_s1",
+      "text": "[Öğrenci]ler okula gidiyorlar.",
+      "note": "'öğrenciler' = students"
+    },
+    {
+      "id": "ogrenci_s2",
+      "text": "Ben bir [öğrenci]yim.",
+      "note": "'öğrenciyim' = I am a student"
+    },
+    {
+      "id": "ogrenci_s3",
+      "text": "[Öğrenci]ler sınava hazırlanıyor.",
+      "note": null
+    },
+    {
+      "id": "ogrenci_s4",
+      "text": "Üniversite [öğrenci]leri çok meşgul.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ogrenci_r1",
+      "prompt": "Okulda ders gören kişi nedir?",
+      "accepted_forms": [
+        "öğrenci",
+        "öğrenciler"
+      ],
+      "note": null
+    },
+    {
+      "id": "ogrenci_r2",
+      "prompt": "Ben matematiksel konuları öğreniyorum, ben ne yapıyorum?",
+      "accepted_forms": [
+        "öğrenci",
+        "öğrenci olmak"
+      ],
+      "note": null
+    }
+  ]
+}

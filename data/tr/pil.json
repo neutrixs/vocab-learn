@@ -1,0 +1,27 @@
+{
+  "word": "pil",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "battery",
+  "sentences": [
+    { "id": "pil_s1", "text": "Oyuncak [pil]e ihtiyaç duyuyor.", "note": "'pile' = needs battery" },
+    { "id": "pil_s2", "text": "Telefonun [pil]i bitmiş.", "note": "'pili' = battery (possessive)" },
+    { "id": "pil_s3", "text": "Yeni [pil] koydum.", "note": null },
+    { "id": "pil_s4", "text": "[Pil] boş mu yoksa dolu mu?", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "pil_r1",
+      "prompt": "Elektrik enerjisini saklayan küçük cihaz nedir?",
+      "accepted_forms": ["pil", "battery"],
+      "note": null
+    },
+    {
+      "id": "pil_r2",
+      "prompt": "Kontrol oyuncağına yeni ... koydum.",
+      "accepted_forms": ["pil"],
+      "note": null
+    }
+  ]
+}

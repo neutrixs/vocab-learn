@@ -1,0 +1,32 @@
+{
+  "word": "milliyet",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "nationality, patriotism",
+  "sentences": [
+    {
+      "id": "milliyet_s1",
+      "text": "Her insanın kendi [milliyet]i vardır.",
+      "note": null
+    },
+    {
+      "id": "milliyet_s2",
+      "text": "[Milliyet] duygusu çok güçlüdür.",
+      "note": null
+    },
+    {
+      "id": "milliyet_s3",
+      "text": "[Milliyetçilik] ve barış bir arada yürüyebilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "milliyet_r1",
+      "prompt": "Bir ülkeye ait olmak ve o ülkenin kültürüne bağlılık hissi. Ne denir?",
+      "accepted_forms": ["milliyet", "milliyeti"],
+      "note": null
+    }
+  ]
+}

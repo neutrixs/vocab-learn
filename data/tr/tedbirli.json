@@ -1,0 +1,21 @@
+{
+  "word": "tedbirli",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "careful, cautious, prudent, precautious",
+  "sentences": [
+    { "id": "tedbirli_s1", "text": "[Tedbirli] adam tehlikelerden sakınır.", "note": null },
+    { "id": "tedbirli_s2", "text": "Yol kenarında [tedbirli] olmak gerekir.", "note": null },
+    { "id": "tedbirli_s3", "text": "[Tedbirli] dışarı çıkıyorum.", "note": null },
+    { "id": "tedbirli_s4", "text": "[Tedbirli] iş yapısı önemli.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tedbirli_r1",
+      "prompt": "Tehlikeler hakkında dikkat alan, özel önlemler alan. Ne denir?",
+      "accepted_forms": ["tedbirli", "tedbir"],
+      "note": null
+    }
+  ]
+}

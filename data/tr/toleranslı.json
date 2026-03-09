@@ -1,0 +1,21 @@
+{
+  "word": "toleranslı",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "adjective",
+  "english_gloss": "tolerant",
+  "sentences": [
+    { "id": "toleransli_s1", "text": "[Toleranslı] bir toplum farklılıkları kabul eder.", "note": null },
+    { "id": "toleransli_s2", "text": "Öğretmeni [toleranslı] bir insan.", "note": null },
+    { "id": "toleransli_s3", "text": "[Toleranslı] olmak çağdaş toplumun anahtarıdır.", "note": null },
+    { "id": "toleransli_s4", "text": "Ailem çok [toleranslı] yetiştirdi beni.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "toleransli_r1",
+      "prompt": "Birinin farklı görüşleri açıkça kabul ettiğini söylüyorsun. 'Çok ... bir insan.' dersin.",
+      "accepted_forms": ["toleranslı", "hoşgörülü"],
+      "note": null
+    }
+  ]
+}

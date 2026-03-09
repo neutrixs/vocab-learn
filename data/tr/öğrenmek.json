@@ -1,0 +1,32 @@
+{
+  "word": "öğrenmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to learn, to find out",
+  "sentences": [
+    {
+      "id": "öğrenmek_s1",
+      "text": "Okula gidip [öğreniyorum].",
+      "note": null
+    },
+    {
+      "id": "öğrenmek_s2",
+      "text": "Bunu [öğrendim].",
+      "note": null
+    },
+    {
+      "id": "öğrenmek_s3",
+      "text": "[Öğrenecek] misin bunu?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "öğrenmek_r1",
+      "prompt": "Bilgi edinme ve öğretilenleri anlama. Ne yapmak?",
+      "accepted_forms": ["öğren", "öğrendi", "öğrenmek"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "sarhoş",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "drunk, intoxicated",
+  "sentences": [
+    { "id": "sarhoş_s1", "text": "Adam biraz [sarhoş] görülüyor.", "note": null },
+    { "id": "sarhoş_s2", "text": "[Sarhoş] birini evine gönderdim.", "note": null },
+    { "id": "sarhoş_s3", "text": "[Sarhoş] insanlar tehlike yaratabilir.", "note": null },
+    { "id": "sarhoş_s4", "text": "Ayakkabılarını [sarhoş] bir şekilde çıkardı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sarhoş_r1",
+      "prompt": "Alkolü çok tüketmiş biri ne durumda?",
+      "accepted_forms": ["sarhoş", "içmiş", "baş dönerişi"],
+      "note": null
+    },
+    {
+      "id": "sarhoş_r2",
+      "prompt": "Kişi bilmediğini konuşuyor, yürüyemeden yürüyor. ... durumda.",
+      "accepted_forms": ["sarhoş", "baş döner", "zehirli"],
+      "note": null
+    }
+  ]
+}

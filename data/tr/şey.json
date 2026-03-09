@@ -1,0 +1,21 @@
+{
+  "word": "şey",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "thing, something, object",
+  "sentences": [
+    { "id": "şey_s1", "text": "Bu [şey] ne oluyor?", "note": null },
+    { "id": "şey_s2", "text": "[Şey] meselesi biraz karmaşık.", "note": null },
+    { "id": "şey_s3", "text": "Masada birkaç [şey] var.", "note": null },
+    { "id": "şey_s4", "text": "O [şeyi] almayı unuttum.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şey_r1",
+      "prompt": "Belirli olmayan, adı söylenmemiş bir nesne veya konu. Ne denir?",
+      "accepted_forms": ["şey", "şeyi", "şeyleri"],
+      "note": null
+    }
+  ]
+}

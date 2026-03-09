@@ -1,0 +1,27 @@
+{
+  "word": "salata",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "salad",
+  "sentences": [
+    { "id": "salata_s1", "text": "[Salata] çok sağlıklı.", "note": null },
+    { "id": "salata_s2", "text": "Öğle yemeğinde [salata] yedik.", "note": null },
+    { "id": "salata_s3", "text": "[Salatayı] sos ile hazırladı.", "note": null },
+    { "id": "salata_s4", "text": "[Salata] maruladan ve domates yapılır.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "salata_r1",
+      "prompt": "Sebzelerden yapılan sağlıklı bir yemek ne denir?",
+      "accepted_forms": ["salata", "mühimme", "sebze yemeği"],
+      "note": null
+    },
+    {
+      "id": "salata_r2",
+      "prompt": "Öğlen yemekte serin bir yemek yiyor, ne?",
+      "accepted_forms": ["salata", "coban salatası", "mühimme"],
+      "note": null
+    }
+  ]
+}

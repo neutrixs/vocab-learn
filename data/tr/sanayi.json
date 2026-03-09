@@ -1,0 +1,27 @@
+{
+  "word": "sanayi",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "industry, manufacturing",
+  "sentences": [
+    { "id": "sanayi_s1", "text": "[Sanayi] ekonominin temelini oluşturur.", "note": null },
+    { "id": "sanayi_s2", "text": "[Sanayi] fabrikalarında çok işçi çalışıyor.", "note": null },
+    { "id": "sanayi_s3", "text": "[Sanayi] devrimi tarihı değiştirdi.", "note": null },
+    { "id": "sanayi_s4", "text": "[Sanayi] bölgesi şehrin dışında.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sanayi_r1",
+      "prompt": "Fabrika ve makineler kullanarak mamul mal yapma ne denir?",
+      "accepted_forms": ["sanayi", "üretim", "manufaktura"],
+      "note": null
+    },
+    {
+      "id": "sanayi_r2",
+      "prompt": "İmalat ve üretim alanı ne denir?",
+      "accepted_forms": ["sanayi", "endüstri", "imalat"],
+      "note": null
+    }
+  ]
+}

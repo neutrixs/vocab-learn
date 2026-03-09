@@ -1,0 +1,48 @@
+{
+  "word": "pahalı",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "expensive, costly",
+  "sentences": [
+    {
+      "id": "pahali_s1",
+      "text": "Bu elbise çok [pahalı].",
+      "note": null
+    },
+    {
+      "id": "pahali_s2",
+      "text": "[Pahalı] bir restorana gittik.",
+      "note": null
+    },
+    {
+      "id": "pahali_s3",
+      "text": "Araba [pahalı] bir alışveriş.",
+      "note": null
+    },
+    {
+      "id": "pahali_s4",
+      "text": "[Pahalı] bir kurs değil.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "pahali_r1",
+      "prompt": "Çok para gerektiren şeyleri nasıl tanımlarsın?",
+      "accepted_forms": [
+        "pahalı",
+        "değerli"
+      ],
+      "note": null
+    },
+    {
+      "id": "pahali_r2",
+      "prompt": "Bu üniversite ... hatta çok ...",
+      "accepted_forms": [
+        "pahalı"
+      ],
+      "note": null
+    }
+  ]
+}

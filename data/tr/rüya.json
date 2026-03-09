@@ -1,0 +1,27 @@
+{
+  "word": "rüya",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "dream",
+  "sentences": [
+    { "id": "rüya_s1", "text": "Geçen gece çok güzel bir [rüya] gördüm.", "note": null },
+    { "id": "rüya_s2", "text": "[Rüya] gerçek değil, sadece hayal.", "note": null },
+    { "id": "rüya_s3", "text": "[Rüya] tabirleri merak ediliyor.", "note": null },
+    { "id": "rüya_s4", "text": "Uyurken [rüya] görmek normal bir olay.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "rüya_r1",
+      "prompt": "Uyurken gördüğün hayal ne denir?",
+      "accepted_forms": ["rüya", "hayal", "hülya"],
+      "note": null
+    },
+    {
+      "id": "rüya_r2",
+      "prompt": "Geçen gece 'Güzel ... gördüm' dersin, boşluğu dolur.",
+      "accepted_forms": ["rüya", "rüya gördüm", "hayal"],
+      "note": null
+    }
+  ]
+}

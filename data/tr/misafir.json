@@ -1,0 +1,32 @@
+{
+  "word": "misafir",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "guest",
+  "sentences": [
+    {
+      "id": "misafir_s1",
+      "text": "[Misafir]ler geldi.",
+      "note": null
+    },
+    {
+      "id": "misafir_s2",
+      "text": "[Misafire] çay sundu.",
+      "note": null
+    },
+    {
+      "id": "misafir_s3",
+      "text": "[Misafirler]i karşıladık.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "misafir_r1",
+      "prompt": "Evine davet edilen ve ziyaret eden kişi. Ne denir?",
+      "accepted_forms": ["misafir", "misafire"],
+      "note": null
+    }
+  ]
+}

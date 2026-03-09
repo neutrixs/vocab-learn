@@ -1,0 +1,27 @@
+{
+  "word": "tarih",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "date, history",
+  "sentences": [
+    { "id": "tarih_s1", "text": "Bugünün [tarih]i nedir?", "note": null },
+    { "id": "tarih_s2", "text": "[Tarih] dersi severim.", "note": null },
+    { "id": "tarih_s3", "text": "Osmanlı [tarih]ini öğreniyorum.", "note": null },
+    { "id": "tarih_s4", "text": "Doğum [tarih]ini yazma.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tarih_r1",
+      "prompt": "Günü, ayı ve yılı belirten bilgi. Ne denir?",
+      "accepted_forms": ["tarih", "tarihi"],
+      "note": null
+    },
+    {
+      "id": "tarih_r2",
+      "prompt": "Geçmişte olan olayların bilgisi. Ne denir?",
+      "accepted_forms": ["tarih", "tarihi"],
+      "note": null
+    }
+  ]
+}

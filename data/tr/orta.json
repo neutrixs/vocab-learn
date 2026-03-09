@@ -1,0 +1,32 @@
+{
+  "word": "orta",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "middle, medium",
+  "sentences": [
+    {
+      "id": "orta_s1",
+      "text": "[Orta] yaşlı bir adam.",
+      "note": null
+    },
+    {
+      "id": "orta_s2",
+      "text": "[Orta] boy gömlek aldı.",
+      "note": null
+    },
+    {
+      "id": "orta_s3",
+      "text": "[Orta] seviyede ingilizcesi var.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "orta_r1",
+      "prompt": "İki şey arasında olan veya ortadaki. Ne sıfat?",
+      "accepted_forms": ["orta"],
+      "note": null
+    }
+  ]
+}

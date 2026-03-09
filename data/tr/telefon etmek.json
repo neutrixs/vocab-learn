@@ -1,0 +1,21 @@
+{
+  "word": "telefon etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to call, to telephone",
+  "sentences": [
+    { "id": "telefonetmek_s1", "text": "Doktor [telefon ettim] ve randevu aldım.", "note": null },
+    { "id": "telefonetmek_s2", "text": "Lütfen birisi ona [telefon etsin].", "note": null },
+    { "id": "telefonetmek_s3", "text": "Akşam sana [telefon edeceğim].", "note": null },
+    { "id": "telefonetmek_s4", "text": "[Telefon et] bana, uzun zamandır konuşmadık.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "telefonetmek_r1",
+      "prompt": "Arkadaşından bir şey istedin. 'Ona ... ve sordum.' dersin.",
+      "accepted_forms": ["telefon ettim", "telefon ediyorum", "telefon ettim"],
+      "note": null
+    }
+  ]
+}

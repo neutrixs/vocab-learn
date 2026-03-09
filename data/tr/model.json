@@ -1,0 +1,32 @@
+{
+  "word": "model",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "model, design",
+  "sentences": [
+    {
+      "id": "model_s1",
+      "text": "Yeni [model] araba çok güzel.",
+      "note": null
+    },
+    {
+      "id": "model_s2",
+      "text": "[Model]i takip ettiler.",
+      "note": null
+    },
+    {
+      "id": "model_s3",
+      "text": "[Modeller] sergisinde sergileniyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "model_r1",
+      "prompt": "Örnek olarak alınan veya tasarlanmış yapı. Ne denir?",
+      "accepted_forms": ["model", "modeli"],
+      "note": null
+    }
+  ]
+}

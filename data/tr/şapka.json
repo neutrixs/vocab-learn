@@ -1,0 +1,47 @@
+{
+  "word": "şapka",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "hat, cap",
+  "sentences": [
+    {
+      "id": "sapka_s1",
+      "text": "[Şapkayı]] çıkar.",
+      "note": null
+    },
+    {
+      "id": "sapka_s2",
+      "text": "[Şapkası]] çok güzel.",
+      "note": null
+    },
+    {
+      "id": "sapka_s3",
+      "text": "[Şapka]] giymiyorum.",
+      "note": null
+    },
+    {
+      "id": "sapka_s4",
+      "text": "[Şapkaları]] seviyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sapka_r1",
+      "prompt": "'şapka' kelimesi ne demek?",
+      "accepted_forms": [
+        "şapka"
+      ],
+      "note": null
+    },
+    {
+      "id": "sapka_r2",
+      "prompt": "Türkçede 'şapka' ne anlama gelir?",
+      "accepted_forms": [
+        "şapka"
+      ],
+      "note": null
+    }
+  ]
+}

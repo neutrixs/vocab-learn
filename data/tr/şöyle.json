@@ -1,0 +1,21 @@
+{
+  "word": "şöyle",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adverb",
+  "english_gloss": "like this, in this way, such, like",
+  "sentences": [
+    { "id": "şöyle_s1", "text": "[Şöyle] söyledi bana.", "note": null },
+    { "id": "şöyle_s2", "text": "[Şöyle] bir olay meydana geldi.", "note": null },
+    { "id": "şöyle_s3", "text": "Eğer [şöyle] başarısız olursak ne yapalım?", "note": null },
+    { "id": "şöyle_s4", "text": "[Şöyle] bir durum vardı o zaman.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şöyle_r1",
+      "prompt": "Bir şeyin böyle olması, bu şekilde yapılması veya böyle bir biçim. Ne denir?",
+      "accepted_forms": ["şöyle", "şöylesine"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "tanımak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to know, to recognize, to be acquainted with",
+  "sentences": [
+    { "id": "tanımak_s1", "text": "Onu iyi [tanırım].", "note": null },
+    { "id": "tanımak_s2", "text": "[Tanıyor] mu seni?", "note": null },
+    { "id": "tanımak_s3", "text": "Kız arkadaşı [tanıdığından] beri.", "note": null },
+    { "id": "tanımak_s4", "text": "Bu yerini [tanımıyorum].", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tanımak_r1",
+      "prompt": "Bir kişi veya yeri daha önce görmüş olmak, hatırlamak. Ne denir?",
+      "accepted_forms": ["tanımak", "tanırım", "tanıyor"],
+      "note": null
+    }
+  ]
+}

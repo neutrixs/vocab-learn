@@ -1,0 +1,47 @@
+{
+  "word": "süt",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "milk",
+  "sentences": [
+    {
+      "id": "sut_s1",
+      "text": "[Süt] içiyorum.",
+      "note": null
+    },
+    {
+      "id": "sut_s2",
+      "text": "[Sütü] kaynamalı.",
+      "note": null
+    },
+    {
+      "id": "sut_s3",
+      "text": "Taze [sütü] alıyorum.",
+      "note": null
+    },
+    {
+      "id": "sut_s4",
+      "text": "[Sütün] temiz olmalı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sut_r1",
+      "prompt": "'süt' kelimesi ne demek?",
+      "accepted_forms": [
+        "süt"
+      ],
+      "note": null
+    },
+    {
+      "id": "sut_r2",
+      "prompt": "Türkçede 'süt' ne anlama gelir?",
+      "accepted_forms": [
+        "süt"
+      ],
+      "note": null
+    }
+  ]
+}

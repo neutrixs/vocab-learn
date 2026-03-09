@@ -1,0 +1,21 @@
+{
+  "word": "taramak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to comb, to search, to scan, to rake",
+  "sentences": [
+    { "id": "taramak_s1", "text": "Saçını [taradı].", "note": null },
+    { "id": "taramak_s2", "text": "Alanı [tarayarak] arama yaptı.", "note": null },
+    { "id": "taramak_s3", "text": "Doktor vücudu [tarıyor].", "note": null },
+    { "id": "taramak_s4", "text": "[Tara] saçını gid.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "taramak_r1",
+      "prompt": "Tarak ile saçı düzenlemek veya bir alanı sistemli şekilde araştırmak. Ne denir?",
+      "accepted_forms": ["taramak", "taradı", "tarayarak"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "tanışmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to meet, to get acquainted, to introduce oneself",
+  "sentences": [
+    { "id": "tanışmak_s1", "text": "Dün arkadaş ile [tanıştım].", "note": null },
+    { "id": "tanışmak_s2", "text": "[Tanışmalı] mıyız?", "note": null },
+    { "id": "tanışmak_s3", "text": "Konferansta yeni insanlar [tanıştık].", "note": null },
+    { "id": "tanışmak_s4", "text": "[Tanışmamız] bir yıl önce ydi.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tanışmak_r1",
+      "prompt": "İlk defa birisini görmek, onu tanıdığın için merhaba demek. Ne denir?",
+      "accepted_forms": ["tanışmak", "tanıştım", "tanışıyor"],
+      "note": null
+    }
+  ]
+}

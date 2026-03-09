@@ -1,0 +1,21 @@
+{
+  "word": "şato",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "castle, manor house",
+  "sentences": [
+    { "id": "şato_s1", "text": "Loire Vadisi'ndeki [şatolar] görkemli.", "note": null },
+    { "id": "şato_s2", "text": "Eski [şato] müze olarak kullanılıyor.", "note": null },
+    { "id": "şato_s3", "text": "[Şatoda] prensesler yaşıyordu.", "note": null },
+    { "id": "şato_s4", "text": "Fransa'nın ünlü [şatolarını] ziyaret ettik.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şato_r1",
+      "prompt": "Orta çağda kraliçe ve prensesler tarafından yaşanılan büyük taş yapı. Ne denir?",
+      "accepted_forms": ["şato", "şatolar", "şatoda"],
+      "note": null
+    }
+  ]
+}

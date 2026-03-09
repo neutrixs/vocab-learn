@@ -1,0 +1,21 @@
+{
+  "word": "tahmin etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to guess, to estimate, to predict",
+  "sentences": [
+    { "id": "tahmin etmek_s1", "text": "Doğru [tahmin ettim].", "note": null },
+    { "id": "tahmin etmek_s2", "text": "Havanın ne olacağını [tahmin etmek] zor.", "note": null },
+    { "id": "tahmin etmek_s3", "text": "[Tahmin ediyorum] ki gelecek.", "note": null },
+    { "id": "tahmin etmek_s4", "text": "Fiyatı [tahmin et] bakalım ne kadar?", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tahmin etmek_r1",
+      "prompt": "Kesin bilmeden akıl yürüterek, olasılık temelinde bir sonuca ulaşmak. Ne denir?",
+      "accepted_forms": ["tahmin etmek", "tahmin ettim", "tahmin ediyor"],
+      "note": null
+    }
+  ]
+}

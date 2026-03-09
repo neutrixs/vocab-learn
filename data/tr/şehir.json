@@ -1,0 +1,21 @@
+{
+  "word": "şehir",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "city, town, urban area",
+  "sentences": [
+    { "id": "şehir_s1", "text": "[Şehir] merkezi çok kalabalıktı.", "note": null },
+    { "id": "şehir_s2", "text": "Bu [şehir]de güzel mimari yapılar var.", "note": null },
+    { "id": "şehir_s3", "text": "[Şehirde] yaşamak pahalı.", "note": null },
+    { "id": "şehir_s4", "text": "Köyden [şehire] taşındı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şehir_r1",
+      "prompt": "Çok sayıda insanın yaşadığı, geniş alan, kültür ve ticarete merkez olan yerleşim yeri. Ne denir?",
+      "accepted_forms": ["şehir", "şehirde", "şehiri", "şehire"],
+      "note": null
+    }
+  ]
+}

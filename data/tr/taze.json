@@ -1,0 +1,21 @@
+{
+  "word": "taze",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "fresh, new, recent",
+  "sentences": [
+    { "id": "taze_s1", "text": "[Taze] meyve market'te satılıyor.", "note": null },
+    { "id": "taze_s2", "text": "Bu ekmek [taze] ve sıcak.", "note": null },
+    { "id": "taze_s3", "text": "[Taze] su içmek sağlıklı.", "note": null },
+    { "id": "taze_s4", "text": "[Taze] haberler herkesi şaşırttı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "taze_r1",
+      "prompt": "Yeni hasat edilen, kısa süre önce yapılan, bayatlaşmamış. Ne denir?",
+      "accepted_forms": ["taze", "tazelik"],
+      "note": null
+    }
+  ]
+}

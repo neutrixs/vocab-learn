@@ -1,0 +1,47 @@
+{
+  "word": "soğuk",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "cold, cool",
+  "sentences": [
+    {
+      "id": "soguk_s1",
+      "text": "[Soğuk] su içiyorum.",
+      "note": null
+    },
+    {
+      "id": "soguk_s2",
+      "text": "Bugün [soğuk] bir gün.",
+      "note": null
+    },
+    {
+      "id": "soguk_s3",
+      "text": "[Soğuk] havaya çıktık.",
+      "note": null
+    },
+    {
+      "id": "soguk_s4",
+      "text": "[Soğuk] tutumunu hoşlanmıyorum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "soguk_r1",
+      "prompt": "'soğuk' sıfatı ne demek?",
+      "accepted_forms": [
+        "soğuk"
+      ],
+      "note": null
+    },
+    {
+      "id": "soguk_r2",
+      "prompt": "Türkçede 'soğuk' ne anlama gelir?",
+      "accepted_forms": [
+        "soğuk"
+      ],
+      "note": null
+    }
+  ]
+}

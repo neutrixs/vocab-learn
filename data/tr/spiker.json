@@ -1,0 +1,47 @@
+{
+  "word": "spiker",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "announcer, presenter, speaker",
+  "sentences": [
+    {
+      "id": "spiker_s1",
+      "text": "[Spiker] haber okudu.",
+      "note": null
+    },
+    {
+      "id": "spiker_s2",
+      "text": "[Spiker] canlı yayında.",
+      "note": null
+    },
+    {
+      "id": "spiker_s3",
+      "text": "[Spikerin] sesi güzel.",
+      "note": null
+    },
+    {
+      "id": "spiker_s4",
+      "text": "Radyo [spikeri] konuşuyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "spiker_r1",
+      "prompt": "'spiker' kelimesi ne demek?",
+      "accepted_forms": [
+        "spiker"
+      ],
+      "note": null
+    },
+    {
+      "id": "spiker_r2",
+      "prompt": "Türkçede 'spiker' ne anlama gelir?",
+      "accepted_forms": [
+        "spiker"
+      ],
+      "note": null
+    }
+  ]
+}

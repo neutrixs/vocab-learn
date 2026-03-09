@@ -1,0 +1,21 @@
+{
+  "word": "uçuş",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "flight",
+  "sentences": [
+    { "id": "ucus_s1", "text": "[Uçuş] saati 18:00'de.", "note": null },
+    { "id": "ucus_s2", "text": "[Uçuşu] değiştirmek istiyorum.", "note": null },
+    { "id": "ucus_s3", "text": "[Uçuşunuz] başarılı olacak.", "note": null },
+    { "id": "ucus_s4", "text": "Açık hava [uçuşu] sadece kuşlar yapabilir.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ucus_r1",
+      "prompt": "Uçakla seyahat etme işlemi yada süresi ne adla anılır?",
+      "accepted_forms": ["uçuş", "uçuşu"],
+      "note": null
+    }
+  ]
+}

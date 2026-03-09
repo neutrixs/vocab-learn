@@ -1,0 +1,27 @@
+{
+  "word": "ressam",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "painter, artist",
+  "sentences": [
+    { "id": "ressam_s1", "text": "[Ressam] duvar renkle boyuyor.", "note": null },
+    { "id": "ressam_s2", "text": "Ünlü [ressam] sergisini açtı.", "note": null },
+    { "id": "ressam_s3", "text": "Genç [ressam] tablolarıyla döl kazanıyor.", "note": null },
+    { "id": "ressam_s4", "text": "[Ressam] sanat okuluna gidiyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ressam_r1",
+      "prompt": "Tuval üzerine yağlı boya ile resim yapan kimse ne denir?",
+      "accepted_forms": ["ressam", "sanatçı", "resim sanatçısı"],
+      "note": null
+    },
+    {
+      "id": "ressam_r2",
+      "prompt": "Picasso ve Van Gogh ne mesleğe sahip insanlar?",
+      "accepted_forms": ["ressam", "sanatçı", "resim sanatçısı"],
+      "note": null
+    }
+  ]
+}

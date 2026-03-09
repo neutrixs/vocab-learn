@@ -1,0 +1,27 @@
+{
+  "word": "sakal",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "beard",
+  "sentences": [
+    { "id": "sakal_s1", "text": "Adam uzun bir [sakal] bırakmış.", "note": null },
+    { "id": "sakal_s2", "text": "[Sakalını] tıraş ettirdi.", "note": null },
+    { "id": "sakal_s3", "text": "[Sakalı] çok koyundu görünüyor.", "note": null },
+    { "id": "sakal_s4", "text": "Yaşlı adam [sakalından] biliniyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sakal_r1",
+      "prompt": "Erkek yüzünün alt tarafında çıkan kıl ne denir?",
+      "accepted_forms": ["sakal", "bıyık", "bıyığı"],
+      "note": null
+    },
+    {
+      "id": "sakal_r2",
+      "prompt": "Tıraş olmayan birinin bu şeyi büyüyor?",
+      "accepted_forms": ["sakal", "bıyık", "çene kılı"],
+      "note": null
+    }
+  ]
+}

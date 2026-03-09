@@ -1,0 +1,27 @@
+{
+  "word": "sanmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to think, to suppose, to assume, to consider",
+  "sentences": [
+    { "id": "sanmak_s1", "text": "Ne [sanıyorsun]? Yapabilir miyim?", "note": null },
+    { "id": "sanmak_s2", "text": "Herkes onu başarılı [sanıyor].", "note": null },
+    { "id": "sanmak_s3", "text": "İmkansız olduğunu [sanıyordum].", "note": null },
+    { "id": "sanmak_s4", "text": "Ne [sanırsan] sen, o değil.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sanmak_r1",
+      "prompt": "Bir şeyi düşün ve tahminde bulun ne demek?",
+      "accepted_forms": ["sanmak", "düşünmek", "tahminde bulunmak"],
+      "note": null
+    },
+    {
+      "id": "sanmak_r2",
+      "prompt": "Adam ona zeka sahibi olduğunu ... ettiler.",
+      "accepted_forms": ["sanıyor", "düşünüyor", "sayıyor"],
+      "note": null
+    }
+  ]
+}

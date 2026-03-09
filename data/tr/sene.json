@@ -1,0 +1,27 @@
+{
+  "word": "sene",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "year",
+  "sentences": [
+    { "id": "sene_s1", "text": "Bu [sene] çok iyi geçti.", "note": null },
+    { "id": "sene_s2", "text": "[Sene] başında hediye aldı.", "note": null },
+    { "id": "sene_s3", "text": "Her [sene] doktor kontrol oluyor.", "note": null },
+    { "id": "sene_s4", "text": "Kaç [seneyi] yaşıyorsunuz? İyiyim.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sene_r1",
+      "prompt": "On iki ayı kapsayan zaman dilimi ne denir?",
+      "accepted_forms": ["sene", "yıl", "senesinde"],
+      "note": null
+    },
+    {
+      "id": "sene_r2",
+      "prompt": "Artık bir ... oldu ve artık eski takvimde değiliz.",
+      "accepted_forms": ["sene", "yıl", "senesinde"],
+      "note": null
+    }
+  ]
+}

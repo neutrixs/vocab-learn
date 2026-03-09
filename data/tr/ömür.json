@@ -3,24 +3,46 @@
   "lang": "tr",
   "difficulty": 2,
   "part_of_speech": "noun",
-  "english_gloss": "lifetime, lifespan, life",
+  "english_gloss": "life, lifetime, lifespan",
   "sentences": [
-    { "id": "ömür_s1", "text": "Uzun bir [ömür] geçirmiş, çok şey görmüş.", "note": null },
-    { "id": "ömür_s2", "text": "Bu evin [ömrü] en az elli yıl.", "note": null },
-    { "id": "ömür_s3", "text": "[Ömrümün] sonuna kadar burada yaşamak istiyorum.", "note": null },
-    { "id": "ömür_s4", "text": "Pil [ömrü] bu modelde çok uzun.", "note": null }
+    {
+      "id": "omur_s1",
+      "text": "Yaşadığım [ömür] ne kadar güzel.",
+      "note": "'ömür' = lifetime"
+    },
+    {
+      "id": "omur_s2",
+      "text": "[Ömür]ün kısa, yaşanması gerek.",
+      "note": "'ömrün' = life (possessive)"
+    },
+    {
+      "id": "omur_s3",
+      "text": "Onun [ömür]ü 80 yıl oldu.",
+      "note": "'ömrü' = lifespan"
+    },
+    {
+      "id": "omur_s4",
+      "text": "[Ömür]ü boyunca çalıştı.",
+      "note": "'ömrü boyunca' = throughout his life"
+    }
   ],
   "recall_prompts": [
     {
-      "id": "ömür_r1",
-      "prompt": "Bir insan veya nesnenin var olduğu toplam süreye ne denir?",
-      "accepted_forms": ["ömür", "ömrü", "ömür süresi"],
+      "id": "omur_r1",
+      "prompt": "Bir kişinin doğumundan ölümüne kadar geçen zaman nedir?",
+      "accepted_forms": [
+        "ömür",
+        "hayat",
+        "yaşam"
+      ],
       "note": null
     },
     {
-      "id": "ömür_r2",
-      "prompt": "Yaşlı bir büyükanne hayatı boyunca çok şey yaşamış. Bu hayat süresini tek kelimeyle nasıl ifade edersin?",
-      "accepted_forms": ["ömür", "ömrü", "uzun bir ömür"],
+      "id": "omur_r2",
+      "prompt": "Onun ... 90 yıl sürdü.",
+      "accepted_forms": [
+        "ömrü"
+      ],
       "note": null
     }
   ]

@@ -1,0 +1,47 @@
+{
+  "word": "soyad",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "surname, last name, family name",
+  "sentences": [
+    {
+      "id": "soyad_s1",
+      "text": "[Soyadı] ne?",
+      "note": null
+    },
+    {
+      "id": "soyad_s2",
+      "text": "[Soyad] değişebilir mi?",
+      "note": null
+    },
+    {
+      "id": "soyad_s3",
+      "text": "[Soynadını] unuttum.",
+      "note": null
+    },
+    {
+      "id": "soyad_s4",
+      "text": "[Soyad] yazılı mı?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "soyad_r1",
+      "prompt": "'soyad' kelimesi ne demek?",
+      "accepted_forms": [
+        "soyad"
+      ],
+      "note": null
+    },
+    {
+      "id": "soyad_r2",
+      "prompt": "Türkçede 'soyad' ne anlama gelir?",
+      "accepted_forms": [
+        "soyad"
+      ],
+      "note": null
+    }
+  ]
+}

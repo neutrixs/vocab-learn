@@ -1,0 +1,21 @@
+{
+  "word": "üzeri",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "on, upon, over",
+  "sentences": [
+    { "id": "uzeri_s1", "text": "Masanın [üzeri] dağınık.", "note": null },
+    { "id": "uzeri_s2", "text": "[Üzerine] bir şey koymayın.", "note": null },
+    { "id": "uzeri_s3", "text": "Kapının [üzeri] boyama gerekiyor.", "note": null },
+    { "id": "uzeri_s4", "text": "Sana şey lazım diye [üzerine] gitmek istemem.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "uzeri_r1",
+      "prompt": "Bir nesnenin yüzeyini anlatıyorsun. 'Masanın ... temizle.' dersin.",
+      "accepted_forms": ["üzeri", "üzerine"],
+      "note": null
+    }
+  ]
+}

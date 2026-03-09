@@ -1,0 +1,32 @@
+{
+  "word": "neresi",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "pronoun",
+  "english_gloss": "which part of it",
+  "sentences": [
+    {
+      "id": "neresi_s1",
+      "text": "[Neresi] ağrıyor?",
+      "note": null
+    },
+    {
+      "id": "neresi_s2",
+      "text": "[Neresi] merak ediyorsun?",
+      "note": null
+    },
+    {
+      "id": "neresi_s3",
+      "text": "[Neresi] sorununun?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "neresi_r1",
+      "prompt": "Bir şeyin hangi kısmı? Ne denir?",
+      "accepted_forms": ["neresi"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "satılık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "for sale, on sale",
+  "sentences": [
+    { "id": "satılık_s1", "text": "Ev [satılık] olarak imlanıyor.", "note": null },
+    { "id": "satılık_s2", "text": "[Satılık] araba vitrine konuldu.", "note": null },
+    { "id": "satılık_s3", "text": "Dükkanın [satılık] olması biliniyor.", "note": null },
+    { "id": "satılık_s4", "text": "[Satılık] maymun yoktur burada.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "satılık_r1",
+      "prompt": "Bir ev piyasaya konulmuştur. Ev ne konumdadır?",
+      "accepted_forms": ["satılık", "satılığa konmuş", "satış"],
+      "note": null
+    },
+    {
+      "id": "satılık_r2",
+      "prompt": "Eşya alıcı bulması için bekleniyor. Eşya ne konumdadır?",
+      "accepted_forms": ["satılık", "satış halinde", "alıcı bulunuyor"],
+      "note": null
+    }
+  ]
+}

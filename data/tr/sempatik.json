@@ -1,0 +1,27 @@
+{
+  "word": "sempatik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "likeable, sympathetic, charming, pleasant",
+  "sentences": [
+    { "id": "sempatik_s1", "text": "O kişi çok [sempatik].", "note": null },
+    { "id": "sempatik_s2", "text": "[Sempatik] bir kadın geldi.", "note": null },
+    { "id": "sempatik_s3", "text": "Seni buldum [sempatik].", "note": null },
+    { "id": "sempatik_s4", "text": "[Sempatik] olmak insanları çeker.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sempatik_r1",
+      "prompt": "Herkesi sevip güvenilir bir kişi nasıl anlatırsın?",
+      "accepted_forms": ["sempatik", "sevimli", "cazip"],
+      "note": null
+    },
+    {
+      "id": "sempatik_r2",
+      "prompt": "Biri seni çok beğendi ve yakında çalışmanız. O çalışan ... bir kişi.",
+      "accepted_forms": ["sempatik", "sevimli", "tatlı"],
+      "note": null
+    }
+  ]
+}

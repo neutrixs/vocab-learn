@@ -1,0 +1,21 @@
+{
+  "word": "tarihi",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "historical",
+  "sentences": [
+    { "id": "tarihi_s1", "text": "[Tarihi] yerini ziyaret ettik.", "note": null },
+    { "id": "tarihi_s2", "text": "Bu yapı çok [tarihi].", "note": null },
+    { "id": "tarihi_s3", "text": "[Tarihi] anıtlar koruma altında.", "note": null },
+    { "id": "tarihi_s4", "text": "[Tarihi] belgeleri kütüphanede.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tarihi_r1",
+      "prompt": "Geçmiş zamana ait, tarihle ilgili, eski zamanları ilgilendiren. Ne denir?",
+      "accepted_forms": ["tarihi", "tarihsel"],
+      "note": null
+    }
+  ]
+}

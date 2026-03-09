@@ -1,0 +1,27 @@
+{
+  "word": "salon",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "hall, lounge, living room, salon",
+  "sentences": [
+    { "id": "salon_s1", "text": "Misafirlerimizi [salonda] ağırlıyoruz.", "note": null },
+    { "id": "salon_s2", "text": "[Salon] çok geniş ve parlak.", "note": null },
+    { "id": "salon_s3", "text": "Evim [salon], mutfak ve yatak odası var.", "note": null },
+    { "id": "salon_s4", "text": "[Salonda] güzel mobilyalar.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "salon_r1",
+      "prompt": "Misafirler oturup sohbet ettikleri oda hangisi?",
+      "accepted_forms": ["salon", "oturma odası", "misafir odası"],
+      "note": null
+    },
+    {
+      "id": "salon_r2",
+      "prompt": "Ev bir ... ve mutfaktan oluşuyor.",
+      "accepted_forms": ["salon", "oturma odası", "oda"],
+      "note": null
+    }
+  ]
+}

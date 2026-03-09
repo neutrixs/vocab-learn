@@ -1,0 +1,27 @@
+{
+  "word": "pul",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "stamp, coin",
+  "sentences": [
+    { "id": "pul_s1", "text": "Mektuba [pul] yapıştırdım.", "note": "'pul' = stamp" },
+    { "id": "pul_s2", "text": "[Pul]u satın aldı.", "note": "'pulu' = the stamp (accusative)" },
+    { "id": "pul_s3", "text": "[Pul]un fiyatı ne?", "note": "'pulun' = stamp's" },
+    { "id": "pul_s4", "text": "Antika [pul]ları topladı.", "note": "'pulları' = stamps" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "pul_r1",
+      "prompt": "Mektuba yapıştırılan ufak kâğıt nedir?",
+      "accepted_forms": ["pul", "posta pulu"],
+      "note": null
+    },
+    {
+      "id": "pul_r2",
+      "prompt": "Mektuba ... yapıştır.",
+      "accepted_forms": ["pul"],
+      "note": null
+    }
+  ]
+}

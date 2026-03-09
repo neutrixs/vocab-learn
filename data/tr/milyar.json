@@ -1,0 +1,32 @@
+{
+  "word": "milyar",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "billion",
+  "sentences": [
+    {
+      "id": "milyar_s1",
+      "text": "Bütçe [milyar] liradır.",
+      "note": null
+    },
+    {
+      "id": "milyar_s2",
+      "text": "Bir [milyar] şeker parçası var mı?",
+      "note": null
+    },
+    {
+      "id": "milyar_s3",
+      "text": "[Milyar]lar sayılıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "milyar_r1",
+      "prompt": "Bin milyon. Ne denir?",
+      "accepted_forms": ["milyar", "milyarı"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "sarı",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "yellow",
+  "sentences": [
+    { "id": "sarı_s1", "text": "Limon [sarı] bir meyvedir.", "note": null },
+    { "id": "sarı_s2", "text": "[Sarı] renk güneş gibi.", "note": null },
+    { "id": "sarı_s3", "text": "[Sarı] bir elbise giyiyor.", "note": null },
+    { "id": "sarı_s4", "text": "Sonbahar yaprakları [sarı] oluyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sarı_r1",
+      "prompt": "Güneşin rengi hangi renkdir?",
+      "accepted_forms": ["sarı", "altın rengi"],
+      "note": null
+    },
+    {
+      "id": "sarı_r2",
+      "prompt": "Arı ne renk bir böcek?",
+      "accepted_forms": ["sarı", "sarı siyah", "sarı renkli"],
+      "note": null
+    }
+  ]
+}

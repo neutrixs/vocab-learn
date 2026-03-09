@@ -1,0 +1,27 @@
+{
+  "word": "park etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to park",
+  "sentences": [
+    { "id": "park_s1", "text": "Arabanı burada [park ettim].", "note": "'park ettim' = I parked" },
+    { "id": "park_s2", "text": "[Park etme] yasak bölgede.", "note": "'park etme yasak' = parking forbidden" },
+    { "id": "park_s3", "text": "Arabayı [park etmeye] çalışıyorum.", "note": "'park etmeye' = trying to park" },
+    { "id": "park_s4", "text": "[Park edebilirim] caddenin ötesinde.", "note": "'park edebilirim' = I can park" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "park_r1",
+      "prompt": "Arabanızı belirli bir yerde sabitlemek ne demektir?",
+      "accepted_forms": ["park etmek", "park"],
+      "note": null
+    },
+    {
+      "id": "park_r2",
+      "prompt": "'Arabayı burada mı ...' işte bunu sordum.",
+      "accepted_forms": ["park etmek"],
+      "note": null
+    }
+  ]
+}

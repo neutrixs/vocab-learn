@@ -1,0 +1,49 @@
+{
+  "word": "öksürmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to cough",
+  "sentences": [
+    {
+      "id": "oksur_s1",
+      "text": "Hasta çok [öksürüyor].",
+      "note": "'öksürüyor' = is coughing"
+    },
+    {
+      "id": "oksur_s2",
+      "text": "Sigara içince insanlar [öksürür].",
+      "note": null
+    },
+    {
+      "id": "oksur_s3",
+      "text": "Soğuktan [öksürdüm].",
+      "note": "'öksürdüm' = I coughed"
+    },
+    {
+      "id": "oksur_s4",
+      "text": "Konser sırasında öksüren [adamlar] vardı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "oksur_r1",
+      "prompt": "Hastalandığında boğazından gelen ses nedir?",
+      "accepted_forms": [
+        "öksürmek",
+        "öksürük"
+      ],
+      "note": null
+    },
+    {
+      "id": "oksur_r2",
+      "prompt": "Grip olduğunda ne yaparsın?",
+      "accepted_forms": [
+        "öksürürüm",
+        "öksürmek"
+      ],
+      "note": null
+    }
+  ]
+}

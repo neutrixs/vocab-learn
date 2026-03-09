@@ -1,0 +1,32 @@
+{
+  "word": "müzisyen",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "musician",
+  "sentences": [
+    {
+      "id": "müzisyen_s1",
+      "text": "[Müzisyen] enstrümanını çalıyor.",
+      "note": null
+    },
+    {
+      "id": "müzisyen_s2",
+      "text": "Ünlü [müzisyen] konser verdi.",
+      "note": null
+    },
+    {
+      "id": "müzisyen_s3",
+      "text": "[Müzisyenler] sahneye çıktı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "müzisyen_r1",
+      "prompt": "Müzik yapan ve çalan sanatçı. Ne denir?",
+      "accepted_forms": ["müzisyen", "müzisyene"],
+      "note": null
+    }
+  ]
+}

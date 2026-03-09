@@ -1,0 +1,21 @@
+{
+  "word": "takım elbise",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "suit, business suit",
+  "sentences": [
+    { "id": "takım elbise_s1", "text": "İş görüşmesine [takım elbise] ile gitti.", "note": null },
+    { "id": "takım elbise_s2", "text": "[Takım elbisenin] rengi siyah.", "note": null },
+    { "id": "takım elbise_s3", "text": "Düğüne gelin resmi [takım elbise] giydim.", "note": null },
+    { "id": "takım elbise_s4", "text": "Çalışkan adam [takım elbise] seviyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "takım elbise_r1",
+      "prompt": "Ceket ve pantolon aynı renk ve kumaştan yapılı, işlemeli giysi. Ne denir?",
+      "accepted_forms": ["takım elbise", "takım", "suit"],
+      "note": null
+    }
+  ]
+}

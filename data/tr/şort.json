@@ -1,0 +1,21 @@
+{
+  "word": "şort",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "shorts, short pants",
+  "sentences": [
+    { "id": "şort_s1", "text": "Yazlık [şort] giyindi.", "note": null },
+    { "id": "şort_s2", "text": "[Şort]unu çabuk giy.", "note": null },
+    { "id": "şort_s3", "text": "Plajda kız [şort] ile giyimi var.", "note": null },
+    { "id": "şort_s4", "text": "Spor [şort]ları çok rahat.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şort_r1",
+      "prompt": "Bacağın diz altında bitmek kısa pantolon. Ne denir?",
+      "accepted_forms": ["şort", "şortu", "şortlar"],
+      "note": null
+    }
+  ]
+}

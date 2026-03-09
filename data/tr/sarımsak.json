@@ -1,0 +1,27 @@
+{
+  "word": "sarımsak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "garlic",
+  "sentences": [
+    { "id": "sarımsak_s1", "text": "[Sarımsak] yemeğe tat verir.", "note": null },
+    { "id": "sarımsak_s2", "text": "[Sarımsağı] ince doğra.", "note": null },
+    { "id": "sarımsak_s3", "text": "[Sarımsak] sağlıklı bir baharat.", "note": null },
+    { "id": "sarımsak_s4", "text": "Çorbaya [sarımsak] ekledik.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sarımsak_r1",
+      "prompt": "Keskin kokulu bir sebze olup yemeğe tat veren ne denir?",
+      "accepted_forms": ["sarımsak", "baharat", "koku bitki"],
+      "note": null
+    },
+    {
+      "id": "sarımsak_r2",
+      "prompt": "Türk mutfağında sık kullanılan, sağlığa iyi gelen bu sebze ne?",
+      "accepted_forms": ["sarımsak", "ot", "sebze"],
+      "note": null
+    }
+  ]
+}

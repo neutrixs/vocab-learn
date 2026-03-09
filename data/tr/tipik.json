@@ -1,0 +1,21 @@
+{
+  "word": "tipik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "typical, characteristic",
+  "sentences": [
+    { "id": "tipik_s1", "text": "Bu [tipik] bir Türk kahvaltısıdır.", "note": null },
+    { "id": "tipik_s2", "text": "Kış aylarında [tipik] hava durumu yağmurludur.", "note": null },
+    { "id": "tipik_s3", "text": "[Tipik] bir öğrenci hatası bu.", "note": null },
+    { "id": "tipik_s4", "text": "[Tipik] İstanbul trafiği yine başlamış.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tipik_r1",
+      "prompt": "Bir şey çok alışıldık ve normal. '... örnek bu.' dersin.",
+      "accepted_forms": ["tipik", "normal"],
+      "note": null
+    }
+  ]
+}

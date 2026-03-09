@@ -1,0 +1,21 @@
+{
+  "word": "taşınmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to move, to relocate, to shift",
+  "sentences": [
+    { "id": "taşınmak_s1", "text": "Yeni eve [taşındık] geçen hafta.", "note": null },
+    { "id": "taşınmak_s2", "text": "[Taşınmak] stresli bir iş.", "note": null },
+    { "id": "taşınmak_s3", "text": "Şehirden [taşınmayı] düşünüyorum.", "note": null },
+    { "id": "taşınmak_s4", "text": "Hazırlanmamız [taşınmaya] yapılıyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "taşınmak_r1",
+      "prompt": "Bir yerden başka bir yere gitmek, yeni bir eve geçmek. Ne denir?",
+      "accepted_forms": ["taşınmak", "taşındı", "taşındık"],
+      "note": null
+    }
+  ]
+}

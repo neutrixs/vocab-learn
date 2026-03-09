@@ -1,0 +1,27 @@
+{
+  "word": "polis",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "police, policeman",
+  "sentences": [
+    { "id": "polis_s1", "text": "[Polis] otoyolda denetim yapıyor.", "note": "'polis' = police" },
+    { "id": "polis_s2", "text": "[Polis]e görmek ihtiyacı var.", "note": "'polise' = to the police" },
+    { "id": "polis_s3", "text": "[Polis]in kültür ve turizm şubesi.", "note": "'polisinin' = police's" },
+    { "id": "polis_s4", "text": "Merdivende [polis]ler vardı.", "note": "'polisler' = policemen" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "polis_r1",
+      "prompt": "Emniyet müdürlüğüne ait kanun ve düzeni koruyan görevli nedir?",
+      "accepted_forms": ["polis", "asker"],
+      "note": null
+    },
+    {
+      "id": "polis_r2",
+      "prompt": "Suç gördüğünde ... arayacak.",
+      "accepted_forms": ["polis"],
+      "note": null
+    }
+  ]
+}

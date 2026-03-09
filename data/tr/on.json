@@ -1,0 +1,32 @@
+{
+  "word": "on",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "ten, front",
+  "sentences": [
+    {
+      "id": "on_s1",
+      "text": "[On] kişi vardı.",
+      "note": null
+    },
+    {
+      "id": "on_s2",
+      "text": "Masanın [on]u açık.",
+      "note": null
+    },
+    {
+      "id": "on_s3",
+      "text": "[Onar] parça aldık.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "on_r1",
+      "prompt": "Dokuzdan sonra gelen sayı. Ne denir?",
+      "accepted_forms": ["on"],
+      "note": null
+    }
+  ]
+}

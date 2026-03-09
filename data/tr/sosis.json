@@ -1,0 +1,47 @@
+{
+  "word": "sosis",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "sausage",
+  "sentences": [
+    {
+      "id": "sosis_s1",
+      "text": "[Sosis] tatlı.",
+      "note": null
+    },
+    {
+      "id": "sosis_s2",
+      "text": "Ekmek [sosis] isterim.",
+      "note": null
+    },
+    {
+      "id": "sosis_s3",
+      "text": "[Sosisi] kızartmak yapabiliriz.",
+      "note": null
+    },
+    {
+      "id": "sosis_s4",
+      "text": "[Sosis] fiyatı arttı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sosis_r1",
+      "prompt": "'sosis' kelimesi ne demek?",
+      "accepted_forms": [
+        "sosis"
+      ],
+      "note": null
+    },
+    {
+      "id": "sosis_r2",
+      "prompt": "Türkçede 'sosis' ne anlama gelir?",
+      "accepted_forms": [
+        "sosis"
+      ],
+      "note": null
+    }
+  ]
+}

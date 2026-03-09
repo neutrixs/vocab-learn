@@ -1,0 +1,32 @@
+{
+  "word": "mönü",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "menu",
+  "sentences": [
+    {
+      "id": "mönü_s1",
+      "text": "[Mönü]yü açtım.",
+      "note": null
+    },
+    {
+      "id": "mönü_s2",
+      "text": "Bugünün [mönü]sü nedir?",
+      "note": null
+    },
+    {
+      "id": "mönü_s3",
+      "text": "[Mönüler] İngilizce yazıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "mönü_r1",
+      "prompt": "Restorandaki yemek listesi. Ne denir?",
+      "accepted_forms": ["mönü", "mönüsü"],
+      "note": null
+    }
+  ]
+}

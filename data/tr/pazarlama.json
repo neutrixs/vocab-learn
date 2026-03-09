@@ -1,0 +1,27 @@
+{
+  "word": "pazarlama",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "marketing",
+  "sentences": [
+    { "id": "pazarlama_s1", "text": "[Pazarlama] bölümünde çalışıyorum.", "note": null },
+    { "id": "pazarlama_s2", "text": "[Pazarlama] stratejisi önemli.", "note": "'pazarlama stratejisi' = marketing strategy" },
+    { "id": "pazarlama_s3", "text": "[Pazarlama] kampanyası başladı.", "note": "'pazarlama kampanyası' = marketing campaign" },
+    { "id": "pazarlama_s4", "text": "İyi [pazarlama] satışları artırır.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "pazarlama_r1",
+      "prompt": "Ürünleri satmak için uygulanılan stratejiler ve yöntemler ne adlanır?",
+      "accepted_forms": ["pazarlama", "marketing"],
+      "note": null
+    },
+    {
+      "id": "pazarlama_r2",
+      "prompt": "... bölümünde yeni proje var.",
+      "accepted_forms": ["pazarlama"],
+      "note": null
+    }
+  ]
+}

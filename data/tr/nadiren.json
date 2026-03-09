@@ -1,0 +1,32 @@
+{
+  "word": "nadiren",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adverb",
+  "english_gloss": "rarely, seldom",
+  "sentences": [
+    {
+      "id": "nadiren_s1",
+      "text": "[Nadiren] sinema giderim.",
+      "note": null
+    },
+    {
+      "id": "nadiren_s2",
+      "text": "O [nadiren] böyle davranır.",
+      "note": null
+    },
+    {
+      "id": "nadiren_s3",
+      "text": "[Nadiren] görülüyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "nadiren_r1",
+      "prompt": "Seyrek olarak, pek az. Ne anlamında sözcük?",
+      "accepted_forms": ["nadiren"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "pamuk",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "cotton",
+  "sentences": [
+    { "id": "pamuk_s1", "text": "Bu gömlek [pamuk]tan yapılmış.", "note": null },
+    { "id": "pamuk_s2", "text": "[Pamuk] üretimi önemli bir sektör.", "note": null },
+    { "id": "pamuk_s3", "text": "[Pamuk] çiçek çok güzel.", "note": "Cotton flower is very beautiful" },
+    { "id": "pamuk_s4", "text": "Tıbbi [pamuk] hastanede kullanılır.", "note": "Medical cotton" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "pamuk_r1",
+      "prompt": "Yumuşak doğal bir elyaf ne denir?",
+      "accepted_forms": ["pamuk", "pamuğu"],
+      "note": null
+    },
+    {
+      "id": "pamuk_r2",
+      "prompt": "'Bu kumaş ... ile yapılmış.' Boşluğu doldur.",
+      "accepted_forms": ["pamuk", "pamuktan"],
+      "note": null
+    }
+  ]
+}

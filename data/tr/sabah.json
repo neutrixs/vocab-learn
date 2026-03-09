@@ -1,0 +1,27 @@
+{
+  "word": "sabah",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "morning",
+  "sentences": [
+    { "id": "sabah_s1", "text": "[Sabah] erken kalkıyorum.", "note": null },
+    { "id": "sabah_s2", "text": "[Sabahlar] hava çok güzel.", "note": null },
+    { "id": "sabah_s3", "text": "[Sabah] kahvesi çok iyi.", "note": null },
+    { "id": "sabah_s4", "text": "Yarın [sabah] erken gel.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sabah_r1",
+      "prompt": "Gün en erken saatleri ne denir?",
+      "accepted_forms": ["sabah", "sabah erken", "erken saatler"],
+      "note": null
+    },
+    {
+      "id": "sabah_r2",
+      "prompt": "Güneş doğduğu zaman hangisidir?",
+      "accepted_forms": ["sabah", "sabah olmakta", "gün doğu"],
+      "note": null
+    }
+  ]
+}

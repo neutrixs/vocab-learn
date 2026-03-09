@@ -1,0 +1,27 @@
+{
+  "word": "satıcı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "seller, vendor, sales person",
+  "sentences": [
+    { "id": "satıcı_s1", "text": "[Satıcı] dükkânında mallarını gösteriyor.", "note": null },
+    { "id": "satıcı_s2", "text": "Pazardan [satıcı] gelen sesbüyük.", "note": null },
+    { "id": "satıcı_s3", "text": "[Satıcı] fiyat biraz indirdi.", "note": null },
+    { "id": "satıcı_s4", "text": "Mağaza [satıcıları] eğitiliyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "satıcı_r1",
+      "prompt": "Mal satmayı meslek yapan kişi hangisidir?",
+      "accepted_forms": ["satıcı", "esnaf", "tüccar"],
+      "note": null
+    },
+    {
+      "id": "satıcı_r2",
+      "prompt": "Dükkanında müşterilere ürün satan kişi ne?",
+      "accepted_forms": ["satıcı", "dükkan sahibi", "seyyar"],
+      "note": null
+    }
+  ]
+}

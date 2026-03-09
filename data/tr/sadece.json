@@ -1,0 +1,27 @@
+{
+  "word": "sadece",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adverb",
+  "english_gloss": "only, just, merely",
+  "sentences": [
+    { "id": "sadece_s1", "text": "[Sadece] bir fincan kahve istiyorum.", "note": null },
+    { "id": "sadece_s2", "text": "[Sadece] sen geldin.", "note": null },
+    { "id": "sadece_s3", "text": "[Sadece] para için çalışmıyorum.", "note": null },
+    { "id": "sadece_s4", "text": "Bugün [sadece] bir saat dersim var.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sadece_r1",
+      "prompt": "Başka bir şey değil, tek şey ne denir?",
+      "accepted_forms": ["sadece", "yalnız", "tek"],
+      "note": null
+    },
+    {
+      "id": "sadece_r2",
+      "prompt": "Bir saati var, başka saat yok. '[Sadece] ... saat var'",
+      "accepted_forms": ["sadece", "yalnız", "tek"],
+      "note": null
+    }
+  ]
+}

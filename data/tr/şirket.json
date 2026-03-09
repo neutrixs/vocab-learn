@@ -1,0 +1,21 @@
+{
+  "word": "şirket",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "company, business, corporation",
+  "sentences": [
+    { "id": "şirket_s1", "text": "[Şirket] başkanı toplantı yaptı.", "note": null },
+    { "id": "şirket_s2", "text": "Bu [şirket]te 500 kişi çalışıyor.", "note": null },
+    { "id": "şirket_s3", "text": "[Şirketi]n yeni ürünü harika.", "note": null },
+    { "id": "şirket_s4", "text": "Yazın [şirket]e katıldı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şirket_r1",
+      "prompt": "Bir ürün veya hizmet üretmek veya satmak amacıyla kurulmuş kuruluş. Ne denir?",
+      "accepted_forms": ["şirket", "şirketi", "şirkette"],
+      "note": null
+    }
+  ]
+}

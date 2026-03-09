@@ -1,0 +1,21 @@
+{
+  "word": "uzun",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "long",
+  "sentences": [
+    { "id": "uzun_s1", "text": "[Uzun] bir yol gittik.", "note": null },
+    { "id": "uzun_s2", "text": "Saçları [uzun], çok güzel.", "note": null },
+    { "id": "uzun_s3", "text": "[Uzun] bir vadide başlıklandığı konuş.", "note": null },
+    { "id": "uzun_s4", "text": "Bu film çok [uzun], bitmiyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "uzun_r1",
+      "prompt": "Bir mesafeyi veya vakit dilimi tanımlıyorsun. 'Çok ... bir yol.' dersin.",
+      "accepted_forms": ["uzun", "uzun mesafe"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "ufak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "small, tiny",
+  "sentences": [
+    { "id": "ufak_s1", "text": "[Ufak] bir hatadan büyük sorun çıktı.", "note": null },
+    { "id": "ufak_s2", "text": "[Ufak] kızı çok tatlı.", "note": null },
+    { "id": "ufak_s3", "text": "[Ufak] çantaya hepsi sığmıyor.", "note": null },
+    { "id": "ufak_s4", "text": "[Ufak] tefek şeyler hep unuturum.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ufak_r1",
+      "prompt": "Boyutu çok küçük bir şey anlatıyorsun. '... bir ev.' dersin.",
+      "accepted_forms": ["ufak", "küçük"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "patlıcan",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "eggplant, aubergine",
+  "sentences": [
+    { "id": "patlican_s1", "text": "[Patlıcan] kızartması lezzetli.", "note": "'patlıcan kızartması' = fried eggplant" },
+    { "id": "patlican_s2", "text": "[Patlıcan] tarlasında mahsul iyi.", "note": "'patlıcan tarlası' = eggplant field" },
+    { "id": "patlican_s3", "text": "Pazardan [patlıcan] aldım.", "note": "'patlıcan' = eggplant" },
+    { "id": "patlican_s4", "text": "[Patlıcan] mor rengi güzel.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "patlican_r1",
+      "prompt": "Mor renkte, uzun şekilli sebze nedir?",
+      "accepted_forms": ["patlıcan", "aubergine"],
+      "note": null
+    },
+    {
+      "id": "patlican_r2",
+      "prompt": "... kızartması yapmalı, çok lezzetli oluyor.",
+      "accepted_forms": ["patlıcan"],
+      "note": null
+    }
+  ]
+}

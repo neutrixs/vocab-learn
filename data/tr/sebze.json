@@ -1,0 +1,27 @@
+{
+  "word": "sebze",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "vegetable",
+  "sentences": [
+    { "id": "sebze_s1", "text": "[Sebze] sağlıklı yemeklerin parçasıdır.", "note": null },
+    { "id": "sebze_s2", "text": "[Sebzeler] pazardan aldım.", "note": null },
+    { "id": "sebze_s3", "text": "Çorbaya [sebze] ekledik.", "note": null },
+    { "id": "sebze_s4", "text": "[Sebze] kültürü Türk tarımının önemli.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sebze_r1",
+      "prompt": "Domates, marul, patlıcan vs. ne denir?",
+      "accepted_forms": ["sebze", "yeşillik", "bahçe ürünü"],
+      "note": null
+    },
+    {
+      "id": "sebze_r2",
+      "prompt": "Sağlıklı beslenme için yenilmesi tavsiye edilen ne?",
+      "accepted_forms": ["sebze", "meyve", "gıda"],
+      "note": null
+    }
+  ]
+}

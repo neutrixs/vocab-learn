@@ -1,0 +1,21 @@
+{
+  "word": "var olmak",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "verb",
+  "english_gloss": "to exist, to be present",
+  "sentences": [
+    { "id": "varolmak_s1", "text": "[Var olmayan] şeyler hayal mi?", "note": null },
+    { "id": "varolmak_s2", "text": "Her canlı [var olmak] hakkına sahip.", "note": null },
+    { "id": "varolmak_s3", "text": "İnsan [var olması] amaçlı işleri yapar.", "note": null },
+    { "id": "varolmak_s4", "text": "[Var oluşunun] anlamını biliyor musun?", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "varolmak_r1",
+      "prompt": "Bir varlığın mevcut olması, hayat bulması fiili ne?",
+      "accepted_forms": ["var olmak", "varlığını devam ettirmek"],
+      "note": null
+    }
+  ]
+}

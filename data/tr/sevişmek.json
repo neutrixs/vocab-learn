@@ -1,0 +1,47 @@
+{
+  "word": "sevişmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to kiss and cuddle, to make out",
+  "sentences": [
+    {
+      "id": "sevismek_s1",
+      "text": "Çift parkta [sevişiyordu].",
+      "note": null
+    },
+    {
+      "id": "sevismek_s2",
+      "text": "Onlar uzun süre [sevişti].",
+      "note": null
+    },
+    {
+      "id": "sevismek_s3",
+      "text": "Kızla erkek [sevişmek] istedi.",
+      "note": null
+    },
+    {
+      "id": "sevismek_s4",
+      "text": "[Sevişmek] için uygun bir yer buldular.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sevismek_r1",
+      "prompt": "'sevişmek' fiilinin anlamı nedir?",
+      "accepted_forms": [
+        "sevişmek"
+      ],
+      "note": null
+    },
+    {
+      "id": "sevismek_r2",
+      "prompt": "Türkçede 'sevişmek' ne demek?",
+      "accepted_forms": [
+        "sevişmek"
+      ],
+      "note": null
+    }
+  ]
+}

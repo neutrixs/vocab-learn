@@ -1,0 +1,32 @@
+{
+  "word": "müdür",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "director, manager, principal",
+  "sentences": [
+    {
+      "id": "müdür_s1",
+      "text": "[Müdür] toplantıya katıldı.",
+      "note": null
+    },
+    {
+      "id": "müdür_s2",
+      "text": "[Müdür]ün ofisi geniş.",
+      "note": null
+    },
+    {
+      "id": "müdür_s3",
+      "text": "[Müdürler] karar verdi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "müdür_r1",
+      "prompt": "Şirkette veya okulda sorumlu ve yönetici kişi. Ne denir?",
+      "accepted_forms": ["müdür", "müdüre"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "uyanmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to wake up, to awaken",
+  "sentences": [
+    { "id": "uyanmak_s1", "text": "Her sabah beşte [uyanıyorum].", "note": null },
+    { "id": "uyanmak_s2", "text": "[Uyan]! Okula geç kalacaksın.", "note": null },
+    { "id": "uyanmak_s3", "text": "Uykundan [uyanmamış] hâlâ.", "note": null },
+    { "id": "uyanmak_s4", "text": "Haykırış [uyanması] getirdi.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "uyanmak_r1",
+      "prompt": "Sabah uykundan çıkıyorsun. Ne yapıyorsun?",
+      "accepted_forms": ["uyanıyorum", "uyanırım", "uyandum"],
+      "note": null
+    }
+  ]
+}

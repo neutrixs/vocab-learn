@@ -1,0 +1,32 @@
+{
+  "word": "nerede",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adverb",
+  "english_gloss": "where",
+  "sentences": [
+    {
+      "id": "nerede_s1",
+      "text": "[Nerede] oturuyorsun?",
+      "note": null
+    },
+    {
+      "id": "nerede_s2",
+      "text": "[Nerede] kalacağız?",
+      "note": null
+    },
+    {
+      "id": "nerede_s3",
+      "text": "[Nerede] buldun bunu?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "nerede_r1",
+      "prompt": "Yeri sorma sözcüğü. Ne denir?",
+      "accepted_forms": ["nerede"],
+      "note": null
+    }
+  ]
+}

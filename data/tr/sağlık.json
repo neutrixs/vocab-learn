@@ -1,0 +1,27 @@
+{
+  "word": "sağlık",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "health",
+  "sentences": [
+    { "id": "sağlık_s1", "text": "[Sağlık] çok önemlidir.", "note": null },
+    { "id": "sağlık_s2", "text": "[Sağlığı] kontrol etmek lazım.", "note": null },
+    { "id": "sağlık_s3", "text": "[Sağlığınız] nasıl?", "note": null },
+    { "id": "sağlık_s4", "text": "[Sağlık] yaşamın temeldir.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sağlık_r1",
+      "prompt": "İnsan bedeninin iyi durumu ne denir?",
+      "accepted_forms": ["sağlık", "iyilik", "şifa"],
+      "note": null
+    },
+    {
+      "id": "sağlık_r2",
+      "prompt": "Doktor kontrol ettiğinde bu şey kontrol ediliyor?",
+      "accepted_forms": ["sağlık", "can sağlığı", "bedeni durum"],
+      "note": null
+    }
+  ]
+}

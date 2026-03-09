@@ -1,0 +1,21 @@
+{
+  "word": "var etmek",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "verb",
+  "english_gloss": "to create, to bring into being, to establish",
+  "sentences": [
+    { "id": "varetmek_s1", "text": "Sanatçı [var etti] güzel bir eser.", "note": null },
+    { "id": "varetmek_s2", "text": "[Var etmek] yaratmak demek.", "note": null },
+    { "id": "varetmek_s3", "text": "Başkasının [var ettiklerini] kopyalamak yanlış.", "note": null },
+    { "id": "varetmek_s4", "text": "[Var edemedim] kendimden bir şey.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "varetmek_r1",
+      "prompt": "Bir şey yaratıp mevcut hâle getirmek anlamı hangi fiil?",
+      "accepted_forms": ["var etmek", "yaratmak"],
+      "note": null
+    }
+  ]
+}

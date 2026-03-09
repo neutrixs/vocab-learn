@@ -1,0 +1,32 @@
+{
+  "word": "milyon",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "million",
+  "sentences": [
+    {
+      "id": "milyon_s1",
+      "text": "Bir [milyon] insanın toplanması planlıdır.",
+      "note": null
+    },
+    {
+      "id": "milyon_s2",
+      "text": "[Milyon] dolarlık bir anlaşma yaptılar.",
+      "note": null
+    },
+    {
+      "id": "milyon_s3",
+      "text": "[Milyonlar] insanı etkiledi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "milyon_r1",
+      "prompt": "Bin tane binin sayısı. Ne denir?",
+      "accepted_forms": ["milyon", "milyonu"],
+      "note": null
+    }
+  ]
+}

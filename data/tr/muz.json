@@ -1,0 +1,32 @@
+{
+  "word": "muz",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "banana",
+  "sentences": [
+    {
+      "id": "muz_s1",
+      "text": "[Muz] sağlıklı bir meyvedir.",
+      "note": null
+    },
+    {
+      "id": "muz_s2",
+      "text": "İki [muz] aldım.",
+      "note": null
+    },
+    {
+      "id": "muz_s3",
+      "text": "[Muzlar] çantamda var.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "muz_r1",
+      "prompt": "Sarı renkli ve uzun şekilli meyve. Ne denir?",
+      "accepted_forms": ["muz", "muzu"],
+      "note": null
+    }
+  ]
+}

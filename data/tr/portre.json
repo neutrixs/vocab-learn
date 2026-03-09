@@ -1,0 +1,27 @@
+{
+  "word": "portre",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "portrait",
+  "sentences": [
+    { "id": "portre_s1", "text": "[Portre]yi çektireceğim yakında.", "note": "'portresi' = portrait" },
+    { "id": "portre_s2", "text": "[Portre] resimleri sanat müzesinde.", "note": "'portre resimleri' = portrait paintings" },
+    { "id": "portre_s3", "text": "Ressamın [portre]leri harika.", "note": "'portreleri' = his portraits" },
+    { "id": "portre_s4", "text": "[Portre] asmak aksesuarları.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "portre_r1",
+      "prompt": "Bir kişinin görüntüsünü gösteren resim nedir?",
+      "accepted_forms": ["portre", "resim"],
+      "note": null
+    },
+    {
+      "id": "portre_r2",
+      "prompt": "Sanatçı ... çekiyor modeli.",
+      "accepted_forms": ["portre"],
+      "note": null
+    }
+  ]
+}

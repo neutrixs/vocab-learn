@@ -1,0 +1,32 @@
+{
+  "word": "motif",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "motif, pattern, theme",
+  "sentences": [
+    {
+      "id": "motif_s1",
+      "text": "Halıda tekrarlayan [motif] var.",
+      "note": null
+    },
+    {
+      "id": "motif_s2",
+      "text": "Müzikteki [motif] çok etkileyici.",
+      "note": null
+    },
+    {
+      "id": "motif_s3",
+      "text": "[Motifler] dekoratif amaçlıdır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "motif_r1",
+      "prompt": "Tekrar eden desenda veya müzikte tema. Ne denir?",
+      "accepted_forms": ["motif", "motifi"],
+      "note": null
+    }
+  ]
+}

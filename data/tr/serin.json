@@ -1,0 +1,27 @@
+{
+  "word": "serin",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "cool, fresh, cold (pleasantly)",
+  "sentences": [
+    { "id": "serin_s1", "text": "Sabah havası çok [serin].", "note": null },
+    { "id": "serin_s2", "text": "[Serin] bir su içmek hoş.", "note": null },
+    { "id": "serin_s3", "text": "Ağacın gölgesi [serin]dir.", "note": null },
+    { "id": "serin_s4", "text": "[Serin] bahar günü güzel.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "serin_r1",
+      "prompt": "Sıcak olmayan, ama çok soğuk olmayan hava ne şekilde?",
+      "accepted_forms": ["serin", "tatlı", "ılık"],
+      "note": null
+    },
+    {
+      "id": "serin_r2",
+      "prompt": "Yazın çok sıcak günlerinde ... su içmek güzel.",
+      "accepted_forms": ["serin", "soğuk", "ılık"],
+      "note": null
+    }
+  ]
+}

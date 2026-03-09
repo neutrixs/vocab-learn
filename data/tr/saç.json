@@ -1,0 +1,27 @@
+{
+  "word": "saç",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "hair",
+  "sentences": [
+    { "id": "saç_s1", "text": "[Saçını] kesti.", "note": null },
+    { "id": "saç_s2", "text": "[Saçları] siyah ve uzun.", "note": null },
+    { "id": "saç_s3", "text": "[Saç] bakımı önemli.", "note": null },
+    { "id": "saç_s4", "text": "[Saçını] berber yıkadı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "saç_r1",
+      "prompt": "İnsan başında olan iplik benzeri şey ne denir?",
+      "accepted_forms": ["saç", "tel", "filament"],
+      "note": null
+    },
+    {
+      "id": "saç_r2",
+      "prompt": "Kızı gözlüğü çıkardığında uzun ... var.",
+      "accepted_forms": ["saç", "saçları"],
+      "note": null
+    }
+  ]
+}

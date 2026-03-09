@@ -1,0 +1,27 @@
+{
+  "word": "seksen",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "eighty",
+  "sentences": [
+    { "id": "seksen_s1", "text": "[Seksen] artı yirmi eşittir yüz.", "note": null },
+    { "id": "seksen_s2", "text": "Dayı [seksen] yaşındadır.", "note": null },
+    { "id": "seksen_s3", "text": "[Seksen] yıllarda müzik değişti.", "note": null },
+    { "id": "seksen_s4", "text": "Fiyat [seksen] liradır.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "seksen_r1",
+      "prompt": "Yetmiş artı on eşittir nedir?",
+      "accepted_forms": ["seksen", "80", "seksen sayısı"],
+      "note": null
+    },
+    {
+      "id": "seksen_r2",
+      "prompt": "Yaşlı biri doksan yaşında değil, ... yaşında.",
+      "accepted_forms": ["seksen", "yetmiş", "75"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "tarak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "comb",
+  "sentences": [
+    { "id": "tarak_s1", "text": "Saç tarafında [tarak] kullanıyorum.", "note": null },
+    { "id": "tarak_s2", "text": "[Tarak]ı kaybettim.", "note": null },
+    { "id": "tarak_s3", "text": "Ince [tarak] saçı kırmıyor.", "note": null },
+    { "id": "tarak_s4", "text": "[Tarak] banyo öncesi lazım.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tarak_r1",
+      "prompt": "Saçları düzeltmek için kullanılan, dişli metal veya plastik arac. Ne denir?",
+      "accepted_forms": ["tarak", "tarakla"],
+      "note": null
+    }
+  ]
+}

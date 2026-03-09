@@ -1,0 +1,47 @@
+{
+  "word": "siyah",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "black, dark",
+  "sentences": [
+    {
+      "id": "siyah_s1",
+      "text": "[Siyah] bir elbise aldı.",
+      "note": null
+    },
+    {
+      "id": "siyah_s2",
+      "text": "Göğe [siyah] bulutlar toplandı.",
+      "note": null
+    },
+    {
+      "id": "siyah_s3",
+      "text": "[Siyah] saç çok güzel.",
+      "note": null
+    },
+    {
+      "id": "siyah_s4",
+      "text": "[Siyah] dünya karanlık ama siyah güzel.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "siyah_r1",
+      "prompt": "'siyah' sıfatı ne demek?",
+      "accepted_forms": [
+        "siyah"
+      ],
+      "note": null
+    },
+    {
+      "id": "siyah_r2",
+      "prompt": "Türkçede 'siyah' ne anlama gelir?",
+      "accepted_forms": [
+        "siyah"
+      ],
+      "note": null
+    }
+  ]
+}

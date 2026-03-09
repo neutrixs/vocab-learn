@@ -1,0 +1,27 @@
+{
+  "word": "rakı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "raki (Turkish alcoholic drink)",
+  "sentences": [
+    { "id": "raki_s1", "text": "[Rakı] Türkiye'nin içki.", "note": "'rakı' = raki" },
+    { "id": "raki_s2", "text": "Bal [rakı]yı seviyor.", "note": "'rakıyı' = raki (accusative)" },
+    { "id": "raki_s3", "text": "[Rakı]yla mezeleri yemek.", "note": "'rakıyla' = with raki" },
+    { "id": "raki_s4", "text": "[Rakı]nın tadı güzel.", "note": "'rakının' = raki's" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "raki_r1",
+      "prompt": "Türk geleneksel alkollü içeceğinin adı nedir?",
+      "accepted_forms": ["rakı"],
+      "note": null
+    },
+    {
+      "id": "raki_r2",
+      "prompt": "Türkiye'nin milli içkisi ... dir.",
+      "accepted_forms": ["rakı"],
+      "note": null
+    }
+  ]
+}

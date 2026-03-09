@@ -1,0 +1,21 @@
+{
+  "word": "tıraş",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "shave",
+  "sentences": [
+    { "id": "tiras_s1", "text": "Sabah [tıraş] olmadan işe gidemez.", "note": null },
+    { "id": "tiras_s2", "text": "[Tıraş] makinesi bozuldu.", "note": null },
+    { "id": "tiras_s3", "text": "Her gün [tıraş] yapmak çok zahmetli.", "note": null },
+    { "id": "tiras_s4", "text": "[Tıraş] usulü değişiyor zamanla.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tiras_r1",
+      "prompt": "Sabahki rutinin içinde yüzü traş etmeyi söylüyorsun. '... yapacağım.' dersin.",
+      "accepted_forms": ["tıraş", "tıraş olmak"],
+      "note": null
+    }
+  ]
+}

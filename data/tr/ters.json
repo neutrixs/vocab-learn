@@ -1,0 +1,21 @@
+{
+  "word": "ters",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "reverse, opposite, wrong way",
+  "sentences": [
+    { "id": "ters_s1", "text": "Tişörtü [ters] giydin.", "note": null },
+    { "id": "ters_s2", "text": "Bu hesaplama [ters], yeniden yap.", "note": null },
+    { "id": "ters_s3", "text": "[Ters] istikamete gittim ve geç kaldım.", "note": null },
+    { "id": "ters_s4", "text": "[Ters] bir sonuç almışız.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ters_r1",
+      "prompt": "Gömleğini yanlış giydin. 'Gömleği ... giydin.' derler.",
+      "accepted_forms": ["ters", "yanlış"],
+      "note": null
+    }
+  ]
+}

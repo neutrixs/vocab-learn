@@ -1,0 +1,32 @@
+{
+  "word": "olay",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "event, incident, affair",
+  "sentences": [
+    {
+      "id": "olay_s1",
+      "text": "Şehirde büyük bir [olay] oldu.",
+      "note": null
+    },
+    {
+      "id": "olay_s2",
+      "text": "[Olay]ı unutmayacağız.",
+      "note": null
+    },
+    {
+      "id": "olay_s3",
+      "text": "[Olaylar] haber yayıldı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "olay_r1",
+      "prompt": "Meydana gelen veya gerçekleşen durum. Ne denir?",
+      "accepted_forms": ["olay", "olayı"],
+      "note": null
+    }
+  ]
+}

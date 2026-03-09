@@ -1,0 +1,47 @@
+{
+  "word": "sığınmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to take refuge, to shelter, to flee to",
+  "sentences": [
+    {
+      "id": "siginmak_s1",
+      "text": "Yağmura [sığındık].",
+      "note": null
+    },
+    {
+      "id": "siginmak_s2",
+      "text": "Evin altına [sığındılar].",
+      "note": null
+    },
+    {
+      "id": "siginmak_s3",
+      "text": "Mağarada [sığındı].",
+      "note": null
+    },
+    {
+      "id": "siginmak_s4",
+      "text": "Ağacın altına [sığınmak] istedi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "siginmak_r1",
+      "prompt": "'sığınmak' fiilinin anlamı nedir?",
+      "accepted_forms": [
+        "sığınmak"
+      ],
+      "note": null
+    },
+    {
+      "id": "siginmak_r2",
+      "prompt": "Türkçede 'sığınmak' ne demek?",
+      "accepted_forms": [
+        "sığınmak"
+      ],
+      "note": null
+    }
+  ]
+}

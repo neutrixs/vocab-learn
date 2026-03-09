@@ -1,0 +1,21 @@
+{
+  "word": "tava",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "frying pan, skillet",
+  "sentences": [
+    { "id": "tava_s1", "text": "Yumurta [tava]da pişiriyorum.", "note": null },
+    { "id": "tava_s2", "text": "[Tava]yı ocaktan indir.", "note": null },
+    { "id": "tava_s3", "text": "Kızarmış [tava]sı çok lezzetli.", "note": null },
+    { "id": "tava_s4", "text": "Sıcak [tava]da döner pişer.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tava_r1",
+      "prompt": "Yemek pişirmek için ocakta kullandığın metal kap. Ne denir?",
+      "accepted_forms": ["tava", "tavada"],
+      "note": null
+    }
+  ]
+}

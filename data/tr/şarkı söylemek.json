@@ -1,0 +1,27 @@
+{
+  "word": "şarkı söylemek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to sing",
+  "sentences": [
+    { "id": "şarkı söylemek_s1", "text": "Çocuk neşeyle [şarkı söylüyordu].", "note": null },
+    { "id": "şarkı söylemek_s2", "text": "Konserde [şarkı söyleyeceği] kız çok yetenekli.", "note": null },
+    { "id": "şarkı söylemek_s3", "text": "[Şarkı söylemek] onu mutlu eder.", "note": null },
+    { "id": "şarkı söylemek_s4", "text": "Uyku zamanında lullaby [söylüyorum].", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şarkı söylemek_r1",
+      "prompt": "Ses ve müzik ile müzik parçasını dile getirmek. Ne denir?",
+      "accepted_forms": ["şarkı söylemek", "şarkı söylüyorum", "şarkı söyledim"],
+      "note": null
+    },
+    {
+      "id": "şarkı söylemek_r2",
+      "prompt": "Konser salonunda heykeli sesimizle müzik yapıyoruz. Ne yapıyoruz?",
+      "accepted_forms": ["şarkı söylüyoruz", "şarkı söylemek"],
+      "note": null
+    }
+  ]
+}

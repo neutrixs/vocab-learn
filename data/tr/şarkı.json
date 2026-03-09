@@ -1,0 +1,47 @@
+{
+  "word": "şarkı",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "song",
+  "sentences": [
+    {
+      "id": "sarki_s1",
+      "text": "[Şarkı]] söyle bize.",
+      "note": null
+    },
+    {
+      "id": "sarki_s2",
+      "text": "[Şarkının]] sözü güzel.",
+      "note": null
+    },
+    {
+      "id": "sarki_s3",
+      "text": "Türk [şarkıları]] seviyor.",
+      "note": null
+    },
+    {
+      "id": "sarki_s4",
+      "text": "[Şarkı]] dinlemeyi seviyorum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sarki_r1",
+      "prompt": "'şarkı' kelimesi ne demek?",
+      "accepted_forms": [
+        "şarkı"
+      ],
+      "note": null
+    },
+    {
+      "id": "sarki_r2",
+      "prompt": "Türkçede 'şarkı' ne anlama gelir?",
+      "accepted_forms": [
+        "şarkı"
+      ],
+      "note": null
+    }
+  ]
+}

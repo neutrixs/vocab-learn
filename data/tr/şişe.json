@@ -1,0 +1,21 @@
+{
+  "word": "şişe",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "bottle",
+  "sentences": [
+    { "id": "şişe_s1", "text": "Su [şişesi]ni al.", "note": null },
+    { "id": "şişe_s2", "text": "[Şişe]nin kapağı açmayı unutma.", "note": null },
+    { "id": "şişe_s3", "text": "Cam [şişe]ye su doldur.", "note": null },
+    { "id": "şişe_s4", "text": "Şarap [şişesi]ni soğukta tutacağız.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şişe_r1",
+      "prompt": "Sıvı koymak için kullanılan, dar ağızlı cam veya plastik kap. Ne denir?",
+      "accepted_forms": ["şişe", "şişesi", "şişede"],
+      "note": null
+    }
+  ]
+}

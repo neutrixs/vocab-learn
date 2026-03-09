@@ -1,0 +1,32 @@
+{
+  "word": "nefret etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to hate, to detest",
+  "sentences": [
+    {
+      "id": "nefret etmek_s1",
+      "text": "[Nefret ediyorum] bunu.",
+      "note": null
+    },
+    {
+      "id": "nefret etmek_s2",
+      "text": "[Nefret etti] o davranıştan.",
+      "note": null
+    },
+    {
+      "id": "nefret etmek_s3",
+      "text": "[Nefret etmiş] o insandan.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "nefret etmek_r1",
+      "prompt": "Çok hoşlanmamak ve bıkkınlık duymak. Ne yapmak?",
+      "accepted_forms": ["nefret eder", "nefret etti", "nefret etmek"],
+      "note": null
+    }
+  ]
+}

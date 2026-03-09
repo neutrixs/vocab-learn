@@ -1,0 +1,47 @@
+{
+  "word": "seyretmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to watch, to observe, to view",
+  "sentences": [
+    {
+      "id": "seyretmek_s1",
+      "text": "Film [seyretmek] istiyorum.",
+      "note": null
+    },
+    {
+      "id": "seyretmek_s2",
+      "text": "Bulutları [seyretmeyi] seviyorum.",
+      "note": null
+    },
+    {
+      "id": "seyretmek_s3",
+      "text": "Dün TV [seyrettik].",
+      "note": null
+    },
+    {
+      "id": "seyretmek_s4",
+      "text": "Maçı beraber [seyretmeye] geldik.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "seyretmek_r1",
+      "prompt": "'seyretmek' fiilinin anlamı nedir?",
+      "accepted_forms": [
+        "seyretmek"
+      ],
+      "note": null
+    },
+    {
+      "id": "seyretmek_r2",
+      "prompt": "Türkçede 'seyretmek' ne demek?",
+      "accepted_forms": [
+        "seyretmek"
+      ],
+      "note": null
+    }
+  ]
+}

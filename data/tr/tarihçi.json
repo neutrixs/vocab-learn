@@ -1,0 +1,21 @@
+{
+  "word": "tarihçi",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "historian",
+  "sentences": [
+    { "id": "tarihçi_s1", "text": "[Tarihçi] eski belgeleri araştırıyor.", "note": null },
+    { "id": "tarihçi_s2", "text": "Üniversiteye [tarihçi] olmak istedim.", "note": null },
+    { "id": "tarihçi_s3", "text": "Bu [tarihçi] çok bilgili.", "note": null },
+    { "id": "tarihçi_s4", "text": "[Tarihçi]ler yeni bulgular buldu.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tarihçi_r1",
+      "prompt": "Tarihin incelemesi ve bilgisi üzerinde çalışan uzman kişi. Ne denir?",
+      "accepted_forms": ["tarihçi", "tarihçiler"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "sandöviç",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "sandwich",
+  "sentences": [
+    { "id": "sandöviç_s1", "text": "Öğle yemeğinde [sandöviç] yedim.", "note": null },
+    { "id": "sandöviç_s2", "text": "[Sandöviçi] peynir ve jambon ile hazırladık.", "note": null },
+    { "id": "sandöviç_s3", "text": "[Sandöviç] çabuk bir öğle yemeği.", "note": null },
+    { "id": "sandöviç_s4", "text": "Kafeteryada çeşit [sandöviç] bulunuyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sandöviç_r1",
+      "prompt": "Arası peynir veya jambon ile dolu iki dilim ekmek ne denir?",
+      "accepted_forms": ["sandöviç", "arası ekmek", "sandwich"],
+      "note": null
+    },
+    {
+      "id": "sandöviç_r2",
+      "prompt": "Hızlı bir öğle yemeği olarak yenen bu şey nedir?",
+      "accepted_forms": ["sandöviç", "ekmek arası", "soğuk yemek"],
+      "note": null
+    }
+  ]
+}

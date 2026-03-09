@@ -1,0 +1,20 @@
+{
+  "word": "terlemek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to sweat",
+  "sentences": [
+    { "id": "terlemek_s1", "text": "Koşu antrenmanında çok [terledim].", "note": null },
+    { "id": "terlemek_s2", "text": "Hava sıcak, herkes [terleniyor].", "note": null },
+    { "id": "terlemek_s3", "text": "Korkudan [terliyorum].", "note": null },
+    { "id": "terlemek_s4", "text": "[Terlemedin] mi bu kadar çalışırken?", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "terlemek_r1",
+      "prompt": "Spor yaptıktan sonra üstünün ıslanmış. 'Çok ... dersin.", "accepted_forms": ["terledim", "terliyorum"],
+      "note": null
+    }
+  ]
+}

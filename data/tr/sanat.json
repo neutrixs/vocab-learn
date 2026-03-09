@@ -1,0 +1,27 @@
+{
+  "word": "sanat",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "art",
+  "sentences": [
+    { "id": "sanat_s1", "text": "[Sanat] insanı eğitir.", "note": null },
+    { "id": "sanat_s2", "text": "[Sanatı] çok seviyorum.", "note": null },
+    { "id": "sanat_s3", "text": "[Sanat] okulu nerede?", "note": null },
+    { "id": "sanat_s4", "text": "Müzik [sanat]ın bir dalı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sanat_r1",
+      "prompt": "Ressam, heykeltıraş ve müzisyen ne çalışırlar?",
+      "accepted_forms": ["sanat", "sanat eseri", "yaratıcı çalışma"],
+      "note": null
+    },
+    {
+      "id": "sanat_r2",
+      "prompt": "Hayatın güzel yönünü gösterme ve ifade etme ne denir?",
+      "accepted_forms": ["sanat", "estetik", "yaratıcılık"],
+      "note": null
+    }
+  ]
+}

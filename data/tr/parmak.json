@@ -1,0 +1,27 @@
+{
+  "word": "parmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "finger, toe",
+  "sentences": [
+    { "id": "parmak_s1", "text": "Elimde beş [parmak] var.", "note": "'parmak' = finger" },
+    { "id": "parmak_s2", "text": "[Parmak]ımı kestin.", "note": "'parmağımı' = my finger" },
+    { "id": "parmak_s3", "text": "Ayağın [parmak]ları uzun.", "note": "'ayak parmaklarına' = toes" },
+    { "id": "parmak_s4", "text": "[Parmak]ımı kaldır konuş.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "parmak_r1",
+      "prompt": "Elinizin ucundaki uzun ve esnek yapılar nelerdir?",
+      "accepted_forms": ["parmak", "parmaklar"],
+      "note": null
+    },
+    {
+      "id": "parmak_r2",
+      "prompt": "Kaç tane ... var elinizde?",
+      "accepted_forms": ["parmak"],
+      "note": null
+    }
+  ]
+}

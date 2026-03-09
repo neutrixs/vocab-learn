@@ -1,0 +1,27 @@
+{
+  "word": "samimi",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "sincere, genuine, heartfelt, intimate",
+  "sentences": [
+    { "id": "samimi_s1", "text": "[Samimi] bir dostluğumuz var.", "note": null },
+    { "id": "samimi_s2", "text": "Ona [samimi] birşeyler söyledim.", "note": null },
+    { "id": "samimi_s3", "text": "[Samimi] bir duyguyu paylassak?", "note": null },
+    { "id": "samimi_s4", "text": "[Samimi] konuşmak daha hoştur.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "samimi_r1",
+      "prompt": "Biri sana kalbinden söylenmiş bir sırrını verdi. Ne şekildeki bir davranış bu?",
+      "accepted_forms": ["samimi", "dürüst", "içten"],
+      "note": null
+    },
+    {
+      "id": "samimi_r2",
+      "prompt": "İkisi arasında kalan yakın bir dostluk ... dostluk.",
+      "accepted_forms": ["samimi", "derin", "sıkı"],
+      "note": null
+    }
+  ]
+}

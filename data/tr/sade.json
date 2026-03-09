@@ -1,0 +1,27 @@
+{
+  "word": "sade",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "simple, plain, straightforward",
+  "sentences": [
+    { "id": "sade_s1", "text": "[Sade] bir elbise giyiyor.", "note": null },
+    { "id": "sade_s2", "text": "[Sade] bir hayat yaşıyor.", "note": null },
+    { "id": "sade_s3", "text": "Bu çay [sade], şeker yok.", "note": null },
+    { "id": "sade_s4", "text": "[Sade] bir tasarım beğenikinin.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sade_r1",
+      "prompt": "Süsü, kompleksi olmayan bir şey nasıl anlatırsın?",
+      "accepted_forms": ["sade", "basit", "düz"],
+      "note": null
+    },
+    {
+      "id": "sade_r2",
+      "prompt": "Kötü olmayan ama çok etkileyici olmayan bir tasarım ... tasarım.",
+      "accepted_forms": ["sade", "basit", "kolay"],
+      "note": null
+    }
+  ]
+}

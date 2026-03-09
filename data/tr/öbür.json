@@ -1,0 +1,32 @@
+{
+  "word": "öbür",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "other, the other",
+  "sentences": [
+    {
+      "id": "öbür_s1",
+      "text": "[Öbür] taraf.",
+      "note": null
+    },
+    {
+      "id": "öbür_s2",
+      "text": "[Öbür] gün geldi.",
+      "note": null
+    },
+    {
+      "id": "öbür_s3",
+      "text": "[Öbür] kız buraya geldi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "öbür_r1",
+      "prompt": "Diğer veya başka anlamında sıfat. Ne denir?",
+      "accepted_forms": ["öbür"],
+      "note": null
+    }
+  ]
+}

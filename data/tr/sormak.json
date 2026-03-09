@@ -1,0 +1,47 @@
+{
+  "word": "sormak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to ask, to question",
+  "sentences": [
+    {
+      "id": "sormak_s1",
+      "text": "Bir şey [sormak] istiyorum.",
+      "note": null
+    },
+    {
+      "id": "sormak_s2",
+      "text": "Neden [sordun] bunu?",
+      "note": null
+    },
+    {
+      "id": "sormak_s3",
+      "text": "Yol [sordum].",
+      "note": null
+    },
+    {
+      "id": "sormak_s4",
+      "text": "[Sormadan] git.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sormak_r1",
+      "prompt": "'sormak' fiilinin anlamı nedir?",
+      "accepted_forms": [
+        "sormak"
+      ],
+      "note": null
+    },
+    {
+      "id": "sormak_r2",
+      "prompt": "Türkçede 'sormak' ne demek?",
+      "accepted_forms": [
+        "sormak"
+      ],
+      "note": null
+    }
+  ]
+}

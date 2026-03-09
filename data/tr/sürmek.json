@@ -1,0 +1,47 @@
+{
+  "word": "sürmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to apply, to drag, to pull",
+  "sentences": [
+    {
+      "id": "surmek_s1",
+      "text": "[Surma] [sürüyorum].",
+      "note": null
+    },
+    {
+      "id": "surmek_s2",
+      "text": "[Dudakları] [sürüyor].",
+      "note": null
+    },
+    {
+      "id": "surmek_s3",
+      "text": "[Boyayı] [sür].",
+      "note": null
+    },
+    {
+      "id": "surmek_s4",
+      "text": "[Sürülü] bir boy.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "surmek_r1",
+      "prompt": "'sürmek' fiilinin anlamı nedir?",
+      "accepted_forms": [
+        "sürmek"
+      ],
+      "note": null
+    },
+    {
+      "id": "surmek_r2",
+      "prompt": "Türkçede 'sürmek' ne demek?",
+      "accepted_forms": [
+        "sürmek"
+      ],
+      "note": null
+    }
+  ]
+}

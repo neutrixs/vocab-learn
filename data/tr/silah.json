@@ -1,0 +1,47 @@
+{
+  "word": "silah",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "weapon, arm",
+  "sentences": [
+    {
+      "id": "silah_s1",
+      "text": "[Silah] taşımak yasak.",
+      "note": null
+    },
+    {
+      "id": "silah_s2",
+      "text": "[Silahlar] tehdittir.",
+      "note": null
+    },
+    {
+      "id": "silah_s3",
+      "text": "[Silahı] tutmak tehlikeli.",
+      "note": null
+    },
+    {
+      "id": "silah_s4",
+      "text": "[Silah] fabrikası insan düşmanı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "silah_r1",
+      "prompt": "'silah' kelimesi ne demek?",
+      "accepted_forms": [
+        "silah"
+      ],
+      "note": null
+    },
+    {
+      "id": "silah_r2",
+      "prompt": "Türkçede 'silah' ne anlama gelir?",
+      "accepted_forms": [
+        "silah"
+      ],
+      "note": null
+    }
+  ]
+}

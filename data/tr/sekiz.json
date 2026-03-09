@@ -1,0 +1,27 @@
+{
+  "word": "sekiz",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "eight",
+  "sentences": [
+    { "id": "sekiz_s1", "text": "[Sekiz] artı iki eşittir on.", "note": null },
+    { "id": "sekiz_s2", "text": "Saat [sekiz]i dokuz geçe.", "note": null },
+    { "id": "sekiz_s3", "text": "[Sekiz] kişi geldi.", "note": null },
+    { "id": "sekiz_s4", "text": "Haftanın [sekiz] gün değil, yedi gün var.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sekiz_r1",
+      "prompt": "Yedi'den sonra gelecek sayı nedir?",
+      "accepted_forms": ["sekiz", "8", "sekiz sayısı"],
+      "note": null
+    },
+    {
+      "id": "sekiz_r2",
+      "prompt": "Bir deste kaç ürüne denir? Cevap ... değildir.",
+      "accepted_forms": ["sekiz", "on", "dokuz"],
+      "note": null
+    }
+  ]
+}

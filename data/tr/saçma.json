@@ -1,0 +1,27 @@
+{
+  "word": "saçma",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "silly, ridiculous, absurd, nonsensical",
+  "sentences": [
+    { "id": "saçma_s1", "text": "O [saçma] bir davranış.", "note": null },
+    { "id": "saçma_s2", "text": "Ne [saçma] bir fikir!", "note": null },
+    { "id": "saçma_s3", "text": "[Saçma] sözlere inanmıyorum.", "note": null },
+    { "id": "saçma_s4", "text": "Filmin hikâyesi [saçmaca] konuşmuş.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "saçma_r1",
+      "prompt": "Anlamsız ve boş bir söz ne denir?",
+      "accepted_forms": ["saçma", "saçmalık", "absürd"],
+      "note": null
+    },
+    {
+      "id": "saçma_r2",
+      "prompt": "Birinin söylediği şey hiç anlamlı değilse, 'Bu çok ...' dersin.",
+      "accepted_forms": ["saçma", "saçmalık", "aptalça"],
+      "note": null
+    }
+  ]
+}

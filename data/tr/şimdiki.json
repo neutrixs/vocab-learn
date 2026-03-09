@@ -1,0 +1,21 @@
+{
+  "word": "şimdiki",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "current, present, now",
+  "sentences": [
+    { "id": "şimdiki_s1", "text": "[Şimdiki] durum zor.", "note": null },
+    { "id": "şimdiki_s2", "text": "[Şimdiki] hükümet yeni reformlar yapıyor.", "note": null },
+    { "id": "şimdiki_s3", "text": "[Şimdiki] kuşak teknoloji ile yetişti.", "note": null },
+    { "id": "şimdiki_s4", "text": "[Şimdiki] başkan seçim kazandı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şimdiki_r1",
+      "prompt": "Bu an için geçerli olan, günümüze ait, mevcut. Ne denir?",
+      "accepted_forms": ["şimdiki", "şimdi"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "ucuz",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "cheap, inexpensive",
+  "sentences": [
+    { "id": "ucuz_s1", "text": "Bu çanta çok [ucuz] ve güzel.", "note": null },
+    { "id": "ucuz_s2", "text": "[Ucuz] bir fiyattan aldım.", "note": null },
+    { "id": "ucuz_s3", "text": "[Ucuz] yemek lezzetli olmaz derler.", "note": null },
+    { "id": "ucuz_s4", "text": "[Ucuz] değil, çok pahalı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ucuz_r1",
+      "prompt": "Bir ürün düşük fiyatlı. Ne söylersin?",
+      "accepted_forms": ["ucuz", "çok ucuz"],
+      "note": null
+    }
+  ]
+}

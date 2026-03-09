@@ -1,0 +1,21 @@
+{
+  "word": "vapur",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "boat, ferry, ship",
+  "sentences": [
+    { "id": "vapur_s1", "text": "[Vapur] tam kaldı limanından.", "note": null },
+    { "id": "vapur_s2", "text": "[Vapurda] oturup manzara seyredelim.", "note": null },
+    { "id": "vapur_s3", "text": "İstanbul [vapurlası] çok popüler.", "note": null },
+    { "id": "vapur_s4", "text": "[Vapurun] içi dolu yolcu.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "vapur_r1",
+      "prompt": "Boğaz'ı geçmek için hangi ulaşım aracını kullanırsın?",
+      "accepted_forms": ["vapur", "gemi"],
+      "note": null
+    }
+  ]
+}

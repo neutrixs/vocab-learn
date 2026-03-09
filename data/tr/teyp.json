@@ -1,0 +1,21 @@
+{
+  "word": "teyp",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "tape recorder, cassette player",
+  "sentences": [
+    { "id": "teyp_s1", "text": "Eski [teyp] hâlâ çalışıyor.", "note": null },
+    { "id": "teyp_s2", "text": "[Teyp] üzerine kaseti koydum.", "note": null },
+    { "id": "teyp_s3", "text": "[Teypin] sesi biraz kısık.", "note": null },
+    { "id": "teyp_s4", "text": "Bu [teyp] oldukça antika.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "teyp_r1",
+      "prompt": "Kaseti çalmak için ne kullanıyorsun?",
+      "accepted_forms": ["teyp", "teyp oynatıcı"],
+      "note": null
+    }
+  ]
+}

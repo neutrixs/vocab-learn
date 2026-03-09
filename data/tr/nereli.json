@@ -1,0 +1,32 @@
+{
+  "word": "nereli",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "from where, origin",
+  "sentences": [
+    {
+      "id": "nereli_s1",
+      "text": "[Nereli] misin sen?",
+      "note": null
+    },
+    {
+      "id": "nereli_s2",
+      "text": "O [nereli] bir çiftçi.",
+      "note": null
+    },
+    {
+      "id": "nereli_s3",
+      "text": "[Nereliler] mi bunlar?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "nereli_r1",
+      "prompt": "Hangi yerden geldiğini veya kökenini gösteren sıfat. Ne denir?",
+      "accepted_forms": ["nereli"],
+      "note": null
+    }
+  ]
+}

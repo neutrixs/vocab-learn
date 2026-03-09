@@ -1,0 +1,32 @@
+{
+  "word": "otel",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "hotel",
+  "sentences": [
+    {
+      "id": "otel_s1",
+      "text": "[Otel]de kalacağız.",
+      "note": null
+    },
+    {
+      "id": "otel_s2",
+      "text": "[Otel]in ismi nedir?",
+      "note": null
+    },
+    {
+      "id": "otel_s3",
+      "text": "[Oteller] pahalı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "otel_r1",
+      "prompt": "Konaklaması için sağlanan işletme. Ne denir?",
+      "accepted_forms": ["otel", "otelde"],
+      "note": null
+    }
+  ]
+}

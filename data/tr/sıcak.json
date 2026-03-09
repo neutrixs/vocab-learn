@@ -1,0 +1,47 @@
+{
+  "word": "sıcak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "hot, warm",
+  "sentences": [
+    {
+      "id": "sicak_s1",
+      "text": "[Sıcak] bir gün.",
+      "note": null
+    },
+    {
+      "id": "sicak_s2",
+      "text": "[Sıcak] su içmek isterim.",
+      "note": null
+    },
+    {
+      "id": "sicak_s3",
+      "text": "Bugün çok [sıcak] hava var.",
+      "note": null
+    },
+    {
+      "id": "sicak_s4",
+      "text": "[Sıcak] kahve içmeyi seviyorum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sicak_r1",
+      "prompt": "'sıcak' sıfatı ne demek?",
+      "accepted_forms": [
+        "sıcak"
+      ],
+      "note": null
+    },
+    {
+      "id": "sicak_r2",
+      "prompt": "Türkçede 'sıcak' ne anlama gelir?",
+      "accepted_forms": [
+        "sıcak"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "word": "sinema",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "cinema, movie theater",
+  "sentences": [
+    {
+      "id": "sinema_s1",
+      "text": "[Sinemaya] gitmek istiyorum.",
+      "note": null
+    },
+    {
+      "id": "sinema_s2",
+      "text": "[Sinema] filmini izledik.",
+      "note": null
+    },
+    {
+      "id": "sinema_s3",
+      "text": "[Sinema] kültürü gelişti.",
+      "note": null
+    },
+    {
+      "id": "sinema_s4",
+      "text": "[Sinemada] yeni filmler oynatılıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sinema_r1",
+      "prompt": "'sinema' kelimesi ne demek?",
+      "accepted_forms": [
+        "sinema"
+      ],
+      "note": null
+    },
+    {
+      "id": "sinema_r2",
+      "prompt": "Türkçede 'sinema' ne anlama gelir?",
+      "accepted_forms": [
+        "sinema"
+      ],
+      "note": null
+    }
+  ]
+}

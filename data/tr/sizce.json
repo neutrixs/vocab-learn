@@ -1,0 +1,47 @@
+{
+  "word": "sizce",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adverb",
+  "english_gloss": "in your opinion, as you see it",
+  "sentences": [
+    {
+      "id": "sizce_s1",
+      "text": "[Sizce] ne yapmalı?",
+      "note": null
+    },
+    {
+      "id": "sizce_s2",
+      "text": "[Sizce] doğru mu?",
+      "note": null
+    },
+    {
+      "id": "sizce_s3",
+      "text": "[Sizce] bu karar haklı mı?",
+      "note": null
+    },
+    {
+      "id": "sizce_s4",
+      "text": "[Sizce] başarılı olur mu?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sizce_r1",
+      "prompt": "'sizce' zarf ne demek?",
+      "accepted_forms": [
+        "sizce"
+      ],
+      "note": null
+    },
+    {
+      "id": "sizce_r2",
+      "prompt": "Türkçede 'sizce' ne anlama gelir?",
+      "accepted_forms": [
+        "sizce"
+      ],
+      "note": null
+    }
+  ]
+}

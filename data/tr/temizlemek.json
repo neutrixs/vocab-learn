@@ -1,0 +1,21 @@
+{
+  "word": "temizlemek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to clean",
+  "sentences": [
+    { "id": "temizlemek_s1", "text": "[Temizledim] evi, şimdi göz alıcı görünüyor.", "note": null },
+    { "id": "temizlemek_s2", "text": "Perşembe günü evi [temizlemeliyiz].", "note": null },
+    { "id": "temizlemek_s3", "text": "Ayakkabılarını [temizle] ve içeri gel.", "note": null },
+    { "id": "temizlemek_s4", "text": "Her hafta pencereler [temizlenir].", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "temizlemek_r1",
+      "prompt": "Eve gelmeden önce her şeyi hazırlamak istiyorsun. '... evi yapmam lazım.' dersin.",
+      "accepted_forms": ["temizlemek", "temizlemeliyim", "temizlemem"],
+      "note": null
+    }
+  ]
+}

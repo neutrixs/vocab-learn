@@ -1,0 +1,49 @@
+{
+  "word": "önce",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adverb",
+  "english_gloss": "before, first, previously",
+  "sentences": [
+    {
+      "id": "once_s1",
+      "text": "Seni daha [önce] gördüm.",
+      "note": "'önce' = before"
+    },
+    {
+      "id": "once_s2",
+      "text": "[Önce] ders çalış, sonra oyna.",
+      "note": "'önce' = first"
+    },
+    {
+      "id": "once_s3",
+      "text": "Bundan bir ay [önce] orada idim.",
+      "note": "'bir ay önce' = a month ago"
+    },
+    {
+      "id": "once_s4",
+      "text": "[Önce] hava güzel değildi.",
+      "note": "'önce' = previously"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "once_r1",
+      "prompt": "Geçmiş zamanda bir şeyi ne zaman yaptığını söylemek için kullanılan kelime?",
+      "accepted_forms": [
+        "önce",
+        "öncesinde"
+      ],
+      "note": null
+    },
+    {
+      "id": "once_r2",
+      "prompt": "'Seni ... görmüştüm.'",
+      "accepted_forms": [
+        "önce",
+        "daha önce"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "Sayın",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "Dear (honorific), Mister/Ms. (formal address)",
+  "sentences": [
+    { "id": "sayin_s1", "text": "[Sayın] Müdür, sizi görmek istiyorum.", "note": null },
+    { "id": "sayin_s2", "text": "[Sayın] Öğretmen, bir sorum var.", "note": null },
+    { "id": "sayin_s3", "text": "[Sayın] Cumhubaşkanı konuştu.", "note": null },
+    { "id": "sayin_s4", "text": "Hürmet göstererek [Sayın] Ahmet selamladı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sayin_r1",
+      "prompt": "Birine saygı göstermek için kullanılan unvan ne?",
+      "accepted_forms": ["Sayın", "Sayın", "saygılı"],
+      "note": null
+    },
+    {
+      "id": "sayin_r2",
+      "prompt": "Mühendis Ahmet'e resmi olarak hitap ederken ne dersin?",
+      "accepted_forms": ["Sayın", "Sayın Mühendis", "Sayın Ahmet"],
+      "note": null
+    }
+  ]
+}

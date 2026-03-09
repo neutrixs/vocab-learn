@@ -1,0 +1,27 @@
+{
+  "word": "plaj",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "beach",
+  "sentences": [
+    { "id": "plaj_s1", "text": "[Plaj]a gitiyorum.", "note": "'plaja' = to the beach" },
+    { "id": "plaj_s2", "text": "[Plaj]da yüzüyorum.", "note": "'plajda' = at the beach" },
+    { "id": "plaj_s3", "text": "[Plaj]ın kumsal çok güzel.", "note": "'plajın' = beach's" },
+    { "id": "plaj_s4", "text": "[Plaj]dan geri döndük.", "note": "'plajdan' = from the beach" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "plaj_r1",
+      "prompt": "Suya yakın kumsal kısımlı yerde eğlenen yer nedir?",
+      "accepted_forms": ["plaj", "kıyı"],
+      "note": null
+    },
+    {
+      "id": "plaj_r2",
+      "prompt": "Yazın yüzüşme için ... gidiyoruz.",
+      "accepted_forms": ["plaj"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "word": "ödünç vermek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to lend, to loan",
+  "sentences": [
+    {
+      "id": "ödünç vermek_s1",
+      "text": "[Ödünç verdim] sana.",
+      "note": null
+    },
+    {
+      "id": "ödünç vermek_s2",
+      "text": "[Ödünç ver] bana.",
+      "note": null
+    },
+    {
+      "id": "ödünç vermek_s3",
+      "text": "[Ödünç vermesini] istedi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ödünç vermek_r1",
+      "prompt": "Birinin geri verme şartıyla vermesi. Ne yapmak?",
+      "accepted_forms": ["ödünç ver", "ödünç verdi", "ödünç vermek"],
+      "note": null
+    }
+  ]
+}

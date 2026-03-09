@@ -1,0 +1,27 @@
+{
+  "word": "riya",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "hypocrisy, dissimulation, show-off",
+  "sentences": [
+    { "id": "riya_s1", "text": "[Riya] çok çirkin bir davranış.", "note": null },
+    { "id": "riya_s2", "text": "O kişiye [riya] yapıyor, gerçek benliğini göstermüyor.", "note": null },
+    { "id": "riya_s3", "text": "[Riyayla] kimse aldanmaz.", "note": null },
+    { "id": "riya_s4", "text": "Din ahlakında [riya] yasaklanır.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "riya_r1",
+      "prompt": "Biri inandığı şeye aykırı davranırsa, bu ne denir?",
+      "accepted_forms": ["riya", "ikiyüzlülük", "yalancılık"],
+      "note": null
+    },
+    {
+      "id": "riya_r2",
+      "prompt": "Birinin kötü niyetli davranışlarıyla kendi hakkında yalan söyleme ne denir?",
+      "accepted_forms": ["riya", "hile", "aldatma"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "rica etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to ask, to request, to beg",
+  "sentences": [
+    { "id": "rica_etmek_s1", "text": "Senden bir şey [rica ediyorum].", "note": null },
+    { "id": "rica_etmek_s2", "text": "Lütfen beni [rica etme], yapamam.", "note": null },
+    { "id": "rica_etmek_s3", "text": "[Rica ediyorum], gelir misin?", "note": null },
+    { "id": "rica_etmek_s4", "text": "Babasından ayakkabı alma [rica etti].", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "rica_etmek_r1",
+      "prompt": "Birinden bir şey istiyorsun, ama kırmamak istiyorsun. Ne yaparsın?",
+      "accepted_forms": ["rica ederim", "rica ediyorum", "rica etmek"],
+      "note": null
+    },
+    {
+      "id": "rica_etmek_r2",
+      "prompt": "Bir dostundan yardımını istersin ama nazikçe. Cümleyi tamamla: '... gelir misin?'",
+      "accepted_forms": ["rica ediyorum", "lütfen", "rica ederim"],
+      "note": null
+    }
+  ]
+}

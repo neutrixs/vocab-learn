@@ -1,0 +1,27 @@
+{
+  "word": "saldırgan",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "aggressive, hostile, attacking",
+  "sentences": [
+    { "id": "saldırgan_s1", "text": "Köpek [saldırgan] görülüyor.", "note": null },
+    { "id": "saldırgan_s2", "text": "[Saldırgan] bir tavır almıştı.", "note": null },
+    { "id": "saldırgan_s3", "text": "Futbol oyununda [saldırgan] bir taktik vardı.", "note": null },
+    { "id": "saldırgan_s4", "text": "Ne [saldırgan] bir konuşma!", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "saldırgan_r1",
+      "prompt": "Kişi bir köpeğe saldırdı. Köpek nasıl bir hayvan?",
+      "accepted_forms": ["saldırgan", "tehlikeli", "agresif"],
+      "note": null
+    },
+    {
+      "id": "saldırgan_r2",
+      "prompt": "Birisinin tutumu herkese düşmanca. O kişi ... bir kişi.",
+      "accepted_forms": ["saldırgan", "ters", "huysuz"],
+      "note": null
+    }
+  ]
+}

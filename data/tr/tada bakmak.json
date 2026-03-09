@@ -1,0 +1,21 @@
+{
+  "word": "tada bakmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to taste, to try the taste",
+  "sentences": [
+    { "id": "tada bakmak_s1", "text": "Yemeğe [tada bak] tuz yeterli mi?", "note": null },
+    { "id": "tada bakmak_s2", "text": "Aşçı tuzluluğu test etmek için [tada bakıyor].", "note": null },
+    { "id": "tada bakmak_s3", "text": "Çorbanın [tada bakması] önemli.", "note": null },
+    { "id": "tada bakmak_s4", "text": "[Tada bakma] tuz çok fazla.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tada bakmak_r1",
+      "prompt": "Yemekte tuz veya baharatı kontrol etmek için ağızda test etmek. Ne denir?",
+      "accepted_forms": ["tada bakmak", "tada bakıyor", "tada bak"],
+      "note": null
+    }
+  ]
+}

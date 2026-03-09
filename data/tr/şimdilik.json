@@ -1,0 +1,21 @@
+{
+  "word": "şimdilik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adverb",
+  "english_gloss": "for now, for the time being, temporarily",
+  "sentences": [
+    { "id": "şimdilik_s1", "text": "[Şimdilik] bana yeter.", "note": null },
+    { "id": "şimdilik_s2", "text": "[Şimdilik] burada kalacağız.", "note": null },
+    { "id": "şimdilik_s3", "text": "[Şimdilik] bu yapıyla devam edelim.", "note": null },
+    { "id": "şimdilik_s4", "text": "Bu iş [şimdilik] önemliydi.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şimdilik_r1",
+      "prompt": "Kısa vadede, geçici olarak, gelecekte değişebilir. Ne denir?",
+      "accepted_forms": ["şimdilik", "şimdiwe"],
+      "note": null
+    }
+  ]
+}

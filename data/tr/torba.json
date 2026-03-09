@@ -1,0 +1,21 @@
+{
+  "word": "torba",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "bag, pouch",
+  "sentences": [
+    { "id": "torba_s1", "text": "[Torba] taşımak ağır geliyor.", "note": null },
+    { "id": "torba_s2", "text": "Alışveriş [torbası] çok doldu.", "note": null },
+    { "id": "torba_s3", "text": "[Torbada] ne var?", "note": null },
+    { "id": "torba_s4", "text": "Ümit [torbayı] geri koydu.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "torba_r1",
+      "prompt": "Alışveriş yapıyorsun. Malları nereye koyuyorsun?",
+      "accepted_forms": ["torba", "torbaya"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "word": "süper",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "super, great, fantastic",
+  "sentences": [
+    {
+      "id": "super_s1",
+      "text": "Çok [süper]] bir gün.",
+      "note": null
+    },
+    {
+      "id": "super_s2",
+      "text": "[Süper]] bir fikir geldi.",
+      "note": null
+    },
+    {
+      "id": "super_s3",
+      "text": "[Süper]] bir oyuncu.",
+      "note": null
+    },
+    {
+      "id": "super_s4",
+      "text": "Bu film [süper]].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "super_r1",
+      "prompt": "'süper' sıfatı ne demek?",
+      "accepted_forms": [
+        "süper"
+      ],
+      "note": null
+    },
+    {
+      "id": "super_r2",
+      "prompt": "Türkçede 'süper' ne anlama gelir?",
+      "accepted_forms": [
+        "süper"
+      ],
+      "note": null
+    }
+  ]
+}

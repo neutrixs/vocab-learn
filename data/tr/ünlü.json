@@ -1,0 +1,21 @@
+{
+  "word": "ünlü",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "famous, well-known, celebrity",
+  "sentences": [
+    { "id": "unlu_s1", "text": "[Ünlü] bir oyuncunun otobiyografisini okudum.", "note": null },
+    { "id": "unlu_s2", "text": "Bu şarkıcı çok [ünlü].", "note": null },
+    { "id": "unlu_s3", "text": "[Ünlüler] her gün paparazzi tarafından takip edilir.", "note": null },
+    { "id": "unlu_s4", "text": "[Ünlü] mi değil mi, kim bilir.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "unlu_r1",
+      "prompt": "Herkes tanıyan, adı meşhur olan birisi. Bu kişi ne?",
+      "accepted_forms": ["ünlü", "meşhur"],
+      "note": null
+    }
+  ]
+}

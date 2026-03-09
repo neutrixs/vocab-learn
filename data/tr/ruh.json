@@ -1,0 +1,27 @@
+{
+  "word": "ruh",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "soul, spirit, essence",
+  "sentences": [
+    { "id": "ruh_s1", "text": "Dinin [ruhu] sevgidir.", "note": null },
+    { "id": "ruh_s2", "text": "Müzik [ruhu] ferahlandırıyor.", "note": null },
+    { "id": "ruh_s3", "text": "Sağlıklı bir [ruh] sağlıklı bir vücut yaratır.", "note": null },
+    { "id": "ruh_s4", "text": "[Ruh] vücuttan ayrılır.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ruh_r1",
+      "prompt": "İnsan vücudu ve bu vücut olmayan kısım ne denir?",
+      "accepted_forms": ["ruh", "nefes", "ruh"],
+      "note": null
+    },
+    {
+      "id": "ruh_r2",
+      "prompt": "Birinin iç dünyası ve duygusal kişiliği ne adlandırılır?",
+      "accepted_forms": ["ruh", "kalp", "vicdan"],
+      "note": null
+    }
+  ]
+}

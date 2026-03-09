@@ -1,0 +1,47 @@
+{
+  "word": "sokmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to put in, to insert, to thrust",
+  "sentences": [
+    {
+      "id": "sokmak_s1",
+      "text": "Anahtar kilide [soktum].",
+      "note": null
+    },
+    {
+      "id": "sokmak_s2",
+      "text": "Sopayı [sokmak] tehlikeli.",
+      "note": null
+    },
+    {
+      "id": "sokmak_s3",
+      "text": "Cebi apaya [sok].",
+      "note": null
+    },
+    {
+      "id": "sokmak_s4",
+      "text": "İğneyi [sokma].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sokmak_r1",
+      "prompt": "'sokmak' fiilinin anlamı nedir?",
+      "accepted_forms": [
+        "sokmak"
+      ],
+      "note": null
+    },
+    {
+      "id": "sokmak_r2",
+      "prompt": "Türkçede 'sokmak' ne demek?",
+      "accepted_forms": [
+        "sokmak"
+      ],
+      "note": null
+    }
+  ]
+}

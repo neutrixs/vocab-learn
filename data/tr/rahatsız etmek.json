@@ -1,0 +1,27 @@
+{
+  "word": "rahatsız etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to disturb, to bother",
+  "sentences": [
+    { "id": "rahatsiz_s1", "text": "[Rahatsız ettim] seni mi?", "note": "'rahatsız ettim' = did I disturb you?" },
+    { "id": "rahatsiz_s2", "text": "Yapığım [rahatsız etmesin] seni.", "note": "'rahatsız etmesin' = shouldn't disturb" },
+    { "id": "rahatsiz_s3", "text": "[Rahatsız etme] beni lütfen.", "note": "'rahatsız etme' = don't disturb" },
+    { "id": "rahatsiz_s4", "text": "[Rahatsız ettiği] için hapis cezası aldı.", "note": "'rahatsız ettiği' = that he disturbed" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "rahatsiz_r1",
+      "prompt": "Birinin huzurunu kaçırmak ne demektir?",
+      "accepted_forms": ["rahatsız etmek", "vurulmak"],
+      "note": null
+    },
+    {
+      "id": "rahatsiz_r2",
+      "prompt": "Seni ... istemiyorum.",
+      "accepted_forms": ["rahatsız etmek"],
+      "note": null
+    }
+  ]
+}

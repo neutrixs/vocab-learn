@@ -1,0 +1,50 @@
+{
+  "word": "öpmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to kiss",
+  "sentences": [
+    {
+      "id": "opmek_s1",
+      "text": "Anne çocuğunu [öpüyor].",
+      "note": "'öpüyor' = is kissing"
+    },
+    {
+      "id": "opmek_s2",
+      "text": "Gelin damatı [öptü].",
+      "note": "'öptü' = kissed"
+    },
+    {
+      "id": "opmek_s3",
+      "text": "Elinizi [öpüyorum].",
+      "note": "'öpüyorum' = I kiss (polite form)"
+    },
+    {
+      "id": "opmek_s4",
+      "text": "Seninle havada [öpmek] istiyorum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "opmek_r1",
+      "prompt": "Ağızla birini selamlamak ne demektir?",
+      "accepted_forms": [
+        "öpmek",
+        "öpüş"
+      ],
+      "note": null
+    },
+    {
+      "id": "opmek_r2",
+      "prompt": "Anne bebeğini ... .",
+      "accepted_forms": [
+        "öpüyor",
+        "öpebilir",
+        "öpüş"
+      ],
+      "note": null
+    }
+  ]
+}

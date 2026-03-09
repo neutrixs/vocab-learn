@@ -1,0 +1,21 @@
+{
+  "word": "şubat",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "February",
+  "sentences": [
+    { "id": "şubat_s1", "text": "[Şubat] kış aylarının sonudur.", "note": null },
+    { "id": "şubat_s2", "text": "[Şubat]ta sevgililer günü kutlanır.", "note": null },
+    { "id": "şubat_s3", "text": "[Şubat] 28 veya 29 gün var.", "note": "leap year" },
+    { "id": "şubat_s4", "text": "[Şubat] ayında karla birlikte bahar geliyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şubat_r1",
+      "prompt": "Yılın ikinci ayının adı. Ne denir?",
+      "accepted_forms": ["şubat", "şubatta", "şubatında"],
+      "note": null
+    }
+  ]
+}

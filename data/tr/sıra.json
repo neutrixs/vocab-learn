@@ -1,0 +1,47 @@
+{
+  "word": "sıra",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "turn, row, line, sequence",
+  "sentences": [
+    {
+      "id": "sira_s1",
+      "text": "[Sırada] beklemek zorundasın.",
+      "note": null
+    },
+    {
+      "id": "sira_s2",
+      "text": "Kapat kapıyı, [sırası] geldi.",
+      "note": null
+    },
+    {
+      "id": "sira_s3",
+      "text": "[Sıra] kimin?",
+      "note": null
+    },
+    {
+      "id": "sira_s4",
+      "text": "Masada beş [sıra] sandalye var.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sira_r1",
+      "prompt": "'sıra' kelimesi ne demek?",
+      "accepted_forms": [
+        "sıra"
+      ],
+      "note": null
+    },
+    {
+      "id": "sira_r2",
+      "prompt": "Türkçede 'sıra' ne anlama gelir?",
+      "accepted_forms": [
+        "sıra"
+      ],
+      "note": null
+    }
+  ]
+}

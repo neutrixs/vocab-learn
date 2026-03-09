@@ -1,0 +1,32 @@
+{
+  "word": "orası",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "pronoun",
+  "english_gloss": "that place, there",
+  "sentences": [
+    {
+      "id": "orası_s1",
+      "text": "[Orası] çok uzak.",
+      "note": null
+    },
+    {
+      "id": "orası_s2",
+      "text": "[Orası] güzel bir yer.",
+      "note": null
+    },
+    {
+      "id": "orası_s3",
+      "text": "[Orası] tanımıyorum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "orası_r1",
+      "prompt": "Söylenen yer hakkında. Ne zamirleri?",
+      "accepted_forms": ["orası"],
+      "note": null
+    }
+  ]
+}

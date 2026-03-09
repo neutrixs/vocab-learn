@@ -1,0 +1,21 @@
+{
+  "word": "teşekkür etmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to thank, to express gratitude",
+  "sentences": [
+    { "id": "tesekkuretmek_s1", "text": "Yardımın için [teşekkür ettim].", "note": null },
+    { "id": "tesekkuretmek_s2", "text": "[Teşekkür ederim], çok naziksiniz.", "note": null },
+    { "id": "tesekkuretmek_s3", "text": "Ona hediye için [teşekkür etmem] lazım.", "note": null },
+    { "id": "tesekkuretmek_s4", "text": "[Teşekkür etmeyi] unutmadı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tesekkuretmek_r1",
+      "prompt": "Birisi sana hediye verdi. Ondan nasıl ayrılırsın?",
+      "accepted_forms": ["teşekkür ederim", "teşekkür ettim"],
+      "note": null
+    }
+  ]
+}

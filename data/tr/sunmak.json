@@ -1,0 +1,47 @@
+{
+  "word": "sunmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to offer, to present, to serve",
+  "sentences": [
+    {
+      "id": "sunmak_s1",
+      "text": "Çay [sundu].",
+      "note": null
+    },
+    {
+      "id": "sunmak_s2",
+      "text": "[Sunacak] bir şey var mı?",
+      "note": null
+    },
+    {
+      "id": "sunmak_s3",
+      "text": "Yemeği [sunalım].",
+      "note": null
+    },
+    {
+      "id": "sunmak_s4",
+      "text": "[Sunmuş] olsa da almadı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sunmak_r1",
+      "prompt": "'sunmak' fiilinin anlamı nedir?",
+      "accepted_forms": [
+        "sunmak"
+      ],
+      "note": null
+    },
+    {
+      "id": "sunmak_r2",
+      "prompt": "Türkçede 'sunmak' ne demek?",
+      "accepted_forms": [
+        "sunmak"
+      ],
+      "note": null
+    }
+  ]
+}

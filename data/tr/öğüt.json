@@ -1,0 +1,50 @@
+{
+  "word": "öğüt",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "advice, counsel",
+  "sentences": [
+    {
+      "id": "ogut_s1",
+      "text": "Babam bana iyi [öğüt]ler verdi.",
+      "note": "'öğütler' = advices"
+    },
+    {
+      "id": "ogut_s2",
+      "text": "Onun [öğüt]ünü dinlemelisin.",
+      "note": "'öğütünü' = his advice (accusative)"
+    },
+    {
+      "id": "ogut_s3",
+      "text": "[Öğüt] almak her zaman faydalı.",
+      "note": "'öğüt almak' = to take advice"
+    },
+    {
+      "id": "ogut_s4",
+      "text": "Hocamın [öğüt]üne uydum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ogut_r1",
+      "prompt": "Yaşlı bir kişi sana rehberlik için bazı sözler söylüyor. Bunlara ne denir?",
+      "accepted_forms": [
+        "öğüt",
+        "öğütler",
+        "tavsiye"
+      ],
+      "note": null
+    },
+    {
+      "id": "ogut_r2",
+      "prompt": "'O bana çok iyi ... verdi.' cümlesini tamamla.",
+      "accepted_forms": [
+        "öğüt",
+        "öğütler"
+      ],
+      "note": null
+    }
+  ]
+}

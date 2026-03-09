@@ -1,0 +1,27 @@
+{
+  "word": "sayı",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "number, figure, count",
+  "sentences": [
+    { "id": "sayı_s1", "text": "[Sayı] on elli kişi katıldı.", "note": null },
+    { "id": "sayı_s2", "text": "Bu [sayı] büyük bir sayıdır.", "note": null },
+    { "id": "sayı_s3", "text": "[Sayılar] matematiğin temeli.", "note": null },
+    { "id": "sayı_s4", "text": "[Sayı] kaç? Altıyüz.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sayı_r1",
+      "prompt": "Miktar ölçmek için kullanılan kelime ne denir?",
+      "accepted_forms": ["sayı", "rakam", "miktar"],
+      "note": null
+    },
+    {
+      "id": "sayı_r2",
+      "prompt": "Matematik kitabında öğrenilen şey ne?",
+      "accepted_forms": ["sayı", "rakam", "denklem"],
+      "note": null
+    }
+  ]
+}

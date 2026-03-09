@@ -6,49 +6,41 @@
   "english_gloss": "to apologize",
   "sentences": [
     {
-      "id": "özür dilemek_s1",
-      "text": "Geç kaldığım için [özür diliyorum].",
-      "note": null
+      "id": "ozur_s1",
+      "text": "[Özür diledim] sana.",
+      "note": "'özür diledim' = I apologized"
     },
     {
-      "id": "özür dilemek_s2",
-      "text": "Ondan [özür dilemeliyim], haksız davrandım.",
-      "note": null
+      "id": "ozur_s2",
+      "text": "Ondan [özür dilemesi] gerekiyor.",
+      "note": "'özür dilemesi gerekiyor' = he needs to apologize"
     },
     {
-      "id": "özür dilemek_s3",
-      "text": "Samimi bir şekilde [özür diledi] ve affettim.",
-      "note": null
+      "id": "ozur_s3",
+      "text": "[Özür diliyorum] bu hata için.",
+      "note": "'özür diliyorum' = I apologize"
     },
     {
-      "id": "özür dilemek_s4",
-      "text": "[Özür dilemek] zor ama gerekli.",
-      "note": null
-    },
-    {
-      "id": "özür dilemek_s5",
-      "text": "Asla [özür dilemez], gururu yüksek.",
+      "id": "ozur_s4",
+      "text": "Affet, [özür dilemek] istiyorum.",
       "note": null
     }
   ],
   "recall_prompts": [
     {
-      "id": "özür dilemek_r1",
-      "prompt": "Birine hatalı davrandın ve pişmanlığını dile getiriyorsun. Ne diyorsun?",
+      "id": "ozur_r1",
+      "prompt": "Bir hatayı veya kusuru için özür istemek ne demektir?",
       "accepted_forms": [
-        "özür diliyorum",
-        "özür dilerim",
-        "özür dilemek istiyorum"
+        "özür dilemek",
+        "affetmek"
       ],
       "note": null
     },
     {
-      "id": "özür dilemek_r2",
-      "prompt": "Toplantıya geç kalan biri kapıdan giriyor. Ne diyor?",
+      "id": "ozur_r2",
+      "prompt": "'... istiyorum sana.' Bu cümlede eksik olan fiil ne?",
       "accepted_forms": [
-        "özür diliyorum",
-        "özür dilerim",
-        "geç kaldığım için özür"
+        "özür dilemek"
       ],
       "note": null
     }

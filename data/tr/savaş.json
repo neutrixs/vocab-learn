@@ -1,0 +1,27 @@
+{
+  "word": "savaş",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "war, conflict, battle",
+  "sentences": [
+    { "id": "savaş_s1", "text": "[Savaş] yıkımda ve acıda neden olur.", "note": null },
+    { "id": "savaş_s2", "text": "İki [savaş]ında pek çok asker öldü.", "note": null },
+    { "id": "savaş_s3", "text": "[Savaşı] bitirmeyi herkes istiyor.", "note": null },
+    { "id": "savaş_s4", "text": "Tarihte pek çok [savaş] olmuştur.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "savaş_r1",
+      "prompt": "Ülkeler arasında silah kullanılan çatışma ne denir?",
+      "accepted_forms": ["savaş", "çatışma", "anlaşmazlık"],
+      "note": null
+    },
+    {
+      "id": "savaş_r2",
+      "prompt": "Birçok asker ölmüş, çok hasar olmuş. Bu ne?",
+      "accepted_forms": ["savaş", "zırhlı çatışma", "çatışma"],
+      "note": null
+    }
+  ]
+}

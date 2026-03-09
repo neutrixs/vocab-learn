@@ -1,0 +1,32 @@
+{
+  "word": "oyun",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "game, play",
+  "sentences": [
+    {
+      "id": "oyun_s1",
+      "text": "[Oyun] oynamak eğlenceli.",
+      "note": null
+    },
+    {
+      "id": "oyun_s2",
+      "text": "[Oyun]a katıldı.",
+      "note": null
+    },
+    {
+      "id": "oyun_s3",
+      "text": "[Oyunlar] oynadık.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "oyun_r1",
+      "prompt": "Eğlenme ve vakit geçirme etkinliği. Ne denir?",
+      "accepted_forms": ["oyun", "oyunu"],
+      "note": null
+    }
+  ]
+}

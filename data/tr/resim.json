@@ -1,0 +1,27 @@
+{
+  "word": "resim",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "picture, painting, photograph",
+  "sentences": [
+    { "id": "resim_s1", "text": "Duvar üzerinde güzel bir [resim] var.", "note": null },
+    { "id": "resim_s2", "text": "[Resim] yapmak onun hobisi.", "note": null },
+    { "id": "resim_s3", "text": "[Resimler] bana sen yeri hoşlanışını hatırlatıyor.", "note": null },
+    { "id": "resim_s4", "text": "Çocuğun çizdiği [resim] çerçevele attık.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "resim_r1",
+      "prompt": "Duvarda asılı sanat eseri ne denir?",
+      "accepted_forms": ["resim", "tablo", "sanat"],
+      "note": null
+    },
+    {
+      "id": "resim_r2",
+      "prompt": "Kameran ile çektiğin görüntü ne adlandırılır?",
+      "accepted_forms": ["resim", "fotoğraf", "foto"],
+      "note": null
+    }
+  ]
+}

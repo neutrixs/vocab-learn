@@ -1,0 +1,32 @@
+{
+  "word": "ne kadar",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adverb",
+  "english_gloss": "how much, how many",
+  "sentences": [
+    {
+      "id": "ne kadar_s1",
+      "text": "[Ne kadar] para var?",
+      "note": null
+    },
+    {
+      "id": "ne kadar_s2",
+      "text": "[Ne kadar] kişi geldi?",
+      "note": null
+    },
+    {
+      "id": "ne kadar_s3",
+      "text": "[Ne kadar] istiyorsun?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ne kadar_r1",
+      "prompt": "Sayı veya miktarı sorma ifadesi. Ne denir?",
+      "accepted_forms": ["ne kadar"],
+      "note": null
+    }
+  ]
+}

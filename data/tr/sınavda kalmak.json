@@ -1,0 +1,47 @@
+{
+  "word": "sınavda kalmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to fail an exam",
+  "sentences": [
+    {
+      "id": "sinavda_kalmak_s1",
+      "text": "Matematik [sınavında] kaldı.",
+      "note": null
+    },
+    {
+      "id": "sinavda_kalmak_s2",
+      "text": "[Sınavda] kalmak istemiyor.",
+      "note": null
+    },
+    {
+      "id": "sinavda_kalmak_s3",
+      "text": "Bu [sınavda]] kalmasını istemiyorum.",
+      "note": null
+    },
+    {
+      "id": "sinavda_kalmak_s4",
+      "text": "Önceki [sınavda]] kalmıştı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sinavda_kalmak_r1",
+      "prompt": "'sınavda kalmak' fiilinin anlamı nedir?",
+      "accepted_forms": [
+        "sınavda kalmak"
+      ],
+      "note": null
+    },
+    {
+      "id": "sinavda_kalmak_r2",
+      "prompt": "Türkçede 'sınavda kalmak' ne demek?",
+      "accepted_forms": [
+        "sınavda kalmak"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "word": "sevmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to love, to like",
+  "sentences": [
+    {
+      "id": "sevmek_s1",
+      "text": "Onu çok [seviyorum].",
+      "note": null
+    },
+    {
+      "id": "sevmek_s2",
+      "text": "Mektep öğrencileri sporu [seviyor].",
+      "note": null
+    },
+    {
+      "id": "sevmek_s3",
+      "text": "Türkiye'yi çok [seviyorum].",
+      "note": null
+    },
+    {
+      "id": "sevmek_s4",
+      "text": "Müzik dinlemeyi [sevirsin].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sevmek_r1",
+      "prompt": "'sevmek' fiilinin anlamı nedir?",
+      "accepted_forms": [
+        "sevmek"
+      ],
+      "note": null
+    },
+    {
+      "id": "sevmek_r2",
+      "prompt": "Türkçede 'sevmek' ne demek?",
+      "accepted_forms": [
+        "sevmek"
+      ],
+      "note": null
+    }
+  ]
+}

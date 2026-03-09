@@ -1,0 +1,21 @@
+{
+  "word": "şoför",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "driver, chauffeur",
+  "sentences": [
+    { "id": "şoför_s1", "text": "Taksi [şoförü] hızlı sürdü.", "note": null },
+    { "id": "şoför_s2", "text": "Otobüs [şoförü] saati tutuyor.", "note": null },
+    { "id": "şoför_s3", "text": "[Şoför]ümüz uyumlu ve güvenli.", "note": null },
+    { "id": "şoför_s4", "text": "Bu [şoför] 20 yıl tecrübeyi var.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şoför_r1",
+      "prompt": "Oto veya otobüs gibi araçları kullanan ve yönetme işini yapan kişi. Ne denir?",
+      "accepted_forms": ["şoför", "şoförü", "şoförler"],
+      "note": null
+    }
+  ]
+}

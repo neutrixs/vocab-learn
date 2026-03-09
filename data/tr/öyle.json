@@ -1,0 +1,48 @@
+{
+  "word": "öyle",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adverb",
+  "english_gloss": "so, like that, that way, thus",
+  "sentences": [
+    {
+      "id": "oyle_s1",
+      "text": "[Öyle] mi? Bunu bilmiyordum.",
+      "note": "'öyle mi?' = really?"
+    },
+    {
+      "id": "oyle_s2",
+      "text": "Bunu [öyle] yapma, böyle yap.",
+      "note": "'öyle' = that way"
+    },
+    {
+      "id": "oyle_s3",
+      "text": "[Öyle] kolay değil.",
+      "note": "'öyle kolay değil' = it's not that easy"
+    },
+    {
+      "id": "oyle_s4",
+      "text": "Hayat [öyle] hızlı geçiyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "oyle_r1",
+      "prompt": "'Bu şekilde' anlamında kullanılan kelime?",
+      "accepted_forms": [
+        "öyle",
+        "böyle"
+      ],
+      "note": null
+    },
+    {
+      "id": "oyle_r2",
+      "prompt": "'[Öyle] mi?' ne demektir?",
+      "accepted_forms": [
+        "öyle"
+      ],
+      "note": "questioning tag"
+    }
+  ]
+}

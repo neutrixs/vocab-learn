@@ -1,0 +1,47 @@
+{
+  "word": "sezon",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "season",
+  "sentences": [
+    {
+      "id": "sezon_s1",
+      "text": "Turist [sezonunda] oteller dolu.",
+      "note": null
+    },
+    {
+      "id": "sezon_s2",
+      "text": "Futbol [sezonunun] başlangıcı yaklaştı.",
+      "note": null
+    },
+    {
+      "id": "sezon_s3",
+      "text": "Bu [sezon] çok sıcak olacak.",
+      "note": null
+    },
+    {
+      "id": "sezon_s4",
+      "text": "Mevsim [sezonunun] sonu ayı Ekim.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sezon_r1",
+      "prompt": "'sezon' kelimesi ne demek?",
+      "accepted_forms": [
+        "sezon"
+      ],
+      "note": null
+    },
+    {
+      "id": "sezon_r2",
+      "prompt": "Türkçede 'sezon' ne anlama gelir?",
+      "accepted_forms": [
+        "sezon"
+      ],
+      "note": null
+    }
+  ]
+}

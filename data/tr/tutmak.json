@@ -1,0 +1,21 @@
+{
+  "word": "tutmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to hold, to keep, to catch",
+  "sentences": [
+    { "id": "tutmak_s1", "text": "[Tut] elimden!", "note": null },
+    { "id": "tutmak_s2", "text": "Kalem [tutsana] yazamazsın.", "note": null },
+    { "id": "tutmak_s3", "text": "[Tuttuk] balığı göl kenarında.", "note": null },
+    { "id": "tutmak_s4", "text": "Tarafımı [tutmalısın].", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tutmak_r1",
+      "prompt": "Birinin eline istiyorsun onun yanında yürümek için. Ne yapıyor?",
+      "accepted_forms": ["tutmak", "tutuyor"],
+      "note": null
+    }
+  ]
+}

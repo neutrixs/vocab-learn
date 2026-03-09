@@ -1,0 +1,47 @@
+{
+  "word": "sezmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to sense, to perceive, to feel",
+  "sentences": [
+    {
+      "id": "sezmek_s1",
+      "text": "Tehlikeyi [sezemedik].",
+      "note": null
+    },
+    {
+      "id": "sezmek_s2",
+      "text": "Onun üzüntüsünü [sezdim].",
+      "note": null
+    },
+    {
+      "id": "sezmek_s3",
+      "text": "Yalan söylediğini [sezdi].",
+      "note": null
+    },
+    {
+      "id": "sezmek_s4",
+      "text": "Bir şey [sezmek] istedi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sezmek_r1",
+      "prompt": "'sezmek' fiilinin anlamı nedir?",
+      "accepted_forms": [
+        "sezmek"
+      ],
+      "note": null
+    },
+    {
+      "id": "sezmek_r2",
+      "prompt": "Türkçede 'sezmek' ne demek?",
+      "accepted_forms": [
+        "sezmek"
+      ],
+      "note": null
+    }
+  ]
+}

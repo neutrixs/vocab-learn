@@ -1,0 +1,32 @@
+{
+  "word": "nasıl",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adverb",
+  "english_gloss": "how, in what way",
+  "sentences": [
+    {
+      "id": "nasıl_s1",
+      "text": "[Nasıl] gidiyor?",
+      "note": null
+    },
+    {
+      "id": "nasıl_s2",
+      "text": "[Nasıl] yaptın bunu?",
+      "note": null
+    },
+    {
+      "id": "nasıl_s3",
+      "text": "[Nasıl]sa olur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "nasıl_r1",
+      "prompt": "Bir şeyin yapılış şeklini ve tarzını sorma sözcüğü. Ne denir?",
+      "accepted_forms": ["nasıl"],
+      "note": null
+    }
+  ]
+}

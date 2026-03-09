@@ -1,0 +1,21 @@
+{
+  "word": "ütülemek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to iron",
+  "sentences": [
+    { "id": "utulemek_s1", "text": "[Ütüledim] gömleği sabah.", "note": null },
+    { "id": "utulemek_s2", "text": "Elbiseyi [ütüle] ve giy.", "note": null },
+    { "id": "utulemek_s3", "text": "[Ütülenmiş] çamaşır çok güzel.", "note": null },
+    { "id": "utulemek_s4", "text": "[Ütülemek] biraz zahmetli ama gerekli.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "utulemek_r1",
+      "prompt": "Kırışık bir kurtışık gömleği düzeltmek için ne yaparsın?",
+      "accepted_forms": ["ütülemek", "ütülerim"],
+      "note": null
+    }
+  ]
+}

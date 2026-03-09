@@ -1,0 +1,32 @@
+{
+  "word": "oda",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "room",
+  "sentences": [
+    {
+      "id": "oda_s1",
+      "text": "[Oda]da bir kişi var.",
+      "note": null
+    },
+    {
+      "id": "oda_s2",
+      "text": "[Oda]yı temizledim.",
+      "note": null
+    },
+    {
+      "id": "oda_s3",
+      "text": "[Odaların] kapısı açık.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "oda_r1",
+      "prompt": "Evin veya binasının kapılı bir yeri. Ne denir?",
+      "accepted_forms": ["oda", "odaya"],
+      "note": null
+    }
+  ]
+}

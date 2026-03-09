@@ -1,0 +1,32 @@
+{
+  "word": "müşteri",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "customer, client",
+  "sentences": [
+    {
+      "id": "müşteri_s1",
+      "text": "[Müşteri]ler dükkanında bekliyor.",
+      "note": null
+    },
+    {
+      "id": "müşteri_s2",
+      "text": "[Müşteri] hizmet çok iyi.",
+      "note": null
+    },
+    {
+      "id": "müşteri_s3",
+      "text": "[Müşterilere] ürün sunuldu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "müşteri_r1",
+      "prompt": "Dükkanda veya işletmede alışveriş yapan kişi. Ne denir?",
+      "accepted_forms": ["müşteri", "müşteriye"],
+      "note": null
+    }
+  ]
+}

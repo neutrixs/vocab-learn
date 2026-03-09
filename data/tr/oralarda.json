@@ -1,0 +1,32 @@
+{
+  "word": "oralarda",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adverb",
+  "english_gloss": "around there, thereabouts",
+  "sentences": [
+    {
+      "id": "oralarda_s1",
+      "text": "[Oralarda] yaşıyorlar.",
+      "note": null
+    },
+    {
+      "id": "oralarda_s2",
+      "text": "[Oralarda] güzel şeyler var.",
+      "note": null
+    },
+    {
+      "id": "oralarda_s3",
+      "text": "[Oralarda] buldu onu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "oralarda_r1",
+      "prompt": "O yer ve çevresinde. Ne anlamında zarf?",
+      "accepted_forms": ["oralarda"],
+      "note": null
+    }
+  ]
+}

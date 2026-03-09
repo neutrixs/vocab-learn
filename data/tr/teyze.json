@@ -1,0 +1,21 @@
+{
+  "word": "teyze",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "aunt (mother's sister)",
+  "sentences": [
+    { "id": "teyze_s1", "text": "Anneannemin kızı, yani amca'nın karısı değil [teyze].", "note": null },
+    { "id": "teyze_s2", "text": "[Teyze] beni çocukken okula gidiş-gelişte yardım ederdi.", "note": null },
+    { "id": "teyze_s3", "text": "[Teyzem] dün ziyarete geldi.", "note": null },
+    { "id": "teyze_s4", "text": "[Teyzemin] çocuklarım benim kuzenlerimdir.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "teyze_r1",
+      "prompt": "Annenin kız kardeşi kimdir?",
+      "accepted_forms": ["teyze", "teyzem"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "peyzaj",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "landscape, scenery",
+  "sentences": [
+    { "id": "peyzaj_s1", "text": "Dağın [peyzaj]ı çok güzel.", "note": "'peyzajı' = landscape" },
+    { "id": "peyzaj_s2", "text": "[Peyzaj] mimarı parkı tasarladı.", "note": "'peyzaj mimarı' = landscape architect" },
+    { "id": "peyzaj_s3", "text": "[Peyzaj]ını değiştirdiler.", "note": "'peyzajını' = the landscape" },
+    { "id": "peyzaj_s4", "text": "Ressamın [peyzaj]ı harika.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "peyzaj_r1",
+      "prompt": "Doğanın gözle görünen görünümüne ne denir?",
+      "accepted_forms": ["peyzaj", "manzara"],
+      "note": null
+    },
+    {
+      "id": "peyzaj_r2",
+      "prompt": "Bu bölgenin ... çok etkileyici.",
+      "accepted_forms": ["peyzajı"],
+      "note": null
+    }
+  ]
+}

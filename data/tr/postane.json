@@ -1,0 +1,27 @@
+{
+  "word": "postane",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "post office",
+  "sentences": [
+    { "id": "postane_s1", "text": "[Postane]ye gitiyorum.", "note": "'postaneye' = to the post office" },
+    { "id": "postane_s2", "text": "[Postane]de mektupları postaladım.", "note": "'postanede' = at the post office" },
+    { "id": "postane_s3", "text": "[Postane]nin açılış saati kaç?", "note": "'postanerin' = post office's" },
+    { "id": "postane_s4", "text": "[Postane] köşeye yakın.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "postane_r1",
+      "prompt": "Mektup ve paket gönderilen resmî kurum nedir?",
+      "accepted_forms": ["postane", "posta"],
+      "note": null
+    },
+    {
+      "id": "postane_r2",
+      "prompt": "Mektupları ... gittim.",
+      "accepted_forms": ["postane"],
+      "note": null
+    }
+  ]
+}

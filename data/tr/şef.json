@@ -1,0 +1,27 @@
+{
+  "word": "şef",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "chef, head cook, boss, chief",
+  "sentences": [
+    { "id": "şef_s1", "text": "Restaurant [şefi] harika yemekler hazırladı.", "note": null },
+    { "id": "şef_s2", "text": "[Şef] mutfakta her şeyin kontrol ediyor.", "note": null },
+    { "id": "şef_s3", "text": "Orkestranın [şefi] baton salladı.", "note": null },
+    { "id": "şef_s4", "text": "İnşaat [şefi] işçileri yönetiyordu.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şef_r1",
+      "prompt": "Restoranda yemekler hazırlayan ana kişi. Ne denir?",
+      "accepted_forms": ["şef", "şefi", "şefim"],
+      "note": null
+    },
+    {
+      "id": "şef_r2",
+      "prompt": "Bir grup insanı veya işçileri yönetme sorumluluğu olan kişi. Ne denir?",
+      "accepted_forms": ["şef", "şefi"],
+      "note": null
+    }
+  ]
+}

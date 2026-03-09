@@ -1,0 +1,32 @@
+{
+  "word": "numara",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "number, size",
+  "sentences": [
+    {
+      "id": "numara_s1",
+      "text": "Ayakkabı [numara]sı kaç?",
+      "note": null
+    },
+    {
+      "id": "numara_s2",
+      "text": "Telefon [numara]sı nedir?",
+      "note": null
+    },
+    {
+      "id": "numara_s3",
+      "text": "[Numarasını] yazıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "numara_r1",
+      "prompt": "Rakamla ifade edilen sayı ve ölçü. Ne denir?",
+      "accepted_forms": ["numara", "numarası"],
+      "note": null
+    }
+  ]
+}

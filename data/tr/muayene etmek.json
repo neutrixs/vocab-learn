@@ -1,0 +1,32 @@
+{
+  "word": "muayene etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to examine, to check up",
+  "sentences": [
+    {
+      "id": "muayene etmek_s1",
+      "text": "Doktor beni [muayene etti].",
+      "note": null
+    },
+    {
+      "id": "muayene etmek_s2",
+      "text": "Gözlerimi [muayene ettirmelisiniz].",
+      "note": null
+    },
+    {
+      "id": "muayene etmek_s3",
+      "text": "[Muayene edecek] mi seni?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "muayene etmek_r1",
+      "prompt": "Doktor hastalığı kontrol etmek için ne yapar?",
+      "accepted_forms": ["muayene eder", "muayene etti", "muayene etmek"],
+      "note": null
+    }
+  ]
+}

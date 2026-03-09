@@ -1,0 +1,27 @@
+{
+  "word": "renkli",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "colorful, colored",
+  "sentences": [
+    { "id": "renkli_s1", "text": "Bu çiçekler çok [renkli].", "note": null },
+    { "id": "renkli_s2", "text": "[Renkli] bir yaşam istiyorum.", "note": null },
+    { "id": "renkli_s3", "text": "Çocuk [renkli] kalemlerle resim çiziyor.", "note": null },
+    { "id": "renkli_s4", "text": "Pazarda [renkli] seramikler satılıyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "renkli_r1",
+      "prompt": "Gözün kapalı iken çiçekleri tanımla. Onlar neydiler?",
+      "accepted_forms": ["renkli", "çok renkli", "harika"],
+      "note": null
+    },
+    {
+      "id": "renkli_r2",
+      "prompt": "Bir ressam çok değişik renkler kullandı. Eseri nasıl baştan sona betimlersinin?",
+      "accepted_forms": ["renkli", "çok renkli"],
+      "note": null
+    }
+  ]
+}

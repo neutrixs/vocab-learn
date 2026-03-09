@@ -1,0 +1,21 @@
+{
+  "word": "tartışmacı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "debater, argumentative person, disputant",
+  "sentences": [
+    { "id": "tartışmacı_s1", "text": "Bu [tartışmacı] çok iyi konuşuyor.", "note": null },
+    { "id": "tartışmacı_s2", "text": "[Tartışmacı]lar müzakere yaptı.", "note": null },
+    { "id": "tartışmacı_s3", "text": "Profesör belli [tartışmacı].", "note": null },
+    { "id": "tartışmacı_s4", "text": "Avam dersleri [tartışmacı] vardır.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tartışmacı_r1",
+      "prompt": "Konular hakkında tartışmayı seven, argüman sunmayı beğenen kişi. Ne denir?",
+      "accepted_forms": ["tartışmacı", "tartışmacılar"],
+      "note": null
+    }
+  ]
+}

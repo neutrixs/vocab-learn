@@ -1,0 +1,21 @@
+{
+  "word": "üç",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "three",
+  "sentences": [
+    { "id": "uc_s1", "text": "[Üç] elma aldım marketten.", "note": null },
+    { "id": "uc_s2", "text": "İyi çocuğu [üç] tane var.", "note": null },
+    { "id": "uc_s3", "text": "Saat [üçü] geçti mi?", "note": null },
+    { "id": "uc_s4", "text": "[Üçten] daha fazlası lazım.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "uc_r1",
+      "prompt": "İki artı bir kaçtır?",
+      "accepted_forms": ["üç", "3"],
+      "note": null
+    }
+  ]
+}

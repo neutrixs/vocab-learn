@@ -1,0 +1,21 @@
+{
+  "word": "taraf",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "side, direction, part, party, direction",
+  "sentences": [
+    { "id": "taraf_s1", "text": "Nehrin [taraf]ında çiçek var.", "note": null },
+    { "id": "taraf_s2", "text": "Kimin [taraf]ında duruyorsun?", "note": null },
+    { "id": "taraf_s3", "text": "Doğu [taraf]ında dağ var.", "note": null },
+    { "id": "taraf_s4", "text": "Her [taraf]tan hazır kalınacak.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "taraf_r1",
+      "prompt": "Bir şeyin bir yönü veya kenarı, yanı. Ne denir?",
+      "accepted_forms": ["taraf", "tarafı", "tarafında"],
+      "note": null
+    }
+  ]
+}

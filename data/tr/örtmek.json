@@ -1,0 +1,48 @@
+{
+  "word": "örtmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to cover, to conceal",
+  "sentences": [
+    {
+      "id": "ortmek_s1",
+      "text": "Pakireti brandayla [örtün].",
+      "note": "'örtün' = cover (imperative)"
+    },
+    {
+      "id": "ortmek_s2",
+      "text": "Gizli [örtülü] kaldı.",
+      "note": "'örtülü' = covered (passive)"
+    },
+    {
+      "id": "ortmek_s3",
+      "text": "Yağmurdan [örtünüyoruz].",
+      "note": "'örtünüyoruz' = we are covering ourselves"
+    },
+    {
+      "id": "ortmek_s4",
+      "text": "Gerçeği [örtmemeliyiz].",
+      "note": "'örtmemeliyiz' = we shouldn't conceal"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ortmek_r1",
+      "prompt": "Bir şeyin üzerine bez veya benzeri bir şey koymak ne demektir?",
+      "accepted_forms": [
+        "örtmek",
+        "kaplamak"
+      ],
+      "note": null
+    },
+    {
+      "id": "ortmek_r2",
+      "prompt": "Pazarlığını ... istiyorum.",
+      "accepted_forms": [
+        "örtmek"
+      ],
+      "note": null
+    }
+  ]
+}

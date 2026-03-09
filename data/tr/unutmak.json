@@ -1,55 +1,20 @@
 {
   "word": "unutmak",
   "lang": "tr",
-  "difficulty": 2,
+  "difficulty": 1,
   "part_of_speech": "verb",
   "english_gloss": "to forget",
   "sentences": [
-    {
-      "id": "unutmak_s1",
-      "text": "Parolamı [unuttum], ne yapacağım?",
-      "note": null
-    },
-    {
-      "id": "unutmak_s2",
-      "text": "Önemli bir şeyi [unutma], söz veriyorum.",
-      "note": "Olumsuz emir"
-    },
-    {
-      "id": "unutmak_s3",
-      "text": "O acı günleri [unutmak] istiyorum.",
-      "note": null
-    },
-    {
-      "id": "unutmak_s4",
-      "text": "Şemsiyeni ofiste [unutmuşsun].",
-      "note": "Dolaylı geçmiş"
-    },
-    {
-      "id": "unutmak_s5",
-      "text": "Ne kadar uğraşsam da bu melodiyi [unutamıyorum].",
-      "note": null
-    }
+    { "id": "unutmak_s1", "text": "Parolamı [unuttum], ne yapacağım?", "note": null },
+    { "id": "unutmak_s2", "text": "Önemli bir şeyi [unutma], söz veriyorum.", "note": "Olumsuz emir" },
+    { "id": "unutmak_s3", "text": "O acı günleri [unutmak] istiyorum.", "note": null },
+    { "id": "unutmak_s4", "text": "Şemsiyeni ofiste [unutmuşsun].", "note": "Dolaylı geçmiş" }
   ],
   "recall_prompts": [
     {
       "id": "unutmak_r1",
       "prompt": "Birine randevuya gelememesinin sebebini soruyorsun. 'Randevuyu mu ___?' diyorsun.",
-      "accepted_forms": [
-        "unuttun",
-        "unuttunuz",
-        "unuttu"
-      ],
-      "note": null
-    },
-    {
-      "id": "unutmak_r2",
-      "prompt": "Arkadaşına çok önemli bir şeyi hatırlatmak istiyorsun. '...bunu sakın ___!' diyorsun.",
-      "accepted_forms": [
-        "unutma",
-        "unutmayın",
-        "unutmayasın"
-      ],
+      "accepted_forms": ["unuttun", "unuttunuz", "unuttu"],
       "note": null
     }
   ]

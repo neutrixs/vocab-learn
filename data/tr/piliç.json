@@ -1,0 +1,27 @@
+{
+  "word": "piliç",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "chicken",
+  "sentences": [
+    { "id": "pilic_s1", "text": "[Piliç] eti çok lezzetli.", "note": "'piliç eti' = chicken meat" },
+    { "id": "pilic_s2", "text": "Kapıda yeni [piliç]ler satılıyor.", "note": "'pilçler' = chickens" },
+    { "id": "pilic_s3", "text": "[Piliç] çorbası yapıyor.", "note": "'piliç çorbası' = chicken soup" },
+    { "id": "pilic_s4", "text": "[Piliç]i fırında kızarttı.", "note": "'piliçi' = the chicken" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "pilic_r1",
+      "prompt": "Hayvan eti pişirmek için kullanılan beyaz etli hayvan nedir?",
+      "accepted_forms": ["piliç", "tavuk"],
+      "note": null
+    },
+    {
+      "id": "pilic_r2",
+      "prompt": "Dün akşam ... yedik, çok lezzetliydi.",
+      "accepted_forms": ["piliç"],
+      "note": null
+    }
+  ]
+}

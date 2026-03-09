@@ -1,0 +1,27 @@
+{
+  "word": "saç kestirmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to get a haircut, to have one's hair cut",
+  "sentences": [
+    { "id": "saç_kestirmek_s1", "text": "Berberide [saç kestirdi].", "note": null },
+    { "id": "saç_kestirmek_s2", "text": "[Saç kestirtmek] gerekiyor.", "note": null },
+    { "id": "saç_kestirmek_s3", "text": "[Saç kestirme] işlemi bir saat sürdü.", "note": null },
+    { "id": "saç_kestirmek_s4", "text": "Saçın çok uzadı, [saç kestirmelisin].", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "saç_kestirmek_r1",
+      "prompt": "Berberide işçiye saçını kısaltma işini yaptırmak ne demek?",
+      "accepted_forms": ["saç kestirmek", "tıraş olmak", "berberide kestirmek"],
+      "note": null
+    },
+    {
+      "id": "saç_kestirmek_r2",
+      "prompt": "Haftada bir berberide [... ... ettim].",
+      "accepted_forms": ["saç kestirmek", "saç kestirttim", "tıraş"],
+      "note": null
+    }
+  ]
+}

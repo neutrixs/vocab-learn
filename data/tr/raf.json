@@ -1,0 +1,27 @@
+{
+  "word": "raf",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "shelf",
+  "sentences": [
+    { "id": "raf_s1", "text": "[Raf]a kitapları koydum.", "note": "'rafa' = to the shelf" },
+    { "id": "raf_s2", "text": "[Raf]tan bardağı aldı.", "note": "'raftan' = from the shelf" },
+    { "id": "raf_s3", "text": "[Raf]ın üstünde kutu var.", "note": "'rafın' = shelf's" },
+    { "id": "raf_s4", "text": "[Raf]ta ne var?", "note": "'rafta' = on the shelf" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "raf_r1",
+      "prompt": "Duvar veya dolaplarda şeyler koymak için yapılan çıkıntı nedir?",
+      "accepted_forms": ["raf", "rafa"],
+      "note": null
+    },
+    {
+      "id": "raf_r2",
+      "prompt": "Kitapları ... koydu.",
+      "accepted_forms": ["raf"],
+      "note": null
+    }
+  ]
+}

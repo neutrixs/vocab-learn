@@ -1,0 +1,21 @@
+{
+  "word": "uzak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "far, distant",
+  "sentences": [
+    { "id": "uzak_s1", "text": "Okul ev'den [uzak].", "note": null },
+    { "id": "uzak_s2", "text": "[Uzak] ülkelere gitmek istiyorum.", "note": null },
+    { "id": "uzak_s3", "text": "[Uzakta] oturan arkadaş gelecek.", "note": null },
+    { "id": "uzak_s4", "text": "Biz çok [uzak] değiliz.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "uzak_r1",
+      "prompt": "Şehrinden çok mesafe var. 'Burası çok ...' dersin.",
+      "accepted_forms": ["uzak", "uzakta"],
+      "note": null
+    }
+  ]
+}

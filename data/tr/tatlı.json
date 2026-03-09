@@ -1,0 +1,21 @@
+{
+  "word": "tatlı",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "sweet, candy, dessert",
+  "sentences": [
+    { "id": "tatlı_s1", "text": "[Tatlı] yemekler seviyorum.", "note": null },
+    { "id": "tatlı_s2", "text": "Muz çok [tatlı] meyvedir.", "note": null },
+    { "id": "tatlı_s3", "text": "Bulaşık sonrası [tatlı] yiyelim.", "note": null },
+    { "id": "tatlı_s4", "text": "Çay [tatlı] bir şekilde yapıyorum.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tatlı_r1",
+      "prompt": "Şeker gibi tat veren, tatlı lezzette. Ne denir?",
+      "accepted_forms": ["tatlı", "tatlılı"],
+      "note": null
+    }
+  ]
+}

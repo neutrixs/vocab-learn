@@ -1,0 +1,32 @@
+{
+  "word": "öğle",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "noon, midday",
+  "sentences": [
+    {
+      "id": "öğle_s1",
+      "text": "[Öğle]de yemek yiyorum.",
+      "note": null
+    },
+    {
+      "id": "öğle_s2",
+      "text": "[Öğle] arası başladı.",
+      "note": null
+    },
+    {
+      "id": "öğle_s3",
+      "text": "[Öğle]ye kadar bekle.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "öğle_r1",
+      "prompt": "Günün ortası, saat 12 dolayları. Ne denir?",
+      "accepted_forms": ["öğle"],
+      "note": null
+    }
+  ]
+}

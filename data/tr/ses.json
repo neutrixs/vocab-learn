@@ -1,0 +1,27 @@
+{
+  "word": "ses",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "sound, voice, noise",
+  "sentences": [
+    { "id": "ses_s1", "text": "[Ses] çok yüksek.", "note": null },
+    { "id": "ses_s2", "text": "[Sesini] duyuyor musun?", "note": null },
+    { "id": "ses_s3", "text": "[Ses] iyileştirme cihazı var.", "note": null },
+    { "id": "ses_s4", "text": "[Sesler] yapı harabesi doldurmuş.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ses_r1",
+      "prompt": "Kulaklarımızla duyduğumuz şey ne denir?",
+      "accepted_forms": ["ses", "gürültü", "müzik"],
+      "note": null
+    },
+    {
+      "id": "ses_r2",
+      "prompt": "Şarkıcı sahneye çıktı ve [ses]ini duyunca seyirciler alkış tuttular.",
+      "accepted_forms": ["ses", "sesini", "müzik"],
+      "note": null
+    }
+  ]
+}

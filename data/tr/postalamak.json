@@ -1,0 +1,27 @@
+{
+  "word": "postalamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to mail, to send by post",
+  "sentences": [
+    { "id": "postala_s1", "text": "Mektupları [postaladım].", "note": "'postaladım' = I mailed" },
+    { "id": "postala_s2", "text": "[Postalamayacak] mı yarın?", "note": "'postalamayacak' = won't mail" },
+    { "id": "postala_s3", "text": "[Postalamak] istiyorum bu paketi.", "note": "'postalamak' = to mail" },
+    { "id": "postala_s4", "text": "Kargo [postalandı] dün.", "note": "'postalandı' = was mailed" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "postala_r1",
+      "prompt": "Bir şeyi posta vasıtasıyla göndermek ne demektir?",
+      "accepted_forms": ["postalamak", "göndermek"],
+      "note": null
+    },
+    {
+      "id": "postala_r2",
+      "prompt": "Mektupları bugün ... ister misin?",
+      "accepted_forms": ["postalamak"],
+      "note": null
+    }
+  ]
+}

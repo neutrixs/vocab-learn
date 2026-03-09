@@ -1,0 +1,27 @@
+{
+  "word": "selam",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "greeting, hello, salutation",
+  "sentences": [
+    { "id": "selam_s1", "text": "[Selam] veriyorum sana.", "note": null },
+    { "id": "selam_s2", "text": "[Selam], nasılsın?", "note": null },
+    { "id": "selam_s3", "text": "[Seleymi] anla ve cevap ver.", "note": null },
+    { "id": "selam_s4", "text": "[Selama] karşılık selam vermek güzel.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "selam_r1",
+      "prompt": "Birine ilk karşılaştığında söylenen söz ne denir?",
+      "accepted_forms": ["selam", "merhaba", "hoş geldin"],
+      "note": null
+    },
+    {
+      "id": "selam_r2",
+      "prompt": "Arkadaşını gördüğünde ona ne dersin?",
+      "accepted_forms": ["selam", "merhaba", "selam ver"],
+      "note": null
+    }
+  ]
+}

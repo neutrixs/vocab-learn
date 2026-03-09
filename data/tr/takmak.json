@@ -1,0 +1,21 @@
+{
+  "word": "takmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to put on, to install, to attach, to equip",
+  "sentences": [
+    { "id": "takmak_s1", "text": "Gözlük [takma] unuttum.", "note": null },
+    { "id": "takmak_s2", "text": "Duş [takması] memleketim varsa sen yapacak?", "note": null },
+    { "id": "takmak_s3", "text": "Saat [takmıştım] bileğine.", "note": null },
+    { "id": "takmak_s4", "text": "Müzik cihazı [tak] odaya.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "takmak_r1",
+      "prompt": "Bir şeyi başka bir şeye bağlamak, giyinmek, kurmak. Ne denir?",
+      "accepted_forms": ["takmak", "takıyor", "taktı"],
+      "note": null
+    }
+  ]
+}

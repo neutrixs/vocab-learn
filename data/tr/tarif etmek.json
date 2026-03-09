@@ -1,0 +1,21 @@
+{
+  "word": "tarif etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to describe, to define, to explain",
+  "sentences": [
+    { "id": "tarif etmek_s1", "text": "Kız arkadaşını [tarif ettim].", "note": null },
+    { "id": "tarif etmek_s2", "text": "[Tarif etmek] zor, çok güzel.", "note": null },
+    { "id": "tarif etmek_s3", "text": "Doktor hastalığını [tarif ediyor].", "note": null },
+    { "id": "tarif etmek_s4", "text": "Rüyayı nasıl [tarif edebilirim]?", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tarif etmek_r1",
+      "prompt": "Birini veya bir şeyi açıklamak, nasıl olduğunu anlatmak. Ne denir?",
+      "accepted_forms": ["tarif etmek", "tarif ettim", "tarif ediyor"],
+      "note": null
+    }
+  ]
+}

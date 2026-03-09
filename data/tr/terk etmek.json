@@ -1,0 +1,21 @@
+{
+  "word": "terk etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to leave, to abandon, to quit",
+  "sentences": [
+    { "id": "terketmek_s1", "text": "Okulu [terk etti] ve iş aramaya başladı.", "note": null },
+    { "id": "terketmek_s2", "text": "Ailesi [terk edeceğine] çok üzüldü.", "note": null },
+    { "id": "terketmek_s3", "text": "Hiç [terk etmemeliysin] ümidini.", "note": null },
+    { "id": "terketmek_s4", "text": "İş [terk etmesine] rağmen kararında ısrar etti.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "terketmek_r1",
+      "prompt": "Birisi yaşlı ebeveynlerini bir yere gitmek için yalnız bıraktı. 'Ebeveyni ... çok üzücü.' dersin.",
+      "accepted_forms": ["terk etmek", "terk etti"],
+      "note": null
+    }
+  ]
+}

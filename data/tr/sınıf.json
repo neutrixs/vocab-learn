@@ -1,0 +1,47 @@
+{
+  "word": "sınıf",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "class, classroom, grade",
+  "sentences": [
+    {
+      "id": "sinif_s1",
+      "text": "[Sınıfta] sakin olmak gerek.",
+      "note": null
+    },
+    {
+      "id": "sinif_s2",
+      "text": "İki [sınıf] birleştirildi.",
+      "note": null
+    },
+    {
+      "id": "sinif_s3",
+      "text": "[Sınıf] öğretmeni berbere gitti.",
+      "note": null
+    },
+    {
+      "id": "sinif_s4",
+      "text": "Beşinci [sınıfı] okuyorum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sinif_r1",
+      "prompt": "'sınıf' kelimesi ne demek?",
+      "accepted_forms": [
+        "sınıf"
+      ],
+      "note": null
+    },
+    {
+      "id": "sinif_r2",
+      "prompt": "Türkçede 'sınıf' ne anlama gelir?",
+      "accepted_forms": [
+        "sınıf"
+      ],
+      "note": null
+    }
+  ]
+}

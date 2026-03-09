@@ -1,54 +1,46 @@
 {
   "word": "proje",
   "lang": "tr",
-  "difficulty": 2,
+  "difficulty": 1,
   "part_of_speech": "noun",
   "english_gloss": "project",
   "sentences": [
     {
       "id": "proje_s1",
-      "text": "Bu [projeyi] üç ay içinde tamamlamamız gerekiyor.",
-      "note": null
+      "text": "[Proje]yi tamamladık.",
+      "note": "'projeyi' = the project (accusative)"
     },
     {
       "id": "proje_s2",
-      "text": "Okul [projesi] için araştırma yapıyorum.",
-      "note": null
+      "text": "[Proje] başında yeni insanlar.",
+      "note": "'proje başında' = heading the project"
     },
     {
       "id": "proje_s3",
-      "text": "[Proje] ekibi haftada bir toplanıyor.",
+      "text": "Bu ay yeni [proje] başlayacak.",
       "note": null
     },
     {
       "id": "proje_s4",
-      "text": "Bu [projenin] bütçesi çok sınırlı.",
-      "note": null
-    },
-    {
-      "id": "proje_s5",
-      "text": "Yeni bir [projeye] başlamak heyecan verici.",
-      "note": null
+      "text": "[Proje]nin planı güzel.",
+      "note": "'projenin' = project's"
     }
   ],
   "recall_prompts": [
     {
       "id": "proje_r1",
-      "prompt": "Belirli bir amaca ulaşmak için yürütülen planlı ve kapsamlı çalışmaya ne denir?",
+      "prompt": "Yapılması planlanmış bir iş veya hizmet nedir?",
       "accepted_forms": [
         "proje",
-        "projedir",
-        "projem"
+        "projekt"
       ],
       "note": null
     },
     {
       "id": "proje_r2",
-      "prompt": "Ekibinle birlikte üzerinde çalıştığın büyük bir işten bahsediyorsun. 'Bu ___ bitmek üzere.'",
+      "prompt": "Yeni ... başlıyor gelecek hafta.",
       "accepted_forms": [
-        "proje",
-        "projeyi",
-        "projemiz"
+        "proje"
       ],
       "note": null
     }

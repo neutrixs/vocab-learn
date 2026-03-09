@@ -1,0 +1,21 @@
+{
+  "word": "temmuz",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "July",
+  "sentences": [
+    { "id": "temmuz_s1", "text": "[Temmuz] ayında çok sıcak oluyor.", "note": null },
+    { "id": "temmuz_s2", "text": "[Temmuzda] tatile gitmek planlaşıyorum.", "note": null },
+    { "id": "temmuz_s3", "text": "[Temmuzun] 15'inde başlar.", "note": null },
+    { "id": "temmuz_s4", "text": "Yazın en sıcak ayı [temmuz] ve ağustostur.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "temmuz_r1",
+      "prompt": "Doğum gününü konuşuyorsun. 'Ben ... ayında doğdum.' dersin.",
+      "accepted_forms": ["temmuzda", "temmuzun", "temmuz"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "ruj",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "lipstick",
+  "sentences": [
+    { "id": "ruj_s1", "text": "Kızı yeni bir [ruj] aldı.", "note": null },
+    { "id": "ruj_s2", "text": "[Ruj] rengi çok güzel.", "note": null },
+    { "id": "ruj_s3", "text": "Çanta içinde [ruj] ve ayna var.", "note": null },
+    { "id": "ruj_s4", "text": "[Ruj] bir kozmetik ürünüdür.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ruj_r1",
+      "prompt": "Kadınların dudaklarına sürülen kırmızı veya pembe şey ne denir?",
+      "accepted_forms": ["ruj", "dudak boyası", "lipstick"],
+      "note": null
+    },
+    {
+      "id": "ruj_r2",
+      "prompt": "Makyajda kullanılan bir ürün hangisidir?",
+      "accepted_forms": ["ruj", "yüz boyası", "göz farı"],
+      "note": null
+    }
+  ]
+}

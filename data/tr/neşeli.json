@@ -1,0 +1,32 @@
+{
+  "word": "neşeli",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "cheerful, joyful, gay",
+  "sentences": [
+    {
+      "id": "neşeli_s1",
+      "text": "[Neşeli] bir çocuk.",
+      "note": null
+    },
+    {
+      "id": "neşeli_s2",
+      "text": "Çok [neşeli] görünüyor.",
+      "note": null
+    },
+    {
+      "id": "neşeli_s3",
+      "text": "[Neşeli] hissediyorum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "neşeli_r1",
+      "prompt": "Sevinçli ve canlı mizaç. Hangi sıfat?",
+      "accepted_forms": ["neşeli"],
+      "note": null
+    }
+  ]
+}

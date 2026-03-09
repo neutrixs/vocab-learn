@@ -1,0 +1,21 @@
+{
+  "word": "Türk",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "Turk",
+  "sentences": [
+    { "id": "turk_s1", "text": "[Türk] milleti tarihin eski uygarlıklarından biri.", "note": null },
+    { "id": "turk_s2", "text": "Bu [Türk] vatandaşı mı?", "note": null },
+    { "id": "turk_s3", "text": "[Türkler] çok misafirperverdir.", "note": null },
+    { "id": "turk_s4", "text": "[Türk] bayrağı kırmızı ve beyaz.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "turk_r1",
+      "prompt": "Türkiye'de doğan veya Türkiye vatandaşı olan bir kişi kimdir?",
+      "accepted_forms": ["Türk", "turk"],
+      "note": null
+    }
+  ]
+}

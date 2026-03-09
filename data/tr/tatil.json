@@ -1,0 +1,21 @@
+{
+  "word": "tatil",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "holiday, vacation, break",
+  "sentences": [
+    { "id": "tatil_s1", "text": "Yaz [tatili]ne gidiyorum.", "note": null },
+    { "id": "tatil_s2", "text": "[Tatil]de neler yapacaksın?", "note": null },
+    { "id": "tatil_s3", "text": "Okul [tatil]ine girdi.", "note": null },
+    { "id": "tatil_s4", "text": "[Tatil] zamanı gelmedi henüz.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tatil_r1",
+      "prompt": "İş veya okuldan haftalarcaya izin almak, rahatlama zamanı. Ne denir?",
+      "accepted_forms": ["tatil", "tatili", "tatilde"],
+      "note": null
+    }
+  ]
+}
