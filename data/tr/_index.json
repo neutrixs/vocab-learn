@@ -1596,7 +1596,7 @@
       "word": "rastgele",
       "file": "rastgele.json",
       "difficulty": 2,
-      "part_of_speech": "adjective/adverb",
+      "part_of_speech": "adverb",
       "tags": []
     },
     {
@@ -1631,7 +1631,7 @@
       "word": "sorumlu",
       "file": "sorumlu.json",
       "difficulty": 2,
-      "part_of_speech": "adjective/noun",
+      "part_of_speech": "adjective",
       "tags": []
     },
     {
@@ -1645,7 +1645,7 @@
       "word": "su kanalı",
       "file": "su kanalı.json",
       "difficulty": 3,
-      "part_of_speech": "noun phrase",
+      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -1694,7 +1694,7 @@
       "word": "yapay zeka",
       "file": "yapay zeka.json",
       "difficulty": 2,
-      "part_of_speech": "noun phrase",
+      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -1722,7 +1722,7 @@
       "word": "yenilikçi",
       "file": "yenilikçi.json",
       "difficulty": 2,
-      "part_of_speech": "adjective/noun",
+      "part_of_speech": "adjective",
       "tags": []
     },
     {
@@ -1785,7 +1785,7 @@
       "word": "cesaret etmek",
       "file": "cesaret etmek.json",
       "difficulty": 2,
-      "part_of_speech": "verb phrase",
+      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -1806,7 +1806,7 @@
       "word": "ilgi çekmek",
       "file": "ilgi çekmek.json",
       "difficulty": 2,
-      "part_of_speech": "verb phrase",
+      "part_of_speech": "verb",
       "tags": []
     },
     {
