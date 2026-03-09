@@ -1,0 +1,41 @@
+{
+  "word": "gene",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adverb",
+  "english_gloss": "again, still, yet",
+  "sentences": [
+    {
+      "id": "gene_s1",
+      "text": "[Gene] başarısız oldu.",
+      "note": null
+    },
+    {
+      "id": "gene_s2",
+      "text": "[Gene] de aynı sebeple.",
+      "note": null
+    },
+    {
+      "id": "gene_s3",
+      "text": "[Gene] mi geleceğiz?",
+      "note": null
+    },
+    {
+      "id": "gene_s4",
+      "text": "[Gene] ben hata yaptım.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gene_r1",
+      "prompt": "Bir kez daha, yeniden demek anlamında kullanılan sözcük nedir?",
+      "accepted_forms": [
+        "gene",
+        "yine",
+        "tekrar"
+      ],
+      "note": null
+    }
+  ]
+}

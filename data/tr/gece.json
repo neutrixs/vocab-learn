@@ -1,0 +1,41 @@
+{
+  "word": "gece",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "night",
+  "sentences": [
+    {
+      "id": "gece_s1",
+      "text": "Dün [gece] çok geç yattım.",
+      "note": null
+    },
+    {
+      "id": "gece_s2",
+      "text": "[Gece] uyuyorum, gündüz çalışıyorum.",
+      "note": null
+    },
+    {
+      "id": "gece_s3",
+      "text": "[Gece]nin karanlığında yürüyüş yaptık.",
+      "note": null
+    },
+    {
+      "id": "gece_s4",
+      "text": "[Gece]de yıldızları görebilirsin.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gece_r1",
+      "prompt": "Güneş battıktan sonra başlayan ve sabaha kadar süren zaman dilimi ne denir?",
+      "accepted_forms": [
+        "gece",
+        "gecesi",
+        "gececiyin"
+      ],
+      "note": null
+    }
+  ]
+}

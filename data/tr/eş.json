@@ -1,0 +1,27 @@
+{
+  "word": "eş",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "spouse, partner, equal",
+  "sentences": [
+    { "id": "es_s1", "text": "[Eşi] doktor, o mühendis.", "note": "'his/her spouse' is a doctor" },
+    { "id": "es_s2", "text": "[Eşini] çok seviyor.", "note": "he loves his spouse very much" },
+    { "id": "es_s3", "text": "[Eşinden] ayrıldı geçen yıl.", "note": "'eşinden' = from her/his spouse (ablative)" },
+    { "id": "es_s4", "text": "Yeni [eş] buldu mutlu oldum.", "note": "he found a new partner, I'm happy" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "es_r1",
+      "prompt": "Evlenmiş kişinin kocası veya karısı. Ne denir?",
+      "accepted_forms": ["eş"],
+      "note": null
+    },
+    {
+      "id": "es_r2",
+      "prompt": "Karısı [eş]dir, eşi de vardır.",
+      "accepted_forms": ["eş"],
+      "note": null
+    }
+  ]
+}

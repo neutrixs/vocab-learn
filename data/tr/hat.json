@@ -1,0 +1,27 @@
+{
+  "word": "hat",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "line, route, service",
+  "sentences": [
+    { "id": "hat_s1", "text": "Otobüs [hat]]ı değişti.", "note": "'hatı' = line/route (accusative)" },
+    { "id": "hat_s2", "text": "[Hattan]] inecek mi?", "note": "'hattan' = from the line (ablative)" },
+    { "id": "hat_s3", "text": "Yeni [hat]] başlattı şirketi.", "note": "new route" },
+    { "id": "hat_s4", "text": "[Hatlara]] göre ücret değişiyor.", "note": "'hatlara' = to the lines (dative)" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hat_r1",
+      "prompt": "Otobüs veya minibüsün belirli güzergahı: ...",
+      "accepted_forms": ["hat"],
+      "note": null
+    },
+    {
+      "id": "hat_r2",
+      "prompt": "Bu otobüs hangi [...] ta çalışıyor?",
+      "accepted_forms": ["hat"],
+      "note": null
+    }
+  ]
+}

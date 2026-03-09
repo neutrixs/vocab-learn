@@ -1,0 +1,41 @@
+{
+  "word": "geçmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to pass, to go by, to elapse",
+  "sentences": [
+    {
+      "id": "gecmek_s1",
+      "text": "Zaman hızlı [geç]iyor.",
+      "note": null
+    },
+    {
+      "id": "gecmek_s2",
+      "text": "[Geç] ötesine gidelim.",
+      "note": null
+    },
+    {
+      "id": "gecmek_s3",
+      "text": "Nehir üzerinden [geç]mel gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "gecmek_s4",
+      "text": "Birkaç gün [geç]ti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gecmek_r1",
+      "prompt": "Bir yerden ötesine gitmek veya zamanın ilerlemesi anlamında kullanılan fiil nedir?",
+      "accepted_forms": [
+        "geçmek",
+        "geçiyor",
+        "geçti"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "görünmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to appear, to seem, to look like",
+  "sentences": [
+    {
+      "id": "gorunmek_s1",
+      "text": "Mutsuz [görünüyor].",
+      "note": null
+    },
+    {
+      "id": "gorunmek_s2",
+      "text": "[Görün]müş olabilir.",
+      "note": null
+    },
+    {
+      "id": "gorunmek_s3",
+      "text": "Genç [görün]üyor.",
+      "note": null
+    },
+    {
+      "id": "gorunmek_s4",
+      "text": "Korkmuş [görün]mek istemiyorum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gorunmek_r1",
+      "prompt": "Dışarıdan belirmek, görünüşe gelmek demek için hangi fiil kullanılır?",
+      "accepted_forms": [
+        "görünmek",
+        "görünüyor",
+        "görün"
+      ],
+      "note": null
+    }
+  ]
+}

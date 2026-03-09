@@ -1,0 +1,27 @@
+{
+  "word": "kırmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to break",
+  "sentences": [
+    { "id": "kirmak_s1", "text": "Bardak [kırdım].", "note": null },
+    { "id": "kirmak_s2", "text": "Kural [kıramazsın].", "note": "you can't break the rule" },
+    { "id": "kirmak_s3", "text": "[Kırıldı] camı.", "note": null },
+    { "id": "kirmak_s4", "text": "Pencereyi [kıracak] taş.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kirmak_r1",
+      "prompt": "Bardağa taş vursun ve parçalanırsa ne olur?",
+      "accepted_forms": ["kırılır", "kırılı", "kırılmış"],
+      "note": null
+    },
+    {
+      "id": "kirmak_r2",
+      "prompt": "Kural ya da taahhütü yerine getirmemek. 'Sözü ...'",
+      "accepted_forms": ["kırdı", "kırmak"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "ev hanımı",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "housewife, homemaker",
+  "sentences": [
+    { "id": "evhanimi_s1", "text": "[Ev hanımı] olmayı seçti.", "note": null },
+    { "id": "evhanimi_s2", "text": "Annem [ev hanımıydı] çocukluğumda.", "note": "'ev hanımıydı' = was a housewife" },
+    { "id": "evhanimi_s3", "text": "[Ev hanımları] evi temiz tutarlar.", "note": "housewives keep the house clean" },
+    { "id": "evhanimi_s4", "text": "[Ev hanımı] olarak çok meşgul.", "note": "as a housewife, very busy" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "evhanimi_r1",
+      "prompt": "Evi yönetme işini yapan kadın. Ne denir?",
+      "accepted_forms": ["ev hanımı"],
+      "note": null
+    },
+    {
+      "id": "evhanimi_r2",
+      "prompt": "[Ev hanımı] aşçılık, temizlik, çamaşır yapar.",
+      "accepted_forms": ["ev hanımı"],
+      "note": null
+    }
+  ]
+}

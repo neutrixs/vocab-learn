@@ -1,0 +1,27 @@
+{
+  "word": "hem ... hem ...",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "conjunction",
+  "english_gloss": "both ... and ..., neither... nor...",
+  "sentences": [
+    { "id": "hemhem_s1", "text": "[Hem]] kitap [hem]] defter aldım.", "note": "both book and notebook" },
+    { "id": "hemhem_s2", "text": "[Hem]] çalışmalı [hem]] dinlenmeliyim.", "note": "both work and rest" },
+    { "id": "hemhem_s3", "text": "[Hem]] eğlenmiş [hem]] öğrenmiş olduk.", "note": "both entertained and learned" },
+    { "id": "hemhem_s4", "text": "[Hem]] bugün [hem]] yarın gelebilir.", "note": "either today or tomorrow" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hemhem_r1",
+      "prompt": "İki şeyi aynı anda belirtmek için: '[...] hep [...] düşünerek gettim.'",
+      "accepted_forms": ["hem", "hem"],
+      "note": null
+    },
+    {
+      "id": "hemhem_r2",
+      "prompt": "[...]] çalış [...]] dinlen.",
+      "accepted_forms": ["hem", "hem"],
+      "note": null
+    }
+  ]
+}

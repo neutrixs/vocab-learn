@@ -1,0 +1,41 @@
+{
+  "word": "futbol",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "football, soccer",
+  "sentences": [
+    {
+      "id": "futbol_s1",
+      "text": "[Futbol] oyunasını çok seviyorum.",
+      "note": null
+    },
+    {
+      "id": "futbol_s2",
+      "text": "Dün akşam [futbol] maçı vardı.",
+      "note": null
+    },
+    {
+      "id": "futbol_s3",
+      "text": "[Futbol] oyuncuları beden eğitimi yaptı.",
+      "note": null
+    },
+    {
+      "id": "futbol_s4",
+      "text": "Stadyumda [futbol] oynanıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "futbol_r1",
+      "prompt": "Bir topla oynanıp iki kapıya gol attığımız spor oyununa ne denir?",
+      "accepted_forms": [
+        "futbol",
+        "futbolu",
+        "futbolcu"
+      ],
+      "note": null
+    }
+  ]
+}

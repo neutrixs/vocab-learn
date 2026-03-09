@@ -1,0 +1,27 @@
+{
+  "word": "havuç",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "carrot",
+  "sentences": [
+    { "id": "havuc_s1", "text": "[Havuç]] sağlık için çok iyi.", "note": null },
+    { "id": "havuc_s2", "text": "[Havuçları]] rendele dedim.", "note": "'havuçları' = the carrots (plural accusative)" },
+    { "id": "havuc_s3", "text": "Turşuya [havuç]] koyduk.", "note": null },
+    { "id": "havuc_s4", "text": "[Havuçtan]] vitamin alıyoruz.", "note": "'havuçtan' = from carrot (ablative)" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "havuc_r1",
+      "prompt": "Turuncu renkli kök sebzesi: ...",
+      "accepted_forms": ["havuç"],
+      "note": null
+    },
+    {
+      "id": "havuc_r2",
+      "prompt": "Tavşanlar [...] çok sevir.",
+      "accepted_forms": ["havuç"],
+      "note": null
+    }
+  ]
+}

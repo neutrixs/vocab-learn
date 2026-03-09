@@ -1,0 +1,27 @@
+{
+  "word": "milli piyango",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "national lottery",
+  "sentences": [
+    { "id": "milli_piyango_s1", "text": "[Milli piyango] biletine katıldı.", "note": null },
+    { "id": "milli_piyango_s2", "text": "[Milli piyangodan] kazandı.", "note": null },
+    { "id": "milli_piyango_s3", "text": "[Milli piyangoyu] kontrol ettim.", "note": null },
+    { "id": "milli_piyango_s4", "text": "[Milli piyango] çekilişi bu hafta.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "milli_piyango_r1",
+      "prompt": "Hükümet tarafından düzenlenen şans oyunu. Türkçesi?",
+      "accepted_forms": ["milli piyango"],
+      "note": null
+    },
+    {
+      "id": "milli_piyango_r2",
+      "prompt": "Ülke genelinde yapılan çekiliş. '[...] ye katılmak istiyorum.'",
+      "accepted_forms": ["milli piyango"],
+      "note": null
+    }
+  ]
+}

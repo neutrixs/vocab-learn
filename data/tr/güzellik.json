@@ -1,0 +1,27 @@
+{
+  "word": "güzellik",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "beauty",
+  "sentences": [
+    { "id": "guzellik_s1", "text": "Onun [güzelliği]] göz kamaştırıyor.", "note": "'güzelliği' = her beauty (possessive)" },
+    { "id": "guzellik_s2", "text": "[Güzellik]] sadece dış değildir.", "note": null },
+    { "id": "guzellik_s3", "text": "[Güzellikleri]] şehrin.", "note": "'güzellikleri' = beauties/attractions of the city" },
+    { "id": "guzellik_s4", "text": "[Güzellik]] maskesi uyguladı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "guzellik_r1",
+      "prompt": "Birinin veya bir şeyin güzel olma durumu: ...",
+      "accepted_forms": ["güzellik"],
+      "note": null
+    },
+    {
+      "id": "guzellik_r2",
+      "prompt": "Onun [...] herkesi çekiyor.",
+      "accepted_forms": ["güzelliği"],
+      "note": null
+    }
+  ]
+}

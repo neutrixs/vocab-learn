@@ -1,0 +1,37 @@
+{
+  "word": "kasım",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "November",
+  "sentences": [
+    {
+      "id": "kasım_s1",
+      "text": "[Kasım]'da havanın soğu başlar.",
+      "note": null
+    },
+    {
+      "id": "kasım_s2",
+      "text": "[Kasımdan] sonra kış vurabilir.",
+      "note": null
+    },
+    {
+      "id": "kasım_s3",
+      "text": "[Kasım] ayında yapraklar sarılaşır.",
+      "note": null
+    },
+    {
+      "id": "kasım_s4",
+      "text": "[Kasım] 30 gün var bu ay.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kasım_r1",
+      "prompt": "Yılın on birinci ayı nedir?",
+      "accepted_forms": ["kasım", "Kasım", "kasım ayı"],
+      "note": null
+    }
+  ]
+}

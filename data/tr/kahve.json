@@ -1,0 +1,37 @@
+{
+  "word": "kahve",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "coffee",
+  "sentences": [
+    {
+      "id": "kahve_s1",
+      "text": "Sabah bir fincan [kahve] içiyorum.",
+      "note": null
+    },
+    {
+      "id": "kahve_s2",
+      "text": "[Kahve] sıcak olmalı, soğuk değil.",
+      "note": null
+    },
+    {
+      "id": "kahve_s3",
+      "text": "Türk [kahvesi] çok güzel.",
+      "note": null
+    },
+    {
+      "id": "kahve_s4",
+      "text": "[Kahveyi] şeker ile mi yoksa şekersiz mi içersin?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kahve_r1",
+      "prompt": "Sabah içilmesine sevilen, siyah renkli bir sıcak içecek nedir?",
+      "accepted_forms": ["kahve", "kahvesi", "kahveler"],
+      "note": null
+    }
+  ]
+}

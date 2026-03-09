@@ -1,0 +1,27 @@
+{
+  "word": "memur",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "official, civil servant, officer",
+  "sentences": [
+    { "id": "memur_s1", "text": "O banka [memurudur].", "note": null },
+    { "id": "memur_s2", "text": "[Memurun] maaşı arttı.", "note": null },
+    { "id": "memur_s3", "text": "Devlet [memurlari] kamu hizmeti yapar.", "note": null },
+    { "id": "memur_s4", "text": "[Memurluk] için sınav girir.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "memur_r1",
+      "prompt": "Resmi kurumda çalışan kişi. Muhasebe bölümünde çalışan ... dır.",
+      "accepted_forms": ["memur", "memuru"],
+      "note": null
+    },
+    {
+      "id": "memur_r2",
+      "prompt": "Devlet daireleinde hizmet ettiği kişi. 'Polis bir ... dür.'",
+      "accepted_forms": ["memur"],
+      "note": null
+    }
+  ]
+}

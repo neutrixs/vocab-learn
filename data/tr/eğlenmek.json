@@ -1,0 +1,27 @@
+{
+  "word": "eğlenmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to have fun, to enjoy, to amuse",
+  "sentences": [
+    { "id": "eglenmek_s1", "text": "Partide çok [eğlendim].", "note": null },
+    { "id": "eglenmek_s2", "text": "Çocuklar parkta [eğleniyorlar].", "note": null },
+    { "id": "eglenmek_s3", "text": "Sizinle [eğlenmek] çok güzel.", "note": null },
+    { "id": "eglenmek_s4", "text": "[Eğlen] biraz, stresini at.", "note": "imperative: have some fun" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "eglenmek_r1",
+      "prompt": "Hoşça vaktini geçirmek. Ne yapmışsın?",
+      "accepted_forms": ["eğlendim", "eğlenmek", "eğleniyorum"],
+      "note": null
+    },
+    {
+      "id": "eglenmek_r2",
+      "prompt": "Konsertte çok [eğlendim].",
+      "accepted_forms": ["eğlendim", "eğlenmek"],
+      "note": null
+    }
+  ]
+}

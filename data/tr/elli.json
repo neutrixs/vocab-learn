@@ -1,0 +1,27 @@
+{
+  "word": "elli",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "fifty",
+  "sentences": [
+    { "id": "elli_s1", "text": "Bu saatin fiyatı [elli] lira.", "note": null },
+    { "id": "elli_s2", "text": "[Ellisinden] fazla yaşı var.", "note": "'ellisinden' = over fifty" },
+    { "id": "elli_s3", "text": "[Elli] kişi katıldı konferensta.", "note": null },
+    { "id": "elli_s4", "text": "Arkadaş [elli] yaşında oldu.", "note": "turned fifty" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "elli_r1",
+      "prompt": "5 ve 10'un çarpımı. Ne sayı?",
+      "accepted_forms": ["elli"],
+      "note": null
+    },
+    {
+      "id": "elli_r2",
+      "prompt": "Yaş [elli] oldu geçen yıl.",
+      "accepted_forms": ["elli"],
+      "note": null
+    }
+  ]
+}

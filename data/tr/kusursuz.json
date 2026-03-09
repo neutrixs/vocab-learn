@@ -1,0 +1,27 @@
+{
+  "word": "kusursuz",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "flawless, perfect, faultless",
+  "sentences": [
+    { "id": "kusursuz_s1", "text": "[Kusursuz] bir insan yok.", "note": null },
+    { "id": "kusursuz_s2", "text": "Sınavı [kusursuz] geçti.", "note": null },
+    { "id": "kusursuz_s3", "text": "[Kusursuzu] olmaz hiçbir şeyin.", "note": null },
+    { "id": "kusursuz_s4", "text": "Hizmet [kusursuz].", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kusursuz_r1",
+      "prompt": "Hiç hata olmayan, mükemmel. O insan ... dür.",
+      "accepted_forms": ["kusursuz", "fakat"],
+      "note": null
+    },
+    {
+      "id": "kusursuz_r2",
+      "prompt": "Eksik yok, tam. 'Sınavı ... yapmış.'",
+      "accepted_forms": ["kusursuz"],
+      "note": null
+    }
+  ]
+}

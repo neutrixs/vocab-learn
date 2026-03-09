@@ -1,0 +1,27 @@
+{
+  "word": "kibar",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "polite, well-mannered, courteous",
+  "sentences": [
+    { "id": "kibar_s1", "text": "[Kibar] bir erkeğin davranışı.", "note": null },
+    { "id": "kibar_s2", "text": "[Kibar] olmak gerekir.", "note": null },
+    { "id": "kibar_s3", "text": "[Kıbarlık] göstermeliyiz.", "note": null },
+    { "id": "kibar_s4", "text": "Çok [kibar] bir hanım.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kibar_r1",
+      "prompt": "Davranışı ve sözü zarif, ince. O ... bir kişi.",
+      "accepted_forms": ["kibar", "kibarlı"],
+      "note": null
+    },
+    {
+      "id": "kibar_r2",
+      "prompt": "Kütür ve çizgi kurallarına uyun. '... davranmalısın.'",
+      "accepted_forms": ["kibar", "kıbarlı"],
+      "note": null
+    }
+  ]
+}

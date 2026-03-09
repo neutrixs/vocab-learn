@@ -1,0 +1,37 @@
+{
+  "word": "karın",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "belly, abdomen, stomach",
+  "sentences": [
+    {
+      "id": "karın_s1",
+      "text": "[Karınım] ağrıyor, bir doktor çağır.",
+      "note": null
+    },
+    {
+      "id": "karın_s2",
+      "text": "[Karını] tutarak ağlaya başladı.",
+      "note": null
+    },
+    {
+      "id": "karın_s3",
+      "text": "Gözüm kadar [karını] seviyorum.",
+      "note": null
+    },
+    {
+      "id": "karın_s4",
+      "text": "[Karında] duygu yoğun hissettik.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "karın_r1",
+      "prompt": "Vücudun göbek altında bulunan bölüm nedir?",
+      "accepted_forms": ["karın", "karınım", "karını"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "word": "kart",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "card, poster",
+  "sentences": [
+    {
+      "id": "kart_s1",
+      "text": "Oyun [kartı]yla oynuyoruz akşam.",
+      "note": null
+    },
+    {
+      "id": "kart_s2",
+      "text": "[Kartını] masa üzerine koy lütfen.",
+      "note": null
+    },
+    {
+      "id": "kart_s3",
+      "text": "[Kart] işinde kimse yok burada.",
+      "note": null
+    },
+    {
+      "id": "kart_s4",
+      "text": "Kredi [kartı]yla öde.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kart_r1",
+      "prompt": "Oyun veya ödeme için kullanılan kağıt veya plastik parça nedir?",
+      "accepted_forms": ["kart", "kartı", "kartlar"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "haziran",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "June",
+  "sentences": [
+    { "id": "haziran_s1", "text": "[Haziran]]da tatil yapacağız.", "note": "'haziranda' = in June (locative)" },
+    { "id": "haziran_s2", "text": "[Haziraının]] başında hava güzel.", "note": "'haziraının' = June's (genitive)" },
+    { "id": "haziran_s3", "text": "[Hazirandan]] sonra yazı yazacağım.", "note": "'hazirandan' = from June (ablative)" },
+    { "id": "haziran_s4", "text": "Her [haziran]]da denize gideriz.", "note": "every June" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "haziran_r1",
+      "prompt": "Yılın altıncı ayı: ...",
+      "accepted_forms": ["haziran"],
+      "note": null
+    },
+    {
+      "id": "haziran_r2",
+      "prompt": "[...] da yaz başlıyor.",
+      "accepted_forms": ["haziran"],
+      "note": null
+    }
+  ]
+}

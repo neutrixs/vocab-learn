@@ -1,0 +1,27 @@
+{
+  "word": "kesinlikle",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adverb",
+  "english_gloss": "certainly, definitely, absolutely",
+  "sentences": [
+    { "id": "kesinlikle_s1", "text": "[Kesinlikle] doğru.", "note": null },
+    { "id": "kesinlikle_s2", "text": "[Kesinlikle] gelecek misin?", "note": null },
+    { "id": "kesinlikle_s3", "text": "[Kesinlikle] başaracağız.", "note": null },
+    { "id": "kesinlikle_s4", "text": "Hayır, [kesinlikle] hayır.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kesinlikle_r1",
+      "prompt": "Hiç şüphe yoktur. '... doğru.' diyorsun.",
+      "accepted_forms": ["kesinlikle", "mutlaka", "elbette"],
+      "note": null
+    },
+    {
+      "id": "kesinlikle_r2",
+      "prompt": "Katı bir onay vermek. '... geleceğim.'",
+      "accepted_forms": ["kesinlikle", "mutlaka", "elbette"],
+      "note": null
+    }
+  ]
+}

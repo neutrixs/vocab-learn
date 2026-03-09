@@ -1,0 +1,27 @@
+{
+  "word": "merkez",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "center, middle, headquarters",
+  "sentences": [
+    { "id": "merkez_s1", "text": "Şehrin [merkezinde] oturuyor.", "note": null },
+    { "id": "merkez_s2", "text": "[Merkez] caddesi kalabalık.", "note": null },
+    { "id": "merkez_s3", "text": "Şirkete [merkezin] konumu önemli.", "note": null },
+    { "id": "merkez_s4", "text": "[Merkezden] uzak köy.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "merkez_r1",
+      "prompt": "Ortadaki bölge, midpoint. Şehrin ... inde var.",
+      "accepted_forms": ["merkez", "merkezinde"],
+      "note": null
+    },
+    {
+      "id": "merkez_r2",
+      "prompt": "Yönetim ve kontrol yapısı. 'Şirket ... İstanbul'da.'",
+      "accepted_forms": ["merkez"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "falan",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adverb",
+  "english_gloss": "so-and-so, such, what have you, etcetera",
+  "sentences": [
+    { "id": "falan_s1", "text": "Ahmet [falan], Mehmet [falan] geldi.", "note": "Ahmet so-and-so, Mehmet what-have-you came" },
+    { "id": "falan_s2", "text": "Dedim ki kitap al [falan] al, o da dinlemedi.", "note": "I told him to buy a book or whatever, he didn't listen" },
+    { "id": "falan_s3", "text": "[Falan] istersen yapabiliriz.", "note": "if you want such-and-such we can do it" },
+    { "id": "falan_s4", "text": "Çocuğu yazılı metin [falan] yazmak gerekir.", "note": "the child needs to write written texts etc." }
+  ],
+  "recall_prompts": [
+    {
+      "id": "falan_r1",
+      "prompt": "Isim tahrifi veya belirsizlik anlatmak. Ne söylersin?",
+      "accepted_forms": ["falan"],
+      "note": null
+    },
+    {
+      "id": "falan_r2",
+      "prompt": "Ahmet [falan] Fatma [falan] geldi.",
+      "accepted_forms": ["falan"],
+      "note": null
+    }
+  ]
+}

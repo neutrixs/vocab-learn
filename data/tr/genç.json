@@ -1,0 +1,41 @@
+{
+  "word": "genç",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "young",
+  "sentences": [
+    {
+      "id": "genc_s1",
+      "text": "[Genç] bir adam geldi.",
+      "note": null
+    },
+    {
+      "id": "genc_s2",
+      "text": "Annesi hâlâ [genç] görünüyor.",
+      "note": null
+    },
+    {
+      "id": "genc_s3",
+      "text": "[Genç]ler spor oynamayı seviyorlar.",
+      "note": null
+    },
+    {
+      "id": "genc_s4",
+      "text": "[Genç] yaşında başladı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "genc_r1",
+      "prompt": "Yaş olarak az olan, ilerlememiş olan ne denir?",
+      "accepted_forms": [
+        "genç",
+        "genç",
+        "gençler"
+      ],
+      "note": null
+    }
+  ]
+}

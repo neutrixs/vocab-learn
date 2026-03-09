@@ -1,0 +1,37 @@
+{
+  "word": "kaprisli",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "capricious, whimsical, temperamental",
+  "sentences": [
+    {
+      "id": "kaprisli_s1",
+      "text": "[Kaprisli] bir sanatçı kolay çalışmaz.",
+      "note": null
+    },
+    {
+      "id": "kaprisli_s2",
+      "text": "[Kaprisli] hava bugün gelişmez yok.",
+      "note": null
+    },
+    {
+      "id": "kaprisli_s3",
+      "text": "O kadın [kaprisli] bir tip, hiç anlaşılamaz.",
+      "note": null
+    },
+    {
+      "id": "kaprisli_s4",
+      "text": "[Kaprisli] davranışları herkesi rahatsız ediyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kaprisli_r1",
+      "prompt": "Havası değişken ve ne istediği belli olmayan birini nasıl tanımlarsın?",
+      "accepted_forms": ["kaprisli", "kaprisli biri"],
+      "note": null
+    }
+  ]
+}

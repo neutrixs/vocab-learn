@@ -1,0 +1,27 @@
+{
+  "word": "mendil",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "handkerchief, tissue, scarf",
+  "sentences": [
+    { "id": "mendil_s1", "text": "[Mendil] cebinde var.", "note": null },
+    { "id": "mendil_s2", "text": "Burun [mendiline] çek.", "note": null },
+    { "id": "mendil_s3", "text": "[Mendilini] verdi oğlana.", "note": null },
+    { "id": "mendil_s4", "text": "Kuru [mendil] aldı dişlerini sildi.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "mendil_r1",
+      "prompt": "Burnu temizlemek için kullanılan kumaş parça. Türkçesi?",
+      "accepted_forms": ["mendil", "mendilin"],
+      "note": null
+    },
+    {
+      "id": "mendil_r2",
+      "prompt": "Cebinde taşınan bez. 'Ağladığında ... kullandı.'",
+      "accepted_forms": ["mendil"],
+      "note": null
+    }
+  ]
+}

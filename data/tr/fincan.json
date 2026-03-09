@@ -1,0 +1,41 @@
+{
+  "word": "fincan",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "cup",
+  "sentences": [
+    {
+      "id": "fincan_s1",
+      "text": "Kahveyi [fincan]a koydu.",
+      "note": null
+    },
+    {
+      "id": "fincan_s2",
+      "text": "Bir bardak su veya bir [fincan] çay ister misin?",
+      "note": null
+    },
+    {
+      "id": "fincan_s3",
+      "text": "[Fincan]lar masada duruyor.",
+      "note": null
+    },
+    {
+      "id": "fincan_s4",
+      "text": "Çay [fincan]ından sıcak buharlar çıkıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "fincan_r1",
+      "prompt": "Çay, kahve gibi sıcak içecekleri içmek için kullandığımız kap ne denir?",
+      "accepted_forms": [
+        "fincan",
+        "fincanlar",
+        "fincana"
+      ],
+      "note": null
+    }
+  ]
+}

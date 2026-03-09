@@ -1,0 +1,41 @@
+{
+  "word": "giyinmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to dress, to get dressed",
+  "sentences": [
+    {
+      "id": "giyinmek_s1",
+      "text": "[Giyin] çabuk gidelim.",
+      "note": null
+    },
+    {
+      "id": "giyinmek_s2",
+      "text": "Sabah [giyin]mesi çok zaman alıyor.",
+      "note": null
+    },
+    {
+      "id": "giyinmek_s3",
+      "text": "Formal olarak [giyin]miş.",
+      "note": null
+    },
+    {
+      "id": "giyinmek_s4",
+      "text": "[Giyin]meden çıkma.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "giyinmek_r1",
+      "prompt": "Başına giysi koymak, elbise giymek demek için hangi fiil kullanılır?",
+      "accepted_forms": [
+        "giyinmek",
+        "giyin",
+        "giyindi"
+      ],
+      "note": null
+    }
+  ]
+}

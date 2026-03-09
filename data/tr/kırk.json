@@ -1,0 +1,27 @@
+{
+  "word": "kırk",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "forty",
+  "sentences": [
+    { "id": "kirk_s1", "text": "Yaşı [kırk] altı.", "note": null },
+    { "id": "kirk_s2", "text": "[Kırk] gün sonra yağmur yağacak.", "note": null },
+    { "id": "kirk_s3", "text": "[Kırk] saatlik grev var.", "note": null },
+    { "id": "kirk_s4", "text": "Fiyat [kırk] lira.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kirk_r1",
+      "prompt": "30 ile 50 arasında olan sayı. Ne sayı?",
+      "accepted_forms": ["kırk", "40"],
+      "note": null
+    },
+    {
+      "id": "kirk_r2",
+      "prompt": "Yaş sorusu: 'Babam ... yaşında.'",
+      "accepted_forms": ["kırk", "40"],
+      "note": null
+    }
+  ]
+}

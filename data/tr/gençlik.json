@@ -1,0 +1,41 @@
+{
+  "word": "gençlik",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "youth, youthfulness",
+  "sentences": [
+    {
+      "id": "genclik_s1",
+      "text": "[Gençlik]te çok enerjik idim.",
+      "note": null
+    },
+    {
+      "id": "genclik_s2",
+      "text": "[Gençlik] senesi geçip gitti.",
+      "note": null
+    },
+    {
+      "id": "genclik_s3",
+      "text": "Ülkenin [gençlik]i ülkenin geleceği.",
+      "note": null
+    },
+    {
+      "id": "genclik_s4",
+      "text": "[Gençlik]in ateşi yanarak yanıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "genclik_r1",
+      "prompt": "Genç olma durumu veya yaşlılığa karşıt olan dönem ne denir?",
+      "accepted_forms": [
+        "gençlik",
+        "gençliği",
+        "gençliğinde"
+      ],
+      "note": null
+    }
+  ]
+}

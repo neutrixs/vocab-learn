@@ -1,0 +1,32 @@
+{
+  "word": "kahretsin",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "interjection",
+  "english_gloss": "damn it, blast it (expression of frustration)",
+  "sentences": [
+    {
+      "id": "kahretsin_s1",
+      "text": "[Kahretsin], anahtarı unuttum!",
+      "note": null
+    },
+    {
+      "id": "kahretsin_s2",
+      "text": "[Kahretsin], bu işi beceremiyorum.",
+      "note": null
+    },
+    {
+      "id": "kahretsin_s3",
+      "text": "[Kahretsin], uçağı kaçırdı!",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kahretsin_r1",
+      "prompt": "Hayal kırıklığı veya öfke ifade etirken ne diye bağırırsın?",
+      "accepted_forms": ["kahretsin", "kahretsin", "kahretsinler"],
+      "note": null
+    }
+  ]
+}

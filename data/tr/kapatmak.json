@@ -1,0 +1,37 @@
+{
+  "word": "kapatmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to close, to shut, to cover, to wrap up",
+  "sentences": [
+    {
+      "id": "kapatmak_s1",
+      "text": "Kapıyı [kapatman] lazım çıkarken.",
+      "note": null
+    },
+    {
+      "id": "kapatmak_s2",
+      "text": "[Kapatması] gerekiyor siteyi yanlış yönetimden.",
+      "note": null
+    },
+    {
+      "id": "kapatmak_s3",
+      "text": "Çatıyı [kapatmak] işçiye verilecek.",
+      "note": null
+    },
+    {
+      "id": "kapatmak_s4",
+      "text": "Gözlerini [kapatıp] uyku tutu onu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kapatmak_r1",
+      "prompt": "İşlemek için uygun duruma sokmak veya bitirmek anlamında ne dersin?",
+      "accepted_forms": ["kapatmak", "kapadı", "kapatmalı"],
+      "note": null
+    }
+  ]
+}

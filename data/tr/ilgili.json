@@ -1,0 +1,37 @@
+{
+  "word": "ilgili",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "related, concerned, relevant",
+  "sentences": [
+    {
+      "id": "ilgili_s1",
+      "text": "Bu konu sizle [ilgili] değil.",
+      "note": null
+    },
+    {
+      "id": "ilgili_s2",
+      "text": "Tüm [ilgili] belgeler hazırlandı.",
+      "note": null
+    },
+    {
+      "id": "ilgili_s3",
+      "text": "[İlgili] kişiye danışmalısınız.",
+      "note": null
+    },
+    {
+      "id": "ilgili_s4",
+      "text": "[İlgili] departman bu konuda sorumludur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ilgili_r1",
+      "prompt": "Belgeler içinde sadece sizle alakalı olanları göster. Diğer belgeler ... midir?",
+      "accepted_forms": ["ilgili değil", "ilgili değiller"],
+      "note": null
+    }
+  ]
+}

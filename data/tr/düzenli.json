@@ -1,0 +1,27 @@
+{
+  "word": "düzenli",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "regular, orderly, arranged",
+  "sentences": [
+    { "id": "duzenli_s1", "text": "[Düzenli] egzersiz sağlık sağlar.", "note": null },
+    { "id": "duzenli_s2", "text": "Odası çok [düzenli] ve temiz.", "note": null },
+    { "id": "duzenli_s3", "text": "[Düzenli] olarak doktora gitmek önemli.", "note": null },
+    { "id": "duzenli_s4", "text": "[Düzenli] yaşam sürüyorum.", "note": "I live an orderly life" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "duzenli_r1",
+      "prompt": "Belli düzende, sürekli. Ne denir?",
+      "accepted_forms": ["düzenli"],
+      "note": null
+    },
+    {
+      "id": "duzenli_r2",
+      "prompt": "[Düzenli] beslenme çok önemli.",
+      "accepted_forms": ["düzenli"],
+      "note": null
+    }
+  ]
+}

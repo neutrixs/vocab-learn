@@ -1,0 +1,27 @@
+{
+  "word": "eyvah",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "interjection",
+  "english_gloss": "oh no, alas, woe",
+  "sentences": [
+    { "id": "eyvah_s1", "text": "[Eyvah], kaybettim anahtarımı.", "note": "oh no, I lost my keys" },
+    { "id": "eyvah_s2", "text": "[Eyvah] bak yapacak işim ne.", "note": "alas, what will I do" },
+    { "id": "eyvah_s3", "text": "[Eyvah], yağmur yağdı!", "note": "oh no, it rained!" },
+    { "id": "eyvah_s4", "text": "[Eyvah], çok geç kaldık.", "note": "alas, we're very late" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "eyvah_r1",
+      "prompt": "Kötü haber duyunca bunu söylersin. Ne dersin?",
+      "accepted_forms": ["eyvah"],
+      "note": null
+    },
+    {
+      "id": "eyvah_r2",
+      "prompt": "[Eyvah], ne oldu böyle!",
+      "accepted_forms": ["eyvah"],
+      "note": null
+    }
+  ]
+}

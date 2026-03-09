@@ -1,0 +1,27 @@
+{
+  "word": "evvelki",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "previous, earlier, former",
+  "sentences": [
+    { "id": "evvelki_s1", "text": "[Evvelki] hafta olay oldu.", "note": "it happened the week before" },
+    { "id": "evvelki_s2", "text": "[Evvelki] ayda bu kampanya vardı.", "note": "we had this campaign the previous month" },
+    { "id": "evvelki_s3", "text": "[Evvelki] gün geldi misafir.", "note": "the guest came the day before" },
+    { "id": "evvelki_s4", "text": "[Evvelki] başkan daha başarılı idi.", "note": "the previous president was more successful" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "evvelki_r1",
+      "prompt": "Daha önceki, geçmiş. Ne denir?",
+      "accepted_forms": ["evvelki"],
+      "note": null
+    },
+    {
+      "id": "evvelki_r2",
+      "prompt": "[Evvelki] yılda daha iyi gidiyordu.",
+      "accepted_forms": ["evvelki"],
+      "note": null
+    }
+  ]
+}

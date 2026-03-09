@@ -1,0 +1,27 @@
+{
+  "word": "kısmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to limit, to restrict, to reduce",
+  "sentences": [
+    { "id": "kismak_s1", "text": "Gaz [kıstı] arabada.", "note": "reduce/shut off the gas" },
+    { "id": "kismak_s2", "text": "Elektrik [kısılamaz].", "note": "can't be cut" },
+    { "id": "kismak_s3", "text": "[Kısılmış] ışık güzel.", "note": "dimmed light" },
+    { "id": "kismak_s4", "text": "Zararı [kısmak] lazım.", "note": "need to limit damage" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kismak_r1",
+      "prompt": "Işığın miktarını azaltma. 'Lambayı ...'",
+      "accepted_forms": ["kıs", "kıslı", "kısılmış"],
+      "note": null
+    },
+    {
+      "id": "kismak_r2",
+      "prompt": "İhtiyaç açısından sınırlandırma. 'Su tüketimini ... malıyız.'",
+      "accepted_forms": ["kısmalı", "kısmalıyız"],
+      "note": null
+    }
+  ]
+}

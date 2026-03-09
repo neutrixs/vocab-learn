@@ -1,0 +1,37 @@
+{
+  "word": "kar yağmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to snow, to fall (as snow)",
+  "sentences": [
+    {
+      "id": "kar_yağmak_s1",
+      "text": "Dün gece [kar yağdı] ve şehir ağarıdı.",
+      "note": null
+    },
+    {
+      "id": "kar_yağmak_s2",
+      "text": "Hava [kar yağacak] ihtimali yüksek.",
+      "note": null
+    },
+    {
+      "id": "kar_yağmak_s3",
+      "text": "[Kar yağarken] dışarı çıkmamız zordur.",
+      "note": null
+    },
+    {
+      "id": "kar_yağmak_s4",
+      "text": "Anlaşılan [kar yağmaya] başlayacak.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kar_yağmak_r1",
+      "prompt": "Gökyüzünden kar düşmek anlamında ne dersin?",
+      "accepted_forms": ["kar yağmak", "kar yağdı", "kar yağıyor"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "fabrika",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "factory, plant",
+  "sentences": [
+    { "id": "fabrika_s1", "text": "O şehirde büyük [fabrika] var.", "note": null },
+    { "id": "fabrika_s2", "text": "[Fabrikada] çalışıyor.", "note": "'fabrikada' = at the factory (locative)" },
+    { "id": "fabrika_s3", "text": "[Fabrikaya] git, iş ara.", "note": "go to the factory, look for work" },
+    { "id": "fabrika_s4", "text": "[Fabrika] kapıları açılmış.", "note": "the factory gates are open" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "fabrika_r1",
+      "prompt": "Ürün yapılan geniş bina. Ne denir?",
+      "accepted_forms": ["fabrika"],
+      "note": null
+    },
+    {
+      "id": "fabrika_r2",
+      "prompt": "[Fabrika] işçileri grevde.",
+      "accepted_forms": ["fabrika"],
+      "note": null
+    }
+  ]
+}

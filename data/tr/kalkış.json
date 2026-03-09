@@ -1,0 +1,37 @@
+{
+  "word": "kalkış",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "departure, takeoff, uprising",
+  "sentences": [
+    {
+      "id": "kalkış_s1",
+      "text": "Uçağın [kalkışı] Saat 15 de olacak.",
+      "note": null
+    },
+    {
+      "id": "kalkış_s2",
+      "text": "[Kalkış] saatı yaklaşıyor, hazırlanmalısınız.",
+      "note": null
+    },
+    {
+      "id": "kalkış_s3",
+      "text": "[Kalkıştan] birkaç dakika önce harita kontrol ettik.",
+      "note": null
+    },
+    {
+      "id": "kalkış_s4",
+      "text": "Halkın [kalkışı] devlet için tehlikeli oldu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kalkış_r1",
+      "prompt": "Uçağın başladığı anda ve ayağa kalktığımızı anlamında ne dersin?",
+      "accepted_forms": ["kalkış", "kalkışı", "kalkıştan"],
+      "note": null
+    }
+  ]
+}

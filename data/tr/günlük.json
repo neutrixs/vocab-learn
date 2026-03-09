@@ -1,0 +1,27 @@
+{
+  "word": "günlük",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "daily, everyday",
+  "sentences": [
+    { "id": "gunluk_s1", "text": "[Günlük] hayat çok meşgul.", "note": null },
+    { "id": "gunluk_s2", "text": "[Günlük] yaşam masrafları artıyor.", "note": null },
+    { "id": "gunluk_s3", "text": "[Günlük] rutine girmiştim.", "note": null },
+    { "id": "gunluk_s4", "text": "[Günlüğümü] her akşam yazıyorum.", "note": "'günlüğümü' = my diary (accusative)" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gunluk_r1",
+      "prompt": "Her gün tekrarlanan: ... yaşam",
+      "accepted_forms": ["günlük"],
+      "note": null
+    },
+    {
+      "id": "gunluk_r2",
+      "prompt": "Sabah yapılan [...] rutinler.",
+      "accepted_forms": ["günlük"],
+      "note": null
+    }
+  ]
+}

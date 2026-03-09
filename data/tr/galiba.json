@@ -1,0 +1,40 @@
+{
+  "word": "galiba",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adverb",
+  "english_gloss": "probably, it seems, I guess",
+  "sentences": [
+    {
+      "id": "galiba_s1",
+      "text": "[Galiba] bugün yağmur yağacak.",
+      "note": null
+    },
+    {
+      "id": "galiba_s2",
+      "text": "O [galiba] geç kaldı.",
+      "note": null
+    },
+    {
+      "id": "galiba_s3",
+      "text": "[Galiba] onu tanımıyorum.",
+      "note": null
+    },
+    {
+      "id": "galiba_s4",
+      "text": "İşi [galiba] tamamladı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "galiba_r1",
+      "prompt": "Bir şeyin gerçekleşebileceğini düşündüğümüzde ama emin olmadığımızda kullanılan sözcük nedir?",
+      "accepted_forms": [
+        "galiba",
+        "sanırım"
+      ],
+      "note": null
+    }
+  ]
+}

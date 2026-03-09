@@ -1,0 +1,41 @@
+{
+  "word": "filan falan",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "interjection",
+  "english_gloss": "so-and-so, this and that, blah blah",
+  "sentences": [
+    {
+      "id": "filanfalan_s1",
+      "text": "Üniversite, dersin, sınavın [filan falan]... hepsi sıkıcı.",
+      "note": null
+    },
+    {
+      "id": "filanfalan_s2",
+      "text": "[Filan falan] diyip durma, net konuş.",
+      "note": null
+    },
+    {
+      "id": "filanfalan_s3",
+      "text": "Ahmet, Mehmet, [filan falan] herkes orada vardı.",
+      "note": null
+    },
+    {
+      "id": "filanfalan_s4",
+      "text": "İşin [filan falan]ını bırak, asıl meseleyi söyle.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "filanfalan_r1",
+      "prompt": "Birisi 'çalış, oku, sınav' falan diye genel olarak birçok şeyden bahsettiğinde bu ifadeyi kullanırız. Ne denir?",
+      "accepted_forms": [
+        "filan falan",
+        "filan",
+        "falan"
+      ],
+      "note": null
+    }
+  ]
+}

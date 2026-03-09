@@ -1,0 +1,37 @@
+{
+  "word": "kaçmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to flee, to run away, to escape",
+  "sentences": [
+    {
+      "id": "kaçmak_s1",
+      "text": "Kütüphaneden [kaçtı] ceza almak için.",
+      "note": null
+    },
+    {
+      "id": "kaçmak_s2",
+      "text": "Sorundan [kaçmak] çözüm değildir.",
+      "note": null
+    },
+    {
+      "id": "kaçmak_s3",
+      "text": "[Kaçtığı] adamları polis yakaladı.",
+      "note": null
+    },
+    {
+      "id": "kaçmak_s4",
+      "text": "Savaştan [kaçmak] için sınır aştı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kaçmak_r1",
+      "prompt": "Tehlike veya sorundan hızlı bir şekilde ayrılmak anlamında ne dersin?",
+      "accepted_forms": ["kaçmak", "kaçtı", "kaçmak istemiyorum"],
+      "note": null
+    }
+  ]
+}

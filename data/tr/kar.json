@@ -1,0 +1,37 @@
+{
+  "word": "kar",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "snow, profit, gain",
+  "sentences": [
+    {
+      "id": "kar_s1",
+      "text": "Kışın yağan [kar] çok güzel.",
+      "note": null
+    },
+    {
+      "id": "kar_s2",
+      "text": "[Kar] yağmasıyla çocuklar sevindi.",
+      "note": null
+    },
+    {
+      "id": "kar_s3",
+      "text": "İşte kazandığımız [kar] yüksek oldu.",
+      "note": null
+    },
+    {
+      "id": "kar_s4",
+      "text": "[Karda] oynanması çok eğlenceli.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kar_r1",
+      "prompt": "Kışın gökyüzünden düşen beyaz tozsal şey nedir?",
+      "accepted_forms": ["kar", "karında", "kardan"],
+      "note": null
+    }
+  ]
+}

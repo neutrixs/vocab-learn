@@ -1,0 +1,40 @@
+{
+  "word": "fon",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "fund, background (cosmetics)",
+  "sentences": [
+    {
+      "id": "fon_s1",
+      "text": "Güzellik [fon]u yüze uyguladı.",
+      "note": null
+    },
+    {
+      "id": "fon_s2",
+      "text": "Sosyal yardım [fon]u kuruldu.",
+      "note": null
+    },
+    {
+      "id": "fon_s3",
+      "text": "Yatırım [fon]una para koydu.",
+      "note": null
+    },
+    {
+      "id": "fon_s4",
+      "text": "Cilt rengi [fon]u seç.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "fon_r1",
+      "prompt": "Yüze sürülen ve cilt tonunu dengeleyen kozmetik ürüne ne denir?",
+      "accepted_forms": [
+        "fon",
+        "fonu"
+      ],
+      "note": null
+    }
+  ]
+}

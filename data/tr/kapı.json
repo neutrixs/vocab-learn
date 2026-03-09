@@ -1,0 +1,37 @@
+{
+  "word": "kapı",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "door, gate, entrance",
+  "sentences": [
+    {
+      "id": "kapı_s1",
+      "text": "[Kapıyı] aç lütfen, çok soğuk.",
+      "note": null
+    },
+    {
+      "id": "kapı_s2",
+      "text": "Arka [kapıdan] çıktı hızlı.",
+      "note": null
+    },
+    {
+      "id": "kapı_s3",
+      "text": "[Kapının] yanında ayakkabılar duruyordu.",
+      "note": null
+    },
+    {
+      "id": "kapı_s4",
+      "text": "Kapı [kapısı] çok geniş bu bina.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kapı_r1",
+      "prompt": "Binaya girmek ve çıkmak için kullanılan açılıp kapatılabilen yapı nedir?",
+      "accepted_forms": ["kapı", "kapısı", "kapıdan"],
+      "note": null
+    }
+  ]
+}

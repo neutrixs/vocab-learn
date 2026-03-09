@@ -1,0 +1,27 @@
+{
+  "word": "kel",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "bald",
+  "sentences": [
+    { "id": "kel_s1", "text": "[Kel] adam aynada kendini görüyor.", "note": null },
+    { "id": "kel_s2", "text": "Baş [kelle] var mı?", "note": null },
+    { "id": "kel_s3", "text": "[Keleş] oldu çünkü stres fazla.", "note": null },
+    { "id": "kel_s4", "text": "[Kel] başı parlıyor güneşte.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kel_r1",
+      "prompt": "Başında hiç saç olmayan insan. O kimdir? '... kimse' diyorsun.",
+      "accepted_forms": ["kel", "kelle"],
+      "note": null
+    },
+    {
+      "id": "kel_r2",
+      "prompt": "Yaşlandıkça saçları dökülüyor ve ... oluyor.",
+      "accepted_forms": ["kel", "kelle"],
+      "note": null
+    }
+  ]
+}

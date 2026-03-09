@@ -1,0 +1,37 @@
+{
+  "word": "kale",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "castle, fortress",
+  "sentences": [
+    {
+      "id": "kale_s1",
+      "text": "Eski [kale] turizmde önemli bir yer.",
+      "note": null
+    },
+    {
+      "id": "kale_s2",
+      "text": "[Kaleden] uzak şehir göründü.",
+      "note": null
+    },
+    {
+      "id": "kale_s3",
+      "text": "[Kale] duvarı yüksek ve güçlü.",
+      "note": null
+    },
+    {
+      "id": "kale_s4",
+      "text": "Orta çağda [kaleler] savunma yapısıydı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kale_r1",
+      "prompt": "Duvarlar ve kuleleri olan eski savunma yapısı nedir?",
+      "accepted_forms": ["kale", "kaleler", "kalenin"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "ertesi",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "next, next day, following",
+  "sentences": [
+    { "id": "ertesi_s1", "text": "[Ertesi] gün sabah erken uyandım.", "note": "'ertesi gün' = next day" },
+    { "id": "ertesi_s2", "text": "[Ertesi] hafta ofise dönecek.", "note": "'ertesi hafta' = next week" },
+    { "id": "ertesi_s3", "text": "[Ertesi] ayda maçları başlayacak.", "note": "'ertesi ay' = next month" },
+    { "id": "ertesi_s4", "text": "[Ertesi] yılda ne olacak bilmiyoruz.", "note": "'ertesi yıl' = next year" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ertesi_r1",
+      "prompt": "Sonraki gün, başlangıçtan sonra. Ne denir?",
+      "accepted_forms": ["ertesi"],
+      "note": null
+    },
+    {
+      "id": "ertesi_r2",
+      "prompt": "[Ertesi] gün olay oldu.",
+      "accepted_forms": ["ertesi"],
+      "note": null
+    }
+  ]
+}

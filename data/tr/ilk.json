@@ -1,0 +1,37 @@
+{
+  "word": "ilk",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "first",
+  "sentences": [
+    {
+      "id": "ilk_s1",
+      "text": "[İlk] gün okula gittim.",
+      "note": null
+    },
+    {
+      "id": "ilk_s2",
+      "text": "Bu benim [ilk] kez burada.",
+      "note": null
+    },
+    {
+      "id": "ilk_s3",
+      "text": "[İlk] sırada ne var?",
+      "note": null
+    },
+    {
+      "id": "ilk_s4",
+      "text": "En [ilk] cevap en doğru olur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ilk_r1",
+      "prompt": "Tarihinde ilk olan şeyi nasıl tanımlarsın?",
+      "accepted_forms": ["ilk", "ilk olan"],
+      "note": null
+    }
+  ]
+}

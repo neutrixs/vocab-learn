@@ -1,0 +1,27 @@
+{
+  "word": "eczane",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "pharmacy, chemist",
+  "sentences": [
+    { "id": "eczane_s1", "text": "[Eczanede] ilaç aldım.", "note": null },
+    { "id": "eczane_s2", "text": "24 saat açık [eczane] var.", "note": null },
+    { "id": "eczane_s3", "text": "[Eczaneye] git, ilaç al.", "note": null },
+    { "id": "eczane_s4", "text": "[Eczanenin] yakınında hastahane var.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "eczane_r1",
+      "prompt": "İlaç satılan mağaza. Ne denir?",
+      "accepted_forms": ["eczane"],
+      "note": null
+    },
+    {
+      "id": "eczane_r2",
+      "prompt": "İlaç alacaksan ... git.",
+      "accepted_forms": ["eczaneye"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "hepimiz",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "pronoun",
+  "english_gloss": "all of us, we all",
+  "sentences": [
+    { "id": "hepimiz_s1", "text": "[Hepimiz]] parka gideceğiz.", "note": null },
+    { "id": "hepimiz_s2", "text": "[Hepimize]] adil muamele gerekir.", "note": "'hepimize' = to all of us (dative)" },
+    { "id": "hepimiz_s3", "text": "[Hepimizin]] aynı fikir var mı?", "note": "'hepimizin' = all of us (genitive)" },
+    { "id": "hepimiz_s4", "text": "[Hepimizi]] ziyaret et, misafir olalım.", "note": "'hepimizi' = all of us (accusative)" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hepimiz_r1",
+      "prompt": "Konuşan kişi de dahil olmak üzere tüm grup: ...",
+      "accepted_forms": ["hepimiz"],
+      "note": null
+    },
+    {
+      "id": "hepimiz_r2",
+      "prompt": "[...] birlikte gidelim.",
+      "accepted_forms": ["hepimiz"],
+      "note": null
+    }
+  ]
+}

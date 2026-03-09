@@ -1,0 +1,27 @@
+{
+  "word": "kıskanç",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "jealous, possessive",
+  "sentences": [
+    { "id": "kinskac_s1", "text": "Erkek [kıskanç] davranışlar gösteriyor.", "note": null },
+    { "id": "kinskac_s2", "text": "[Kıskanç] olamaz karısı için.", "note": null },
+    { "id": "kinskac_s3", "text": "Çok [kıskanç] bir adam.", "note": null },
+    { "id": "kinskac_s4", "text": "[Kıskançlığı] yüzünden ayrıldık.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kinskac_r1",
+      "prompt": "Başkasının sevgileninin yanında olmasından rahatsız olan. O ... kişi.",
+      "accepted_forms": ["kıskanç", "kiskançlı"],
+      "note": null
+    },
+    {
+      "id": "kinskac_r2",
+      "prompt": "Aşırı koruma duygusunu gösteren. 'O çok ... bir erkek.'",
+      "accepted_forms": ["kıskanç"],
+      "note": null
+    }
+  ]
+}

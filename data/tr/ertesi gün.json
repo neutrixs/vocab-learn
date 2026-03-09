@@ -1,0 +1,27 @@
+{
+  "word": "ertesi gün",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "next day, the day after",
+  "sentences": [
+    { "id": "ersigün_s1", "text": "[Ertesi gün] kahvaltıda görüştük.", "note": null },
+    { "id": "ersigün_s2", "text": "[Ertesi günü] erken kaldırıldı.", "note": "'ertesi günü' = the next day (accusative)" },
+    { "id": "ersigün_s3", "text": "[Ertesi gün] yazı yazacağız.", "note": null },
+    { "id": "ersigün_s4", "text": "Sabahın [ertesi günü] yağmur yağdı.", "note": "it rained the next day" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ersigün_r1",
+      "prompt": "Bir gün sonrası, sonraki 24 saat. Ne denir?",
+      "accepted_forms": ["ertesi gün"],
+      "note": null
+    },
+    {
+      "id": "ersigün_r2",
+      "prompt": "[Ertesi gün] buluşalım mı?",
+      "accepted_forms": ["ertesi gün"],
+      "note": null
+    }
+  ]
+}

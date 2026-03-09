@@ -1,0 +1,37 @@
+{
+  "word": "karakol",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "police station",
+  "sentences": [
+    {
+      "id": "karakol_s1",
+      "text": "[Karakola] giderek şikayette bulunduk.",
+      "note": null
+    },
+    {
+      "id": "karakol_s2",
+      "text": "[Karakolda] polis sorguya çekti onu.",
+      "note": null
+    },
+    {
+      "id": "karakol_s3",
+      "text": "En yakın [karakol] buradan 500 metre.",
+      "note": null
+    },
+    {
+      "id": "karakol_s4",
+      "text": "[Karakoldan] çıktıktan sonra çok şaşkındı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "karakol_r1",
+      "prompt": "Polislerin çalıştığı ve insanların şikayette bulunduğu yer nedir?",
+      "accepted_forms": ["karakol", "karakola", "karakolda"],
+      "note": null
+    }
+  ]
+}

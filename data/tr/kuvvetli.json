@@ -1,0 +1,27 @@
+{
+  "word": "kuvvetli",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "strong, powerful, mighty",
+  "sentences": [
+    { "id": "kuvvetli_s1", "text": "[Kuvvetli] bir adamdı.", "note": null },
+    { "id": "kuvvetli_s2", "text": "[Kuvvetli] rüzgar esiyor.", "note": null },
+    { "id": "kuvvetli_s3", "text": "Kahvesi [kuvvetli].", "note": null },
+    { "id": "kuvvetli_s4", "text": "[Kuvvetli] bir pozisyon.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kuvvetli_r1",
+      "prompt": "Gücü fazla olan, iyi yapılı. O ... bir adam.",
+      "accepted_forms": ["kuvvetli", "kuvvetsiz"],
+      "note": null
+    },
+    {
+      "id": "kuvvetli_r2",
+      "prompt": "Taşıyıcı kapasitesi yüksek. '... harita.'",
+      "accepted_forms": ["kuvvetli"],
+      "note": null
+    }
+  ]
+}

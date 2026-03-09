@@ -1,0 +1,41 @@
+{
+  "word": "genellikle",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adverb",
+  "english_gloss": "generally, usually, typically",
+  "sentences": [
+    {
+      "id": "genellikle_s1",
+      "text": "[Genellikle] sabahları erkenci uyanırım.",
+      "note": null
+    },
+    {
+      "id": "genellikle_s2",
+      "text": "[Genellikle] pazar pazarında pazarlık yapılır.",
+      "note": null
+    },
+    {
+      "id": "genellikle_s3",
+      "text": "[Genellikle] kış soğuk olur.",
+      "note": null
+    },
+    {
+      "id": "genellikle_s4",
+      "text": "[Genellikle] erkekler kısa saç kesilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "genellikle_r1",
+      "prompt": "Çoğunlukla, çok sık olarak demek anlamında kullanılan sözcük nedir?",
+      "accepted_forms": [
+        "genellikle",
+        "genelde",
+        "çoğunlukla"
+      ],
+      "note": null
+    }
+  ]
+}

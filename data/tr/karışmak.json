@@ -1,0 +1,37 @@
+{
+  "word": "karışmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to mix, to get mixed up, to meddle, to interfere",
+  "sentences": [
+    {
+      "id": "karışmak_s1",
+      "text": "Boyasını [karıştı] iyi. ile.",
+      "note": null
+    },
+    {
+      "id": "karışmak_s2",
+      "text": "[Karışmamak] işine yabancı insanla.",
+      "note": null
+    },
+    {
+      "id": "karışmak_s3",
+      "text": "Dedikleri [karışmış] aklında tamamen.",
+      "note": null
+    },
+    {
+      "id": "karışmak_s4",
+      "text": "Senin [karışman] işime gerekmiyor!",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "karışmak_r1",
+      "prompt": "Birbirlerinin içine girerek tek bir şey haline gelmek anlamında ne dersin?",
+      "accepted_forms": ["karışmak", "karıştı", "karışsın"],
+      "note": null
+    }
+  ]
+}

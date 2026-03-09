@@ -1,0 +1,27 @@
+{
+  "word": "hafta",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "week",
+  "sentences": [
+    { "id": "hafta_s1", "text": "Bir [hafta]] sonra buluşalım.", "note": null },
+    { "id": "hafta_s2", "text": "[Haftanın]] başında çok meşgul.", "note": "'haftanın' = week's (genitive)" },
+    { "id": "hafta_s3", "text": "[Hafta]] sonu özel planımız var.", "note": "'hafta sonu' = weekend" },
+    { "id": "hafta_s4", "text": "İki [hafta]] tatil yapacağız.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hafta_r1",
+      "prompt": "Yedi günlük zaman dilimi: ...",
+      "accepted_forms": ["hafta"],
+      "note": null
+    },
+    {
+      "id": "hafta_r2",
+      "prompt": "Pazartesiden pazara kadar [...] oluşturur.",
+      "accepted_forms": ["hafta"],
+      "note": null
+    }
+  ]
+}

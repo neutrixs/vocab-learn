@@ -1,0 +1,27 @@
+{
+  "word": "hava",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "weather, air",
+  "sentences": [
+    { "id": "hava_s1", "text": "[Hava]] güzel, dışarı çıkalım.", "note": "weather is nice" },
+    { "id": "hava_s2", "text": "[Havası]] sıcak bugün.", "note": "'havası' = its weather/air (possessive)" },
+    { "id": "hava_s3", "text": "[Havayı]] serin tutmak lazım.", "note": "'havayı' = air (accusative)" },
+    { "id": "hava_s4", "text": "[Hava]] kirliliği artıyor.", "note": "air pollution" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hava_r1",
+      "prompt": "Dışarıdaki durum: 'Bugün ..., güzel.'",
+      "accepted_forms": ["hava"],
+      "note": null
+    },
+    {
+      "id": "hava_r2",
+      "prompt": "Bu hafta sonu [...] nasıl olur acaba?",
+      "accepted_forms": ["hava"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "word": "kaşık",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "spoon",
+  "sentences": [
+    {
+      "id": "kaşık_s1",
+      "text": "Çorbayı [kaşıkla] yedim.",
+      "note": null
+    },
+    {
+      "id": "kaşık_s2",
+      "text": "[Kaşığı] masaya koydu neeledi.",
+      "note": null
+    },
+    {
+      "id": "kaşık_s3",
+      "text": "[Kaşık] krem ile tat verin.",
+      "note": null
+    },
+    {
+      "id": "kaşık_s4",
+      "text": "[Kaşıklar] güzel dizildi masada.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kaşık_r1",
+      "prompt": "Çorba ve tatlı yemek için kullanılan metal araç nedir?",
+      "accepted_forms": ["kaşık", "kaşığı", "kaşıklar"],
+      "note": null
+    }
+  ]
+}

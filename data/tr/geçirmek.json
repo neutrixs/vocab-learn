@@ -1,0 +1,41 @@
+{
+  "word": "geçirmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to pass, to pass through, to spend (time), to experience",
+  "sentences": [
+    {
+      "id": "gecirmek_s1",
+      "text": "Hayatımızda zor zamanlar [geçirdik].",
+      "note": null
+    },
+    {
+      "id": "gecirmek_s2",
+      "text": "Yazı denizde [geçir]dik.",
+      "note": null
+    },
+    {
+      "id": "gecirmek_s3",
+      "text": "Bir harita [geçir]di bana.",
+      "note": null
+    },
+    {
+      "id": "gecirmek_s4",
+      "text": "Güzel bir gün [geçirdik].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gecirmek_r1",
+      "prompt": "Zaman içinde yaşamak veya harcamak demek için kullanılan fiil nedir?",
+      "accepted_forms": [
+        "geçirmek",
+        "geçirdik",
+        "geçirin"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "word": "kaç",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "pronoun",
+  "english_gloss": "how many, how much",
+  "sentences": [
+    {
+      "id": "kaç_s1",
+      "text": "[Kaç] tane elma istiyorsun?",
+      "note": null
+    },
+    {
+      "id": "kaç_s2",
+      "text": "[Kaç] saat uyudun dün?",
+      "note": null
+    },
+    {
+      "id": "kaç_s3",
+      "text": "[Kaç] yaşındasın?",
+      "note": null
+    },
+    {
+      "id": "kaç_s4",
+      "text": "[Kaç] gün sonra gelecek?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kaç_r1",
+      "prompt": "Bir şeyin sayısını sorarken ne sorusunu sorarsın?",
+      "accepted_forms": ["kaç", "kaçı", "kaç tane"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "kazak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "sweater, jumper, pullover",
+  "sentences": [
+    { "id": "kazak_s1", "text": "Kış için yeni [kazak] aldım.", "note": null },
+    { "id": "kazak_s2", "text": "Kırmızı [kazak] çok güzel.", "note": null },
+    { "id": "kazak_s3", "text": "[Kazakların] renkleri canlı.", "note": null },
+    { "id": "kazak_s4", "text": "[Kazak] giydin mi?", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kazak_r1",
+      "prompt": "Üzerine giyilen örme kıyafet. Türkçe adı?",
+      "accepted_forms": ["kazak", "kazağı", "kazakları"],
+      "note": null
+    },
+    {
+      "id": "kazak_r2",
+      "prompt": "Soğukta üzerine giyinen örme elbise. '... giyiyorum.'",
+      "accepted_forms": ["kazak", "kazağı"],
+      "note": null
+    }
+  ]
+}

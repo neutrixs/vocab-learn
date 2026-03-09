@@ -1,0 +1,37 @@
+{
+  "word": "kara",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "black, dark",
+  "sentences": [
+    {
+      "id": "kara_s1",
+      "text": "[Kara] bir elbise giydi cenazede.",
+      "note": null
+    },
+    {
+      "id": "kara_s2",
+      "text": "[Kara] gözleri çok güzel.",
+      "note": null
+    },
+    {
+      "id": "kara_s3",
+      "text": "[Kara] melek halk tarafından sevilmez.",
+      "note": null
+    },
+    {
+      "id": "kara_s4",
+      "text": "[Kara] bulutlar gökyüzünü kapladı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kara_r1",
+      "prompt": "Renklerin en koyu ve koyusu olan rengi nasıl tanımlarsın?",
+      "accepted_forms": ["kara", "karasında", "karalık"],
+      "note": null
+    }
+  ]
+}

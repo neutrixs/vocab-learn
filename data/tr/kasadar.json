@@ -1,0 +1,37 @@
+{
+  "word": "kasadar",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "interested in money, avaricious, miserly",
+  "sentences": [
+    {
+      "id": "kasadar_s1",
+      "text": "[Kasadar] bir insan kimseye yardım etmez.",
+      "note": null
+    },
+    {
+      "id": "kasadar_s2",
+      "text": "O adam [kasadar], paranı saymaktan bahseder.",
+      "note": null
+    },
+    {
+      "id": "kasadar_s3",
+      "text": "[Kasadar] yapısından dolayı arkadaş yoktur.",
+      "note": null
+    },
+    {
+      "id": "kasadar_s4",
+      "text": "[Kasadar] birinin oyunu kim oynayabilir?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kasadar_r1",
+      "prompt": "Para için endişeli ve cimri olan birini nasıl tanımlarsın?",
+      "accepted_forms": ["kasadar", "kasadar biri"],
+      "note": null
+    }
+  ]
+}

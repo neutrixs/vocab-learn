@@ -1,0 +1,41 @@
+{
+  "word": "gemi",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "ship, boat",
+  "sentences": [
+    {
+      "id": "gemi_s1",
+      "text": "[Gemi] denizde yüzüyor.",
+      "note": null
+    },
+    {
+      "id": "gemi_s2",
+      "text": "[Gemi]ye bindik.",
+      "note": null
+    },
+    {
+      "id": "gemi_s3",
+      "text": "Büyük [gemi]ler kapı açılıyor.",
+      "note": null
+    },
+    {
+      "id": "gemi_s4",
+      "text": "[Gemi]nin kaptanı deneyimli.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gemi_r1",
+      "prompt": "Denizde insanları veya eşyaları taşıyan büyük araç ne denir?",
+      "accepted_forms": [
+        "gemi",
+        "gemiye",
+        "gemiyle"
+      ],
+      "note": null
+    }
+  ]
+}

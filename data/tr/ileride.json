@@ -1,0 +1,27 @@
+{
+  "word": "ileride",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adverb",
+  "english_gloss": "ahead, further ahead, in the future",
+  "sentences": [
+    { "id": "ileride_s1", "text": "[İleride]] yol bölünüyor.", "note": "the road splits ahead" },
+    { "id": "ileride_s2", "text": "[İleride]] çok şey olacak.", "note": "in the future, much will happen" },
+    { "id": "ileride_s3", "text": "Arabalar [ileride]] görülüyor.", "note": "cars are visible ahead" },
+    { "id": "ileride_s4", "text": "[İleride]] başarılı olacaksın.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ileride_r1",
+      "prompt": "Ön tarafta, gelecekte: ...",
+      "accepted_forms": ["ileride"],
+      "note": null
+    },
+    {
+      "id": "ileride_r2",
+      "prompt": "[...] ne görebilirsin?",
+      "accepted_forms": ["ileride"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "ki",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "conjunction",
+  "english_gloss": "that, which, so that",
+  "sentences": [
+    { "id": "ki_s1", "text": "Geldi [ki] geç olmuş.", "note": "when he came, it was late" },
+    { "id": "ki_s2", "text": "Söyledim [ki] gel.", "note": "I said that you should come" },
+    { "id": "ki_s3", "text": "Biliyorum [ki] doğru.", "note": "I know that it's true" },
+    { "id": "ki_s4", "text": "Başladı [ki] bitir bitiremedi.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ki_r1",
+      "prompt": "İki cümleyi bağlayan bağlama. 'Söyledim ... gel.'",
+      "accepted_forms": ["ki"],
+      "note": null
+    },
+    {
+      "id": "ki_r2",
+      "prompt": "'Biliyorum ... doğru.' Boşluğa ne gelir?",
+      "accepted_forms": ["ki"],
+      "note": null
+    }
+  ]
+}

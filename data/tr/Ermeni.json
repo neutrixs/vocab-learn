@@ -1,0 +1,27 @@
+{
+  "word": "Ermeni",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "Armenian (person), Armenian",
+  "sentences": [
+    { "id": "ermeni_s1", "text": "[Ermeni] bak dost arkadaşım.", "note": "my Armenian friend" },
+    { "id": "ermeni_s2", "text": "[Ermeniler] bu şehirde uzun yaşadılar.", "note": "'Ermeniler' = Armenians (plural)" },
+    { "id": "ermeni_s3", "text": "[Ermeni] dili öğreniyorum.", "note": null },
+    { "id": "ermeni_s4", "text": "[Ermeni] kültürü çok zengin.", "note": "Armenian culture is very rich" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ermeni_r1",
+      "prompt": "Ermenistan'daki halk. Ne denir?",
+      "accepted_forms": ["Ermeni"],
+      "note": null
+    },
+    {
+      "id": "ermeni_r2",
+      "prompt": "[Ermeni] hastalığı İstanbul'da açılı.",
+      "accepted_forms": ["Ermeni"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "kız",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "girl, daughter",
+  "sentences": [
+    { "id": "kiz_s1", "text": "[Kız] çocuk oynamaktan yoruldu.", "note": null },
+    { "id": "kiz_s2", "text": "Benim [kızım] üniversiteye gidiyor.", "note": null },
+    { "id": "kiz_s3", "text": "[Kızlar] sınıfta kaç tane?", "note": null },
+    { "id": "kiz_s4", "text": "[Kız] kardeşim öğretmen.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kiz_r1",
+      "prompt": "Erkek olmayan çocuk. Türkçesi?",
+      "accepted_forms": ["kız", "kızı", "kız çocuk"],
+      "note": null
+    },
+    {
+      "id": "kiz_r2",
+      "prompt": "Babanın kızı konuşmasında '... kardeşim var.'",
+      "accepted_forms": ["kız", "kız kardeş"],
+      "note": null
+    }
+  ]
+}

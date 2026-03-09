@@ -1,0 +1,41 @@
+{
+  "word": "gezmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to walk, to tour, to go around",
+  "sentences": [
+    {
+      "id": "gezmek_s1",
+      "text": "Parkta [gez]dik.",
+      "note": null
+    },
+    {
+      "id": "gezmek_s2",
+      "text": "Şehri [gezmek] istiyoruz.",
+      "note": null
+    },
+    {
+      "id": "gezmek_s3",
+      "text": "[Gezmesini] seviyorum.",
+      "note": null
+    },
+    {
+      "id": "gezmek_s4",
+      "text": "Müze [gez]di.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gezmek_r1",
+      "prompt": "Bir yerden başka bir yere yürüyüş yapmak demek için hangi fiil kullanılır?",
+      "accepted_forms": [
+        "gezmek",
+        "gezer",
+        "gezdi"
+      ],
+      "note": null
+    }
+  ]
+}

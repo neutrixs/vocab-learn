@@ -1,0 +1,32 @@
+{
+  "word": "kalamar",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "squid",
+  "sentences": [
+    {
+      "id": "kalamar_s1",
+      "text": "Denizde [kalamar] yakaladık.",
+      "note": null
+    },
+    {
+      "id": "kalamar_s2",
+      "text": "[Kalamarı] sotuşturmak çok leziz.",
+      "note": null
+    },
+    {
+      "id": "kalamar_s3",
+      "text": "[Kalamarlar] çok akıllı deniz hayvanlarıdır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kalamar_r1",
+      "prompt": "Birçok tentaküllü deniz hayvanı nedir?",
+      "accepted_forms": ["kalamar", "kalamarlar"],
+      "note": null
+    }
+  ]
+}

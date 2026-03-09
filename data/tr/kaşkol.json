@@ -1,0 +1,37 @@
+{
+  "word": "kaşkol",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "knitted neck scarf, cowl",
+  "sentences": [
+    {
+      "id": "kaşkol_s1",
+      "text": "Kış için [kaşkol] aldım mağazadan.",
+      "note": null
+    },
+    {
+      "id": "kaşkol_s2",
+      "text": "[Kaşkolun] rengi çok yakışmış sana.",
+      "note": null
+    },
+    {
+      "id": "kaşkol_s3",
+      "text": "[Kaşkol] boyununu sıcaktan korudu.",
+      "note": null
+    },
+    {
+      "id": "kaşkol_s4",
+      "text": "[Kaşkolunu] sardığı çok moda lü.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kaşkol_r1",
+      "prompt": "Boynu ve göğsü sıcak tutmak için sarılan dokuma nedir?",
+      "accepted_forms": ["kaşkol", "kaşkolun"],
+      "note": null
+    }
+  ]
+}

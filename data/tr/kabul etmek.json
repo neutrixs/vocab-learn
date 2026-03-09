@@ -1,0 +1,37 @@
+{
+  "word": "kabul etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to accept, to admit, to acknowledge",
+  "sentences": [
+    {
+      "id": "kabul_etmek_s1",
+      "text": "Bu önerimi [kabul et] lütfen.",
+      "note": null
+    },
+    {
+      "id": "kabul_etmek_s2",
+      "text": "Hatasını [kabul etti] sonunda.",
+      "note": null
+    },
+    {
+      "id": "kabul_etmek_s3",
+      "text": "Davetini [kabul ederim] çok mutlu oldum.",
+      "note": null
+    },
+    {
+      "id": "kabul_etmek_s4",
+      "text": "Bu teklifi [kabul etmek] zordu ama yaptım.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kabul_etmek_r1",
+      "prompt": "Birinin teklifini onaylamak için ne dersin?",
+      "accepted_forms": ["kabul etmek", "kabul etmedim", "kabul ettim"],
+      "note": null
+    }
+  ]
+}

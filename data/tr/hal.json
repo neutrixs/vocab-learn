@@ -1,0 +1,27 @@
+{
+  "word": "hal",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "state, condition, situation",
+  "sentences": [
+    { "id": "hal_s1", "text": "Onun [hal]i çok kötü.", "note": "'hali' = his condition" },
+    { "id": "hal_s2", "text": "Durum nasıl, [hal]] nedir?", "note": null },
+    { "id": "hal_s3", "text": "[Halden]] anlaşılıyor çok üzgün olduğu.", "note": "'halden' = from his state (ablative)" },
+    { "id": "hal_s4", "text": "[Halini]] değiştirmesi lazım.", "note": "'halini' = his situation (accusative)" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hal_r1",
+      "prompt": "Birinin fiziksel veya ruhsal durumu: ...",
+      "accepted_forms": ["hal"],
+      "note": null
+    },
+    {
+      "id": "hal_r2",
+      "prompt": "Onun [...] iyi değil, endişeleniyorum.",
+      "accepted_forms": ["hali"],
+      "note": null
+    }
+  ]
+}

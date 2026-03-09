@@ -1,0 +1,27 @@
+{
+  "word": "meslek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "profession, occupation, trade",
+  "sentences": [
+    { "id": "meslek_s1", "text": "[Meslegi] öğretmen.", "note": null },
+    { "id": "meslek_s2", "text": "İyi bir [meslek] seçmeliyim.", "note": null },
+    { "id": "meslek_s3", "text": "[Meslekli] bir adamdır.", "note": null },
+    { "id": "meslek_s4", "text": "[Meslekten] memnun mu?", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "meslek_r1",
+      "prompt": "Para kazanmak için yapılan iş. Senin ... ne?",
+      "accepted_forms": ["meslek", "meslegi"],
+      "note": null
+    },
+    {
+      "id": "meslek_r2",
+      "prompt": "Eğitim sonrası yapacağım ... seçmekem lazım.",
+      "accepted_forms": ["meslek"],
+      "note": null
+    }
+  ]
+}

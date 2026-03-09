@@ -1,0 +1,27 @@
+{
+  "word": "eylül",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "September",
+  "sentences": [
+    { "id": "eylul_s1", "text": "[Eylül] ayında okul başlıyor.", "note": "school starts in September" },
+    { "id": "eylul_s2", "text": "[Eylülün] sonunda hava soğuyor.", "note": "'eylülün sonu' = end of September" },
+    { "id": "eylul_s3", "text": "[Eylülde] çok güzel hava.", "note": "'eylülde' = in September" },
+    { "id": "eylul_s4", "text": "Bu [eylülde] yaza veda edeceğiz.", "note": "we'll say goodbye to summer this September" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "eylul_r1",
+      "prompt": "Yılın dokuzuncu ayı. Ne denir?",
+      "accepted_forms": ["eylül"],
+      "note": null
+    },
+    {
+      "id": "eylul_r2",
+      "prompt": "[Eylül] ayında okul açılı.",
+      "accepted_forms": ["eylül"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "word": "karanlık",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "dark, gloomy",
+  "sentences": [
+    {
+      "id": "karanlık_s1",
+      "text": "[Karanlık] bir odada yaşamak zor.",
+      "note": null
+    },
+    {
+      "id": "karanlık_s2",
+      "text": "[Karanlığından] ışık yandı hemen.",
+      "note": null
+    },
+    {
+      "id": "karanlık_s3",
+      "text": "[Karanlık] sokakta yürümek tehlikeli.",
+      "note": null
+    },
+    {
+      "id": "karanlık_s4",
+      "text": "Akşam [karanlık] bastı çabuk.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "karanlık_r1",
+      "prompt": "Işık olmayan ve iyice göründemeyen durumunu ne dersin?",
+      "accepted_forms": ["karanlık", "karanlığı", "karanlıksa"],
+      "note": null
+    }
+  ]
+}

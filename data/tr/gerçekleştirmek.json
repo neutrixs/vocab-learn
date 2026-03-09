@@ -1,0 +1,41 @@
+{
+  "word": "gerçekleştirmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to realize, to make happen, to implement",
+  "sentences": [
+    {
+      "id": "gerceklestirmek_s1",
+      "text": "Planı [gerçekleştir]di.",
+      "note": null
+    },
+    {
+      "id": "gerceklestirmek_s2",
+      "text": "Hedefi [gerçekleştirmek] zor ama mümkün.",
+      "note": null
+    },
+    {
+      "id": "gerceklestirmek_s3",
+      "text": "Başkan projeyi [gerçekleştirmek] istedi.",
+      "note": null
+    },
+    {
+      "id": "gerceklestirmek_s4",
+      "text": "Rüyasını [gerçekleştir]eceğim.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gerceklestirmek_r1",
+      "prompt": "Planı veya hedefi gerçek olmasını sağlamak demek için hangi fiil kullanılır?",
+      "accepted_forms": [
+        "gerçekleştirmek",
+        "gerçekleştirdi",
+        "gerçekleştirin"
+      ],
+      "note": null
+    }
+  ]
+}

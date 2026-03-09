@@ -1,0 +1,41 @@
+{
+  "word": "gölge",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "shadow, shade",
+  "sentences": [
+    {
+      "id": "golge_s1",
+      "text": "Ağacın [gölge]si güzel.",
+      "note": null
+    },
+    {
+      "id": "golge_s2",
+      "text": "[Gölge]de oturalım.",
+      "note": null
+    },
+    {
+      "id": "golge_s3",
+      "text": "[Gölge]nin uzunluğu artıyor.",
+      "note": null
+    },
+    {
+      "id": "golge_s4",
+      "text": "[Gölge] yanında duralım sıcaktan.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "golge_r1",
+      "prompt": "Güneş ışığı engellenen karanlık bölge ne denir?",
+      "accepted_forms": [
+        "gölge",
+        "gölgeyi",
+        "gölgenin"
+      ],
+      "note": null
+    }
+  ]
+}

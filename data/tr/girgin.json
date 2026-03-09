@@ -1,0 +1,40 @@
+{
+  "word": "girgin",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "intrusive, interfering, meddlesome",
+  "sentences": [
+    {
+      "id": "girgin_s1",
+      "text": "[Girgin] karakteri hoşlanmıyorum.",
+      "note": null
+    },
+    {
+      "id": "girgin_s2",
+      "text": "[Girgin] birisi her şeye karışıyor.",
+      "note": null
+    },
+    {
+      "id": "girgin_s3",
+      "text": "Onun [girgin] halleri rahatsız edici.",
+      "note": null
+    },
+    {
+      "id": "girgin_s4",
+      "text": "[Girgin] olmamalısın başkalarının işine.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "girgin_r1",
+      "prompt": "Başkasının işine karışan, müdahaleci olan kişi nasıl anlatılır?",
+      "accepted_forms": [
+        "girgin",
+        "girginlik"
+      ],
+      "note": null
+    }
+  ]
+}

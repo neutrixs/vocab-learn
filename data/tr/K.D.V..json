@@ -1,0 +1,27 @@
+{
+  "word": "K.D.V.",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "VAT (Value Added Tax), Katma Değer Vergisi",
+  "sentences": [
+    { "id": "kdv_s1", "text": "[K.D.V.] oranı %18'dir.", "note": null },
+    { "id": "kdv_s2", "text": "Fiyat [K.D.V.] dahil mi?", "note": null },
+    { "id": "kdv_s3", "text": "[K.D.V.] hesaplaması önemli.", "note": null },
+    { "id": "kdv_s4", "text": "[K.D.V.] muafiyeti var mı?", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kdv_r1",
+      "prompt": "Fatura'da yazılı: %18 ... Bunun ne anlama geldiğini söyle.",
+      "accepted_forms": ["K.D.V.", "KDV", "katma değer vergisi"],
+      "note": null
+    },
+    {
+      "id": "kdv_r2",
+      "prompt": "Mağazada '... dahil' yazılı. Bunun Türkçe açılımı?",
+      "accepted_forms": ["K.D.V.", "KDV"],
+      "note": null
+    }
+  ]
+}

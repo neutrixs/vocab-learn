@@ -1,0 +1,27 @@
+{
+  "word": "emin",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "sure, certain, confident",
+  "sentences": [
+    { "id": "emin_s1", "text": "Bu karardan [emin] misin?", "note": null },
+    { "id": "emin_s2", "text": "[Emin] olarak söyleyebilirim, yağmur yağacak.", "note": "I can say for certain" },
+    { "id": "emin_s3", "text": "[Eminsem] neden tereddüt ediyorsun?", "note": null },
+    { "id": "emin_s4", "text": "Seninle [emindim] her zaman.", "note": "I was always confident in you" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "emin_r1",
+      "prompt": "Bir şeyin doğru olduğunu bilmek. Ne denir?",
+      "accepted_forms": ["emin", "eminmiş"],
+      "note": null
+    },
+    {
+      "id": "emin_r2",
+      "prompt": "[Emin] misin bu planın işe yarayacağından?",
+      "accepted_forms": ["emin"],
+      "note": null
+    }
+  ]
+}

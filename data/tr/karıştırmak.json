@@ -1,0 +1,37 @@
+{
+  "word": "karıştırmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to mix, to confuse, to stir",
+  "sentences": [
+    {
+      "id": "karıştırmak_s1",
+      "text": "Tatlı yapı için malzemeyi [karıştır].",
+      "note": null
+    },
+    {
+      "id": "karıştırmak_s2",
+      "text": "[Karıştırdığı] malzemeler güzel kokuyor.",
+      "note": null
+    },
+    {
+      "id": "karıştırmak_s3",
+      "text": "Anı [karıştırma] işini yanlış yapma.",
+      "note": null
+    },
+    {
+      "id": "karıştırmak_s4",
+      "text": "Kimler [karıştırıyor]lar dedikodu?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "karıştırmak_r1",
+      "prompt": "Farklı şeyleri bir arada hareket ettirerek birleştirmek anlamında ne dersin?",
+      "accepted_forms": ["karıştırmak", "karıştırdı", "karıştırma"],
+      "note": null
+    }
+  ]
+}

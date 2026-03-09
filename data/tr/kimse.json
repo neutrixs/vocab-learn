@@ -1,0 +1,27 @@
+{
+  "word": "kimse",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "pronoun",
+  "english_gloss": "nobody, anyone",
+  "sentences": [
+    { "id": "kimse_s1", "text": "[Kimse] gelmedi.", "note": "nobody came" },
+    { "id": "kimse_s2", "text": "[Kimseye] söyleme.", "note": "don't tell anyone" },
+    { "id": "kimse_s3", "text": "[Kimsenin] kötü söz istemem.", "note": null },
+    { "id": "kimse_s4", "text": "[Kimseler] burada.", "note": "there's nobody here" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kimse_r1",
+      "prompt": "Hiç bir kişi yok anlamı. '[...] gelmedi.'",
+      "accepted_forms": ["kimse"],
+      "note": null
+    },
+    {
+      "id": "kimse_r2",
+      "prompt": "Hiç kimse anlamında. 'Bunu ... öğrenecek.'",
+      "accepted_forms": ["kimse"],
+      "note": null
+    }
+  ]
+}

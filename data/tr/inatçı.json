@@ -1,0 +1,37 @@
+{
+  "word": "inatçı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "stubborn, obstinate, headstrong",
+  "sentences": [
+    {
+      "id": "inatçı_s1",
+      "text": "O çocuk çok [inatçı] bir çocuktadır.",
+      "note": null
+    },
+    {
+      "id": "inatçı_s2",
+      "text": "[İnatçı] bir kişiyle tartışmak zordur.",
+      "note": null
+    },
+    {
+      "id": "inatçı_s3",
+      "text": "Dediklerini dinlemek istemiyordu, çok [inatçı]ydı.",
+      "note": null
+    },
+    {
+      "id": "inatçı_s4",
+      "text": "[İnatçı] bir yapısı var, asla fedakârlık yapmaz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "inatçı_r1",
+      "prompt": "Dinlemeyi reddeden ve fikrini değiştirmeyen birini nasıl tanımlarsın?",
+      "accepted_forms": ["inatçı", "inatçı kişi"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "göbek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "belly button, navel, middle",
+  "sentences": [
+    {
+      "id": "gobek_s1",
+      "text": "Bebeğin [göbek]i güzel.",
+      "note": null
+    },
+    {
+      "id": "gobek_s2",
+      "text": "[Göbek] dansını yapacak mısın?",
+      "note": null
+    },
+    {
+      "id": "gobek_s3",
+      "text": "Masanın [göbek]i kırılmış.",
+      "note": null
+    },
+    {
+      "id": "gobek_s4",
+      "text": "[Göbek] kesmek gerekti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gobek_r1",
+      "prompt": "Karın ortasında, görksin altında olan yer ne denir?",
+      "accepted_forms": [
+        "göbek",
+        "göbeği",
+        "göbekler"
+      ],
+      "note": null
+    }
+  ]
+}

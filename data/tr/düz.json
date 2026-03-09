@@ -1,0 +1,27 @@
+{
+  "word": "düz",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "flat, straight, plain",
+  "sentences": [
+    { "id": "duz_s1", "text": "Bu masanın yüzeyi çok [düz].", "note": null },
+    { "id": "duz_s2", "text": "[Düz] bir çizgi çiz.", "note": null },
+    { "id": "duz_s3", "text": "[Düz] gidersen otele ulaşırsın.", "note": "straight ahead" },
+    { "id": "duz_s4", "text": "[Düz] bir elbise giydi.", "note": "plain dress" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "duz_r1",
+      "prompt": "Kıvrılmamış, eğri olmayan. Ne denir?",
+      "accepted_forms": ["düz"],
+      "note": null
+    },
+    {
+      "id": "duz_r2",
+      "prompt": "Bu yol çok [düz], rahat sürüş yapabilirsin.",
+      "accepted_forms": ["düz"],
+      "note": null
+    }
+  ]
+}

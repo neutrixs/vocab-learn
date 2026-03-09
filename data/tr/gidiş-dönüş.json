@@ -1,0 +1,40 @@
+{
+  "word": "gidiş-dönüş",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "round trip, to and fro",
+  "sentences": [
+    {
+      "id": "gidis-donu_s1",
+      "text": "[Gidiş-dönüş] bilet aldık.",
+      "note": null
+    },
+    {
+      "id": "gidis-donu_s2",
+      "text": "[Gidiş-dönüş] para biraz daha ucuz.",
+      "note": null
+    },
+    {
+      "id": "gidis-donu_s3",
+      "text": "[Gidiş-dönüş] harcanan zamanı hesapladık.",
+      "note": null
+    },
+    {
+      "id": "gidis-donu_s4",
+      "text": "[Gidiş-dönüş] sürecinde ne gördüğüm söyle.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gidis-donu_r1",
+      "prompt": "Gidip de tekrar geri gelme yolculuğu ne denir?",
+      "accepted_forms": [
+        "gidiş-dönüş",
+        "gidiş dönüş"
+      ],
+      "note": null
+    }
+  ]
+}

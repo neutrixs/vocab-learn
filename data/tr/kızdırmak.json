@@ -1,0 +1,27 @@
+{
+  "word": "kızdırmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to make angry, to annoy",
+  "sentences": [
+    { "id": "kizdirmak_s1", "text": "Ablası onu [kızdırıyor].", "note": null },
+    { "id": "kizdirmak_s2", "text": "Sözleri onu [kızdırdı].", "note": null },
+    { "id": "kizdirmak_s3", "text": "[Kızdırma] onu lütfen.", "note": null },
+    { "id": "kizdirmak_s4", "text": "Çok [kızdırmışsın] onu.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kizdirmak_r1",
+      "prompt": "Birinin öfkesini tetiklemek. 'Beni ... me!'",
+      "accepted_forms": ["kızdırma", "kızdırmayın"],
+      "note": null
+    },
+    {
+      "id": "kizdirmak_r2",
+      "prompt": "Sinir etmek, rahatsız etmek. 'Lütfen kızı ...'",
+      "accepted_forms": ["kızdırma", "kızdırmayın"],
+      "note": null
+    }
+  ]
+}

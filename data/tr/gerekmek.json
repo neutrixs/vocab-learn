@@ -1,0 +1,41 @@
+{
+  "word": "gerekmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to be necessary, to be needed",
+  "sentences": [
+    {
+      "id": "gerekmek_s1",
+      "text": "Daha fazla pratik [gerek]iyor.",
+      "note": null
+    },
+    {
+      "id": "gerekmek_s2",
+      "text": "Para [gerek]se ona söyle.",
+      "note": null
+    },
+    {
+      "id": "gerekmek_s3",
+      "text": "Doktor [gerek]se gideceğim.",
+      "note": null
+    },
+    {
+      "id": "gerekmek_s4",
+      "text": "Buna vaktim [gerekmez].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gerekmek_r1",
+      "prompt": "Zorunda olmak, yapılması lazım olmak demek için hangi fiil kullanılır?",
+      "accepted_forms": [
+        "gerekmek",
+        "gerekiyor",
+        "gerekirse"
+      ],
+      "note": null
+    }
+  ]
+}

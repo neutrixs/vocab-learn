@@ -1,0 +1,27 @@
+{
+  "word": "esmer",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "brunette, dark-haired, dark-skinned",
+  "sentences": [
+    { "id": "esmer_s1", "text": "[Esmer] saçlı genç kız geldi.", "note": "dark-haired young woman" },
+    { "id": "esmer_s2", "text": "O [esmer], bu da sarı.", "note": "he's dark, this one is blonde" },
+    { "id": "esmer_s3", "text": "[Esmer] bir yüze bakmak.", "note": null },
+    { "id": "esmer_s4", "text": "[Esmer] çocuklar çok güzellerdi.", "note": "the dark-haired children were very beautiful" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "esmer_r1",
+      "prompt": "Koyu renk saçlı. Ne denir?",
+      "accepted_forms": ["esmer"],
+      "note": null
+    },
+    {
+      "id": "esmer_r2",
+      "prompt": "[Esmer] arkadaşım özel davetiye gönderdi.",
+      "accepted_forms": ["esmer"],
+      "note": null
+    }
+  ]
+}

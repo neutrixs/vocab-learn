@@ -1,0 +1,41 @@
+{
+  "word": "giymek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to wear, to put on",
+  "sentences": [
+    {
+      "id": "giymek_s1",
+      "text": "Kırmızı gömlek [giy]di.",
+      "note": null
+    },
+    {
+      "id": "giymek_s2",
+      "text": "Ayakkabı [giymeden] çıkma.",
+      "note": null
+    },
+    {
+      "id": "giymek_s3",
+      "text": "Şapka [giy]ecek misin?",
+      "note": null
+    },
+    {
+      "id": "giymek_s4",
+      "text": "[Giy] palto, dışarısı soğuk.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "giymek_r1",
+      "prompt": "Vücuda elbise, ayakkabı gibi giysi koymak demek için hangi fiil kullanılır?",
+      "accepted_forms": [
+        "giymek",
+        "giydi",
+        "giy"
+      ],
+      "note": null
+    }
+  ]
+}

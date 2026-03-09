@@ -1,0 +1,40 @@
+{
+  "word": "geçimli",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "compatible, living well together",
+  "sentences": [
+    {
+      "id": "gecimli_s1",
+      "text": "Karı koca çok [geçimli].",
+      "note": null
+    },
+    {
+      "id": "gecimli_s2",
+      "text": "[Geçimli] bir aile görünüyorlar.",
+      "note": null
+    },
+    {
+      "id": "gecimli_s3",
+      "text": "Arkadaşları [geçimli].",
+      "note": null
+    },
+    {
+      "id": "gecimli_s4",
+      "text": "[Geçimli] olmak için anlaşılması gerekir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gecimli_r1",
+      "prompt": "Birbirlerine iyi davranan ve uyum içinde yaşayan insanlar için ne denir?",
+      "accepted_forms": [
+        "geçimli",
+        "geçimliler"
+      ],
+      "note": null
+    }
+  ]
+}

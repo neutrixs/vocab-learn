@@ -1,0 +1,37 @@
+{
+  "word": "kapalı",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "closed, shut, enclosed",
+  "sentences": [
+    {
+      "id": "kapalı_s1",
+      "text": "Kapı [kapalı] ama kilidi var.",
+      "note": null
+    },
+    {
+      "id": "kapalı_s2",
+      "text": "[Kapalı] bir mekan olduğu için sıcaktır.",
+      "note": null
+    },
+    {
+      "id": "kapalı_s3",
+      "text": "Çarşı [kapalı], açılacak.",
+      "note": null
+    },
+    {
+      "id": "kapalı_s4",
+      "text": "[Kapalı] pencereden dışarı görmek zor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kapalı_r1",
+      "prompt": "Açık olmayıp, içeri dışarıyı engelleme durumunu ne dersin?",
+      "accepted_forms": ["kapalı", "kapalı oldu", "kapalıdır"],
+      "note": null
+    }
+  ]
+}

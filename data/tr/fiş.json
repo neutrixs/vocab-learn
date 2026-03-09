@@ -1,0 +1,41 @@
+{
+  "word": "fiş",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "receipt, voucher, chip (in gambling)",
+  "sentences": [
+    {
+      "id": "fis_s1",
+      "text": "Alışveriş [fiş]ini sakladı.",
+      "note": null
+    },
+    {
+      "id": "fis_s2",
+      "text": "Oyunda [fiş]leri topladı.",
+      "note": null
+    },
+    {
+      "id": "fis_s3",
+      "text": "[Fiş]ini getir, parayı sana geri vereyim.",
+      "note": null
+    },
+    {
+      "id": "fis_s4",
+      "text": "Kasada [fiş] almasını unutma.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "fis_r1",
+      "prompt": "Alışverişten sonra aldığımız belgeye ne denir?",
+      "accepted_forms": [
+        "fiş",
+        "fiş",
+        "fiş"
+      ],
+      "note": null
+    }
+  ]
+}

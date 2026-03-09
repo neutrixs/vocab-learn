@@ -1,0 +1,37 @@
+{
+  "word": "kalmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to stay, to remain, to be left",
+  "sentences": [
+    {
+      "id": "kalmak_s1",
+      "text": "Arkadaşım evde [kaldı] çünkü hastaydı.",
+      "note": null
+    },
+    {
+      "id": "kalmak_s2",
+      "text": "Bize bir saat [kalmak] istersen yapabiliriz.",
+      "note": null
+    },
+    {
+      "id": "kalmak_s3",
+      "text": "[Kaldığı] köy uzak ama güzel.",
+      "note": null
+    },
+    {
+      "id": "kalmak_s4",
+      "text": "Otelde kaç gece [kalacaksınız]?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kalmak_r1",
+      "prompt": "Bir yerde zaman geçirmek veya oturmak anlamında ne dersin?",
+      "accepted_forms": ["kalmak", "kaldı", "kalacak"],
+      "note": null
+    }
+  ]
+}

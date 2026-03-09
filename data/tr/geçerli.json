@@ -1,0 +1,41 @@
+{
+  "word": "geçerli",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "valid, applicable, in force",
+  "sentences": [
+    {
+      "id": "gecerli_s1",
+      "text": "Bu pasaport bir yıl daha [geçerli].",
+      "note": null
+    },
+    {
+      "id": "gecerli_s2",
+      "text": "[Geçerli] bir bahane bulamadı.",
+      "note": null
+    },
+    {
+      "id": "gecerli_s3",
+      "text": "Bu kural artık [geçerli] değil.",
+      "note": null
+    },
+    {
+      "id": "gecerli_s4",
+      "text": "[Geçerli] bir kimlik belgesine ihtiyacım var.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gecerli_r1",
+      "prompt": "Hâlâ etkin olan veya kabul edilebilir olan ne denir?",
+      "accepted_forms": [
+        "geçerli",
+        "geçerlidir",
+        "geçerliliği"
+      ],
+      "note": null
+    }
+  ]
+}

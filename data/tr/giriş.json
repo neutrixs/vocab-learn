@@ -1,0 +1,41 @@
+{
+  "word": "giriş",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "entrance, entry, introduction",
+  "sentences": [
+    {
+      "id": "giris_s1",
+      "text": "[Giriş] kapısı orada.",
+      "note": null
+    },
+    {
+      "id": "giris_s2",
+      "text": "[Giriş] ücretini ödedin mi?",
+      "note": null
+    },
+    {
+      "id": "giris_s3",
+      "text": "[Giriş] cümlesi önemli.",
+      "note": null
+    },
+    {
+      "id": "giris_s4",
+      "text": "[Giriş] istiyorsam müsade et.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "giris_r1",
+      "prompt": "Bir yere veya yazıya başlayan yer ne denir?",
+      "accepted_forms": [
+        "giriş",
+        "girişi",
+        "girişler"
+      ],
+      "note": null
+    }
+  ]
+}

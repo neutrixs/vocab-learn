@@ -1,0 +1,37 @@
+{
+  "word": "kalite",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "quality",
+  "sentences": [
+    {
+      "id": "kalite_s1",
+      "text": "[Kalite] her şeyde önemlidir.",
+      "note": null
+    },
+    {
+      "id": "kalite_s2",
+      "text": "Bu ürünün [kalitesi] çok iyidir.",
+      "note": null
+    },
+    {
+      "id": "kalite_s3",
+      "text": "Yüksek [kaliteli] ürünler pahalıdır.",
+      "note": null
+    },
+    {
+      "id": "kalite_s4",
+      "text": "[Kalite] kontrol başarısı için zorunludur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kalite_r1",
+      "prompt": "Bir şeyin iyi veya kötü olma derecesini anlamına gelen kelime nedir?",
+      "accepted_forms": ["kalite", "kalitesi", "kaliteli"],
+      "note": null
+    }
+  ]
+}

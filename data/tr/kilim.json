@@ -1,0 +1,27 @@
+{
+  "word": "kilim",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "carpet, rug",
+  "sentences": [
+    { "id": "kilim_s1", "text": "[Kilim] çok pahalı.", "note": null },
+    { "id": "kilim_s2", "text": "Yerinde [kilim] var.", "note": null },
+    { "id": "kilim_s3", "text": "Türk [kilimleri] ünlü.", "note": null },
+    { "id": "kilim_s4", "text": "[Kilimi] çaldırmadım.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kilim_r1",
+      "prompt": "Tabanında adımını koydukları dokuma ürün. Türkçesi?",
+      "accepted_forms": ["kilim", "kilimi"],
+      "note": null
+    },
+    {
+      "id": "kilim_r2",
+      "prompt": "Tezgahda dokulu kumaş. Odalarda döşenen ... güzel.",
+      "accepted_forms": ["kilim"],
+      "note": null
+    }
+  ]
+}

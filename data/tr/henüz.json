@@ -1,0 +1,27 @@
+{
+  "word": "henüz",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adverb",
+  "english_gloss": "yet, still, not yet",
+  "sentences": [
+    { "id": "henuz_s1", "text": "[Henüz]] gelmedi, biraz bekle.", "note": "he hasn't come yet" },
+    { "id": "henuz_s2", "text": "[Henüz]] başlamamış projeyi.", "note": "'henüz başlamamış' = not yet started" },
+    { "id": "henuz_s3", "text": "[Henüz]] azız birisi değilim.", "note": "I'm still not old" },
+    { "id": "henuz_s4", "text": "[Henüz]] çalışan var mı?", "note": "is anyone still working?" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "henuz_r1",
+      "prompt": "Şu ana kadar meydana gelmemiş: ...",
+      "accepted_forms": ["henüz"],
+      "note": null
+    },
+    {
+      "id": "henuz_r2",
+      "prompt": "Ödevi [...] bitirmedim.",
+      "accepted_forms": ["henüz"],
+      "note": null
+    }
+  ]
+}

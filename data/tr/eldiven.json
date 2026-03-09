@@ -1,0 +1,27 @@
+{
+  "word": "eldiven",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "glove",
+  "sentences": [
+    { "id": "eldiven_s1", "text": "Kış [eldiven] giy, ellerin soğuksun.", "note": null },
+    { "id": "eldiven_s2", "text": "[Eldivenin] bir tanesi kayboldu.", "note": "'eldivenin bir tanesi' = one glove" },
+    { "id": "eldiven_s3", "text": "Siyah [eldivenleri] aldım.", "note": null },
+    { "id": "eldiven_s4", "text": "[Eldivenlerde] delik var, yeni al.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "eldiven_r1",
+      "prompt": "Eller için giyilen kumaş. Ne denir?",
+      "accepted_forms": ["eldiven"],
+      "note": null
+    },
+    {
+      "id": "eldiven_r2",
+      "prompt": "Soğuk havada [eldiven] giymeliyiz.",
+      "accepted_forms": ["eldiven"],
+      "note": null
+    }
+  ]
+}

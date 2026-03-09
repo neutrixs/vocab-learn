@@ -1,0 +1,27 @@
+{
+  "word": "kereste",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "timber, lumber, wood",
+  "sentences": [
+    { "id": "kereste_s1", "text": "[Kereste] fabrikasında çalışıyorum.", "note": null },
+    { "id": "kereste_s2", "text": "Evi [keresteden] yaptılar.", "note": null },
+    { "id": "kereste_s3", "text": "[Kereste] fiyatı arttı.", "note": null },
+    { "id": "kereste_s4", "text": "[Kerestelik] ağaç devlet ormanında.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kereste_r1",
+      "prompt": "Ağaçtan işlenerek inşaatta kullanılan malzeme.",
+      "accepted_forms": ["kereste", "kerestelik"],
+      "note": null
+    },
+    {
+      "id": "kereste_r2",
+      "prompt": "Kütüphanede raflar ... tan yapılı.",
+      "accepted_forms": ["kereste", "kerestelik"],
+      "note": null
+    }
+  ]
+}

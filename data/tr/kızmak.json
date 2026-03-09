@@ -1,0 +1,27 @@
+{
+  "word": "kızmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to get angry, to be annoyed",
+  "sentences": [
+    { "id": "kizmak_s1", "text": "Öğretmen [kızdı] öğrenciye.", "note": null },
+    { "id": "kizmak_s2", "text": "[Kızma] lütfen bana.", "note": null },
+    { "id": "kizmak_s3", "text": "Anne [kızacak] sana.", "note": null },
+    { "id": "kizmak_s4", "text": "[Kızmışsın] sen.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kizmak_r1",
+      "prompt": "Öfke duymak. 'Lütfen bana ... me!'",
+      "accepted_forms": ["kızma", "kızmayın"],
+      "note": null
+    },
+    {
+      "id": "kizmak_r2",
+      "prompt": "Sinir olmak, rahatsız olmak. 'Babam çok ...'",
+      "accepted_forms": ["kızdı", "kızacak", "kızmış"],
+      "note": null
+    }
+  ]
+}

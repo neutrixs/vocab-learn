@@ -1,0 +1,41 @@
+{
+  "word": "göstermek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to show, to display, to point out",
+  "sentences": [
+    {
+      "id": "gostermek_s1",
+      "text": "Bana kitabı [göster].",
+      "note": null
+    },
+    {
+      "id": "gostermek_s2",
+      "text": "[Göster]diği resim güzel miydi?",
+      "note": null
+    },
+    {
+      "id": "gostermek_s3",
+      "text": "Yolu [göstereceğim] sana.",
+      "note": null
+    },
+    {
+      "id": "gostermek_s4",
+      "text": "[Göster]mesini istiyorum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gostermek_r1",
+      "prompt": "Birisi ile bir şeyi görünür hale getirmek demek için hangi fiil kullanılır?",
+      "accepted_forms": [
+        "göstermek",
+        "göster",
+        "gösterdi"
+      ],
+      "note": null
+    }
+  ]
+}

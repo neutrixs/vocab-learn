@@ -1,0 +1,27 @@
+{
+  "word": "kış",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "winter",
+  "sentences": [
+    { "id": "kis_s1", "text": "[Kış] aylarında çok soğuk.", "note": null },
+    { "id": "kis_s2", "text": "[Kışın] kar yağar.", "note": null },
+    { "id": "kis_s3", "text": "[Kış] sporu yapmak sevdim.", "note": null },
+    { "id": "kis_s4", "text": "[Kışa] hazırlanmalı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kis_r1",
+      "prompt": "Sne yağan, soğuk mevsim. Türkçesi?",
+      "accepted_forms": ["kış", "kışın"],
+      "note": null
+    },
+    {
+      "id": "kis_r2",
+      "prompt": "Aralık, Ocak, Şubat ayları hangi mevsim?",
+      "accepted_forms": ["kış", "kışın"],
+      "note": null
+    }
+  ]
+}

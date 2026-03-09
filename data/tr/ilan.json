@@ -1,0 +1,27 @@
+{
+  "word": "ilan",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "announcement, advertisement, notice",
+  "sentences": [
+    { "id": "ilan_s1", "text": "[İlan]]ı oku, önemli bilgi var.", "note": null },
+    { "id": "ilan_s2", "text": "[İlanında]] iş arıyorlar.", "note": "'ilanında' = in his/her announcement (locative)" },
+    { "id": "ilan_s3", "text": "[İlanlar]] panoda asılı.", "note": "'ilanlar' = announcements (plural)" },
+    { "id": "ilan_s4", "text": "[İlanı]] herkes gördü mü?", "note": "'ilanı' = the announcement (accusative)" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ilan_r1",
+      "prompt": "Herkese bildirilmesi amaçlanan haber: ...",
+      "accepted_forms": ["ilan"],
+      "note": null
+    },
+    {
+      "id": "ilan_r2",
+      "prompt": "Gazete ve dergilerde para karşılığında yayınlanan [...] vardır.",
+      "accepted_forms": ["ilan"],
+      "note": null
+    }
+  ]
+}

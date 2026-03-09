@@ -1,0 +1,27 @@
+{
+  "word": "eşyalar",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "things, belongings, goods, items",
+  "sentences": [
+    { "id": "esyalar_s1", "text": "[Eşyalarını] topladı, gitti.", "note": "'eşyalarını' = his/her belongings (accusative)" },
+    { "id": "esyalar_s2", "text": "Ev [eşyaları] pahalı.", "note": "household goods are expensive" },
+    { "id": "esyalar_s3", "text": "[Eşyaları] kutuya koyduk.", "note": null },
+    { "id": "esyalar_s4", "text": "[Eşyalardan] bazıları yok oldu.", "note": "some of the items disappeared" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "esyalar_r1",
+      "prompt": "Birinin sahip olduğu nesneler, malları. Ne denir?",
+      "accepted_forms": ["eşyalar"],
+      "note": null
+    },
+    {
+      "id": "esyalar_r2",
+      "prompt": "Taşınırken [eşyaları] dikkat et.",
+      "accepted_forms": ["eşyaları"],
+      "note": null
+    }
+  ]
+}

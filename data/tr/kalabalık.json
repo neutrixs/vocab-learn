@@ -1,0 +1,37 @@
+{
+  "word": "kalabalık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "crowded, numerous, busy",
+  "sentences": [
+    {
+      "id": "kalabalık_s1",
+      "text": "Pazaryeri çok [kalabalık].",
+      "note": null
+    },
+    {
+      "id": "kalabalık_s2",
+      "text": "[Kalabalık] bir aileden geliyorum.",
+      "note": null
+    },
+    {
+      "id": "kalabalık_s3",
+      "text": "[Kalabalık] metroya binmek zor.",
+      "note": null
+    },
+    {
+      "id": "kalabalık_s4",
+      "text": "Bu saatlerde sokaklar [kalabalık] oluyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kalabalık_r1",
+      "prompt": "Birçok insanın bir alanda bulunması anlamında ne dersin?",
+      "accepted_forms": ["kalabalık", "kalabalık", "kalabalıksa"],
+      "note": null
+    }
+  ]
+}

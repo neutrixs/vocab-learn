@@ -1,0 +1,27 @@
+{
+  "word": "kıvırcık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "curly",
+  "sentences": [
+    { "id": "kivirci_s1", "text": "[Kıvırcık] saçlı bir kız.", "note": null },
+    { "id": "kivirci_s2", "text": "[Kıvırcık] marul var mı?", "note": "curly lettuce" },
+    { "id": "kivirci_s3", "text": "Saç [kıvırcık] doğru.", "note": null },
+    { "id": "kivirci_s4", "text": "[Kıvırcıklı] perma yapmışlı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kivirci_r1",
+      "prompt": "Daire şeklinde kıvrılan saç. '... saç' ne denir?",
+      "accepted_forms": ["kıvırcık", "kıvırcıklı"],
+      "note": null
+    },
+    {
+      "id": "kivirci_r2",
+      "prompt": "Yaprak dalgalı olan marul türü. '... marul.'",
+      "accepted_forms": ["kıvırcık"],
+      "note": null
+    }
+  ]
+}

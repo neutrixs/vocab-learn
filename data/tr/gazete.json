@@ -1,0 +1,41 @@
+{
+  "word": "gazete",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "newspaper",
+  "sentences": [
+    {
+      "id": "gazete_s1",
+      "text": "Sabah [gazete]sini okudum.",
+      "note": null
+    },
+    {
+      "id": "gazete_s2",
+      "text": "[Gazete]de önemli bir haber var.",
+      "note": null
+    },
+    {
+      "id": "gazete_s3",
+      "text": "[Gazete]ler her gün yayımlanır.",
+      "note": null
+    },
+    {
+      "id": "gazete_s4",
+      "text": "Babası [gazete]yi okumayı sevir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gazete_r1",
+      "prompt": "Haberler ve editörlerin görüşlerini içeren günlük yayımlanan yayına ne denir?",
+      "accepted_forms": [
+        "gazete",
+        "gazeteleri",
+        "gazetede"
+      ],
+      "note": null
+    }
+  ]
+}

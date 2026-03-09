@@ -1,0 +1,27 @@
+{
+  "word": "kibirli",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "arrogant, proud, conceited",
+  "sentences": [
+    { "id": "kibirli_s1", "text": "[Kibirli] kişiye kimse yaklaşmaz.", "note": null },
+    { "id": "kibirli_s2", "text": "[Kibirli] davranıyor herkese.", "note": null },
+    { "id": "kibirli_s3", "text": "[Kibirli] olmamak gerek.", "note": null },
+    { "id": "kibirli_s4", "text": "Çok [kibirli] bir kadın.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kibirli_r1",
+      "prompt": "Aşırı gurur hissi, özgüvensizlikten değil kibir. O ... bir kişi.",
+      "accepted_forms": ["kibirli", "kibir"],
+      "note": null
+    },
+    {
+      "id": "kibirli_r2",
+      "prompt": "Kendisini çok önemli gören. 'Çok ... bir erkek.'",
+      "accepted_forms": ["kibirli"],
+      "note": null
+    }
+  ]
+}

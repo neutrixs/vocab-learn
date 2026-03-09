@@ -1,0 +1,41 @@
+{
+  "word": "garson",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "waiter, server",
+  "sentences": [
+    {
+      "id": "garson_s1",
+      "text": "[Garson], bir fincan kahve lütfen.",
+      "note": null
+    },
+    {
+      "id": "garson_s2",
+      "text": "[Garson] sipariş aldı.",
+      "note": null
+    },
+    {
+      "id": "garson_s3",
+      "text": "Restoranda [garson]lar hızlı çalışıyor.",
+      "note": null
+    },
+    {
+      "id": "garson_s4",
+      "text": "[Garson]a bahşiş verdik.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "garson_r1",
+      "prompt": "Restoranda müşterilere yemek ve içecek hizmet eden kişi ne denir?",
+      "accepted_forms": [
+        "garson",
+        "garsonlar",
+        "garzona"
+      ],
+      "note": null
+    }
+  ]
+}

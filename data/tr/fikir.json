@@ -1,0 +1,41 @@
+{
+  "word": "fikir",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "idea, thought, opinion",
+  "sentences": [
+    {
+      "id": "fikir_s1",
+      "text": "İyi bir [fikir]in olduğunu düşünüyorum.",
+      "note": null
+    },
+    {
+      "id": "fikir_s2",
+      "text": "Onun [fikir]leri çok akıllıca.",
+      "note": null
+    },
+    {
+      "id": "fikir_s3",
+      "text": "[Fikir]ini söyler misin?",
+      "note": null
+    },
+    {
+      "id": "fikir_s4",
+      "text": "Bu konuda benim [fikir]im farklı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "fikir_r1",
+      "prompt": "Aklında olan bir düşünceye ne denir?",
+      "accepted_forms": [
+        "fikir",
+        "fikirler",
+        "fikirim"
+      ],
+      "note": null
+    }
+  ]
+}

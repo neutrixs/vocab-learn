@@ -1,0 +1,27 @@
+{
+  "word": "haber vermek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to inform, to notify",
+  "sentences": [
+    { "id": "haber_v_s1", "text": "Sana iyi [haber vermek]] istiyorum.", "note": null },
+    { "id": "haber_v_s2", "text": "Karar hakkında herkese [haber verdik]].", "note": null },
+    { "id": "haber_v_s3", "text": "[Haber ver]], geç kalacaksam.", "note": "tell me if you'll be late" },
+    { "id": "haber_v_s4", "text": "Gelmeden [haber vermelisin]].", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "haber_v_r1",
+      "prompt": "Birini bir durum hakkında bilgilendirmek: ...",
+      "accepted_forms": ["haber vermek"],
+      "note": null
+    },
+    {
+      "id": "haber_v_r2",
+      "prompt": "Arkadaşına yola çıkacağını [...] lazım.",
+      "accepted_forms": ["haber vermek", "haber vermelisin"],
+      "note": null
+    }
+  ]
+}

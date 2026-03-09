@@ -1,0 +1,37 @@
+{
+  "word": "kadın",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "woman, female",
+  "sentences": [
+    {
+      "id": "kadın_s1",
+      "text": "Bir [kadın] yolda yürüyordu.",
+      "note": null
+    },
+    {
+      "id": "kadın_s2",
+      "text": "[Kadınlar] genellikle çalışır.",
+      "note": null
+    },
+    {
+      "id": "kadın_s3",
+      "text": "Benim öğretmen bayan, bir [kadın].",
+      "note": null
+    },
+    {
+      "id": "kadın_s4",
+      "text": "[Kadın] işçi aynı maaşı almalı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kadın_r1",
+      "prompt": "Dişi cinsiyet için Türkçe ne dersin?",
+      "accepted_forms": ["kadın", "kadınlar"],
+      "note": null
+    }
+  ]
+}

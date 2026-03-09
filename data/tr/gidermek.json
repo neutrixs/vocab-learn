@@ -1,0 +1,41 @@
+{
+  "word": "gidermek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to remove, to eliminate, to get rid of",
+  "sentences": [
+    {
+      "id": "gidermek_s1",
+      "text": "Problemi [gider]di.",
+      "note": null
+    },
+    {
+      "id": "gidermek_s2",
+      "text": "Ağrı [gideril]di.",
+      "note": null
+    },
+    {
+      "id": "gidermek_s3",
+      "text": "Lekeler [gider]ilmedi.",
+      "note": null
+    },
+    {
+      "id": "gidermek_s4",
+      "text": "Sorunu [giderel]im.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gidermek_r1",
+      "prompt": "Bir sorunu veya ağrıyı ortadan kaldırmak demek için hangi fiil kullanılır?",
+      "accepted_forms": [
+        "gidermek",
+        "giderildi",
+        "gidereceği"
+      ],
+      "note": null
+    }
+  ]
+}

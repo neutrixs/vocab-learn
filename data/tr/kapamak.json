@@ -1,0 +1,37 @@
+{
+  "word": "kapamak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to close, to shut, to close down",
+  "sentences": [
+    {
+      "id": "kapamak_s1",
+      "text": "Lütfen kapıyı [kapa] giderken.",
+      "note": null
+    },
+    {
+      "id": "kapamak_s2",
+      "text": "[Kapattığın] kitabı okumuş muydun?",
+      "note": null
+    },
+    {
+      "id": "kapamak_s3",
+      "text": "Pencereyi [kapatalım], havanın kötüsü.",
+      "note": null
+    },
+    {
+      "id": "kapamak_s4",
+      "text": "[Kapadığı] zaman çok sessiz gitti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kapamak_r1",
+      "prompt": "Açık olan şeyi kapalı hale getirmek anlamında ne dersin?",
+      "accepted_forms": ["kapamak", "kapadı", "kapatacak"],
+      "note": null
+    }
+  ]
+}

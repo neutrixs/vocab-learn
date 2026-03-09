@@ -1,0 +1,27 @@
+{
+  "word": "elektrikçi",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "electrician",
+  "sentences": [
+    { "id": "elektrikci_s1", "text": "[Elektrikçi] lambaları değiştirdi.", "note": null },
+    { "id": "elektrikci_s2", "text": "[Elektrikçiye] sormam lazım, tesisat bozuk.", "note": "'elektrikçiye' = to the electrician (dative)" },
+    { "id": "elektrikci_s3", "text": "[Elektrikçi] geldi, sokuşu onarıyor.", "note": "outlet" },
+    { "id": "elektrikci_s4", "text": "İyi bir [elektrikçi] buldum.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "elektrikci_r1",
+      "prompt": "Elektrik işleri yapan kişi. Ne denir?",
+      "accepted_forms": ["elektrikçi"],
+      "note": null
+    },
+    {
+      "id": "elektrikci_r2",
+      "prompt": "[Elektrikçi] gelecek yarın, ışığı tamir etmesini sağlayacağım.",
+      "accepted_forms": ["elektrikçi"],
+      "note": null
+    }
+  ]
+}

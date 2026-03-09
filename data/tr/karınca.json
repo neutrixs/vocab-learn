@@ -1,0 +1,37 @@
+{
+  "word": "karınca",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "ant",
+  "sentences": [
+    {
+      "id": "karınca_s1",
+      "text": "[Karınca] saatler beraber çalışır.",
+      "note": null
+    },
+    {
+      "id": "karınca_s2",
+      "text": "[Karıncalar] piknikteki yemeği buldu.",
+      "note": null
+    },
+    {
+      "id": "karınca_s3",
+      "text": "Bahçede çok [karınca] vardı.",
+      "note": null
+    },
+    {
+      "id": "karınca_s4",
+      "text": "[Karıncanın] iş ahlakını takdir et.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "karınca_r1",
+      "prompt": "Çok küçük ve sosyal yaşayan böcek nedir?",
+      "accepted_forms": ["karınca", "karıncalar", "karıncanın"],
+      "note": null
+    }
+  ]
+}

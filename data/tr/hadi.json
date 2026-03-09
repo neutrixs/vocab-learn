@@ -1,0 +1,27 @@
+{
+  "word": "hadi",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "interjection",
+  "english_gloss": "come on, let's go",
+  "sentences": [
+    { "id": "hadi_s1", "text": "[Hadi]], vakit kaybetmeyelim!", "note": null },
+    { "id": "hadi_s2", "text": "[Hadi]] gidelim sinema.", "note": "let's go to the movies" },
+    { "id": "hadi_s3", "text": "[Hadi baba]], ne yapıyorsun?", "note": "colloquial: come on" },
+    { "id": "hadi_s4", "text": "[Hadi]], çalışmaya başlayalım.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hadi_r1",
+      "prompt": "Birini harekete geçirmeyi amaçlayan seslenişi: ...",
+      "accepted_forms": ["hadi"],
+      "note": null
+    },
+    {
+      "id": "hadi_r2",
+      "prompt": "[...]], tarlığa gidelim!",
+      "accepted_forms": ["hadi"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "fena",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "bad, ugly, awful, terrible",
+  "sentences": [
+    { "id": "fena_s1", "text": "Bugün hava çok [fena].", "note": "the weather is very bad today" },
+    { "id": "fena_s2", "text": "[Fena] bir kaza oldu dün.", "note": "a bad accident happened yesterday" },
+    { "id": "fena_s3", "text": "[Fena] değil gitarını çalıyor.", "note": "he plays guitar quite well (not bad)" },
+    { "id": "fena_s4", "text": "[Fena] bir durum bu, çözüm lazım.", "note": "this is a bad situation, a solution is needed" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "fena_r1",
+      "prompt": "Kötü, iyi olmayan. Ne denir?",
+      "accepted_forms": ["fena"],
+      "note": null
+    },
+    {
+      "id": "fena_r2",
+      "prompt": "[Fena] bir fikriin var mı?",
+      "accepted_forms": ["fena"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "Efes",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "Ephesus (ancient city)",
+  "sentences": [
+    { "id": "efes_s1", "text": "[Efes] antik dönemin önemli şehri.", "note": null },
+    { "id": "efes_s2", "text": "[Efes'te] Artemis Tapınağı vardı.", "note": "'Efes'te' = in Ephesus" },
+    { "id": "efes_s3", "text": "Meryem Ana [Efes'e] kaçmıştır.", "note": "biblical reference" },
+    { "id": "efes_s4", "text": "[Efes] tiyatrosu harika korunmuş.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "efes_r1",
+      "prompt": "Antik Türkiye'deki meşhur eski şehir. Ne denir?",
+      "accepted_forms": ["Efes"],
+      "note": null
+    },
+    {
+      "id": "efes_r2",
+      "prompt": "[Efes] tapınağı çok ünlüydü.",
+      "accepted_forms": ["Efes"],
+      "note": null
+    }
+  ]
+}

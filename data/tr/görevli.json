@@ -1,0 +1,41 @@
+{
+  "word": "görevli",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "officer, official, staff member",
+  "sentences": [
+    {
+      "id": "gorevli_s1",
+      "text": "[Görevli] arkamızdan geldi.",
+      "note": null
+    },
+    {
+      "id": "gorevli_s2",
+      "text": "Tren [görevli]si çok kibar.",
+      "note": null
+    },
+    {
+      "id": "gorevli_s3",
+      "text": "[Görevli]lere soru soradık.",
+      "note": null
+    },
+    {
+      "id": "gorevli_s4",
+      "text": "Okulun [görevli]si geldi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gorevli_r1",
+      "prompt": "Belirli bir görev yapan kişi ne denir?",
+      "accepted_forms": [
+        "görevli",
+        "görevliler",
+        "görevliye"
+      ],
+      "note": null
+    }
+  ]
+}

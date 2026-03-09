@@ -1,0 +1,27 @@
+{
+  "word": "kedi",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "cat",
+  "sentences": [
+    { "id": "kedi_s1", "text": "[Kedi] evde uyuyor.", "note": null },
+    { "id": "kedi_s2", "text": "[Kedimiz] turuncu renkli.", "note": null },
+    { "id": "kedi_s3", "text": "[Kediyi] seven çok kişi var.", "note": null },
+    { "id": "kedi_s4", "text": "[Kedinin] pençeleri keskin.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kedi_r1",
+      "prompt": "Evde yaşayan tüylü hayvan, yaşlı ve temiz. O ne?",
+      "accepted_forms": ["kedi", "kedim", "kedi bir hayvan"],
+      "note": null
+    },
+    {
+      "id": "kedi_r2",
+      "prompt": "Fare avlayan hayvan. Türkçede ... denir.",
+      "accepted_forms": ["kedi", "kediye"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "gerçekleşmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to come true, to materialize, to be realized",
+  "sentences": [
+    {
+      "id": "gerceklesme_s1",
+      "text": "Rüyası [gerçekleşti].",
+      "note": null
+    },
+    {
+      "id": "gerceklesme_s2",
+      "text": "Planlar [gerçekleşmedi].",
+      "note": null
+    },
+    {
+      "id": "gerceklesme_s3",
+      "text": "Ümitlerin [gerçekleşeceğini] umuyorum.",
+      "note": null
+    },
+    {
+      "id": "gerceklesme_s4",
+      "text": "Hedef [gerçekleşti].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gerceklesme_r1",
+      "prompt": "Hayal veya umut edilen şeyin gerçek olması demek için hangi fiil kullanılır?",
+      "accepted_forms": [
+        "gerçekleşmek",
+        "gerçekleşti",
+        "gerçekleşeceği"
+      ],
+      "note": null
+    }
+  ]
+}

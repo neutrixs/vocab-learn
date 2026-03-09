@@ -1,0 +1,27 @@
+{
+  "word": "fark",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "difference, distinction",
+  "sentences": [
+    { "id": "fark_s1", "text": "[Fark] çok büyük bu iki kitap arasında.", "note": "the difference is very big between these two books" },
+    { "id": "fark_s2", "text": "[Farkı] anlamıyor çocuk.", "note": "'farkı' = the difference (accusative)" },
+    { "id": "fark_s3", "text": "Benim [farkım] nedir sizinle?", "note": "what's my difference from you?" },
+    { "id": "fark_s4", "text": "[Farkını] öğren bundan.", "note": "learn the difference from this" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "fark_r1",
+      "prompt": "İki şey arasındaki ayrılık. Ne denir?",
+      "accepted_forms": ["fark"],
+      "note": null
+    },
+    {
+      "id": "fark_r2",
+      "prompt": "[Fark] ne var bu ikisi arasında?",
+      "accepted_forms": ["fark"],
+      "note": null
+    }
+  ]
+}

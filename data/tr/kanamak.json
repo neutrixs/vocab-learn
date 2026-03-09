@@ -1,0 +1,37 @@
+{
+  "word": "kanamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to bleed",
+  "sentences": [
+    {
+      "id": "kanamak_s1",
+      "text": "Parmağı [kanandı] çünkü kesikti.",
+      "note": null
+    },
+    {
+      "id": "kanamak_s2",
+      "text": "[Kanıyor] mu? Tıkanalım bunu.",
+      "note": null
+    },
+    {
+      "id": "kanamak_s3",
+      "text": "Burun [kanayan] çocuğu hemen doktor'a taşıdım.",
+      "note": null
+    },
+    {
+      "id": "kanamak_s4",
+      "text": "Yarasından [kanıyor] çok sayılı kanama.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kanamak_r1",
+      "prompt": "Vücuttan kan çıkmak anlamında ne dersin?",
+      "accepted_forms": ["kanamak", "kanandı", "kanıyor"],
+      "note": null
+    }
+  ]
+}

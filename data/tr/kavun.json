@@ -1,0 +1,37 @@
+{
+  "word": "kavun",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "melon",
+  "sentences": [
+    {
+      "id": "kavun_s1",
+      "text": "Yaz [kavunu] çok güzel oldu.",
+      "note": null
+    },
+    {
+      "id": "kavun_s2",
+      "text": "[Kavunun] kokusunu alır mısın?",
+      "note": null
+    },
+    {
+      "id": "kavun_s3",
+      "text": "[Kavunu] kesiyor, dilimler kesildi.",
+      "note": null
+    },
+    {
+      "id": "kavun_s4",
+      "text": "[Kavunlar] pazarda satılıyor çok.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kavun_r1",
+      "prompt": "Yazın yenilen tatlı ve sulu meyvesi nedir?",
+      "accepted_forms": ["kavun", "kavunu", "kavunlar"],
+      "note": null
+    }
+  ]
+}

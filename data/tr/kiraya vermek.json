@@ -1,0 +1,27 @@
+{
+  "word": "kiraya vermek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to rent out, to lease",
+  "sentences": [
+    { "id": "kiraya_vermek_s1", "text": "Evi [kiraya verdi].", "note": null },
+    { "id": "kiraya_vermek_s2", "text": "Arabayı [kiraya verir].", "note": null },
+    { "id": "kiraya_vermek_s3", "text": "[Kiraya vermek] için belge gerekir.", "note": null },
+    { "id": "kiraya_vermek_s4", "text": "[Kiraya verdiği] daire güzel.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kiraya_vermek_r1",
+      "prompt": "Evini başkasına karşılığında para alarak kullanmaya vermek. Türkçede ne denir?",
+      "accepted_forms": ["kiraya vermek", "kiraya verir", "kiraya verdim"],
+      "note": null
+    },
+    {
+      "id": "kiraya_vermek_r2",
+      "prompt": "Otelden yardımcı hizmet almak. 'Arabayı ... isterim.'",
+      "accepted_forms": ["kiraya vermek", "kiraya almak"],
+      "note": null
+    }
+  ]
+}

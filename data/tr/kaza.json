@@ -1,0 +1,27 @@
+{
+  "word": "kaza",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "accident",
+  "sentences": [
+    { "id": "kaza_s1", "text": "Trafik [kazası] kabarış haberlerde.", "note": null },
+    { "id": "kaza_s2", "text": "[Kaza] olmuş, bir yaralı var.", "note": null },
+    { "id": "kaza_s3", "text": "[Kazaya] karışmış arabalar orada.", "note": null },
+    { "id": "kaza_s4", "text": "İş [kazası] çok ciddi.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kaza_r1",
+      "prompt": "Yolda beklenmeyen durum oldu. Doktor 'Bir ... var.' dedi.",
+      "accepted_forms": ["kaza", "kaza var", "kazası"],
+      "note": null
+    },
+    {
+      "id": "kaza_r2",
+      "prompt": "İş yerinde birinin düştüğü olay. Bu iş ...",
+      "accepted_forms": ["kazası", "kaza"],
+      "note": null
+    }
+  ]
+}

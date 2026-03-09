@@ -1,0 +1,27 @@
+{
+  "word": "keşfetmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to discover, to explore",
+  "sentences": [
+    { "id": "keşfetmek_s1", "text": "Amerika [keşfedildi] 1492'de.", "note": null },
+    { "id": "keşfetmek_s2", "text": "Yeni yerler [keşfetmek] isterim.", "note": null },
+    { "id": "keşfetmek_s3", "text": "[Keşfetti] bilim adamı sırrı.", "note": null },
+    { "id": "keşfetmek_s4", "text": "İç [keşfetmeyi] dukkasından çıkılmayan yenilik.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "keşfetmek_r1",
+      "prompt": "Bilinmeyen yeri bulup tanıma. 'Yeni dünyadı Kolomb ...'",
+      "accepted_forms": ["keşfetti", "keşfetmek"],
+      "note": null
+    },
+    {
+      "id": "keşfetmek_r2",
+      "prompt": "Bilinmeyen bir şeyi bilim yoluyla ortaya çıkartma. 'İçinde ne varsa ...'",
+      "accepted_forms": ["keşfet", "keşfetmeliyiz"],
+      "note": null
+    }
+  ]
+}

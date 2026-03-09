@@ -1,0 +1,27 @@
+{
+  "word": "kısa",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "short",
+  "sentences": [
+    { "id": "kisa_s1", "text": "[Kısa] elbise giydi.", "note": null },
+    { "id": "kisa_s2", "text": "Saçları [kısa].", "note": null },
+    { "id": "kisa_s3", "text": "[Kısa] bir konuşma yapacak.", "note": null },
+    { "id": "kisa_s4", "text": "[Kısasına] söylemek gerekirse.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kisa_r1",
+      "prompt": "Uzunluğu az olan. 'Pantolon çok ...'",
+      "accepted_forms": ["kısa", "kısası"],
+      "note": null
+    },
+    {
+      "id": "kisa_r2",
+      "prompt": "Zaman açısından az. '[...] zaman sonra buluşacağız.'",
+      "accepted_forms": ["kısa", "kısa bir"],
+      "note": null
+    }
+  ]
+}

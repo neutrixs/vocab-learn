@@ -1,0 +1,41 @@
+{
+  "word": "geliş",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "coming, arrival, development",
+  "sentences": [
+    {
+      "id": "gelis_s1",
+      "text": "[Geliş]i kolaylaştırdık.",
+      "note": null
+    },
+    {
+      "id": "gelis_s2",
+      "text": "Ülke [geliş]i çok hızlı.",
+      "note": null
+    },
+    {
+      "id": "gelis_s3",
+      "text": "Teknolojinin [geliş]ini gözlemlediler.",
+      "note": null
+    },
+    {
+      "id": "gelis_s4",
+      "text": "Onun [geliş]i bekledik.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gelis_r1",
+      "prompt": "Gelme eylemi veya ileriye doğru hareket etmek demek için kullanılan isim nedir?",
+      "accepted_forms": [
+        "geliş",
+        "gelişi",
+        "gelişinin"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "genelde",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adverb",
+  "english_gloss": "in general, generally, usually",
+  "sentences": [
+    {
+      "id": "genelde_s1",
+      "text": "[Genelde] erkekler spor yapmayı sevir.",
+      "note": null
+    },
+    {
+      "id": "genelde_s2",
+      "text": "[Genelde] pazarlama haftasında daha yoğun.",
+      "note": null
+    },
+    {
+      "id": "genelde_s3",
+      "text": "[Genelde] kırmızı araba hızlı görünür.",
+      "note": null
+    },
+    {
+      "id": "genelde_s4",
+      "text": "[Genelde] sabah erkenci uyanarum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "genelde_r1",
+      "prompt": "Çoğunlukla, çok sık olarak demek anlamında kullanılan sözcük nedir?",
+      "accepted_forms": [
+        "genelde",
+        "genellikle",
+        "çoğunlukla"
+      ],
+      "note": null
+    }
+  ]
+}

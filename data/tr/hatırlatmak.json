@@ -1,0 +1,27 @@
+{
+  "word": "hatırlatmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to remind",
+  "sentences": [
+    { "id": "hatirla2_s1", "text": "Seni yarın toplantı [hatırlatacağım]].", "note": null },
+    { "id": "hatirla2_s2", "text": "[Hatırlat]] bana akşam.", "note": "imperative: remind me" },
+    { "id": "hatirla2_s3", "text": "Bana adını [hatırlatır]] mısın?", "note": null },
+    { "id": "hatirla2_s4", "text": "[Hatırlatmak]] istediğim bir şey var.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hatirla2_r1",
+      "prompt": "Birinin unuttuğu bir şeyi tekrar hatırlamasını sağlamak: ...",
+      "accepted_forms": ["hatırlatmak"],
+      "note": null
+    },
+    {
+      "id": "hatirla2_r2",
+      "prompt": "Lütfen beni ödeme günü [...] lazım.",
+      "accepted_forms": ["hatırlatmalı"],
+      "note": null
+    }
+  ]
+}

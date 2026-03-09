@@ -1,0 +1,27 @@
+{
+  "word": "düşünmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to think, to consider",
+  "sentences": [
+    { "id": "dusunmek_s1", "text": "Sık sık [düşünüyorum] bu konu hakkında.", "note": null },
+    { "id": "dusunmek_s2", "text": "[Düşündüğümüz] zaman cevap bulabiliriz.", "note": null },
+    { "id": "dusunmek_s3", "text": "Lütfen [düşün], sonra karar ver.", "note": "imperative" },
+    { "id": "dusunmek_s4", "text": "Hep seni [düşünüyorum].", "note": "idiomatic: I keep thinking of you" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dusunmek_r1",
+      "prompt": "Kafanızda fikir oluşturmak. Ne yapmışsınız?",
+      "accepted_forms": ["düşünmek", "düşün", "düşündüm"],
+      "note": null
+    },
+    {
+      "id": "dusunmek_r2",
+      "prompt": "Bir karar vermeden önce biraz ... . (think)",
+      "accepted_forms": ["düşün", "düşünmeliyiz", "düşünmek"],
+      "note": null
+    }
+  ]
+}

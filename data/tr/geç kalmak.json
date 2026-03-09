@@ -1,0 +1,41 @@
+{
+  "word": "geç kalmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to be late, to arrive late",
+  "sentences": [
+    {
+      "id": "geckalmak_s1",
+      "text": "Trene [geç kaldım].",
+      "note": null
+    },
+    {
+      "id": "geckalmak_s2",
+      "text": "[Geç kalma], aksi taktirde başarısız olursun.",
+      "note": null
+    },
+    {
+      "id": "geckalmak_s3",
+      "text": "Okuldan [geç kaldı].",
+      "note": null
+    },
+    {
+      "id": "geckalmak_s4",
+      "text": "[Geç kalmayız] diye umuyorum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "geckalmak_r1",
+      "prompt": "Saat 8'de toplantı varken 8:15'te gelmek ne denir?",
+      "accepted_forms": [
+        "geç kalmak",
+        "geç kaldım",
+        "geç kalma"
+      ],
+      "note": null
+    }
+  ]
+}

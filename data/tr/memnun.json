@@ -1,0 +1,27 @@
+{
+  "word": "memnun",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "satisfied, pleased, content",
+  "sentences": [
+    { "id": "memnun_s1", "text": "Sonuçtan [memnun] musun?", "note": null },
+    { "id": "memnun_s2", "text": "[Memnun] değilim bu fiyattan.", "note": null },
+    { "id": "memnun_s3", "text": "Çok [memnun] kaldı müşteri.", "note": null },
+    { "id": "memnun_s4", "text": "[Memnuniyet] göstermesi gerek.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "memnun_r1",
+      "prompt": "Hoşlanmış, tatmin olmuş. 'Satın aldığın üründen ... musun?'",
+      "accepted_forms": ["memnun", "hoşlanmış"],
+      "note": null
+    },
+    {
+      "id": "memnun_r2",
+      "prompt": "İdeal kilde tatmin olmuş durumu. 'Ben bu koşullardan ... değilim.'",
+      "accepted_forms": ["memnun"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "word": "kafa",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "head, mind, idea",
+  "sentences": [
+    {
+      "id": "kafa_s1",
+      "text": "Başını [kafasına] aldı.",
+      "note": null
+    },
+    {
+      "id": "kafa_s2",
+      "text": "[Kafam] ağrıyor, bir aspirin al.",
+      "note": null
+    },
+    {
+      "id": "kafa_s3",
+      "text": "Saçını [kafasında] açtı.",
+      "note": null
+    },
+    {
+      "id": "kafa_s4",
+      "text": "[Kafa] fıkrası komik mi sence?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kafa_r1",
+      "prompt": "Beyin ve düşüncelerin bulunduğu vücut parçası nedir?",
+      "accepted_forms": ["kafa", "kafam", "kafası"],
+      "note": null
+    }
+  ]
+}

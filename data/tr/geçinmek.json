@@ -1,0 +1,41 @@
+{
+  "word": "geçinmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to get along, to manage, to make a living",
+  "sentences": [
+    {
+      "id": "gecinmek_s1",
+      "text": "Onlar iyi [geçin]iyorlar.",
+      "note": null
+    },
+    {
+      "id": "gecinmek_s2",
+      "text": "Az parayla [geçin]mek zor.",
+      "note": null
+    },
+    {
+      "id": "gecinmek_s3",
+      "text": "Eşi ve dört çocuğuyla [geçin]iyor.",
+      "note": null
+    },
+    {
+      "id": "gecinmek_s4",
+      "text": "Onlarla [geçin]ebilirim.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gecinmek_r1",
+      "prompt": "Birbirlerine iyi davranan veya parayla idare eden kişileri tanımlamak için hangi fiil kullanılır?",
+      "accepted_forms": [
+        "geçinmek",
+        "geçiniyorlar",
+        "geçin"
+      ],
+      "note": null
+    }
+  ]
+}

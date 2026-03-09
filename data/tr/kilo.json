@@ -1,0 +1,27 @@
+{
+  "word": "kilo",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "kilogram, kilo",
+  "sentences": [
+    { "id": "kilo_s1", "text": "Ağırlığı yirmi [kilo].", "note": null },
+    { "id": "kilo_s2", "text": "Kaç [kiloyum]?", "note": null },
+    { "id": "kilo_s3", "text": "[Kilo] almak istiyorum.", "note": null },
+    { "id": "kilo_s4", "text": "Elmalar iki [kiloya] satılıyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kilo_r1",
+      "prompt": "Ağırlık ölçüsü. 1000 gram = 1 ...",
+      "accepted_forms": ["kilo", "kilogram"],
+      "note": null
+    },
+    {
+      "id": "kilo_r2",
+      "prompt": "Beslenme yazısında 'Benim ağırlığım 70 ...'",
+      "accepted_forms": ["kilo", "kilogram"],
+      "note": null
+    }
+  ]
+}

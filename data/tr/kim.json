@@ -1,0 +1,27 @@
+{
+  "word": "kim",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "pronoun",
+  "english_gloss": "who, whom",
+  "sentences": [
+    { "id": "kim_s1", "text": "[Kim] geldi?", "note": null },
+    { "id": "kim_s2", "text": "[Kimdir] bu kız?", "note": null },
+    { "id": "kim_s3", "text": "[Kimi] çağıracağım?", "note": null },
+    { "id": "kim_s4", "text": "[Kiminle] konuştun?", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kim_r1",
+      "prompt": "Kişi hakkında soru. '... geldi?' diyorsun.",
+      "accepted_forms": ["kim", "kimler"],
+      "note": null
+    },
+    {
+      "id": "kim_r2",
+      "prompt": "Kimlerin adını soruyorsun. 'Buraya ... geldi?'",
+      "accepted_forms": ["kim", "kimler"],
+      "note": null
+    }
+  ]
+}

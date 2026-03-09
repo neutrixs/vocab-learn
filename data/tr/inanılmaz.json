@@ -1,0 +1,37 @@
+{
+  "word": "inanılmaz",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "incredible, unbelievable, amazing",
+  "sentences": [
+    {
+      "id": "inanılmaz_s1",
+      "text": "Bu gerçekten [inanılmaz] bir başarı!",
+      "note": null
+    },
+    {
+      "id": "inanılmaz_s2",
+      "text": "[İnanılmaz] bir haberle uyandım.",
+      "note": null
+    },
+    {
+      "id": "inanılmaz_s3",
+      "text": "Fiyatı [inanılmaz] derecede uygun.",
+      "note": null
+    },
+    {
+      "id": "inanılmaz_s4",
+      "text": "[İnanılmaz]! Bu nasıl mümkün oldu?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "inanılmaz_r1",
+      "prompt": "Çok şaşırtıcı ve imkansız gibi görünen bir şeyi nasıl tanımlarsın?",
+      "accepted_forms": ["inanılmaz", "inanılmaz derecede"],
+      "note": null
+    }
+  ]
+}

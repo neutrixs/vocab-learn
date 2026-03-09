@@ -1,0 +1,37 @@
+{
+  "word": "karşı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "postposition",
+  "english_gloss": "against, opposite, facing",
+  "sentences": [
+    {
+      "id": "karşı_s1",
+      "text": "[Karşı] tarafta bir ışık gördü.",
+      "note": null
+    },
+    {
+      "id": "karşı_s2",
+      "text": "Fikre [karşı] çıkması gerekti.",
+      "note": null
+    },
+    {
+      "id": "karşı_s3",
+      "text": "Ydı [karşı] yana oturduk.",
+      "note": null
+    },
+    {
+      "id": "karşı_s4",
+      "text": "[Karşı] kıyıya gemi gidiyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "karşı_r1",
+      "prompt": "Bir şeyin diğer tarafında veya onun tersine anlamında ne dersin?",
+      "accepted_forms": ["karşı", "karşıya"],
+      "note": null
+    }
+  ]
+}

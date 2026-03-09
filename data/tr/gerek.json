@@ -1,0 +1,40 @@
+{
+  "word": "gerek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "pronoun",
+  "english_gloss": "whether...or, either...or, any",
+  "sentences": [
+    {
+      "id": "gerek_s1",
+      "text": "[Gerek] erkek [gerek] kız gelsin.",
+      "note": null
+    },
+    {
+      "id": "gerek_s2",
+      "text": "[Gerek] bugün [gerek] yarın geri döneceğim.",
+      "note": null
+    },
+    {
+      "id": "gerek_s3",
+      "text": "[Gerek] yazılı [gerek] sözlü imtihan verebilir.",
+      "note": null
+    },
+    {
+      "id": "gerek_s4",
+      "text": "[Gerek] makine [gerek] insan yapabilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gerek_r1",
+      "prompt": "İki seçenekten herhangi birini belirtmek için kullanılan sözcük nedir?",
+      "accepted_forms": [
+        "gerek",
+        "gerek...gerek"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "word": "kalp",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "heart",
+  "sentences": [
+    {
+      "id": "kalp_s1",
+      "text": "[Kalpm] hızlı atıyor, çok heyecanlı.",
+      "note": null
+    },
+    {
+      "id": "kalp_s2",
+      "text": "[Kalplerini] ellerinde tutarak bekliyorlardı.",
+      "note": null
+    },
+    {
+      "id": "kalp_s3",
+      "text": "[Kalp] hastalığı çok tehlikeli olabilir.",
+      "note": null
+    },
+    {
+      "id": "kalp_s4",
+      "text": "[Kalbinden] bağlı bir şarkı söyledi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kalp_r1",
+      "prompt": "Vücut içinde kandan sorumlu olan organ nedir?",
+      "accepted_forms": ["kalp", "kalbim", "kalbi"],
+      "note": null
+    }
+  ]
+}

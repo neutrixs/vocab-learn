@@ -1,0 +1,27 @@
+{
+  "word": "fakat",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "conjunction",
+  "english_gloss": "but, however",
+  "sentences": [
+    { "id": "fakat_s1", "text": "Gelmek istedim [fakat] zaman yoktu.", "note": "I wanted to come, but I didn't have time" },
+    { "id": "fakat_s2", "text": "Seninle katılıyorum [fakat] pazarlamada sorun var.", "note": "I agree with you, however there's a problem in marketing" },
+    { "id": "fakat_s3", "text": "[Fakat] sonra ne oldu sorsam bilmiyorsun.", "note": "but you don't know what happened later" },
+    { "id": "fakat_s4", "text": "Zengin [fakat] mutsuz.", "note": "rich, but unhappy" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "fakat_r1",
+      "prompt": "Karşıt bir durumu söylemek için. Ne kullanırız?",
+      "accepted_forms": ["fakat", "ama"],
+      "note": null
+    },
+    {
+      "id": "fakat_r2",
+      "prompt": "Gitmek istedi [fakat] yapamadı.",
+      "accepted_forms": ["fakat"],
+      "note": null
+    }
+  ]
+}

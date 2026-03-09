@@ -1,0 +1,27 @@
+{
+  "word": "meşgul",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "busy, occupied, engaged",
+  "sentences": [
+    { "id": "mesgul_s1", "text": "Şu an [meşgülüm].", "note": null },
+    { "id": "mesgul_s2", "text": "[Meşgul] olmaktan kurtaramadı.", "note": null },
+    { "id": "mesgul_s3", "text": "[Meşgul] değilsen gel.", "note": null },
+    { "id": "mesgul_s4", "text": "Çok [meşgülüm] bu haftada.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "mesgul_r1",
+      "prompt": "Zamanı başka işle dolu. 'Şu an ... ...'",
+      "accepted_forms": ["meşgülüm", "meşgul"],
+      "note": null
+    },
+    {
+      "id": "mesgul_r2",
+      "prompt": "Yapacak işi çok. 'Çok ... bir gün geçirdim.'",
+      "accepted_forms": ["meşgul"],
+      "note": null
+    }
+  ]
+}

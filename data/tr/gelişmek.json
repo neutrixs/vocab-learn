@@ -1,0 +1,41 @@
+{
+  "word": "gelişmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to develop, to grow, to improve",
+  "sentences": [
+    {
+      "id": "gelismek_s1",
+      "text": "Çocuk hızlı [gelişi]yor.",
+      "note": null
+    },
+    {
+      "id": "gelismek_s2",
+      "text": "Ülke ekonomik olarak [gelişiyor].",
+      "note": null
+    },
+    {
+      "id": "gelismek_s3",
+      "text": "Proje iyi [gelişti].",
+      "note": null
+    },
+    {
+      "id": "gelismek_s4",
+      "text": "[Gelişmeleri] takip etmeliyiz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gelismek_r1",
+      "prompt": "Küçük veya zayıf olan bir şeyin büyümesi ve güçlenmesi demek için hangi fiil kullanılır?",
+      "accepted_forms": [
+        "gelişmek",
+        "gelişiyor",
+        "gelişti"
+      ],
+      "note": null
+    }
+  ]
+}

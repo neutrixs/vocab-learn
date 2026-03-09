@@ -1,0 +1,40 @@
+{
+  "word": "gibi",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "postposition",
+  "english_gloss": "like, as, such as",
+  "sentences": [
+    {
+      "id": "gibi_s1",
+      "text": "Kuş [gibi] uça bilmiyorum.",
+      "note": null
+    },
+    {
+      "id": "gibi_s2",
+      "text": "Siz [gibi] başarılı olmak istiyorum.",
+      "note": null
+    },
+    {
+      "id": "gibi_s3",
+      "text": "[Gibi] bir şey yok.",
+      "note": null
+    },
+    {
+      "id": "gibi_s4",
+      "text": "Sizin [gibi] insanlara ihtiyaç var.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gibi_r1",
+      "prompt": "Bir benzerlik veya örnek vermek için kullanılan sözcük nedir?",
+      "accepted_forms": [
+        "gibi",
+        "benzeri"
+      ],
+      "note": null
+    }
+  ]
+}

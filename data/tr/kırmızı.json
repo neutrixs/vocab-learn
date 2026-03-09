@@ -1,0 +1,27 @@
+{
+  "word": "kırmızı",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "red",
+  "sentences": [
+    { "id": "kirmizi_s1", "text": "[Kırmızı] çiçek çok güzel.", "note": null },
+    { "id": "kirmizi_s2", "text": "Elbisesi [kırmızı].", "note": null },
+    { "id": "kirmizi_s3", "text": "Bayrak [kırmızı] beyaz.", "note": null },
+    { "id": "kirmizi_s4", "text": "[Kırmızı] ışıkta durmalısın.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kirmizi_r1",
+      "prompt": "Kan rengi gibi olan renk. Türkçesi?",
+      "accepted_forms": ["kırmızı", "al"],
+      "note": null
+    },
+    {
+      "id": "kirmizi_r2",
+      "prompt": "Trafik ışığında dur anlamı. '... ışık.'",
+      "accepted_forms": ["kırmızı"],
+      "note": null
+    }
+  ]
+}

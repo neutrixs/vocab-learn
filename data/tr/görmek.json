@@ -1,0 +1,41 @@
+{
+  "word": "görmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to see, to watch",
+  "sentences": [
+    {
+      "id": "gormek_s1",
+      "text": "Filmi [gör]dük.",
+      "note": null
+    },
+    {
+      "id": "gormek_s2",
+      "text": "[Gör] bana, durumun ne?",
+      "note": null
+    },
+    {
+      "id": "gormek_s3",
+      "text": "Yarın seni [göreceğim].",
+      "note": null
+    },
+    {
+      "id": "gormek_s4",
+      "text": "Denizi [gördü]m.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gormek_r1",
+      "prompt": "Gözlerle bir şeyi algılamak demek için hangi fiil kullanılır?",
+      "accepted_forms": [
+        "görmek",
+        "gördü",
+        "gör"
+      ],
+      "note": null
+    }
+  ]
+}

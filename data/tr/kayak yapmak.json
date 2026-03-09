@@ -1,0 +1,27 @@
+{
+  "word": "kayak yapmak",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "verb",
+  "english_gloss": "to ski",
+  "sentences": [
+    { "id": "kayak_yapmak_s1", "text": "Kış aylarında dağlarda [kayak yapıyoruz].", "note": null },
+    { "id": "kayak_yapmak_s2", "text": "Lütfen bana [kayak yapmayı] öğret.", "note": null },
+    { "id": "kayak_yapmak_s3", "text": "[Kayak yaptığı] zaman çok mutlu.", "note": null },
+    { "id": "kayak_yapmak_s4", "text": "Çocuklar ilk kez [kayak yapacak].", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kayak_yapmak_r1",
+      "prompt": "Karda dağda iki çubuğu kullanarak iniyorsun. Bunu Türkçede ne diyorsun?",
+      "accepted_forms": ["kayak yapıyorum", "kayak yaptım", "kayak yapmak"],
+      "note": null
+    },
+    {
+      "id": "kayak_yapmak_r2",
+      "prompt": "Kışın Uludağ'a gitmek için amacın nedir? '... için gidiyorum.'",
+      "accepted_forms": ["kayak yapmak", "kayak yapmaya", "kayak yaptığımız"],
+      "note": null
+    }
+  ]
+}

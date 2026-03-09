@@ -1,0 +1,27 @@
+{
+  "word": "keşke",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "interjection",
+  "english_gloss": "if only, I wish",
+  "sentences": [
+    { "id": "keşke_s1", "text": "[Keşke] gelemesen de olurdu.", "note": "I wish you hadn't come" },
+    { "id": "keşke_s2", "text": "[Keşke] daha erken gitsem.", "note": "I wish I had gone earlier" },
+    { "id": "keşke_s3", "text": "[Keşke] başarabileceğim.", "note": "if only I could succeed" },
+    { "id": "keşke_s4", "text": "[Keşke] güneş çıksaydı.", "note": "I wish the sun had come out" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "keşke_r1",
+      "prompt": "Bir şey meydana gelmesini dilemek. '... gelseydim!'",
+      "accepted_forms": ["keşke", "keşke ben"],
+      "note": null
+    },
+    {
+      "id": "keşke_r2",
+      "prompt": "Geçmiş olaydan pişman olmak. '... yapmasaydım.'",
+      "accepted_forms": ["keşke", "keşke ben"],
+      "note": null
+    }
+  ]
+}

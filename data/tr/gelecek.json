@@ -1,0 +1,41 @@
+{
+  "word": "gelecek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "future",
+  "sentences": [
+    {
+      "id": "gelecek_s1",
+      "text": "[Gelecek] kaygılı görünüyor.",
+      "note": null
+    },
+    {
+      "id": "gelecek_s2",
+      "text": "[Gelecek]te ne olacak?",
+      "note": null
+    },
+    {
+      "id": "gelecek_s3",
+      "text": "Kendi [gelecek]ini belirlemeli.",
+      "note": null
+    },
+    {
+      "id": "gelecek_s4",
+      "text": "[Gelecek] parlak görünüyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gelecek_r1",
+      "prompt": "Şu andan sonraki zaman ne denir?",
+      "accepted_forms": [
+        "gelecek",
+        "gelecekte",
+        "gelecekte"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "evvelki gün",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "the day before, yesterday (archaic)",
+  "sentences": [
+    { "id": "evvelkigün_s1", "text": "[Evvelki gün] ne yaptın?", "note": "'the day before' - more archaic usage" },
+    { "id": "evvelkigün_s2", "text": "[Evvelki gün] gitmiş mi gelmesi gerekiyordu?", "note": null },
+    { "id": "evvelkigün_s3", "text": "[Evvelki günü] hatırlamıyorum.", "note": "'evvelki günü' = the day before (accusative)" },
+    { "id": "evvelkigün_s4", "text": "[Evvelki gün] gelecekte sakınıyordu.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "evvelkigün_r1",
+      "prompt": "Bugünün bir gün öncesi, önceki gün. Ne denir?",
+      "accepted_forms": ["evvelki gün"],
+      "note": null
+    },
+    {
+      "id": "evvelkigün_r2",
+      "prompt": "[Evvelki gün] olay oldu.",
+      "accepted_forms": ["evvelki gün"],
+      "note": null
+    }
+  ]
+}

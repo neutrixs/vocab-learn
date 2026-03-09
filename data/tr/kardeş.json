@@ -1,0 +1,37 @@
+{
+  "word": "kardeş",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "brother, sister, sibling",
+  "sentences": [
+    {
+      "id": "kardeş_s1",
+      "text": "Benim [kardeşim] benimle okula gidiyordu.",
+      "note": null
+    },
+    {
+      "id": "kardeş_s2",
+      "text": "[Kardeşi] yüzde tam kuzenim gibi benzer.",
+      "note": null
+    },
+    {
+      "id": "kardeş_s3",
+      "text": "[Kardeşler] bir odada uyuyorlardı.",
+      "note": null
+    },
+    {
+      "id": "kardeş_s4",
+      "text": "[Kardeşin] var mı, kaç kişi?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kardeş_r1",
+      "prompt": "Senden aynı ebeveynleri paylaşan erkek veya kız çocuk nedir?",
+      "accepted_forms": ["kardeş", "kardeşim", "kardeşleri"],
+      "note": null
+    }
+  ]
+}

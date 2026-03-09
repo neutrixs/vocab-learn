@@ -1,0 +1,41 @@
+{
+  "word": "getirmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to bring",
+  "sentences": [
+    {
+      "id": "getirmek_s1",
+      "text": "Su [getir] lütfen.",
+      "note": null
+    },
+    {
+      "id": "getirmek_s2",
+      "text": "[Getir]diği hediye güzel miydi?",
+      "note": null
+    },
+    {
+      "id": "getirmek_s3",
+      "text": "Ekmek [getir]mesini söyledim.",
+      "note": null
+    },
+    {
+      "id": "getirmek_s4",
+      "text": "Kitaplarını [getir]ecek mi?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "getirmek_r1",
+      "prompt": "Başka bir yerden buraya taşımak demek için hangi fiil kullanılır?",
+      "accepted_forms": [
+        "getirmek",
+        "getir",
+        "getirdi"
+      ],
+      "note": null
+    }
+  ]
+}

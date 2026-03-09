@@ -1,0 +1,37 @@
+{
+  "word": "karışık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "mixed, confused, tangled, chaotic",
+  "sentences": [
+    {
+      "id": "karışık_s1",
+      "text": "Oda çok [karışık], düzelt bunu.",
+      "note": null
+    },
+    {
+      "id": "karışık_s2",
+      "text": "[Karışık] bir durumda kaldık..",
+      "note": null
+    },
+    {
+      "id": "karışık_s3",
+      "text": "[Karışık] saçlarını taradı ayna önünde.",
+      "note": null
+    },
+    {
+      "id": "karışık_s4",
+      "text": "[Karışık] duygular yaşıyorum şimdi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "karışık_r1",
+      "prompt": "Düzenli olmayan ve birbirinden ayırt edilemeyen şeyi nasıl tanımlarsın?",
+      "accepted_forms": ["karışık", "karışık oldu", "karışıksa"],
+      "note": null
+    }
+  ]
+}

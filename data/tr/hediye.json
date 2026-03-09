@@ -1,0 +1,27 @@
+{
+  "word": "hediye",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "gift, present",
+  "sentences": [
+    { "id": "hediye_s1", "text": "[Hediye]] almaktan çok seviyorum.", "note": null },
+    { "id": "hediye_s2", "text": "[Hediyesi]] çok pahalı.", "note": "'hediyesi' = his/her gift (possessive)" },
+    { "id": "hediye_s3", "text": "[Hediyeyi]] açtı hemen.", "note": "'hediyeyi' = the gift (accusative)" },
+    { "id": "hediye_s4", "text": "Doğum günü [hediyesi]] ne almak istersin?", "note": "birthday gift" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hediye_r1",
+      "prompt": "Birinin sevmesi için verilen eşya: ...",
+      "accepted_forms": ["hediye"],
+      "note": null
+    },
+    {
+      "id": "hediye_r2",
+      "prompt": "Doğum günün için ona [...] aldım.",
+      "accepted_forms": ["hediye"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "kutu",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "box, container",
+  "sentences": [
+    { "id": "kutu_s1", "text": "[Kutu] içinde çikolata var.", "note": null },
+    { "id": "kutu_s2", "text": "[Kutuyu] açtı.", "note": null },
+    { "id": "kutu_s3", "text": "Büyük [kutu] isterim.", "note": null },
+    { "id": "kutu_s4", "text": "[Kutunun] kapağı kırık.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kutu_r1",
+      "prompt": "Eşya koymak için dişi şekilde yapılmış nesne. Türkçesi?",
+      "accepted_forms": ["kutu", "kutunun"],
+      "note": null
+    },
+    {
+      "id": "kutu_r2",
+      "prompt": "Hediye veya eşya için paket. '[...] içinde bulunur.'",
+      "accepted_forms": ["kutu", "kutuda"],
+      "note": null
+    }
+  ]
+}

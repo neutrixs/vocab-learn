@@ -1,0 +1,41 @@
+{
+  "word": "giysiler",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "clothes, clothing",
+  "sentences": [
+    {
+      "id": "giysiler_s1",
+      "text": "[Giysiler]ini asmaya başladı.",
+      "note": null
+    },
+    {
+      "id": "giysiler_s2",
+      "text": "[Giysiler]in rengi güzel.",
+      "note": null
+    },
+    {
+      "id": "giysiler_s3",
+      "text": "Yaz [giysiler]ini sakladı.",
+      "note": null
+    },
+    {
+      "id": "giysiler_s4",
+      "text": "[Giysiler]i yıkamak lazım.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "giysiler_r1",
+      "prompt": "Vücuda giyilen kumaş parçaları ne denir?",
+      "accepted_forms": [
+        "giysiler",
+        "giysi",
+        "elbise"
+      ],
+      "note": null
+    }
+  ]
+}

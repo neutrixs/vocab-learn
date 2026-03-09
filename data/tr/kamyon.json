@@ -1,0 +1,37 @@
+{
+  "word": "kamyon",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "truck",
+  "sentences": [
+    {
+      "id": "kamyon_s1",
+      "text": "Büyük [kamyon] yükü taşıyordu.",
+      "note": null
+    },
+    {
+      "id": "kamyon_s2",
+      "text": "[Kamyonda] oturarak evine gittik.",
+      "note": null
+    },
+    {
+      "id": "kamyon_s3",
+      "text": "[Kamyonun] motoru çok güçlü.",
+      "note": null
+    },
+    {
+      "id": "kamyon_s4",
+      "text": "Depo [kamyondan] boşaltılacak.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kamyon_r1",
+      "prompt": "Ağır yükler taşımak için kullanılan büyük araç nedir?",
+      "accepted_forms": ["kamyon", "kamyonda", "kamyondan"],
+      "note": null
+    }
+  ]
+}

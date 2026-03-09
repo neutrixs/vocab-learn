@@ -1,0 +1,27 @@
+{
+  "word": "grip",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "flu, influenza",
+  "sentences": [
+    { "id": "grip_s1", "text": "[Grip]e yakalandım.", "note": "'gripe' = caught the flu (dative)" },
+    { "id": "grip_s2", "text": "Bu yıl [grip] çok yaygın.", "note": null },
+    { "id": "grip_s3", "text": "[Gribbi] birinin yanında olmak tehlikeli.", "note": "'gripli' = having the flu" },
+    { "id": "grip_s4", "text": "[Grip] aşısı olmak önemli.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "grip_r1",
+      "prompt": "Mevsimsel bir hastalık: ...",
+      "accepted_forms": ["grip"],
+      "note": null
+    },
+    {
+      "id": "grip_r2",
+      "prompt": "Geçen hafta [...] oldum ve eve kapandım.",
+      "accepted_forms": ["grip", "gripli"],
+      "note": null
+    }
+  ]
+}

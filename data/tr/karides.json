@@ -1,0 +1,37 @@
+{
+  "word": "karides",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "shrimp, prawn",
+  "sentences": [
+    {
+      "id": "karides_s1",
+      "text": "[Karidesi] taze balıkçıdan aldık.",
+      "note": null
+    },
+    {
+      "id": "karides_s2",
+      "text": "[Karides] çorbası çok leziz.",
+      "note": null
+    },
+    {
+      "id": "karides_s3",
+      "text": "Denizde bol [karides] var.",
+      "note": null
+    },
+    {
+      "id": "karides_s4",
+      "text": "[Karidesi] ızgarada pişirdik.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "karides_r1",
+      "prompt": "Denizde yaşayan küçük ve lezzetli hayvan nedir?",
+      "accepted_forms": ["karides", "karidesi", "karidesten"],
+      "note": null
+    }
+  ]
+}

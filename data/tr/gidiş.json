@@ -1,0 +1,41 @@
+{
+  "word": "gidiş",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "departure, going",
+  "sentences": [
+    {
+      "id": "gidis_s1",
+      "text": "[Gidiş] vakti yaklaşıyor.",
+      "note": null
+    },
+    {
+      "id": "gidis_s2",
+      "text": "Onun [gidiş]i hızlıydı.",
+      "note": null
+    },
+    {
+      "id": "gidis_s3",
+      "text": "[Gidiş]in hızını görmüş müsün?",
+      "note": null
+    },
+    {
+      "id": "gidis_s4",
+      "text": "[Gidiş]i belli değil.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gidis_r1",
+      "prompt": "Gitme durumu veya hareketi demek için kullanılan isim nedir?",
+      "accepted_forms": [
+        "gidiş",
+        "gidişi",
+        "gidişinin"
+      ],
+      "note": null
+    }
+  ]
+}

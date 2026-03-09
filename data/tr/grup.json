@@ -1,0 +1,27 @@
+{
+  "word": "grup",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "group",
+  "sentences": [
+    { "id": "grup_s1", "text": "[Grup]ta beş kişi var.", "note": null },
+    { "id": "grup_s2", "text": "Müzik [grubu]ndan hoşlanıyorum.", "note": "'grubu' = group (accusative)" },
+    { "id": "grup_s3", "text": "[Grupla] çalışmak daha verimli.", "note": "'grupla' = with a group (instrumental)" },
+    { "id": "grup_s4", "text": "[Gruptan] ayrıldı.", "note": "'gruptan' = from the group (ablative)" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "grup_r1",
+      "prompt": "Birkaç kişinin bir araya gelmesi bir ... oluşturur.",
+      "accepted_forms": ["grup"],
+      "note": null
+    },
+    {
+      "id": "grup_r2",
+      "prompt": "Okuldaki arkadaşlarınla bir ... oluşturdunuz.",
+      "accepted_forms": ["grup"],
+      "note": null
+    }
+  ]
+}

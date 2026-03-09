@@ -1,0 +1,27 @@
+{
+  "word": "hangi",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "pronoun",
+  "english_gloss": "which, what",
+  "sentences": [
+    { "id": "hangi_s1", "text": "[Hangi]] rengi seviyorsun?", "note": null },
+    { "id": "hangi_s2", "text": "[Hangi]] kitabı okudum?", "note": null },
+    { "id": "hangi_s3", "text": "[Hangi]] ayda doğdun?", "note": null },
+    { "id": "hangi_s4", "text": "[Hangileri]] gelecek?", "note": "'hangileri' = which ones (plural)" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hangi_r1",
+      "prompt": "Seçim yaparken sorgulama kelimesi: '... renk istiyorsun?'",
+      "accepted_forms": ["hangi"],
+      "note": null
+    },
+    {
+      "id": "hangi_r2",
+      "prompt": "[...] kitabı okumak istiyorsun?",
+      "accepted_forms": ["hangi"],
+      "note": null
+    }
+  ]
+}
