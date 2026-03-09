@@ -66,6 +66,7 @@ export interface UILocale {
   about_title: string;
   about_text: string;
   data_local: string;
+  logout: string;
 }
 
 const tr: UILocale = {
@@ -137,6 +138,7 @@ const tr: UILocale = {
   about_title: 'HAKKINDA',
   about_text: 'Sözcük Öğren — Aralıklı tekrar (SM-2) ile yabancı dil kelime öğrenme uygulaması.',
   data_local: 'Veriler yalnızca tarayıcınızda saklanır.',
+  logout: 'Çıkış Yap',
 };
 
 const en: UILocale = {
@@ -208,6 +210,7 @@ const en: UILocale = {
   about_title: 'ABOUT',
   about_text: 'Sözcük Learn — A spaced-repetition (SM-2) vocabulary learning app.',
   data_local: 'Data is stored locally in your browser only.',
+  logout: 'Log out',
 };
 
 const locales: Record<string, UILocale> = { tr, en };
