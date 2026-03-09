@@ -7,48 +7,48 @@
   "sentences": [
     {
       "id": "eleştirmek_s1",
-      "text": "Bu kararı herkes [eleştirdi].",
+      "text": "Raporu [eleştirdi] bir çok yönden.",
       "note": null
     },
     {
       "id": "eleştirmek_s2",
-      "text": "Yapıcı biçimde [eleştirmek] gelişmeye katkı sağlar.",
+      "text": "[Eleştirmek] kolay, ama daha iyi çözüm bulmak zor.",
       "note": null
     },
     {
       "id": "eleştirmek_s3",
-      "text": "Çalışmamı [eleştirmenden] memnunum, öğrendim.",
+      "text": "Yönetim [eleştiriliyor] verimlilikten ötürü.",
       "note": null
     },
     {
       "id": "eleştirmek_s4",
-      "text": "Sürekli [eleştirilmek] motivasyonu kırıyor.",
-      "note": "Edilgen"
+      "text": "Film [eleştirilirse] bile iyi yapılmış.",
+      "note": null
     },
     {
       "id": "eleştirmek_s5",
-      "text": "Başkalarını [eleştirmeden] önce kendine bak.",
+      "text": "Kibar [eleştirilirse] de insanlar hassasiyet gösterirler.",
       "note": null
     }
   ],
   "recall_prompts": [
     {
       "id": "eleştirmek_r1",
-      "prompt": "Bir filmin zayıf yönlerini belirtiyorsun. Ne yapıyorsun?",
+      "prompt": "Kusur bulmak ve olumsuz yönleri belirtmek hangi fiille ifade edilir?",
       "accepted_forms": [
-        "eleştiriyorum",
-        "eleştirdim",
-        "eleştirmek"
+        "eleştirmek",
+        "eleştirdi",
+        "eleştiriliyor"
       ],
       "note": null
     },
     {
       "id": "eleştirmek_r2",
-      "prompt": "Bir politikacının kararı kamuoyunda olumsuz karşılandı. 'Herkes bu kararı ___.'",
+      "prompt": "Yapılan bir işin veya çalışmanın eksiklerini dile getirmek hangi fiille yapılır?",
       "accepted_forms": [
-        "eleştirdi",
-        "eleştiriyor",
-        "eleştirmek"
+        "eleştirmek",
+        "tenkit etmek",
+        "sözü edilir"
       ],
       "note": null
     }

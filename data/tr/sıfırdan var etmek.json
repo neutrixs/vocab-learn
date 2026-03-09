@@ -1,0 +1,56 @@
+{
+  "word": "sıfırdan var etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to create from nothing, to build from the ground up",
+  "sentences": [
+    {
+      "id": "sıfırdan var etmek_s1",
+      "text": "[Sıfırdan var etti] bir imparatorluk.",
+      "note": null
+    },
+    {
+      "id": "sıfırdan var etmek_s2",
+      "text": "Bu şirketi [sıfırdan var etmek] başarı örneği.",
+      "note": null
+    },
+    {
+      "id": "sıfırdan var etmek_s3",
+      "text": "[Var ettiği] eser günümüzde hala yaşıyor.",
+      "note": null
+    },
+    {
+      "id": "sıfırdan var etmek_s4",
+      "text": "[Sıfırdan var etmişler] her şeyi.",
+      "note": null
+    },
+    {
+      "id": "sıfırdan var etmek_s5",
+      "text": "İnsan kaynağı [sıfırdan var etilmiş].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sıfırdan var etmek_r1",
+      "prompt": "Tamamen yeni bir şey meydana getirmek, hiçten bir şey oluşturmak ne demektir?",
+      "accepted_forms": [
+        "sıfırdan var etmek",
+        "sıfırdan var et",
+        "sıfırdan var etme"
+      ],
+      "note": null
+    },
+    {
+      "id": "sıfırdan var etmek_r2",
+      "prompt": "Girişimci hiçbir yardım olmadan bir işletme ___.",
+      "accepted_forms": [
+        "sıfırdan var etti",
+        "sıfırdan var etmiştir",
+        "sıfırdan var etmektedir"
+      ],
+      "note": null
+    }
+  ]
+}

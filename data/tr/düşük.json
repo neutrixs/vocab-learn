@@ -1,0 +1,55 @@
+{
+  "word": "düşük",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "low",
+  "sentences": [
+    {
+      "id": "düşük_s1",
+      "text": "[Düşük] fiyatlar müşteri çeker.",
+      "note": null
+    },
+    {
+      "id": "düşük_s2",
+      "text": "Tavan çok [düşük], kafamı çarpıyorum.",
+      "note": null
+    },
+    {
+      "id": "düşük_s3",
+      "text": "Sesin [düşük] olması sıkıcı.",
+      "note": null
+    },
+    {
+      "id": "düşük_s4",
+      "text": "[Düşük] kalitede bir ürün para israfı.",
+      "note": null
+    },
+    {
+      "id": "düşük_s5",
+      "text": "Motivasyonu [düşük] olan insanlar başarısız olur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "düşük_r1",
+      "prompt": "Yüksek olmayan, aşağıdaki anlamına gelen sıfat nedir?",
+      "accepted_forms": [
+        "düşük",
+        "alçak",
+        "düşük derece"
+      ],
+      "note": null
+    },
+    {
+      "id": "düşük_r2",
+      "prompt": "Bu masanın yüksekliği çok [düşük] bana göre.",
+      "accepted_forms": [
+        "düşük",
+        "alçak"
+      ],
+      "note": null
+    }
+  ]
+}

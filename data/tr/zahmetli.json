@@ -1,0 +1,56 @@
+{
+  "word": "zahmetli",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "difficult, troublesome, laborious",
+  "sentences": [
+    {
+      "id": "zahmetli_s1",
+      "text": "Bu işin [zahmetli] bir tarafı var.",
+      "note": null
+    },
+    {
+      "id": "zahmetli_s2",
+      "text": "[Zahmetli] olsa da bu projeyi bitirmeliyiz.",
+      "note": null
+    },
+    {
+      "id": "zahmetli_s3",
+      "text": "Evden taşınmak çok [zahmetli] bir iş.",
+      "note": null
+    },
+    {
+      "id": "zahmetli_s4",
+      "text": "Madenci olmak [zahmetli] ve tehlikeli bir meslektir.",
+      "note": null
+    },
+    {
+      "id": "zahmetli_s5",
+      "text": "[Zahmetli] ama değerli çalışmalara katılmaktan mutlu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "zahmetli_r1",
+      "prompt": "Yapmak için çok güç ve çaba gerektiren bir şeye nasıl dersin?",
+      "accepted_forms": [
+        "zahmetli",
+        "zor",
+        "yorucu"
+      ],
+      "note": null
+    },
+    {
+      "id": "zahmetli_r2",
+      "prompt": "Yapılması güç ve meşakkatli bir işi nasıl tanımladığını söyler misin?",
+      "accepted_forms": [
+        "zahmetli",
+        "zor",
+        "emek isteyen"
+      ],
+      "note": null
+    }
+  ]
+}

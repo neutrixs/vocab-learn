@@ -1,0 +1,55 @@
+{
+  "word": "beklenti",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "expectation",
+  "sentences": [
+    {
+      "id": "beklenti_s1",
+      "text": "Yüksek [beklentileri] var ama sonuç hayal kırıklığı.",
+      "note": null
+    },
+    {
+      "id": "beklenti_s2",
+      "text": "Müşteri [beklentileri] karşılamak firmayı başarıya götürür.",
+      "note": null
+    },
+    {
+      "id": "beklenti_s3",
+      "text": "Ailesinin [beklentisi] akademik başarıydı.",
+      "note": null
+    },
+    {
+      "id": "beklenti_s4",
+      "text": "[Beklentiler] bazen gerçekçi değil olabilir.",
+      "note": null
+    },
+    {
+      "id": "beklenti_s5",
+      "text": "Proje [beklentileri] aştı, çok başarılı oldu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "beklenti_r1",
+      "prompt": "Birinden veya bir şeyden umut ettiğin şeye ne denir?",
+      "accepted_forms": [
+        "beklenti",
+        "beklentileri",
+        "beklentisi"
+      ],
+      "note": null
+    },
+    {
+      "id": "beklenti_r2",
+      "prompt": "Öğretmenlerin öğrencilerden beklediği [beklenti] yüksektir.",
+      "accepted_forms": [
+        "beklentisi",
+        "beklenti"
+      ],
+      "note": null
+    }
+  ]
+}

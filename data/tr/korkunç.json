@@ -1,0 +1,43 @@
+{
+  "word": "korkunç",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "terrible, horrible, dreadful",
+  "sentences": [
+    {
+      "id": "korkunc_s1",
+      "text": "Bu bir [korkunç] olay.",
+      "note": null
+    },
+    {
+      "id": "korkunc_s2",
+      "text": "Hava [korkunç], dışarı çıkamıyorum.",
+      "note": null
+    },
+    {
+      "id": "korkunc_s3",
+      "text": "Tasarısı [korkunç] görünüyor.",
+      "note": null
+    },
+    {
+      "id": "korkunc_s4",
+      "text": "[Korkunç] bir kazadan kurtulduk.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "korkunc_r1",
+      "prompt": "Çok kötü, dehşet verici anlamındaki sıfat nedir?",
+      "accepted_forms": ["korkunç"],
+      "note": null
+    },
+    {
+      "id": "korkunc_r2",
+      "prompt": "Terrible anlamındaki Türkçe sıfat hangisidir?",
+      "accepted_forms": ["korkunç"],
+      "note": null
+    }
+  ]
+}

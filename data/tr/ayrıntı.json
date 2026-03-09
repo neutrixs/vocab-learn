@@ -1,0 +1,55 @@
+{
+  "word": "ayrıntı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "detail",
+  "sentences": [
+    {
+      "id": "ayrıntı_s1",
+      "text": "Tasarımcı her [ayrıntıya] büyük önem verdi.",
+      "note": null
+    },
+    {
+      "id": "ayrıntı_s2",
+      "text": "[Ayrıntıları] anlatmak uzun sürecek.",
+      "note": null
+    },
+    {
+      "id": "ayrıntı_s3",
+      "text": "Projedeki küçük [ayrıntılar] da önemli.",
+      "note": null
+    },
+    {
+      "id": "ayrıntı_s4",
+      "text": "Raporun [ayrıntısı] yazışmalardaki bilgilerle eşleşmiyor.",
+      "note": null
+    },
+    {
+      "id": "ayrıntı_s5",
+      "text": "Hiçbir [ayrıntıyı] atlamadan okumamız gerekir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ayrıntı_r1",
+      "prompt": "Bir şeyin küçük, özel özelliğine ne denir?",
+      "accepted_forms": [
+        "ayrıntı",
+        "ayrıntısı",
+        "ayrıntılar"
+      ],
+      "note": null
+    },
+    {
+      "id": "ayrıntı_r2",
+      "prompt": "Hikayenin her ___ kaydetmek yazarın görevidir.",
+      "accepted_forms": [
+        "ayrıntısını",
+        "ayrıntı"
+      ],
+      "note": null
+    }
+  ]
+}

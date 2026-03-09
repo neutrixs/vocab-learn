@@ -1,0 +1,56 @@
+{
+  "word": "tüketmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to consume, to use up, to exhaust",
+  "sentences": [
+    {
+      "id": "tüketmek_s1",
+      "text": "Çok enerji [tüketiyoruz].",
+      "note": null
+    },
+    {
+      "id": "tüketmek_s2",
+      "text": "Kaynakları [tükettik].",
+      "note": null
+    },
+    {
+      "id": "tüketmek_s3",
+      "text": "[Tüketmek] yerine koruma yapmalıyız.",
+      "note": null
+    },
+    {
+      "id": "tüketmek_s4",
+      "text": "Kişi günde kaç kalori [tüketmelidir]?",
+      "note": null
+    },
+    {
+      "id": "tüketmek_s5",
+      "text": "Fazla şekeri [tüketmeyin].",
+      "note": "Emir kipi"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tüketmek_r1",
+      "prompt": "Bir şeyi yiyip-içerek veya kullanarak bitirmek ne demektir?",
+      "accepted_forms": [
+        "tüketmek",
+        "tüket",
+        "tüketme"
+      ],
+      "note": null
+    },
+    {
+      "id": "tüketmek_r2",
+      "prompt": "Hükümet çok para _____ durumda.",
+      "accepted_forms": [
+        "tüketiyor",
+        "tüketmiş",
+        "tüketmektedir"
+      ],
+      "note": null
+    }
+  ]
+}

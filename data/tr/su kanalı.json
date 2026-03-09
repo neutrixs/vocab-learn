@@ -1,0 +1,56 @@
+{
+  "word": "su kanalı",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun phrase",
+  "english_gloss": "canal, water channel",
+  "sentences": [
+    {
+      "id": "su kanalı_s1",
+      "text": "Eski [su kanalları] şehrin etrafından geçerek tarım alanlarına su taşıyordu.",
+      "note": null
+    },
+    {
+      "id": "su kanalı_s2",
+      "text": "Hollanda'nın meşhur [su kanalları] mimarisinin önemli bir parçasıdır.",
+      "note": null
+    },
+    {
+      "id": "su kanalı_s3",
+      "text": "Bu [su kanalı] tamamen taştan yapılmış ve 300 yıl öncesine ait.",
+      "note": null
+    },
+    {
+      "id": "su kanalı_s4",
+      "text": "[Su kanalları] vasıtasıyla su elektrik enerjisine dönüştürülüyor.",
+      "note": null
+    },
+    {
+      "id": "su kanalı_s5",
+      "text": "Bölgedeki [su kanalı] sisteminin onarılması uzun zaman alacak.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "su kanalı_r1",
+      "prompt": "Su taşımak için yapılmış yapay yollara ne denir?",
+      "accepted_forms": [
+        "su kanalı",
+        "su kanalları",
+        "kanal"
+      ],
+      "note": null
+    },
+    {
+      "id": "su kanalı_r2",
+      "prompt": "Tarım işletmelerinde sudan yararlanmak için kullanılan sistem hangisidir?",
+      "accepted_forms": [
+        "su kanalı",
+        "kanallar",
+        "kanal sistemi"
+      ],
+      "note": null
+    }
+  ]
+}

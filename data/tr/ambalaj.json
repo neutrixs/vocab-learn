@@ -1,0 +1,55 @@
+{
+  "word": "ambalaj",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "packaging, wrapping",
+  "sentences": [
+    {
+      "id": "ambalaj_s1",
+      "text": "Ürünün [ambalajı] çok şık ve dayanıklı.",
+      "note": null
+    },
+    {
+      "id": "ambalaj_s2",
+      "text": "Bu [ambalaj] malzemeleri tamamen geri dönüştürülebilir.",
+      "note": null
+    },
+    {
+      "id": "ambalaj_s3",
+      "text": "Kaliteli [ambalaj], ürünün kalitesini yansıtır.",
+      "note": null
+    },
+    {
+      "id": "ambalaj_s4",
+      "text": "Hediyeyi güzel bir [ambalaja] sarıp sundular.",
+      "note": null
+    },
+    {
+      "id": "ambalaj_s5",
+      "text": "[Ambalajdan] çıkan ürün beklentileri aştı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ambalaj_r1",
+      "prompt": "Bir ürünü çevreleyen, koruyup güzelleştiren malzemeye ne denir?",
+      "accepted_forms": [
+        "ambalaj",
+        "ambalajı",
+        "ambalajlar"
+      ],
+      "note": null
+    },
+    {
+      "id": "ambalaj_r2",
+      "prompt": "Bu çikolata kutusunun ___ çok dikkat çekici.",
+      "accepted_forms": [
+        "ambalajı",
+        "ambalaj"
+      ],
+      "note": null
+    }
+  ]
+}

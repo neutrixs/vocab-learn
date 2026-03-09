@@ -1,0 +1,54 @@
+{
+  "word": "cazip",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "attractive, appealing",
+  "sentences": [
+    {
+      "id": "cazip_s1",
+      "text": "Bu teklif çok [cazip] ve dikkat çekici.",
+      "note": null
+    },
+    {
+      "id": "cazip_s2",
+      "text": "[Cazip] fiyatlar müşteri çekmede etkili.",
+      "note": null
+    },
+    {
+      "id": "cazip_s3",
+      "text": "Dizinin öyküsü izleyiciler için çok [cazip].",
+      "note": null
+    },
+    {
+      "id": "cazip_s4",
+      "text": "[Cazip] bir üniversite seçmek zordu.",
+      "note": null
+    },
+    {
+      "id": "cazip_s5",
+      "text": "Kampanya şekli müşteriler için [cazip] değildi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "cazip_r1",
+      "prompt": "İnsanlara etkileyici ve ilginç gelen bir şey hangi sıfatla tanımlanır?",
+      "accepted_forms": [
+        "cazip",
+        "caziplik"
+      ],
+      "note": null
+    },
+    {
+      "id": "cazip_r2",
+      "prompt": "Bu iş imkanı çok [cazip], hemen başlamak istiyorum.",
+      "accepted_forms": [
+        "cazip",
+        "cazip görünüyor"
+      ],
+      "note": null
+    }
+  ]
+}

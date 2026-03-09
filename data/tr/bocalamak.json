@@ -1,0 +1,56 @@
+{
+  "word": "bocalamak",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "verb",
+  "english_gloss": "to stumble, to falter, to struggle",
+  "sentences": [
+    {
+      "id": "bocalamak_s1",
+      "text": "Açık yolda [bocaladı] ve düştü.",
+      "note": null
+    },
+    {
+      "id": "bocalamak_s2",
+      "text": "İş hayatında çok [bocaladı] ama sonunda başarılı oldu.",
+      "note": null
+    },
+    {
+      "id": "bocalamak_s3",
+      "text": "Sınav sırasında [bocalamaya] başladı.",
+      "note": null
+    },
+    {
+      "id": "bocalamak_s4",
+      "text": "Açıklamasında [bocalayarak] konuştu.",
+      "note": null
+    },
+    {
+      "id": "bocalamak_s5",
+      "text": "Karanlıkta [bocalayıp] yolunu kaybettik.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bocalamak_r1",
+      "prompt": "Dengesini kaybedip tökezlemek hangi fiille ifade edilir?",
+      "accepted_forms": [
+        "bocalamak",
+        "bocaladı",
+        "bocalayan"
+      ],
+      "note": null
+    },
+    {
+      "id": "bocalamak_r2",
+      "prompt": "Zorlukla yürümek ya da ilerleme gösterememek anlamında hangi fiil kullanılır?",
+      "accepted_forms": [
+        "bocalamak",
+        "bocalamaya",
+        "bocaladı"
+      ],
+      "note": null
+    }
+  ]
+}

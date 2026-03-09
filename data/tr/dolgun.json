@@ -1,0 +1,54 @@
+{
+  "word": "dolgun",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "full, plump, round",
+  "sentences": [
+    {
+      "id": "dolgun_s1",
+      "text": "Çiçek tomurcuğu [dolgun] ve güzel görünüyor.",
+      "note": null
+    },
+    {
+      "id": "dolgun_s2",
+      "text": "[Dolgun] göğüslü kırmızı gelin elbisesi giyiyordu.",
+      "note": null
+    },
+    {
+      "id": "dolgun_s3",
+      "text": "[Dolgun] yanaklarıyla şirin görünüyor.",
+      "note": null
+    },
+    {
+      "id": "dolgun_s4",
+      "text": "Sonbaharın [dolgun] meyvelerini topladık.",
+      "note": null
+    },
+    {
+      "id": "dolgun_s5",
+      "text": "Durum [dolgun] bir bütçeyle başladı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dolgun_r1",
+      "prompt": "Içi dolu, zengin ve yuvarlak anlamına gelen sıfat nedir?",
+      "accepted_forms": [
+        "dolgun",
+        "dolgun doll"
+      ],
+      "note": null
+    },
+    {
+      "id": "dolgun_r2",
+      "prompt": "Elma [dolgun] ve kırmızı, çok güzel görünüyor.",
+      "accepted_forms": [
+        "dolgun",
+        "dolu"
+      ],
+      "note": null
+    }
+  ]
+}

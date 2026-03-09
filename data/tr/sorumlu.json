@@ -1,0 +1,43 @@
+{
+  "word": "sorumlu",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective/noun",
+  "english_gloss": "responsible, responsible person",
+  "sentences": [
+    {
+      "id": "sorumlu_s1",
+      "text": "O [sorumlu] bir kişi.",
+      "note": null
+    },
+    {
+      "id": "sorumlu_s2",
+      "text": "Kimin [sorumlu]? Kimdir? Kimin hatası?",
+      "note": null
+    },
+    {
+      "id": "sorumlu_s3",
+      "text": "[Sorumlu] davranış göstermesi gerekir.",
+      "note": null
+    },
+    {
+      "id": "sorumlu_s4",
+      "text": "Proje [sorumlu]su kim?",
+      "note": "the person in charge"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sorumlu_r1",
+      "prompt": "Bir şeyden hesap vermesi gereken anlamındaki sıfat nedir?",
+      "accepted_forms": ["sorumlu"],
+      "note": null
+    },
+    {
+      "id": "sorumlu_r2",
+      "prompt": "Responsible anlamındaki Türkçe sözcük hangisidir?",
+      "accepted_forms": ["sorumlu"],
+      "note": null
+    }
+  ]
+}

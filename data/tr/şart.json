@@ -1,0 +1,56 @@
+{
+  "word": "şart",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "condition, requirement, term",
+  "sentences": [
+    {
+      "id": "şart_s1",
+      "text": "İşin [şartları] oldukça iyi, bununla ilgili endişem yok.",
+      "note": null
+    },
+    {
+      "id": "şart_s2",
+      "text": "[Şart] olarak, sözleşme imzalanmadan önce detaylar açıklanmalı.",
+      "note": null
+    },
+    {
+      "id": "şart_s3",
+      "text": "Kabul etmek [şartıyla] yapacağım bu işi.",
+      "note": null
+    },
+    {
+      "id": "şart_s4",
+      "text": "Başlama [şartları] bu yıl çok daha katı.",
+      "note": null
+    },
+    {
+      "id": "şart_s5",
+      "text": "[Şarts] hiçbir uzlaşma mümkün değil.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şart_r1",
+      "prompt": "Bir anlaşma veya karar için gerekli olan koşulara ne denir?",
+      "accepted_forms": [
+        "şart",
+        "şartlar",
+        "şartı"
+      ],
+      "note": null
+    },
+    {
+      "id": "şart_r2",
+      "prompt": "İş sözleşmesinde yazılı olan özel kurallar veya gereksinimleri ne şekilde ifade edersin?",
+      "accepted_forms": [
+        "şartları",
+        "şart",
+        "şartlarını"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "sağlık sigortası",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "health insurance",
+  "sentences": [
+    {
+      "id": "saglik_s1",
+      "text": "[Sağlık sigortası] zorunlu mu?",
+      "note": null
+    },
+    {
+      "id": "saglik_s2",
+      "text": "[Sağlık sigortası]nı yenilemem gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "saglik_s3",
+      "text": "[Sağlık sigortası] primleri arttı.",
+      "note": null
+    },
+    {
+      "id": "saglik_s4",
+      "text": "Her çalışanın [sağlık sigortası] olmalı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "saglik_r1",
+      "prompt": "Sağlık harcamaları için ödenen koruma anlamındaki ifade nedir?",
+      "accepted_forms": ["sağlık sigortası"],
+      "note": null
+    },
+    {
+      "id": "saglik_r2",
+      "prompt": "Health insurance anlamındaki Türkçe ifade hangisidir?",
+      "accepted_forms": ["sağlık sigortası"],
+      "note": null
+    }
+  ]
+}

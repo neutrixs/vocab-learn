@@ -1,0 +1,55 @@
+{
+  "word": "geçici",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "temporary, transient",
+  "sentences": [
+    {
+      "id": "geçici_s1",
+      "text": "Bu is [geçici], iki ayda biter.",
+      "note": null
+    },
+    {
+      "id": "geçici_s2",
+      "text": "[Geçici] bir rahatsızlık başlamış.",
+      "note": null
+    },
+    {
+      "id": "geçici_s3",
+      "text": "[Geçici] çözümler uzun vadede işe yaramaz.",
+      "note": null
+    },
+    {
+      "id": "geçici_s4",
+      "text": "Sahibin [geçici] olması ev temizliğinde zorluk yaratır.",
+      "note": null
+    },
+    {
+      "id": "geçici_s5",
+      "text": "[Geçici] işçiler proje bitince ayrılacak.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "geçici_r1",
+      "prompt": "Uzun sürmeyecek, süresiz olmayan şeye ne denir?",
+      "accepted_forms": [
+        "geçici",
+        "kısa süreli",
+        "muvakkat"
+      ],
+      "note": null
+    },
+    {
+      "id": "geçici_r2",
+      "prompt": "Bu rahatsızlık [geçici], çok kısa sürede geçecek.",
+      "accepted_forms": [
+        "geçici",
+        "kısa süreli"
+      ],
+      "note": null
+    }
+  ]
+}

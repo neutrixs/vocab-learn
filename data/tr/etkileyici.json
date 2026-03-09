@@ -1,0 +1,55 @@
+{
+  "word": "etkileyici",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "impressive, striking",
+  "sentences": [
+    {
+      "id": "etkileyici_s1",
+      "text": "Sunumun [etkileyici] özellikleri büyüledi.",
+      "note": null
+    },
+    {
+      "id": "etkileyici_s2",
+      "text": "Bu sanat eseri çok [etkileyici].",
+      "note": null
+    },
+    {
+      "id": "etkileyici_s3",
+      "text": "[Etkileyici] bir konuşma yapıyor.",
+      "note": null
+    },
+    {
+      "id": "etkileyici_s4",
+      "text": "Performansı gerçekten [etkileyiciydi].",
+      "note": null
+    },
+    {
+      "id": "etkileyici_s5",
+      "text": "[Etkileyici] başarılar, ekibin çalışmasının meyvesi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "etkileyici_r1",
+      "prompt": "İnsanları etkisi altına alan, etkilendiren şeye ne denir?",
+      "accepted_forms": [
+        "etkileyici",
+        "etkileyici sayılır",
+        "etki yapıcı"
+      ],
+      "note": null
+    },
+    {
+      "id": "etkileyici_r2",
+      "prompt": "Bu sahne çok [etkileyici], duygularımı harekete geçirdi.",
+      "accepted_forms": [
+        "etkileyici",
+        "duygu yüklü"
+      ],
+      "note": null
+    }
+  ]
+}

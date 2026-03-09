@@ -1,0 +1,56 @@
+{
+  "word": "sıfırdan başlamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to start from scratch, to begin anew",
+  "sentences": [
+    {
+      "id": "sıfırdan başlamak_s1",
+      "text": "İşi başarısız olunca [sıfırdan başladı].",
+      "note": null
+    },
+    {
+      "id": "sıfırdan başlamak_s2",
+      "text": "[Sıfırdan başlamak] için cesarete ihtiyaç var.",
+      "note": null
+    },
+    {
+      "id": "sıfırdan başlamak_s3",
+      "text": "[Başladıkları] proje sıfırdan idi.",
+      "note": null
+    },
+    {
+      "id": "sıfırdan başlamak_s4",
+      "text": "Hata yaptı ama [sıfırdan başladı].",
+      "note": null
+    },
+    {
+      "id": "sıfırdan başlamak_s5",
+      "text": "Yeni ülkede [sıfırdan başlamamız] gerektiğini anladık.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sıfırdan başlamak_r1",
+      "prompt": "Hiçbir temeli olmadan yeni bir başlangıç yapma ne demektir?",
+      "accepted_forms": [
+        "sıfırdan başlamak",
+        "sıfırdan başla",
+        "sıfırdan başlama"
+      ],
+      "note": null
+    },
+    {
+      "id": "sıfırdan başlamak_r2",
+      "prompt": "Eski bilgisayar kötüleşti, verileri kayıp gitti, aynısı ___.",
+      "accepted_forms": [
+        "sıfırdan başladı",
+        "sıfırdan başlamak zorunda kaldı",
+        "sıfırdan başlamıştır"
+      ],
+      "note": null
+    }
+  ]
+}

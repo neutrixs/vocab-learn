@@ -1,0 +1,43 @@
+{
+  "word": "rastgele",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective/adverb",
+  "english_gloss": "random, randomly",
+  "sentences": [
+    {
+      "id": "rastgele_s1",
+      "text": "[Rastgele] seçilen bir kişi kazandı.",
+      "note": null
+    },
+    {
+      "id": "rastgele_s2",
+      "text": "Kitaptan [rastgele] bir sayfa açtı.",
+      "note": null
+    },
+    {
+      "id": "rastgele_s3",
+      "text": "[Rastgele] konuşmanın bir faydası yok.",
+      "note": "random talking"
+    },
+    {
+      "id": "rastgele_s4",
+      "text": "Sayılar [rastgele] diziliyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "rastgele_r1",
+      "prompt": "Belirli bir plan ya da düzen olmadan anlamındaki sıfat nedir?",
+      "accepted_forms": ["rastgele"],
+      "note": null
+    },
+    {
+      "id": "rastgele_r2",
+      "prompt": "Random anlamındaki Türkçe sözcük hangisidir?",
+      "accepted_forms": ["rastgele"],
+      "note": null
+    }
+  ]
+}

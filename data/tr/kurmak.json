@@ -1,0 +1,56 @@
+{
+  "word": "kurmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to establish, to set up, to build, to construct",
+  "sentences": [
+    {
+      "id": "kurmak_s1",
+      "text": "Şirket [kurdu] ve başarılı oldu.",
+      "note": null
+    },
+    {
+      "id": "kurmak_s2",
+      "text": "Çadir [kuracak mısınız]?",
+      "note": null
+    },
+    {
+      "id": "kurmak_s3",
+      "text": "Yeni bir proje [kurmaya] karar verdiler.",
+      "note": null
+    },
+    {
+      "id": "kurmak_s4",
+      "text": "[Kurduğu] işletme çok önemli.",
+      "note": null
+    },
+    {
+      "id": "kurmak_s5",
+      "text": "Hükümet yeni bir komisyon [kurdu].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kurmak_r1",
+      "prompt": "Hiçbir yerden bir işletme veya organizasyon başlamak için ne yaparız?",
+      "accepted_forms": [
+        "kurmak",
+        "kur",
+        "kuruyoruz"
+      ],
+      "note": null
+    },
+    {
+      "id": "kurmak_r2",
+      "prompt": "İş adamı yeni bir fabrika ___ mı?",
+      "accepted_forms": [
+        "kurdu",
+        "kuracak",
+        "kurmış"
+      ],
+      "note": null
+    }
+  ]
+}

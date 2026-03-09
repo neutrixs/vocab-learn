@@ -1,0 +1,56 @@
+{
+  "word": "yenilikçi",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective/noun",
+  "english_gloss": "innovative, innovator",
+  "sentences": [
+    {
+      "id": "yenilikçi_s1",
+      "text": "Bu şirket [yenilikçi] fikirleriyle bilinir.",
+      "note": null
+    },
+    {
+      "id": "yenilikçi_s2",
+      "text": "[Yenilikçi] düşünce değişime sebep olur.",
+      "note": null
+    },
+    {
+      "id": "yenilikçi_s3",
+      "text": "Ekibin [yenilikçi] üyesi eski yöntemleri sorgulayacak.",
+      "note": null
+    },
+    {
+      "id": "yenilikçi_s4",
+      "text": "Sanatta [yenilikçi] olmak risklidir.",
+      "note": null
+    },
+    {
+      "id": "yenilikçi_s5",
+      "text": "[Yenilikçi] bir kişi olmak toplumda fark yaratır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yenilikçi_r1",
+      "prompt": "Yeni ve farklı fikirler getiren kişiye ne denir?",
+      "accepted_forms": [
+        "yenilikçi",
+        "yenilikçiler",
+        "yenilikçinin"
+      ],
+      "note": null
+    },
+    {
+      "id": "yenilikçi_r2",
+      "prompt": "Geleneksel yöntemleri değiştirerek yeni şeyler yapan birine nasıl dersin?",
+      "accepted_forms": [
+        "yenilikçi",
+        "yaratıcı",
+        "modern"
+      ],
+      "note": null
+    }
+  ]
+}

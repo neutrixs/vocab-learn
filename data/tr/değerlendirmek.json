@@ -3,24 +3,53 @@
   "lang": "tr",
   "difficulty": 2,
   "part_of_speech": "verb",
-  "english_gloss": "to evaluate, to assess, to make use of",
+  "english_gloss": "to evaluate, to assess, to judge",
   "sentences": [
-    { "id": "değerlendirmek_s1", "text": "Öğretmen sınavları dikkatli bir şekilde [değerlendirdi].", "note": null },
-    { "id": "değerlendirmek_s2", "text": "Bu fırsatı iyi [değerlendirmeliyiz].", "note": null },
-    { "id": "değerlendirmek_s3", "text": "Durumu doğru [değerlendirmek] için zaman lazım.", "note": null },
-    { "id": "değerlendirmek_s4", "text": "Komisyon başvuruları gelecek hafta [değerlendirecek].", "note": null }
+    {
+      "id": "değerlendirmek_s1",
+      "text": "Öğretmen ödev [değerlendirdi].",
+      "note": null
+    },
+    {
+      "id": "değerlendirmek_s2",
+      "text": "Proje [değerlendirilecek] milyon dolardan daha fazla yatırım gerektirir.",
+      "note": null
+    },
+    {
+      "id": "değerlendirmek_s3",
+      "text": "[Değerlendirilen] raporlar çok olumluydu.",
+      "note": null
+    },
+    {
+      "id": "değerlendirmek_s4",
+      "text": "Bu başarıyı nasıl [değerlendiriyor] sin?",
+      "note": null
+    },
+    {
+      "id": "değerlendirmek_s5",
+      "text": "Durum [değerlendirildikten] sonra karar verilecek.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "değerlendirmek_r1",
-      "prompt": "Bir sınavı puanlayıp sonuçlarını çıkarmak için öğretmen ne yapıyor?",
-      "accepted_forms": ["değerlendirmek", "değerlendiriyor", "değerlendirdi", "değerlendirir"],
+      "prompt": "Bir şeyin iyi veya kötü olduğunu süzüp yargıya varmak hangi fiille ifade edilir?",
+      "accepted_forms": [
+        "değerlendirmek",
+        "değerlendirdi",
+        "değerlendirildi"
+      ],
       "note": null
     },
     {
       "id": "değerlendirmek_r2",
-      "prompt": "Elindeki imkânı iyi kullanmak istiyorsun. Bu durumu nasıl ifade edersin?",
-      "accepted_forms": ["değerlendirmek", "değerlendirmeli", "iyi değerlendirmek", "değerlendirmeliyim"],
+      "prompt": "Başarı veya başarısızlığı ölçüp karar vermek anlamı hangi fiille verilir?",
+      "accepted_forms": [
+        "değerlendirmek",
+        "değerlendir",
+        "ölçmek"
+      ],
       "note": null
     }
   ]

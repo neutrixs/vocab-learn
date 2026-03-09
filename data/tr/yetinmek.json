@@ -1,0 +1,56 @@
+{
+  "word": "yetinmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to be satisfied with, to make do with, to settle for",
+  "sentences": [
+    {
+      "id": "yetinmek_s1",
+      "text": "Bunun kadarıyla [yettim].",
+      "note": null
+    },
+    {
+      "id": "yetinmek_s2",
+      "text": "Küçük ev ile [yetinmek] zorunda kaldık.",
+      "note": null
+    },
+    {
+      "id": "yetinmek_s3",
+      "text": "Bu kadarı ile [yetinmiş] gibi görünüyor.",
+      "note": null
+    },
+    {
+      "id": "yetinmek_s4",
+      "text": "[Yetinmelisin] daha iyisini bekleyeme.",
+      "note": null
+    },
+    {
+      "id": "yetinmek_s5",
+      "text": "Kısıtlı kaynakla [yetinemedi].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yetinmek_r1",
+      "prompt": "Sahip olduğun şeyin yeterli olduğunu kabul etmek ne demektir?",
+      "accepted_forms": [
+        "yetinmek",
+        "yetin",
+        "yetinme"
+      ],
+      "note": null
+    },
+    {
+      "id": "yetinmek_r2",
+      "prompt": "Kişi az miktarda yemekle ___.",
+      "accepted_forms": [
+        "yetti",
+        "yettim",
+        "yetinmiştir"
+      ],
+      "note": null
+    }
+  ]
+}

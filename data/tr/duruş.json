@@ -1,0 +1,55 @@
+{
+  "word": "duruş",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "stance, posture, bearing",
+  "sentences": [
+    {
+      "id": "duruş_s1",
+      "text": "Onun [duruşu] çok güçlü ve kararlı.",
+      "note": null
+    },
+    {
+      "id": "duruş_s2",
+      "text": "[Duruşu] çok dik ve asil görünüyor.",
+      "note": null
+    },
+    {
+      "id": "duruş_s3",
+      "text": "Savaşçının [duruşu] hem savunmaya hem saldırıya hazır.",
+      "note": null
+    },
+    {
+      "id": "duruş_s4",
+      "text": "Mahkemede [duruşa] çıkacaklar.",
+      "note": null
+    },
+    {
+      "id": "duruş_s5",
+      "text": "İyi bir [duruş] kararlılığı gösterir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "duruş_r1",
+      "prompt": "Bir insanın vücudunu tutup gösterdiği şekil ve tavra ne denir?",
+      "accepted_forms": [
+        "duruş",
+        "duruşu",
+        "duruşları"
+      ],
+      "note": null
+    },
+    {
+      "id": "duruş_r2",
+      "prompt": "Balerin çok zarif ve ince bir [duruş] gösteriyor.",
+      "accepted_forms": [
+        "duruş",
+        "duruşu"
+      ],
+      "note": null
+    }
+  ]
+}

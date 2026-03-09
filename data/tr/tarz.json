@@ -1,0 +1,56 @@
+{
+  "word": "tarz",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "style, manner, way",
+  "sentences": [
+    {
+      "id": "tarz_s1",
+      "text": "Onun yaşam [tarzı] çok basit ve sade.",
+      "note": null
+    },
+    {
+      "id": "tarz_s2",
+      "text": "Ressam kendi özel [tarzında] eserler yaratıyor.",
+      "note": null
+    },
+    {
+      "id": "tarz_s3",
+      "text": "Bu mimar yapılarında Osmanlı [tarzının] izlerini taşıyor.",
+      "note": null
+    },
+    {
+      "id": "tarz_s4",
+      "text": "[Tarz] meselesi de önemli, sadece içerik değil.",
+      "note": null
+    },
+    {
+      "id": "tarz_s5",
+      "text": "Müzik [tarzları] müzisyenin kişiliğini yansıtır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tarz_r1",
+      "prompt": "Bir sanatçının veya kişinin kendine özgü yapma şekline ne denir?",
+      "accepted_forms": [
+        "tarz",
+        "tarzı",
+        "tarzında"
+      ],
+      "note": null
+    },
+    {
+      "id": "tarz_r2",
+      "prompt": "Kıyafet seçiminde belirtilen yaşam biçimine hangi kelimeyle atıfta bulunursun?",
+      "accepted_forms": [
+        "tarzı",
+        "tarz",
+        "tarzında"
+      ],
+      "note": null
+    }
+  ]
+}

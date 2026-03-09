@@ -1,0 +1,56 @@
+{
+  "word": "gütmek",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "verb",
+  "english_gloss": "to pursue, to strive for, to chase",
+  "sentences": [
+    {
+      "id": "gütmek_s1",
+      "text": "Hayatında başarı [güdüyor].",
+      "note": null
+    },
+    {
+      "id": "gütmek_s2",
+      "text": "[Güttüğü] hedefler çok yüksek.",
+      "note": null
+    },
+    {
+      "id": "gütmek_s3",
+      "text": "Bilim insanları gerçeği [güderler].",
+      "note": null
+    },
+    {
+      "id": "gütmek_s4",
+      "text": "Onun [güttüğü] idealler hayranlık uyandırıyor.",
+      "note": null
+    },
+    {
+      "id": "gütmek_s5",
+      "text": "Para [gütmek] değil, bilgi aramalısın.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gütmek_r1",
+      "prompt": "Bir hedefi ya da amacı elde etmek için çalışıp koşturulmak hangi fiille ifade edilir?",
+      "accepted_forms": [
+        "gütmek",
+        "güder",
+        "güdüyor"
+      ],
+      "note": null
+    },
+    {
+      "id": "gütmek_r2",
+      "prompt": "Başarı, para, mutluluk gibi şeyler için çalışmak ve istemek hangi fiille gösterilir?",
+      "accepted_forms": [
+        "gütmek",
+        "peşinden gitmek",
+        "arama"
+      ],
+      "note": null
+    }
+  ]
+}

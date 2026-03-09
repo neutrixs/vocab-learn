@@ -1,0 +1,43 @@
+{
+  "word": "öğe",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "element, item, component",
+  "sentences": [
+    {
+      "id": "oge_s1",
+      "text": "Bu [öğe] çok önemli.",
+      "note": null
+    },
+    {
+      "id": "oge_s2",
+      "text": "Sistemin temel [öğe]leri neler?",
+      "note": null
+    },
+    {
+      "id": "oge_s3",
+      "text": "Tasarımın her [öğe]si dikkat çekildi.",
+      "note": null
+    },
+    {
+      "id": "oge_s4",
+      "text": "[Öğe]ler bir arada çalışıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "oge_r1",
+      "prompt": "Bir şeyin parçası anlamındaki kelime nedir?",
+      "accepted_forms": ["öğe", "öğeleri"],
+      "note": null
+    },
+    {
+      "id": "oge_r2",
+      "prompt": "Element anlamındaki Türkçe sözcük hangisidir?",
+      "accepted_forms": ["öğe"],
+      "note": null
+    }
+  ]
+}

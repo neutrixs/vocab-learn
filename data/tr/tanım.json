@@ -1,0 +1,56 @@
+{
+  "word": "tanım",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "definition",
+  "sentences": [
+    {
+      "id": "tanım_s1",
+      "text": "Bu kelimenin [tanımı] sözlükte net olarak yazılı.",
+      "note": null
+    },
+    {
+      "id": "tanım_s2",
+      "text": "[Tanım] vermek bazen kelimeyi anlamaktan daha zordur.",
+      "note": null
+    },
+    {
+      "id": "tanım_s3",
+      "text": "Felsefe dersinde 'Sanat' kelimesinin [tanımını] tartıştık.",
+      "note": null
+    },
+    {
+      "id": "tanım_s4",
+      "text": "Kesinlik ve açıklık bir [tanımın] temel özellikleridir.",
+      "note": null
+    },
+    {
+      "id": "tanım_s5",
+      "text": "Bu kavramın [tanımı] farklı disiplinlerde değişiklik gösterebilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tanım_r1",
+      "prompt": "Bir kelimenin veya kavramın anlamını açıklayan yazıya ne denir?",
+      "accepted_forms": [
+        "tanım",
+        "tanımı",
+        "tanımlar"
+      ],
+      "note": null
+    },
+    {
+      "id": "tanım_r2",
+      "prompt": "Sözlükte her kelimeden sonra yazılan açıklamaya ne ad verilir?",
+      "accepted_forms": [
+        "tanım",
+        "tanımı",
+        "tanımlar"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "word": "zorluk",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "difficulty, hardship, challenge",
+  "sentences": [
+    {
+      "id": "zorluk_s1",
+      "text": "Bu sınavda [zorluk] bekliyordu.",
+      "note": null
+    },
+    {
+      "id": "zorluk_s2",
+      "text": "[Zorluklar] bizi güçlendiriyor.",
+      "note": null
+    },
+    {
+      "id": "zorluk_s3",
+      "text": "Mali [zorluklar] şirkete sıkıntı yaşattı.",
+      "note": null
+    },
+    {
+      "id": "zorluk_s4",
+      "text": "Göçmen olmak birçok [zorluk] getir.",
+      "note": null
+    },
+    {
+      "id": "zorluk_s5",
+      "text": "Hayattaki [zorlukları] aşmak insanı olgunlaştırır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "zorluk_r1",
+      "prompt": "Üstesinden gelmesi zor olan durum veya şeye ne denir?",
+      "accepted_forms": [
+        "zorluk",
+        "zorluklar",
+        "zorluğu"
+      ],
+      "note": null
+    },
+    {
+      "id": "zorluk_r2",
+      "prompt": "Hayatta karşı karşıya kalınan engellere ve meşakkatli durumlara ne ad verilir?",
+      "accepted_forms": [
+        "zorluk",
+        "zorluklar",
+        "güçlük"
+      ],
+      "note": null
+    }
+  ]
+}

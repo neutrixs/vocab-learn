@@ -1,0 +1,55 @@
+{
+  "word": "çalışan",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "employee, worker",
+  "sentences": [
+    {
+      "id": "çalışan_s1",
+      "text": "Firmada yüz [çalışan] var.",
+      "note": null
+    },
+    {
+      "id": "çalışan_s2",
+      "text": "[Çalışanlar] kurumun en önemli varlığıdır.",
+      "note": null
+    },
+    {
+      "id": "çalışan_s3",
+      "text": "Her [çalışanın] özlük dosyası arşivde tutulur.",
+      "note": null
+    },
+    {
+      "id": "çalışan_s4",
+      "text": "[Çalışanlarını] değer veren şirketler başarılı olur.",
+      "note": null
+    },
+    {
+      "id": "çalışan_s5",
+      "text": "Yeni [çalışanları] eğitmek sorumluluğum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çalışan_r1",
+      "prompt": "Bir şirkette para karşılığında çalışan kişiye ne denir?",
+      "accepted_forms": [
+        "çalışan",
+        "çalışanlar",
+        "çalışanı"
+      ],
+      "note": null
+    },
+    {
+      "id": "çalışan_r2",
+      "prompt": "Şirketin tüm ___ toplantıya katılmaya çağırıldı.",
+      "accepted_forms": [
+        "çalışanları",
+        "çalışanlar"
+      ],
+      "note": null
+    }
+  ]
+}

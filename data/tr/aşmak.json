@@ -1,0 +1,56 @@
+{
+  "word": "aşmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to exceed, to surpass, to overcome",
+  "sentences": [
+    {
+      "id": "aşmak_s1",
+      "text": "Bu dağ [aşmak] çok zor görünüyor.",
+      "note": null
+    },
+    {
+      "id": "aşmak_s2",
+      "text": "Satışlar beklentiyi [aştı].",
+      "note": null
+    },
+    {
+      "id": "aşmak_s3",
+      "text": "Zorlukları [aşmak] için sabır gerekir.",
+      "note": null
+    },
+    {
+      "id": "aşmak_s4",
+      "text": "[Aşacağı] engeller onun hakkında çok şey söylüyor.",
+      "note": null
+    },
+    {
+      "id": "aşmak_s5",
+      "text": "Bu kriter [aşılması] gereken bir sınırdır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "aşmak_r1",
+      "prompt": "Belirli bir sınırı geçip ötesine gitmek hangi fiille ifade edilir?",
+      "accepted_forms": [
+        "aşmak",
+        "aştı",
+        "aşan"
+      ],
+      "note": null
+    },
+    {
+      "id": "aşmak_r2",
+      "prompt": "Güçlüğü veya olumsulu kaldırıp geçerek öte tarafına varmak anlamı ne taşır?",
+      "accepted_forms": [
+        "aşmak",
+        "aştı",
+        "aşmayı başardı"
+      ],
+      "note": null
+    }
+  ]
+}

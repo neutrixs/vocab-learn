@@ -1,0 +1,43 @@
+{
+  "word": "görünüş",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "appearance, look",
+  "sentences": [
+    {
+      "id": "gorunus_s1",
+      "text": "Onun [görünüş]ü çok şık.",
+      "note": null
+    },
+    {
+      "id": "gorunus_s2",
+      "text": "[Görünüş] her zaman önemli değildir.",
+      "note": null
+    },
+    {
+      "id": "gorunus_s3",
+      "text": "İlk [görünüş]ten hoşnut kaldı.",
+      "note": "first impression"
+    },
+    {
+      "id": "gorunus_s4",
+      "text": "Şehrin [görünüş]ü çok güzel.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gorunus_r1",
+      "prompt": "Birisinin ya da bir şeyin nasıl göründüğü anlamındaki kelime nedir?",
+      "accepted_forms": ["görünüş", "görünüşü"],
+      "note": null
+    },
+    {
+      "id": "gorunus_r2",
+      "prompt": "First ... demeyi Türkçeye çevir.",
+      "accepted_forms": ["görünüş"],
+      "note": null
+    }
+  ]
+}

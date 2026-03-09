@@ -1,0 +1,56 @@
+{
+  "word": "kurtarmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to save, to rescue, to deliver",
+  "sentences": [
+    {
+      "id": "kurtarmak_s1",
+      "text": "İtfaiyeciler insanları [kurtardı].",
+      "note": null
+    },
+    {
+      "id": "kurtarmak_s2",
+      "text": "Onu boğulmaktan [kurtaran] kahraman oldu.",
+      "note": null
+    },
+    {
+      "id": "kurtarmak_s3",
+      "text": "[Kurtarmak] için canını riske attı.",
+      "note": null
+    },
+    {
+      "id": "kurtarmak_s4",
+      "text": "Doktor hastayı [kurtarmayı] başardı.",
+      "note": null
+    },
+    {
+      "id": "kurtarmak_s5",
+      "text": "Kız kardeşini sorundan [kurtardı].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kurtarmak_r1",
+      "prompt": "Birini tehlikeli bir durumdan çıkarmak ne demektir?",
+      "accepted_forms": [
+        "kurtarmak",
+        "kurtarma",
+        "kurtar"
+      ],
+      "note": null
+    },
+    {
+      "id": "kurtarmak_r2",
+      "prompt": "Yapay solunum ile boğulan bir çocuğu ____ çabası yapıldı.",
+      "accepted_forms": [
+        "kurtarma",
+        "kurtarabilme",
+        "kurtarmak"
+      ],
+      "note": null
+    }
+  ]
+}

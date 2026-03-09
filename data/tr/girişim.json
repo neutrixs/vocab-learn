@@ -1,0 +1,43 @@
+{
+  "word": "girişim",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "initiative, enterprise, undertaking",
+  "sentences": [
+    {
+      "id": "girisim_s1",
+      "text": "Yeni bir [girişim] başladık.",
+      "note": null
+    },
+    {
+      "id": "girisim_s2",
+      "text": "Bu [girişim] başarılı olacağını düşünüyorum.",
+      "note": null
+    },
+    {
+      "id": "girisim_s3",
+      "text": "Hükümet sosyal [girişim]leri destekliyor.",
+      "note": "plural form"
+    },
+    {
+      "id": "girisim_s4",
+      "text": "[Girişim] almak cesaret gerektirir.",
+      "note": "taking initiative"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "girisim_r1",
+      "prompt": "Yeni bir iş ya da proje başlatma anlamındaki kelime nedir?",
+      "accepted_forms": ["girişim", "girişimleri"],
+      "note": null
+    },
+    {
+      "id": "girisim_r2",
+      "prompt": "Bir kişi 'Bu yeni ... çok ilginç' diyerek bir projeden bahsediyor.",
+      "accepted_forms": ["girişim", "girişimi"],
+      "note": null
+    }
+  ]
+}

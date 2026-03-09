@@ -1,0 +1,56 @@
+{
+  "word": "bahsetmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to mention, to talk about, to discuss",
+  "sentences": [
+    {
+      "id": "bahsetmek_s1",
+      "text": "Dün seni [bahsetti].",
+      "note": null
+    },
+    {
+      "id": "bahsetmek_s2",
+      "text": "Bu konudan [bahsetmek] istemiyorum.",
+      "note": null
+    },
+    {
+      "id": "bahsetmek_s3",
+      "text": "Raporda [bahsedilen] sorunlar önemliydi.",
+      "note": null
+    },
+    {
+      "id": "bahsetmek_s4",
+      "text": "[Bahsettim] zaten senin hakkında.",
+      "note": null
+    },
+    {
+      "id": "bahsetmek_s5",
+      "text": "Kitapta [bahsedilen] karakterler çok ilginç.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bahsetmek_r1",
+      "prompt": "Bir konudan ya da kişiden sözedip anlatmak hangi fiille ifade edilir?",
+      "accepted_forms": [
+        "bahsetmek",
+        "bahsetti",
+        "bahsetsem"
+      ],
+      "note": null
+    },
+    {
+      "id": "bahsetmek_r2",
+      "prompt": "Konuşmada veya yazıda bir şeyden söz açmak hangi verb ile gösterilir?",
+      "accepted_forms": [
+        "bahsetmek",
+        "bahsetmiş",
+        "bahsetti"
+      ],
+      "note": null
+    }
+  ]
+}

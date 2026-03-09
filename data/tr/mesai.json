@@ -1,0 +1,43 @@
+{
+  "word": "mesai",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "work, labor, shift, overtime",
+  "sentences": [
+    {
+      "id": "mesai_s1",
+      "text": "Gece [mesai]sine gidiyorum.",
+      "note": null
+    },
+    {
+      "id": "mesai_s2",
+      "text": "[Mesai] saatleri saat 9'dan 5'e kadar.",
+      "note": null
+    },
+    {
+      "id": "mesai_s3",
+      "text": "Fazla [mesai] yapıyorum bu ay.",
+      "note": "overtime"
+    },
+    {
+      "id": "mesai_s4",
+      "text": "[Mesai] bittiğinde evime gidiyorum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "mesai_r1",
+      "prompt": "Bir işyerinde çalışılan zaman dilimi anlamındaki kelime nedir?",
+      "accepted_forms": ["mesai"],
+      "note": null
+    },
+    {
+      "id": "mesai_r2",
+      "prompt": "Shift anlamındaki Türkçe sözcük hangisidir?",
+      "accepted_forms": ["mesai"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "word": "çevirmenlik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "translation work, interpreting",
+  "sentences": [
+    {
+      "id": "çevirmenlik_s1",
+      "text": "[Çevirmenlik] mesleği büyük dikkat gerektirir.",
+      "note": null
+    },
+    {
+      "id": "çevirmenlik_s2",
+      "text": "O başarılı [çevirmenliğiyle] ünlü bir sanatçı.",
+      "note": null
+    },
+    {
+      "id": "çevirmenlik_s3",
+      "text": "[Çevirmenlik] dillerin nüanslarını anlayabilmeyi gerektirir.",
+      "note": null
+    },
+    {
+      "id": "çevirmenlik_s4",
+      "text": "Profesyonel [çevirmenlik] hizmetleri pahalıdır.",
+      "note": null
+    },
+    {
+      "id": "çevirmenlik_s5",
+      "text": "[Çevirmenlikte] hata yapmak çok ciddiye alınır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çevirmenlik_r1",
+      "prompt": "Bir dilden diğerine çevirme işini yapan kişinin mesleğine ne denir?",
+      "accepted_forms": [
+        "çevirmenlik",
+        "çevirmenliği"
+      ],
+      "note": null
+    },
+    {
+      "id": "çevirmenlik_r2",
+      "prompt": "O diller konusunda yetenekli, [çevirmenlik] yapabilir.",
+      "accepted_forms": [
+        "çevirmenlik",
+        "çevirmenliğini"
+      ],
+      "note": null
+    }
+  ]
+}

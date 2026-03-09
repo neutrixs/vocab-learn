@@ -1,0 +1,56 @@
+{
+  "word": "imza atmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to sign, to affix a signature",
+  "sentences": [
+    {
+      "id": "imza atmak_s1",
+      "text": "Belgeyi [imza attı].",
+      "note": null
+    },
+    {
+      "id": "imza atmak_s2",
+      "text": "Sözleşmeyi [imza atmanız] gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "imza atmak_s3",
+      "text": "Doktor reçeteyi [imza atmadan] gitmedi.",
+      "note": null
+    },
+    {
+      "id": "imza atmak_s4",
+      "text": "Başkan kararnameyemi [imza attı].",
+      "note": null
+    },
+    {
+      "id": "imza atmak_s5",
+      "text": "Bana [imza at] diye söyledi.",
+      "note": "Emir kipi"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "imza atmak_r1",
+      "prompt": "Bir belgede adını yazı ile resmi olarak koyma işlemi nedir?",
+      "accepted_forms": [
+        "imza attım",
+        "imza atar",
+        "imza atma"
+      ],
+      "note": null
+    },
+    {
+      "id": "imza atmak_r2",
+      "prompt": "Avukat sözleşmeyi onaylamak için ne yapmalı?",
+      "accepted_forms": [
+        "imza atmalı",
+        "imza atması gerek",
+        "imza atması lazım"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "rastlantı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "coincidence, chance encounter",
+  "sentences": [
+    {
+      "id": "rastlanti_s1",
+      "text": "Çok tesadüfi bir [rastlantı].",
+      "note": null
+    },
+    {
+      "id": "rastlanti_s2",
+      "text": "Bu [rastlantı]yı asla unutmayacağım.",
+      "note": null
+    },
+    {
+      "id": "rastlanti_s3",
+      "text": "[Rastlantı]larla dolu bir gün.",
+      "note": null
+    },
+    {
+      "id": "rastlanti_s4",
+      "text": "Tren istasyonunda bir [rastlantı] yaşadık.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "rastlanti_r1",
+      "prompt": "Tesadüfi bir karşılaşma ya da olay anlamındaki kelime nedir?",
+      "accepted_forms": ["rastlantı", "rastlantısı"],
+      "note": null
+    },
+    {
+      "id": "rastlanti_r2",
+      "prompt": "Coincidence anlamındaki Türkçe sözcük hangisidir?",
+      "accepted_forms": ["rastlantı"],
+      "note": null
+    }
+  ]
+}

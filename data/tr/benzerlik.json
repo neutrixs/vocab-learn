@@ -1,0 +1,55 @@
+{
+  "word": "benzerlik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "similarity, resemblance",
+  "sentences": [
+    {
+      "id": "benzerlik_s1",
+      "text": "İki kardeş arasında çok [benzerlik] var.",
+      "note": null
+    },
+    {
+      "id": "benzerlik_s2",
+      "text": "[Benzerliklerine] rağmen tamamen farklı kişilikler.",
+      "note": null
+    },
+    {
+      "id": "benzerlik_s3",
+      "text": "Bu iki hayvanın [benzerlikleri] belirgindir.",
+      "note": null
+    },
+    {
+      "id": "benzerlik_s4",
+      "text": "[Benzerlik] değil, farkları görmek önemli.",
+      "note": null
+    },
+    {
+      "id": "benzerlik_s5",
+      "text": "Ortak özellikler arasında dikkat çekici [benzerlikler] var.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "benzerlik_r1",
+      "prompt": "İki şey veya kişi arasındaki ortak yönlere ne denir?",
+      "accepted_forms": [
+        "benzerlik",
+        "benzerlikleri",
+        "benzerliklerin"
+      ],
+      "note": null
+    },
+    {
+      "id": "benzerlik_r2",
+      "prompt": "Bu binaların mimarı aynı, bu yüzden aralarında [benzerlik] var.",
+      "accepted_forms": [
+        "benzerlik",
+        "benzerlikleri"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "word": "aksamak",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "verb",
+  "english_gloss": "to fail, to fall short, to miss",
+  "sentences": [
+    {
+      "id": "aksamak_s1",
+      "text": "Asistan bu önemli toplantıda [aksamadı].",
+      "note": null
+    },
+    {
+      "id": "aksamak_s2",
+      "text": "Müşteri hizmetlerimizde [aksama] olmadığını söylüyor.",
+      "note": null
+    },
+    {
+      "id": "aksamak_s3",
+      "text": "Elektrik [aksarsa], bilgisayarın başında olamıyorum.",
+      "note": null
+    },
+    {
+      "id": "aksamak_s4",
+      "text": "Onun desteği hiçbir zaman [aksamadı].",
+      "note": null
+    },
+    {
+      "id": "aksamak_s5",
+      "text": "Üretim [aksamadan] devam ediyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "aksamak_r1",
+      "prompt": "Beklenenin altında kalıp sorun yaratmak anlamı ne taşır?",
+      "accepted_forms": [
+        "aksamak",
+        "aksama",
+        "aksadı"
+      ],
+      "note": null
+    },
+    {
+      "id": "aksamak_r2",
+      "prompt": "Sunulan hizmet ya da çalışmanın yetersiz kalması hangi fiille ifade edilir?",
+      "accepted_forms": [
+        "aksamak",
+        "aksarsa",
+        "aksamadı"
+      ],
+      "note": null
+    }
+  ]
+}

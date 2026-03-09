@@ -1,0 +1,55 @@
+{
+  "word": "azim",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "determination, resolve",
+  "sentences": [
+    {
+      "id": "azim_s1",
+      "text": "Onun [azmi] hiçbir engelle kırılamaz.",
+      "note": null
+    },
+    {
+      "id": "azim_s2",
+      "text": "Başarı için [azim] ve çalışma gerekir.",
+      "note": null
+    },
+    {
+      "id": "azim_s3",
+      "text": "[Azmiyle] imkansız görev başarıya dönüştü.",
+      "note": null
+    },
+    {
+      "id": "azim_s4",
+      "text": "Hedefine ulaşma [azmi] onu motive ediyor.",
+      "note": null
+    },
+    {
+      "id": "azim_s5",
+      "text": "[Azim] bir insan asla pes etmez.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "azim_r1",
+      "prompt": "Bir şeyi başarmak için gerekli kararlılığa ne denir?",
+      "accepted_forms": [
+        "azim",
+        "azmi",
+        "azimleri"
+      ],
+      "note": null
+    },
+    {
+      "id": "azim_r2",
+      "prompt": "O çocuk çok başarılı çünkü gerçekten büyük [azmi] var.",
+      "accepted_forms": [
+        "azmi",
+        "azim"
+      ],
+      "note": null
+    }
+  ]
+}

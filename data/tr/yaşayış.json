@@ -1,0 +1,56 @@
+{
+  "word": "yaşayış",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "way of life, lifestyle",
+  "sentences": [
+    {
+      "id": "yaşayış_s1",
+      "text": "Köyde [yaşayış] şehirden çok farklıdır.",
+      "note": null
+    },
+    {
+      "id": "yaşayış_s2",
+      "text": "Onun sade [yaşayışı] herkese ilham veriyor.",
+      "note": null
+    },
+    {
+      "id": "yaşayış_s3",
+      "text": "Kültürler arasındaki [yaşayış] farkları büyüktür.",
+      "note": null
+    },
+    {
+      "id": "yaşayış_s4",
+      "text": "[Yaşayışımızı] değiştirmek zor ama mümkün.",
+      "note": null
+    },
+    {
+      "id": "yaşayış_s5",
+      "text": "Modern [yaşayış] birçok stresi beraberinde getiriyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yaşayış_r1",
+      "prompt": "Bir kişinin veya toplumun günlük hayat biçimine ne denir?",
+      "accepted_forms": [
+        "yaşayış",
+        "yaşayışı",
+        "yaşayışları"
+      ],
+      "note": null
+    },
+    {
+      "id": "yaşayış_r2",
+      "prompt": "Kültürün pratik uygulanış şekline ne ad verilir?",
+      "accepted_forms": [
+        "yaşayış",
+        "yaşayışı",
+        "tarz"
+      ],
+      "note": null
+    }
+  ]
+}

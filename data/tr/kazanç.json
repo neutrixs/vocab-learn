@@ -1,0 +1,43 @@
+{
+  "word": "kazanç",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "profit, earnings, gain",
+  "sentences": [
+    {
+      "id": "kazanc_s1",
+      "text": "Ay sonu [kazanç]ını hesaplıyor.",
+      "note": null
+    },
+    {
+      "id": "kazanc_s2",
+      "text": "Bu yatırımdan iyi [kazanç] oldu.",
+      "note": null
+    },
+    {
+      "id": "kazanc_s3",
+      "text": "Şirketin [kazanç]ı yüzde 20 arttı.",
+      "note": null
+    },
+    {
+      "id": "kazanc_s4",
+      "text": "[Kazanç] vergisi ödenmesi gerekir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kazanc_r1",
+      "prompt": "Bir kişinin çalışarak elde ettiği para anlamındaki kelime nedir?",
+      "accepted_forms": ["kazanç", "kazançları"],
+      "note": null
+    },
+    {
+      "id": "kazanc_r2",
+      "prompt": "Profit anlamındaki Türkçe sözcük hangisidir?",
+      "accepted_forms": ["kazanç"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "word": "söz tutmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to keep one's word, to honor a promise",
+  "sentences": [
+    {
+      "id": "söz tutmak_s1",
+      "text": "Babam her zaman [söz tutar].",
+      "note": null
+    },
+    {
+      "id": "söz tutmak_s2",
+      "text": "Söz verdi ama [tutmadı].",
+      "note": null
+    },
+    {
+      "id": "söz tutmak_s3",
+      "text": "[Söz tutacağını] biliyordum.",
+      "note": null
+    },
+    {
+      "id": "söz tutmak_s4",
+      "text": "Hiç [söz tutmayan] birini sevemem.",
+      "note": null
+    },
+    {
+      "id": "söz tutmak_s5",
+      "text": "İş yapan insanlar [söz tutmalı].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "söz tutmak_r1",
+      "prompt": "Verdiğin sözü yerine getirmek ne demek?",
+      "accepted_forms": [
+        "söz tutmak",
+        "söz tut",
+        "söz tutma"
+      ],
+      "note": null
+    },
+    {
+      "id": "söz tutmak_r2",
+      "prompt": "Güvenilir bir kişi verdiği vaadi ___.",
+      "accepted_forms": [
+        "tutar",
+        "tutmuştur",
+        "tutmalıdır"
+      ],
+      "note": null
+    }
+  ]
+}

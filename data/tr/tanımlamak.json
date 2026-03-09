@@ -1,0 +1,56 @@
+{
+  "word": "tanımlamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to define, to identify, to characterize",
+  "sentences": [
+    {
+      "id": "tanımlamak_s1",
+      "text": "Sözcüğü [tanımladı].",
+      "note": null
+    },
+    {
+      "id": "tanımlamak_s2",
+      "text": "Barışı nasıl [tanımlarsınız]?",
+      "note": null
+    },
+    {
+      "id": "tanımlamak_s3",
+      "text": "Bu kavramı [tanımlamak] zor.",
+      "note": null
+    },
+    {
+      "id": "tanımlamak_s4",
+      "text": "Başkan durumu [tanımlayan] bir söz söyledi.",
+      "note": null
+    },
+    {
+      "id": "tanımlamak_s5",
+      "text": "Adaletin nasıl [tanımlanması] gerektiğini tartıştık.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tanımlamak_r1",
+      "prompt": "Bir şeyin ne olduğunu açıklamak, sınırlarını belirtmek ne demektir?",
+      "accepted_forms": [
+        "tanımlamak",
+        "tanımla",
+        "tanımlama"
+      ],
+      "note": null
+    },
+    {
+      "id": "tanımlamak_r2",
+      "prompt": "Kimlik bilgilerine göre birisini ___ yani kim olduğunu anlamak.",
+      "accepted_forms": [
+        "tanımladığımız",
+        "tanımlayarak",
+        "tanımladı"
+      ],
+      "note": null
+    }
+  ]
+}

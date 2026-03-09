@@ -1,0 +1,56 @@
+{
+  "word": "yazılımcı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "software developer, programmer",
+  "sentences": [
+    {
+      "id": "yazılımcı_s1",
+      "text": "Bu [yazılımcı] çok yetenekli ve deneyimli.",
+      "note": null
+    },
+    {
+      "id": "yazılımcı_s2",
+      "text": "[Yazılımcılar] her gün yeni kod yazıyorlar.",
+      "note": null
+    },
+    {
+      "id": "yazılımcı_s3",
+      "text": "Şirket deneyimli [yazılımcılar] arıyor.",
+      "note": null
+    },
+    {
+      "id": "yazılımcı_s4",
+      "text": "İyi bir [yazılımcı] sadece kod yazma değil, problem çözer.",
+      "note": null
+    },
+    {
+      "id": "yazılımcı_s5",
+      "text": "Bu projedeki [yazılımcılar] takım halinde çalışıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yazılımcı_r1",
+      "prompt": "Bilgisayar programları yazma işiyle uğraşan kişiye ne denir?",
+      "accepted_forms": [
+        "yazılımcı",
+        "yazılımcısı",
+        "yazılımcılar"
+      ],
+      "note": null
+    },
+    {
+      "id": "yazılımcı_r2",
+      "prompt": "Kod yazarak uygulama geliştiren profesyonele ne ad verilir?",
+      "accepted_forms": [
+        "yazılımcı",
+        "developer",
+        "programcı"
+      ],
+      "note": null
+    }
+  ]
+}

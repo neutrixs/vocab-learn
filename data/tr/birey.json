@@ -1,0 +1,55 @@
+{
+  "word": "birey",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "individual, person",
+  "sentences": [
+    {
+      "id": "birey_s1",
+      "text": "Her [birey] toplumda önemli bir rol oynar.",
+      "note": null
+    },
+    {
+      "id": "birey_s2",
+      "text": "[Bireylerin] haklarını korumak devletin görevi.",
+      "note": null
+    },
+    {
+      "id": "birey_s3",
+      "text": "[Birey] olarak sen kendi kararlarını verebilirsin.",
+      "note": null
+    },
+    {
+      "id": "birey_s4",
+      "text": "Grubun her [bireyinin] farklı görüşleri var.",
+      "note": null
+    },
+    {
+      "id": "birey_s5",
+      "text": "[Bireysel] özgürlükler toplumsal barışın temeldir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "birey_r1",
+      "prompt": "Toplumun en küçük birimi olan tek kişiye ne denir?",
+      "accepted_forms": [
+        "birey",
+        "bireylerin",
+        "bireyler"
+      ],
+      "note": null
+    },
+    {
+      "id": "birey_r2",
+      "prompt": "Her ___ sosyal sorumluluk taşır.",
+      "accepted_forms": [
+        "birey",
+        "bireyin"
+      ],
+      "note": null
+    }
+  ]
+}

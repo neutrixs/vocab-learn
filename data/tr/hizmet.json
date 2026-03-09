@@ -1,0 +1,43 @@
+{
+  "word": "hizmet",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "service",
+  "sentences": [
+    {
+      "id": "hizmet_s1",
+      "text": "Bu restoran kaliteli [hizmet] sunuyor.",
+      "note": null
+    },
+    {
+      "id": "hizmet_s2",
+      "text": "[Hizmet]i mükemmel.",
+      "note": null
+    },
+    {
+      "id": "hizmet_s3",
+      "text": "Sağlık [hizmet]leri bedava.",
+      "note": "plural form"
+    },
+    {
+      "id": "hizmet_s4",
+      "text": "Müşteri [hizmet] telefonu her zaman açık.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hizmet_r1",
+      "prompt": "Service anlamındaki Türkçe kelime nedir?",
+      "accepted_forms": ["hizmet"],
+      "note": null
+    },
+    {
+      "id": "hizmet_r2",
+      "prompt": "'Customer ... is important' cümlesinde ... yerine ne yazarsın?",
+      "accepted_forms": ["hizmet"],
+      "note": null
+    }
+  ]
+}

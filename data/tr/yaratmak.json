@@ -1,0 +1,56 @@
+{
+  "word": "yaratmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to create, to make, to produce",
+  "sentences": [
+    {
+      "id": "yaratmak_s1",
+      "text": "Ressam güzel bir tablo [yarattı].",
+      "note": null
+    },
+    {
+      "id": "yaratmak_s2",
+      "text": "İşçiler yeni ürün [yaratıyor].",
+      "note": null
+    },
+    {
+      "id": "yaratmak_s3",
+      "text": "Sanat [yaratmak] beni mutlu ediyor.",
+      "note": null
+    },
+    {
+      "id": "yaratmak_s4",
+      "text": "[Yarattığı] eser çok ünlü.",
+      "note": null
+    },
+    {
+      "id": "yaratmak_s5",
+      "text": "Tanrı dünyayı [yarattı].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yaratmak_r1",
+      "prompt": "Hiçten bir şey ortaya çıkarmak, bir eser meydana getirmek ne demektir?",
+      "accepted_forms": [
+        "yaratmak",
+        "yarattı",
+        "yaratma"
+      ],
+      "note": null
+    },
+    {
+      "id": "yaratmak_r2",
+      "prompt": "Sanatçı tasarım aşamasında yeni bir ___.",
+      "accepted_forms": [
+        "yarattı",
+        "yaratmaktadır",
+        "yaratmaya başladı"
+      ],
+      "note": null
+    }
+  ]
+}

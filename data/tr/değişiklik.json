@@ -1,0 +1,55 @@
+{
+  "word": "değişiklik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "change, alteration",
+  "sentences": [
+    {
+      "id": "değişiklik_s1",
+      "text": "Örgütün yapısında çok [değişiklik] oldu.",
+      "note": null
+    },
+    {
+      "id": "değişiklik_s2",
+      "text": "[Değişikliklere] hızlı adapte olmak gerekir.",
+      "note": null
+    },
+    {
+      "id": "değişiklik_s3",
+      "text": "Çelik harita [değişikliklerini] takip ettik.",
+      "note": null
+    },
+    {
+      "id": "değişiklik_s4",
+      "text": "[Değişiklik] daima heyecan ve endişe yaratır.",
+      "note": null
+    },
+    {
+      "id": "değişiklik_s5",
+      "text": "Pozitif [değişiklikleri] gözlemledim.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "değişiklik_r1",
+      "prompt": "Bir şeyin eski halinden farklı hale getirilmesine ne denir?",
+      "accepted_forms": [
+        "değişiklik",
+        "değişiklikleri",
+        "değişikliklerin"
+      ],
+      "note": null
+    },
+    {
+      "id": "değişiklik_r2",
+      "prompt": "Kural ve sisteme çok [değişiklik] yapıldı.",
+      "accepted_forms": [
+        "değişiklik",
+        "değişiklikleri"
+      ],
+      "note": null
+    }
+  ]
+}

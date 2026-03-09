@@ -1,0 +1,56 @@
+{
+  "word": "şans vermek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to give a chance, to give an opportunity",
+  "sentences": [
+    {
+      "id": "şans vermek_s1",
+      "text": "Hoca bana bir [şans verdi].",
+      "note": null
+    },
+    {
+      "id": "şans vermek_s2",
+      "text": "İkinci [şans vermek] önemlidir.",
+      "note": null
+    },
+    {
+      "id": "şans vermek_s3",
+      "text": "[Şans verin] derim.",
+      "note": "Emir kipi"
+    },
+    {
+      "id": "şans vermek_s4",
+      "text": "Muhasebeci genç işçiye [şans verdi].",
+      "note": null
+    },
+    {
+      "id": "şans vermek_s5",
+      "text": "Bana [şans vermiş] olsaydın başarılı olurdum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şans vermek_r1",
+      "prompt": "Birine bir fırsat sunmak, bir şeyler denemesi için imkan vermek ne demek?",
+      "accepted_forms": [
+        "şans vermek",
+        "şans ver",
+        "şans verme"
+      ],
+      "note": null
+    },
+    {
+      "id": "şans vermek_r2",
+      "prompt": "Patronunuz size bir proje yönetme fırsatını ___ diyorsunuz.",
+      "accepted_forms": [
+        "verdi",
+        "vermek",
+        "vermiş"
+      ],
+      "note": null
+    }
+  ]
+}

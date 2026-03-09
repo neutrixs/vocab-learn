@@ -1,0 +1,56 @@
+{
+  "word": "yaradılış",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "creation, nature",
+  "sentences": [
+    {
+      "id": "yaradılış_s1",
+      "text": "Dünyanın [yaradılışından] bu yana milyonlar yıl geçti.",
+      "note": null
+    },
+    {
+      "id": "yaradılış_s2",
+      "text": "İnsan [yaradılışı] en ilginç örneklerinden biridir.",
+      "note": null
+    },
+    {
+      "id": "yaradılış_s3",
+      "text": "[Yaradılışın] güzelliğini görmek için doğaya bakmalısın.",
+      "note": null
+    },
+    {
+      "id": "yaradılış_s4",
+      "text": "Evrensel [yaradılış] hakkında farklı inanışlar vardır.",
+      "note": null
+    },
+    {
+      "id": "yaradılış_s5",
+      "text": "[Yaradılıştan] gelen benzer özellikler farklı türlerde bulunur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yaradılış_r1",
+      "prompt": "Tanrı veya doğanın yaratış sürecine ne denir?",
+      "accepted_forms": [
+        "yaradılış",
+        "yaradılışı",
+        "yaradılıştan"
+      ],
+      "note": null
+    },
+    {
+      "id": "yaradılış_r2",
+      "prompt": "İnsan veya evrenin kökenine ilişkin, dini veya felsefi anlayışa ne ad verilir?",
+      "accepted_forms": [
+        "yaradılış",
+        "yaradılışı",
+        "yaratılış"
+      ],
+      "note": null
+    }
+  ]
+}

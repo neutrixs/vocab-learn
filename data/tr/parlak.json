@@ -1,0 +1,43 @@
+{
+  "word": "parlak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "bright, brilliant, shiny, glossy",
+  "sentences": [
+    {
+      "id": "parlak_s1",
+      "text": "[Parlak] bir gün.",
+      "note": null
+    },
+    {
+      "id": "parlak_s2",
+      "text": "Ayın [parlak] ışığı.",
+      "note": null
+    },
+    {
+      "id": "parlak_s3",
+      "text": "O [parlak] bir öğrenci.",
+      "note": "bright student"
+    },
+    {
+      "id": "parlak_s4",
+      "text": "[Parlak] bir fikir önerdi.",
+      "note": "brilliant idea"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "parlak_r1",
+      "prompt": "Işık yayan, çok aydınlık anlamındaki sıfat nedir?",
+      "accepted_forms": ["parlak"],
+      "note": null
+    },
+    {
+      "id": "parlak_r2",
+      "prompt": "Bright anlamındaki Türkçe sıfat hangisidir?",
+      "accepted_forms": ["parlak"],
+      "note": null
+    }
+  ]
+}

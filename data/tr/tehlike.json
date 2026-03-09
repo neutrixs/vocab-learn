@@ -1,0 +1,56 @@
+{
+  "word": "tehlike",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "danger, peril, hazard",
+  "sentences": [
+    {
+      "id": "tehlike_s1",
+      "text": "[Tehlike] anlık bir tehditten daha ciddi bir durumdur.",
+      "note": null
+    },
+    {
+      "id": "tehlike_s2",
+      "text": "Bu dağ geçidinde kavalanş [tehlikesi] her zaman vardır.",
+      "note": null
+    },
+    {
+      "id": "tehlike_s3",
+      "text": "Trafik [tehlikeleri] her gün birçok insanı etkilemektedir.",
+      "note": null
+    },
+    {
+      "id": "tehlike_s4",
+      "text": "[Tehlike] geçene kadar burada beklemek daha güvenlidir.",
+      "note": null
+    },
+    {
+      "id": "tehlike_s5",
+      "text": "Orman yangınları ciddi çevre [tehlikeleridir].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tehlike_r1",
+      "prompt": "Zarar verme olasılığı yüksek olan durum veya durumdaki şeye ne denir?",
+      "accepted_forms": [
+        "tehlike",
+        "tehlikesi",
+        "tehlikeleri"
+      ],
+      "note": null
+    },
+    {
+      "id": "tehlike_r2",
+      "prompt": "Uyarı işareti gördüğünde 'Burada ___ var' diyorsun. Boşluğa ne yazarsın?",
+      "accepted_forms": [
+        "tehlike",
+        "tehlikeler",
+        "tehlikesi"
+      ],
+      "note": null
+    }
+  ]
+}

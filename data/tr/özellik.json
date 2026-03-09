@@ -1,0 +1,43 @@
+{
+  "word": "özellik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "feature, characteristic, property",
+  "sentences": [
+    {
+      "id": "ozellik_s1",
+      "text": "Bu ürünün ana [özellik]leri nedir?",
+      "note": null
+    },
+    {
+      "id": "ozellik_s2",
+      "text": "[Özellik] olarak hızlı ve ucuz.",
+      "note": null
+    },
+    {
+      "id": "ozellik_s3",
+      "text": "Yeni telefonun [özellik]leri harika.",
+      "note": null
+    },
+    {
+      "id": "ozellik_s4",
+      "text": "En önemli [özellik] dayanıklılık.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ozellik_r1",
+      "prompt": "Bir şeyin ayırıcı niteliği anlamındaki kelime nedir?",
+      "accepted_forms": ["özellik", "özellikleri"],
+      "note": null
+    },
+    {
+      "id": "ozellik_r2",
+      "prompt": "Feature anlamındaki Türkçe sözcük hangisidir?",
+      "accepted_forms": ["özellik"],
+      "note": null
+    }
+  ]
+}

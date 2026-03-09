@@ -1,0 +1,55 @@
+{
+  "word": "engelli",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "disabled, disabled person",
+  "sentences": [
+    {
+      "id": "engelli_s1",
+      "text": "[Engelli] insanları desteklemek toplumun görevi.",
+      "note": null
+    },
+    {
+      "id": "engelli_s2",
+      "text": "Bu bina [engelli] vatandaşlar için uygun.",
+      "note": null
+    },
+    {
+      "id": "engelli_s3",
+      "text": "[Engelli] kişilerin haklarını korumak önemli.",
+      "note": null
+    },
+    {
+      "id": "engelli_s4",
+      "text": "Parkta [engelli] alanı ayrıldı.",
+      "note": null
+    },
+    {
+      "id": "engelli_s5",
+      "text": "[Engelliler] gözlem merkezine erişim sağladık.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "engelli_r1",
+      "prompt": "Vücudunun herhangi bir bölümünde sorun olan kişiye ne denir?",
+      "accepted_forms": [
+        "engelli",
+        "engelliler",
+        "engelli kişi"
+      ],
+      "note": null
+    },
+    {
+      "id": "engelli_r2",
+      "prompt": "[Engelli] bireyler toplumda eşit haklara sahip olmalıdır.",
+      "accepted_forms": [
+        "engelli",
+        "engelliler"
+      ],
+      "note": null
+    }
+  ]
+}

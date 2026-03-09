@@ -1,0 +1,43 @@
+{
+  "word": "özgü",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "specific, peculiar, unique to",
+  "sentences": [
+    {
+      "id": "ozgu_s1",
+      "text": "Bu sorun Türkiye'ye [özgü].",
+      "note": null
+    },
+    {
+      "id": "ozgu_s2",
+      "text": "Her kültürün kendine [özgü] gelenekleri var.",
+      "note": null
+    },
+    {
+      "id": "ozgu_s3",
+      "text": "Dil [özgü]lükleri öğrenmeliyiz.",
+      "note": null
+    },
+    {
+      "id": "ozgu_s4",
+      "text": "Bu ruh hali gençlere [özgü].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ozgu_r1",
+      "prompt": "Bir şeye ait, belirli bir gruba has anlamındaki sıfat nedir?",
+      "accepted_forms": ["özgü"],
+      "note": null
+    },
+    {
+      "id": "ozgu_r2",
+      "prompt": "Specific to anlamındaki Türkçe sıfat hangisidir?",
+      "accepted_forms": ["özgü"],
+      "note": null
+    }
+  ]
+}

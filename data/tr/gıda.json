@@ -1,0 +1,43 @@
+{
+  "word": "gıda",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "food",
+  "sentences": [
+    {
+      "id": "gida_s1",
+      "text": "Bu [gıda] çok lezzetli.",
+      "note": null
+    },
+    {
+      "id": "gida_s2",
+      "text": "[Gıda] endüstrisi çok önemli.",
+      "note": null
+    },
+    {
+      "id": "gida_s3",
+      "text": "Sağlıklı [gıda] tüketmeliyiz.",
+      "note": null
+    },
+    {
+      "id": "gida_s4",
+      "text": "[Gıdalar] buzdolabında saklanmalı.",
+      "note": "plural form"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gida_r1",
+      "prompt": "Yemek anlamında Türkçe kelime nedir?",
+      "accepted_forms": ["gıda", "gıdalar"],
+      "note": null
+    },
+    {
+      "id": "gida_r2",
+      "prompt": "'Healthy ... is important' cümlesini Türkçeye çevirmek istiyorsun. ... yerine ne yazarsın?",
+      "accepted_forms": ["gıda"],
+      "note": null
+    }
+  ]
+}

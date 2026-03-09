@@ -1,0 +1,55 @@
+{
+  "word": "dönüm noktası",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "turning point",
+  "sentences": [
+    {
+      "id": "dönüm noktası_s1",
+      "text": "Bu haber hayatında bir [dönüm noktasıydı].",
+      "note": null
+    },
+    {
+      "id": "dönüm noktası_s2",
+      "text": "Savaş tarihin [dönüm noktalarındandır].",
+      "note": null
+    },
+    {
+      "id": "dönüm noktası_s3",
+      "text": "[Dönüm noktasından] sonra her şey değişti.",
+      "note": null
+    },
+    {
+      "id": "dönüm noktası_s4",
+      "text": "Bu keşif bilim için bir [dönüm noktası] oldu.",
+      "note": null
+    },
+    {
+      "id": "dönüm noktası_s5",
+      "text": "[Dönüm noktası] kararı almaktan korkuyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dönüm noktası_r1",
+      "prompt": "Bir durumun tamamen değişeceği kritik andaki noktaya ne denir?",
+      "accepted_forms": [
+        "dönüm noktası",
+        "dönüm noktasıydı",
+        "dönüm noktaları"
+      ],
+      "note": null
+    },
+    {
+      "id": "dönüm noktası_r2",
+      "prompt": "Projedeki [dönüm noktası] pazarlamaya başlamaktı.",
+      "accepted_forms": [
+        "dönüm noktası",
+        "dönüm noktasıydı"
+      ],
+      "note": null
+    }
+  ]
+}

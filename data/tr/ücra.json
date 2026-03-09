@@ -1,0 +1,56 @@
+{
+  "word": "ücra",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "enforcement, execution (legal term)",
+  "sentences": [
+    {
+      "id": "ücra_s1",
+      "text": "Hükmün [ücrası] yargıcın tarafından düzenlenecek.",
+      "note": null
+    },
+    {
+      "id": "ücra_s2",
+      "text": "[Ücra] hukuku çok karmaşık bir alan.",
+      "note": null
+    },
+    {
+      "id": "ücra_s3",
+      "text": "Bu karar [ücrası] yapılıncaya kadar geçerlidir.",
+      "note": null
+    },
+    {
+      "id": "ücra_s4",
+      "text": "[Ücra] müdürü kararın infazından sorumlu.",
+      "note": null
+    },
+    {
+      "id": "ücra_s5",
+      "text": "Mahkeme [ücrası] süreci başlattı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ücra_r1",
+      "prompt": "Mahkeme kararının uygulanma sürecine ne denir?",
+      "accepted_forms": [
+        "ücra",
+        "ücrası",
+        "ücra süreci"
+      ],
+      "note": null
+    },
+    {
+      "id": "ücra_r2",
+      "prompt": "Hukuk sisteminde verilen cezaların yerine getirilmesine hangi terim kullanılır?",
+      "accepted_forms": [
+        "ücra",
+        "ücrası",
+        "ücra işlemi"
+      ],
+      "note": null
+    }
+  ]
+}

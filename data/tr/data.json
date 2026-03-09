@@ -1,0 +1,55 @@
+{
+  "word": "data",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "data",
+  "sentences": [
+    {
+      "id": "data_s1",
+      "text": "[Data] analizi önemli bulguları ortaya çıkardı.",
+      "note": null
+    },
+    {
+      "id": "data_s2",
+      "text": "Depolanan [datalar] şifreli tutulur.",
+      "note": null
+    },
+    {
+      "id": "data_s3",
+      "text": "[Data] koruma yasası tüm şirketleri bağlar.",
+      "note": null
+    },
+    {
+      "id": "data_s4",
+      "text": "Büyük [data] işlemenin özel araçları var.",
+      "note": null
+    },
+    {
+      "id": "data_s5",
+      "text": "[Datanın] doğruluğu sonuçları etkiler.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "data_r1",
+      "prompt": "Bilgisayarda depolanan bilgi ve sayılara ne denir?",
+      "accepted_forms": [
+        "data",
+        "datalar",
+        "veriler"
+      ],
+      "note": null
+    },
+    {
+      "id": "data_r2",
+      "prompt": "[Data] yönetimi modern işletmelerin temel görevidir.",
+      "accepted_forms": [
+        "data",
+        "veriler"
+      ],
+      "note": null
+    }
+  ]
+}

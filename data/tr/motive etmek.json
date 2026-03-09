@@ -1,0 +1,56 @@
+{
+  "word": "motive etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to motivate, to inspire",
+  "sentences": [
+    {
+      "id": "motive etmek_s1",
+      "text": "Antrenör oyuncuları [motive etti].",
+      "note": null
+    },
+    {
+      "id": "motive etmek_s2",
+      "text": "Başarı insanları [motive ediyor].",
+      "note": null
+    },
+    {
+      "id": "motive etmek_s3",
+      "text": "Öğretmen öğrencileri [motive etmek] için çaba sarf ediyor.",
+      "note": null
+    },
+    {
+      "id": "motive etmek_s4",
+      "text": "Takımı [motive etse] bile, sonuç değişmeyecek.",
+      "note": null
+    },
+    {
+      "id": "motive etmek_s5",
+      "text": "Hedefi belirlemek insanları [motive eder].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "motive etmek_r1",
+      "prompt": "Birine bir şey yapma arzusu vermek ne demek?",
+      "accepted_forms": [
+        "motive etmek",
+        "motive et",
+        "motive etme"
+      ],
+      "note": null
+    },
+    {
+      "id": "motive etmek_r2",
+      "prompt": "Koç takımı maç öncesi oyuncuları ne yapmalı?",
+      "accepted_forms": [
+        "motive etmeli",
+        "motive etmelidir",
+        "motive etmesi gerek"
+      ],
+      "note": null
+    }
+  ]
+}

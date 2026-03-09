@@ -1,0 +1,43 @@
+{
+  "word": "performans",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "performance",
+  "sentences": [
+    {
+      "id": "performans_s1",
+      "text": "Oyuncunun [performans]ı müthiş.",
+      "note": null
+    },
+    {
+      "id": "performans_s2",
+      "text": "Bilgisayarın [performans]ı hızlı.",
+      "note": null
+    },
+    {
+      "id": "performans_s3",
+      "text": "Sporcunun [performans]ı beklentileri aştı.",
+      "note": null
+    },
+    {
+      "id": "performans_s4",
+      "text": "İyi [performans] göstermesi gerekiyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "performans_r1",
+      "prompt": "Bir kişinin ya da makinenin yaptığı iş anlamındaki kelime nedir?",
+      "accepted_forms": ["performans", "performansı"],
+      "note": null
+    },
+    {
+      "id": "performans_r2",
+      "prompt": "Performance anlamındaki Türkçe sözcük hangisidir?",
+      "accepted_forms": ["performans"],
+      "note": null
+    }
+  ]
+}

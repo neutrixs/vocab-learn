@@ -1,0 +1,55 @@
+{
+  "word": "dikiş",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "stitch, seam, sewing",
+  "sentences": [
+    {
+      "id": "dikiş_s1",
+      "text": "Elbisesin [dikişi] çok netsiz, çözmek lazım.",
+      "note": null
+    },
+    {
+      "id": "dikiş_s2",
+      "text": "Terzi [dikişleri] çok sıkı ve düzgün yapıyor.",
+      "note": null
+    },
+    {
+      "id": "dikiş_s3",
+      "text": "[Dikiş] yapma zor bir sanat dalıdır.",
+      "note": null
+    },
+    {
+      "id": "dikiş_s4",
+      "text": "Yırtık kot pantolonun [dikişini] tamir ettirdim.",
+      "note": null
+    },
+    {
+      "id": "dikiş_s5",
+      "text": "[Dikişler] kumaşın kalitesiyle eşleşmeli.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dikiş_r1",
+      "prompt": "İplikle kumaşın iki kenarını birbirine bağlamak nedir?",
+      "accepted_forms": [
+        "dikiş",
+        "dikişi",
+        "dikişler"
+      ],
+      "note": null
+    },
+    {
+      "id": "dikiş_r2",
+      "prompt": "Bu elbisedeki [dikiş] çok güzel ve simetrik.",
+      "accepted_forms": [
+        "dikiş",
+        "dikişler"
+      ],
+      "note": null
+    }
+  ]
+}

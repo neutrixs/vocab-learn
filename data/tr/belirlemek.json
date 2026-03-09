@@ -1,0 +1,56 @@
+{
+  "word": "belirlemek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to determine, to set, to specify",
+  "sentences": [
+    {
+      "id": "belirlemek_s1",
+      "text": "Yönetim toplantıda hedefler [belirlenecek].",
+      "note": null
+    },
+    {
+      "id": "belirlemek_s2",
+      "text": "[Belirledilim] bütçe yıl için yeterli mi?",
+      "note": null
+    },
+    {
+      "id": "belirlemek_s3",
+      "text": "Kurallar açıkça [belirtilmeli].",
+      "note": null
+    },
+    {
+      "id": "belirlemek_s4",
+      "text": "Başlama tarihi [belirlenmiş] midir?",
+      "note": null
+    },
+    {
+      "id": "belirlemek_s5",
+      "text": "Kıstasları [belirlerken] çok dikkatli olmalısınız.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "belirlemek_r1",
+      "prompt": "Bir şeyin neler olacağını önceden kararlaştırmak hangi fiille ifade edilir?",
+      "accepted_forms": [
+        "belirlemek",
+        "belirlenmiş",
+        "belirlediler"
+      ],
+      "note": null
+    },
+    {
+      "id": "belirlemek_r2",
+      "prompt": "Tanımını yaparak sınırlarını çizmek anlamında hangi fiil kullanılır?",
+      "accepted_forms": [
+        "belirlemek",
+        "belirtmek",
+        "tanımlamak"
+      ],
+      "note": null
+    }
+  ]
+}

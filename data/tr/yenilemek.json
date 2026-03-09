@@ -1,0 +1,56 @@
+{
+  "word": "yenilemek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to renew, to refresh, to update",
+  "sentences": [
+    {
+      "id": "yenilemek_s1",
+      "text": "Pasaportunu [yeniledi].",
+      "note": null
+    },
+    {
+      "id": "yenilemek_s2",
+      "text": "Yazılımı [yenilemeliyiz].",
+      "note": null
+    },
+    {
+      "id": "yenilemek_s3",
+      "text": "[Yenilemek] için yeni başlangıç yapmamız lazım.",
+      "note": null
+    },
+    {
+      "id": "yenilemek_s4",
+      "text": "[Yenilenen] ürün çok iyi.",
+      "note": null
+    },
+    {
+      "id": "yenilemek_s5",
+      "text": "Ev boyadıktan sonra [yenilendi] gibi görünüyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yenilemek_r1",
+      "prompt": "Eski olan bir şeyi güncellemek, yeni hale getirmek ne demektir?",
+      "accepted_forms": [
+        "yenilemek",
+        "yenile",
+        "yenileme"
+      ],
+      "note": null
+    },
+    {
+      "id": "yenilemek_r2",
+      "prompt": "Ayakkabılar eski görünüyor, onları ___ mi?",
+      "accepted_forms": [
+        "yeneyelim",
+        "yenilesek",
+        "yenilebilir"
+      ],
+      "note": null
+    }
+  ]
+}

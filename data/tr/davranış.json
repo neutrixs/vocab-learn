@@ -1,0 +1,55 @@
+{
+  "word": "davranış",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "behavior, conduct",
+  "sentences": [
+    {
+      "id": "davranış_s1",
+      "text": "Çocuğun kötü [davranışı] disiplin gerektirdi.",
+      "note": null
+    },
+    {
+      "id": "davranış_s2",
+      "text": "Sosyal [davranışlar] kültüre göre değişir.",
+      "note": null
+    },
+    {
+      "id": "davranış_s3",
+      "text": "[Davranışlarındaki] değişim çok belirgin.",
+      "note": null
+    },
+    {
+      "id": "davranış_s4",
+      "text": "İyi [davranış] insanlar tarafından takdir edilir.",
+      "note": null
+    },
+    {
+      "id": "davranış_s5",
+      "text": "[Davranışlar] insanın kişiliğini yansıtır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "davranış_r1",
+      "prompt": "Bir insanın gösterdiği hareket ve tutumun bütünü nedir?",
+      "accepted_forms": [
+        "davranış",
+        "davranışı",
+        "davranışlar"
+      ],
+      "note": null
+    },
+    {
+      "id": "davranış_r2",
+      "prompt": "Sosyal ortamlardaki insanın [davranışı] onun eğitimini gösterir.",
+      "accepted_forms": [
+        "davranışı",
+        "davranış"
+      ],
+      "note": null
+    }
+  ]
+}

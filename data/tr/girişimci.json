@@ -1,0 +1,43 @@
+{
+  "word": "girişimci",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "entrepreneur",
+  "sentences": [
+    {
+      "id": "girisimci_s1",
+      "text": "O başarılı bir [girişimci].",
+      "note": null
+    },
+    {
+      "id": "girisimci_s2",
+      "text": "[Girişimci]ler yeni iş fikirleri geliştirirler.",
+      "note": null
+    },
+    {
+      "id": "girisimci_s3",
+      "text": "Pek çok genç [girişimci] ülkemizde var.",
+      "note": null
+    },
+    {
+      "id": "girisimci_s4",
+      "text": "[Girişimci] olmak riskli ama ödüllendirici.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "girisimci_r1",
+      "prompt": "Kendi işini kuran ve yöneten kişiye ne denir?",
+      "accepted_forms": ["girişimci"],
+      "note": null
+    },
+    {
+      "id": "girisimci_r2",
+      "prompt": "Steve Jobs bir ... idi.",
+      "accepted_forms": ["girişimci"],
+      "note": null
+    }
+  ]
+}

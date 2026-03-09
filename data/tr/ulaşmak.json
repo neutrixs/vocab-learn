@@ -1,0 +1,56 @@
+{
+  "word": "ulaşmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to reach, to arrive at, to attain, to achieve",
+  "sentences": [
+    {
+      "id": "ulaşmak_s1",
+      "text": "Dağa [ulaştık].",
+      "note": null
+    },
+    {
+      "id": "ulaşmak_s2",
+      "text": "Hedefine [ulaşacak] mı?",
+      "note": null
+    },
+    {
+      "id": "ulaşmak_s3",
+      "text": "[Ulaşmak] için çok çalıştı.",
+      "note": null
+    },
+    {
+      "id": "ulaşmak_s4",
+      "text": "Başarıya [ulaşan] insanlar azınlıkta.",
+      "note": null
+    },
+    {
+      "id": "ulaşmak_s5",
+      "text": "Mesaj [ulaştı] mı?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ulaşmak_r1",
+      "prompt": "Bir yere gitmeyi tamamlamak, bir hedefe varabilmek ne demektir?",
+      "accepted_forms": [
+        "ulaşmak",
+        "ulaş",
+        "ulaşma"
+      ],
+      "note": null
+    },
+    {
+      "id": "ulaşmak_r2",
+      "prompt": "Yolcular sonunda şehre ___.",
+      "accepted_forms": [
+        "ulaştılar",
+        "ulaştı",
+        "ulaşmışlar"
+      ],
+      "note": null
+    }
+  ]
+}

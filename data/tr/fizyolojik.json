@@ -1,0 +1,54 @@
+{
+  "word": "fizyolojik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "physiological",
+  "sentences": [
+    {
+      "id": "fizyolojik_s1",
+      "text": "[Fizyolojik] değişimler doğal ve normaldir.",
+      "note": null
+    },
+    {
+      "id": "fizyolojik_s2",
+      "text": "[Fizyolojik] tepkiler bilinç dışı olabilir.",
+      "note": null
+    },
+    {
+      "id": "fizyolojik_s3",
+      "text": "Spor eğitiminin [fizyolojik] faydaları hayranlık uyandırıyor.",
+      "note": null
+    },
+    {
+      "id": "fizyolojik_s4",
+      "text": "[Fizyolojik] ihtiyaçlar tüm yaşayan canlılara ortak.",
+      "note": null
+    },
+    {
+      "id": "fizyolojik_s5",
+      "text": "Stresin [fizyolojik] etkileri ciddir olabilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "fizyolojik_r1",
+      "prompt": "Canlı varlıkların yaşam faaliyetleriyle ilgili olan sıfat nedir?",
+      "accepted_forms": [
+        "fizyolojik",
+        "yaşamsal"
+      ],
+      "note": null
+    },
+    {
+      "id": "fizyolojik_r2",
+      "prompt": "[Fizyolojik] tepkiler vücudun doğal savunma mekanizması.",
+      "accepted_forms": [
+        "fizyolojik",
+        "bedensel"
+      ],
+      "note": null
+    }
+  ]
+}

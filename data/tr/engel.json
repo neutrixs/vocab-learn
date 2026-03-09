@@ -1,0 +1,55 @@
+{
+  "word": "engel",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "obstacle, barrier",
+  "sentences": [
+    {
+      "id": "engel_s1",
+      "text": "Her zorlukta yeni bir [engel] ortaya çıktı.",
+      "note": null
+    },
+    {
+      "id": "engel_s2",
+      "text": "[Engelleri] aşmak başarı getiriyor.",
+      "note": null
+    },
+    {
+      "id": "engel_s3",
+      "text": "Korkusu onun ilerlemesinde [engel] oldu.",
+      "note": null
+    },
+    {
+      "id": "engel_s4",
+      "text": "[Engel] atlamak sprint sporunda önemli teknik.",
+      "note": null
+    },
+    {
+      "id": "engel_s5",
+      "text": "Dile gelen [engel], insanları ayırmaz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "engel_r1",
+      "prompt": "Bir şeyin ilerlemesini veya gerçekleşmesini engelleyen şeye ne denir?",
+      "accepted_forms": [
+        "engel",
+        "engeli",
+        "engeller"
+      ],
+      "note": null
+    },
+    {
+      "id": "engel_r2",
+      "prompt": "Özür dile, hiçbir [engel] olmaz.",
+      "accepted_forms": [
+        "engel",
+        "engeli"
+      ],
+      "note": null
+    }
+  ]
+}

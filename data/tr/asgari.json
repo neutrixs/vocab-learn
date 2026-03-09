@@ -1,0 +1,54 @@
+{
+  "word": "asgari",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "minimum, bare",
+  "sentences": [
+    {
+      "id": "asgari_s1",
+      "text": "İşçiler [asgari] ücretle çalışmak istemiyorlar.",
+      "note": null
+    },
+    {
+      "id": "asgari_s2",
+      "text": "[Asgari] yaşlılık emeklisinin geçim müşküldür.",
+      "note": null
+    },
+    {
+      "id": "asgari_s3",
+      "text": "Kurumun [asgari] personel gereksinimi var.",
+      "note": null
+    },
+    {
+      "id": "asgari_s4",
+      "text": "[Asgari] şartları sağlayan adaylar kabul edildi.",
+      "note": null
+    },
+    {
+      "id": "asgari_s5",
+      "text": "Bu iş için [asgari] beceri yeterlidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "asgari_r1",
+      "prompt": "En düşük derece veya miktara ne denir?",
+      "accepted_forms": [
+        "asgari",
+        "asgari düzey"
+      ],
+      "note": null
+    },
+    {
+      "id": "asgari_r2",
+      "prompt": "İşçilerin alması gereken en az ücrete ___ ücret denir.",
+      "accepted_forms": [
+        "asgari",
+        "asgari ücret"
+      ],
+      "note": null
+    }
+  ]
+}

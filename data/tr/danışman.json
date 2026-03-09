@@ -1,0 +1,55 @@
+{
+  "word": "danışman",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "consultant, advisor",
+  "sentences": [
+    {
+      "id": "danışman_s1",
+      "text": "Hukuki [danışman] önemli kararlar vermede yardım etti.",
+      "note": null
+    },
+    {
+      "id": "danışman_s2",
+      "text": "[Danışmanına] stratejik plan hakkında sordum.",
+      "note": null
+    },
+    {
+      "id": "danışman_s3",
+      "text": "İş [danışmanları] şirketin gelişmesine katkı sağlarlar.",
+      "note": null
+    },
+    {
+      "id": "danışman_s4",
+      "text": "[Danışmanların] tavsiyesi çok değerlidir.",
+      "note": null
+    },
+    {
+      "id": "danışman_s5",
+      "text": "Projedeki [danışmanlar] çok deneyimli kişiler.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "danışman_r1",
+      "prompt": "Bir konuda uzman olarak tavsiyelerde bulunan kişiye ne denir?",
+      "accepted_forms": [
+        "danışman",
+        "danışmanı",
+        "danışmanlar"
+      ],
+      "note": null
+    },
+    {
+      "id": "danışman_r2",
+      "prompt": "Yatırım hakkında bir [danışman] ile görüştük.",
+      "accepted_forms": [
+        "danışman",
+        "danışmanla"
+      ],
+      "note": null
+    }
+  ]
+}

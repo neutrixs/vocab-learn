@@ -1,0 +1,43 @@
+{
+  "word": "püf noktası",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "trick, tip, knack",
+  "sentences": [
+    {
+      "id": "puef_s1",
+      "text": "Yazarın [püf noktası] iyi bilinmesidir.",
+      "note": null
+    },
+    {
+      "id": "puef_s2",
+      "text": "[Püf noktası] kullanarak hızlı yazıyor.",
+      "note": null
+    },
+    {
+      "id": "puef_s3",
+      "text": "Bu işin bir [püf noktası] var.",
+      "note": null
+    },
+    {
+      "id": "puef_s4",
+      "text": "Aşçı [püf noktasını] açığa vurdu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "puef_r1",
+      "prompt": "Bir işi kolay yapmak için bilinen gizli yöntem anlamındaki ifade nedir?",
+      "accepted_forms": ["püf noktası"],
+      "note": null
+    },
+    {
+      "id": "puef_r2",
+      "prompt": "Trick anlamındaki Türkçe ifade hangisidir?",
+      "accepted_forms": ["püf noktası"],
+      "note": null
+    }
+  ]
+}

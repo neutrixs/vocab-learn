@@ -1,0 +1,43 @@
+{
+  "word": "içerik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "content",
+  "sentences": [
+    {
+      "id": "icerik_s1",
+      "text": "Kitabın [içerik]i çok ilginç.",
+      "note": null
+    },
+    {
+      "id": "icerik_s2",
+      "text": "[İçerik] yazarı tarafından oluşturuldu.",
+      "note": null
+    },
+    {
+      "id": "icerik_s3",
+      "text": "Bu videoların [içerik]i eğitici.",
+      "note": null
+    },
+    {
+      "id": "icerik_s4",
+      "text": "Web sitesinin [içerik]i düzenli olarak güncelleniyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "icerik_r1",
+      "prompt": "Bir kitap, video, web sitesinin taşıdığı bilgi ve malzeme nedir?",
+      "accepted_forms": ["içerik"],
+      "note": null
+    },
+    {
+      "id": "icerik_r2",
+      "prompt": "Content anlamına gelen Türkçe sözcük hangisidir?",
+      "accepted_forms": ["içerik"],
+      "note": null
+    }
+  ]
+}

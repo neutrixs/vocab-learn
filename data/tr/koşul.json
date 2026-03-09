@@ -1,0 +1,43 @@
+{
+  "word": "koşul",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "condition",
+  "sentences": [
+    {
+      "id": "kosul_s1",
+      "text": "Anlaşmanın [koşul]ları açık.",
+      "note": null
+    },
+    {
+      "id": "kosul_s2",
+      "text": "İyi [koşul]lar altında çalışıyoruz.",
+      "note": null
+    },
+    {
+      "id": "kosul_s3",
+      "text": "[Koşul] olarak ise 100 saatlik eğitim.",
+      "note": null
+    },
+    {
+      "id": "kosul_s4",
+      "text": "Barışmanın [koşul]ları müzakere ediliyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kosul_r1",
+      "prompt": "Bir anlaşmanın yapılması için gerekli şart anlamındaki kelime nedir?",
+      "accepted_forms": ["koşul", "koşulları"],
+      "note": null
+    },
+    {
+      "id": "kosul_r2",
+      "prompt": "Condition anlamındaki Türkçe sözcük hangisidir?",
+      "accepted_forms": ["koşul"],
+      "note": null
+    }
+  ]
+}

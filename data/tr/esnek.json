@@ -1,0 +1,54 @@
+{
+  "word": "esnek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "flexible",
+  "sentences": [
+    {
+      "id": "esnek_s1",
+      "text": "Bu plastik malzeme çok [esnek].",
+      "note": null
+    },
+    {
+      "id": "esnek_s2",
+      "text": "[Esnek] bir tarih yönetim sistemi gerekli.",
+      "note": null
+    },
+    {
+      "id": "esnek_s3",
+      "text": "Yönetici [esnek] çalışma saatleri sağlıyor.",
+      "note": null
+    },
+    {
+      "id": "esnek_s4",
+      "text": "[Esnek] düşünceleri sayesinde sorun çözdü.",
+      "note": null
+    },
+    {
+      "id": "esnek_s5",
+      "text": "[Esnek] bir vücut sağlığın işaretidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "esnek_r1",
+      "prompt": "Kolayca bükülüp şekil değiştirebilen şeye ne denir?",
+      "accepted_forms": [
+        "esnek",
+        "esneklik"
+      ],
+      "note": null
+    },
+    {
+      "id": "esnek_r2",
+      "prompt": "Bu kural çok [esnek], değiştirilip ayarlanabilir.",
+      "accepted_forms": [
+        "esnek",
+        "değişken"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "word": "başlık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "title, heading",
+  "sentences": [
+    {
+      "id": "başlık_s1",
+      "text": "Kitabın [başlığı] çok dikkat çekici.",
+      "note": null
+    },
+    {
+      "id": "başlık_s2",
+      "text": "[Başlıklar] okuyucuyu doğru bilgiye yönlendirir.",
+      "note": null
+    },
+    {
+      "id": "başlık_s3",
+      "text": "Makalenin [başlığını] daha açıklayıcı yap.",
+      "note": null
+    },
+    {
+      "id": "başlık_s4",
+      "text": "Gazetenin manşet [başlığı] haber kadar önemli.",
+      "note": null
+    },
+    {
+      "id": "başlık_s5",
+      "text": "[Başlık] altında detaylı açıklamalar var.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "başlık_r1",
+      "prompt": "Bir yazının en üstündeki kısa tanıtıcı cümlecik nedir?",
+      "accepted_forms": [
+        "başlık",
+        "başlığı",
+        "başlıklar"
+      ],
+      "note": null
+    },
+    {
+      "id": "başlık_r2",
+      "prompt": "Kitabın ___ çok ilginç, okumak istiyorum.",
+      "accepted_forms": [
+        "başlığı",
+        "başlık"
+      ],
+      "note": null
+    }
+  ]
+}

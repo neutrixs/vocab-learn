@@ -1,0 +1,56 @@
+{
+  "word": "yönetmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to manage, to administer, to direct, to govern",
+  "sentences": [
+    {
+      "id": "yönetmek_s1",
+      "text": "Müdür şirketi [yönetiyor].",
+      "note": null
+    },
+    {
+      "id": "yönetmek_s2",
+      "text": "Proje iyi [yönetildi] mi?",
+      "note": null
+    },
+    {
+      "id": "yönetmek_s3",
+      "text": "[Yönetmek] zor bir iş.",
+      "note": null
+    },
+    {
+      "id": "yönetmek_s4",
+      "text": "[Yöneten] kişiler büyük sorumluluk taşır.",
+      "note": null
+    },
+    {
+      "id": "yönetmek_s5",
+      "text": "Başkan ülkeyi [yönetmiş].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yönetmek_r1",
+      "prompt": "Bir kuruluş veya işi kontrol altında tutmak, idaresi altında çalıştırmak ne demektir?",
+      "accepted_forms": [
+        "yönetmek",
+        "yönet",
+        "yönetme"
+      ],
+      "note": null
+    },
+    {
+      "id": "yönetmek_r2",
+      "prompt": "Bir okul müdürü okulunu ___.",
+      "accepted_forms": [
+        "yönetiyor",
+        "yönetmiştir",
+        "yönetecek"
+      ],
+      "note": null
+    }
+  ]
+}

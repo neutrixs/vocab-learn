@@ -1,0 +1,55 @@
+{
+  "word": "firma",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "firm, company",
+  "sentences": [
+    {
+      "id": "firma_s1",
+      "text": "Bu [firma] teknoloji sektöründe öncü.",
+      "note": null
+    },
+    {
+      "id": "firma_s2",
+      "text": "[Firmanın] başarısı iyi yönetimine dayanır.",
+      "note": null
+    },
+    {
+      "id": "firma_s3",
+      "text": "Yeni [firmaların] kurulması ekonomiye katkı sağlar.",
+      "note": null
+    },
+    {
+      "id": "firma_s4",
+      "text": "[Firmada] yüz kişi çalışıyor.",
+      "note": null
+    },
+    {
+      "id": "firma_s5",
+      "text": "[Firmayla] sözleşme imzaladık.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "firma_r1",
+      "prompt": "Ticaret veya endüstri alanında faaliyet gösteren kuruluşa ne denir?",
+      "accepted_forms": [
+        "firma",
+        "firması",
+        "firmalar"
+      ],
+      "note": null
+    },
+    {
+      "id": "firma_r2",
+      "prompt": "Büyük [firma] için çalışmaktan çok hoşlanıyor.",
+      "accepted_forms": [
+        "firma",
+        "firmasında"
+      ],
+      "note": null
+    }
+  ]
+}

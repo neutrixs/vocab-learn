@@ -1,0 +1,43 @@
+{
+  "word": "risk",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "risk",
+  "sentences": [
+    {
+      "id": "risk_s1",
+      "text": "Bu yatırım [risk] taşıyor.",
+      "note": null
+    },
+    {
+      "id": "risk_s2",
+      "text": "[Risk] almaksızın başarı olamaz.",
+      "note": null
+    },
+    {
+      "id": "risk_s3",
+      "text": "[Risk] faktörlerini hesaplamak gerekir.",
+      "note": null
+    },
+    {
+      "id": "risk_s4",
+      "text": "Sağlık [risk]leri önemli.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "risk_r1",
+      "prompt": "Kötü bir şey olabilme ihtimali anlamındaki kelime nedir?",
+      "accepted_forms": ["risk"],
+      "note": null
+    },
+    {
+      "id": "risk_r2",
+      "prompt": "Risk anlamındaki Türkçe sözcük hangisidir?",
+      "accepted_forms": ["risk"],
+      "note": null
+    }
+  ]
+}

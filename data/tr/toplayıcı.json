@@ -1,0 +1,56 @@
+{
+  "word": "toplayıcı",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "collector",
+  "sentences": [
+    {
+      "id": "toplayıcı_s1",
+      "text": "Bu müze, saf [toplayıcı] olarak başladı, şimdi dünya kalitesinde.",
+      "note": null
+    },
+    {
+      "id": "toplayıcı_s2",
+      "text": "[Toplayıcı] olmak çok masrafı bir hobi olabilir.",
+      "note": null
+    },
+    {
+      "id": "toplayıcı_s3",
+      "text": "Anık posta [toplayıcıları] ender pulları arıyor.",
+      "note": null
+    },
+    {
+      "id": "toplayıcı_s4",
+      "text": "Eski kitap [toplayıcıları] bazen çok değerli eserler bulur.",
+      "note": null
+    },
+    {
+      "id": "toplayıcı_s5",
+      "text": "Her bir [toplayıcı] kendi alanında uzman olmaya çalışır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "toplayıcı_r1",
+      "prompt": "Benzer şeyleri sistematik olarak toparlayan kişiye ne denir?",
+      "accepted_forms": [
+        "toplayıcı",
+        "toplayıcısı",
+        "toplayıcılar"
+      ],
+      "note": null
+    },
+    {
+      "id": "toplayıcı_r2",
+      "prompt": "Sanat eserleri veya antika parçaları biriktirenin mesleğine ne ad verilir?",
+      "accepted_forms": [
+        "toplayıcı",
+        "toplayıcılık",
+        "toplayıcı olmak"
+      ],
+      "note": null
+    }
+  ]
+}

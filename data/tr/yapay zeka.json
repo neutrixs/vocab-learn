@@ -1,0 +1,56 @@
+{
+  "word": "yapay zeka",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun phrase",
+  "english_gloss": "artificial intelligence, AI",
+  "sentences": [
+    {
+      "id": "yapay zeka_s1",
+      "text": "[Yapay zeka] teknolojisi son yıllarda çok gelişti.",
+      "note": null
+    },
+    {
+      "id": "yapay zeka_s2",
+      "text": "[Yapay zekanın] eğitimde kullanılması tartışmalı bir konu.",
+      "note": null
+    },
+    {
+      "id": "yapay zeka_s3",
+      "text": "Bu [yapay zeka] modeli milyonlarca metinden öğrenmiş.",
+      "note": null
+    },
+    {
+      "id": "yapay zeka_s4",
+      "text": "[Yapay zeka] uygulamaları günlük yaşamımızda çok yaygın.",
+      "note": null
+    },
+    {
+      "id": "yapay zeka_s5",
+      "text": "[Yapay zekanın] doğru ve yanlış kararları vardır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yapay zeka_r1",
+      "prompt": "İnsan zekasını taklit edebilen bilgisayar sistemine ne denir?",
+      "accepted_forms": [
+        "yapay zeka",
+        "yapay zekanın",
+        "AI"
+      ],
+      "note": null
+    },
+    {
+      "id": "yapay zeka_r2",
+      "prompt": "ChatGPT gibi uygulamalar hangi teknolojisi sayesinde çalışıyor?",
+      "accepted_forms": [
+        "yapay zeka",
+        "yapay zekanın",
+        "teknoloji"
+      ],
+      "note": null
+    }
+  ]
+}

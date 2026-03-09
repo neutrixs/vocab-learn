@@ -1,0 +1,56 @@
+{
+  "word": "zafer",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "victory, triumph, win",
+  "sentences": [
+    {
+      "id": "zafer_s1",
+      "text": "Takım [zaferi] için kutlama yapmaya hazırlanıyor.",
+      "note": null
+    },
+    {
+      "id": "zafer_s2",
+      "text": "[Zafer] adaletin yanında olmak anlamına gelir.",
+      "note": null
+    },
+    {
+      "id": "zafer_s3",
+      "text": "Bu savaşın [zaferi] bölgeyi değiştirdi.",
+      "note": null
+    },
+    {
+      "id": "zafer_s4",
+      "text": "[Zafer] kelimesinin tek anlamı yoktur, bağlama bağlıdır.",
+      "note": null
+    },
+    {
+      "id": "zafer_s5",
+      "text": "Spor tarihinde pek çok legendler [zaferi] kazandılar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "zafer_r1",
+      "prompt": "Savaş, yarışma veya mücadeledeki başarıya ne denir?",
+      "accepted_forms": [
+        "zafer",
+        "zaferi",
+        "zaferler"
+      ],
+      "note": null
+    },
+    {
+      "id": "zafer_r2",
+      "prompt": "Rakibini yenip kazandığın durumda bunu hangi kelimeyle ifade edersin?",
+      "accepted_forms": [
+        "zafer",
+        "zaferi",
+        "kazanmak"
+      ],
+      "note": null
+    }
+  ]
+}

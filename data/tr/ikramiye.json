@@ -1,0 +1,43 @@
+{
+  "word": "ikramiye",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "bonus, gratuity, reward",
+  "sentences": [
+    {
+      "id": "ikramiye_s1",
+      "text": "İyi performanstan dolayı [ikramiye] aldı.",
+      "note": null
+    },
+    {
+      "id": "ikramiye_s2",
+      "text": "Yılsonu [ikramiye]si haziranda verilir.",
+      "note": null
+    },
+    {
+      "id": "ikramiye_s3",
+      "text": "Yarışmada 1. olmak için [ikramiye] var.",
+      "note": null
+    },
+    {
+      "id": "ikramiye_s4",
+      "text": "[İkramiye] olarak 5000 lira verilecek.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ikramiye_r1",
+      "prompt": "İşçiye maaşının dışında verilen para anlamındaki kelime nedir?",
+      "accepted_forms": ["ikramiye"],
+      "note": null
+    },
+    {
+      "id": "ikramiye_r2",
+      "prompt": "Bonus anlamındaki Türkçe sözcük hangisidir?",
+      "accepted_forms": ["ikramiye"],
+      "note": null
+    }
+  ]
+}

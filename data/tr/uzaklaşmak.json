@@ -1,0 +1,56 @@
+{
+  "word": "uzaklaşmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to move away, to distance oneself, to withdraw",
+  "sentences": [
+    {
+      "id": "uzaklaşmak_s1",
+      "text": "Oradan [uzaklaştı].",
+      "note": null
+    },
+    {
+      "id": "uzaklaşmak_s2",
+      "text": "Sorundan [uzaklaşmak] istiyordu.",
+      "note": null
+    },
+    {
+      "id": "uzaklaşmak_s3",
+      "text": "Arkadaşından [uzaklaştı].",
+      "note": null
+    },
+    {
+      "id": "uzaklaşmak_s4",
+      "text": "[Uzaklaşan] insanları geri getirmek zor.",
+      "note": null
+    },
+    {
+      "id": "uzaklaşmak_s5",
+      "text": "Ailesinden hiç [uzaklaşmamış].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "uzaklaşmak_r1",
+      "prompt": "Bir şeyden veya birinden ayrılmak, onu bırakmak ne demektir?",
+      "accepted_forms": [
+        "uzaklaşmak",
+        "uzaklaş",
+        "uzaklaşma"
+      ],
+      "note": null
+    },
+    {
+      "id": "uzaklaşmak_r2",
+      "prompt": "Hava soğuk olunca insanlar dilekçe sisteminden ___.",
+      "accepted_forms": [
+        "uzaklaşıyor",
+        "uzaklaştı",
+        "uzaklaşmışlar"
+      ],
+      "note": null
+    }
+  ]
+}

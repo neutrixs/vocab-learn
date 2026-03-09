@@ -1,0 +1,43 @@
+{
+  "word": "güç",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "power, strength, force, might",
+  "sentences": [
+    {
+      "id": "guc_s1",
+      "text": "Çok [güç]lü bir insan.",
+      "note": "strong person"
+    },
+    {
+      "id": "guc_s2",
+      "text": "Bu ülkenin [güç]ü ekonomisinden geliyor.",
+      "note": null
+    },
+    {
+      "id": "guc_s3",
+      "text": "[Güç]le kapıyı açamadı.",
+      "note": "with force"
+    },
+    {
+      "id": "guc_s4",
+      "text": "Elektrik [güç]ü yüksek.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "guc_r1",
+      "prompt": "Kuvvet, kudret anlamındaki kelime nedir?",
+      "accepted_forms": ["güç"],
+      "note": null
+    },
+    {
+      "id": "guc_r2",
+      "prompt": "Power anlamındaki Türkçe sözcük hangisidir?",
+      "accepted_forms": ["güç"],
+      "note": null
+    }
+  ]
+}

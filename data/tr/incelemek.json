@@ -1,0 +1,56 @@
+{
+  "word": "incelemek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to examine, to inspect, to study",
+  "sentences": [
+    {
+      "id": "incelemek_s1",
+      "text": "Doktor hastayı [inceledi].",
+      "note": null
+    },
+    {
+      "id": "incelemek_s2",
+      "text": "Bu meselyi dikkatle [incelemek] gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "incelemek_s3",
+      "text": "Detaylı olarak [inceledik] ve sorun bulduk.",
+      "note": null
+    },
+    {
+      "id": "incelemek_s4",
+      "text": "Kitabı [incelemek] için biraz zaman verdim.",
+      "note": null
+    },
+    {
+      "id": "incelemek_s5",
+      "text": "Avukat davayı [inceleyecek] mi?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "incelemek_r1",
+      "prompt": "Bir şeyi ayrıntılı olarak görüp anlamaya çalışmak ne demek?",
+      "accepted_forms": [
+        "incelemek",
+        "incele",
+        "inceleme"
+      ],
+      "note": null
+    },
+    {
+      "id": "incelemek_r2",
+      "prompt": "Tarihçi tarihi belgeleri ___ mi?",
+      "accepted_forms": [
+        "inceliyor",
+        "inceleyecek",
+        "inceledi"
+      ],
+      "note": null
+    }
+  ]
+}
