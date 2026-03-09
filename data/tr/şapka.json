@@ -7,22 +7,22 @@
   "sentences": [
     {
       "id": "sapka_s1",
-      "text": "[Şapkayı]] çıkar.",
+      "text": "[Şapkayı] çıkar.",
       "note": null
     },
     {
       "id": "sapka_s2",
-      "text": "[Şapkası]] çok güzel.",
+      "text": "[Şapkası] çok güzel.",
       "note": null
     },
     {
       "id": "sapka_s3",
-      "text": "[Şapka]] giymiyorum.",
+      "text": "[Şapka] giymiyorum.",
       "note": null
     },
     {
       "id": "sapka_s4",
-      "text": "[Şapkaları]] seviyor.",
+      "text": "[Şapkaları] seviyor.",
       "note": null
     }
   ],
