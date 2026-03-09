@@ -21,7 +21,6 @@ make build            # builds frontend + Go binary → bin/server
 ## Environment Variables
 
 - `PORT` — server port (default 8080)
-- `JWT_SECRET` — HMAC signing key (random per-run if unset)
 - `DATA_DIR` — word data directory (default `./data`)
 - `DB_PATH` — SQLite database path (default `./vocab-learn.db`)
 - `DIST_DIR` — built frontend path (default `./frontend/dist`)
@@ -62,6 +61,13 @@ make build            # builds frontend + Go binary → bin/server
 - **Scheduler priority**: overdue → due today → new (capped at 10 new words per session)
 - **Data loading**: word data fetched via `/api/words/` and cached in-memory
 - **Progress sync**: localStorage for immediate persistence, async push to server every 5s + on page unload
+
+## Error Handling
+
+- **Never silently swallow errors** — if an operation fails and you can't recover, surface it (log, return, or throw). Empty `catch {}` blocks are only acceptable for truly fire-and-forget network calls (e.g. background sync) where retrying is built in.
+- **Go**: always check and handle `error` return values. Use `log.Printf` at minimum for unexpected errors; `log.Fatal` only at startup.
+- **TypeScript**: don't hide fetch/parse failures from the user unless there's a clear offline/retry strategy in place. Log unexpected errors to the console at minimum.
+- If you can't fully fix an error path, call it out explicitly rather than leaving a silent `catch {}`.
 
 ## Conventions
 

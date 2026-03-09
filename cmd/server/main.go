@@ -2,6 +2,7 @@ package main
 
 import (
 	"crypto/rand"
+	"encoding/hex"
 	"io"
 	"log"
 	"net/http"
@@ -63,21 +64,21 @@ func envOr(key, fallback string) string {
 }
 
 func loadSecret() []byte {
-	if s := os.Getenv("JWT_SECRET"); s != "" {
-		return []byte(s)
-	}
-
 	// Persist a generated secret to a file so it survives restarts.
 	secretFile := ".jwt_secret"
-	if data, err := os.ReadFile(secretFile); err == nil && len(data) >= 32 {
-		return data
+	if data, err := os.ReadFile(secretFile); err == nil {
+		s := strings.TrimSpace(string(data))
+		if b, err := hex.DecodeString(s); err == nil && len(b) >= 32 {
+			return b
+		}
 	}
 
 	b := make([]byte, 32)
 	if _, err := rand.Read(b); err != nil {
 		log.Fatal(err)
 	}
-	if err := os.WriteFile(secretFile, b, 0600); err != nil {
+	s := hex.EncodeToString(b)
+	if err := os.WriteFile(secretFile, []byte(s+"\n"), 0600); err != nil {
 		log.Printf("warning: could not persist JWT secret to %s: %v", secretFile, err)
 	}
 	return b
