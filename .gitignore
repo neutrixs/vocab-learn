@@ -28,3 +28,4 @@ bin/
 *.njsproj
 *.sln
 *.sw?
+.claude/settings.local.json
