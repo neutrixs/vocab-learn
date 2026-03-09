@@ -20,7 +20,7 @@ cd frontend && npm install
 make dev-server       # Go API server on :8080
 make dev-frontend     # Vite dev server on :5173
 
-# Production
+# Production (run from repo root)
 make build            # builds frontend + Go binary
 ./bin/server          # serves everything on :8080
 ```
@@ -30,7 +30,6 @@ make build            # builds frontend + Go binary
 | Variable | Default | Description |
 |----------|---------|-------------|
 | `PORT` | `8080` | Server port |
-| `JWT_SECRET` | random | JWT signing key |
 | `DATA_DIR` | `./data` | Word data directory |
 | `DB_PATH` | `./vocab-learn.db` | SQLite database path |
 
