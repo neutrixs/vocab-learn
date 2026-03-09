@@ -1,11 +1,13 @@
 import { type ReactNode } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { useLanguage } from '../../context/LanguageContext';
+import { useAuth } from '../../context/AuthContext';
 import { getLocale } from '../../lib/locale';
 
 export function AppShell({ children }: { children: ReactNode }) {
   const { pathname } = useLocation();
   const { lang } = useLanguage();
+  const { user, logout } = useAuth();
   const t = getLocale(lang);
 
   return (
@@ -24,6 +26,11 @@ export function AppShell({ children }: { children: ReactNode }) {
           >
             {t.nav_settings}
           </Link>
+          {user && (
+            <button className="nav-link" onClick={logout} style={{ border: 'none', background: 'none', cursor: 'pointer', font: 'inherit' }}>
+              {user.username}
+            </button>
+          )}
         </div>
       </nav>
       <main className="app-main">{children}</main>

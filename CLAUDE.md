@@ -3,37 +3,76 @@
 ## Commands
 
 ```bash
-npm run dev          # Vite dev server
-npm run build        # tsc -b && vite build
-npm run lint         # eslint
-npx tsc -b           # type-check only
-npm run start        # production preview (PORT env var, default 4173)
+# Development (run in separate terminals)
+make dev-server       # Go server on :8080
+make dev-frontend     # Vite on :5173 (proxies /api → :8080)
+
+# Frontend only
+cd frontend && npm run dev       # Vite dev server
+cd frontend && npm run build     # tsc -b && vite build
+cd frontend && npm run lint      # eslint
+cd frontend && npx tsc -b        # type-check only
+
+# Production build
+make build            # builds frontend + Go binary → bin/server
+./bin/server          # serves everything on :8080
 ```
 
-## TypeScript
+## Environment Variables
 
-- `verbatimModuleSyntax` is on — always use `import type { Foo }` for type-only imports
+- `PORT` — server port (default 8080)
+- `JWT_SECRET` — HMAC signing key (random per-run if unset)
+- `DATA_DIR` — word data directory (default `./data`)
+- `DB_PATH` — SQLite database path (default `./vocab-learn.db`)
+- `DIST_DIR` — built frontend path (default `./frontend/dist`)
+
+## Project Structure
+
+```
+├── cmd/server/          Go entry point
+├── internal/
+│   ├── api/             HTTP handlers (auth, words, progress)
+│   ├── db/              SQLite init + schema
+│   └── middleware/       JWT auth middleware
+├── data/tr/             Word JSON files (served by Go)
+├── frontend/            Vite + React app
+│   └── src/
+└── Makefile
+```
+
+## Go Backend
+
+- **Standard library** `net/http` router (Go 1.22+ path values)
+- **SQLite** via `modernc.org/sqlite` (pure Go, no CGO)
+- **JWT** via `golang-jwt/jwt/v5`, bcrypt for passwords
+- API: `/api/auth/register`, `/api/auth/login`, `/api/words/{lang}`, `/api/words/{lang}/{word}`, `/api/progress/{lang}` (GET/PUT, auth required)
+- SPA fallback: non-API routes serve `index.html` from dist/
+
+## TypeScript (frontend/)
+
+- `verbatimModuleSyntax` — always use `import type { Foo }` for type-only imports
 - Strict mode with `noUnusedLocals` and `noUnusedParameters`
 - Path alias: `@/*` → `./src/*`
 - Use `ReactElement` instead of `JSX.Element`
 
 ## Architecture
 
-- **Two contexts**: `LanguageContext` (active lang, word index, data cache) and `ProgressContext` (SM-2 state, auto-saves to localStorage)
+- **Three contexts**: `AuthContext` (JWT auth), `LanguageContext` (active lang), `ProgressContext` (SM-2 state — localStorage + server sync)
 - **SM-2 card keys**: `{word}::recognition` or `{word}::recall`
 - **Scheduler priority**: overdue → due today → new (capped at 10 new words per session)
-- **Data loading**: word data fetched on demand and cached in context; `fetch()` handles diacritics in URLs automatically
-- **Routing**: React Router v6
+- **Data loading**: word data fetched via `/api/words/` and cached in-memory
+- **Progress sync**: localStorage for immediate persistence, async push to server every 5s + on page unload
 
 ## Conventions
 
 - **Turkish diacritics preserved in filenames** — `içmek.json`, `güzel.json`, etc. Do NOT normalize (durum ≠ dürüm)
-- **Locale system** (`src/lib/locale.ts`): all UI strings are pre-uppercased in locale objects. Never use CSS `text-transform: uppercase` — Turkish İ/I casing breaks with it
-- **Hand-rolled CSS** in `src/index.css` with design tokens as CSS custom properties. No UI library
+- **Locale system** (`frontend/src/lib/locale.ts`): all UI strings are pre-uppercased. Never use CSS `text-transform: uppercase` — Turkish İ/I casing breaks
+- **Hand-rolled CSS** in `frontend/src/index.css` with design tokens as CSS custom properties. No UI library
 - **Fonts**: @fontsource/inter (UI) + @fontsource/lora (display), imported in main.tsx
 
 ## Data
 
-- Word files: `public/data/{lang}/{word}.json` (diacritics preserved)
-- Word index: `public/data/{lang}/_index.json`
-- localStorage key: `vocab_progress_v1`
+- Word files: `data/{lang}/{word}.json` (diacritics preserved)
+- Word index: `data/{lang}/_index.json`
+- SQLite: `vocab-learn.db` (users + progress tables)
+- localStorage: `vocab_progress_v1` (offline cache), `vocab_auth` (JWT token)

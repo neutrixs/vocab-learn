@@ -12,6 +12,12 @@ dist
 dist-ssr
 *.local
 
+# Go
+bin/
+*.db
+*.db-wal
+*.db-shm
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

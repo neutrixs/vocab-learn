@@ -5,7 +5,7 @@ let indexCache: WordIndex | null = null;
 
 export async function loadIndex(lang: string): Promise<WordIndex> {
   if (indexCache && indexCache.lang === lang) return indexCache;
-  const res = await fetch(`/data/${lang}/_index.json`);
+  const res = await fetch(`/api/words/${lang}`);
   if (!res.ok) throw new Error(`Failed to load index for ${lang}`);
   indexCache = await res.json();
   return indexCache!;
@@ -14,7 +14,7 @@ export async function loadIndex(lang: string): Promise<WordIndex> {
 export async function loadWord(lang: string, word: string): Promise<WordEntry> {
   const cacheKey = `${lang}::${word}`;
   if (wordCache.has(cacheKey)) return wordCache.get(cacheKey)!;
-  const res = await fetch(`/data/${lang}/${word}.json`);
+  const res = await fetch(`/api/words/${lang}/${word}`);
   if (!res.ok) throw new Error(`Failed to load word: ${word}`);
   const entry: WordEntry = await res.json();
   wordCache.set(cacheKey, entry);
