@@ -1,0 +1,41 @@
+{
+  "word": "açmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to open",
+  "sentences": [
+    {
+      "id": "acmak_s1",
+      "text": "Lütfen [aç] pencereleri, hava almak istiyorum.",
+      "note": null
+    },
+    {
+      "id": "acmak_s2",
+      "text": "Oğlan ceketini [açtı].",
+      "note": null
+    },
+    {
+      "id": "acmak_s3",
+      "text": "Gözlerini [aç], uyku değiştiğini gördü.",
+      "note": null
+    },
+    {
+      "id": "acmak_s4",
+      "text": "Radyoyu [açar] mısın?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "acmak_r1",
+      "prompt": "Kapıyı kapalı durumundan açık duruma getirmek için ne yaparsın?",
+      "accepted_forms": [
+        "açmak",
+        "açarım",
+        "açıyorum"
+      ],
+      "note": null
+    }
+  ]
+}

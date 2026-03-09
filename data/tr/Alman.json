@@ -1,0 +1,39 @@
+{
+  "word": "Alman",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "German (person)",
+  "sentences": [
+    {
+      "id": "alman_s1",
+      "text": "Bu [Alman] çok akıllı.",
+      "note": null
+    },
+    {
+      "id": "alman_s2",
+      "text": "[Almanlara] sordum, yardım ettiler.",
+      "note": null
+    },
+    {
+      "id": "alman_s3",
+      "text": "[Alman] dili zor ama güzel.",
+      "note": null
+    },
+    {
+      "id": "alman_s4",
+      "text": "Çoğu [Alman], puntual ve disiplinli.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "alman_r1",
+      "prompt": "Almanya ülkesinden gelen kişiye ne denir?",
+      "accepted_forms": [
+        "Alman"
+      ],
+      "note": null
+    }
+  ]
+}

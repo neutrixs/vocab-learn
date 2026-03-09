@@ -1,0 +1,27 @@
+{
+  "word": "arıza",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "breakdown, malfunction, defect, fault",
+  "sentences": [
+    { "id": "ariza_s1", "text": "Makinede [arıza] bulundu.", "note": null },
+    { "id": "ariza_s2", "text": "Elektrik [arızası] nedeniyle güç kesintisi yaşandı.", "note": null },
+    { "id": "ariza_s3", "text": "Arabamın motorunda [arıza] var.", "note": null },
+    { "id": "ariza_s4", "text": "[Arızadan] dolayı hizmet kesintiye uğradı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ariza_r1",
+      "prompt": "Makinenin bozuk olduğunu söylemek için hangi kelimeyi kullanırsın?",
+      "accepted_forms": ["arıza", "arızası", "arızalı"],
+      "note": null
+    },
+    {
+      "id": "ariza_r2",
+      "prompt": "Elektrik sistemi bozulmuş. Ne hali var?",
+      "accepted_forms": ["arızası var", "arıza", "elektrik arızası"],
+      "note": null
+    }
+  ]
+}

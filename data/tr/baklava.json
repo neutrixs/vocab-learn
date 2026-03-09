@@ -1,0 +1,27 @@
+{
+  "word": "baklava",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "baklava (a traditional Middle Eastern pastry)",
+  "sentences": [
+    { "id": "baklava_s1", "text": "[Baklava] çok lezzetli.", "note": "Baklava is very delicious" },
+    { "id": "baklava_s2", "text": "[Baklava] tatlısı seviyorum.", "note": "I like baklava dessert" },
+    { "id": "baklava_s3", "text": "[Baklavayı] kız isteme gün yedirdi.", "note": "He served baklava on the engagement day" },
+    { "id": "baklava_s4", "text": "[Baklavalar] mutfağında pişti.", "note": "Baklava was baked in the kitchen" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "baklava_r1",
+      "prompt": "Türk mutfağının en ünlü tatlısı nedir?",
+      "accepted_forms": ["baklava", "baklavası", "şerbetli baklava"],
+      "note": null
+    },
+    {
+      "id": "baklava_r2",
+      "prompt": "Ceviz ve fındak ile yapılan, çok tatlı bir dessert nedir?",
+      "accepted_forms": ["baklava", "baklavaları", "baklava tatlısı"],
+      "note": null
+    }
+  ]
+}

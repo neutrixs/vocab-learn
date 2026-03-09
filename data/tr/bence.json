@@ -1,0 +1,27 @@
+{
+  "word": "bence",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adverb",
+  "english_gloss": "in my opinion, I think, as I see it",
+  "sentences": [
+    { "id": "bence_s1", "text": "[Bence] çok güzel.", "note": "In my opinion, it's very beautiful" },
+    { "id": "bence_s2", "text": "[Bence] haklı.", "note": "I think he's right" },
+    { "id": "bence_s3", "text": "[Bence] gitmemeli.", "note": "I think you shouldn't go" },
+    { "id": "bence_s4", "text": "[Bence] bu iyi bir fikir değil.", "note": "In my opinion, this is not a good idea" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bence_r1",
+      "prompt": "Senin düşüncene göre bunu söylemek için hangi kelime kullanırsın?",
+      "accepted_forms": ["bence", "bana göre", "kanımca"],
+      "note": null
+    },
+    {
+      "id": "bence_r2",
+      "prompt": "Kişisel görüşünü ifade etmek istiyorsun. Cümleyi nasıl başlatırsın?",
+      "accepted_forms": ["bence", "bana göre", "düşünceme göre"],
+      "note": null
+    }
+  ]
+}

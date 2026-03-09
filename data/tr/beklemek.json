@@ -1,0 +1,27 @@
+{
+  "word": "beklemek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to wait, to expect, to await",
+  "sentences": [
+    { "id": "beklemek_s1", "text": "[Bekliyorum] seni.", "note": "I'm waiting for you" },
+    { "id": "beklemek_s2", "text": "[Bekle] bir dakika.", "note": "Wait a minute" },
+    { "id": "beklemek_s3", "text": "[Beklediği] kız geldi.", "note": "The girl he was waiting for came" },
+    { "id": "beklemek_s4", "text": "[Beklemekten] yoruldum.", "note": "I'm tired from waiting" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "beklemek_r1",
+      "prompt": "Birisi gelene kadar durmak ve göz atmak ne demek?",
+      "accepted_forms": ["beklemek", "bekliyorum", "beklemek"],
+      "note": null
+    },
+    {
+      "id": "beklemek_r2",
+      "prompt": "Arkadaşın senden biraz zaman istedi. Ne yapacaksın?",
+      "accepted_forms": ["bekleyeceğim", "beklemek", "bekliyorum"],
+      "note": null
+    }
+  ]
+}

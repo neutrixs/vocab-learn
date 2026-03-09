@@ -1,0 +1,39 @@
+{
+  "word": "ağrı",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "pain, ache",
+  "sentences": [
+    {
+      "id": "agri_s1",
+      "text": "Başımda şiddetli bir [ağrı] var.",
+      "note": null
+    },
+    {
+      "id": "agri_s2",
+      "text": "[Ağrı]dan uyuyamıyorum.",
+      "note": null
+    },
+    {
+      "id": "agri_s3",
+      "text": "Bacağımın [ağrısı] geçmiyor.",
+      "note": null
+    },
+    {
+      "id": "agri_s4",
+      "text": "Doktor bana [ağrı] kesici ilçe verdi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "agri_r1",
+      "prompt": "Vücudun bir bölgesinden hissedilen rahatsız duruma ne denir?",
+      "accepted_forms": [
+        "ağrı"
+      ],
+      "note": null
+    }
+  ]
+}

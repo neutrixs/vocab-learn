@@ -1,0 +1,39 @@
+{
+  "word": "akşam",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "evening",
+  "sentences": [
+    {
+      "id": "aksam_s1",
+      "text": "Her [akşam] saat yedide yemek yiyoruz.",
+      "note": null
+    },
+    {
+      "id": "aksam_s2",
+      "text": "[Akşam]ları yürüyüşe çıkıyorum.",
+      "note": null
+    },
+    {
+      "id": "aksam_s3",
+      "text": "Bu [akşam] sinemaya gidelim.",
+      "note": null
+    },
+    {
+      "id": "aksam_s4",
+      "text": "[Akşam] güneş batıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "aksam_r1",
+      "prompt": "Güneş batıp karanlık gelen günün bu zamanına ne denir?",
+      "accepted_forms": [
+        "akşam"
+      ],
+      "note": null
+    }
+  ]
+}

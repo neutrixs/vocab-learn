@@ -1,0 +1,27 @@
+{
+  "word": "ayran",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "ayran (a traditional Turkish beverage made from yogurt)",
+  "sentences": [
+    { "id": "ayran_s1", "text": "[Ayran] soğuk çok güzel.", "note": "Cold ayran is very nice" },
+    { "id": "ayran_s2", "text": "Yaz günlerinde [ayran] içiyorum.", "note": "I drink ayran on summer days" },
+    { "id": "ayran_s3", "text": "[Ayran] sağlık için iyi.", "note": "Ayran is good for health" },
+    { "id": "ayran_s4", "text": "[Ayran] içmeyi seviyorum.", "note": "I like drinking ayran" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ayran_r1",
+      "prompt": "Yoğurttan yapılan ve serinletici içecek nedir?",
+      "accepted_forms": ["ayran", "soğuk ayran", "yoğurtlu içecek"],
+      "note": null
+    },
+    {
+      "id": "ayran_r2",
+      "prompt": "Türk mutfağında çok bilinen beyaz içecek nedir?",
+      "accepted_forms": ["ayran", "ayranı", "ayran içeceği"],
+      "note": null
+    }
+  ]
+}

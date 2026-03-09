@@ -1,0 +1,27 @@
+{
+  "word": "atlamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to jump, to leap, to skip, to skip over",
+  "sentences": [
+    { "id": "atlamak_s1", "text": "Çocuk [atlamayı] seviyor.", "note": null },
+    { "id": "atlamak_s2", "text": "Hediye paketine [atlayabilir] miyim?", "note": "Can I jump on the gift box?" },
+    { "id": "atlamak_s3", "text": "[Atlamaktan] çok yoruldum.", "note": "I'm tired from jumping" },
+    { "id": "atlamak_s4", "text": "Bir bölümü [atlayarak] okuyorum.", "note": "I'm skipping a section while reading" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "atlamak_r1",
+      "prompt": "Yerde iki ayağın birden kalkıyor. Ne yapıyorsun?",
+      "accepted_forms": ["atlamak", "atladım", "atlıyorum"],
+      "note": null
+    },
+    {
+      "id": "atlamak_r2",
+      "prompt": "Okurken sayfaları hızlı hızlı geçiyorsun. Ne yapıyorsun?",
+      "accepted_forms": ["atlıyorum", "atlamak", "atlayarak"],
+      "note": null
+    }
+  ]
+}

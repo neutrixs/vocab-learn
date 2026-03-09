@@ -1,0 +1,39 @@
+{
+  "word": "affedersiniz",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "interjection",
+  "english_gloss": "excuse me, pardon me",
+  "sentences": [
+    {
+      "id": "affedersiniz_s1",
+      "text": "[Affedersiniz], bu otobüse binebilir miyim?",
+      "note": null
+    },
+    {
+      "id": "affedersiniz_s2",
+      "text": "[Affedersiniz], saat kaç?",
+      "note": null
+    },
+    {
+      "id": "affedersiniz_s3",
+      "text": "[Affedersiniz], yanı mısınız?",
+      "note": null
+    },
+    {
+      "id": "affedersiniz_s4",
+      "text": "[Affedersiniz], rahatsız ettim mi?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "affedersiniz_r1",
+      "prompt": "Saygıyla birini dikkatini çekmek istersen ne dersin?",
+      "accepted_forms": [
+        "affedersiniz"
+      ],
+      "note": null
+    }
+  ]
+}

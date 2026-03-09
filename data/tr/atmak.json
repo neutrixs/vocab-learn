@@ -1,0 +1,27 @@
+{
+  "word": "atmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to throw, to cast, to discard",
+  "sentences": [
+    { "id": "atmak_s1", "text": "Topu [attı].", "note": "He threw the ball" },
+    { "id": "atmak_s2", "text": "Kağıtları [atmamış] mi siz?", "note": "Haven't you thrown away the papers?" },
+    { "id": "atmak_s3", "text": "[Atmayın] lütfen!", "note": "Please don't throw!" },
+    { "id": "atmak_s4", "text": "[Atılmış] eşyalar geri dönüştürülüyor.", "note": "Discarded items are being recycled" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "atmak_r1",
+      "prompt": "Bir şeyi elinden uzağa gönderiyorsun. Ne yapıyorsun?",
+      "accepted_forms": ["atıyorum", "attım", "atmak"],
+      "note": null
+    },
+    {
+      "id": "atmak_r2",
+      "prompt": "Çöpte bir şey koyuyorsun. Ne yapıyorsun?",
+      "accepted_forms": ["atıyorum", "atmak", "attım"],
+      "note": null
+    }
+  ]
+}

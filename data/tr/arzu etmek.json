@@ -1,0 +1,27 @@
+{
+  "word": "arzu etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to wish, to desire, to long for",
+  "sentences": [
+    { "id": "arzu_s1", "text": "Bunu [arzu ediyorum].", "note": "I desire this" },
+    { "id": "arzu_s2", "text": "Başarı [arzu etmekle] yetersiz gelir.", "note": "Wishing for success is not enough" },
+    { "id": "arzu_s3", "text": "Benim [arzu ettiğim] hiçbir şey yoktur.", "note": "There's nothing I wish for" },
+    { "id": "arzu_s4", "text": "Herkes mutluluk [arzu eder].", "note": "Everyone wishes for happiness" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "arzu_r1",
+      "prompt": "Çok istediğin bir şey var. Bunu nasıl tanımlarsın?",
+      "accepted_forms": ["arzu ediyorum", "arzuladığım", "arzu etmek"],
+      "note": null
+    },
+    {
+      "id": "arzu_r2",
+      "prompt": "Hayalın olan bir şey vardır. Bunu ne dersin?",
+      "accepted_forms": ["arzu ediyorum", "arzu etmek", "arzuladığım"],
+      "note": null
+    }
+  ]
+}

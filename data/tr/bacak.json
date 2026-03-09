@@ -1,0 +1,27 @@
+{
+  "word": "bacak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "leg",
+  "sentences": [
+    { "id": "bacak_s1", "text": "[Bacağım] ağrıyor.", "note": "My leg hurts" },
+    { "id": "bacak_s2", "text": "[Bacaklarım] uzun.", "note": "My legs are long" },
+    { "id": "bacak_s3", "text": "Oturup [bacaklarını] uzat.", "note": "Sit and stretch your legs" },
+    { "id": "bacak_s4", "text": "[Bacak] kırıldı.", "note": "The leg is broken" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bacak_r1",
+      "prompt": "Ayaklarının üst kısmı nedir?",
+      "accepted_forms": ["bacak", "bacağım", "bacaklar"],
+      "note": null
+    },
+    {
+      "id": "bacak_r2",
+      "prompt": "Yürüme ve koşma sırasında kullanılan vücut parçası nedir?",
+      "accepted_forms": ["bacak", "bacaklar", "iki bacak"],
+      "note": null
+    }
+  ]
+}

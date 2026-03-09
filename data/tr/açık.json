@@ -1,0 +1,47 @@
+{
+  "word": "açık",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "open, clear, obvious",
+  "sentences": [
+    {
+      "id": "acik_s1",
+      "text": "Kapı [açık], gir lütfen.",
+      "note": null
+    },
+    {
+      "id": "acik_s2",
+      "text": "Hava bugün çok [açık], güneş var.",
+      "note": null
+    },
+    {
+      "id": "acik_s3",
+      "text": "Onun niyeti [açık], hiç gizli değil.",
+      "note": null
+    },
+    {
+      "id": "acik_s4",
+      "text": "[Açık] havada oturuyoruz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "acik_r1",
+      "prompt": "Kapı kapalı değilse ne durumdadır?",
+      "accepted_forms": [
+        "açık"
+      ],
+      "note": null
+    },
+    {
+      "id": "acik_r2",
+      "prompt": "Bir şey belirli, hiç şüpheli değilse onu nasıl tanımlarsın?",
+      "accepted_forms": [
+        "açık"
+      ],
+      "note": null
+    }
+  ]
+}

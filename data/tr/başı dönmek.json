@@ -1,0 +1,27 @@
+{
+  "word": "başı dönmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to be dizzy, to feel giddy, to feel faint, to lose one's mind",
+  "sentences": [
+    { "id": "basi_donmek_s1", "text": "[Başım] döndü.", "note": "I'm feeling dizzy" },
+    { "id": "basi_donmek_s2", "text": "[Başı dönüyor], hastanede yat.", "note": "He's dizzy, he should rest at hospital" },
+    { "id": "basi_donmek_s3", "text": "[Başının] döndüğüne dikkat et.", "note": "Watch out if you feel dizzy" },
+    { "id": "basi_donmek_s4", "text": "[Başı döndüğü] için yardım istedi.", "note": "He asked for help because he felt dizzy" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "basi_donmek_r1",
+      "prompt": "Hızlı dönerken veya korkudan vücudun dengesini kaybetmek ne demek?",
+      "accepted_forms": ["başı dönüyor", "başı dönmek", "çok hızlı döndüğü için"],
+      "note": null
+    },
+    {
+      "id": "basi_donmek_r2",
+      "prompt": "Çok ender kalp atışından hissedilen sersemlik durumu ne demek?",
+      "accepted_forms": ["başı döndü", "başı dönmek", "sersem"],
+      "note": null
+    }
+  ]
+}

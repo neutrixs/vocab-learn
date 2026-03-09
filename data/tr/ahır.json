@@ -1,0 +1,39 @@
+{
+  "word": "ahır",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "stable, stall",
+  "sentences": [
+    {
+      "id": "ahir_s1",
+      "text": "Çiftçi atları [ahıra] koydu.",
+      "note": null
+    },
+    {
+      "id": "ahir_s2",
+      "text": "[Ahır]da koku var.",
+      "note": null
+    },
+    {
+      "id": "ahir_s3",
+      "text": "İnekler [ahırda] saklanıyorlar.",
+      "note": null
+    },
+    {
+      "id": "ahir_s4",
+      "text": "[Ahır]ı temizlemesi gerekir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ahir_r1",
+      "prompt": "At, ineğin gibi hayvanları içinde tuttuğumuz yapıya ne denir?",
+      "accepted_forms": [
+        "ahır"
+      ],
+      "note": null
+    }
+  ]
+}

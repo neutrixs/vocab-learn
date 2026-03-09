@@ -1,0 +1,39 @@
+{
+  "word": "anahtar",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "key",
+  "sentences": [
+    {
+      "id": "anahtar_s1",
+      "text": "Kapıyı açmak için [anahtarı] buldum.",
+      "note": null
+    },
+    {
+      "id": "anahtar_s2",
+      "text": "[Anahtar]ı kaybettim, eve giremedim.",
+      "note": null
+    },
+    {
+      "id": "anahtar_s3",
+      "text": "[Anahtarlar] cebimde.",
+      "note": null
+    },
+    {
+      "id": "anahtar_s4",
+      "text": "Evi açmak için [anahtar] gerek.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "anahtar_r1",
+      "prompt": "Kapıyı açmak için kullandığımız metal nesneye ne denir?",
+      "accepted_forms": [
+        "anahtar"
+      ],
+      "note": null
+    }
+  ]
+}

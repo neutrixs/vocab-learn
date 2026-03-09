@@ -1,0 +1,39 @@
+{
+  "word": "altın",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "gold",
+  "sentences": [
+    {
+      "id": "altin_s1",
+      "text": "Bu yüzük [altından] yapılmış.",
+      "note": null
+    },
+    {
+      "id": "altin_s2",
+      "text": "Pırlanta ve [altın], değerli taşlar.",
+      "note": null
+    },
+    {
+      "id": "altin_s3",
+      "text": "[Altın] fiyatı arttı.",
+      "note": null
+    },
+    {
+      "id": "altin_s4",
+      "text": "Kadının [altın] kolyesi çok güzel.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "altin_r1",
+      "prompt": "Değerli bir metal, genellikle sarı renkte olan maddedir?",
+      "accepted_forms": [
+        "altın"
+      ],
+      "note": null
+    }
+  ]
+}

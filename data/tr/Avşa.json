@@ -1,0 +1,27 @@
+{
+  "word": "Avşa",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "Avşa (an island in the Sea of Marmara, Turkey)",
+  "sentences": [
+    { "id": "avsa_s1", "text": "[Avşa] adası çok güzel.", "note": "Avşa island is very beautiful" },
+    { "id": "avsa_s2", "text": "[Avşa'ya] her yaz giderim.", "note": "I go to Avşa every summer" },
+    { "id": "avsa_s3", "text": "[Avşa'da] denize girebilirsin.", "note": "You can swim in Avşa" },
+    { "id": "avsa_s4", "text": "[Avşa] Marmara Denizi'nde.", "note": "Avşa is in the Sea of Marmara" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "avsa_r1",
+      "prompt": "Marmara Denizi'nde bir ada vardır. Adı ne?",
+      "accepted_forms": ["Avşa", "Avşa adası"],
+      "note": null
+    },
+    {
+      "id": "avsa_r2",
+      "prompt": "İstanbul yakınlarında, Marmara'da, güzel plajları olan bir yer.",
+      "accepted_forms": ["Avşa", "Avşa adası"],
+      "note": null
+    }
+  ]
+}

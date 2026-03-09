@@ -1,0 +1,39 @@
+{
+  "word": "adam",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "man, person",
+  "sentences": [
+    {
+      "id": "adam_s1",
+      "text": "Bu [adam] çok çalışkan.",
+      "note": null
+    },
+    {
+      "id": "adam_s2",
+      "text": "Sokakta bir [adam] bana selam verdi.",
+      "note": null
+    },
+    {
+      "id": "adam_s3",
+      "text": "O [adam] kimdir?",
+      "note": null
+    },
+    {
+      "id": "adam_s4",
+      "text": "Bu adamları biliyorum, [adamlar] iyi insanlar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "adam_r1",
+      "prompt": "Yetişkin bir erkek kişiye ne denir?",
+      "accepted_forms": [
+        "adam"
+      ],
+      "note": null
+    }
+  ]
+}

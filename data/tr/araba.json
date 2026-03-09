@@ -1,0 +1,39 @@
+{
+  "word": "araba",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "car, automobile",
+  "sentences": [
+    {
+      "id": "araba_s1",
+      "text": "Yeni bir [araba] aldım.",
+      "note": null
+    },
+    {
+      "id": "araba_s2",
+      "text": "[Araba]yı garaja parketim.",
+      "note": null
+    },
+    {
+      "id": "araba_s3",
+      "text": "[Araba]nın benzini bittim.",
+      "note": null
+    },
+    {
+      "id": "araba_s4",
+      "text": "Şehirde [araba] kullanmak tehlikeli.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "araba_r1",
+      "prompt": "Motor ile yürüyen ve insanları taşıyan araç ne denir?",
+      "accepted_forms": [
+        "araba"
+      ],
+      "note": null
+    }
+  ]
+}

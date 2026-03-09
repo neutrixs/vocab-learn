@@ -1,0 +1,39 @@
+{
+  "word": "amca",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "uncle (father's brother)",
+  "sentences": [
+    {
+      "id": "amca_s1",
+      "text": "Benim [amcam] çok yaşlı.",
+      "note": null
+    },
+    {
+      "id": "amca_s2",
+      "text": "[Amcamızı] ziyaret ettik.",
+      "note": null
+    },
+    {
+      "id": "amca_s3",
+      "text": "Babamın erkek kardeşi, benim [amcamdır].",
+      "note": null
+    },
+    {
+      "id": "amca_s4",
+      "text": "[Amca] bize oyuncak aldı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "amca_r1",
+      "prompt": "Babana kardeş olan erkek akrabaya ne denir?",
+      "accepted_forms": [
+        "amca"
+      ],
+      "note": null
+    }
+  ]
+}

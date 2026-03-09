@@ -1,0 +1,40 @@
+{
+  "word": "anlamak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to understand",
+  "sentences": [
+    {
+      "id": "anlamak_s1",
+      "text": "Sözü [anladım], tamam.",
+      "note": null
+    },
+    {
+      "id": "anlamak_s2",
+      "text": "Matematik dersi [anlaşılmadı].",
+      "note": null
+    },
+    {
+      "id": "anlamak_s3",
+      "text": "[Anlaması] çok kolay, hemen anlayacak.",
+      "note": null
+    },
+    {
+      "id": "anlamak_s4",
+      "text": "Türkçeyi [anlıyorum], İngilizceyi biraz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "anlamak_r1",
+      "prompt": "Bir şeyin manasını bilmek, kavramak anlamına gelir?",
+      "accepted_forms": [
+        "anlamak",
+        "anladım"
+      ],
+      "note": null
+    }
+  ]
+}

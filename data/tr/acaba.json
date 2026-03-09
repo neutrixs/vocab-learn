@@ -1,0 +1,39 @@
+{
+  "word": "acaba",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adverb",
+  "english_gloss": "I wonder, perhaps",
+  "sentences": [
+    {
+      "id": "acaba_s1",
+      "text": "Yarın hava [acaba] güzel olur mu?",
+      "note": null
+    },
+    {
+      "id": "acaba_s2",
+      "text": "[Acaba] nerde gitti, neden dönmedi?",
+      "note": null
+    },
+    {
+      "id": "acaba_s3",
+      "text": "Bu sınavı [acaba] geçebilecek miyim?",
+      "note": null
+    },
+    {
+      "id": "acaba_s4",
+      "text": "[Acaba] o haberi duydu mu acaba?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "acaba_r1",
+      "prompt": "Bir şeyden emin olmadığında 'İçin mi durum nedir?' anlamında ne dersin?",
+      "accepted_forms": [
+        "acaba"
+      ],
+      "note": null
+    }
+  ]
+}

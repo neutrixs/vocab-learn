@@ -1,0 +1,27 @@
+{
+  "word": "aşağıda",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adverb",
+  "english_gloss": "below, beneath, down, underneath",
+  "sentences": [
+    { "id": "asagida_s1", "text": "Defterin [aşağısında] imzanız olmalı.", "note": "Your signature should be below the notebook" },
+    { "id": "asagida_s2", "text": "[Aşağıda] bir tasarı varsa bakalım.", "note": "If there's a draft below, let's see" },
+    { "id": "asagida_s3", "text": "Dağın [aşağısında] küçük bir köy vardır.", "note": "There's a small village below the mountain" },
+    { "id": "asagida_s4", "text": "[Aşağıdaki] resmi inceleyiniz.", "note": "Below is the picture to examine" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "asagida_r1",
+      "prompt": "Bir sayfanın alt kısmını göster. Orada ne var?",
+      "accepted_forms": ["aşağıda", "aşağı", "aşağısında"],
+      "note": null
+    },
+    {
+      "id": "asagida_r2",
+      "prompt": "Dağın ön tarafının düşük yerini nereye dersin?",
+      "accepted_forms": ["aşağıda", "aşağısında", "dağın aşağısında"],
+      "note": null
+    }
+  ]
+}

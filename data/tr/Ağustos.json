@@ -1,0 +1,39 @@
+{
+  "word": "Ağustos",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "August",
+  "sentences": [
+    {
+      "id": "agustos_s1",
+      "text": "[Ağustos] ayında çok sıcak oluyor.",
+      "note": null
+    },
+    {
+      "id": "agustos_s2",
+      "text": "[Ağustos]'ta tatil yapıyor muyuz?",
+      "note": null
+    },
+    {
+      "id": "agustos_s3",
+      "text": "Yılın sekizinci ayı [Ağustos]'tur.",
+      "note": null
+    },
+    {
+      "id": "agustos_s4",
+      "text": "[Ağustos] ayında plaj çok kalabalık olur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "agustos_r1",
+      "prompt": "Yılın sekizinci ayının adı nedir?",
+      "accepted_forms": [
+        "Ağustos"
+      ],
+      "note": null
+    }
+  ]
+}

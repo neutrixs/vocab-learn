@@ -1,0 +1,39 @@
+{
+  "word": "ada",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "island",
+  "sentences": [
+    {
+      "id": "ada_s1",
+      "text": "Maldiv [adaları] çok güzel.",
+      "note": null
+    },
+    {
+      "id": "ada_s2",
+      "text": "Bu [ada]da hiç kimse yaşamıyor.",
+      "note": null
+    },
+    {
+      "id": "ada_s3",
+      "text": "Gemi [adaya] doğru gidiyor.",
+      "note": null
+    },
+    {
+      "id": "ada_s4",
+      "text": "[Ada]ya yüzerek ulaşamayız, tekne gerek.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ada_r1",
+      "prompt": "Her yanı su ile çevrili kara parçasına ne denir?",
+      "accepted_forms": [
+        "ada"
+      ],
+      "note": null
+    }
+  ]
+}

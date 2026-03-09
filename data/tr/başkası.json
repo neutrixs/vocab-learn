@@ -1,0 +1,27 @@
+{
+  "word": "başkası",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "pronoun",
+  "english_gloss": "someone else, another person, others",
+  "sentences": [
+    { "id": "baskasi_s1", "text": "[Başkası] geldi.", "note": "Someone else came" },
+    { "id": "baskasi_s2", "text": "[Başkasının] eşyasını alma.", "note": "Don't take someone else's things" },
+    { "id": "baskasi_s3", "text": "[Başkasına] bağlı.", "note": "He's dependent on someone else" },
+    { "id": "baskasi_s4", "text": "[Başkası] yerine gel.", "note": "Come instead of someone else" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "baskasi_r1",
+      "prompt": "Senin yerine başka bir kişi. Kimdir?",
+      "accepted_forms": ["başkası", "başka kişi", "öteki"],
+      "note": null
+    },
+    {
+      "id": "baskasi_r2",
+      "prompt": "O kim? Seniniz değil. Başka bir insan demek istiyorsun.",
+      "accepted_forms": ["başkası", "başka biri", "ötekisi"],
+      "note": null
+    }
+  ]
+}

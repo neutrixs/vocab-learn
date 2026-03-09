@@ -1,0 +1,39 @@
+{
+  "word": "acılı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "painful, sore, aching",
+  "sentences": [
+    {
+      "id": "acili_s1",
+      "text": "Dişim çok [acılı], diş hekimine gitmeliyim.",
+      "note": null
+    },
+    {
+      "id": "acili_s2",
+      "text": "[Acılı] bir konu açmak istemiyor.",
+      "note": null
+    },
+    {
+      "id": "acili_s3",
+      "text": "Geçmişi düşündüğünde [acılı] hissediyorum.",
+      "note": null
+    },
+    {
+      "id": "acili_s4",
+      "text": "[Acılı] anıları kalbinde taşıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "acili_r1",
+      "prompt": "Bir dişin çok ağrıyıp rahatsız ise onu nasıl tanımlarsın?",
+      "accepted_forms": [
+        "acılı"
+      ],
+      "note": null
+    }
+  ]
+}

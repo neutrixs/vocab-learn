@@ -1,0 +1,40 @@
+{
+  "word": "altı",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "six",
+  "sentences": [
+    {
+      "id": "alti_s1",
+      "text": "Başparmak, işaret, orta, yüzük, küçük ve başka bir parmak, toplam [altı] parmak.",
+      "note": null
+    },
+    {
+      "id": "alti_s2",
+      "text": "Saat [altı] oldu, işi bitirdik.",
+      "note": null
+    },
+    {
+      "id": "alti_s3",
+      "text": "[Altı] çarpı dokuz, elli dört.",
+      "note": null
+    },
+    {
+      "id": "alti_s4",
+      "text": "Haftada [altı] gün çalışıyorum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "alti_r1",
+      "prompt": "5+1 işleminin cevabı kaçtır?",
+      "accepted_forms": [
+        "altı",
+        "6"
+      ],
+      "note": null
+    }
+  ]
+}

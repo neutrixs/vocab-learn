@@ -1,0 +1,40 @@
+{
+  "word": "ad",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "name",
+  "sentences": [
+    {
+      "id": "ad_s1",
+      "text": "Senin [adın] ne?",
+      "note": null
+    },
+    {
+      "id": "ad_s2",
+      "text": "Benim [adım] Ahmet.",
+      "note": null
+    },
+    {
+      "id": "ad_s3",
+      "text": "Bu şirketin [adı] çok önemli.",
+      "note": null
+    },
+    {
+      "id": "ad_s4",
+      "text": "[Adını] unutmuşum, birine sor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ad_r1",
+      "prompt": "Bir kişiyi diğerlerinden ayıran kelimeye ne denir?",
+      "accepted_forms": [
+        "ad",
+        "adı"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "acele etmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to hurry, to rush",
+  "sentences": [
+    {
+      "id": "acele_etmek_s1",
+      "text": "Trene yetişmek için [acele ettik].",
+      "note": null
+    },
+    {
+      "id": "acele_etmek_s2",
+      "text": "Lütfen [acele etme], vardığımız yerde geç kalmayız.",
+      "note": null
+    },
+    {
+      "id": "acele_etmek_s3",
+      "text": "İşte bu konuyu [acele etmemelisin].",
+      "note": null
+    },
+    {
+      "id": "acele_etmek_s4",
+      "text": "Öğretmen 'Hiç [acele etmeyin]' dedi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "acele_etmek_r1",
+      "prompt": "Hızlı bir şekilde hareket etmek için ne yaparsın?",
+      "accepted_forms": [
+        "acele etmek",
+        "acele ettim",
+        "acele et"
+      ],
+      "note": null
+    }
+  ]
+}

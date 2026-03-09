@@ -1,0 +1,41 @@
+{
+  "word": "aramak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to search for, to look for, to call",
+  "sentences": [
+    {
+      "id": "aramak_s1",
+      "text": "Anahtarını [araştığım] ama bulamadım.",
+      "note": null
+    },
+    {
+      "id": "aramak_s2",
+      "text": "Telefonla [arıyorum], cevap vermiyor.",
+      "note": null
+    },
+    {
+      "id": "aramak_s3",
+      "text": "[Aranan] kişi bulundu.",
+      "note": null
+    },
+    {
+      "id": "aramak_s4",
+      "text": "Başında [arama]dan duramıyorum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "aramak_r1",
+      "prompt": "Bir şeyi ya da birini bulmaya çalışmak anlamında ne yaparsın?",
+      "accepted_forms": [
+        "aramak",
+        "arıyorum",
+        "aradım"
+      ],
+      "note": null
+    }
+  ]
+}

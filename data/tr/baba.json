@@ -1,0 +1,27 @@
+{
+  "word": "baba",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "father, dad",
+  "sentences": [
+    { "id": "baba_s1", "text": "[Babam] işe gidiyor.", "note": "My father is going to work" },
+    { "id": "baba_s2", "text": "[Babasının] evi büyük.", "note": "His father's house is big" },
+    { "id": "baba_s3", "text": "[Babaya] selam söyle.", "note": "Say hello to dad" },
+    { "id": "baba_s4", "text": "[Baba] geldi mi?", "note": "Has father come?" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "baba_r1",
+      "prompt": "Seni dünyaya getiren erkek ebeveyn nedir?",
+      "accepted_forms": ["baba", "babam", "babası"],
+      "note": null
+    },
+    {
+      "id": "baba_r2",
+      "prompt": "Bir çocuğun baş sorumlusu olan erkek ebeveyn nedir?",
+      "accepted_forms": ["baba", "babası", "babacığım"],
+      "note": null
+    }
+  ]
+}

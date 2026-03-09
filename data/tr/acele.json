@@ -1,0 +1,39 @@
+{
+  "word": "acele",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "haste, hurry, rush",
+  "sentences": [
+    {
+      "id": "acele_s1",
+      "text": "Hiç [acele]ye gerek yok, sakin ol.",
+      "note": null
+    },
+    {
+      "id": "acele_s2",
+      "text": "Bu sabah büyük bir [acele] vardı, geç kaldık.",
+      "note": null
+    },
+    {
+      "id": "acele_s3",
+      "text": "[Acele] etme, yavaş yavaş yap.",
+      "note": null
+    },
+    {
+      "id": "acele_s4",
+      "text": "İşte [acele] yoktur, zamanımız var.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "acele_r1",
+      "prompt": "Birini hızlı yapmaya zorladığın duruma ne denir?",
+      "accepted_forms": [
+        "acele"
+      ],
+      "note": null
+    }
+  ]
+}

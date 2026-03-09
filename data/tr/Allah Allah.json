@@ -1,0 +1,39 @@
+{
+  "word": "Allah Allah",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "interjection",
+  "english_gloss": "oh my God, my goodness",
+  "sentences": [
+    {
+      "id": "allah_allah_s1",
+      "text": "[Allah Allah], ne acı haber!",
+      "note": null
+    },
+    {
+      "id": "allah_allah_s2",
+      "text": "[Allah Allah], bunu yapacak mı?",
+      "note": null
+    },
+    {
+      "id": "allah_allah_s3",
+      "text": "[Allah Allah], çok şaşırdım.",
+      "note": null
+    },
+    {
+      "id": "allah_allah_s4",
+      "text": "[Allah Allah], bu yanlış bilgi mi?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "allah_allah_r1",
+      "prompt": "Şaşırıp endişe ettiğinde ne dersin?",
+      "accepted_forms": [
+        "Allah Allah"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "aşkolsun",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "interjection",
+  "english_gloss": "bravo!, well done!, I admire you! (expression of praise and respect)",
+  "sentences": [
+    { "id": "askol_s1", "text": "[Aşkolsun]! Çok güzel yaptın.", "note": "Bravo! You did it beautifully" },
+    { "id": "askol_s2", "text": "[Aşkolsun]! Emeklerin takdire şayandır.", "note": "Well done! Your efforts are commendable" },
+    { "id": "askol_s3", "text": "Konuşmasını bitirdi ve [aşkolsun] dediler.", "note": "He finished his speech and people said bravo" },
+    { "id": "askol_s4", "text": "[Aşkolsun] canim, çok başarılı oldun.", "note": "Bravo my dear, you were very successful" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "askol_r1",
+      "prompt": "Birinin harika işini görüyorsun ve takdir ediyorsun. Ne diyorsun?",
+      "accepted_forms": ["aşkolsun", "aşk olsun", "tebrik ederim"],
+      "note": null
+    },
+    {
+      "id": "askol_r2",
+      "prompt": "Arkadaşın mükemmel bir performans yaptı. Ona ne diyorsun?",
+      "accepted_forms": ["aşkolsun", "bravo", "aferin"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "Allah korusun",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "interjection",
+  "english_gloss": "God forbid, heaven forbid",
+  "sentences": [
+    {
+      "id": "allah_korusun_s1",
+      "text": "[Allah korusun], başına bir şey gelirse?",
+      "note": null
+    },
+    {
+      "id": "allah_korusun_s2",
+      "text": "[Allah korusun], yanlış bir şey olmasın.",
+      "note": null
+    },
+    {
+      "id": "allah_korusun_s3",
+      "text": "[Allah korusun], sağlığı gide.",
+      "note": null
+    },
+    {
+      "id": "allah_korusun_s4",
+      "text": "[Allah korusun] diye dua etti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "allah_korusun_r1",
+      "prompt": "Kötü bir şey olmasını istemediğini ifade etmek için ne dersin?",
+      "accepted_forms": [
+        "Allah korusun"
+      ],
+      "note": null
+    }
+  ]
+}

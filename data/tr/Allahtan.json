@@ -1,0 +1,39 @@
+{
+  "word": "Allahtan",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adverb",
+  "english_gloss": "fortunately, thank God, luckily",
+  "sentences": [
+    {
+      "id": "allahtan_s1",
+      "text": "[Allahtan], hava bozuk değil.",
+      "note": null
+    },
+    {
+      "id": "allahtan_s2",
+      "text": "[Allahtan], tren zamanında geldi.",
+      "note": null
+    },
+    {
+      "id": "allahtan_s3",
+      "text": "[Allahtan] kaybetmememiz rastlantı değil.",
+      "note": null
+    },
+    {
+      "id": "allahtan_s4",
+      "text": "[Allahtan] kimse yaralanmadı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "allahtan_r1",
+      "prompt": "Şansımız iyi olduğunu ifade etmek için ne dersin?",
+      "accepted_forms": [
+        "Allahtan"
+      ],
+      "note": null
+    }
+  ]
+}

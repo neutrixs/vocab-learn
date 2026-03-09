@@ -1,0 +1,39 @@
+{
+  "word": "alev",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "flame, blaze",
+  "sentences": [
+    {
+      "id": "alev_s1",
+      "text": "Ateşin [alevi] yüksele doğru gidiyor.",
+      "note": null
+    },
+    {
+      "id": "alev_s2",
+      "text": "Mum [alevi] hafifçe titriyor.",
+      "note": null
+    },
+    {
+      "id": "alev_s3",
+      "text": "Evin [alevler] tarafından yandı.",
+      "note": null
+    },
+    {
+      "id": "alev_s4",
+      "text": "[Alev] gibi kızıl.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "alev_r1",
+      "prompt": "Ateşin, mumun yanıp parlayan kısmına ne denir?",
+      "accepted_forms": [
+        "alev"
+      ],
+      "note": null
+    }
+  ]
+}

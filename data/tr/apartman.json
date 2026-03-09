@@ -1,0 +1,39 @@
+{
+  "word": "apartman",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "apartment, flat",
+  "sentences": [
+    {
+      "id": "apartman_s1",
+      "text": "Yeni bir [apartman] aldık.",
+      "note": null
+    },
+    {
+      "id": "apartman_s2",
+      "text": "Bu [apartman] çok güzel, daireleri geniş.",
+      "note": null
+    },
+    {
+      "id": "apartman_s3",
+      "text": "[Apartman]da yaşamak hoşuma gidiyor.",
+      "note": null
+    },
+    {
+      "id": "apartman_s4",
+      "text": "[Apartman]ın kira, beş bin lira.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "apartman_r1",
+      "prompt": "Birkaç daireden oluşan bina türüne ne denir?",
+      "accepted_forms": [
+        "apartman"
+      ],
+      "note": null
+    }
+  ]
+}

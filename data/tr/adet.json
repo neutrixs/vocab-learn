@@ -1,0 +1,39 @@
+{
+  "word": "adet",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "custom, habit, tradition",
+  "sentences": [
+    {
+      "id": "adet_s1",
+      "text": "Bu bölgenin bir [adeti] var, her pazarlamaya gidecekler.",
+      "note": null
+    },
+    {
+      "id": "adet_s2",
+      "text": "[Adet], insanların uzun yıllardan beri yaptığı şeylerdir.",
+      "note": null
+    },
+    {
+      "id": "adet_s3",
+      "text": "Ailemizin bir [adeti], her Ramazan'da birlikte iftar yapmak.",
+      "note": null
+    },
+    {
+      "id": "adet_s4",
+      "text": "Eski [adetleri] korumak önemli.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "adet_r1",
+      "prompt": "Bir toplum ya da ailede eski zamanlardan beri yapılan işe ne denir?",
+      "accepted_forms": [
+        "adet"
+      ],
+      "note": null
+    }
+  ]
+}

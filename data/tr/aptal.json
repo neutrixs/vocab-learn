@@ -1,0 +1,39 @@
+{
+  "word": "aptal",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "stupid, foolish, silly",
+  "sentences": [
+    {
+      "id": "aptal_s1",
+      "text": "Bu soru çok [aptal], cevabı basit.",
+      "note": null
+    },
+    {
+      "id": "aptal_s2",
+      "text": "[Aptal] bir seçim yapıyor.",
+      "note": null
+    },
+    {
+      "id": "aptal_s3",
+      "text": "[Aptal] gibiyim, çok hatalar yaptım.",
+      "note": null
+    },
+    {
+      "id": "aptal_s4",
+      "text": "[Aptal] diye nitelendirilmek hoşuma gitmiyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "aptal_r1",
+      "prompt": "Akıllı olmayan, mantıksız kararlar alan biriyi nasıl tanımlarsın?",
+      "accepted_forms": [
+        "aptal"
+      ],
+      "note": null
+    }
+  ]
+}

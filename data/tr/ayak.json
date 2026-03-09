@@ -1,0 +1,27 @@
+{
+  "word": "ayak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "foot, leg",
+  "sentences": [
+    { "id": "ayak_s1", "text": "[Ayağım] ağrıyor.", "note": "My foot hurts" },
+    { "id": "ayak_s2", "text": "[Ayaklarım] uzun.", "note": "My feet are long" },
+    { "id": "ayak_s3", "text": "[Ayakta] duruyor.", "note": "He's standing on his feet" },
+    { "id": "ayak_s4", "text": "[Ayaklarını] yıka.", "note": "Wash your feet" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ayak_r1",
+      "prompt": "Bacakların en aşağı kısmı nedir?",
+      "accepted_forms": ["ayak", "ayağım", "ayaklar"],
+      "note": null
+    },
+    {
+      "id": "ayak_r2",
+      "prompt": "Yerde durman sağlayan vücut parçası hangi ikisi?",
+      "accepted_forms": ["ayaklar", "ayak", "iki ayak"],
+      "note": null
+    }
+  ]
+}

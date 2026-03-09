@@ -1,0 +1,41 @@
+{
+  "word": "akmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to flow, to run",
+  "sentences": [
+    {
+      "id": "akmak_s1",
+      "text": "Su [akıyor], pipleyn kapalı etmeliyiz.",
+      "note": null
+    },
+    {
+      "id": "akmak_s2",
+      "text": "Nehir [akarak] denize gidiyor.",
+      "note": null
+    },
+    {
+      "id": "akmak_s3",
+      "text": "Kan [akıyor], yarası var.",
+      "note": null
+    },
+    {
+      "id": "akmak_s4",
+      "text": "[Akmasını] durdurmak için bandaj sarmalıyız.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "akmak_r1",
+      "prompt": "Su ya da başka sıvı hareket ederek gitmek ne demek?",
+      "accepted_forms": [
+        "akmak",
+        "akıyor",
+        "akarak"
+      ],
+      "note": null
+    }
+  ]
+}

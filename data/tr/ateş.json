@@ -1,0 +1,27 @@
+{
+  "word": "ateş",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "fire, flame, heat",
+  "sentences": [
+    { "id": "ates_s1", "text": "[Ateşin] yakınına yaklaşma!", "note": "Don't approach the fire!" },
+    { "id": "ates_s2", "text": "[Ateş] sönüyor.", "note": "The fire is going out" },
+    { "id": "ates_s3", "text": "Kışın [ateşi] çok seviyorum.", "note": "I love the fire in winter" },
+    { "id": "ates_s4", "text": "[Ateşte] pide pişirtiyorum.", "note": "I'm cooking flatbread over fire" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ates_r1",
+      "prompt": "Soğukta sıcaklık veren ve ışık yayan şey nedir?",
+      "accepted_forms": ["ateş", "ateşi", "alevin"],
+      "note": null
+    },
+    {
+      "id": "ates_r2",
+      "prompt": "Odunda ısınmak için hangisini yakarsın?",
+      "accepted_forms": ["ateş", "odun yakıyorum", "ateş yakıyorum"],
+      "note": null
+    }
+  ]
+}

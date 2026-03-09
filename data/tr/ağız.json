@@ -1,0 +1,39 @@
+{
+  "word": "ağız",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "mouth",
+  "sentences": [
+    {
+      "id": "agiz_s1",
+      "text": "Ağzı açarak, dedi ki 'Merhaba'.",
+      "note": null
+    },
+    {
+      "id": "agiz_s2",
+      "text": "Şekerimi ağzıma koydum.",
+      "note": null
+    },
+    {
+      "id": "agiz_s3",
+      "text": "Ağzı ağır kimse, dili güzel konuşmaz.",
+      "note": null
+    },
+    {
+      "id": "agiz_s4",
+      "text": "[Ağzınızdan] kaçan sözler geri alınamaz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "agiz_r1",
+      "prompt": "Yemek yediğimiz ve konuştuğumuz vücut parçasına ne denir?",
+      "accepted_forms": [
+        "ağız"
+      ],
+      "note": null
+    }
+  ]
+}

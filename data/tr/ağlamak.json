@@ -1,0 +1,41 @@
+{
+  "word": "ağlamak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to cry, to weep",
+  "sentences": [
+    {
+      "id": "aglamak_s1",
+      "text": "Bebek [ağlıyor], annesi kucağına aldı.",
+      "note": null
+    },
+    {
+      "id": "aglamak_s2",
+      "text": "Hüzünlü filmi izleyince [ağladım].",
+      "note": null
+    },
+    {
+      "id": "aglamak_s3",
+      "text": "Çocuk çok [ağlamaktan] yoruldu.",
+      "note": null
+    },
+    {
+      "id": "aglamak_s4",
+      "text": "Üzüldüğü için [ağladı].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "aglamak_r1",
+      "prompt": "Üzüldüğünde yapılan, gözlerden su gelen harekete ne denir?",
+      "accepted_forms": [
+        "ağlamak",
+        "ağladım",
+        "ağlıyor"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "aşırı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "excessive, extreme, too much, immoderate",
+  "sentences": [
+    { "id": "asiri_s1", "text": "[Aşırı] çalışmak sağlığa zararlı.", "note": "Working excessively is bad for health" },
+    { "id": "asiri_s2", "text": "Bu fiyat [aşırı] yüksek.", "note": "This price is too high" },
+    { "id": "asiri_s3", "text": "[Aşırı] ısı tehlikelidir.", "note": "Excessive heat is dangerous" },
+    { "id": "asiri_s4", "text": "[Aşırı] tuz kötüdür.", "note": "Excess salt is bad" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "asiri_r1",
+      "prompt": "Normal miktardan çok fazla var. Bunu nasıl anlatırsın?",
+      "accepted_forms": ["aşırı", "aşırı fazla", "aşırısı"],
+      "note": null
+    },
+    {
+      "id": "asiri_r2",
+      "prompt": "Bir malın fiyatı çok yüksektir. Fiyat ne kadar?",
+      "accepted_forms": ["aşırı", "aşırı yüksek", "aşırı pahalı"],
+      "note": null
+    }
+  ]
+}

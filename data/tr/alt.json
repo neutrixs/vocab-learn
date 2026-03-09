@@ -1,0 +1,39 @@
+{
+  "word": "alt",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "bottom, under, underneath",
+  "sentences": [
+    {
+      "id": "alt_s1",
+      "text": "Masanın [altında] kedi var.",
+      "note": null
+    },
+    {
+      "id": "alt_s2",
+      "text": "Ayakkabının [altı] aşınmış.",
+      "note": null
+    },
+    {
+      "id": "alt_s3",
+      "text": "Çocuk yatağın [altına] girdi.",
+      "note": null
+    },
+    {
+      "id": "alt_s4",
+      "text": "[Alt] katta ışık açık.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "alt_r1",
+      "prompt": "Bir şeyin en aşağı bölümüne ne denir?",
+      "accepted_forms": [
+        "alt"
+      ],
+      "note": null
+    }
+  ]
+}

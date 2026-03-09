@@ -1,0 +1,39 @@
+{
+  "word": "ama",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "conjunction",
+  "english_gloss": "but, however",
+  "sentences": [
+    {
+      "id": "ama_s1",
+      "text": "Gitmek istiyorum, [ama] zamanım yok.",
+      "note": null
+    },
+    {
+      "id": "ama_s2",
+      "text": "Güzel bir gün, [ama] çok sıcak.",
+      "note": null
+    },
+    {
+      "id": "ama_s3",
+      "text": "Açız, [ama] yemek hazır değil.",
+      "note": null
+    },
+    {
+      "id": "ama_s4",
+      "text": "Zor bir durum, [ama] çözülür.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ama_r1",
+      "prompt": "Cümlenin ön kısmıyla çelişen bir ifade eklemek için ne kullanırsın?",
+      "accepted_forms": [
+        "ama"
+      ],
+      "note": null
+    }
+  ]
+}

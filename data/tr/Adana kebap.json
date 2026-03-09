@@ -1,0 +1,40 @@
+{
+  "word": "Adana kebap",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "Adana kebab (spicy Turkish kebab)",
+  "sentences": [
+    {
+      "id": "adana_kebap_s1",
+      "text": "Adana'ya gittik, lezzetli [Adana kebap] yedik.",
+      "note": null
+    },
+    {
+      "id": "adana_kebap_s2",
+      "text": "[Adana kebap] çok baharatlı ve lezzetli bir yemektir.",
+      "note": null
+    },
+    {
+      "id": "adana_kebap_s3",
+      "text": "Bu restoranda en ünlü [Adana kebap] servis ediliyor.",
+      "note": null
+    },
+    {
+      "id": "adana_kebap_s4",
+      "text": "[Adana kebap] yapılırken çok dikkat gerekiyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "adana_kebap_r1",
+      "prompt": "Adana şehrinin meşhur kırmızı, baharatlı kebabına ne denir?",
+      "accepted_forms": [
+        "Adana kebap",
+        "Adana kebabı"
+      ],
+      "note": null
+    }
+  ]
+}

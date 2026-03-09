@@ -1,54 +1,38 @@
 {
   "word": "anlatmak",
   "lang": "tr",
-  "difficulty": 2,
+  "difficulty": 1,
   "part_of_speech": "verb",
-  "english_gloss": "to tell, to explain, to narrate",
+  "english_gloss": "to tell, to narrate, to explain",
   "sentences": [
     {
       "id": "anlatmak_s1",
-      "text": "Bugün neler yaşadığını bana [anlat].",
-      "note": "Emir kipi"
+      "text": "Hikaye [anlatması] çok güzel.",
+      "note": null
     },
     {
       "id": "anlatmak_s2",
-      "text": "Bu konuyu öğrencilere nasıl [anlatacağını] düşünüyor.",
+      "text": "Başına gelenler [anlatıyor].",
       "note": null
     },
     {
       "id": "anlatmak_s3",
-      "text": "Duyguları kelimelerle [anlatmak] bazen yetersiz kalır.",
+      "text": "Kişiye durumu [anlatmalıyız].",
       "note": null
     },
     {
       "id": "anlatmak_s4",
-      "text": "O hikayeyi o kadar güzel [anlattı] ki herkes ağladı.",
-      "note": null
-    },
-    {
-      "id": "anlatmak_s5",
-      "text": "Ne demek istediğini [anlatamazsam] özür dilerim.",
+      "text": "[Anlatma] sonra anladık durumu.",
       "note": null
     }
   ],
   "recall_prompts": [
     {
       "id": "anlatmak_r1",
-      "prompt": "Arkadaşın gününde neler olduğunu merak ediyor. Sana ne diyor?",
+      "prompt": "Bir olay ya da hikayeyi başkasına söylemek anlamında?",
       "accepted_forms": [
-        "anlat",
-        "anlatır mısın",
-        "anlatıyor musun"
-      ],
-      "note": null
-    },
-    {
-      "id": "anlatmak_r2",
-      "prompt": "Öğretmen yeni bir konuyu sınıfa aktarıyor. Bu eylemi bir kelimeyle nasıl ifade edersin?",
-      "accepted_forms": [
-        "anlatıyor",
-        "anlattı",
-        "anlatmak"
+        "anlatmak",
+        "anlatıyor"
       ],
       "note": null
     }

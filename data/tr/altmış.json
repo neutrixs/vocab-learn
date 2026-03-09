@@ -1,0 +1,40 @@
+{
+  "word": "altmış",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "sixty",
+  "sentences": [
+    {
+      "id": "altmis_s1",
+      "text": "Babam [altmış] yaşında.",
+      "note": null
+    },
+    {
+      "id": "altmis_s2",
+      "text": "[Altmış] saniye, bir dakikadır.",
+      "note": null
+    },
+    {
+      "id": "altmis_s3",
+      "text": "[Altmış] yaşına geldiğinde emekli oldu.",
+      "note": null
+    },
+    {
+      "id": "altmis_s4",
+      "text": "Yılda [altmış] gün tatil yapıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "altmis_r1",
+      "prompt": "59+1 işleminin cevabı kaçtır?",
+      "accepted_forms": [
+        "altmış",
+        "60"
+      ],
+      "note": null
+    }
+  ]
+}

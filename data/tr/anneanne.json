@@ -1,0 +1,39 @@
+{
+  "word": "anneanne",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "grandmother (mother's mother)",
+  "sentences": [
+    {
+      "id": "anneanne_s1",
+      "text": "Benim [anneanne]m yaşlı ama güçlü.",
+      "note": null
+    },
+    {
+      "id": "anneanne_s2",
+      "text": "[Anneanne]sinin yemeği çok lezzetli.",
+      "note": null
+    },
+    {
+      "id": "anneanne_s3",
+      "text": "[Anneanne]si öldü, çok kötü hissediliyor.",
+      "note": null
+    },
+    {
+      "id": "anneanne_s4",
+      "text": "Annamin annesi benim [anneanne]dir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "anneanne_r1",
+      "prompt": "Annen ve babanın annesine ne denir?",
+      "accepted_forms": [
+        "anneanne"
+      ],
+      "note": null
+    }
+  ]
+}

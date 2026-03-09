@@ -1,0 +1,39 @@
+{
+  "word": "aile",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "family",
+  "sentences": [
+    {
+      "id": "aile_s1",
+      "text": "Benim [aile]m çok geniş.",
+      "note": null
+    },
+    {
+      "id": "aile_s2",
+      "text": "[Aile]lerini ziyaret etmek istiyorum.",
+      "note": null
+    },
+    {
+      "id": "aile_s3",
+      "text": "Anne, baba ve çocuklar bir [aile]dir.",
+      "note": null
+    },
+    {
+      "id": "aile_s4",
+      "text": "Hafta sonları [aile]yle zaman geçirimiz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "aile_r1",
+      "prompt": "Anne, baba ve çocuklardan oluşan grubu ne denir?",
+      "accepted_forms": [
+        "aile"
+      ],
+      "note": null
+    }
+  ]
+}

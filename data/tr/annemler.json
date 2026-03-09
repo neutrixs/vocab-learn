@@ -1,0 +1,39 @@
+{
+  "word": "annemler",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "my mothers (parents, informal)",
+  "sentences": [
+    {
+      "id": "annemler_s1",
+      "text": "[Annemler] kızıyorlar, eve geç geldin.",
+      "note": null
+    },
+    {
+      "id": "annemler_s2",
+      "text": "[Annemler] bahçede oturuyor.",
+      "note": null
+    },
+    {
+      "id": "annemler_s3",
+      "text": "[Annemler] ve babam beraber gidiyorlar.",
+      "note": null
+    },
+    {
+      "id": "annemler_s4",
+      "text": "Bu haber [annelerine] söyle.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "annemler_r1",
+      "prompt": "Anne ve babaya birlikte 'annemler' diye hitap ettiğimiz yaklaşım var mı?",
+      "accepted_forms": [
+        "annemler"
+      ],
+      "note": null
+    }
+  ]
+}

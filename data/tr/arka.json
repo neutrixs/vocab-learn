@@ -1,0 +1,27 @@
+{
+  "word": "arka",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "back, rear, behind",
+  "sentences": [
+    { "id": "arka_s1", "text": "Arabanın [arkasından] bir başka araba geliyor.", "note": "'arkasından' = from behind" },
+    { "id": "arka_s2", "text": "Evimizin [arkasında] büyük bir bahçe var.", "note": "'arkasında' = behind" },
+    { "id": "arka_s3", "text": "Kitabın [arka] kapağında özet vardır.", "note": null },
+    { "id": "arka_s4", "text": "Taraftan [arkatası] hava serin.", "note": "'arkatası' = back side" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "arka_r1",
+      "prompt": "Bir şeyin ön tarafının karşısını ne diye adlandırırsın?",
+      "accepted_forms": ["arka", "arkası", "arkada"],
+      "note": null
+    },
+    {
+      "id": "arka_r2",
+      "prompt": "Kitabın ön kapağının tersini göster. Hangisi?",
+      "accepted_forms": ["arka kapak", "arka", "arka sayfa"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "adım",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "step, pace",
+  "sentences": [
+    {
+      "id": "adim_s1",
+      "text": "Bir [adım] geri, iki [adım] ileri yürüyünüz.",
+      "note": null
+    },
+    {
+      "id": "adim_s2",
+      "text": "Yeni bir [adım]a başladık.",
+      "note": null
+    },
+    {
+      "id": "adim_s3",
+      "text": "Atının [adımları] sakin ve belirli.",
+      "note": null
+    },
+    {
+      "id": "adim_s4",
+      "text": "İmam [adım adım] öğretmeme başladı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "adim_r1",
+      "prompt": "Yürürken bir ayağını diğerinin yanına koyma işine ne denir?",
+      "accepted_forms": [
+        "adım"
+      ],
+      "note": null
+    }
+  ]
+}

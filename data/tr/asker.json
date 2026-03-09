@@ -1,0 +1,27 @@
+{
+  "word": "asker",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "soldier, military",
+  "sentences": [
+    { "id": "asker_s1", "text": "[Askerler] geçit töreninde yürüdüler.", "note": null },
+    { "id": "asker_s2", "text": "Ülkeye [asker] lazım.", "note": "The country needs soldiers" },
+    { "id": "asker_s3", "text": "Abi [askerliğini] yaptı.", "note": "Brother did his military service" },
+    { "id": "asker_s4", "text": "[Asker] olup hizmet etmek onurludur.", "note": "It's honorable to be a soldier and serve" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "asker_r1",
+      "prompt": "Ülkesini savunan ve orduya ait olan insana ne denir?",
+      "accepted_forms": ["asker", "askeri", "askerler"],
+      "note": null
+    },
+    {
+      "id": "asker_r2",
+      "prompt": "Askeri kıyafetle geçit töreninde yürüyenlere ne denir?",
+      "accepted_forms": ["asker", "askerler", "askerlik"],
+      "note": null
+    }
+  ]
+}

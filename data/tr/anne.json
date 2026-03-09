@@ -1,0 +1,39 @@
+{
+  "word": "anne",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "mother",
+  "sentences": [
+    {
+      "id": "anne_s1",
+      "text": "Benim [annem] çok güzel.",
+      "note": null
+    },
+    {
+      "id": "anne_s2",
+      "text": "[Anne]si hasta, ona bakıyor.",
+      "note": null
+    },
+    {
+      "id": "anne_s3",
+      "text": "[Annemin] ellerinde güvende.",
+      "note": null
+    },
+    {
+      "id": "anne_s4",
+      "text": "Çocuk [annesi]ne sarıldı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "anne_r1",
+      "prompt": "Seni doğuran, büyüten kadına ne denir?",
+      "accepted_forms": [
+        "anne"
+      ],
+      "note": null
+    }
+  ]
+}

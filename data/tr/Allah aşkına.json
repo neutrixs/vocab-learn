@@ -1,0 +1,39 @@
+{
+  "word": "Allah aşkına",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "interjection",
+  "english_gloss": "for God's sake, please",
+  "sentences": [
+    {
+      "id": "allah_askina_s1",
+      "text": "[Allah aşkına], lütfen git!",
+      "note": null
+    },
+    {
+      "id": "allah_askina_s2",
+      "text": "[Allah aşkına], ses çıkarma.",
+      "note": null
+    },
+    {
+      "id": "allah_askina_s3",
+      "text": "[Allah aşkına], çok yalvarıyorum.",
+      "note": null
+    },
+    {
+      "id": "allah_askina_s4",
+      "text": "[Allah aşkına], yapma bunu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "allah_askina_r1",
+      "prompt": "Birini yalvararak ricada bulunduğunda ne dersin?",
+      "accepted_forms": [
+        "Allah aşkına"
+      ],
+      "note": null
+    }
+  ]
+}

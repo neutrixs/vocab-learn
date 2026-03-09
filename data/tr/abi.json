@@ -1,0 +1,48 @@
+{
+  "word": "abi",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "older brother, senior",
+  "sentences": [
+    {
+      "id": "abi_s1",
+      "text": "Benim [abi]m benden üç yaş büyük.",
+      "note": null
+    },
+    {
+      "id": "abi_s2",
+      "text": "[Abi]m üniversitede okuyor.",
+      "note": null
+    },
+    {
+      "id": "abi_s3",
+      "text": "Çalışanlar patronlarına saygıyla [abi] diye hitap ediyor.",
+      "note": null
+    },
+    {
+      "id": "abi_s4",
+      "text": "Hey [abi], bana yardım eder misin?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "abi_r1",
+      "prompt": "Senden daha yaşlı olan erkek kardeşine ne denir?",
+      "accepted_forms": [
+        "abi",
+        "abim"
+      ],
+      "note": null
+    },
+    {
+      "id": "abi_r2",
+      "prompt": "Bir erkek kişiye saygıyla hitap etmek için ne denir?",
+      "accepted_forms": [
+        "abi"
+      ],
+      "note": null
+    }
+  ]
+}

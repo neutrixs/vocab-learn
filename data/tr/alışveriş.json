@@ -1,0 +1,39 @@
+{
+  "word": "alışveriş",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "shopping, commerce",
+  "sentences": [
+    {
+      "id": "alisveris_s1",
+      "text": "[Alışveriş] yapmaya gitmeliyim.",
+      "note": null
+    },
+    {
+      "id": "alisveris_s2",
+      "text": "Pazarcı yerde [alışveriş] yapan çok insan var.",
+      "note": null
+    },
+    {
+      "id": "alisveris_s3",
+      "text": "[Alışveriş]tan döndüm, çok aldım.",
+      "note": null
+    },
+    {
+      "id": "alisveris_s4",
+      "text": "Hafta sonu [alışveriş] yapmak hoşuma gidiyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "alisveris_r1",
+      "prompt": "Dükkanda eşya satın alma işine ne denir?",
+      "accepted_forms": [
+        "alışveriş"
+      ],
+      "note": null
+    }
+  ]
+}

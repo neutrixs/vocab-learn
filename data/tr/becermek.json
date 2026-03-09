@@ -1,0 +1,27 @@
+{
+  "word": "becermek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to manage, to handle, to accomplish, to be skilled at",
+  "sentences": [
+    { "id": "becermek_s1", "text": "Onu [beceremedim].", "note": "I couldn't manage it" },
+    { "id": "becermek_s2", "text": "[Becere] biraz sabır ile.", "note": "Manage it with a little patience" },
+    { "id": "becermek_s3", "text": "[Beceriyorum], endişe etme.", "note": "I'm handling it, don't worry" },
+    { "id": "becermek_s4", "text": "[Becermedikleri] şeyde başarılı olduk.", "note": "We succeeded in what they couldn't manage" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "becermek_r1",
+      "prompt": "Zor bir işi başarıyla yapabilmek ne demek?",
+      "accepted_forms": ["becermek", "beceriyorum", "başarıyla yaptım"],
+      "note": null
+    },
+    {
+      "id": "becermek_r2",
+      "prompt": "Bir durumu yönetmek ve düzenlemek ne demek?",
+      "accepted_forms": ["becermek", "beceriyorum", "yönetebilmek"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "anlaşma",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "agreement, accord",
+  "sentences": [
+    {
+      "id": "anlasma_s1",
+      "text": "Iki taraf arasında bir [anlaşma] yapıldı.",
+      "note": null
+    },
+    {
+      "id": "anlasma_s2",
+      "text": "[Anlaşma]yı imzaladı.",
+      "note": null
+    },
+    {
+      "id": "anlasma_s3",
+      "text": "[Anlaşmaydı], işaret verdik.",
+      "note": null
+    },
+    {
+      "id": "anlasma_s4",
+      "text": "Sözleşme bir tür [anlaşma]dır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "anlasma_r1",
+      "prompt": "İki taraf arasında yapılan mutabakat belgesine ne denir?",
+      "accepted_forms": [
+        "anlaşma"
+      ],
+      "note": null
+    }
+  ]
+}

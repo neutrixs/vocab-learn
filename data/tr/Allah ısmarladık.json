@@ -1,0 +1,39 @@
+{
+  "word": "Allah ısmarladık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "interjection",
+  "english_gloss": "goodbye, fare well (traditional Turkish farewell)",
+  "sentences": [
+    {
+      "id": "allah_ismarladik_s1",
+      "text": "[Allah ısmarladık], iyi yolculuklar!",
+      "note": null
+    },
+    {
+      "id": "allah_ismarladik_s2",
+      "text": "[Allah ısmarladık] dedip ayrıldı.",
+      "note": null
+    },
+    {
+      "id": "allah_ismarladik_s3",
+      "text": "Baba '[Allah ısmarladık]' dedi ve gitti.",
+      "note": null
+    },
+    {
+      "id": "allah_ismarladik_s4",
+      "text": "Telefonla '[Allah ısmarladık]' dedik.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "allah_ismarladik_r1",
+      "prompt": "Birine hoşça kalın derken Türkçede ne denir?",
+      "accepted_forms": [
+        "Allah ısmarladık"
+      ],
+      "note": null
+    }
+  ]
+}

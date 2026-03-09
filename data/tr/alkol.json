@@ -1,0 +1,39 @@
+{
+  "word": "alkol",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "alcohol",
+  "sentences": [
+    {
+      "id": "alkol_s1",
+      "text": "[Alkol] sağlığa zararlıdır.",
+      "note": null
+    },
+    {
+      "id": "alkol_s2",
+      "text": "Bazı meyvelerde doğal [alkol] vardır.",
+      "note": null
+    },
+    {
+      "id": "alkol_s3",
+      "text": "[Alkol] barındıran içkilere dikkat etmeliyiz.",
+      "note": null
+    },
+    {
+      "id": "alkol_s4",
+      "text": "Çok [alkol] içtiyse, araç kullanmamalı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "alkol_r1",
+      "prompt": "Sarhoş eden içki maddesine ne denir?",
+      "accepted_forms": [
+        "alkol"
+      ],
+      "note": null
+    }
+  ]
+}

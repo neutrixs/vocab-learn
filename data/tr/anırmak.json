@@ -1,0 +1,40 @@
+{
+  "word": "anırmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to neigh, to whinny",
+  "sentences": [
+    {
+      "id": "anirmak_s1",
+      "text": "At [anırıyor], korkmuş.",
+      "note": null
+    },
+    {
+      "id": "anirmak_s2",
+      "text": "Atlar [anırmalarından] korkmuşuz.",
+      "note": null
+    },
+    {
+      "id": "anirmak_s3",
+      "text": "[Anırması], at korktuğunun işareti.",
+      "note": null
+    },
+    {
+      "id": "anirmak_s4",
+      "text": "Ahırdan at sesi [anırması] geldi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "anirmak_r1",
+      "prompt": "Atların çıkardığı sese 'hin hin' derken, kendi sesleri nasıl çıkarır?",
+      "accepted_forms": [
+        "anırmak",
+        "anırır"
+      ],
+      "note": null
+    }
+  ]
+}

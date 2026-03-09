@@ -1,0 +1,27 @@
+{
+  "word": "başka",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "other, different, else",
+  "sentences": [
+    { "id": "baska_s1", "text": "[Başka] bir şey istiyorum.", "note": "I want something else" },
+    { "id": "baska_s2", "text": "[Başka] kitap var mı?", "note": "Is there another book?" },
+    { "id": "baska_s3", "text": "[Başka] değil, bu.", "note": "Not another one, this one" },
+    { "id": "baska_s4", "text": "[Başka] uygulamadan para almıyor.", "note": "I'm not getting money from another application" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "baska_r1",
+      "prompt": "Bu değil, bambaşka bir şey istiyorum. Ne istiyorum?",
+      "accepted_forms": ["başka", "başka bir", "farklı"],
+      "note": null
+    },
+    {
+      "id": "baska_r2",
+      "prompt": "Bu ayakkabı değil, muhtelif bir tane. Hangisi?",
+      "accepted_forms": ["başka", "başka ayakkabı", "öteki"],
+      "note": null
+    }
+  ]
+}
