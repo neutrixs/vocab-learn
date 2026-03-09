@@ -5,22 +5,46 @@
   "part_of_speech": "verb",
   "english_gloss": "to begin, to start, to commence",
   "sentences": [
-    { "id": "baslamak_s1", "text": "Dersin [başladı].", "note": "The class started" },
-    { "id": "baslamak_s2", "text": "[Başlayabilir] miyiz?", "note": "Can we start?" },
-    { "id": "baslamak_s3", "text": "[Başlamayacağız] bugün.", "note": "We won't start today" },
-    { "id": "baslamak_s4", "text": "[Başlamak] zorundu.", "note": "Starting was necessary" }
+    {
+      "id": "baslamak_s1",
+      "text": "Dersin [başladı].",
+      "note": null
+    },
+    {
+      "id": "baslamak_s2",
+      "text": "[Başlayabilir] miyiz?",
+      "note": null
+    },
+    {
+      "id": "baslamak_s3",
+      "text": "[Başlamayacağız] bugün.",
+      "note": null
+    },
+    {
+      "id": "baslamak_s4",
+      "text": "[Başlamak] zorundu.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "baslamak_r1",
       "prompt": "Bir işin ilk anında başlıyor. Ne oluyor?",
-      "accepted_forms": ["başlıyor", "başlamak", "başladı"],
+      "accepted_forms": [
+        "başlıyor",
+        "başlamak",
+        "başladı"
+      ],
       "note": null
     },
     {
       "id": "baslamak_r2",
       "prompt": "Haber baştan sonuna kadar ne yapıyor?",
-      "accepted_forms": ["başlıyor", "başlamak", "başlardı"],
+      "accepted_forms": [
+        "başlıyor",
+        "başlamak",
+        "başlardı"
+      ],
       "note": null
     }
   ]

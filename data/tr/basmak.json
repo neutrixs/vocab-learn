@@ -5,22 +5,46 @@
   "part_of_speech": "verb",
   "english_gloss": "to press, to push, to step on, to print, to suppress",
   "sentences": [
-    { "id": "basmak_s1", "text": "Düğmeyi [bas]!", "note": "Press the button!" },
-    { "id": "basmak_s2", "text": "[Bastığında] neler oldu?", "note": "What happened when you pressed?" },
-    { "id": "basmak_s3", "text": "[Basacağım] ayağı.", "note": "I'll step on his foot" },
-    { "id": "basmak_s4", "text": "[Basılan] sayfalar kopya.", "note": "The printed pages are copies" }
+    {
+      "id": "basmak_s1",
+      "text": "Düğmeyi [bas]!",
+      "note": null
+    },
+    {
+      "id": "basmak_s2",
+      "text": "[Bastığında] neler oldu?",
+      "note": null
+    },
+    {
+      "id": "basmak_s3",
+      "text": "[Basacağım] ayağı.",
+      "note": null
+    },
+    {
+      "id": "basmak_s4",
+      "text": "[Basılan] sayfalar kopya.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "basmak_r1",
       "prompt": "Düğme veya butona güç uygulamak ne demek?",
-      "accepted_forms": ["basmak", "basıyorum", "basmalı"],
+      "accepted_forms": [
+        "basmak",
+        "basıyorum",
+        "basmalı"
+      ],
       "note": null
     },
     {
       "id": "basmak_r2",
       "prompt": "Yerde ayağını sıkıca koyup vücudun ağırlığını yere vermek ne demek?",
-      "accepted_forms": ["basmak", "basıyorum", "bastım"],
+      "accepted_forms": [
+        "basmak",
+        "basıyorum",
+        "bastım"
+      ],
       "note": null
     }
   ]

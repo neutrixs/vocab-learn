@@ -5,22 +5,42 @@
   "part_of_speech": "verb",
   "english_gloss": "it doesn't matter, it makes no difference",
   "sentences": [
-    { "id": "farketmez_s1", "text": "[Fark etmez] kaç kişi gelirse.", "note": "it doesn't matter how many people come" },
-    { "id": "farketmez_s2", "text": "Hangi kitabı alırsan [fark etmez].", "note": "it doesn't matter which book you take" },
-    { "id": "farketmez_s3", "text": "[Fark etmez] size, yapabiliriz.", "note": "it makes no difference to you, we can do it" },
-    { "id": "farketmez_s4", "text": "[Fark etmez] ne zaman gidersek.", "note": "it doesn't matter when we go" }
+    {
+      "id": "farketmez_s1",
+      "text": "[Fark etmez] kaç kişi gelirse.",
+      "note": null
+    },
+    {
+      "id": "farketmez_s2",
+      "text": "Hangi kitabı alırsan [fark etmez].",
+      "note": null
+    },
+    {
+      "id": "farketmez_s3",
+      "text": "[Fark etmez] size, yapabiliriz.",
+      "note": null
+    },
+    {
+      "id": "farketmez_s4",
+      "text": "[Fark etmez] ne zaman gidersek.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "farketmez_r1",
       "prompt": "Önemli değil, aynı şey. Ne söylersin?",
-      "accepted_forms": ["fark etmez"],
+      "accepted_forms": [
+        "fark etmez"
+      ],
       "note": null
     },
     {
       "id": "farketmez_r2",
       "prompt": "Hangi renkle giyinirsen [fark etmez].",
-      "accepted_forms": ["fark etmez"],
+      "accepted_forms": [
+        "fark etmez"
+      ],
       "note": null
     }
   ]

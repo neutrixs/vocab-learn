@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "pepper, chili pepper",
   "sentences": [
-    { "id": "biber_s1", "text": "Yemeke [biber] kat.", "note": null },
-    { "id": "biber_s2", "text": "Kırmızı [biber] sağlıklı.", "note": null },
-    { "id": "biber_s3", "text": "Bu yemek çok [biberlendirici].", "note": "spicy" },
-    { "id": "biber_s4", "text": "[Biber] çorbası lezzetli.", "note": null }
+    {
+      "id": "biber_s1",
+      "text": "Yemeke [biber] kat.",
+      "note": null
+    },
+    {
+      "id": "biber_s2",
+      "text": "Kırmızı [biber] sağlıklı.",
+      "note": null
+    },
+    {
+      "id": "biber_s3",
+      "text": "Bu yemek çok [biberlendirici].",
+      "note": null
+    },
+    {
+      "id": "biber_s4",
+      "text": "[Biber] çorbası lezzetli.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "biber_r1",
       "prompt": "Acı tat veren baharat hangisidir?",
-      "accepted_forms": ["biber"],
+      "accepted_forms": [
+        "biber"
+      ],
       "note": null
     },
     {
       "id": "biber_r2",
       "prompt": "Yemekte acılık için ... ekleriz.",
-      "accepted_forms": ["biber"],
+      "accepted_forms": [
+        "biber"
+      ],
       "note": null
     }
   ]

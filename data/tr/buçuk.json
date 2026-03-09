@@ -5,22 +5,42 @@
   "part_of_speech": "adjective",
   "english_gloss": "and a half (used with numbers)",
   "sentences": [
-    { "id": "bucuk_s1", "text": "Saat beş [buçuk].", "note": "5:30" },
-    { "id": "bucuk_s2", "text": "İki buçuk saat.", "note": null },
-    { "id": "bucuk_s3", "text": "Üç [buçuk] kilo aldım.", "note": null },
-    { "id": "bucuk_s4", "text": "[Buçuk] saatte bitirecek.", "note": null }
+    {
+      "id": "bucuk_s1",
+      "text": "Saat beş [buçuk].",
+      "note": null
+    },
+    {
+      "id": "bucuk_s2",
+      "text": "İki buçuk saat.",
+      "note": null
+    },
+    {
+      "id": "bucuk_s3",
+      "text": "Üç [buçuk] kilo aldım.",
+      "note": null
+    },
+    {
+      "id": "bucuk_s4",
+      "text": "[Buçuk] saatte bitirecek.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "bucuk_r1",
       "prompt": "5.5 olan sayı: 'Saat beş [...]'",
-      "accepted_forms": ["buçuk"],
+      "accepted_forms": [
+        "buçuk"
+      ],
       "note": null
     },
     {
       "id": "bucuk_r2",
       "prompt": "2.5 saat: 'İki ... saat'",
-      "accepted_forms": ["buçuk"],
+      "accepted_forms": [
+        "buçuk"
+      ],
       "note": null
     }
   ]

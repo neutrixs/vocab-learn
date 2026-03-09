@@ -5,22 +5,46 @@
   "part_of_speech": "noun",
   "english_gloss": "cook, chef",
   "sentences": [
-    { "id": "asci_s1", "text": "Resepsiyon [aşçısı] lezzetli yemekler yapar.", "note": null },
-    { "id": "asci_s2", "text": "[Aşçı] mutfakta yemek hazırlıyor.", "note": null },
-    { "id": "asci_s3", "text": "Iyi bir [aşçı] bulmak zordur.", "note": "It's hard to find a good cook" },
-    { "id": "asci_s4", "text": "[Aşçıdan] sos istedi.", "note": "He asked the cook for sauce" }
+    {
+      "id": "asci_s1",
+      "text": "Resepsiyon [aşçısı] lezzetli yemekler yapar.",
+      "note": null
+    },
+    {
+      "id": "asci_s2",
+      "text": "[Aşçı] mutfakta yemek hazırlıyor.",
+      "note": null
+    },
+    {
+      "id": "asci_s3",
+      "text": "Iyi bir [aşçı] bulmak zordur.",
+      "note": null
+    },
+    {
+      "id": "asci_s4",
+      "text": "[Aşçıdan] sos istedi.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "asci_r1",
       "prompt": "Mutfakta yemek hazırlayan kişiye ne denir?",
-      "accepted_forms": ["aşçı", "aşçıdır", "aşçılar"],
+      "accepted_forms": [
+        "aşçı",
+        "aşçıdır",
+        "aşçılar"
+      ],
       "note": null
     },
     {
       "id": "asci_r2",
       "prompt": "Şef olarak misafirlerine yemek yapan iş sahibine ne denir?",
-      "accepted_forms": ["aşçı", "aşçıdır", "iyi aşçı"],
+      "accepted_forms": [
+        "aşçı",
+        "aşçıdır",
+        "iyi aşçı"
+      ],
       "note": null
     }
   ]

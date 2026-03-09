@@ -5,22 +5,45 @@
   "part_of_speech": "verb",
   "english_gloss": "to lose, to miss",
   "sentences": [
-    { "id": "kaybetmek_s1", "text": "Anahtar [kaybettim].", "note": null },
-    { "id": "kaybetmek_s2", "text": "Futbol maçında [kaybettik].", "note": null },
-    { "id": "kaybetmek_s3", "text": "Zamanı [kaybetmemeliyiz].", "note": null },
-    { "id": "kaybetmek_s4", "text": "Umuttu [kaybetmedi].", "note": "didn't lose hope" }
+    {
+      "id": "kaybetmek_s1",
+      "text": "Anahtar [kaybettim].",
+      "note": null
+    },
+    {
+      "id": "kaybetmek_s2",
+      "text": "Futbol maçında [kaybettik].",
+      "note": null
+    },
+    {
+      "id": "kaybetmek_s3",
+      "text": "Zamanı [kaybetmemeliyiz].",
+      "note": null
+    },
+    {
+      "id": "kaybetmek_s4",
+      "text": "Umuttu [kaybetmedi].",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "kaybetmek_r1",
       "prompt": "Cüzdanını bulamıyorsun. 'Cüzdan ...' diyorsun.",
-      "accepted_forms": ["kaybettim", "kayıp", "kaybetmiş"],
+      "accepted_forms": [
+        "kaybettim",
+        "kayıp",
+        "kaybetmiş"
+      ],
       "note": null
     },
     {
       "id": "kaybetmek_r2",
       "prompt": "Yarışta ikinci geldim. 'Ben ... diyorum.'",
-      "accepted_forms": ["kaybettim", "kaybediyorum"],
+      "accepted_forms": [
+        "kaybettim",
+        "kaybediyorum"
+      ],
       "note": null
     }
   ]

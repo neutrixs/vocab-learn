@@ -5,22 +5,45 @@
   "part_of_speech": "verb",
   "english_gloss": "to marry, to get married",
   "sentences": [
-    { "id": "evlenmek_s1", "text": "[Evlendim] geçen yıl mayısta.", "note": "I got married last May" },
-    { "id": "evlenmek_s2", "text": "[Evlenmek] istemiyorum henüz.", "note": "I don't want to get married yet" },
-    { "id": "evlenmek_s3", "text": "Kızı ile [evlenecek] sonbaharda.", "note": "he will marry the girl in autumn" },
-    { "id": "evlenmek_s4", "text": "[Evlenmeden] önce söyle.", "note": "tell me before getting married" }
+    {
+      "id": "evlenmek_s1",
+      "text": "[Evlendim] geçen yıl mayısta.",
+      "note": null
+    },
+    {
+      "id": "evlenmek_s2",
+      "text": "[Evlenmek] istemiyorum henüz.",
+      "note": null
+    },
+    {
+      "id": "evlenmek_s3",
+      "text": "Kızı ile [evlenecek] sonbaharda.",
+      "note": null
+    },
+    {
+      "id": "evlenmek_s4",
+      "text": "[Evlenmeden] önce söyle.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "evlenmek_r1",
       "prompt": "Evlilik yapmak, karı koca olmak. Ne yapmışsın?",
-      "accepted_forms": ["evlendim", "evlenmek", "evlenecek"],
+      "accepted_forms": [
+        "evlendim",
+        "evlenmek",
+        "evlenecek"
+      ],
       "note": null
     },
     {
       "id": "evlenmek_r2",
       "prompt": "[Evlendim] bu yıl.",
-      "accepted_forms": ["evlendim", "evlenmek"],
+      "accepted_forms": [
+        "evlendim",
+        "evlenmek"
+      ],
       "note": null
     }
   ]

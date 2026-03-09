@@ -5,22 +5,42 @@
   "part_of_speech": "adjective",
   "english_gloss": "old, ancient, former",
   "sentences": [
-    { "id": "eski_s1", "text": "Bu [eski] bir kitap, çok değerli.", "note": null },
-    { "id": "eski_s2", "text": "[Eski] bir eve taşındı.", "note": "he moved to an old house" },
-    { "id": "eski_s3", "text": "[Eski] Türkçe dilimiz çok güzel.", "note": "old Turkish language" },
-    { "id": "eski_s4", "text": "[Eski] arkadaşım geldi ziyarete.", "note": "'eski arkadaşım' = my old friend (from long ago)" }
+    {
+      "id": "eski_s1",
+      "text": "Bu [eski] bir kitap, çok değerli.",
+      "note": null
+    },
+    {
+      "id": "eski_s2",
+      "text": "[Eski] bir eve taşındı.",
+      "note": null
+    },
+    {
+      "id": "eski_s3",
+      "text": "[Eski] Türkçe dilimiz çok güzel.",
+      "note": null
+    },
+    {
+      "id": "eski_s4",
+      "text": "[Eski] arkadaşım geldi ziyarete.",
+      "note": "'eski arkadaşım' = my old friend (from long ago)"
+    }
   ],
   "recall_prompts": [
     {
       "id": "eski_r1",
       "prompt": "Yeni olmayan, eski çağlardan. Ne denir?",
-      "accepted_forms": ["eski"],
+      "accepted_forms": [
+        "eski"
+      ],
       "note": null
     },
     {
       "id": "eski_r2",
       "prompt": "[Eski] ev onarım gerekiyor.",
-      "accepted_forms": ["eski"],
+      "accepted_forms": [
+        "eski"
+      ],
       "note": null
     }
   ]

@@ -18,7 +18,7 @@
     {
       "id": "rastgele_s3",
       "text": "[Rastgele] konuşmanın bir faydası yok.",
-      "note": "random talking"
+      "note": null
     },
     {
       "id": "rastgele_s4",
@@ -30,13 +30,17 @@
     {
       "id": "rastgele_r1",
       "prompt": "Belirli bir plan ya da düzen olmadan anlamındaki sıfat nedir?",
-      "accepted_forms": ["rastgele"],
+      "accepted_forms": [
+        "rastgele"
+      ],
       "note": null
     },
     {
       "id": "rastgele_r2",
       "prompt": "Random anlamındaki Türkçe sözcük hangisidir?",
-      "accepted_forms": ["rastgele"],
+      "accepted_forms": [
+        "rastgele"
+      ],
       "note": null
     }
   ]

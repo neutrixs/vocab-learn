@@ -5,22 +5,44 @@
   "part_of_speech": "noun",
   "english_gloss": "Turkish Post, Telegraph and Telephone Organization",
   "sentences": [
-    { "id": "ptt_s1", "text": "[P.T.T.] Türkiye'nin posta kuruluşu.", "note": "'P.T.T.' = PTT" },
-    { "id": "ptt_s2", "text": "[P.T.T.]ye gitiyorum paket göndermek için.", "note": "'P.T.T.ye' = to PTT" },
-    { "id": "ptt_s3", "text": "[P.T.T.] çalışanları iyi hizmet veriyor.", "note": "'P.T.T. çalışanları' = PTT employees" },
-    { "id": "ptt_s4", "text": "[P.T.T.]den telgraf gönderip alırız.", "note": "'P.T.T.den' = from PTT" }
+    {
+      "id": "ptt_s1",
+      "text": "[P.T.T.] Türkiye'nin posta kuruluşu.",
+      "note": null
+    },
+    {
+      "id": "ptt_s2",
+      "text": "[P.T.T.]ye gitiyorum paket göndermek için.",
+      "note": null
+    },
+    {
+      "id": "ptt_s3",
+      "text": "[P.T.T.] çalışanları iyi hizmet veriyor.",
+      "note": "'P.T.T. çalışanları' = PTT employees"
+    },
+    {
+      "id": "ptt_s4",
+      "text": "[P.T.T.]den telgraf gönderip alırız.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "ptt_r1",
       "prompt": "Türkiye'nin posta, telgraf ve telefon hizmetleri kuruluşunun kısaltması nedir?",
-      "accepted_forms": ["P.T.T.", "PTT"],
+      "accepted_forms": [
+        "P.T.T.",
+        "PTT"
+      ],
       "note": null
     },
     {
       "id": "ptt_r2",
       "prompt": "Mektup göndermek için ... git.",
-      "accepted_forms": ["P.T.T.", "PTT"],
+      "accepted_forms": [
+        "P.T.T.",
+        "PTT"
+      ],
       "note": null
     }
   ]

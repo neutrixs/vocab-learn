@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "pharmacist",
   "sentences": [
-    { "id": "eczaci_s1", "text": "[Eczacı] ilaçları hazırlıyor.", "note": null },
-    { "id": "eczaci_s2", "text": "[Eczacıya] sordum bu ilaç hakkında.", "note": null },
-    { "id": "eczaci_s3", "text": "[Eczacıdan] reçetesiz ilaç alamazsın.", "note": null },
-    { "id": "eczaci_s4", "text": "Eczacı lisesinde okudu.", "note": "pharmacy school" }
+    {
+      "id": "eczaci_s1",
+      "text": "[Eczacı] ilaçları hazırlıyor.",
+      "note": null
+    },
+    {
+      "id": "eczaci_s2",
+      "text": "[Eczacıya] sordum bu ilaç hakkında.",
+      "note": null
+    },
+    {
+      "id": "eczaci_s3",
+      "text": "[Eczacıdan] reçetesiz ilaç alamazsın.",
+      "note": null
+    },
+    {
+      "id": "eczaci_s4",
+      "text": "Eczacı lisesinde okudu.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "eczaci_r1",
       "prompt": "İlaç satan ve hazırlayan kişi. Ne denir?",
-      "accepted_forms": ["eczacı"],
+      "accepted_forms": [
+        "eczacı"
+      ],
       "note": null
     },
     {
       "id": "eczaci_r2",
       "prompt": "[Eczacı] bana bu ilaçı tavsiye etti.",
-      "accepted_forms": ["eczacı"],
+      "accepted_forms": [
+        "eczacı"
+      ],
       "note": null
     }
   ]

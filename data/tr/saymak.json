@@ -5,22 +5,46 @@
   "part_of_speech": "verb",
   "english_gloss": "to count, to number, to enumerate, to consider",
   "sentences": [
-    { "id": "saymak_s1", "text": "Bir, iki, üç [say].", "note": "imperative" },
-    { "id": "saymak_s2", "text": "[Saydığında] hasta değilim.", "note": null },
-    { "id": "saymak_s3", "text": "Onu bir dost [sayarım].", "note": "to consider him a friend" },
-    { "id": "saymak_s4", "text": "[Saydı] yüz kişi geldi.", "note": "counted 100 people" }
+    {
+      "id": "saymak_s1",
+      "text": "Bir, iki, üç [say].",
+      "note": null
+    },
+    {
+      "id": "saymak_s2",
+      "text": "[Saydığında] hasta değilim.",
+      "note": null
+    },
+    {
+      "id": "saymak_s3",
+      "text": "Onu bir dost [sayarım].",
+      "note": null
+    },
+    {
+      "id": "saymak_s4",
+      "text": "[Saydı] yüz kişi geldi.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "saymak_r1",
       "prompt": "Bir, iki, üç sırasıyla söylemek ne demek?",
-      "accepted_forms": ["saymak", "sayı söylemek", "numaralandırmak"],
+      "accepted_forms": [
+        "saymak",
+        "sayı söylemek",
+        "numaralandırmak"
+      ],
       "note": null
     },
     {
       "id": "saymak_r2",
       "prompt": "Birini önemli bir kişi düşünmek ne eylemdir?",
-      "accepted_forms": ["saymak", "düşünmek", "sayılı"],
+      "accepted_forms": [
+        "saymak",
+        "düşünmek",
+        "sayılı"
+      ],
       "note": null
     }
   ]

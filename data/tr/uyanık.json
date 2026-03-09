@@ -14,7 +14,7 @@
     {
       "id": "uyanik_r1",
       "prompt": "Birisi her zaman dikkatli, fark eder her şeyi. Bu kişi ne tür?",
-      "accepted_forms": ["uyanık", "dikkat"},
+      "accepted_forms": ["uyanık", "dikkat"],
       "note": null
     }
   ]

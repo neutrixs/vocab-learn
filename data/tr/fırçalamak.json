@@ -5,22 +5,45 @@
   "part_of_speech": "verb",
   "english_gloss": "to brush, to scrub",
   "sentences": [
-    { "id": "fircalamak_s1", "text": "[Fırçaladım] dişlerimi sabah.", "note": "I brushed my teeth in the morning" },
-    { "id": "fircalamak_s2", "text": "[Fırçala] ayakkabılarını, kirli.", "note": "brush your shoes, they're dirty" },
-    { "id": "fircalamak_s3", "text": "[Fırçalayacağım] saçımı öğleden sonra.", "note": "I will brush my hair in the afternoon" },
-    { "id": "fircalamak_s4", "text": "[Fırçalama] unutma dişlerini.", "note": "don't forget to brush your teeth" }
+    {
+      "id": "fircalamak_s1",
+      "text": "[Fırçaladım] dişlerimi sabah.",
+      "note": null
+    },
+    {
+      "id": "fircalamak_s2",
+      "text": "[Fırçala] ayakkabılarını, kirli.",
+      "note": null
+    },
+    {
+      "id": "fircalamak_s3",
+      "text": "[Fırçalayacağım] saçımı öğleden sonra.",
+      "note": null
+    },
+    {
+      "id": "fircalamak_s4",
+      "text": "[Fırçalama] unutma dişlerini.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "fircalamak_r1",
       "prompt": "Fırça ile temizlemek. Ne yapmışsın?",
-      "accepted_forms": ["fırçaladım", "fırçalamak", "fırçalıyor"],
+      "accepted_forms": [
+        "fırçaladım",
+        "fırçalamak",
+        "fırçalıyor"
+      ],
       "note": null
     },
     {
       "id": "fircalamak_r2",
       "prompt": "[Fırçala] dişlerini iyi temiz et.",
-      "accepted_forms": ["fırçala", "fırçalamak"],
+      "accepted_forms": [
+        "fırçala",
+        "fırçalamak"
+      ],
       "note": null
     }
   ]

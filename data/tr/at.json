@@ -5,22 +5,45 @@
   "part_of_speech": "noun",
   "english_gloss": "horse",
   "sentences": [
-    { "id": "at_s1", "text": "[At] çiftlikte yaşıyor.", "note": "The horse lives on the farm" },
-    { "id": "at_s2", "text": "[Atın] yemeği bereket versin.", "note": "'atın' = the horse's (possessive)" },
-    { "id": "at_s3", "text": "[Ata] bir daha asla binmeyeceğim.", "note": "'ata' = on the horse (dative)" },
-    { "id": "at_s4", "text": "Türkiye'de birçok [at] vardır.", "note": null }
+    {
+      "id": "at_s1",
+      "text": "[At] çiftlikte yaşıyor.",
+      "note": null
+    },
+    {
+      "id": "at_s2",
+      "text": "[Atın] yemeği bereket versin.",
+      "note": "'atın' = the horse's (possessive)"
+    },
+    {
+      "id": "at_s3",
+      "text": "[Ata] bir daha asla binmeyeceğim.",
+      "note": null
+    },
+    {
+      "id": "at_s4",
+      "text": "Türkiye'de birçok [at] vardır.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "at_r1",
       "prompt": "Dört ayaklı ve üzerinde binebilecek bir hayvan. Ne adını taşır?",
-      "accepted_forms": ["at", "atı", "ata"],
+      "accepted_forms": [
+        "at",
+        "atı",
+        "ata"
+      ],
       "note": null
     },
     {
       "id": "at_r2",
       "prompt": "Binme hayvanı. Hangisidir?",
-      "accepted_forms": ["at", "atlar"],
+      "accepted_forms": [
+        "at",
+        "atlar"
+      ],
       "note": null
     }
   ]

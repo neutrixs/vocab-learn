@@ -5,22 +5,44 @@
   "part_of_speech": "noun",
   "english_gloss": "money",
   "sentences": [
-    { "id": "para_s1", "text": "[Para] benim değeri var.", "note": null },
-    { "id": "para_s2", "text": "Seninle [para]m yok.", "note": "'param' = my money" },
-    { "id": "para_s3", "text": "[Para] kaçak mı?", "note": "slang: 'is your money missing?'" },
-    { "id": "para_s4", "text": "Ne [para] lazım?", "note": null }
+    {
+      "id": "para_s1",
+      "text": "[Para] benim değeri var.",
+      "note": null
+    },
+    {
+      "id": "para_s2",
+      "text": "Seninle [para]m yok.",
+      "note": null
+    },
+    {
+      "id": "para_s3",
+      "text": "[Para] kaçak mı?",
+      "note": null
+    },
+    {
+      "id": "para_s4",
+      "text": "Ne [para] lazım?",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "para_r1",
       "prompt": "Alışveriş yapmak için gereken şey nedir?",
-      "accepted_forms": ["para", "kur"],
+      "accepted_forms": [
+        "para",
+        "kur"
+      ],
       "note": null
     },
     {
       "id": "para_r2",
       "prompt": "Yeterli ... var mı senin?",
-      "accepted_forms": ["para", "paraların"],
+      "accepted_forms": [
+        "para",
+        "paraların"
+      ],
       "note": null
     }
   ]

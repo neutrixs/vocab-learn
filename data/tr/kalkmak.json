@@ -5,22 +5,48 @@
   "part_of_speech": "verb",
   "english_gloss": "to get up, to rise, to stand up",
   "sentences": [
-    { "id": "kalkmak_s1", "text": "Her sabah saat yedide [kalkıyorum].", "note": null },
-    { "id": "kalkmak_s2", "text": "Öğretmen tahtaya yazmak için [kalktı].", "note": null },
-    { "id": "kalkmak_s3", "text": "Uçak tam zamanında [kalktı].", "note": "also means 'to take off' for aircraft" },
-    { "id": "kalkmak_s4", "text": "Çok yorgundum, yataktan [kalkamadım].", "note": null }
+    {
+      "id": "kalkmak_s1",
+      "text": "Her sabah saat yedide [kalkıyorum].",
+      "note": null
+    },
+    {
+      "id": "kalkmak_s2",
+      "text": "Öğretmen tahtaya yazmak için [kalktı].",
+      "note": null
+    },
+    {
+      "id": "kalkmak_s3",
+      "text": "Uçak tam zamanında [kalktı].",
+      "note": null
+    },
+    {
+      "id": "kalkmak_s4",
+      "text": "Çok yorgundum, yataktan [kalkamadım].",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "kalkmak_r1",
       "prompt": "Sabah alarmın çaldı. Yataktan ne yapman gerekiyor?",
-      "accepted_forms": ["kalkmak", "kalkmalıyım", "kalkıyorum", "kalkmam gerekiyor", "kalk"],
+      "accepted_forms": [
+        "kalkmak",
+        "kalkmalıyım",
+        "kalkıyorum",
+        "kalkmam gerekiyor",
+        "kalk"
+      ],
       "note": null
     },
     {
       "id": "kalkmak_r2",
       "prompt": "Uçak pistте hareket etmeye başlıyor. Biraz sonra ne yapacak?",
-      "accepted_forms": ["kalkacak", "kalkmak", "kalkar"],
+      "accepted_forms": [
+        "kalkacak",
+        "kalkmak",
+        "kalkar"
+      ],
       "note": null
     }
   ]

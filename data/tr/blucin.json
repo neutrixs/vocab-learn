@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "jeans, denim pants",
   "sentences": [
-    { "id": "blucin_s1", "text": "[Blucin] giymek rahat.", "note": null },
-    { "id": "blucin_s2", "text": "[Blucinleri] yıkayacak mısın?", "note": "plural" },
-    { "id": "blucin_s3", "text": "Mavi [blucin] seviyorum.", "note": null },
-    { "id": "blucin_s4", "text": "[Blucininin] rengi solmuş.", "note": null }
+    {
+      "id": "blucin_s1",
+      "text": "[Blucin] giymek rahat.",
+      "note": null
+    },
+    {
+      "id": "blucin_s2",
+      "text": "[Blucinleri] yıkayacak mısın?",
+      "note": null
+    },
+    {
+      "id": "blucin_s3",
+      "text": "Mavi [blucin] seviyorum.",
+      "note": null
+    },
+    {
+      "id": "blucin_s4",
+      "text": "[Blucininin] rengi solmuş.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "blucin_r1",
       "prompt": "Pantolonun bir türü: '[...]' giyiyorum.",
-      "accepted_forms": ["blucin"],
+      "accepted_forms": [
+        "blucin"
+      ],
       "note": null
     },
     {
       "id": "blucin_r2",
       "prompt": "Denim pantolonun Türkçe adı: '... taşıyor.'",
-      "accepted_forms": ["blucin"],
+      "accepted_forms": [
+        "blucin"
+      ],
       "note": null
     }
   ]

@@ -5,22 +5,46 @@
   "part_of_speech": "verb",
   "english_gloss": "to like, to enjoy, to approve of",
   "sentences": [
-    { "id": "begenmek_s1", "text": "Bu kitabı [beğendim].", "note": "I liked this book" },
-    { "id": "begenmek_s2", "text": "[Beğenmiyorum] onu.", "note": "I don't like him" },
-    { "id": "begenmek_s3", "text": "[Beğenecek] misin?", "note": "Will you like it?" },
-    { "id": "begenmek_s4", "text": "[Beğendiğin] şey burada.", "note": "What you like is here" }
+    {
+      "id": "begenmek_s1",
+      "text": "Bu kitabı [beğendim].",
+      "note": null
+    },
+    {
+      "id": "begenmek_s2",
+      "text": "[Beğenmiyorum] onu.",
+      "note": null
+    },
+    {
+      "id": "begenmek_s3",
+      "text": "[Beğenecek] misin?",
+      "note": null
+    },
+    {
+      "id": "begenmek_s4",
+      "text": "[Beğendiğin] şey burada.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "begenmek_r1",
       "prompt": "Bir şeyi sevmek, hoşlanmak ne demek?",
-      "accepted_forms": ["beğenmek", "beğendim", "hoşlanmak"],
+      "accepted_forms": [
+        "beğenmek",
+        "beğendim",
+        "hoşlanmak"
+      ],
       "note": null
     },
     {
       "id": "begenmek_r2",
       "prompt": "Bir arkadaşının yeni elbisesini çok güzel buluyorsun. Ne diyorsun?",
-      "accepted_forms": ["beğendim", "beğenmek", "çok güzel"],
+      "accepted_forms": [
+        "beğendim",
+        "beğenmek",
+        "çok güzel"
+      ],
       "note": null
     }
   ]

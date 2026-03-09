@@ -18,7 +18,7 @@
     {
       "id": "gorunus_s3",
       "text": "İlk [görünüş]ten hoşnut kaldı.",
-      "note": "first impression"
+      "note": null
     },
     {
       "id": "gorunus_s4",
@@ -30,13 +30,18 @@
     {
       "id": "gorunus_r1",
       "prompt": "Birisinin ya da bir şeyin nasıl göründüğü anlamındaki kelime nedir?",
-      "accepted_forms": ["görünüş", "görünüşü"],
+      "accepted_forms": [
+        "görünüş",
+        "görünüşü"
+      ],
       "note": null
     },
     {
       "id": "gorunus_r2",
       "prompt": "First ... demeyi Türkçeye çevir.",
-      "accepted_forms": ["görünüş"],
+      "accepted_forms": [
+        "görünüş"
+      ],
       "note": null
     }
   ]

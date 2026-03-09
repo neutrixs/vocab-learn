@@ -5,22 +5,46 @@
   "part_of_speech": "verb",
   "english_gloss": "to look, to look at, to watch, to see, to care",
   "sentences": [
-    { "id": "bakmak_s1", "text": "[Bakıyor] musun?", "note": "Are you looking?" },
-    { "id": "bakmak_s2", "text": "[Bak] buraya!", "note": "Look here!" },
-    { "id": "bakmak_s3", "text": "[Bakacağım] filimi.", "note": "I'll watch my movie" },
-    { "id": "bakmak_s4", "text": "[Bakmalı] çocuğunuza.", "note": "You should care for your child" }
+    {
+      "id": "bakmak_s1",
+      "text": "[Bakıyor] musun?",
+      "note": null
+    },
+    {
+      "id": "bakmak_s2",
+      "text": "[Bak] buraya!",
+      "note": null
+    },
+    {
+      "id": "bakmak_s3",
+      "text": "[Bakacağım] filimi.",
+      "note": null
+    },
+    {
+      "id": "bakmak_s4",
+      "text": "[Bakmalı] çocuğunuza.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "bakmak_r1",
       "prompt": "Gözlerini açarak bir şeyi görmeyi denemek ne demek?",
-      "accepted_forms": ["bakmak", "bakıyorum", "bakarım"],
+      "accepted_forms": [
+        "bakmak",
+        "bakıyorum",
+        "bakarım"
+      ],
       "note": null
     },
     {
       "id": "bakmak_r2",
       "prompt": "Arkadaşının yüzüne ne yaparsın?",
-      "accepted_forms": ["bakarım", "bakmak", "bakıyorum"],
+      "accepted_forms": [
+        "bakarım",
+        "bakmak",
+        "bakıyorum"
+      ],
       "note": null
     }
   ]

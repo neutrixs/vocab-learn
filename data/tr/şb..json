@@ -5,16 +5,35 @@
   "part_of_speech": "noun",
   "english_gloss": "ibid. (ibidem), the same source",
   "sentences": [
-    { "id": "şb._s1", "text": "Kaynakta açıklandığı gibi [şb.] yazısı önceki sayfada bulunur.", "note": "abbreviation used in academic writing" },
-    { "id": "şb._s2", "text": "Sosyoloji kitabında [şb.] sembolü tekrar kullanımı gösterir.", "note": null },
-    { "id": "şb._s3", "text": "[Şb.] demek aynı kaynaktan devam ediyor anlamına gelir.", "note": null },
-    { "id": "şb._s4", "text": "Dipnotta [şb.] görmek, önceki notla aynı kaynak demektir.", "note": null }
+    {
+      "id": "şb._s1",
+      "text": "Kaynakta açıklandığı gibi [şb.] yazısı önceki sayfada bulunur.",
+      "note": null
+    },
+    {
+      "id": "şb._s2",
+      "text": "Sosyoloji kitabında [şb.] sembolü tekrar kullanımı gösterir.",
+      "note": null
+    },
+    {
+      "id": "şb._s3",
+      "text": "[Şb.] demek aynı kaynaktan devam ediyor anlamına gelir.",
+      "note": null
+    },
+    {
+      "id": "şb._s4",
+      "text": "Dipnotta [şb.] görmek, önceki notla aynı kaynak demektir.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "şb._r1",
       "prompt": "Akademik metinlerde aynı kaynağın tekrar kullanıldığını gösteren kısaltma. Ne denir?",
-      "accepted_forms": ["şb.", "şb"],
+      "accepted_forms": [
+        "şb.",
+        "şb"
+      ],
       "note": null
     }
   ]

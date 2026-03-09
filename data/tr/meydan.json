@@ -5,22 +5,43 @@
   "part_of_speech": "noun",
   "english_gloss": "square, plaza, opportunity",
   "sentences": [
-    { "id": "meydan_s1", "text": "[Meydanında] oturuyorum.", "note": null },
-    { "id": "meydan_s2", "text": "Taksim [Meydanı] kalabalık.", "note": null },
-    { "id": "meydan_s3", "text": "[Meydanını] vermedim hiç.", "note": "didn't give a chance" },
-    { "id": "meydan_s4", "text": "[Meydanda] bekleyin.", "note": null }
+    {
+      "id": "meydan_s1",
+      "text": "[Meydanında] oturuyorum.",
+      "note": null
+    },
+    {
+      "id": "meydan_s2",
+      "text": "Taksim [Meydanı] kalabalık.",
+      "note": null
+    },
+    {
+      "id": "meydan_s3",
+      "text": "[Meydanını] vermedim hiç.",
+      "note": null
+    },
+    {
+      "id": "meydan_s4",
+      "text": "[Meydanda] bekleyin.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "meydan_r1",
       "prompt": "Geniş açık alan, kentin merkezi. Şehirde ... vardır.",
-      "accepted_forms": ["meydan", "meydanı"],
+      "accepted_forms": [
+        "meydan",
+        "meydanı"
+      ],
       "note": null
     },
     {
       "id": "meydan_r2",
       "prompt": "Bir fırsat veya moment. 'Ona ... vermedi.'",
-      "accepted_forms": ["meydan"],
+      "accepted_forms": [
+        "meydan"
+      ],
       "note": null
     }
   ]

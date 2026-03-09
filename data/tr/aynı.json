@@ -5,22 +5,46 @@
   "part_of_speech": "adjective",
   "english_gloss": "same, identical, the same",
   "sentences": [
-    { "id": "ayni_s1", "text": "O [aynı] şey değil.", "note": "That's not the same thing" },
-    { "id": "ayni_s2", "text": "Biz [aynı] fikirdeyiz.", "note": "We have the same opinion" },
-    { "id": "ayni_s3", "text": "[Aynı] anda çıktık.", "note": "We left at the same time" },
-    { "id": "ayni_s4", "text": "[Aynı] renk seviyorum.", "note": "I like the same color" }
+    {
+      "id": "ayni_s1",
+      "text": "O [aynı] şey değil.",
+      "note": null
+    },
+    {
+      "id": "ayni_s2",
+      "text": "Biz [aynı] fikirdeyiz.",
+      "note": null
+    },
+    {
+      "id": "ayni_s3",
+      "text": "[Aynı] anda çıktık.",
+      "note": null
+    },
+    {
+      "id": "ayni_s4",
+      "text": "[Aynı] renk seviyorum.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "ayni_r1",
       "prompt": "A ve B bir birbirinin kopyası. A ve B nasıl?",
-      "accepted_forms": ["aynı", "aynıdır", "aynı şey"],
+      "accepted_forms": [
+        "aynı",
+        "aynıdır",
+        "aynı şey"
+      ],
       "note": null
     },
     {
       "id": "ayni_r2",
       "prompt": "İkisi de kırmızı. Bunlar ne kadar renkli?",
-      "accepted_forms": ["aynı", "aynı renk", "aynı renkler"],
+      "accepted_forms": [
+        "aynı",
+        "aynı renk",
+        "aynı renkler"
+      ],
       "note": null
     }
   ]

@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "bread",
   "sentences": [
-    { "id": "ekmek_s1", "text": "Sabah [ekmek] ve peynir yiyorum.", "note": null },
-    { "id": "ekmek_s2", "text": "[Ekmeği] fırından aldım.", "note": "'ekmeği' = the bread (accusative)" },
-    { "id": "ekmek_s3", "text": "[Ekmeksiz] yemek olmaz.", "note": "idiom: food without bread isn't complete" },
-    { "id": "ekmek_s4", "text": "[Ekmek] para kazanmak.", "note": "idiom: earn one's living" }
+    {
+      "id": "ekmek_s1",
+      "text": "Sabah [ekmek] ve peynir yiyorum.",
+      "note": null
+    },
+    {
+      "id": "ekmek_s2",
+      "text": "[Ekmeği] fırından aldım.",
+      "note": "'ekmeği' = the bread (accusative)"
+    },
+    {
+      "id": "ekmek_s3",
+      "text": "[Ekmeksiz] yemek olmaz.",
+      "note": null
+    },
+    {
+      "id": "ekmek_s4",
+      "text": "[Ekmek] para kazanmak.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "ekmek_r1",
       "prompt": "Un ve water ile yapılan temel yiyecek. Ne denir?",
-      "accepted_forms": ["ekmek"],
+      "accepted_forms": [
+        "ekmek"
+      ],
       "note": null
     },
     {
       "id": "ekmek_r2",
       "prompt": "Sabah kahvaltısında [ekmek] ve çay içerim.",
-      "accepted_forms": ["ekmek"],
+      "accepted_forms": [
+        "ekmek"
+      ],
       "note": null
     }
   ]

@@ -5,22 +5,46 @@
   "part_of_speech": "adverb",
   "english_gloss": "maybe, perhaps, possibly",
   "sentences": [
-    { "id": "belki_s1", "text": "[Belki] gelirim.", "note": "Maybe I'll come" },
-    { "id": "belki_s2", "text": "[Belki] değildir.", "note": "Maybe it's not" },
-    { "id": "belki_s3", "text": "[Belki de] haklı.", "note": "Maybe he's right" },
-    { "id": "belki_s4", "text": "[Belki] yarın.", "note": "Maybe tomorrow" }
+    {
+      "id": "belki_s1",
+      "text": "[Belki] gelirim.",
+      "note": null
+    },
+    {
+      "id": "belki_s2",
+      "text": "[Belki] değildir.",
+      "note": null
+    },
+    {
+      "id": "belki_s3",
+      "text": "[Belki de] haklı.",
+      "note": null
+    },
+    {
+      "id": "belki_s4",
+      "text": "[Belki] yarın.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "belki_r1",
       "prompt": "Emin değilim ama mümkündür. Nasıl başlar cümle?",
-      "accepted_forms": ["belki", "belki de", "mümkün"],
+      "accepted_forms": [
+        "belki",
+        "belki de",
+        "mümkün"
+      ],
       "note": null
     },
     {
       "id": "belki_r2",
       "prompt": "Olabilir, ama garantili değil. Sonunda hangi kelime gelir?",
-      "accepted_forms": ["belki", "belki de", "belki mi"],
+      "accepted_forms": [
+        "belki",
+        "belki de",
+        "belki mi"
+      ],
       "note": null
     }
   ]

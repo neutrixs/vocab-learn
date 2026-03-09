@@ -5,22 +5,44 @@
   "part_of_speech": "noun",
   "english_gloss": "sister",
   "sentences": [
-    { "id": "kizkardas_s1", "text": "[Kızkardeşim] benden iki yaş büyük.", "note": null },
-    { "id": "kizkardas_s2", "text": "Üç [kızkardeşi] var.", "note": "she has three sisters" },
-    { "id": "kizkardas_s3", "text": "[Kızkardeşlerim] ile gezelim.", "note": null },
-    { "id": "kizkardas_s4", "text": "[Kızkardeşin] telefon numarası nedir?", "note": null }
+    {
+      "id": "kizkardas_s1",
+      "text": "[Kızkardeşim] benden iki yaş büyük.",
+      "note": null
+    },
+    {
+      "id": "kizkardas_s2",
+      "text": "Üç [kızkardeşi] var.",
+      "note": null
+    },
+    {
+      "id": "kizkardas_s3",
+      "text": "[Kızkardeşlerim] ile gezelim.",
+      "note": null
+    },
+    {
+      "id": "kizkardas_s4",
+      "text": "[Kızkardeşin] telefon numarası nedir?",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "kizkardas_r1",
       "prompt": "Anne ve babandan gelen kız. O senin ... dır.",
-      "accepted_forms": ["kızkardeş", "kız kardeş"],
+      "accepted_forms": [
+        "kızkardeş",
+        "kız kardeş"
+      ],
       "note": null
     },
     {
       "id": "kizkardas_r2",
       "prompt": "Erkek kardeşinin zıttı. Benim ... var.",
-      "accepted_forms": ["kızkardeş", "kız kardeş"],
+      "accepted_forms": [
+        "kızkardeş",
+        "kız kardeş"
+      ],
       "note": null
     }
   ]

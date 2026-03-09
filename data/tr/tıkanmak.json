@@ -5,22 +5,47 @@
   "part_of_speech": "verb",
   "english_gloss": "to get blocked, to be clogged, to get stuck",
   "sentences": [
-    { "id": "tikanmak_s1", "text": "Mutfak lavabosunun borusu [tıkandı].", "note": null },
-    { "id": "tikanmak_s2", "text": "Trafik kazası yüzünden yol tamamen [tıkandı].", "note": null },
-    { "id": "tikanmak_s3", "text": "Hızlı yemek yeyince boğazı [tıkandı].", "note": null },
-    { "id": "tikanmak_s4", "text": "Proje o kadar karmaşık ki nereden başlayacağımı bilmiyorum; [tıkandım].", "note": "figurative: to be stuck/stumped" }
+    {
+      "id": "tikanmak_s1",
+      "text": "Mutfak lavabosunun borusu [tıkandı].",
+      "note": null
+    },
+    {
+      "id": "tikanmak_s2",
+      "text": "Trafik kazası yüzünden yol tamamen [tıkandı].",
+      "note": null
+    },
+    {
+      "id": "tikanmak_s3",
+      "text": "Hızlı yemek yeyince boğazı [tıkandı].",
+      "note": null
+    },
+    {
+      "id": "tikanmak_s4",
+      "text": "Proje o kadar karmaşık ki nereden başlayacağımı bilmiyorum; [tıkandım].",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "tikanmak_r1",
       "prompt": "Banyo borusundan su gitmiyor, su birikiyor. Boru ne olmuş?",
-      "accepted_forms": ["tıkandı", "boru tıkandı", "tıkanmış"],
+      "accepted_forms": [
+        "tıkandı",
+        "boru tıkandı",
+        "tıkanmış"
+      ],
       "note": null
     },
     {
       "id": "tikanmak_r2",
       "prompt": "Şehrin merkezinde arabalar hiç ilerleyemiyor. Yol ne olmuş?",
-      "accepted_forms": ["tıkandı", "yol tıkandı", "tıkanmış", "tıkanıyor"],
+      "accepted_forms": [
+        "tıkandı",
+        "yol tıkandı",
+        "tıkanmış",
+        "tıkanıyor"
+      ],
       "note": null
     }
   ]

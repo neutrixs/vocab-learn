@@ -5,22 +5,47 @@
   "part_of_speech": "verb",
   "english_gloss": "to become rich, to grow wealthy, to be enriched",
   "sentences": [
-    { "id": "zenginlesmek_s1", "text": "Adam kısa sürede [zenginleşti].", "note": null },
-    { "id": "zenginlesmek_s2", "text": "Yeni iş fırsatları sayesinde bölge hızla [zenginleşiyor].", "note": null },
-    { "id": "zenginlesmek_s3", "text": "Yabancı dil öğrenmek kelime dağarcığını [zenginleştirir].", "note": "figurative: to enrich one's vocabulary" },
-    { "id": "zenginlesmek_s4", "text": "Kültürel alışverişle toplum [zenginleşir].", "note": null }
+    {
+      "id": "zenginlesmek_s1",
+      "text": "Adam kısa sürede [zenginleşti].",
+      "note": null
+    },
+    {
+      "id": "zenginlesmek_s2",
+      "text": "Yeni iş fırsatları sayesinde bölge hızla [zenginleşiyor].",
+      "note": null
+    },
+    {
+      "id": "zenginlesmek_s3",
+      "text": "Yabancı dil öğrenmek kelime dağarcığını [zenginleştirir].",
+      "note": null
+    },
+    {
+      "id": "zenginlesmek_s4",
+      "text": "Kültürel alışverişle toplum [zenginleşir].",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "zenginlesmek_r1",
       "prompt": "Bir girişimci birkaç yıl içinde çok para kazandı. Bu kişi için ne diyebiliriz?",
-      "accepted_forms": ["zenginleşti", "çok zenginleşti", "zenginleşiyor"],
+      "accepted_forms": [
+        "zenginleşti",
+        "çok zenginleşti",
+        "zenginleşiyor"
+      ],
       "note": null
     },
     {
       "id": "zenginlesmek_r2",
       "prompt": "Kitap okumak insanın kelime bilgisini ve düşünce dünyasını nasıl etkiler?",
-      "accepted_forms": ["zenginleştirir", "zenginleşir", "zenginleştiriyor", "zenginleşmesini sağlar"],
+      "accepted_forms": [
+        "zenginleştirir",
+        "zenginleşir",
+        "zenginleştiriyor",
+        "zenginleşmesini sağlar"
+      ],
       "note": null
     }
   ]

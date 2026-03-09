@@ -5,22 +5,42 @@
   "part_of_speech": "adjective",
   "english_gloss": "married",
   "sentences": [
-    { "id": "evli_s1", "text": "O [evli] mi [bekar] mı?", "note": "is he married or single?" },
-    { "id": "evli_s2", "text": "[Evli] adamlar daha sorumlu.", "note": "married men are more responsible" },
-    { "id": "evli_s3", "text": "[Evli] yaşam güzel olabilir.", "note": "married life can be beautiful" },
-    { "id": "evli_s4", "text": "[Evli] bir kadındır çok çalışkan.", "note": "she's a married woman, works hard" }
+    {
+      "id": "evli_s1",
+      "text": "O [evli] mi [bekar] mı?",
+      "note": null
+    },
+    {
+      "id": "evli_s2",
+      "text": "[Evli] adamlar daha sorumlu.",
+      "note": null
+    },
+    {
+      "id": "evli_s3",
+      "text": "[Evli] yaşam güzel olabilir.",
+      "note": null
+    },
+    {
+      "id": "evli_s4",
+      "text": "[Evli] bir kadındır çok çalışkan.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "evli_r1",
       "prompt": "Evlenmiş, kocanın/karının var. Ne denir?",
-      "accepted_forms": ["evli"],
+      "accepted_forms": [
+        "evli"
+      ],
       "note": null
     },
     {
       "id": "evli_r2",
       "prompt": "[Evli] misin?",
-      "accepted_forms": ["evli"],
+      "accepted_forms": [
+        "evli"
+      ],
       "note": null
     }
   ]

@@ -5,22 +5,44 @@
   "part_of_speech": "noun",
   "english_gloss": "ministry, department of government",
   "sentences": [
-    { "id": "bakanhk_s1", "text": "[Bakanlık] yeni kararlar aldı.", "note": "The ministry took new decisions" },
-    { "id": "bakanhk_s2", "text": "Eğitim [Bakanlığı] öğretmen aldı.", "note": "The Ministry of Education hired teachers" },
-    { "id": "bakanhk_s3", "text": "[Bakanlıkta] çalışıyor.", "note": "He works at the ministry" },
-    { "id": "bakanhk_s4", "text": "[Bakanlığın] binası büyük.", "note": "The ministry's building is large" }
+    {
+      "id": "bakanhk_s1",
+      "text": "[Bakanlık] yeni kararlar aldı.",
+      "note": null
+    },
+    {
+      "id": "bakanhk_s2",
+      "text": "Eğitim [Bakanlığı] öğretmen aldı.",
+      "note": null
+    },
+    {
+      "id": "bakanhk_s3",
+      "text": "[Bakanlıkta] çalışıyor.",
+      "note": null
+    },
+    {
+      "id": "bakanhk_s4",
+      "text": "[Bakanlığın] binası büyük.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "bakanhk_r1",
       "prompt": "Hükümetin belli bir alanını yöneten kurumun adı nedir?",
-      "accepted_forms": ["bakanlık", "bakanlıklar"],
+      "accepted_forms": [
+        "bakanlık",
+        "bakanlıklar"
+      ],
       "note": null
     },
     {
       "id": "bakanhk_r2",
       "prompt": "Eğitim işlerini yöneten devlet kurumu neresinin adıdır?",
-      "accepted_forms": ["Eğitim Bakanlığı", "bakanlık"],
+      "accepted_forms": [
+        "Eğitim Bakanlığı",
+        "bakanlık"
+      ],
       "note": null
     }
   ]

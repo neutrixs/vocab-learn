@@ -5,22 +5,46 @@
   "part_of_speech": "noun",
   "english_gloss": "insurance; fuse (electrical)",
   "sentences": [
-    { "id": "sigorta_s1", "text": "Ev [sigortası] yaptırmayı unutmayın.", "note": null },
-    { "id": "sigorta_s2", "text": "[Sigorta] şirketi hasarı karşıladı.", "note": null },
-    { "id": "sigorta_s3", "text": "Elektrik kesiliyor, [sigorta] atmış olabilir.", "note": "sigorta atmak = fuse blowing" },
-    { "id": "sigorta_s4", "text": "Sağlık [sigortası] olmadan doktora gitmek pahalı.", "note": null }
+    {
+      "id": "sigorta_s1",
+      "text": "Ev [sigortası] yaptırmayı unutmayın.",
+      "note": null
+    },
+    {
+      "id": "sigorta_s2",
+      "text": "[Sigorta] şirketi hasarı karşıladı.",
+      "note": null
+    },
+    {
+      "id": "sigorta_s3",
+      "text": "Elektrik kesiliyor, [sigorta] atmış olabilir.",
+      "note": null
+    },
+    {
+      "id": "sigorta_s4",
+      "text": "Sağlık [sigortası] olmadan doktora gitmek pahalı.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "sigorta_r1",
       "prompt": "Evde yangın veya su baskını olduğunda maddi zararını karşılaması için hangi hizmeti alırsın?",
-      "accepted_forms": ["sigorta", "ev sigortası", "sigorta yaptırmak"],
+      "accepted_forms": [
+        "sigorta",
+        "ev sigortası",
+        "sigorta yaptırmak"
+      ],
       "note": null
     },
     {
       "id": "sigorta_r2",
       "prompt": "Evde elektrikler birden kesildi. Panoya baktığında hangi şeyin attığını kontrol edersin?",
-      "accepted_forms": ["sigorta", "sigortalar", "sigorta atmış"],
+      "accepted_forms": [
+        "sigorta",
+        "sigortalar",
+        "sigorta atmış"
+      ],
       "note": null
     }
   ]

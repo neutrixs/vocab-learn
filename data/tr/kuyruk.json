@@ -5,22 +5,44 @@
   "part_of_speech": "noun",
   "english_gloss": "tail, queue, line",
   "sentences": [
-    { "id": "kuyruk_s1", "text": "Kedi [kuyruğunu] hareket ettiriyor.", "note": null },
-    { "id": "kuyruk_s2", "text": "[Kuyrukta] beklemeli.", "note": "wait in line" },
-    { "id": "kuyruk_s3", "text": "Aslan [kuyruğu] güçlü.", "note": null },
-    { "id": "kuyruk_s4", "text": "[Kuyruk] kuyruğa başlamışsa geri dön.", "note": null }
+    {
+      "id": "kuyruk_s1",
+      "text": "Kedi [kuyruğunu] hareket ettiriyor.",
+      "note": null
+    },
+    {
+      "id": "kuyruk_s2",
+      "text": "[Kuyrukta] beklemeli.",
+      "note": null
+    },
+    {
+      "id": "kuyruk_s3",
+      "text": "Aslan [kuyruğu] güçlü.",
+      "note": null
+    },
+    {
+      "id": "kuyruk_s4",
+      "text": "[Kuyruk] kuyruğa başlamışsa geri dön.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "kuyruk_r1",
       "prompt": "Hayvanın arkasındaki çıkıntı. Kedinin ... var.",
-      "accepted_forms": ["kuyruk", "kuyruğu"],
+      "accepted_forms": [
+        "kuyruk",
+        "kuyruğu"
+      ],
       "note": null
     },
     {
       "id": "kuyruk_r2",
       "prompt": "Satış noktasında sıra oluşan yer. 'Para çekmek için ... beklemeli.'",
-      "accepted_forms": ["kuyruk", "kuyrukta"],
+      "accepted_forms": [
+        "kuyruk",
+        "kuyrukta"
+      ],
       "note": null
     }
   ]

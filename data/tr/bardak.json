@@ -5,22 +5,46 @@
   "part_of_speech": "noun",
   "english_gloss": "glass, cup, tumbler",
   "sentences": [
-    { "id": "bardak_s1", "text": "Su [bardağı] kırdı.", "note": "He broke the glass" },
-    { "id": "bardak_s2", "text": "[Bardağa] çay koy.", "note": "Pour tea in the cup" },
-    { "id": "bardak_s3", "text": "[Bardaklar] temiz.", "note": "The glasses are clean" },
-    { "id": "bardak_s4", "text": "[Bardaktan] su içiyorum.", "note": "I'm drinking water from the glass" }
+    {
+      "id": "bardak_s1",
+      "text": "Su [bardağı] kırdı.",
+      "note": null
+    },
+    {
+      "id": "bardak_s2",
+      "text": "[Bardağa] çay koy.",
+      "note": null
+    },
+    {
+      "id": "bardak_s3",
+      "text": "[Bardaklar] temiz.",
+      "note": null
+    },
+    {
+      "id": "bardak_s4",
+      "text": "[Bardaktan] su içiyorum.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "bardak_r1",
       "prompt": "İçecekleri içmek için kullanılan nesne nedir?",
-      "accepted_forms": ["bardak", "bardağı", "bardaklar"],
+      "accepted_forms": [
+        "bardak",
+        "bardağı",
+        "bardaklar"
+      ],
       "note": null
     },
     {
       "id": "bardak_r2",
       "prompt": "Çay veya suyu içeceğin bir kap nedir?",
-      "accepted_forms": ["bardak", "bardağa", "fincan"],
+      "accepted_forms": [
+        "bardak",
+        "bardağa",
+        "fincan"
+      ],
       "note": null
     }
   ]

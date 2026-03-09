@@ -5,22 +5,43 @@
   "part_of_speech": "adjective",
   "english_gloss": "comfortable, relaxed, easy",
   "sentences": [
-    { "id": "rahat_s1", "text": "Bu koltuk çok [rahat].", "note": null },
-    { "id": "rahat_s2", "text": "[Rahat] bir yer buldu.", "note": null },
-    { "id": "rahat_s3", "text": "[Rahat] elbiseler giy.", "note": "'rahat elbiseler' = comfortable clothes" },
-    { "id": "rahat_s4", "text": "Bu sınav [rahat] değildi.", "note": null }
+    {
+      "id": "rahat_s1",
+      "text": "Bu koltuk çok [rahat].",
+      "note": null
+    },
+    {
+      "id": "rahat_s2",
+      "text": "[Rahat] bir yer buldu.",
+      "note": null
+    },
+    {
+      "id": "rahat_s3",
+      "text": "[Rahat] elbiseler giy.",
+      "note": null
+    },
+    {
+      "id": "rahat_s4",
+      "text": "Bu sınav [rahat] değildi.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "rahat_r1",
       "prompt": "Fiziksel olarak kulaklık ve hoş hissettiren şeyleri tanımlamak için kullanılan kelime?",
-      "accepted_forms": ["rahat", "konforlu"],
+      "accepted_forms": [
+        "rahat",
+        "konforlu"
+      ],
       "note": null
     },
     {
       "id": "rahat_r2",
       "prompt": "Bu ayakkabı çok .....",
-      "accepted_forms": ["rahat"],
+      "accepted_forms": [
+        "rahat"
+      ],
       "note": null
     }
   ]

@@ -5,22 +5,43 @@
   "part_of_speech": "adjective",
   "english_gloss": "practical, handy, convenient",
   "sentences": [
-    { "id": "pratik_s1", "text": "[Pratik] bir çözüm buldum.", "note": "'pratik' = practical" },
-    { "id": "pratik_s2", "text": "[Pratik] yemekler yapmak kolay.", "note": "'pratik yemekler' = practical meals" },
-    { "id": "pratik_s3", "text": "Bu [pratik] bir araç.", "note": null },
-    { "id": "pratik_s4", "text": "[Pratik] olmak için dene.", "note": null }
+    {
+      "id": "pratik_s1",
+      "text": "[Pratik] bir çözüm buldum.",
+      "note": null
+    },
+    {
+      "id": "pratik_s2",
+      "text": "[Pratik] yemekler yapmak kolay.",
+      "note": null
+    },
+    {
+      "id": "pratik_s3",
+      "text": "Bu [pratik] bir araç.",
+      "note": null
+    },
+    {
+      "id": "pratik_s4",
+      "text": "[Pratik] olmak için dene.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "pratik_r1",
       "prompt": "Kullanımı kolay ve işe yarayan şeyleri tanımlamak için kullanılan sıfat?",
-      "accepted_forms": ["pratik", "kullanışlı"],
+      "accepted_forms": [
+        "pratik",
+        "kullanışlı"
+      ],
       "note": null
     },
     {
       "id": "pratik_r2",
       "prompt": "Bu ... çözüm hem hızlı hem ekonomik.",
-      "accepted_forms": ["pratik"],
+      "accepted_forms": [
+        "pratik"
+      ],
       "note": null
     }
   ]

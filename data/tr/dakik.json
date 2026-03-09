@@ -8,22 +8,22 @@
     {
       "id": "dakik_s1",
       "text": "O adam çok [dakik].",
-      "note": "he is very punctual"
+      "note": null
     },
     {
       "id": "dakik_s2",
       "text": "[Dakik] bir hesaplama.",
-      "note": "precise calculation"
+      "note": null
     },
     {
       "id": "dakik_s3",
       "text": "[Dakik] olmalısın.",
-      "note": "you should be precise"
+      "note": null
     },
     {
       "id": "dakik_s4",
       "text": "[Dakik] bilgiler verildi.",
-      "note": "exact information was given"
+      "note": null
     }
   ],
   "recall_prompts": [

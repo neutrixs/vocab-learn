@@ -5,22 +5,46 @@
   "part_of_speech": "verb",
   "english_gloss": "to faint, to pass out, to adore, to be crazy about",
   "sentences": [
-    { "id": "bayilmak_s1", "text": "[Bayıldı], hastaneye götür.", "note": "She fainted, take her to the hospital" },
-    { "id": "bayilmak_s2", "text": "[Bayılmadığı] şeker yok.", "note": "There's no candy she doesn't love" },
-    { "id": "bayilmak_s3", "text": "Bu filme [bayılıyorum].", "note": "I'm crazy about this movie" },
-    { "id": "bayilmak_s4", "text": "[Bayılmaktan] korktu.", "note": "He was afraid of fainting" }
+    {
+      "id": "bayilmak_s1",
+      "text": "[Bayıldı], hastaneye götür.",
+      "note": null
+    },
+    {
+      "id": "bayilmak_s2",
+      "text": "[Bayılmadığı] şeker yok.",
+      "note": null
+    },
+    {
+      "id": "bayilmak_s3",
+      "text": "Bu filme [bayılıyorum].",
+      "note": null
+    },
+    {
+      "id": "bayilmak_s4",
+      "text": "[Bayılmaktan] korktu.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "bayilmak_r1",
       "prompt": "Çok zayıf veya şok nedeniyle bilinç kaybetmek ne demek?",
-      "accepted_forms": ["bayılmak", "bayıldı", "bayılması"],
+      "accepted_forms": [
+        "bayılmak",
+        "bayıldı",
+        "bayılması"
+      ],
       "note": null
     },
     {
       "id": "bayilmak_r2",
       "prompt": "Bir şeyi çok çok sevmek, adeta çıldırmak ne demek?",
-      "accepted_forms": ["bayılmak", "bayılıyorum", "düşkün"],
+      "accepted_forms": [
+        "bayılmak",
+        "bayılıyorum",
+        "düşkün"
+      ],
       "note": null
     }
   ]

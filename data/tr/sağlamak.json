@@ -5,22 +5,46 @@
   "part_of_speech": "verb",
   "english_gloss": "to provide, to secure, to ensure",
   "sentences": [
-    { "id": "sağlamak_s1", "text": "Hükümet eğitim [sağlamak] zorundadır.", "note": null },
-    { "id": "sağlamak_s2", "text": "Parasını [sağladı], satın aldı.", "note": null },
-    { "id": "sağlamak_s3", "text": "[Sağla] bana bir fincan kahve.", "note": "imperative" },
-    { "id": "sağlamak_s4", "text": "İhtiyaçlarını [sağlama] koşmu başarıyor.", "note": null }
+    {
+      "id": "sağlamak_s1",
+      "text": "Hükümet eğitim [sağlamak] zorundadır.",
+      "note": null
+    },
+    {
+      "id": "sağlamak_s2",
+      "text": "Parasını [sağladı], satın aldı.",
+      "note": null
+    },
+    {
+      "id": "sağlamak_s3",
+      "text": "[Sağla] bana bir fincan kahve.",
+      "note": null
+    },
+    {
+      "id": "sağlamak_s4",
+      "text": "İhtiyaçlarını [sağlama] koşmu başarıyor.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "sağlamak_r1",
       "prompt": "Birinin ihtiyaçlarını karşılamak ne demek?",
-      "accepted_forms": ["sağlamak", "vermek", "hazırlamak"],
+      "accepted_forms": [
+        "sağlamak",
+        "vermek",
+        "hazırlamak"
+      ],
       "note": null
     },
     {
       "id": "sağlamak_r2",
       "prompt": "Bir şeyi istenen duruma getirme ne eylemdir?",
-      "accepted_forms": ["sağlamak", "hazırlamak", "düzenlemek"],
+      "accepted_forms": [
+        "sağlamak",
+        "hazırlamak",
+        "düzenlemek"
+      ],
       "note": null
     }
   ]

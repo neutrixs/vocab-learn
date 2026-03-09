@@ -5,22 +5,46 @@
   "part_of_speech": "adverb",
   "english_gloss": "sometimes, occasionally, once in a while",
   "sentences": [
-    { "id": "bazen_s1", "text": "[Bazen] görüşüyoruz.", "note": "We see each other sometimes" },
-    { "id": "bazen_s2", "text": "[Bazen] unutuyorum.", "note": "I sometimes forget" },
-    { "id": "bazen_s3", "text": "[Bazen] çok ağır gelir.", "note": "It feels heavy sometimes" },
-    { "id": "bazen_s4", "text": "[Bazen] çalışırız.", "note": "We work sometimes" }
+    {
+      "id": "bazen_s1",
+      "text": "[Bazen] görüşüyoruz.",
+      "note": null
+    },
+    {
+      "id": "bazen_s2",
+      "text": "[Bazen] unutuyorum.",
+      "note": null
+    },
+    {
+      "id": "bazen_s3",
+      "text": "[Bazen] çok ağır gelir.",
+      "note": null
+    },
+    {
+      "id": "bazen_s4",
+      "text": "[Bazen] çalışırız.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "bazen_r1",
       "prompt": "Her zaman değil, ara sıra yapıyorsun. Zaman belirtimi ne?",
-      "accepted_forms": ["bazen", "ara sıra", "kimi zaman"],
+      "accepted_forms": [
+        "bazen",
+        "ara sıra",
+        "kimi zaman"
+      ],
       "note": null
     },
     {
       "id": "bazen_r2",
       "prompt": "Düzenli olmayan ama tekrar eden olaylar. Ne sıklıkta?",
-      "accepted_forms": ["bazen", "aralıklı", "değişkende"],
+      "accepted_forms": [
+        "bazen",
+        "aralıklı",
+        "değişkende"
+      ],
       "note": null
     }
   ]

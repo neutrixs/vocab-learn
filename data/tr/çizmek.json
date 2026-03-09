@@ -13,7 +13,7 @@
     {
       "id": "çizmek_s2",
       "text": "Çizgi [çiz].",
-      "note": "draw a line"
+      "note": null
     },
     {
       "id": "çizmek_s3",
@@ -23,7 +23,7 @@
     {
       "id": "çizmek_s4",
       "text": "Çizmeyi [çıkardı].",
-      "note": "took off the boot"
+      "note": null
     }
   ],
   "recall_prompts": [

@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "Monday",
   "sentences": [
-    { "id": "pazartesi_s1", "text": "[Pazartesi] işe gidiyorum.", "note": "'pazartesi' = on Monday" },
-    { "id": "pazartesi_s2", "text": "[Pazartesi]den itibaren yeni proje.", "note": "'pazartesiden itibaren' = from Monday onwards" },
-    { "id": "pazartesi_s3", "text": "[Pazartesi]yi sevmem.", "note": "'pazarteyi' = Monday (accusative)" },
-    { "id": "pazartesi_s4", "text": "Şu [pazartesi] toplantı var.", "note": null }
+    {
+      "id": "pazartesi_s1",
+      "text": "[Pazartesi] işe gidiyorum.",
+      "note": null
+    },
+    {
+      "id": "pazartesi_s2",
+      "text": "[Pazartesi]den itibaren yeni proje.",
+      "note": null
+    },
+    {
+      "id": "pazartesi_s3",
+      "text": "[Pazartesi]yi sevmem.",
+      "note": null
+    },
+    {
+      "id": "pazartesi_s4",
+      "text": "Şu [pazartesi] toplantı var.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "pazartesi_r1",
       "prompt": "Haftanın ilk iş gününe ne denir?",
-      "accepted_forms": ["pazartesi"],
+      "accepted_forms": [
+        "pazartesi"
+      ],
       "note": null
     },
     {
       "id": "pazartesi_r2",
       "prompt": "Pazar'dan sonra ... gelir.",
-      "accepted_forms": ["pazartesi"],
+      "accepted_forms": [
+        "pazartesi"
+      ],
       "note": null
     }
   ]

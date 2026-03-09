@@ -5,22 +5,45 @@
   "part_of_speech": "verb",
   "english_gloss": "to fall, to drop",
   "sentences": [
-    { "id": "dusmek_s1", "text": "Bardak yere [düştü].", "note": null },
-    { "id": "dusmek_s2", "text": "Merdivenlerden [düştü], kötü yaralandı.", "note": null },
-    { "id": "dusmek_s3", "text": "Yapraklar ağaçtan [düşüyorlar].", "note": null },
-    { "id": "dusmek_s4", "text": "Fiyat [düştü], daha ucuz oldu.", "note": "idiomatic: prices fell" }
+    {
+      "id": "dusmek_s1",
+      "text": "Bardak yere [düştü].",
+      "note": null
+    },
+    {
+      "id": "dusmek_s2",
+      "text": "Merdivenlerden [düştü], kötü yaralandı.",
+      "note": null
+    },
+    {
+      "id": "dusmek_s3",
+      "text": "Yapraklar ağaçtan [düşüyorlar].",
+      "note": null
+    },
+    {
+      "id": "dusmek_s4",
+      "text": "Fiyat [düştü], daha ucuz oldu.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "dusmek_r1",
       "prompt": "Bir şey yukarıdan aşağıya gidiyor. Ne oluyor?",
-      "accepted_forms": ["düşüyor", "düşmek", "düştü"],
+      "accepted_forms": [
+        "düşüyor",
+        "düşmek",
+        "düştü"
+      ],
       "note": null
     },
     {
       "id": "dusmek_r2",
       "prompt": "Bardak yere ... (fall)",
-      "accepted_forms": ["düştü", "düşmek"],
+      "accepted_forms": [
+        "düştü",
+        "düşmek"
+      ],
       "note": null
     }
   ]

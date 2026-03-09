@@ -18,7 +18,7 @@
     {
       "id": "mesai_s3",
       "text": "Fazla [mesai] yapıyorum bu ay.",
-      "note": "overtime"
+      "note": null
     },
     {
       "id": "mesai_s4",
@@ -30,13 +30,17 @@
     {
       "id": "mesai_r1",
       "prompt": "Bir işyerinde çalışılan zaman dilimi anlamındaki kelime nedir?",
-      "accepted_forms": ["mesai"],
+      "accepted_forms": [
+        "mesai"
+      ],
       "note": null
     },
     {
       "id": "mesai_r2",
       "prompt": "Shift anlamındaki Türkçe sözcük hangisidir?",
-      "accepted_forms": ["mesai"],
+      "accepted_forms": [
+        "mesai"
+      ],
       "note": null
     }
   ]

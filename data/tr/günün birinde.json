@@ -5,22 +5,42 @@
   "part_of_speech": "adverb",
   "english_gloss": "one day, someday",
   "sentences": [
-    { "id": "gunun_s1", "text": "[Günün birinde] rüyalarım gerçek olur.", "note": "hope for the future" },
-    { "id": "gunun_s2", "text": "[Günün birinde] onu yeniden görmüş olacağım.", "note": null },
-    { "id": "gunun_s3", "text": "[Günün birinde] bunu başaracaksın.", "note": null },
-    { "id": "gunun_s4", "text": "[Günün birinde] burada çalışacağım.", "note": null }
+    {
+      "id": "gunun_s1",
+      "text": "[Günün birinde] rüyalarım gerçek olur.",
+      "note": null
+    },
+    {
+      "id": "gunun_s2",
+      "text": "[Günün birinde] onu yeniden görmüş olacağım.",
+      "note": null
+    },
+    {
+      "id": "gunun_s3",
+      "text": "[Günün birinde] bunu başaracaksın.",
+      "note": null
+    },
+    {
+      "id": "gunun_s4",
+      "text": "[Günün birinde] burada çalışacağım.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "gunun_r1",
       "prompt": "Gelecekte bir gün meydana gelmesi umut edilen bir şey: '... başarılı olacağım.'",
-      "accepted_forms": ["günün birinde"],
+      "accepted_forms": [
+        "günün birinde"
+      ],
       "note": null
     },
     {
       "id": "gunun_r2",
       "prompt": "[...] bunu yapacağım dersin.",
-      "accepted_forms": ["günün birinde"],
+      "accepted_forms": [
+        "günün birinde"
+      ],
       "note": null
     }
   ]

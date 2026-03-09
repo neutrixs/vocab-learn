@@ -8,7 +8,7 @@
     {
       "id": "çoğu_s1",
       "text": "[Çoğu] memnun değil.",
-      "note": "most are not happy"
+      "note": null
     },
     {
       "id": "çoğu_s2",
@@ -23,7 +23,7 @@
     {
       "id": "çoğu_s4",
       "text": "[Çoğu] gitmiş.",
-      "note": "most have gone"
+      "note": null
     }
   ],
   "recall_prompts": [

@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "painter, dyer, colorist",
   "sentences": [
-    { "id": "boyacı_s1", "text": "[Boyacı] evi renkli yaptı.", "note": null },
-    { "id": "boyacı_s2", "text": "[Boyacısına] çiftçi para ödedi.", "note": "dative case" },
-    { "id": "boyacı_s3", "text": "Kumaş [boyacısına] gönderdi.", "note": null },
-    { "id": "boyacı_s4", "text": "[Boyacının] işi zor.", "note": null }
+    {
+      "id": "boyacı_s1",
+      "text": "[Boyacı] evi renkli yaptı.",
+      "note": null
+    },
+    {
+      "id": "boyacı_s2",
+      "text": "[Boyacısına] çiftçi para ödedi.",
+      "note": null
+    },
+    {
+      "id": "boyacı_s3",
+      "text": "Kumaş [boyacısına] gönderdi.",
+      "note": null
+    },
+    {
+      "id": "boyacı_s4",
+      "text": "[Boyacının] işi zor.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "boyacı_r1",
       "prompt": "Ev veya kumaş boyayan kişi: kime denir?",
-      "accepted_forms": ["boyacı"],
+      "accepted_forms": [
+        "boyacı"
+      ],
       "note": null
     },
     {
       "id": "boyacı_r2",
       "prompt": "Evin duvarlarını beyaza boyayan ... geldi.",
-      "accepted_forms": ["boyacı"],
+      "accepted_forms": [
+        "boyacı"
+      ],
       "note": null
     }
   ]

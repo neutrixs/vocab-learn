@@ -5,22 +5,42 @@
   "part_of_speech": "adjective",
   "english_gloss": "early",
   "sentences": [
-    { "id": "erken_s1", "text": "Sabah [erken] kalkıyorum.", "note": "I wake up early in the morning" },
-    { "id": "erken_s2", "text": "[Erken] gelmek istiyorsanız hazırlansın.", "note": "if you want to come early..." },
-    { "id": "erken_s3", "text": "[Erken] baharda çiçekler açıyor.", "note": "in early spring" },
-    { "id": "erken_s4", "text": "[Erkenden] işe gitmek tercihimiz.", "note": "going to work early is our preference" }
+    {
+      "id": "erken_s1",
+      "text": "Sabah [erken] kalkıyorum.",
+      "note": null
+    },
+    {
+      "id": "erken_s2",
+      "text": "[Erken] gelmek istiyorsanız hazırlansın.",
+      "note": null
+    },
+    {
+      "id": "erken_s3",
+      "text": "[Erken] baharda çiçekler açıyor.",
+      "note": null
+    },
+    {
+      "id": "erken_s4",
+      "text": "[Erkenden] işe gitmek tercihimiz.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "erken_r1",
       "prompt": "Geç olmayan zaman. Ne denir?",
-      "accepted_forms": ["erken"],
+      "accepted_forms": [
+        "erken"
+      ],
       "note": null
     },
     {
       "id": "erken_r2",
       "prompt": "[Erken] kalkmak sağlıklı.",
-      "accepted_forms": ["erken"],
+      "accepted_forms": [
+        "erken"
+      ],
       "note": null
     }
   ]

@@ -5,22 +5,42 @@
   "part_of_speech": "adjective",
   "english_gloss": "red, reddish, copper-colored",
   "sentences": [
-    { "id": "kizil_s1", "text": "[Kızıl] saçlı bir erkek.", "note": null },
-    { "id": "kizil_s2", "text": "[Kızıl] ordu tarihi.", "note": "Red Army" },
-    { "id": "kizil_s3", "text": "[Kızıl] ve beyaz birliktedir.", "note": null },
-    { "id": "kizil_s4", "text": "[Kızıl] karpuz çok tatlı.", "note": null }
+    {
+      "id": "kizil_s1",
+      "text": "[Kızıl] saçlı bir erkek.",
+      "note": null
+    },
+    {
+      "id": "kizil_s2",
+      "text": "[Kızıl] ordu tarihi.",
+      "note": null
+    },
+    {
+      "id": "kizil_s3",
+      "text": "[Kızıl] ve beyaz birliktedir.",
+      "note": null
+    },
+    {
+      "id": "kizil_s4",
+      "text": "[Kızıl] karpuz çok tatlı.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "kizil_r1",
       "prompt": "Koyu kırmızı/bakır rengi. Tarihte ... Ordu denir.",
-      "accepted_forms": ["kızıl"],
+      "accepted_forms": [
+        "kızıl"
+      ],
       "note": null
     },
     {
       "id": "kizil_r2",
       "prompt": "Karpuzun içi ... renkli.",
-      "accepted_forms": ["kızıl"],
+      "accepted_forms": [
+        "kızıl"
+      ],
       "note": null
     }
   ]

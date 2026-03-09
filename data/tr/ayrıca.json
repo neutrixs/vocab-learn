@@ -5,22 +5,47 @@
   "part_of_speech": "adverb",
   "english_gloss": "moreover, besides, also, furthermore, in addition",
   "sentences": [
-    { "id": "ayrica_s1", "text": "[Ayrıca] çok vaktim yok.", "note": "Moreover, I don't have much time" },
-    { "id": "ayrica_s2", "text": "Bu kitap güzel, [ayrıca] ucuz.", "note": "This book is nice, and moreover it's cheap" },
-    { "id": "ayrica_s3", "text": "[Ayrıca] bilmelisin ki...", "note": "Moreover, you should know that..." },
-    { "id": "ayrica_s4", "text": "Dışarısı güzel, [ayrıca] rüzgar var.", "note": "Outside is nice, and also there's wind" }
+    {
+      "id": "ayrica_s1",
+      "text": "[Ayrıca] çok vaktim yok.",
+      "note": null
+    },
+    {
+      "id": "ayrica_s2",
+      "text": "Bu kitap güzel, [ayrıca] ucuz.",
+      "note": null
+    },
+    {
+      "id": "ayrica_s3",
+      "text": "[Ayrıca] bilmelisin ki...",
+      "note": null
+    },
+    {
+      "id": "ayrica_s4",
+      "text": "Dışarısı güzel, [ayrıca] rüzgar var.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "ayrica_r1",
       "prompt": "Başka bir şey daha var söylemeniz gerekiyor. Nasıl başlarsınız?",
-      "accepted_forms": ["ayrıca", "ayrıca", "hatta", "bunun yanında"],
+      "accepted_forms": [
+        "ayrıca",
+        "ayrıca",
+        "hatta",
+        "bunun yanında"
+      ],
       "note": null
     },
     {
       "id": "ayrica_r2",
       "prompt": "Bir şeyden bahsettiniz, bundan başka da bir şey var. Nasıl ekleme yaparsınız?",
-      "accepted_forms": ["ayrıca", "bunun dışında", "onun yanında"],
+      "accepted_forms": [
+        "ayrıca",
+        "bunun dışında",
+        "onun yanında"
+      ],
       "note": null
     }
   ]

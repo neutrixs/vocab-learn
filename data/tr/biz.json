@@ -5,22 +5,42 @@
   "part_of_speech": "pronoun",
   "english_gloss": "we, us",
   "sentences": [
-    { "id": "biz_s1", "text": "[Biz] okula gidiyoruz.", "note": null },
-    { "id": "biz_s2", "text": "[Bize] yardım etti.", "note": "dative case" },
-    { "id": "biz_s3", "text": "[Bizim] evi büyük.", "note": "possessive" },
-    { "id": "biz_s4", "text": "[Bizi] unuttun mu?", "note": "accusative case" }
+    {
+      "id": "biz_s1",
+      "text": "[Biz] okula gidiyoruz.",
+      "note": null
+    },
+    {
+      "id": "biz_s2",
+      "text": "[Bize] yardım etti.",
+      "note": null
+    },
+    {
+      "id": "biz_s3",
+      "text": "[Bizim] evi büyük.",
+      "note": null
+    },
+    {
+      "id": "biz_s4",
+      "text": "[Bizi] unuttun mu?",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "biz_r1",
       "prompt": "Konuşan kişi ve arkadaşlarını ifade eden zamir: '[...]' öğrenciyiz.",
-      "accepted_forms": ["biz"],
+      "accepted_forms": [
+        "biz"
+      ],
       "note": null
     },
     {
       "id": "biz_r2",
       "prompt": "Öğretmen ... e bakıyor (sınıfın tümüne).",
-      "accepted_forms": ["bize"],
+      "accepted_forms": [
+        "bize"
+      ],
       "note": null
     }
   ]

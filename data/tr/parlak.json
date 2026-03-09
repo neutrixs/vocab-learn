@@ -18,25 +18,29 @@
     {
       "id": "parlak_s3",
       "text": "O [parlak] bir öğrenci.",
-      "note": "bright student"
+      "note": null
     },
     {
       "id": "parlak_s4",
       "text": "[Parlak] bir fikir önerdi.",
-      "note": "brilliant idea"
+      "note": null
     }
   ],
   "recall_prompts": [
     {
       "id": "parlak_r1",
       "prompt": "Işık yayan, çok aydınlık anlamındaki sıfat nedir?",
-      "accepted_forms": ["parlak"],
+      "accepted_forms": [
+        "parlak"
+      ],
       "note": null
     },
     {
       "id": "parlak_r2",
       "prompt": "Bright anlamındaki Türkçe sıfat hangisidir?",
-      "accepted_forms": ["parlak"],
+      "accepted_forms": [
+        "parlak"
+      ],
       "note": null
     }
   ]

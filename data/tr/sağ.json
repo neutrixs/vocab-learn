@@ -5,22 +5,45 @@
   "part_of_speech": "adjective",
   "english_gloss": "right (direction), healthy",
   "sentences": [
-    { "id": "sağ_s1", "text": "[Sağ] eliniz hangi tarafta?", "note": null },
-    { "id": "sağ_s2", "text": "Siz nasılsınız, [sağ] mısınız?", "note": "asking about health" },
-    { "id": "sağ_s3", "text": "[Sağ] taraf daha güzel görünüyor.", "note": null },
-    { "id": "sağ_s4", "text": "O adam [sağlıklı] ve [sağ].", "note": null }
+    {
+      "id": "sağ_s1",
+      "text": "[Sağ] eliniz hangi tarafta?",
+      "note": null
+    },
+    {
+      "id": "sağ_s2",
+      "text": "Siz nasılsınız, [sağ] mısınız?",
+      "note": null
+    },
+    {
+      "id": "sağ_s3",
+      "text": "[Sağ] taraf daha güzel görünüyor.",
+      "note": null
+    },
+    {
+      "id": "sağ_s4",
+      "text": "O adam [sağlıklı] ve [sağ].",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "sağ_r1",
       "prompt": "İnsan iki elidne hangisi yazı yazı yedir?",
-      "accepted_forms": ["sağ", "sağ el", "soldan değil"],
+      "accepted_forms": [
+        "sağ",
+        "sağ el",
+        "soldan değil"
+      ],
       "note": null
     },
     {
       "id": "sağ_r2",
       "prompt": "Biri seni karşılayan yüzüne solundan başka taraf nedir?",
-      "accepted_forms": ["sağ", "sağ taraf"],
+      "accepted_forms": [
+        "sağ",
+        "sağ taraf"
+      ],
       "note": null
     }
   ]

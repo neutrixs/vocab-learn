@@ -5,22 +5,42 @@
   "part_of_speech": "interjection",
   "english_gloss": "excuse me, pardon, yes sir/madam",
   "sentences": [
-    { "id": "efendim_s1", "text": "[Efendim], ne dediniz?", "note": "pardon?" },
-    { "id": "efendim_s2", "text": "[Efendim], hoşça kalın.", "note": "goodbye sir/madam" },
-    { "id": "efendim_s3", "text": "[Efendim], biraz daha ağır konuş.", "note": null },
-    { "id": "efendim_s4", "text": "Müdür bey [efendim].", "note": "formal address" }
+    {
+      "id": "efendim_s1",
+      "text": "[Efendim], ne dediniz?",
+      "note": null
+    },
+    {
+      "id": "efendim_s2",
+      "text": "[Efendim], hoşça kalın.",
+      "note": null
+    },
+    {
+      "id": "efendim_s3",
+      "text": "[Efendim], biraz daha ağır konuş.",
+      "note": null
+    },
+    {
+      "id": "efendim_s4",
+      "text": "Müdür bey [efendim].",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "efendim_r1",
       "prompt": "Birini saygı ile çağırmak. Ne dersin?",
-      "accepted_forms": ["efendim"],
+      "accepted_forms": [
+        "efendim"
+      ],
       "note": null
     },
     {
       "id": "efendim_r2",
       "prompt": "[Efendim], ne söylediniz? (Pardon?)",
-      "accepted_forms": ["efendim"],
+      "accepted_forms": [
+        "efendim"
+      ],
       "note": null
     }
   ]

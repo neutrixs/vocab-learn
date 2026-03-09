@@ -5,22 +5,46 @@
   "part_of_speech": "verb",
   "english_gloss": "to drop, to lower, to cause to fall",
   "sentences": [
-    { "id": "dusermek_s1", "text": "[Düşürdüğüm] kitap çizimlere maruz kaldı.", "note": null },
-    { "id": "dusermek_s2", "text": "Fiyatı [düşür].", "note": "imperative: lower the price" },
-    { "id": "dusermek_s3", "text": "[Düşürdü] yaşlı adamı yere.", "note": "he knocked down the old man" },
-    { "id": "dusermek_s4", "text": "Hukumeti [düşürmek] için çalışıyorlar.", "note": "idiomatic: to overthrow" }
+    {
+      "id": "dusermek_s1",
+      "text": "[Düşürdüğüm] kitap çizimlere maruz kaldı.",
+      "note": null
+    },
+    {
+      "id": "dusermek_s2",
+      "text": "Fiyatı [düşür].",
+      "note": null
+    },
+    {
+      "id": "dusermek_s3",
+      "text": "[Düşürdü] yaşlı adamı yere.",
+      "note": null
+    },
+    {
+      "id": "dusermek_s4",
+      "text": "Hukumeti [düşürmek] için çalışıyorlar.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "dusermek_r1",
       "prompt": "Birini veya bir şeyi yere indirmek. Ne yapmışsınız?",
-      "accepted_forms": ["düşürmek", "düşürdüm", "düşürüyor"],
+      "accepted_forms": [
+        "düşürmek",
+        "düşürdüm",
+        "düşürüyor"
+      ],
       "note": null
     },
     {
       "id": "dusermek_r2",
       "prompt": "Fiyatları ... müşteriler mutlu oluyor. (lower)",
-      "accepted_forms": ["düşürmek", "düşürün", "düşürelim"],
+      "accepted_forms": [
+        "düşürmek",
+        "düşürün",
+        "düşürelim"
+      ],
       "note": null
     }
   ]

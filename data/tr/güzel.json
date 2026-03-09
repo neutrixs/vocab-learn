@@ -5,22 +5,44 @@
   "part_of_speech": "adjective",
   "english_gloss": "beautiful, pretty, nice, good",
   "sentences": [
-    { "id": "guzel_s1", "text": "Bu şehir çok [güzel].", "note": null },
-    { "id": "guzel_s2", "text": "Bugün hava [güzel], dışarı çıkalım.", "note": null },
-    { "id": "guzel_s3", "text": "Ne [güzel] bir gün!", "note": "exclamation" },
-    { "id": "guzel_s4", "text": "O [güzelce] Türkçe konuşuyor.", "note": "güzelce = nicely, adverb form" }
+    {
+      "id": "guzel_s1",
+      "text": "Bu şehir çok [güzel].",
+      "note": null
+    },
+    {
+      "id": "guzel_s2",
+      "text": "Bugün hava [güzel], dışarı çıkalım.",
+      "note": null
+    },
+    {
+      "id": "guzel_s3",
+      "text": "Ne [güzel] bir gün!",
+      "note": null
+    },
+    {
+      "id": "guzel_s4",
+      "text": "O [güzelce] Türkçe konuşuyor.",
+      "note": "güzelce = nicely, adverb form"
+    }
   ],
   "recall_prompts": [
     {
       "id": "guzel_r1",
       "prompt": "Bir tabloyu görüyorsun ve çok etkileniyorsun. Tek kelimeyle ne söylersin?",
-      "accepted_forms": ["güzel", "çok güzel"],
+      "accepted_forms": [
+        "güzel",
+        "çok güzel"
+      ],
       "note": null
     },
     {
       "id": "guzel_r2",
       "prompt": "Arkadaşın 'İstanbul nasıl?' diye soruyor. 'İstanbul çok ...' diyorsun.",
-      "accepted_forms": ["güzel", "güzeldir"],
+      "accepted_forms": [
+        "güzel",
+        "güzeldir"
+      ],
       "note": null
     }
   ]

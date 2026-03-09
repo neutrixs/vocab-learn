@@ -5,22 +5,46 @@
   "part_of_speech": "verb",
   "english_gloss": "to sink, to drown, to set (sun), to go down",
   "sentences": [
-    { "id": "batmak_s1", "text": "Gemi [battı].", "note": "The ship sank" },
-    { "id": "batmak_s2", "text": "[Batmamak] için kurtarma ceti çalışıyor.", "note": "Rescue teams work to prevent sinking" },
-    { "id": "batmak_s3", "text": "Güneş [batıyor].", "note": "The sun is setting" },
-    { "id": "batmak_s4", "text": "[Batmasından] korkuyor.", "note": "He's afraid of sinking" }
+    {
+      "id": "batmak_s1",
+      "text": "Gemi [battı].",
+      "note": null
+    },
+    {
+      "id": "batmak_s2",
+      "text": "[Batmamak] için kurtarma ceti çalışıyor.",
+      "note": null
+    },
+    {
+      "id": "batmak_s3",
+      "text": "Güneş [batıyor].",
+      "note": null
+    },
+    {
+      "id": "batmak_s4",
+      "text": "[Batmasından] korkuyor.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "batmak_r1",
       "prompt": "Bir şey suya dalmış veya suda iniyor. Ne oluyor?",
-      "accepted_forms": ["batıyor", "batmak", "battı"],
+      "accepted_forms": [
+        "batıyor",
+        "batmak",
+        "battı"
+      ],
       "note": null
     },
     {
       "id": "batmak_r2",
       "prompt": "Gemi denizde ne yapabilir?",
-      "accepted_forms": ["batmak", "battı", "batabilir"],
+      "accepted_forms": [
+        "batmak",
+        "battı",
+        "batabilir"
+      ],
       "note": null
     }
   ]

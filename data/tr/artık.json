@@ -5,22 +5,45 @@
   "part_of_speech": "adverb",
   "english_gloss": "anymore, from now on, already, henceforth",
   "sentences": [
-    { "id": "artik_s1", "text": "[Artık] yemiyorum.", "note": "I don't eat anymore" },
-    { "id": "artik_s2", "text": "[Artık] burada değilim.", "note": "I'm not here anymore" },
-    { "id": "artik_s3", "text": "[Artık] geç oldu.", "note": "It's too late now" },
-    { "id": "artik_s4", "text": "[Artık] başlayabiliriz.", "note": "We can start now" }
+    {
+      "id": "artik_s1",
+      "text": "[Artık] yemiyorum.",
+      "note": null
+    },
+    {
+      "id": "artik_s2",
+      "text": "[Artık] burada değilim.",
+      "note": null
+    },
+    {
+      "id": "artik_s3",
+      "text": "[Artık] geç oldu.",
+      "note": null
+    },
+    {
+      "id": "artik_s4",
+      "text": "[Artık] başlayabiliriz.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "artik_r1",
       "prompt": "Bir alışkanlığını bıraktın. Ne diyorsun?",
-      "accepted_forms": ["artık", "artık yapmıyorum", "artık yok"],
+      "accepted_forms": [
+        "artık",
+        "artık yapmıyorum",
+        "artık yok"
+      ],
       "note": null
     },
     {
       "id": "artik_r2",
       "prompt": "Hazırsınız ve yapılmaya zamanı geldi. Başlayacaksın ne diyorsun?",
-      "accepted_forms": ["artık", "artık başlayabiliriz"],
+      "accepted_forms": [
+        "artık",
+        "artık başlayabiliriz"
+      ],
       "note": null
     }
   ]

@@ -8,22 +8,22 @@
     {
       "id": "çalmak_s1",
       "text": "Kapı [çalıyor].",
-      "note": "the door bell is ringing"
+      "note": null
     },
     {
       "id": "çalmak_s2",
       "text": "Gitar [çalıyor].",
-      "note": "playing guitar"
+      "note": null
     },
     {
       "id": "çalmak_s3",
       "text": "Hırsız pencerenin parasını [çaldı].",
-      "note": "stole"
+      "note": null
     },
     {
       "id": "çalmak_s4",
       "text": "[Çalmayın] kapıyı!",
-      "note": "don't ring the bell!"
+      "note": null
     }
   ],
   "recall_prompts": [

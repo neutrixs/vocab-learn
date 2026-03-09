@@ -5,22 +5,46 @@
   "part_of_speech": "noun",
   "english_gloss": "mister, sir, Mr.",
   "sentences": [
-    { "id": "bay_s1", "text": "[Bay] Ahmet geldi.", "note": "Mr. Ahmet arrived" },
-    { "id": "bay_s2", "text": "[Bayım], buyurun.", "note": "Sir, please come in" },
-    { "id": "bay_s3", "text": "[Baydan] yardım istedim.", "note": "I asked the gentleman for help" },
-    { "id": "bay_s4", "text": "[Baylar] ve bayanlar!", "note": "Gentlemen and ladies!" }
+    {
+      "id": "bay_s1",
+      "text": "[Bay] Ahmet geldi.",
+      "note": null
+    },
+    {
+      "id": "bay_s2",
+      "text": "[Bayım], buyurun.",
+      "note": null
+    },
+    {
+      "id": "bay_s3",
+      "text": "[Baydan] yardım istedim.",
+      "note": null
+    },
+    {
+      "id": "bay_s4",
+      "text": "[Baylar] ve bayanlar!",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "bay_r1",
       "prompt": "Bir erkek yetişkinin önüne konulan unvan nedir?",
-      "accepted_forms": ["bay", "Bayım", "Baylar"],
+      "accepted_forms": [
+        "bay",
+        "Bayım",
+        "Baylar"
+      ],
       "note": null
     },
     {
       "id": "bay_r2",
       "prompt": "Mister demek için Türkçe nedir?",
-      "accepted_forms": ["bay", "bayefendi", "beyefendi"],
+      "accepted_forms": [
+        "bay",
+        "bayefendi",
+        "beyefendi"
+      ],
       "note": null
     }
   ]

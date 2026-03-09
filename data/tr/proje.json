@@ -8,7 +8,7 @@
     {
       "id": "proje_s1",
       "text": "[Proje]yi tamamladık.",
-      "note": "'projeyi' = the project (accusative)"
+      "note": null
     },
     {
       "id": "proje_s2",
@@ -23,7 +23,7 @@
     {
       "id": "proje_s4",
       "text": "[Proje]nin planı güzel.",
-      "note": "'projenin' = project's"
+      "note": null
     }
   ],
   "recall_prompts": [

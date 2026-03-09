@@ -5,22 +5,46 @@
   "part_of_speech": "verb",
   "english_gloss": "to shout, to yell, to scream, to cry out",
   "sentences": [
-    { "id": "bagirmak_s1", "text": "[Bağırma], lütfen!", "note": "Don't shout, please!" },
-    { "id": "bagirmak_s2", "text": "Çocuk [bağırıyor].", "note": "The child is shouting" },
-    { "id": "bagirmak_s3", "text": "[Bağırdı] çünkü çok korkmuş.", "note": "He screamed because he was very scared" },
-    { "id": "bagirmak_s4", "text": "[Bağırarak] kendi çagırıyor.", "note": "He's calling for himself by shouting" }
+    {
+      "id": "bagirmak_s1",
+      "text": "[Bağırma], lütfen!",
+      "note": null
+    },
+    {
+      "id": "bagirmak_s2",
+      "text": "Çocuk [bağırıyor].",
+      "note": null
+    },
+    {
+      "id": "bagirmak_s3",
+      "text": "[Bağırdı] çünkü çok korkmuş.",
+      "note": null
+    },
+    {
+      "id": "bagirmak_s4",
+      "text": "[Bağırarak] kendi çagırıyor.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "bagirmak_r1",
       "prompt": "Sesini çok yüksek tutarak konuşmak ne demek?",
-      "accepted_forms": ["bağırmak", "bağırıyorum", "çığlık atmak"],
+      "accepted_forms": [
+        "bağırmak",
+        "bağırıyorum",
+        "çığlık atmak"
+      ],
       "note": null
     },
     {
       "id": "bagirmak_r2",
       "prompt": "Korktuğunda veya çok kızgınken ne yaparsın?",
-      "accepted_forms": ["bağırıyorum", "bağırmak", "haykırıyorum"],
+      "accepted_forms": [
+        "bağırıyorum",
+        "bağırmak",
+        "haykırıyorum"
+      ],
       "note": null
     }
   ]

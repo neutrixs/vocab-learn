@@ -5,22 +5,42 @@
   "part_of_speech": "verb",
   "english_gloss": "to make laugh, to amuse",
   "sentences": [
-    { "id": "guldumek_s1", "text": "Onun şakası beni [güldürdü].", "note": null },
-    { "id": "guldumek_s2", "text": "Komik filmi [güldürüyordu] herkesi.", "note": null },
-    { "id": "guldumek_s3", "text": "[Güldürmek] çok zor.", "note": "infinitive form" },
-    { "id": "guldumek_s4", "text": "Çocuğu [güldürmek] istiyorum.", "note": null }
+    {
+      "id": "guldumek_s1",
+      "text": "Onun şakası beni [güldürdü].",
+      "note": null
+    },
+    {
+      "id": "guldumek_s2",
+      "text": "Komik filmi [güldürüyordu] herkesi.",
+      "note": null
+    },
+    {
+      "id": "guldumek_s3",
+      "text": "[Güldürmek] çok zor.",
+      "note": null
+    },
+    {
+      "id": "guldumek_s4",
+      "text": "Çocuğu [güldürmek] istiyorum.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "guldumek_r1",
       "prompt": "Birini eğlendirmek ve gülmesini sağlamak: ...",
-      "accepted_forms": ["güldürmek"],
+      "accepted_forms": [
+        "güldürmek"
+      ],
       "note": null
     },
     {
       "id": "guldumek_r2",
       "prompt": "Onun fıkrası beni [...] oldu.",
-      "accepted_forms": ["güldürdü"],
+      "accepted_forms": [
+        "güldürdü"
+      ],
       "note": null
     }
   ]

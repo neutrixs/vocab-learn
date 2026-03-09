@@ -5,22 +5,46 @@
   "part_of_speech": "verb",
   "english_gloss": "to fall in love, to be in love",
   "sentences": [
-    { "id": "asik_s1", "text": "Ona [aşık oldum].", "note": null },
-    { "id": "asik_s2", "text": "Şehre [aşık oldu].", "note": "He fell in love with the city" },
-    { "id": "asik_s3", "text": "[Aşık olmadan] evlenmek mantıklı değil.", "note": "It doesn't make sense to marry without being in love" },
-    { "id": "asik_s4", "text": "Kızına [aşık olan] bir adam vardı.", "note": "There was a man in love with his daughter" }
+    {
+      "id": "asik_s1",
+      "text": "Ona [aşık oldum].",
+      "note": null
+    },
+    {
+      "id": "asik_s2",
+      "text": "Şehre [aşık oldu].",
+      "note": null
+    },
+    {
+      "id": "asik_s3",
+      "text": "[Aşık olmadan] evlenmek mantıklı değil.",
+      "note": null
+    },
+    {
+      "id": "asik_s4",
+      "text": "Kızına [aşık olan] bir adam vardı.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "asik_r1",
       "prompt": "Birini çok sevdin ve onun için hissiyat taşıyorsun. Ne oldu?",
-      "accepted_forms": ["aşık oldum", "aşık olmak", "aşık"],
+      "accepted_forms": [
+        "aşık oldum",
+        "aşık olmak",
+        "aşık"
+      ],
       "note": null
     },
     {
       "id": "asik_r2",
       "prompt": "O kız senin kalbini çalmış. Sen ne olmuşsun?",
-      "accepted_forms": ["aşık oldum", "aşığım", "aşık olmak"],
+      "accepted_forms": [
+        "aşık oldum",
+        "aşığım",
+        "aşık olmak"
+      ],
       "note": null
     }
   ]

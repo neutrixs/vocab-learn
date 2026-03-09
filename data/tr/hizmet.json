@@ -18,7 +18,7 @@
     {
       "id": "hizmet_s3",
       "text": "Sağlık [hizmet]leri bedava.",
-      "note": "plural form"
+      "note": null
     },
     {
       "id": "hizmet_s4",
@@ -30,13 +30,17 @@
     {
       "id": "hizmet_r1",
       "prompt": "Service anlamındaki Türkçe kelime nedir?",
-      "accepted_forms": ["hizmet"],
+      "accepted_forms": [
+        "hizmet"
+      ],
       "note": null
     },
     {
       "id": "hizmet_r2",
       "prompt": "'Customer ... is important' cümlesinde ... yerine ne yazarsın?",
-      "accepted_forms": ["hizmet"],
+      "accepted_forms": [
+        "hizmet"
+      ],
       "note": null
     }
   ]

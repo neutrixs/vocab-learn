@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "October",
   "sentences": [
-    { "id": "ekim_s1", "text": "[Ekim] ayında hava soğuyor.", "note": null },
-    { "id": "ekim_s2", "text": "[Ekim] ayı hasadın zamanı.", "note": "harvest time" },
-    { "id": "ekim_s3", "text": "[Ekimin] başında yağmur yağdı.", "note": "'ekimin başında' = in early October" },
-    { "id": "ekim_s4", "text": "Bu yıl [ekimde] geziye gideceğiz.", "note": "'ekimde' = in October" }
+    {
+      "id": "ekim_s1",
+      "text": "[Ekim] ayında hava soğuyor.",
+      "note": null
+    },
+    {
+      "id": "ekim_s2",
+      "text": "[Ekim] ayı hasadın zamanı.",
+      "note": null
+    },
+    {
+      "id": "ekim_s3",
+      "text": "[Ekimin] başında yağmur yağdı.",
+      "note": "'ekimin başında' = in early October"
+    },
+    {
+      "id": "ekim_s4",
+      "text": "Bu yıl [ekimde] geziye gideceğiz.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "ekim_r1",
       "prompt": "Yılın onuncu ayı. Türkçede ne denir?",
-      "accepted_forms": ["ekim"],
+      "accepted_forms": [
+        "ekim"
+      ],
       "note": null
     },
     {
       "id": "ekim_r2",
       "prompt": "[Ekim] ayında yapraklar döküyor.",
-      "accepted_forms": ["ekim"],
+      "accepted_forms": [
+        "ekim"
+      ],
       "note": null
     }
   ]

@@ -5,22 +5,46 @@
   "part_of_speech": "noun",
   "english_gloss": "time (occurrence), instance",
   "sentences": [
-    { "id": "kere_s1", "text": "Her [kere] aynı şeyi söylüyor.", "note": null },
-    { "id": "kere_s2", "text": "Kaç [kere] dedim?", "note": null },
-    { "id": "kere_s3", "text": "Bu [kere] başaracaksın.", "note": "this time" },
-    { "id": "kere_s4", "text": "Birçok [kere] denedim.", "note": null }
+    {
+      "id": "kere_s1",
+      "text": "Her [kere] aynı şeyi söylüyor.",
+      "note": null
+    },
+    {
+      "id": "kere_s2",
+      "text": "Kaç [kere] dedim?",
+      "note": null
+    },
+    {
+      "id": "kere_s3",
+      "text": "Bu [kere] başaracaksın.",
+      "note": null
+    },
+    {
+      "id": "kere_s4",
+      "text": "Birçok [kere] denedim.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "kere_r1",
       "prompt": "Bir olayın tekrarlanması. 'İki ... yaptı.'",
-      "accepted_forms": ["kere", "defa", "kez"],
+      "accepted_forms": [
+        "kere",
+        "defa",
+        "kez"
+      ],
       "note": null
     },
     {
       "id": "kere_r2",
       "prompt": "'Bu ... başarıyı kazanacağız.' ne söylendiği bağlamda?",
-      "accepted_forms": ["kere", "defa", "sefer"],
+      "accepted_forms": [
+        "kere",
+        "defa",
+        "sefer"
+      ],
       "note": null
     }
   ]

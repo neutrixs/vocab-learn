@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "beer hall, tavern, pub",
   "sentences": [
-    { "id": "birahane_s1", "text": "[Birahane]de sosyal yaşam var.", "note": "locative case" },
-    { "id": "birahane_s2", "text": "Arkadaşlarımla [birahanaya] gittik.", "note": null },
-    { "id": "birahane_s3", "text": "[Birahane] müşterisi çok kalabalık.", "note": null },
-    { "id": "birahane_s4", "text": "Bu [birahane] çok ünlü.", "note": null }
+    {
+      "id": "birahane_s1",
+      "text": "[Birahane]de sosyal yaşam var.",
+      "note": null
+    },
+    {
+      "id": "birahane_s2",
+      "text": "Arkadaşlarımla [birahanaya] gittik.",
+      "note": null
+    },
+    {
+      "id": "birahane_s3",
+      "text": "[Birahane] müşterisi çok kalabalık.",
+      "note": null
+    },
+    {
+      "id": "birahane_s4",
+      "text": "Bu [birahane] çok ünlü.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "birahane_r1",
       "prompt": "Bira içilen mekan: kime denir?",
-      "accepted_forms": ["birahane"],
+      "accepted_forms": [
+        "birahane"
+      ],
       "note": null
     },
     {
       "id": "birahane_r2",
       "prompt": "Gece oğlanlarla ... gittik.",
-      "accepted_forms": ["birahanaya"],
+      "accepted_forms": [
+        "birahanaya"
+      ],
       "note": null
     }
   ]

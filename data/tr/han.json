@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "khan, inn, caravanserai",
   "sentences": [
-    { "id": "han_s1", "text": "[Han]]da yolcular dinlenirdi.", "note": "'handa' = at the han (locative)" },
-    { "id": "han_s2", "text": "[Hanın]] mimarisi harika.", "note": "'hanın' = han's (genitive)" },
-    { "id": "han_s3", "text": "Tarihi [han]] ziyaret ettim.", "note": null },
-    { "id": "han_s4", "text": "[Handan]] ayrılıyordu kervan.", "note": "'handan' = from the han (ablative)" }
+    {
+      "id": "han_s1",
+      "text": "[Han]]da yolcular dinlenirdi.",
+      "note": null
+    },
+    {
+      "id": "han_s2",
+      "text": "[Hanın]] mimarisi harika.",
+      "note": "'hanın' = han's (genitive)"
+    },
+    {
+      "id": "han_s3",
+      "text": "Tarihi [han]] ziyaret ettim.",
+      "note": null
+    },
+    {
+      "id": "han_s4",
+      "text": "[Handan]] ayrılıyordu kervan.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "han_r1",
       "prompt": "Eski zamanda yolcuların konakladığı yer: ...",
-      "accepted_forms": ["han"],
+      "accepted_forms": [
+        "han"
+      ],
       "note": null
     },
     {
       "id": "han_r2",
       "prompt": "Kervan yolculuğu sırasında [...] nda dinlenirlerdi.",
-      "accepted_forms": ["han"],
+      "accepted_forms": [
+        "han"
+      ],
       "note": null
     }
   ]

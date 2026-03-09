@@ -5,22 +5,46 @@
   "part_of_speech": "adjective",
   "english_gloss": "little, few, small amount, less",
   "sentences": [
-    { "id": "az_s1", "text": "[Az] para var.", "note": "There's little money" },
-    { "id": "az_s2", "text": "[Az] kişi geldi.", "note": "Few people came" },
-    { "id": "az_s3", "text": "[Az] tuz koy.", "note": "Put a little salt" },
-    { "id": "az_s4", "text": "[Az] bekle.", "note": "Wait a moment" }
+    {
+      "id": "az_s1",
+      "text": "[Az] para var.",
+      "note": null
+    },
+    {
+      "id": "az_s2",
+      "text": "[Az] kişi geldi.",
+      "note": null
+    },
+    {
+      "id": "az_s3",
+      "text": "[Az] tuz koy.",
+      "note": null
+    },
+    {
+      "id": "az_s4",
+      "text": "[Az] bekle.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "az_r1",
       "prompt": "Normal miktardan daha az. Bunu nasıl söylersin?",
-      "accepted_forms": ["az", "çok az", "biraz"],
+      "accepted_forms": [
+        "az",
+        "çok az",
+        "biraz"
+      ],
       "note": null
     },
     {
       "id": "az_r2",
       "prompt": "Kalabalık değil, sadece birkaç kişi. Kaç kişi?",
-      "accepted_forms": ["az kişi", "az sayıda", "az"],
+      "accepted_forms": [
+        "az kişi",
+        "az sayıda",
+        "az"
+      ],
       "note": null
     }
   ]

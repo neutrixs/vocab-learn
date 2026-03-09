@@ -5,22 +5,45 @@
   "part_of_speech": "noun",
   "english_gloss": "capital city, metropolis",
   "sentences": [
-    { "id": "baskkent_s1", "text": "Ankara [başkentimiz].", "note": "Ankara is our capital" },
-    { "id": "baskkent_s2", "text": "[Başkentine] gidiyorum.", "note": "I'm going to the capital" },
-    { "id": "baskkent_s3", "text": "[Başkent] çok kalabalık.", "note": "The capital is very crowded" },
-    { "id": "baskkent_s4", "text": "Ülkenin [başkenti] nedir?", "note": "What is the country's capital?" }
+    {
+      "id": "baskkent_s1",
+      "text": "Ankara [başkentimiz].",
+      "note": null
+    },
+    {
+      "id": "baskkent_s2",
+      "text": "[Başkentine] gidiyorum.",
+      "note": null
+    },
+    {
+      "id": "baskkent_s3",
+      "text": "[Başkent] çok kalabalık.",
+      "note": null
+    },
+    {
+      "id": "baskkent_s4",
+      "text": "Ülkenin [başkenti] nedir?",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "baskkent_r1",
       "prompt": "Bir ülkenin en önemli şehri, yönetimin merkezi nedir?",
-      "accepted_forms": ["başkent", "başkentte", "başkentine"],
+      "accepted_forms": [
+        "başkent",
+        "başkentte",
+        "başkentine"
+      ],
       "note": null
     },
     {
       "id": "baskkent_r2",
       "prompt": "Türkiye'nin başkenti nedir?",
-      "accepted_forms": ["Ankara", "başkent"],
+      "accepted_forms": [
+        "Ankara",
+        "başkent"
+      ],
       "note": null
     }
   ]

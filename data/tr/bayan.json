@@ -5,22 +5,46 @@
   "part_of_speech": "noun",
   "english_gloss": "lady, miss, Mrs., woman",
   "sentences": [
-    { "id": "bayan_s1", "text": "[Bayan] Ayşe burada mı?", "note": "Is Miss Ayşe here?" },
-    { "id": "bayan_s2", "text": "[Bayanlar] ve baylar!", "note": "Ladies and gentlemen!" },
-    { "id": "bayan_s3", "text": "[Bayanına] yardım et.", "note": "Help the lady" },
-    { "id": "bayan_s4", "text": "[Bayana] yer ver.", "note": "Give the lady a seat" }
+    {
+      "id": "bayan_s1",
+      "text": "[Bayan] Ayşe burada mı?",
+      "note": "Is Miss Ayşe here?"
+    },
+    {
+      "id": "bayan_s2",
+      "text": "[Bayanlar] ve baylar!",
+      "note": null
+    },
+    {
+      "id": "bayan_s3",
+      "text": "[Bayanına] yardım et.",
+      "note": null
+    },
+    {
+      "id": "bayan_s4",
+      "text": "[Bayana] yer ver.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "bayan_r1",
       "prompt": "Bir kadın yetişkinin önüne konulan unvan nedir?",
-      "accepted_forms": ["bayan", "bayanlar", "hanım"],
+      "accepted_forms": [
+        "bayan",
+        "bayanlar",
+        "hanım"
+      ],
       "note": null
     },
     {
       "id": "bayan_r2",
       "prompt": "Beyefendinin karşılığı kadın için nedir?",
-      "accepted_forms": ["bayan", "bayanlar", "hanım"],
+      "accepted_forms": [
+        "bayan",
+        "bayanlar",
+        "hanım"
+      ],
       "note": null
     }
   ]

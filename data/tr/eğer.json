@@ -5,22 +5,42 @@
   "part_of_speech": "conjunction",
   "english_gloss": "if",
   "sentences": [
-    { "id": "eger_s1", "text": "[Eğer] yağmur yağarsa evde kalacağım.", "note": "conditional" },
-    { "id": "eger_s2", "text": "[Eğer] istersen seninle gelebilirim.", "note": null },
-    { "id": "eger_s3", "text": "[Eğer] param olsaydı tatile giderdim.", "note": "past conditional" },
-    { "id": "eger_s4", "text": "[Eğer] bu işi yapabilir misin?", "note": null }
+    {
+      "id": "eger_s1",
+      "text": "[Eğer] yağmur yağarsa evde kalacağım.",
+      "note": null
+    },
+    {
+      "id": "eger_s2",
+      "text": "[Eğer] istersen seninle gelebilirim.",
+      "note": null
+    },
+    {
+      "id": "eger_s3",
+      "text": "[Eğer] param olsaydı tatile giderdim.",
+      "note": null
+    },
+    {
+      "id": "eger_s4",
+      "text": "[Eğer] bu işi yapabilir misin?",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "eger_r1",
       "prompt": "Bir koşul belirtmek. Türkçede hangi kelimeyi kullanırız?",
-      "accepted_forms": ["eğer"],
+      "accepted_forms": [
+        "eğer"
+      ],
       "note": null
     },
     {
       "id": "eger_r2",
       "prompt": "[Eğer] gelirse sana haber vereceğim.",
-      "accepted_forms": ["eğer"],
+      "accepted_forms": [
+        "eğer"
+      ],
       "note": null
     }
   ]

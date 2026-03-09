@@ -5,22 +5,46 @@
   "part_of_speech": "verb",
   "english_gloss": "to increase, to grow, to add, to remain",
   "sentences": [
-    { "id": "artmak_s1", "text": "Nüfus her yıl [artıyor].", "note": "Population increases every year" },
-    { "id": "artmak_s2", "text": "Fiyatlar [arttı].", "note": "Prices increased" },
-    { "id": "artmak_s3", "text": "Stok [artırmamız] gerekiyor.", "note": "We need to increase stock" },
-    { "id": "artmak_s4", "text": "Pasta parçalarından [artan] bir parça var.", "note": "There's a leftover piece of cake" }
+    {
+      "id": "artmak_s1",
+      "text": "Nüfus her yıl [artıyor].",
+      "note": null
+    },
+    {
+      "id": "artmak_s2",
+      "text": "Fiyatlar [arttı].",
+      "note": null
+    },
+    {
+      "id": "artmak_s3",
+      "text": "Stok [artırmamız] gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "artmak_s4",
+      "text": "Pasta parçalarından [artan] bir parça var.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "artmak_r1",
       "prompt": "Bir sayı daha büyük hale geldi. Ne oldu?",
-      "accepted_forms": ["arttı", "artmak", "artt"],
+      "accepted_forms": [
+        "arttı",
+        "artmak",
+        "artt"
+      ],
       "note": null
     },
     {
       "id": "artmak_r2",
       "prompt": "Her ay kazancı daha fazla oluyor. Kazancı ne yapıyor?",
-      "accepted_forms": ["artıyor", "artmak", "artmakta"],
+      "accepted_forms": [
+        "artıyor",
+        "artmak",
+        "artmakta"
+      ],
       "note": null
     }
   ]

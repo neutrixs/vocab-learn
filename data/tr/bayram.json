@@ -5,22 +5,46 @@
   "part_of_speech": "noun",
   "english_gloss": "festival, holiday, celebration",
   "sentences": [
-    { "id": "bayram_s1", "text": "[Bayram] geldi mi?", "note": "Has the holiday come?" },
-    { "id": "bayram_s2", "text": "[Bayramda] ailesi ziyaret ediyor.", "note": "He visits his family on the holiday" },
-    { "id": "bayram_s3", "text": "[Bayramları] seviyor.", "note": "He likes holidays" },
-    { "id": "bayram_s4", "text": "[Bayrama] haftası var.", "note": "There's a week until the holiday" }
+    {
+      "id": "bayram_s1",
+      "text": "[Bayram] geldi mi?",
+      "note": null
+    },
+    {
+      "id": "bayram_s2",
+      "text": "[Bayramda] ailesi ziyaret ediyor.",
+      "note": null
+    },
+    {
+      "id": "bayram_s3",
+      "text": "[Bayramları] seviyor.",
+      "note": null
+    },
+    {
+      "id": "bayram_s4",
+      "text": "[Bayrama] haftası var.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "bayram_r1",
       "prompt": "Veya yazında kutlanan dini veya milli etkinlik nedir?",
-      "accepted_forms": ["bayram", "bayramları", "Eid"],
+      "accepted_forms": [
+        "bayram",
+        "bayramları",
+        "Eid"
+      ],
       "note": null
     },
     {
       "id": "bayram_r2",
       "prompt": "Türkiye'de insanlar işe gitmez, evde oturur. Hangisi?",
-      "accepted_forms": ["bayram", "tatil", "bayramda"],
+      "accepted_forms": [
+        "bayram",
+        "tatil",
+        "bayramda"
+      ],
       "note": null
     }
   ]

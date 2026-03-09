@@ -5,22 +5,43 @@
   "part_of_speech": "noun",
   "english_gloss": "buttock, rear",
   "sentences": [
-    { "id": "popo_s1", "text": "Bebeğin [popo]su çoktatlı.", "note": "'poposu' = his/her buttock" },
-    { "id": "popo_s2", "text": "[Popo]nun üzerine oturdum.", "note": "'poponun' = buttock's" },
-    { "id": "popo_s3", "text": "Bebekler popolarını kaldırtmazlar.", "note": "'popolarını' = their buttocks" },
-    { "id": "popo_s4", "text": "[Popo]nuz soğuk mu oluyor?", "note": "'poponuz' = your buttock" }
+    {
+      "id": "popo_s1",
+      "text": "Bebeğin [popo]su çoktatlı.",
+      "note": null
+    },
+    {
+      "id": "popo_s2",
+      "text": "[Popo]nun üzerine oturdum.",
+      "note": null
+    },
+    {
+      "id": "popo_s3",
+      "text": "Bebekler popolarını kaldırtmazlar.",
+      "note": "'popolarını' = their buttocks"
+    },
+    {
+      "id": "popo_s4",
+      "text": "[Popo]nuz soğuk mu oluyor?",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "popo_r1",
       "prompt": "İnsan vücudunun oturulacak kısmına ne denir?",
-      "accepted_forms": ["popo", "popular"],
+      "accepted_forms": [
+        "popo",
+        "popular"
+      ],
       "note": null
     },
     {
       "id": "popo_r2",
       "prompt": "Bebeğin ... değişmek gerekiyor.",
-      "accepted_forms": ["popo"],
+      "accepted_forms": [
+        "popo"
+      ],
       "note": null
     }
   ]

@@ -8,22 +8,22 @@
     {
       "id": "çok_s1",
       "text": "[Çok] güzel!.",
-      "note": "very beautiful!"
+      "note": null
     },
     {
       "id": "çok_s2",
       "text": "[Çok] zaman yok.",
-      "note": "no much time"
+      "note": null
     },
     {
       "id": "çok_s3",
       "text": "[Çok] insanlar vardı.",
-      "note": "many people were there"
+      "note": null
     },
     {
       "id": "çok_s4",
       "text": "[Çok] yoruldum.",
-      "note": "I'm very tired"
+      "note": null
     }
   ],
   "recall_prompts": [

@@ -5,22 +5,42 @@
   "part_of_speech": "adjective",
   "english_gloss": "ready, prepared",
   "sentences": [
-    { "id": "hazir_s1", "text": "[Hazır]] mısın toplantı için?", "note": null },
-    { "id": "hazir_s2", "text": "Sınavı [hazırlanırken]] tamamladı. studyıd.", "note": null },
-    { "id": "hazir_s3", "text": "[Hazır]] ürünler her zaman mağazada.", "note": "ready-made products" },
-    { "id": "hazir_s4", "text": "[Hazırlanmış]] yemek yemeyi seviyorum.", "note": "'hazırlanmış' = prepared" }
+    {
+      "id": "hazir_s1",
+      "text": "[Hazır]] mısın toplantı için?",
+      "note": null
+    },
+    {
+      "id": "hazir_s2",
+      "text": "Sınavı [hazırlanırken]] tamamladı. studyıd.",
+      "note": null
+    },
+    {
+      "id": "hazir_s3",
+      "text": "[Hazır]] ürünler her zaman mağazada.",
+      "note": null
+    },
+    {
+      "id": "hazir_s4",
+      "text": "[Hazırlanmış]] yemek yemeyi seviyorum.",
+      "note": "'hazırlanmış' = prepared"
+    }
   ],
   "recall_prompts": [
     {
       "id": "hazir_r1",
       "prompt": "Yapılması, hazırlanması tamamlanan: ...",
-      "accepted_forms": ["hazır"],
+      "accepted_forms": [
+        "hazır"
+      ],
       "note": null
     },
     {
       "id": "hazir_r2",
       "prompt": "Toplantı için [...] mısınız?",
-      "accepted_forms": ["hazır"],
+      "accepted_forms": [
+        "hazır"
+      ],
       "note": null
     }
   ]

@@ -5,22 +5,46 @@
   "part_of_speech": "adjective",
   "english_gloss": "independent, autonomous, self-governing",
   "sentences": [
-    { "id": "bagimsiz_s1", "text": "Türkiye [bağımsız] bir ülkedir.", "note": "Turkey is an independent country" },
-    { "id": "bagimsiz_s2", "text": "O çocuk çok [bağımsız].", "note": "That child is very independent" },
-    { "id": "bagimsiz_s3", "text": "[Bağımsız] düşünebilir misin?", "note": "Can you think independently?" },
-    { "id": "bagimsiz_s4", "text": "[Bağımsız] yaşamak istiyorum.", "note": "I want to live independently" }
+    {
+      "id": "bagimsiz_s1",
+      "text": "Türkiye [bağımsız] bir ülkedir.",
+      "note": null
+    },
+    {
+      "id": "bagimsiz_s2",
+      "text": "O çocuk çok [bağımsız].",
+      "note": null
+    },
+    {
+      "id": "bagimsiz_s3",
+      "text": "[Bağımsız] düşünebilir misin?",
+      "note": null
+    },
+    {
+      "id": "bagimsiz_s4",
+      "text": "[Bağımsız] yaşamak istiyorum.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "bagimsiz_r1",
       "prompt": "Kimseye bağlı olmayan, kendi başına yönetilen bir ülke nasıl?",
-      "accepted_forms": ["bağımsız", "egemen", "özgür"],
+      "accepted_forms": [
+        "bağımsız",
+        "egemen",
+        "özgür"
+      ],
       "note": null
     },
     {
       "id": "bagimsiz_r2",
       "prompt": "Başkasının yardımı olmadan kendi başına başarabilir misin? Ne durumdasın?",
-      "accepted_forms": ["bağımsız", "bağımsızım", "muhtariyetli"],
+      "accepted_forms": [
+        "bağımsız",
+        "bağımsızım",
+        "muhtariyetli"
+      ],
       "note": null
     }
   ]

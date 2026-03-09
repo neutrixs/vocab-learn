@@ -5,22 +5,43 @@
   "part_of_speech": "verb",
   "english_gloss": "to meet by chance, to encounter",
   "sentences": [
-    { "id": "rastla_s1", "text": "[Rastladım] arkadaşıma caddelerdeki.", "note": "'rastladım' = I met (by chance)" },
-    { "id": "rastla_s2", "text": "[Rastlıyor] muyuz başında?", "note": "'rastlıyor muyuz' = do we encounter?" },
-    { "id": "rastla_s3", "text": "Dün akşam [rastladığım] kardeşim.", "note": "'rastladığım' = that I met" },
-    { "id": "rastla_s4", "text": "[Rastlamadan] gittim ordan.", "note": "'rastlamadan' = without encountering" }
+    {
+      "id": "rastla_s1",
+      "text": "[Rastladım] arkadaşıma caddelerdeki.",
+      "note": "'rastladım' = I met (by chance)"
+    },
+    {
+      "id": "rastla_s2",
+      "text": "[Rastlıyor] muyuz başında?",
+      "note": "'rastlıyor muyuz' = do we encounter?"
+    },
+    {
+      "id": "rastla_s3",
+      "text": "Dün akşam [rastladığım] kardeşim.",
+      "note": "'rastladığım' = that I met"
+    },
+    {
+      "id": "rastla_s4",
+      "text": "[Rastlamadan] gittim ordan.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "rastla_r1",
       "prompt": "Birileriyle tesadüfen karşılaşmak ne demektir?",
-      "accepted_forms": ["rastlamak", "karşılaşmak"],
+      "accepted_forms": [
+        "rastlamak",
+        "karşılaşmak"
+      ],
       "note": null
     },
     {
       "id": "rastla_r2",
       "prompt": "Dün eski arkadaşıma ... markette.",
-      "accepted_forms": ["rastladım"],
+      "accepted_forms": [
+        "rastladım"
+      ],
       "note": null
     }
   ]

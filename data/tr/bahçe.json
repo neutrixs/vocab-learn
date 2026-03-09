@@ -5,22 +5,46 @@
   "part_of_speech": "noun",
   "english_gloss": "garden, yard",
   "sentences": [
-    { "id": "bahce_s1", "text": "Evimizin [bahçesi] çok güzel.", "note": "Our house's garden is very nice" },
-    { "id": "bahce_s2", "text": "[Bahçede] çiçekler var.", "note": "There are flowers in the garden" },
-    { "id": "bahce_s3", "text": "[Bahçeye] git.", "note": "Go to the garden" },
-    { "id": "bahce_s4", "text": "[Bahçe] temiz ve düzenli.", "note": "The garden is clean and tidy" }
+    {
+      "id": "bahce_s1",
+      "text": "Evimizin [bahçesi] çok güzel.",
+      "note": null
+    },
+    {
+      "id": "bahce_s2",
+      "text": "[Bahçede] çiçekler var.",
+      "note": null
+    },
+    {
+      "id": "bahce_s3",
+      "text": "[Bahçeye] git.",
+      "note": null
+    },
+    {
+      "id": "bahce_s4",
+      "text": "[Bahçe] temiz ve düzenli.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "bahce_r1",
       "prompt": "Evinin yanında çiçeklerin ve ağaçların yetiştiriliği yer nedir?",
-      "accepted_forms": ["bahçe", "bahçeyi", "bahçemiz"],
+      "accepted_forms": [
+        "bahçe",
+        "bahçeyi",
+        "bahçemiz"
+      ],
       "note": null
     },
     {
       "id": "bahce_r2",
       "prompt": "Dışarıda yeşil alanı olan evin dışı neresine denir?",
-      "accepted_forms": ["bahçe", "avlu", "bahçemiz"],
+      "accepted_forms": [
+        "bahçe",
+        "avlu",
+        "bahçemiz"
+      ],
       "note": null
     }
   ]

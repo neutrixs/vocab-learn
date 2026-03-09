@@ -23,20 +23,24 @@
     {
       "id": "sorumlu_s4",
       "text": "Proje [sorumlu]su kim?",
-      "note": "the person in charge"
+      "note": null
     }
   ],
   "recall_prompts": [
     {
       "id": "sorumlu_r1",
       "prompt": "Bir şeyden hesap vermesi gereken anlamındaki sıfat nedir?",
-      "accepted_forms": ["sorumlu"],
+      "accepted_forms": [
+        "sorumlu"
+      ],
       "note": null
     },
     {
       "id": "sorumlu_r2",
       "prompt": "Responsible anlamındaki Türkçe sözcük hangisidir?",
-      "accepted_forms": ["sorumlu"],
+      "accepted_forms": [
+        "sorumlu"
+      ],
       "note": null
     }
   ]

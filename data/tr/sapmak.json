@@ -5,22 +5,46 @@
   "part_of_speech": "verb",
   "english_gloss": "to deviate, to drift, to go astray, to veer",
   "sentences": [
-    { "id": "sapmak_s1", "text": "Yoldan [sapmayın].", "note": "imperative" },
-    { "id": "sapmak_s2", "text": "Araç soldan [sapmış].", "note": null },
-    { "id": "sapmak_s3", "text": "Konu dışına [sapıyor].", "note": "he/she is straying from the subject" },
-    { "id": "sapmak_s4", "text": "Doğru yoldan [sapmazsan] başarılı olursun.", "note": null }
+    {
+      "id": "sapmak_s1",
+      "text": "Yoldan [sapmayın].",
+      "note": null
+    },
+    {
+      "id": "sapmak_s2",
+      "text": "Araç soldan [sapmış].",
+      "note": null
+    },
+    {
+      "id": "sapmak_s3",
+      "text": "Konu dışına [sapıyor].",
+      "note": null
+    },
+    {
+      "id": "sapmak_s4",
+      "text": "Doğru yoldan [sapmazsan] başarılı olursun.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "sapmak_r1",
       "prompt": "Doğru yoldan yana gitmek ne demek?",
-      "accepted_forms": ["sapmak", "yoldan çıkmak", "sapma"],
+      "accepted_forms": [
+        "sapmak",
+        "yoldan çıkmak",
+        "sapma"
+      ],
       "note": null
     },
     {
       "id": "sapmak_r2",
       "prompt": "Konudan uzaklaşmak ne eylemdir?",
-      "accepted_forms": ["sapmak", "konu dışına çıkmak", "ayrılmak"],
+      "accepted_forms": [
+        "sapmak",
+        "konu dışına çıkmak",
+        "ayrılmak"
+      ],
       "note": null
     }
   ]

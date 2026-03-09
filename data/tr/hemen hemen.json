@@ -5,22 +5,42 @@
   "part_of_speech": "adverb",
   "english_gloss": "almost, nearly, practically",
   "sentences": [
-    { "id": "hemenhemen_s1", "text": "[Hemen hemen]] tamamladım işi.", "note": null },
-    { "id": "hemenhemen_s2", "text": "[Hemen hemen]] aynı, ufak fark var.", "note": null },
-    { "id": "hemenhemen_s3", "text": "[Hemen hemen]] herkes geldi.", "note": "almost everyone came" },
-    { "id": "hemenhemen_s4", "text": "[Hemen hemen]] başını kaybetmişti.", "note": "almost lost his head" }
+    {
+      "id": "hemenhemen_s1",
+      "text": "[Hemen hemen]] tamamladım işi.",
+      "note": null
+    },
+    {
+      "id": "hemenhemen_s2",
+      "text": "[Hemen hemen]] aynı, ufak fark var.",
+      "note": null
+    },
+    {
+      "id": "hemenhemen_s3",
+      "text": "[Hemen hemen]] herkes geldi.",
+      "note": null
+    },
+    {
+      "id": "hemenhemen_s4",
+      "text": "[Hemen hemen]] başını kaybetmişti.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "hemenhemen_r1",
       "prompt": "Tam değil ama çok yakın, neredeyse: ...",
-      "accepted_forms": ["hemen hemen"],
+      "accepted_forms": [
+        "hemen hemen"
+      ],
       "note": null
     },
     {
       "id": "hemenhemen_r2",
       "prompt": "[...] tamam, sadece birkaç düzeltme kaldı.",
-      "accepted_forms": ["hemen hemen"],
+      "accepted_forms": [
+        "hemen hemen"
+      ],
       "note": null
     }
   ]

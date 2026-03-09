@@ -5,22 +5,45 @@
   "part_of_speech": "noun",
   "english_gloss": "honor, cheers, toast, prestige",
   "sentences": [
-    { "id": "şerefe_s1", "text": "[Şerefesine] rakı kaldırdı.", "note": "cheers to someone's honor" },
-    { "id": "şerefe_s2", "text": "Ülkenin [şerefesi] bütün dünyaya gidecek.", "note": null },
-    { "id": "şerefe_s3", "text": "Dürüst insanlar toplumun [şerefi]dir.", "note": null },
-    { "id": "şerefe_s4", "text": "Ailesi adına [şerefe] yaşamak istiyordu.", "note": null }
+    {
+      "id": "şerefe_s1",
+      "text": "[Şerefesine] rakı kaldırdı.",
+      "note": null
+    },
+    {
+      "id": "şerefe_s2",
+      "text": "Ülkenin [şerefesi] bütün dünyaya gidecek.",
+      "note": null
+    },
+    {
+      "id": "şerefe_s3",
+      "text": "Dürüst insanlar toplumun [şerefi]dir.",
+      "note": null
+    },
+    {
+      "id": "şerefe_s4",
+      "text": "Ailesi adına [şerefe] yaşamak istiyordu.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "şerefe_r1",
       "prompt": "Birine saygı göstermek veya onu onurlandırmak için yapılan tost. Ne denir?",
-      "accepted_forms": ["şerefe", "şerefesine", "şerefine"],
+      "accepted_forms": [
+        "şerefe",
+        "şerefesine",
+        "şerefine"
+      ],
       "note": null
     },
     {
       "id": "şerefe_r2",
       "prompt": "Sosyal konumda veya itibarında yüksek standart, onur. Ne denir?",
-      "accepted_forms": ["şerefe", "şerifi"],
+      "accepted_forms": [
+        "şerefe",
+        "şerifi"
+      ],
       "note": null
     }
   ]

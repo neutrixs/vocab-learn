@@ -5,22 +5,44 @@
   "part_of_speech": "noun",
   "english_gloss": "coat, overcoat",
   "sentences": [
-    { "id": "palto_s1", "text": "Kış için kalın bir [palto] aldım.", "note": null },
-    { "id": "palto_s2", "text": "Ceketi ve [paltosu] temizletir.", "note": "He has his jacket and coat cleaned" },
-    { "id": "palto_s3", "text": "[Paltonun] cebinde ne var?", "note": null },
-    { "id": "palto_s4", "text": "Siyah [palto] taşıyor.", "note": "He's wearing a black overcoat" }
+    {
+      "id": "palto_s1",
+      "text": "Kış için kalın bir [palto] aldım.",
+      "note": null
+    },
+    {
+      "id": "palto_s2",
+      "text": "Ceketi ve [paltosu] temizletir.",
+      "note": null
+    },
+    {
+      "id": "palto_s3",
+      "text": "[Paltonun] cebinde ne var?",
+      "note": null
+    },
+    {
+      "id": "palto_s4",
+      "text": "Siyah [palto] taşıyor.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "palto_r1",
       "prompt": "Soğuk havada giyer, çok kalın bir elbise ne denir?",
-      "accepted_forms": ["palto", "kaban"],
+      "accepted_forms": [
+        "palto",
+        "kaban"
+      ],
       "note": null
     },
     {
       "id": "palto_r2",
       "prompt": "'Kışın ... giyebilirim.' Boşluğu doldur.",
-      "accepted_forms": ["palto", "paltonun"],
+      "accepted_forms": [
+        "palto",
+        "paltonun"
+      ],
       "note": null
     }
   ]

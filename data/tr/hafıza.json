@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "memory",
   "sentences": [
-    { "id": "hafiza_s1", "text": "Onun [hafızası]] çok iyi.", "note": "'hafızası' = his/her memory (possessive)" },
-    { "id": "hafiza_s2", "text": "[Hafızam]] zayıf, unutkanlığım çok.", "note": "'hafızam' = my memory" },
-    { "id": "hafiza_s3", "text": "[Hafızaya]] yerleştirmeliyim.", "note": "'hafızaya' = to memory (dative)" },
-    { "id": "hafiza_s4", "text": "[Hafıza]] oyunu oynuyoruz.", "note": "memory game" }
+    {
+      "id": "hafiza_s1",
+      "text": "Onun [hafızası]] çok iyi.",
+      "note": "'hafızası' = his/her memory (possessive)"
+    },
+    {
+      "id": "hafiza_s2",
+      "text": "[Hafızam]] zayıf, unutkanlığım çok.",
+      "note": "'hafızam' = my memory"
+    },
+    {
+      "id": "hafiza_s3",
+      "text": "[Hafızaya]] yerleştirmeliyim.",
+      "note": "'hafızaya' = to memory (dative)"
+    },
+    {
+      "id": "hafiza_s4",
+      "text": "[Hafıza]] oyunu oynuyoruz.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "hafiza_r1",
       "prompt": "Geçmişte yaşananları hatırlama yeteneği: ...",
-      "accepted_forms": ["hafıza"],
+      "accepted_forms": [
+        "hafıza"
+      ],
       "note": null
     },
     {
       "id": "hafiza_r2",
       "prompt": "Onun [...] iyi, her şeyi hatırlıyor.",
-      "accepted_forms": ["hafızası"],
+      "accepted_forms": [
+        "hafızası"
+      ],
       "note": null
     }
   ]

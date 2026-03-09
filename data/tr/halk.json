@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "people, nation",
   "sentences": [
-    { "id": "halk_s1", "text": "[Halk]] karar vermeli.", "note": null },
-    { "id": "halk_s2", "text": "[Halka]] uygun fiyat.", "note": "'halka' = to the people (dative)" },
-    { "id": "halk_s3", "text": "[Halktaki]] başlamıştı endişe.", "note": null },
-    { "id": "halk_s4", "text": "[Halk]] türküsü söylüyordu.", "note": null }
+    {
+      "id": "halk_s1",
+      "text": "[Halk]] karar vermeli.",
+      "note": null
+    },
+    {
+      "id": "halk_s2",
+      "text": "[Halka]] uygun fiyat.",
+      "note": null
+    },
+    {
+      "id": "halk_s3",
+      "text": "[Halktaki]] başlamıştı endişe.",
+      "note": null
+    },
+    {
+      "id": "halk_s4",
+      "text": "[Halk]] türküsü söylüyordu.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "halk_r1",
       "prompt": "Bir ülkenin tüm yurttaşları: ...",
-      "accepted_forms": ["halk"],
+      "accepted_forms": [
+        "halk"
+      ],
       "note": null
     },
     {
       "id": "halk_r2",
       "prompt": "Bir ülkenin [...] çok kalabalık.",
-      "accepted_forms": ["halkı"],
+      "accepted_forms": [
+        "halkı"
+      ],
       "note": null
     }
   ]

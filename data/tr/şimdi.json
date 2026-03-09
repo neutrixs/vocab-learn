@@ -5,16 +5,35 @@
   "part_of_speech": "adverb",
   "english_gloss": "now, at present, immediately",
   "sentences": [
-    { "id": "şimdi_s1", "text": "[Şimdi] saat kaç?", "note": null },
-    { "id": "şimdi_s2", "text": "[Şimdi] gelmesi lazım.", "note": null },
-    { "id": "şimdi_s3", "text": "O zaman ne yapıyordun, [şimdi] neler yapıyorsun?", "note": null },
-    { "id": "şimdi_s4", "text": "[Şimdi] veya hiçbir zaman.", "note": "now or never" }
+    {
+      "id": "şimdi_s1",
+      "text": "[Şimdi] saat kaç?",
+      "note": null
+    },
+    {
+      "id": "şimdi_s2",
+      "text": "[Şimdi] gelmesi lazım.",
+      "note": null
+    },
+    {
+      "id": "şimdi_s3",
+      "text": "O zaman ne yapıyordun, [şimdi] neler yapıyorsun?",
+      "note": null
+    },
+    {
+      "id": "şimdi_s4",
+      "text": "[Şimdi] veya hiçbir zaman.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "şimdi_r1",
       "prompt": "Bu anı, burada ve günümüzde. Ne denir?",
-      "accepted_forms": ["şimdi", "şimdilerde"],
+      "accepted_forms": [
+        "şimdi",
+        "şimdilerde"
+      ],
       "note": null
     }
   ]

@@ -5,22 +5,46 @@
   "part_of_speech": "pronoun",
   "english_gloss": "I, me",
   "sentences": [
-    { "id": "ben_s1", "text": "[Ben] gelmişim.", "note": "I came" },
-    { "id": "ben_s2", "text": "[Benim] kitabım burada.", "note": "My book is here" },
-    { "id": "ben_s3", "text": "[Bana] sor.", "note": "Ask me" },
-    { "id": "ben_s4", "text": "Seni [ben] seviyor.", "note": "I love you" }
+    {
+      "id": "ben_s1",
+      "text": "[Ben] gelmişim.",
+      "note": null
+    },
+    {
+      "id": "ben_s2",
+      "text": "[Benim] kitabım burada.",
+      "note": null
+    },
+    {
+      "id": "ben_s3",
+      "text": "[Bana] sor.",
+      "note": null
+    },
+    {
+      "id": "ben_s4",
+      "text": "Seni [ben] seviyor.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "ben_r1",
       "prompt": "Kendinden bahsederken hangi zamiri kullanırsın?",
-      "accepted_forms": ["ben", "ben kendim", "kendim"],
+      "accepted_forms": [
+        "ben",
+        "ben kendim",
+        "kendim"
+      ],
       "note": null
     },
     {
       "id": "ben_r2",
       "prompt": "'Senin yerine konuşmak istiyorum.' Cümleyi tamamla. '... konuşmak istiyorum.'",
-      "accepted_forms": ["ben", "ben kendim", "kendim"],
+      "accepted_forms": [
+        "ben",
+        "ben kendim",
+        "kendim"
+      ],
       "note": null
     }
   ]

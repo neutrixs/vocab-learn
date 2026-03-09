@@ -5,22 +5,43 @@
   "part_of_speech": "noun",
   "english_gloss": "market, bazaar",
   "sentences": [
-    { "id": "pazar_s1", "text": "[Pazar]da balık satışı yapılıyor.", "note": "'pazarda' = at the market" },
-    { "id": "pazar_s2", "text": "[Pazar]dan meyve aldım.", "note": "'pazardan' = from the market" },
-    { "id": "pazar_s3", "text": "[Pazar]daki fiyatlar ucuz.", "note": "'pazardaki' = market's (locative adjective)" },
-    { "id": "pazar_s4", "text": "Sırası [pazar]ında gidiz.", "note": null }
+    {
+      "id": "pazar_s1",
+      "text": "[Pazar]da balık satışı yapılıyor.",
+      "note": null
+    },
+    {
+      "id": "pazar_s2",
+      "text": "[Pazar]dan meyve aldım.",
+      "note": null
+    },
+    {
+      "id": "pazar_s3",
+      "text": "[Pazar]daki fiyatlar ucuz.",
+      "note": null
+    },
+    {
+      "id": "pazar_s4",
+      "text": "Sırası [pazar]ında gidiz.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "pazar_r1",
       "prompt": "Satıcı ve alıcıların bir araya gelmesiyle oluşan ticari yer adına ne denir?",
-      "accepted_forms": ["pazar", "pazarı"],
+      "accepted_forms": [
+        "pazar",
+        "pazarı"
+      ],
       "note": null
     },
     {
       "id": "pazar_r2",
       "prompt": "Pazardan ... aldığı meyveleri saladı.",
-      "accepted_forms": ["pazar"],
+      "accepted_forms": [
+        "pazar"
+      ],
       "note": null
     }
   ]

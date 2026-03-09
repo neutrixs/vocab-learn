@@ -5,22 +5,44 @@
   "part_of_speech": "verb",
   "english_gloss": "to conquer, to capture, to seize",
   "sentences": [
-    { "id": "fethetmek_s1", "text": "Osmanlılar [fethedil] İstanbul.", "note": "'fethedili' = conquered (past tense, 'fetihler' modern form)" },
-    { "id": "fethetmek_s2", "text": "[Fethettik] şehri uzun savaştan sonra.", "note": "we conquered the city after a long war" },
-    { "id": "fethetmek_s3", "text": "[Fethetmeye] çalıştılar bölgeyi.", "note": "they tried to conquer the region" },
-    { "id": "fethetmek_s4", "text": "[Fethedilmiş] bir memleket müdafaa kılacaklar.", "note": "they will defend a conquered country" }
+    {
+      "id": "fethetmek_s1",
+      "text": "Osmanlılar [fethedil] İstanbul.",
+      "note": null
+    },
+    {
+      "id": "fethetmek_s2",
+      "text": "[Fethettik] şehri uzun savaştan sonra.",
+      "note": null
+    },
+    {
+      "id": "fethetmek_s3",
+      "text": "[Fethetmeye] çalıştılar bölgeyi.",
+      "note": null
+    },
+    {
+      "id": "fethetmek_s4",
+      "text": "[Fethedilmiş] bir memleket müdafaa kılacaklar.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "fethetmek_r1",
       "prompt": "Savaş yolu ile almak, yönetim altına almak. Ne yapmışsın?",
-      "accepted_forms": ["fethetmek", "fethettim"],
+      "accepted_forms": [
+        "fethetmek",
+        "fethettim"
+      ],
       "note": null
     },
     {
       "id": "fethetmek_r2",
       "prompt": "Türkler [fethedil] şehri 1453'de.",
-      "accepted_forms": ["fethetmek", "fethetti"],
+      "accepted_forms": [
+        "fethetmek",
+        "fethetti"
+      ],
       "note": null
     }
   ]

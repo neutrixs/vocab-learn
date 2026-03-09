@@ -5,23 +5,50 @@
   "part_of_speech": "noun",
   "english_gloss": "time, period, era, when",
   "sentences": [
-    { "id": "zaman_s1", "text": "[Zaman] çok hızlı geçiyor.", "note": null },
-    { "id": "zaman_s2", "text": "Boş [zamanında] ne yaparsın?", "note": "'zamanında' = in one's free time / on time" },
-    { "id": "zaman_s3", "text": "Çocuk [zamanımda] bu mahalleye gelirdim.", "note": "idiomatic: 'when I was a child'" },
-    { "id": "zaman_s4", "text": "Bazen [zaman] yetmiyor.", "note": null },
-    { "id": "zaman_s5", "text": "O [zamanlar] hayat daha basitti.", "note": "'o zamanlar' = back then, in those days" }
+    {
+      "id": "zaman_s1",
+      "text": "[Zaman] çok hızlı geçiyor.",
+      "note": null
+    },
+    {
+      "id": "zaman_s2",
+      "text": "Boş [zamanında] ne yaparsın?",
+      "note": "'zamanında' = in one's free time / on time"
+    },
+    {
+      "id": "zaman_s3",
+      "text": "Çocuk [zamanımda] bu mahalleye gelirdim.",
+      "note": null
+    },
+    {
+      "id": "zaman_s4",
+      "text": "Bazen [zaman] yetmiyor.",
+      "note": null
+    },
+    {
+      "id": "zaman_s5",
+      "text": "O [zamanlar] hayat daha basitti.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "zaman_r1",
       "prompt": "Arkadaşın 'Ne zaman buluşabiliriz?' diye soruyor. 'Boş ..ım olunca seni ararım.' diyorsun.",
-      "accepted_forms": ["zamanım", "zaman", "zamanım olunca"],
+      "accepted_forms": [
+        "zamanım",
+        "zaman",
+        "zamanım olunca"
+      ],
       "note": null
     },
     {
       "id": "zaman_r2",
       "prompt": "Hayatın çok meşgul geçiyor. 'Hiç ... bulamıyorum.' diyorsun.",
-      "accepted_forms": ["zaman", "vakit"],
+      "accepted_forms": [
+        "zaman",
+        "vakit"
+      ],
       "note": null
     }
   ]

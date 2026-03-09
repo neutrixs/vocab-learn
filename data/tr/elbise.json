@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "dress, clothing",
   "sentences": [
-    { "id": "elbise_s1", "text": "Kırmızı [elbisesi] çok güzel.", "note": null },
-    { "id": "elbise_s2", "text": "[Elbiseni] al, çıkalım.", "note": "'elbiseni' = your dress (accusative)" },
-    { "id": "elbise_s3", "text": "[Elbisede] leke var, temizlet.", "note": null },
-    { "id": "elbise_s4", "text": "Bu [elbise] sana çok yakışır.", "note": null }
+    {
+      "id": "elbise_s1",
+      "text": "Kırmızı [elbisesi] çok güzel.",
+      "note": null
+    },
+    {
+      "id": "elbise_s2",
+      "text": "[Elbiseni] al, çıkalım.",
+      "note": null
+    },
+    {
+      "id": "elbise_s3",
+      "text": "[Elbisede] leke var, temizlet.",
+      "note": null
+    },
+    {
+      "id": "elbise_s4",
+      "text": "Bu [elbise] sana çok yakışır.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "elbise_r1",
       "prompt": "Giyilen kumaş parçası. Ne denir?",
-      "accepted_forms": ["elbise"],
+      "accepted_forms": [
+        "elbise"
+      ],
       "note": null
     },
     {
       "id": "elbise_r2",
       "prompt": "Mavi [elbise] giydi düğüne.",
-      "accepted_forms": ["elbise"],
+      "accepted_forms": [
+        "elbise"
+      ],
       "note": null
     }
   ]

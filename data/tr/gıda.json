@@ -23,20 +23,25 @@
     {
       "id": "gida_s4",
       "text": "[Gıdalar] buzdolabında saklanmalı.",
-      "note": "plural form"
+      "note": null
     }
   ],
   "recall_prompts": [
     {
       "id": "gida_r1",
       "prompt": "Yemek anlamında Türkçe kelime nedir?",
-      "accepted_forms": ["gıda", "gıdalar"],
+      "accepted_forms": [
+        "gıda",
+        "gıdalar"
+      ],
       "note": null
     },
     {
       "id": "gida_r2",
       "prompt": "'Healthy ... is important' cümlesini Türkçeye çevirmek istiyorsun. ... yerine ne yazarsın?",
-      "accepted_forms": ["gıda"],
+      "accepted_forms": [
+        "gıda"
+      ],
       "note": null
     }
   ]

@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "disaster, calamity, catastrophe",
   "sentences": [
-    { "id": "felaket_s1", "text": "[Felaket] herkesi etkiledi şiddetle.", "note": "the disaster affected everyone severely" },
-    { "id": "felaket_s2", "text": "[Felakete] maruz kaldık.", "note": "'felakete' = to the disaster (dative)" },
-    { "id": "felaket_s3", "text": "[Felaketten] sonra yardım toplayacağız.", "note": "'felaketten' = from the disaster (ablative)" },
-    { "id": "felaket_s4", "text": "[Felaket]in evden kaçma planı var.", "note": "plans to escape the disaster from home" }
+    {
+      "id": "felaket_s1",
+      "text": "[Felaket] herkesi etkiledi şiddetle.",
+      "note": null
+    },
+    {
+      "id": "felaket_s2",
+      "text": "[Felakete] maruz kaldık.",
+      "note": null
+    },
+    {
+      "id": "felaket_s3",
+      "text": "[Felaketten] sonra yardım toplayacağız.",
+      "note": null
+    },
+    {
+      "id": "felaket_s4",
+      "text": "[Felaket]in evden kaçma planı var.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "felaket_r1",
       "prompt": "Büyük kötü olay, afet. Ne denir?",
-      "accepted_forms": ["felaket"],
+      "accepted_forms": [
+        "felaket"
+      ],
       "note": null
     },
     {
       "id": "felaket_r2",
       "prompt": "[Felaket] bölgeye yardım gönder.",
-      "accepted_forms": ["felaket"],
+      "accepted_forms": [
+        "felaket"
+      ],
       "note": null
     }
   ]

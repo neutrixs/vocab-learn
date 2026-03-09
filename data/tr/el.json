@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "hand",
   "sentences": [
-    { "id": "el_s1", "text": "[Elim] ağrıyor.", "note": "'elim' = my hand" },
-    { "id": "el_s2", "text": "[Ele] al, dikkat et.", "note": "be careful with your hand" },
-    { "id": "el_s3", "text": "Açık [elden] biredir ağaçta ikisidir.", "note": "proverb: a bird in hand is worth two in bush" },
-    { "id": "el_s4", "text": "[Elinden] çok güzel resim çiziyor.", "note": "he draws very well" }
+    {
+      "id": "el_s1",
+      "text": "[Elim] ağrıyor.",
+      "note": null
+    },
+    {
+      "id": "el_s2",
+      "text": "[Ele] al, dikkat et.",
+      "note": null
+    },
+    {
+      "id": "el_s3",
+      "text": "Açık [elden] biredir ağaçta ikisidir.",
+      "note": null
+    },
+    {
+      "id": "el_s4",
+      "text": "[Elinden] çok güzel resim çiziyor.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "el_r1",
       "prompt": "Kolun ucundaki cihaz, beş parmakla. Ne denir?",
-      "accepted_forms": ["el"],
+      "accepted_forms": [
+        "el"
+      ],
       "note": null
     },
     {
       "id": "el_r2",
       "prompt": "[El] yıka, yemek yemeden önce.",
-      "accepted_forms": ["el"],
+      "accepted_forms": [
+        "el"
+      ],
       "note": null
     }
   ]

@@ -5,22 +5,46 @@
   "part_of_speech": "pronoun",
   "english_gloss": "some, certain, a few, certain ones",
   "sentences": [
-    { "id": "bazi_s1", "text": "[Bazı] insanlar seviyorum.", "note": "I like some people" },
-    { "id": "bazi_s2", "text": "[Bazıları] gitmedi.", "note": "Some of them didn't go" },
-    { "id": "bazi_s3", "text": "[Bazı] şeyler anlaşılmıyor.", "note": "Some things don't make sense" },
-    { "id": "bazi_s4", "text": "[Bazılarını] sordu.", "note": "He asked about some of them" }
+    {
+      "id": "bazi_s1",
+      "text": "[Bazı] insanlar seviyorum.",
+      "note": null
+    },
+    {
+      "id": "bazi_s2",
+      "text": "[Bazıları] gitmedi.",
+      "note": null
+    },
+    {
+      "id": "bazi_s3",
+      "text": "[Bazı] şeyler anlaşılmıyor.",
+      "note": null
+    },
+    {
+      "id": "bazi_s4",
+      "text": "[Bazılarını] sordu.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "bazi_r1",
       "prompt": "Hepsi değil, sadece bir kısmı. Hangisini söyleriz?",
-      "accepted_forms": ["bazı", "bazıları", "bir kısmı"],
+      "accepted_forms": [
+        "bazı",
+        "bazıları",
+        "bir kısmı"
+      ],
       "note": null
     },
     {
       "id": "bazi_r2",
       "prompt": "10 elma var. Sadece 3 kırmızı. Kaç kırmızı elma var?",
-      "accepted_forms": ["bazı", "bazı elmalar", "kırmızı elmalar"],
+      "accepted_forms": [
+        "bazı",
+        "bazı elmalar",
+        "kırmızı elmalar"
+      ],
       "note": null
     }
   ]

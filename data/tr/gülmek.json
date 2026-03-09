@@ -5,22 +5,46 @@
   "part_of_speech": "verb",
   "english_gloss": "to laugh, to smile",
   "sentences": [
-    { "id": "gulmek_s1", "text": "Onun şakasına [güldüm].", "note": null },
-    { "id": "gulmek_s2", "text": "[Gülme], ciddi yüzünü koru.", "note": "imperative: don't laugh" },
-    { "id": "gulmek_s3", "text": "Mutlu olduğu zaman [gülüyor].", "note": "'gülüyor' = he/she is smiling/laughing" },
-    { "id": "gulmek_s4", "text": "[Gülmek] sağlık için iyi.", "note": "infinitive" }
+    {
+      "id": "gulmek_s1",
+      "text": "Onun şakasına [güldüm].",
+      "note": null
+    },
+    {
+      "id": "gulmek_s2",
+      "text": "[Gülme], ciddi yüzünü koru.",
+      "note": null
+    },
+    {
+      "id": "gulmek_s3",
+      "text": "Mutlu olduğu zaman [gülüyor].",
+      "note": "'gülüyor' = he/she is smiling/laughing"
+    },
+    {
+      "id": "gulmek_s4",
+      "text": "[Gülmek] sağlık için iyi.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "gulmek_r1",
       "prompt": "Çok eğlenirsen ve neşelenirsen ne yaparsın?",
-      "accepted_forms": ["gülüm", "gülürüm", "gülüyorum"],
+      "accepted_forms": [
+        "gülüm",
+        "gülürüm",
+        "gülüyorum"
+      ],
       "note": null
     },
     {
       "id": "gulmek_r2",
       "prompt": "Komik bir şey gördüğün zaman: '...' dersin.",
-      "accepted_forms": ["gülüyorum", "güldüm", "gülüyorum ben"],
+      "accepted_forms": [
+        "gülüyorum",
+        "güldüm",
+        "gülüyorum ben"
+      ],
       "note": null
     }
   ]

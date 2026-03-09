@@ -5,22 +5,43 @@
   "part_of_speech": "noun",
   "english_gloss": "party, batch",
   "sentences": [
-    { "id": "parti_s1", "text": "Siyasi [parti] seçim kampanyası başladı.", "note": "'siyasi parti' = political party" },
-    { "id": "parti_s2", "text": "Gece [parti]si olmaz mı?", "note": "'gece partisi' = evening party" },
-    { "id": "parti_s3", "text": "[Parti]ye davet ettim seni.", "note": "'partiye' = to the party" },
-    { "id": "parti_s4", "text": "Malın bu [parti]si güzel.", "note": "'bu parti' = this batch" }
+    {
+      "id": "parti_s1",
+      "text": "Siyasi [parti] seçim kampanyası başladı.",
+      "note": null
+    },
+    {
+      "id": "parti_s2",
+      "text": "Gece [parti]si olmaz mı?",
+      "note": null
+    },
+    {
+      "id": "parti_s3",
+      "text": "[Parti]ye davet ettim seni.",
+      "note": null
+    },
+    {
+      "id": "parti_s4",
+      "text": "Malın bu [parti]si güzel.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "parti_r1",
       "prompt": "Eğlenme amacıyla arkadaşlar için düzenlenen etkinlik ne demektir?",
-      "accepted_forms": ["parti", "pleybol"],
+      "accepted_forms": [
+        "parti",
+        "pleybol"
+      ],
       "note": null
     },
     {
       "id": "parti_r2",
       "prompt": "Yarın akşam ... var, gelir misin?",
-      "accepted_forms": ["parti"],
+      "accepted_forms": [
+        "parti"
+      ],
       "note": null
     }
   ]

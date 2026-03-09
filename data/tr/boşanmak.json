@@ -5,22 +5,44 @@
   "part_of_speech": "verb",
   "english_gloss": "to divorce, to separate",
   "sentences": [
-    { "id": "bosanmak_s1", "text": "Eşinden [boşandı].", "note": null },
-    { "id": "bosanmak_s2", "text": "[Boşanma] süreci uzun.", "note": "noun form" },
-    { "id": "bosanmak_s3", "text": "Nikah [boşanma]sında avukat lazım.", "note": null },
-    { "id": "bosanmak_s4", "text": "[Boşanmak] istiyorum.", "note": null }
+    {
+      "id": "bosanmak_s1",
+      "text": "Eşinden [boşandı].",
+      "note": null
+    },
+    {
+      "id": "bosanmak_s2",
+      "text": "[Boşanma] süreci uzun.",
+      "note": null
+    },
+    {
+      "id": "bosanmak_s3",
+      "text": "Nikah [boşanma]sında avukat lazım.",
+      "note": null
+    },
+    {
+      "id": "bosanmak_s4",
+      "text": "[Boşanmak] istiyorum.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "bosanmak_r1",
       "prompt": "Evlilik ilişkisini sonlandırmak: '[...]'",
-      "accepted_forms": ["boşandı", "boşanmak"],
+      "accepted_forms": [
+        "boşandı",
+        "boşanmak"
+      ],
       "note": null
     },
     {
       "id": "bosanmak_r2",
       "prompt": "Karısından ... istedi.",
-      "accepted_forms": ["boşanmak", "boşandı"],
+      "accepted_forms": [
+        "boşanmak",
+        "boşandı"
+      ],
       "note": null
     }
   ]

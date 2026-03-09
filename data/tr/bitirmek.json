@@ -5,22 +5,44 @@
   "part_of_speech": "verb",
   "english_gloss": "to finish, to complete, to end",
   "sentences": [
-    { "id": "bitirmek_s1", "text": "Ödevi [bitirdim].", "note": null },
-    { "id": "bitirmek_s2", "text": "Yemeği [bitir].", "note": "imperative" },
-    { "id": "bitirmek_s3", "text": "Üniversiteyi [bitirdim].", "note": null },
-    { "id": "bitirmek_s4", "text": "İşi [bitirmek] gerekiyor.", "note": null }
+    {
+      "id": "bitirmek_s1",
+      "text": "Ödevi [bitirdim].",
+      "note": null
+    },
+    {
+      "id": "bitirmek_s2",
+      "text": "Yemeği [bitir].",
+      "note": null
+    },
+    {
+      "id": "bitirmek_s3",
+      "text": "Üniversiteyi [bitirdim].",
+      "note": null
+    },
+    {
+      "id": "bitirmek_s4",
+      "text": "İşi [bitirmek] gerekiyor.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "bitirmek_r1",
       "prompt": "Ödevini sonlandırmak: 'Ödevi [...]'",
-      "accepted_forms": ["bitirdim", "bitiriyorum"],
+      "accepted_forms": [
+        "bitirdim",
+        "bitiriyorum"
+      ],
       "note": null
     },
     {
       "id": "bitirmek_r2",
       "prompt": "Yemeğini tamamlamak: 'Yemeği [...]'",
-      "accepted_forms": ["bitir", "bitirdim"],
+      "accepted_forms": [
+        "bitir",
+        "bitirdim"
+      ],
       "note": null
     }
   ]

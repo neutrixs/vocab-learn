@@ -5,16 +5,35 @@
   "part_of_speech": "interjection",
   "english_gloss": "okay, alright, fine, done",
   "sentences": [
-    { "id": "tamam_s1", "text": "[Tamam], evet, kabul.", "note": null },
-    { "id": "tamam_s2", "text": "İş bittiğin [tamam].", "note": null },
-    { "id": "tamam_s3", "text": "[Tamam], hadi gidelim.", "note": null },
-    { "id": "tamam_s4", "text": "[Tamam] mı, [tamam]?", "note": "Are you okay with it?" }
+    {
+      "id": "tamam_s1",
+      "text": "[Tamam], evet, kabul.",
+      "note": null
+    },
+    {
+      "id": "tamam_s2",
+      "text": "İş bittiğin [tamam].",
+      "note": null
+    },
+    {
+      "id": "tamam_s3",
+      "text": "[Tamam], hadi gidelim.",
+      "note": null
+    },
+    {
+      "id": "tamam_s4",
+      "text": "[Tamam] mı, [tamam]?",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "tamam_r1",
       "prompt": "Anlaştığını, razı olduğunu veya bir işin bitmesini belirttiğin sözcük. Ne denir?",
-      "accepted_forms": ["tamam", "tamamdır"],
+      "accepted_forms": [
+        "tamam",
+        "tamamdır"
+      ],
       "note": null
     }
   ]

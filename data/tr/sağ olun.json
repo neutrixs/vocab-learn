@@ -5,22 +5,46 @@
   "part_of_speech": "interjection",
   "english_gloss": "thank you (formal), be well",
   "sentences": [
-    { "id": "sağ_olun_s1", "text": "[Sağ olun], çok yardımcı oldunuz.", "note": null },
-    { "id": "sağ_olun_s2", "text": "[Sağ olsunlar] bana yardım ettiler.", "note": "third person" },
-    { "id": "sağ_olun_s3", "text": "Sen [sağ ol], bana çok faydası oldu.", "note": null },
-    { "id": "sağ_olun_s4", "text": "[Sağ olun], uzun hayatlar!", "note": null }
+    {
+      "id": "sağ_olun_s1",
+      "text": "[Sağ olun], çok yardımcı oldunuz.",
+      "note": null
+    },
+    {
+      "id": "sağ_olun_s2",
+      "text": "[Sağ olsunlar] bana yardım ettiler.",
+      "note": null
+    },
+    {
+      "id": "sağ_olun_s3",
+      "text": "Sen [sağ ol], bana çok faydası oldu.",
+      "note": null
+    },
+    {
+      "id": "sağ_olun_s4",
+      "text": "[Sağ olun], uzun hayatlar!",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "sağ_olun_r1",
       "prompt": "Birinden selameti dilemeyi teşekkür ederek ne söylüyorsun?",
-      "accepted_forms": ["sağ olun", "sağ ol", "sağ olsun"],
+      "accepted_forms": [
+        "sağ olun",
+        "sağ ol",
+        "sağ olsun"
+      ],
       "note": null
     },
     {
       "id": "sağ_olun_r2",
       "prompt": "Başkan sana hediye verdi, resmen teşekkür et.",
-      "accepted_forms": ["sağ olun", "sağ olursunuz", "teşekkür ederim"],
+      "accepted_forms": [
+        "sağ olun",
+        "sağ olursunuz",
+        "teşekkür ederim"
+      ],
       "note": null
     }
   ]

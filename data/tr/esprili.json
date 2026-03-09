@@ -5,22 +5,42 @@
   "part_of_speech": "adjective",
   "english_gloss": "witty, humorous, funny",
   "sentences": [
-    { "id": "esprili_s1", "text": "[Esprili] bir şaka yaptı herkesi güldürdü.", "note": "he made a witty joke" },
-    { "id": "esprili_s2", "text": "O çok [esprili] bir insandır.", "note": "he's a very witty person" },
-    { "id": "esprili_s3", "text": "[Esprili] cevaplar vermişti soru sorulunca.", "note": "he gave witty answers" },
-    { "id": "esprili_s4", "text": "[Esprili] bir yazı kaleme aldı.", "note": "he wrote a witty piece" }
+    {
+      "id": "esprili_s1",
+      "text": "[Esprili] bir şaka yaptı herkesi güldürdü.",
+      "note": null
+    },
+    {
+      "id": "esprili_s2",
+      "text": "O çok [esprili] bir insandır.",
+      "note": null
+    },
+    {
+      "id": "esprili_s3",
+      "text": "[Esprili] cevaplar vermişti soru sorulunca.",
+      "note": null
+    },
+    {
+      "id": "esprili_s4",
+      "text": "[Esprili] bir yazı kaleme aldı.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "esprili_r1",
       "prompt": "Komik ve zeka ile dolu. Ne denir?",
-      "accepted_forms": ["esprili"],
+      "accepted_forms": [
+        "esprili"
+      ],
       "note": null
     },
     {
       "id": "esprili_r2",
       "prompt": "[Esprili] arkadaş her zaman güldürür.",
-      "accepted_forms": ["esprili"],
+      "accepted_forms": [
+        "esprili"
+      ],
       "note": null
     }
   ]

@@ -5,22 +5,46 @@
   "part_of_speech": "verb",
   "english_gloss": "to separate, to break up, to part, to divorce",
   "sentences": [
-    { "id": "ayrilmak_s1", "text": "Eşinden [ayrıldı].", "note": "He separated from his wife" },
-    { "id": "ayrilmak_s2", "text": "Arkadaşımdan [ayrılmak] istemiyorum.", "note": "I don't want to part from my friend" },
-    { "id": "ayrilmak_s3", "text": "[Ayrılmamız] zor olacak.", "note": "Our separation will be difficult" },
-    { "id": "ayrilmak_s4", "text": "[Ayrılmadığımız] sürece sorun yok.", "note": "As long as we don't separate, there's no problem" }
+    {
+      "id": "ayrilmak_s1",
+      "text": "Eşinden [ayrıldı].",
+      "note": null
+    },
+    {
+      "id": "ayrilmak_s2",
+      "text": "Arkadaşımdan [ayrılmak] istemiyorum.",
+      "note": null
+    },
+    {
+      "id": "ayrilmak_s3",
+      "text": "[Ayrılmamız] zor olacak.",
+      "note": null
+    },
+    {
+      "id": "ayrilmak_s4",
+      "text": "[Ayrılmadığımız] sürece sorun yok.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "ayrilmak_r1",
       "prompt": "Eşin seninle ilişkiyi bitiriyor. Ne oluyor?",
-      "accepted_forms": ["ayrılıyorum", "ayrıldık", "ayrılmak"],
+      "accepted_forms": [
+        "ayrılıyorum",
+        "ayrıldık",
+        "ayrılmak"
+      ],
       "note": null
     },
     {
       "id": "ayrilmak_r2",
       "prompt": "Arkadaşın seninle başka yere gidiyor. Siz ne yapıyorsunuz?",
-      "accepted_forms": ["ayrılıyoruz", "ayrılmak", "ayrıldık"],
+      "accepted_forms": [
+        "ayrılıyoruz",
+        "ayrılmak",
+        "ayrıldık"
+      ],
       "note": null
     }
   ]

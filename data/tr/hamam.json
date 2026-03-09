@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "bathhouse, Turkish bath",
   "sentences": [
-    { "id": "hamam_s1", "text": "[Hamama]] gitmeyi seviyorum.", "note": "'hamama' = to the hamam (dative)" },
-    { "id": "hamam_s2", "text": "Türk [hamam]]ı meşhur.", "note": null },
-    { "id": "hamam_s3", "text": "[Hamamda]] yıkanacağım.", "note": "'hamamda' = at the hamam (locative)" },
-    { "id": "hamam_s4", "text": "[Hamama]] gidelim hafta sonu.", "note": null }
+    {
+      "id": "hamam_s1",
+      "text": "[Hamama]] gitmeyi seviyorum.",
+      "note": null
+    },
+    {
+      "id": "hamam_s2",
+      "text": "Türk [hamam]]ı meşhur.",
+      "note": null
+    },
+    {
+      "id": "hamam_s3",
+      "text": "[Hamamda]] yıkanacağım.",
+      "note": null
+    },
+    {
+      "id": "hamam_s4",
+      "text": "[Hamama]] gidelim hafta sonu.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "hamam_r1",
       "prompt": "Sıcak su ve buharla yıkanılan Türk banyosu: ...",
-      "accepted_forms": ["hamam"],
+      "accepted_forms": [
+        "hamam"
+      ],
       "note": null
     },
     {
       "id": "hamam_r2",
       "prompt": "Pazar günü [...] gideceğiz.",
-      "accepted_forms": ["hamama"],
+      "accepted_forms": [
+        "hamama"
+      ],
       "note": null
     }
   ]

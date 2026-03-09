@@ -8,17 +8,17 @@
     {
       "id": "çınlamak_s1",
       "text": "Kapı [çınladı].",
-      "note": "the bell rang"
+      "note": null
     },
     {
       "id": "çınlamak_s2",
       "text": "Çan [çınlıyor].",
-      "note": "the bell is ringing"
+      "note": null
     },
     {
       "id": "çınlamak_s3",
       "text": "Kulağımda ses [çınlıyor].",
-      "note": "ears are ringing"
+      "note": null
     },
     {
       "id": "çınlamak_s4",

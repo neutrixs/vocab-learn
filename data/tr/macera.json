@@ -23,20 +23,24 @@
     {
       "id": "macera_s4",
       "text": "Ormanda çok [macera]lı bir gün geçirdik.",
-      "note": "adventurous"
+      "note": null
     }
   ],
   "recall_prompts": [
     {
       "id": "macera_r1",
       "prompt": "Heyecan ve tehlike içeren olay anlamındaki kelime nedir?",
-      "accepted_forms": ["macera"],
+      "accepted_forms": [
+        "macera"
+      ],
       "note": null
     },
     {
       "id": "macera_r2",
       "prompt": "Adventure anlamındaki Türkçe sözcük hangisidir?",
-      "accepted_forms": ["macera"],
+      "accepted_forms": [
+        "macera"
+      ],
       "note": null
     }
   ]

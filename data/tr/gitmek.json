@@ -5,22 +5,47 @@
   "part_of_speech": "verb",
   "english_gloss": "to go",
   "sentences": [
-    { "id": "gitmek_s1", "text": "Yarın İstanbul'a [gidiyorum].", "note": null },
-    { "id": "gitmek_s2", "text": "Nereye [gidiyorsun]?", "note": null },
-    { "id": "gitmek_s3", "text": "Arkadaşım geçen yıl yurt dışına [gitti].", "note": null },
-    { "id": "gitmek_s4", "text": "Sinemaya birlikte [gidelim] mi?", "note": "gidelim = let's go" }
+    {
+      "id": "gitmek_s1",
+      "text": "Yarın İstanbul'a [gidiyorum].",
+      "note": null
+    },
+    {
+      "id": "gitmek_s2",
+      "text": "Nereye [gidiyorsun]?",
+      "note": null
+    },
+    {
+      "id": "gitmek_s3",
+      "text": "Arkadaşım geçen yıl yurt dışına [gitti].",
+      "note": null
+    },
+    {
+      "id": "gitmek_s4",
+      "text": "Sinemaya birlikte [gidelim] mi?",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "gitmek_r1",
       "prompt": "Arkadaşın seni partiye davet etti. Ona 'evet, oraya ...' diyorsun.",
-      "accepted_forms": ["gidiyorum", "gideceğim", "giderim", "gitmek istiyorum"],
+      "accepted_forms": [
+        "gidiyorum",
+        "gideceğim",
+        "giderim",
+        "gitmek istiyorum"
+      ],
       "note": null
     },
     {
       "id": "gitmek_r2",
       "prompt": "Dün markete ne yaptın?",
-      "accepted_forms": ["gittim", "gitmek", "markete gittim"],
+      "accepted_forms": [
+        "gittim",
+        "gitmek",
+        "markete gittim"
+      ],
       "note": null
     }
   ]

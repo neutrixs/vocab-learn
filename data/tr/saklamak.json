@@ -5,22 +5,46 @@
   "part_of_speech": "verb",
   "english_gloss": "to hide, to conceal, to keep secret",
   "sentences": [
-    { "id": "saklamak_s1", "text": "Para [sakla] güvenli bir yerde.", "note": "imperative" },
-    { "id": "saklamak_s2", "text": "Çocuk hediyeyi [sakladı].", "note": null },
-    { "id": "saklamak_s3", "text": "Gerçeği [saklamayız].", "note": "negation" },
-    { "id": "saklamak_s4", "text": "Kitabı [saklama] kalın kitaplar.", "note": null }
+    {
+      "id": "saklamak_s1",
+      "text": "Para [sakla] güvenli bir yerde.",
+      "note": null
+    },
+    {
+      "id": "saklamak_s2",
+      "text": "Çocuk hediyeyi [sakladı].",
+      "note": null
+    },
+    {
+      "id": "saklamak_s3",
+      "text": "Gerçeği [saklamayız].",
+      "note": null
+    },
+    {
+      "id": "saklamak_s4",
+      "text": "Kitabı [saklama] kalın kitaplar.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "saklamak_r1",
       "prompt": "Bir şeyi başkaları görmeyecek şekilde koymak ne?",
-      "accepted_forms": ["saklamak", "gizlemek", "koymak"],
+      "accepted_forms": [
+        "saklamak",
+        "gizlemek",
+        "koymak"
+      ],
       "note": null
     },
     {
       "id": "saklamak_r2",
       "prompt": "Sır olarak tutmak ne demek?",
-      "accepted_forms": ["saklamak", "söylememek", "gizlemek"],
+      "accepted_forms": [
+        "saklamak",
+        "söylememek",
+        "gizlemek"
+      ],
       "note": null
     }
   ]

@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "meat",
   "sentences": [
-    { "id": "et_s1", "text": "[Et] çok pahalı oldu.", "note": null },
-    { "id": "et_s2", "text": "[Eti] sos ile pişirdim.", "note": "'eti' = the meat (accusative)" },
-    { "id": "et_s3", "text": "Kırmızı [et] yerim bazen.", "note": "I eat red meat sometimes" },
-    { "id": "et_s4", "text": "[Etin] kalitesi önemli.", "note": "the quality of meat is important" }
+    {
+      "id": "et_s1",
+      "text": "[Et] çok pahalı oldu.",
+      "note": null
+    },
+    {
+      "id": "et_s2",
+      "text": "[Eti] sos ile pişirdim.",
+      "note": null
+    },
+    {
+      "id": "et_s3",
+      "text": "Kırmızı [et] yerim bazen.",
+      "note": null
+    },
+    {
+      "id": "et_s4",
+      "text": "[Etin] kalitesi önemli.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "et_r1",
       "prompt": "Hayvanın yenebilir kısmı. Ne denir?",
-      "accepted_forms": ["et"],
+      "accepted_forms": [
+        "et"
+      ],
       "note": null
     },
     {
       "id": "et_r2",
       "prompt": "[Et] yemek sevmem.",
-      "accepted_forms": ["et"],
+      "accepted_forms": [
+        "et"
+      ],
       "note": null
     }
   ]

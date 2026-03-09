@@ -8,22 +8,22 @@
     {
       "id": "çöp_s1",
       "text": "[Çöp] atma buraya.",
-      "note": "don't throw trash here"
+      "note": null
     },
     {
       "id": "çöp_s2",
       "text": "[Çöpteki] şeyler kirli.",
-      "note": "things in the trash"
+      "note": null
     },
     {
       "id": "çöp_s3",
       "text": "[Çöpü] dışarı çıkar.",
-      "note": "take the garbage out"
+      "note": null
     },
     {
       "id": "çöp_s4",
       "text": "[Çöp] sepeti dolu.",
-      "note": "trash can is full"
+      "note": null
     }
   ],
   "recall_prompts": [

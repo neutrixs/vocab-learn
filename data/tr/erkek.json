@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "man, boy, male",
   "sentences": [
-    { "id": "erkek_s1", "text": "Bu [erkek] çok kibar.", "note": null },
-    { "id": "erkek_s2", "text": "[Erkek] kardeşim geldi.", "note": "'erkek kardeşim' = my brother" },
-    { "id": "erkek_s3", "text": "[Erkeklere] sordum, onlar da bilmiyor.", "note": "'erkeklere' = to the men (dative)" },
-    { "id": "erkek_s4", "text": "Çocuğun [erkek] mi kız mı?", "note": "is the child a boy or girl?" }
+    {
+      "id": "erkek_s1",
+      "text": "Bu [erkek] çok kibar.",
+      "note": null
+    },
+    {
+      "id": "erkek_s2",
+      "text": "[Erkek] kardeşim geldi.",
+      "note": "'erkek kardeşim' = my brother"
+    },
+    {
+      "id": "erkek_s3",
+      "text": "[Erkeklere] sordum, onlar da bilmiyor.",
+      "note": null
+    },
+    {
+      "id": "erkek_s4",
+      "text": "Çocuğun [erkek] mi kız mı?",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "erkek_r1",
       "prompt": "Kadının karşıtı, cinsiyet. Ne denir?",
-      "accepted_forms": ["erkek"],
+      "accepted_forms": [
+        "erkek"
+      ],
       "note": null
     },
     {
       "id": "erkek_r2",
       "prompt": "[Erkek] arkadaşım yarın gelecek.",
-      "accepted_forms": ["erkek"],
+      "accepted_forms": [
+        "erkek"
+      ],
       "note": null
     }
   ]

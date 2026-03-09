@@ -8,12 +8,12 @@
     {
       "id": "çevre_s1",
       "text": "[Çevre] kirleniyor.",
-      "note": "environment is polluted"
+      "note": null
     },
     {
       "id": "çevre_s2",
       "text": "İş [çevresi] güzel.",
-      "note": "work environment"
+      "note": null
     },
     {
       "id": "çevre_s3",
@@ -23,7 +23,7 @@
     {
       "id": "çevre_s4",
       "text": "[Çevresi] ormandır.",
-      "note": "surrounded by forest"
+      "note": null
     }
   ],
   "recall_prompts": [

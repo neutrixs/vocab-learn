@@ -5,22 +5,43 @@
   "part_of_speech": "noun",
   "english_gloss": "guesthouse, boarding house",
   "sentences": [
-    { "id": "pansiyon_s1", "text": "Dağlık bölgede bir [pansiyon] var.", "note": null },
-    { "id": "pansiyon_s2", "text": "[Pansiyon]da kalacağız.", "note": "'pansiyonda' = at the guesthouse" },
-    { "id": "pansiyon_s3", "text": "[Pansiyon] sahibi çok misafirperver.", "note": null },
-    { "id": "pansiyon_s4", "text": "Ucuz bir [pansiyon] bul.", "note": null }
+    {
+      "id": "pansiyon_s1",
+      "text": "Dağlık bölgede bir [pansiyon] var.",
+      "note": null
+    },
+    {
+      "id": "pansiyon_s2",
+      "text": "[Pansiyon]da kalacağız.",
+      "note": null
+    },
+    {
+      "id": "pansiyon_s3",
+      "text": "[Pansiyon] sahibi çok misafirperver.",
+      "note": null
+    },
+    {
+      "id": "pansiyon_s4",
+      "text": "Ucuz bir [pansiyon] bul.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "pansiyon_r1",
       "prompt": "Turiztte kalmak için özel bir otel olmayan küçük konaklama yeri?",
-      "accepted_forms": ["pansiyon", "misafirhane"],
+      "accepted_forms": [
+        "pansiyon",
+        "misafirhane"
+      ],
       "note": null
     },
     {
       "id": "pansiyon_r2",
       "prompt": "Uygun fiyatlı yerde yatıp-kalkmak istiyorum, ... ara.",
-      "accepted_forms": ["pansiyon"],
+      "accepted_forms": [
+        "pansiyon"
+      ],
       "note": null
     }
   ]

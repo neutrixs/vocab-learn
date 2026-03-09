@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "potato",
   "sentences": [
-    { "id": "patates_s1", "text": "[Patates] dikmek işçi gerekli.", "note": "'patates dirmek' = to plant potatoes" },
-    { "id": "patates_s2", "text": "[Patates]i haşlamak.", "note": "'patatesini haşlamak' = to boil potatoes" },
-    { "id": "patates_s3", "text": "Pazarda [patates] satılıyor.", "note": null },
-    { "id": "patates_s4", "text": "Çıtır [patates] kızartması yapma.", "note": "'patates kızartması' = french fries" }
+    {
+      "id": "patates_s1",
+      "text": "[Patates] dikmek işçi gerekli.",
+      "note": null
+    },
+    {
+      "id": "patates_s2",
+      "text": "[Patates]i haşlamak.",
+      "note": "'patatesini haşlamak' = to boil potatoes"
+    },
+    {
+      "id": "patates_s3",
+      "text": "Pazarda [patates] satılıyor.",
+      "note": null
+    },
+    {
+      "id": "patates_s4",
+      "text": "Çıtır [patates] kızartması yapma.",
+      "note": "'patates kızartması' = french fries"
+    }
   ],
   "recall_prompts": [
     {
       "id": "patates_r1",
       "prompt": "Toprak altında yetiştirilen, yumru şeklindeki yemişe koyulan sebze ne demektir?",
-      "accepted_forms": ["patates"],
+      "accepted_forms": [
+        "patates"
+      ],
       "note": null
     },
     {
       "id": "patates_r2",
       "prompt": "Kızartılmış ... çok lezzetli.",
-      "accepted_forms": ["patates"],
+      "accepted_forms": [
+        "patates"
+      ],
       "note": null
     }
   ]

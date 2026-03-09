@@ -5,22 +5,46 @@
   "part_of_speech": "noun",
   "english_gloss": "head, top, chief, beginning",
   "sentences": [
-    { "id": "bas_s1", "text": "[Başım] ağrıyor.", "note": "My head hurts" },
-    { "id": "bas_s2", "text": "[Başına] çarpıldı.", "note": "He hit his head" },
-    { "id": "bas_s3", "text": "Şirketin [başında] kim?", "note": "Who is at the head of the company?" },
-    { "id": "bas_s4", "text": "[Baştan] sona anlat.", "note": "Tell from beginning to end" }
+    {
+      "id": "bas_s1",
+      "text": "[Başım] ağrıyor.",
+      "note": null
+    },
+    {
+      "id": "bas_s2",
+      "text": "[Başına] çarpıldı.",
+      "note": null
+    },
+    {
+      "id": "bas_s3",
+      "text": "Şirketin [başında] kim?",
+      "note": null
+    },
+    {
+      "id": "bas_s4",
+      "text": "[Baştan] sona anlat.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "bas_r1",
       "prompt": "Vücudun en üst kısmında neler var? Nereyi söylersin?",
-      "accepted_forms": ["baş", "başım", "kafa"],
+      "accepted_forms": [
+        "baş",
+        "başım",
+        "kafa"
+      ],
       "note": null
     },
     {
       "id": "bas_r2",
       "prompt": "Düşündüğümüz yer, gözlerin ve kulakların olduğu yer nedir?",
-      "accepted_forms": ["baş", "kafası", "başında"],
+      "accepted_forms": [
+        "baş",
+        "kafası",
+        "başında"
+      ],
       "note": null
     }
   ]

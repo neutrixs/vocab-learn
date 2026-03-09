@@ -5,22 +5,46 @@
   "part_of_speech": "verb",
   "english_gloss": "to tease, to provoke, to goad, to pick a fight",
   "sentences": [
-    { "id": "sataşmak_s1", "text": "Arkadaş beni [sataştı] ve güldü.", "note": null },
-    { "id": "sataşmak_s2", "text": "Lütfen [sataşma], ciddiyim.", "note": "imperative" },
-    { "id": "sataşmak_s3", "text": "Biri ona [sataşıyor] ve alınıyor.", "note": null },
-    { "id": "sataşmak_s4", "text": "[Sataştığı] için dövüldü.", "note": null }
+    {
+      "id": "sataşmak_s1",
+      "text": "Arkadaş beni [sataştı] ve güldü.",
+      "note": null
+    },
+    {
+      "id": "sataşmak_s2",
+      "text": "Lütfen [sataşma], ciddiyim.",
+      "note": null
+    },
+    {
+      "id": "sataşmak_s3",
+      "text": "Biri ona [sataşıyor] ve alınıyor.",
+      "note": null
+    },
+    {
+      "id": "sataşmak_s4",
+      "text": "[Sataştığı] için dövüldü.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "sataşmak_r1",
       "prompt": "Birini kızartmak amaçlı konuşmak ne demek?",
-      "accepted_forms": ["sataşmak", "kışkırtmak", "incitmek"],
+      "accepted_forms": [
+        "sataşmak",
+        "kışkırtmak",
+        "incitmek"
+      ],
       "note": null
     },
     {
       "id": "sataşmak_r2",
       "prompt": "Biri seni derse kızıyorsun. O ne yaptı?",
-      "accepted_forms": ["sataştı", "kızarttı", "teasea"],
+      "accepted_forms": [
+        "sataştı",
+        "kızarttı",
+        "teasea"
+      ],
       "note": null
     }
   ]

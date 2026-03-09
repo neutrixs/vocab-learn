@@ -5,22 +5,43 @@
   "part_of_speech": "adjective",
   "english_gloss": "dirty, filthy, foul",
   "sentences": [
-    { "id": "pis_s1", "text": "Ellerim [pis] oldu.", "note": "'pis oldu' = became dirty" },
-    { "id": "pis_s2", "text": "[Pis] bir yer burada.", "note": null },
-    { "id": "pis_s3", "text": "[Pis] yazlık yapılmış.", "note": null },
-    { "id": "pis_s4", "text": "[Pis] koku geliyor buradan.", "note": null }
+    {
+      "id": "pis_s1",
+      "text": "Ellerim [pis] oldu.",
+      "note": null
+    },
+    {
+      "id": "pis_s2",
+      "text": "[Pis] bir yer burada.",
+      "note": null
+    },
+    {
+      "id": "pis_s3",
+      "text": "[Pis] yazlık yapılmış.",
+      "note": null
+    },
+    {
+      "id": "pis_s4",
+      "text": "[Pis] koku geliyor buradan.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "pis_r1",
       "prompt": "Temiz olmayan, kirli şeyleri tanımlamak için kullanılan kelime?",
-      "accepted_forms": ["pis", "kirli"],
+      "accepted_forms": [
+        "pis",
+        "kirli"
+      ],
       "note": null
     },
     {
       "id": "pis_r2",
       "prompt": "Bu ... elbiseyi yıkamalısın.",
-      "accepted_forms": ["pis"],
+      "accepted_forms": [
+        "pis"
+      ],
       "note": null
     }
   ]

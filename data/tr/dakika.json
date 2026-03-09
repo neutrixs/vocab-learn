@@ -8,17 +8,17 @@
     {
       "id": "dakika_s1",
       "text": "Beş [dakika] bekle.",
-      "note": "wait five minutes"
+      "note": null
     },
     {
       "id": "dakika_s2",
       "text": "Bir [dakika] dur.",
-      "note": "wait a minute"
+      "note": null
     },
     {
       "id": "dakika_s3",
       "text": "[Dakika] ibresini baktı.",
-      "note": "looked at the minute hand"
+      "note": null
     },
     {
       "id": "dakika_s4",

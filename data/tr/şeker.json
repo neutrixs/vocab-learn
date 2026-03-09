@@ -5,16 +5,36 @@
   "part_of_speech": "noun",
   "english_gloss": "sugar, candy, sweet",
   "sentences": [
-    { "id": "şeker_s1", "text": "Çaya [şeker] ilave ettim.", "note": null },
-    { "id": "şeker_s2", "text": "Tatlı yemekler çok [şeker] içeriyor.", "note": null },
-    { "id": "şeker_s3", "text": "[Şeker] hastalığına dikkat etmeliyiz.", "note": "diabetes" },
-    { "id": "şeker_s4", "text": "Çocuğa [şeker] vermeyiz.", "note": null }
+    {
+      "id": "şeker_s1",
+      "text": "Çaya [şeker] ilave ettim.",
+      "note": null
+    },
+    {
+      "id": "şeker_s2",
+      "text": "Tatlı yemekler çok [şeker] içeriyor.",
+      "note": null
+    },
+    {
+      "id": "şeker_s3",
+      "text": "[Şeker] hastalığına dikkat etmeliyiz.",
+      "note": null
+    },
+    {
+      "id": "şeker_s4",
+      "text": "Çocuğa [şeker] vermeyiz.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "şeker_r1",
       "prompt": "Tatlı olan, çorbaya veya çaya ekleyebileceğin beyaz veya sarı granüler madde. Ne denir?",
-      "accepted_forms": ["şeker", "şekeri", "şekerim"],
+      "accepted_forms": [
+        "şeker",
+        "şekeri",
+        "şekerim"
+      ],
       "note": null
     }
   ]

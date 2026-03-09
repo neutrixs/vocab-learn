@@ -5,22 +5,46 @@
   "part_of_speech": "noun",
   "english_gloss": "beach, coast, seashore",
   "sentences": [
-    { "id": "sahil_s1", "text": "[Sahil]e gitmeyi seviyorum.", "note": "'sahile' = to the coast (dative)" },
-    { "id": "sahil_s2", "text": "[Sahıl] çok kalabalık.", "note": null },
-    { "id": "sahil_s3", "text": "[Sahılda] yürüyüş yapmak güzel.", "note": "'sahılda' = at the coast (locative)" },
-    { "id": "sahil_s4", "text": "Türkiye'nin [sahılları] güzel.", "note": null }
+    {
+      "id": "sahil_s1",
+      "text": "[Sahil]e gitmeyi seviyorum.",
+      "note": null
+    },
+    {
+      "id": "sahil_s2",
+      "text": "[Sahıl] çok kalabalık.",
+      "note": null
+    },
+    {
+      "id": "sahil_s3",
+      "text": "[Sahılda] yürüyüş yapmak güzel.",
+      "note": "'sahılda' = at the coast (locative)"
+    },
+    {
+      "id": "sahil_s4",
+      "text": "Türkiye'nin [sahılları] güzel.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "sahil_r1",
       "prompt": "Deniz ve kara birleştiği yer ne denir?",
-      "accepted_forms": ["sahil", "kıyı", "kıyı sahil"],
+      "accepted_forms": [
+        "sahil",
+        "kıyı",
+        "kıyı sahil"
+      ],
       "note": null
     },
     {
       "id": "sahil_r2",
       "prompt": "Yaz tatilinde denize gidiyorum, nereye gidiyorum?",
-      "accepted_forms": ["sahile", "plaja", "denize"],
+      "accepted_forms": [
+        "sahile",
+        "plaja",
+        "denize"
+      ],
       "note": null
     }
   ]

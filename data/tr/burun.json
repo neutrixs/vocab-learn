@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "nose (anatomy)",
   "sentences": [
-    { "id": "burun_s1", "text": "[Burunum] ağrıyor.", "note": "my nose hurts" },
-    { "id": "burun_s2", "text": "[Burun] kanaması.", "note": "nosebleed" },
-    { "id": "burun_s3", "text": "[Burnu] kırmışlar.", "note": "his nose broke" },
-    { "id": "burun_s4", "text": "[Burnu] düz değil.", "note": null }
+    {
+      "id": "burun_s1",
+      "text": "[Burunum] ağrıyor.",
+      "note": null
+    },
+    {
+      "id": "burun_s2",
+      "text": "[Burun] kanaması.",
+      "note": null
+    },
+    {
+      "id": "burun_s3",
+      "text": "[Burnu] kırmışlar.",
+      "note": null
+    },
+    {
+      "id": "burun_s4",
+      "text": "[Burnu] düz değil.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "burun_r1",
       "prompt": "Yüzde soluk alan, koku alan organ: kime denir?",
-      "accepted_forms": ["burun"],
+      "accepted_forms": [
+        "burun"
+      ],
       "note": null
     },
     {
       "id": "burun_r2",
       "prompt": "Nezle olunca ... akıyor.",
-      "accepted_forms": ["burun"],
+      "accepted_forms": [
+        "burun"
+      ],
       "note": null
     }
   ]

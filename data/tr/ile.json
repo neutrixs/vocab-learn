@@ -5,22 +5,46 @@
   "part_of_speech": "postposition",
   "english_gloss": "with, by, along with",
   "sentences": [
-    { "id": "ile_s1", "text": "Arkadaşım [ile]] şehre gittim.", "note": "'arkadaşımla' = with my friend" },
-    { "id": "ile_s2", "text": "Kalemini [ile]] yazı yaz.", "note": "'kalemleriyle' = with his pen" },
-    { "id": "ile_s3", "text": "Arabayla [ile]] dönüş yap.", "note": "'arabayla' = by car (with car)" },
-    { "id": "ile_s4", "text": "[İle]] birlikte geldik.", "note": "together with" }
+    {
+      "id": "ile_s1",
+      "text": "Arkadaşım [ile]] şehre gittim.",
+      "note": "'arkadaşımla' = with my friend"
+    },
+    {
+      "id": "ile_s2",
+      "text": "Kalemini [ile]] yazı yaz.",
+      "note": null
+    },
+    {
+      "id": "ile_s3",
+      "text": "Arabayla [ile]] dönüş yap.",
+      "note": null
+    },
+    {
+      "id": "ile_s4",
+      "text": "[İle]] birlikte geldik.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "ile_r1",
       "prompt": "Birlikte, beraber, araç olarak: 'Arkadaşım ... okula gittim.'",
-      "accepted_forms": ["ile", "yle", "la"],
+      "accepted_forms": [
+        "ile",
+        "yle",
+        "la"
+      ],
       "note": null
     },
     {
       "id": "ile_r2",
       "prompt": "Otobüs [...] dönüştü.",
-      "accepted_forms": ["ile", "yle", "le"],
+      "accepted_forms": [
+        "ile",
+        "yle",
+        "le"
+      ],
       "note": null
     }
   ]

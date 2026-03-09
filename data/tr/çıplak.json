@@ -8,17 +8,17 @@
     {
       "id": "çıplak_s1",
       "text": "Ayak [çıplak].",
-      "note": "bare feet"
+      "note": null
     },
     {
       "id": "çıplak_s2",
       "text": "[Çıplak] bir ağaç.",
-      "note": "bare tree"
+      "note": null
     },
     {
       "id": "çıplak_s3",
       "text": "[Çıplak] duvar.",
-      "note": "bare wall"
+      "note": null
     },
     {
       "id": "çıplak_s4",

@@ -5,22 +5,42 @@
   "part_of_speech": "pronoun",
   "english_gloss": "this",
   "sentences": [
-    { "id": "bu_s1", "text": "[Bu] evim.", "note": null },
-    { "id": "bu_s2", "text": "[Bunu] bil.", "note": "accusative case" },
-    { "id": "bu_s3", "text": "[Bunun] için geldi.", "note": "genitive case" },
-    { "id": "bu_s4", "text": "[Bunda] neler var?", "note": "locative case" }
+    {
+      "id": "bu_s1",
+      "text": "[Bu] evim.",
+      "note": null
+    },
+    {
+      "id": "bu_s2",
+      "text": "[Bunu] bil.",
+      "note": null
+    },
+    {
+      "id": "bu_s3",
+      "text": "[Bunun] için geldi.",
+      "note": null
+    },
+    {
+      "id": "bu_s4",
+      "text": "[Bunda] neler var?",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "bu_r1",
       "prompt": "Konuşan kişiye yakın olan şey veya kişi: '[...]' ben mi?",
-      "accepted_forms": ["bu"],
+      "accepted_forms": [
+        "bu"
+      ],
       "note": null
     },
     {
       "id": "bu_r2",
       "prompt": "'[...] ne?' diyorsun yakındaki nesneyi gösterek.",
-      "accepted_forms": ["bu"],
+      "accepted_forms": [
+        "bu"
+      ],
       "note": null
     }
   ]

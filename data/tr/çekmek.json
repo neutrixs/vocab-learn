@@ -13,17 +13,17 @@
     {
       "id": "çekmek_s2",
       "text": "Fotoğraf [çekelim].",
-      "note": "let's take a photo"
+      "note": null
     },
     {
       "id": "çekmek_s3",
       "text": "Diş [çektirdim].",
-      "note": "I had a tooth pulled"
+      "note": null
     },
     {
       "id": "çekmek_s4",
       "text": "Çok acı [çekti].",
-      "note": "he suffered greatly"
+      "note": null
     }
   ],
   "recall_prompts": [

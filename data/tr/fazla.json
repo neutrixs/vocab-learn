@@ -5,22 +5,42 @@
   "part_of_speech": "adjective",
   "english_gloss": "excess, extra, too much, additional",
   "sentences": [
-    { "id": "fazla_s1", "text": "[Fazla] para harcama, kısıtlı.", "note": "don't spend excess money, be limited" },
-    { "id": "fazla_s2", "text": "[Fazla] yemek sağlığa zarar.", "note": "eating too much harms health" },
-    { "id": "fazla_s3", "text": "[Fazla] bir bardak çay istemiyor.", "note": "he doesn't want an extra cup of tea" },
-    { "id": "fazla_s4", "text": "Zamanım yok, çok [fazla] meşgulüm.", "note": "I don't have time, I'm too busy" }
+    {
+      "id": "fazla_s1",
+      "text": "[Fazla] para harcama, kısıtlı.",
+      "note": null
+    },
+    {
+      "id": "fazla_s2",
+      "text": "[Fazla] yemek sağlığa zarar.",
+      "note": null
+    },
+    {
+      "id": "fazla_s3",
+      "text": "[Fazla] bir bardak çay istemiyor.",
+      "note": null
+    },
+    {
+      "id": "fazla_s4",
+      "text": "Zamanım yok, çok [fazla] meşgulüm.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "fazla_r1",
       "prompt": "Çok, aşırı, gereken miktardan fazla. Ne denir?",
-      "accepted_forms": ["fazla"],
+      "accepted_forms": [
+        "fazla"
+      ],
       "note": null
     },
     {
       "id": "fazla_r2",
       "prompt": "[Fazla] ağır kargo için ücret isterse.",
-      "accepted_forms": ["fazla"],
+      "accepted_forms": [
+        "fazla"
+      ],
       "note": null
     }
   ]
