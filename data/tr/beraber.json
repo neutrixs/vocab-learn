@@ -1,0 +1,27 @@
+{
+  "word": "beraber",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adverb",
+  "english_gloss": "together, along with",
+  "sentences": [
+    { "id": "beraber_s1", "text": "Biz [beraber] yolculuk yaptık.", "note": null },
+    { "id": "beraber_s2", "text": "Arkadaşlarımla [beraber] okula gittim.", "note": null },
+    { "id": "beraber_s3", "text": "[Beraber] çalışmak daha eğlenceli.", "note": null },
+    { "id": "beraber_s4", "text": "Hep [beraber] ilerliyoruz.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "beraber_r1",
+      "prompt": "Arkadaşınla aynı anda, aynı yerde yapılan bir aktiviteyi nasıl tanımlarsın?",
+      "accepted_forms": ["beraber", "beraber yaptık"],
+      "note": null
+    },
+    {
+      "id": "beraber_r2",
+      "prompt": "'Tek başına değil, başka biriyle ...' diyorsun.",
+      "accepted_forms": ["beraber", "beraber yaptık"],
+      "note": null
+    }
+  ]
+}

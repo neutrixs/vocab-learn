@@ -1,0 +1,37 @@
+{
+  "word": "dört",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "four",
+  "sentences": [
+    {
+      "id": "dört_s1",
+      "text": "Masada [dört] sandalye var.",
+      "note": null
+    },
+    {
+      "id": "dört_s2",
+      "text": "İki artı [dört] altıdır.",
+      "note": null
+    },
+    {
+      "id": "dört_s3",
+      "text": "Saat [dört] buçuk.",
+      "note": null
+    },
+    {
+      "id": "dört_s4",
+      "text": "[Dört] gün sonra gelecek.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dört_r1",
+      "prompt": "4 sayısı ne?",
+      "accepted_forms": ["dört", "4"],
+      "note": null
+    }
+  ]
+}

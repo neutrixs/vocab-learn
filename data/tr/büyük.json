@@ -5,22 +5,42 @@
   "part_of_speech": "adjective",
   "english_gloss": "big, large, great, elder",
   "sentences": [
-    { "id": "buyuk_s1", "text": "Bu çanta çok [büyük], taşıyamam.", "note": null },
-    { "id": "buyuk_s2", "text": "[Büyük] şehirlerde trafik sorunu var.", "note": null },
-    { "id": "buyuk_s3", "text": "O benim [büyük] kardeşim.", "note": "'büyük kardeş' = elder sibling" },
-    { "id": "buyuk_s4", "text": "Bu [büyük] bir fırsat, kaçırma!", "note": null }
-  ],
-  "recall_prompts": [
     {
-      "id": "buyuk_r1",
-      "prompt": "Karşındaki iki ekmekten hangisini alacaksın? 'Daha ... olanı alacağım.' dersin.",
-      "accepted_forms": ["büyük", "büyüğünü"],
+      "id": "büyük_s1",
+      "text": "Bu çanta çok [büyük], taşıyamam.",
       "note": null
     },
     {
-      "id": "buyuk_r2",
-      "prompt": "İstanbul Ankara'ya göre nasıl bir şehir? 'İstanbul daha ...' diyorsun.",
-      "accepted_forms": ["büyük", "büyüktür"],
+      "id": "büyük_s2",
+      "text": "[Büyük] şehirlerde trafik sorunu var.",
+      "note": null
+    },
+    {
+      "id": "büyük_s3",
+      "text": "O benim [büyük] kardeşim.",
+      "note": "'büyük kardeş' = elder sibling"
+    },
+    {
+      "id": "büyük_s4",
+      "text": "Bu [büyük] bir fırsat, kaçırma!",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "büyük_r1",
+      "prompt": "Cümledeki 'büyük' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "büyük"
+      ],
+      "note": null
+    },
+    {
+      "id": "büyük_r2",
+      "prompt": "'büyük' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "büyük"
+      ],
       "note": null
     }
   ]

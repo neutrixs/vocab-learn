@@ -1,0 +1,47 @@
+{
+  "word": "çakmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to strike, to hit, to collide, lighter",
+  "sentences": [
+    {
+      "id": "çakmak_s1",
+      "text": "Kapıya [çaktı] ve kaçtı.",
+      "note": "'çaktı' = he hit and ran"
+    },
+    {
+      "id": "çakmak_s2",
+      "text": "Otomobil duvar [çaktı].",
+      "note": "hit the wall"
+    },
+    {
+      "id": "çakmak_s3",
+      "text": "[Çakmakla] sigara yak.",
+      "note": "'çakmak' = lighter"
+    },
+    {
+      "id": "çakmak_s4",
+      "text": "[Çakmak] nerede?",
+      "note": "where's the lighter?"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çakmak_r1",
+      "prompt": "Cümledeki 'çakmak' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "çakmak"
+      ],
+      "note": null
+    },
+    {
+      "id": "çakmak_r2",
+      "prompt": "'çakmak' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "çakmak"
+      ],
+      "note": null
+    }
+  ]
+}

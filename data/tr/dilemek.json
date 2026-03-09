@@ -1,0 +1,37 @@
+{
+  "word": "dilemek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to wish, to desire",
+  "sentences": [
+    {
+      "id": "dilemek_s1",
+      "text": "Ne [diliyorsun]?",
+      "note": null
+    },
+    {
+      "id": "dilemek_s2",
+      "text": "[Dilediğin] gibi yap.",
+      "note": null
+    },
+    {
+      "id": "dilemek_s3",
+      "text": "Mutlu ol [dileriz].",
+      "note": null
+    },
+    {
+      "id": "dilemek_s4",
+      "text": "[Dile] ne istersin?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dilemek_r1",
+      "prompt": "Bir şey olmasını istemek, arzulamak ne demek?",
+      "accepted_forms": ["dilemek", "diliyorum", "diledim"],
+      "note": null
+    }
+  ]
+}

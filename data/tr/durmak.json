@@ -1,0 +1,37 @@
+{
+  "word": "durmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to stop, to stand",
+  "sentences": [
+    {
+      "id": "durmak_s1",
+      "text": "Burada [dur].",
+      "note": null
+    },
+    {
+      "id": "durmak_s2",
+      "text": "Araba [durdu].",
+      "note": null
+    },
+    {
+      "id": "durmak_s3",
+      "text": "Müzik [durduk].",
+      "note": null
+    },
+    {
+      "id": "durmak_s4",
+      "text": "[Durması] gerekiyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "durmak_r1",
+      "prompt": "Hareket etmeyi bırakmak ne demek?",
+      "accepted_forms": ["durmak", "dur", "durdu"],
+      "note": null
+    }
+  ]
+}

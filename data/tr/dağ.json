@@ -1,0 +1,47 @@
+{
+  "word": "dağ",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "mountain, hill",
+  "sentences": [
+    {
+      "id": "dağ_s1",
+      "text": "[Dağ] çok yüksek.",
+      "note": null
+    },
+    {
+      "id": "dağ_s2",
+      "text": "[Dağa] tırmanıyoruz.",
+      "note": "'dağa' = to the mountain"
+    },
+    {
+      "id": "dağ_s3",
+      "text": "[Dağında] kar var.",
+      "note": "'dağında' = on the mountain"
+    },
+    {
+      "id": "dağ_s4",
+      "text": "[Dağlar] güzel manzara.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dağ_r1",
+      "prompt": "Cümledeki 'dağ' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "dağ"
+      ],
+      "note": null
+    },
+    {
+      "id": "dağ_r2",
+      "prompt": "'dağ' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "dağ"
+      ],
+      "note": null
+    }
+  ]
+}

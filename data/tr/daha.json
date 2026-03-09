@@ -1,0 +1,47 @@
+{
+  "word": "daha",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adverb",
+  "english_gloss": "more, still, yet, furthermore",
+  "sentences": [
+    {
+      "id": "daha_s1",
+      "text": "[Daha] biraz bekleyelim.",
+      "note": "'daha biraz' = a bit more"
+    },
+    {
+      "id": "daha_s2",
+      "text": "[Daha] çok para gerekli.",
+      "note": "more money is needed"
+    },
+    {
+      "id": "daha_s3",
+      "text": "Bunu [daha] iyi yapabilirsin.",
+      "note": "you can do this better"
+    },
+    {
+      "id": "daha_s4",
+      "text": "[Daha] yok mu?",
+      "note": "more available?"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "daha_r1",
+      "prompt": "Cümledeki 'daha' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "daha"
+      ],
+      "note": null
+    },
+    {
+      "id": "daha_r2",
+      "prompt": "'daha' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "daha"
+      ],
+      "note": null
+    }
+  ]
+}

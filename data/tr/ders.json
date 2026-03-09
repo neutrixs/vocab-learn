@@ -1,0 +1,37 @@
+{
+  "word": "ders",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "lesson, class",
+  "sentences": [
+    {
+      "id": "ders_s1",
+      "text": "Matematik [dersini] çok seviyorum.",
+      "note": null
+    },
+    {
+      "id": "ders_s2",
+      "text": "[Ders] saati saat 9'da başlıyor.",
+      "note": null
+    },
+    {
+      "id": "ders_s3",
+      "text": "[Dersi] öğretmen öğretiyor.",
+      "note": null
+    },
+    {
+      "id": "ders_s4",
+      "text": "Bugün beş [ders]lik güne gittim.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ders_r1",
+      "prompt": "Öğretmen tarafından öğrencelere verilen eğitim saati ne?",
+      "accepted_forms": ["ders", "dersi", "dersini"],
+      "note": null
+    }
+  ]
+}

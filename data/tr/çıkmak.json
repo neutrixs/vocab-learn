@@ -1,0 +1,47 @@
+{
+  "word": "çıkmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to come out, to go out, to emerge, to rise",
+  "sentences": [
+    {
+      "id": "çıkmak_s1",
+      "text": "Evden [çıktım].",
+      "note": null
+    },
+    {
+      "id": "çıkmak_s2",
+      "text": "Güneş [çıkıyor].",
+      "note": "the sun is rising"
+    },
+    {
+      "id": "çıkmak_s3",
+      "text": "Merdivenleri [çıktı].",
+      "note": "climbed the stairs"
+    },
+    {
+      "id": "çıkmak_s4",
+      "text": "[Çık] dışarı!",
+      "note": "come out!"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çıkmak_r1",
+      "prompt": "Cümledeki 'çıkmak' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "çıkmak"
+      ],
+      "note": null
+    },
+    {
+      "id": "çıkmak_r2",
+      "prompt": "'çıkmak' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "çıkmak"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "bin",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "thousand (number)",
+  "sentences": [
+    { "id": "bin_s1", "text": "Kitapta [bin] sayfa vardır.", "note": null },
+    { "id": "bin_s2", "text": "[Bin] lira harcadı.", "note": null },
+    { "id": "bin_s3", "text": "Nüfus [bin] kişi arttı.", "note": null },
+    { "id": "bin_s4", "text": "[Binler] basamağına kadar saydı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bin_r1",
+      "prompt": "1000 sayısının Türkçesi nedir?",
+      "accepted_forms": ["bin"],
+      "note": null
+    },
+    {
+      "id": "bin_r2",
+      "prompt": "Kütüphanede on ... kitap vardı.",
+      "accepted_forms": ["bin"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "word": "çabuk",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "quick, fast, swift, rapid",
+  "sentences": [
+    {
+      "id": "çabuk_s1",
+      "text": "Seninle durmak [çabuk] geçti.",
+      "note": "'çabuk geçti' = passed quickly"
+    },
+    {
+      "id": "çabuk_s2",
+      "text": "[Çabuk] koş, geç kaldık!",
+      "note": null
+    },
+    {
+      "id": "çabuk_s3",
+      "text": "[Çabuk] bir araba geldi.",
+      "note": null
+    },
+    {
+      "id": "çabuk_s4",
+      "text": "Bu iş [çabuk] bitecek mi?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çabuk_r1",
+      "prompt": "Cümledeki 'çabuk' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "çabuk"
+      ],
+      "note": null
+    },
+    {
+      "id": "çabuk_r2",
+      "prompt": "'çabuk' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "çabuk"
+      ],
+      "note": null
+    }
+  ]
+}

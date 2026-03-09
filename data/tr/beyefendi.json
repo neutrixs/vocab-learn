@@ -1,0 +1,27 @@
+{
+  "word": "beyefendi",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "sir, gentleman, mister (formal/respectful)",
+  "sentences": [
+    { "id": "beyefendi_s1", "text": "[Beyefendi], bir kahve lütfen.", "note": null },
+    { "id": "beyefendi_s2", "text": "Yönetici [beyefendi] çok eğitimli.", "note": null },
+    { "id": "beyefendi_s3", "text": "[Beyefendiler], hoş geldiniz.", "note": "plural form" },
+    { "id": "beyefendi_s4", "text": "O [beyefendi] çok zarif konuşuyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "beyefendi_r1",
+      "prompt": "Bir erkeği saygıyla çağırmak istiyorsun. Ne dersin?",
+      "accepted_forms": ["beyefendi"],
+      "note": null
+    },
+    {
+      "id": "beyefendi_r2",
+      "prompt": "Garson, müşteriye hitap ederken: '... ne icap ederdi?'",
+      "accepted_forms": ["beyefendi", "beyefendim"],
+      "note": null
+    }
+  ]
+}

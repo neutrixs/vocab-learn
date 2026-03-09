@@ -1,0 +1,47 @@
+{
+  "word": "cin",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "demon, genie (from Islamic/Turkish folklore)",
+  "sentences": [
+    {
+      "id": "cin_s1",
+      "text": "[Cin] Türk masallarında yer alır.",
+      "note": "Turkish folklore"
+    },
+    {
+      "id": "cin_s2",
+      "text": "[Cinler] çoğu kez kötü sonuç getirir.",
+      "note": null
+    },
+    {
+      "id": "cin_s3",
+      "text": "[Cinle] görüşmek tehlikeli sayılır.",
+      "note": null
+    },
+    {
+      "id": "cin_s4",
+      "text": "Masallarda [cin] vardır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "cin_r1",
+      "prompt": "Cümledeki 'cin' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "cin"
+      ],
+      "note": null
+    },
+    {
+      "id": "cin_r2",
+      "prompt": "'cin' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "cin"
+      ],
+      "note": null
+    }
+  ]
+}

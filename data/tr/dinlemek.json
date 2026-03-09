@@ -1,0 +1,37 @@
+{
+  "word": "dinlemek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to listen",
+  "sentences": [
+    {
+      "id": "dinlemek_s1",
+      "text": "Müzik [dinliyorum].",
+      "note": null
+    },
+    {
+      "id": "dinlemek_s2",
+      "text": "Beni [dinle] lütfen.",
+      "note": null
+    },
+    {
+      "id": "dinlemek_s3",
+      "text": "Seni [dinledim] dikkatle.",
+      "note": null
+    },
+    {
+      "id": "dinlemek_s4",
+      "text": "Radyo [dinliyor].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dinlemek_r1",
+      "prompt": "Ses veya sesli bilgiye kulak kabararak algılamak ne demek?",
+      "accepted_forms": ["dinlemek", "dinliyorum", "dinledim"],
+      "note": null
+    }
+  ]
+}

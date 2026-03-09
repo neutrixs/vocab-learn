@@ -1,0 +1,47 @@
+{
+  "word": "Çin",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "China",
+  "sentences": [
+    {
+      "id": "çin_s1",
+      "text": "[Çin] Asya'da büyük ülke.",
+      "note": null
+    },
+    {
+      "id": "çin_s2",
+      "text": "[Çin'den] mallar geldi.",
+      "note": "'Çin'den' = from China"
+    },
+    {
+      "id": "çin_s3",
+      "text": "[Çin] duvarı ünlüdür.",
+      "note": "'Çin duvarı' = Great Wall of China"
+    },
+    {
+      "id": "çin_s4",
+      "text": "[Çinliler] Doğu Asya'da yaşıyorlar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çin_r1",
+      "prompt": "Cümledeki 'Çin' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "Çin"
+      ],
+      "note": null
+    },
+    {
+      "id": "çin_r2",
+      "prompt": "'Çin' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "Çin"
+      ],
+      "note": null
+    }
+  ]
+}

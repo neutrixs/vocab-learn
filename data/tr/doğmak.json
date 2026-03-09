@@ -1,0 +1,37 @@
+{
+  "word": "doğmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to be born",
+  "sentences": [
+    {
+      "id": "doğmak_s1",
+      "text": "Bebek [doğdu].",
+      "note": null
+    },
+    {
+      "id": "doğmak_s2",
+      "text": "Ne zaman [doğdun]?",
+      "note": null
+    },
+    {
+      "id": "doğmak_s3",
+      "text": "1990 yılında [doğdum].",
+      "note": null
+    },
+    {
+      "id": "doğmak_s4",
+      "text": "Nerede [doğdunuz]?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "doğmak_r1",
+      "prompt": "Bir canlının dünyaya gelmesi ne demek?",
+      "accepted_forms": ["doğmak", "doğdu", "doğdum"],
+      "note": null
+    }
+  ]
+}

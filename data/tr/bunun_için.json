@@ -1,0 +1,27 @@
+{
+  "word": "bunun için",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adverb",
+  "english_gloss": "for this reason, therefore, so",
+  "sentences": [
+    { "id": "bunun_icin_s1", "text": "[Bunun için] geldi.", "note": null },
+    { "id": "bunun_icin_s2", "text": "[Bunun için] erken kalkıyorum.", "note": null },
+    { "id": "bunun_icin_s3", "text": "[Bunun için] kapıyı açtı.", "note": null },
+    { "id": "bunun_icin_s4", "text": "[Bunun için] önemli.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bunun_icin_r1",
+      "prompt": "Sebep göstermek: '[...]' geldi.",
+      "accepted_forms": ["bunun için"],
+      "note": null
+    },
+    {
+      "id": "bunun_icin_r2",
+      "prompt": "Bu yüzden, bu sebeple: '[...]' hepimiz dikkat etmeli.",
+      "accepted_forms": ["bunun için"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "word": "devam etmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to continue, to go on",
+  "sentences": [
+    {
+      "id": "devam etmek_s1",
+      "text": "[Devam et], lütfen.",
+      "note": null
+    },
+    {
+      "id": "devam etmek_s2",
+      "text": "Konuşmasına [devam etti].",
+      "note": null
+    },
+    {
+      "id": "devam etmek_s3",
+      "text": "Bu durum [devam ederse] sorun olacak.",
+      "note": null
+    },
+    {
+      "id": "devam etmek_s4",
+      "text": "Kitabı okumaya [devam ettim].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "devam etmek_r1",
+      "prompt": "Kesintiye uğramadan aynı şekilde devam ettirmek ne demek?",
+      "accepted_forms": ["devam etmek", "devam ediyor", "devam etti"],
+      "note": null
+    }
+  ]
+}

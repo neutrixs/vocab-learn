@@ -1,0 +1,27 @@
+{
+  "word": "berber",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "barber, hairdresser",
+  "sentences": [
+    { "id": "berber_s1", "text": "[Berber]e saç kestirmeye gittim.", "note": "dative case" },
+    { "id": "berber_s2", "text": "Köşede yeni bir [berber] dükkanı açıldı.", "note": null },
+    { "id": "berber_s3", "text": "Bu [berber] çok usta.", "note": null },
+    { "id": "berber_s4", "text": "[Berberin] fiyatları uygun.", "note": "possessive" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "berber_r1",
+      "prompt": "Saç kestiren kişi kime denir?",
+      "accepted_forms": ["berber", "berbere", "berberin"],
+      "note": null
+    },
+    {
+      "id": "berber_r2",
+      "prompt": "Pazartesi günü ... e gittim saç kestirmek için.",
+      "accepted_forms": ["berber", "berbere"],
+      "note": null
+    }
+  ]
+}

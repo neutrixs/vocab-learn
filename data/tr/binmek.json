@@ -1,0 +1,27 @@
+{
+  "word": "binmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to get on, to board, to mount, to ride",
+  "sentences": [
+    { "id": "binmek_s1", "text": "Otobüse [bindim].", "note": null },
+    { "id": "binmek_s2", "text": "Uçağa [binmeden] önce kaynaklar kontrol edilir.", "note": null },
+    { "id": "binmek_s3", "text": "Ata [bin].", "note": "imperative" },
+    { "id": "binmek_s4", "text": "Araba [biniyordu].", "note": "was riding/getting in car" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "binmek_r1",
+      "prompt": "Otobüse girmek: 'Otobüse [...]'",
+      "accepted_forms": ["bindim", "biniyorum"],
+      "note": null
+    },
+    {
+      "id": "binmek_r2",
+      "prompt": "Ata veya bisiklete çıkmak: 'Bisiklete [...]'",
+      "accepted_forms": ["bindim", "bin"],
+      "note": null
+    }
+  ]
+}

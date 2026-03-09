@@ -1,0 +1,27 @@
+{
+  "word": "büro",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "office, bureau",
+  "sentences": [
+    { "id": "buro_s1", "text": "Şirketin [bürosu] merkezdedir.", "note": null },
+    { "id": "buro_s2", "text": "[Büro]da çalışıyorum.", "note": null },
+    { "id": "buro_s3", "text": "[Büroyu] 9'da açacağım.", "note": null },
+    { "id": "buro_s4", "text": "Yeni [büro] binaları açıldı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "buro_r1",
+      "prompt": "İşletmelerde çalışılan yer, masalar olan alan: '[...]'",
+      "accepted_forms": ["büro"],
+      "note": null
+    },
+    {
+      "id": "buro_r2",
+      "prompt": "Dişçi ... a gittim muayene için.",
+      "accepted_forms": ["bürosuna"],
+      "note": null
+    }
+  ]
+}

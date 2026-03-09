@@ -1,0 +1,37 @@
+{
+  "word": "doğal",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "natural",
+  "sentences": [
+    {
+      "id": "doğal_s1",
+      "text": "Bu [doğal] bir tepki.",
+      "note": null
+    },
+    {
+      "id": "doğal_s2",
+      "text": "[Doğal] güzellik.",
+      "note": null
+    },
+    {
+      "id": "doğal_s3",
+      "text": "Su [doğal] bir kaynaktan gelir.",
+      "note": null
+    },
+    {
+      "id": "doğal_s4",
+      "text": "[Doğal] lifler sağlıklı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "doğal_r1",
+      "prompt": "Yapay olmayan, insanın müdahalesi olmayan anlamında sıfat ne?",
+      "accepted_forms": ["doğal"],
+      "note": null
+    }
+  ]
+}

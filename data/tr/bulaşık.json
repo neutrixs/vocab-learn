@@ -1,0 +1,27 @@
+{
+  "word": "bulaşık",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "dishes, tableware",
+  "sentences": [
+    { "id": "bulasik_s1", "text": "[Bulaşık] yıkamam gerekiyor.", "note": null },
+    { "id": "bulasik_s2", "text": "[Bulaşıkları] makineye koy.", "note": null },
+    { "id": "bulasik_s3", "text": "[Bulaşık] havlusu nerde?", "note": null },
+    { "id": "bulasik_s4", "text": "[Bulaşık] makinesi kasılı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bulasik_r1",
+      "prompt": "Yemek sonrası yıkaması gereken eşya: '[...]'",
+      "accepted_forms": ["bulaşık"],
+      "note": null
+    },
+    {
+      "id": "bulasik_r2",
+      "prompt": "[...] yıkanması dün unutuyor mu?",
+      "accepted_forms": ["bulaşık"],
+      "note": null
+    }
+  ]
+}

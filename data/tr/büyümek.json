@@ -1,0 +1,47 @@
+{
+  "word": "büyümek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to grow, to grow up, to increase",
+  "sentences": [
+    {
+      "id": "büyümek_s1",
+      "text": "Çocuk hızlı [büyüyor].",
+      "note": null
+    },
+    {
+      "id": "büyümek_s2",
+      "text": "Bu bitki güneşte iyi [büyür].",
+      "note": null
+    },
+    {
+      "id": "büyümek_s3",
+      "text": "Şehrin nüfusu her yıl [büyüyor].",
+      "note": null
+    },
+    {
+      "id": "büyümek_s4",
+      "text": "[Büyüdüğümde] mühendis olmak istiyorum.",
+      "note": "'büyüdüğümde' = when I grow up"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "büyümek_r1",
+      "prompt": "Cümledeki 'büyümek' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "büyümek"
+      ],
+      "note": null
+    },
+    {
+      "id": "büyümek_r2",
+      "prompt": "'büyümek' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "büyümek"
+      ],
+      "note": null
+    }
+  ]
+}

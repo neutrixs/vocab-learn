@@ -1,0 +1,37 @@
+{
+  "word": "deniz",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "sea, ocean",
+  "sentences": [
+    {
+      "id": "deniz_s1",
+      "text": "Yazın [denize] gidiyorum.",
+      "note": null
+    },
+    {
+      "id": "deniz_s2",
+      "text": "[Deniz] suyu tuzlu.",
+      "note": null
+    },
+    {
+      "id": "deniz_s3",
+      "text": "[Denizde] yüzmek seviyorum.",
+      "note": null
+    },
+    {
+      "id": "deniz_s4",
+      "text": "[Deniz] kıyısında dolaştık.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "deniz_r1",
+      "prompt": "Tuzlu suyla dolu, geniş bir su kütlesi ne?",
+      "accepted_forms": ["deniz", "denize", "denizde"],
+      "note": null
+    }
+  ]
+}

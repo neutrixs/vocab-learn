@@ -1,0 +1,37 @@
+{
+  "word": "dışarıda",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adverb",
+  "english_gloss": "outside",
+  "sentences": [
+    {
+      "id": "dışarıda_s1",
+      "text": "Çocuklar [dışarıda] oynuyor.",
+      "note": null
+    },
+    {
+      "id": "dışarıda_s2",
+      "text": "[Dışarıda] soğuk, içeri gel.",
+      "note": null
+    },
+    {
+      "id": "dışarıda_s3",
+      "text": "[Dışarıda] kalan kapı kilitli.",
+      "note": null
+    },
+    {
+      "id": "dışarıda_s4",
+      "text": "[Dışarıda] oturabiliriz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dışarıda_r1",
+      "prompt": "Bina veya kapalı alan dışında bulunma, dış taraf anlamında zarf ne?",
+      "accepted_forms": ["dışarıda", "dışarı"],
+      "note": null
+    }
+  ]
+}

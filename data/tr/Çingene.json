@@ -1,0 +1,47 @@
+{
+  "word": "Çingene",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "Gypsy, Roma person",
+  "sentences": [
+    {
+      "id": "çingene_s1",
+      "text": "[Çingeneler] göçebe insandır.",
+      "note": null
+    },
+    {
+      "id": "çingene_s2",
+      "text": "[Çingene] müzikleri çok güzel.",
+      "note": null
+    },
+    {
+      "id": "çingene_s3",
+      "text": "[Çingene] kültürü ilginç.",
+      "note": null
+    },
+    {
+      "id": "çingene_s4",
+      "text": "[Çingenesi] dansı yapıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çingene_r1",
+      "prompt": "Cümledeki 'Çingene' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "Çingene"
+      ],
+      "note": null
+    },
+    {
+      "id": "çingene_r2",
+      "prompt": "'Çingene' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "Çingene"
+      ],
+      "note": null
+    }
+  ]
+}

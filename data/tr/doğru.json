@@ -1,0 +1,37 @@
+{
+  "word": "doğru",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "correct, true, right",
+  "sentences": [
+    {
+      "id": "doğru_s1",
+      "text": "Bu [doğru] bir cevap.",
+      "note": null
+    },
+    {
+      "id": "doğru_s2",
+      "text": "[Doğru] yol hangisi?",
+      "note": null
+    },
+    {
+      "id": "doğru_s3",
+      "text": "Sağa [doğru] git.",
+      "note": null
+    },
+    {
+      "id": "doğru_s4",
+      "text": "Bu [doğru] mu, yanlış mı?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "doğru_r1",
+      "prompt": "Yanlışı olmayan, uygun anlamında sıfat ne?",
+      "accepted_forms": ["doğru"],
+      "note": null
+    }
+  ]
+}

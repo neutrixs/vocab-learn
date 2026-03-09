@@ -1,0 +1,37 @@
+{
+  "word": "dizi",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "series, sequence",
+  "sentences": [
+    {
+      "id": "dizi_s1",
+      "text": "Bu [dizi]yi izledin mi?",
+      "note": null
+    },
+    {
+      "id": "dizi_s2",
+      "text": "TV [dizisi] çok ilginç.",
+      "note": null
+    },
+    {
+      "id": "dizi_s3",
+      "text": "Sayıların [dizisi] devam edecek.",
+      "note": null
+    },
+    {
+      "id": "dizi_s4",
+      "text": "[Dizi]nin son bölümünü izledim.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dizi_r1",
+      "prompt": "Birbiri ardına sıralanmış nesne veya program dizilimi ne?",
+      "accepted_forms": ["dizi", "dizisi"],
+      "note": null
+    }
+  ]
+}

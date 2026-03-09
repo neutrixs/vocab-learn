@@ -1,0 +1,37 @@
+{
+  "word": "duble",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "double, dubbed",
+  "sentences": [
+    {
+      "id": "duble_s1",
+      "text": "[Duble] yolda arabalar hızlı.",
+      "note": null
+    },
+    {
+      "id": "duble_s2",
+      "text": "Film [duble] sürümü.",
+      "note": null
+    },
+    {
+      "id": "duble_s3",
+      "text": "[Duble] kompartıman daha geniş.",
+      "note": null
+    },
+    {
+      "id": "duble_s4",
+      "text": "[Duble] evler daha pahalı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "duble_r1",
+      "prompt": "Çift anlamında, dublajlı anlamında sıfat ne?",
+      "accepted_forms": ["duble"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "boyun",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "neck (anatomy)",
+  "sentences": [
+    { "id": "boyun_s1", "text": "[Boyun] ince.", "note": null },
+    { "id": "boyun_s2", "text": "[Boyunuma] kolye taktım.", "note": null },
+    { "id": "boyun_s3", "text": "[Boyun] ağrısı var.", "note": null },
+    { "id": "boyun_s4", "text": "Başla [boyunun] bağlantısı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "boyun_r1",
+      "prompt": "Başla gövdenin arasında kalan bölge: kime denir?",
+      "accepted_forms": ["boyun"],
+      "note": null
+    },
+    {
+      "id": "boyun_r2",
+      "prompt": "Kolye ... a takılır.",
+      "accepted_forms": ["boyuna", "boyunuma"],
+      "note": null
+    }
+  ]
+}

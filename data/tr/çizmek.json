@@ -1,0 +1,47 @@
+{
+  "word": "çizmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to draw, to pull (boots), to drag",
+  "sentences": [
+    {
+      "id": "çizmek_s1",
+      "text": "Resim [çizdim].",
+      "note": null
+    },
+    {
+      "id": "çizmek_s2",
+      "text": "Çizgi [çiz].",
+      "note": "draw a line"
+    },
+    {
+      "id": "çizmek_s3",
+      "text": "[Çizmelerim] sıkı.",
+      "note": "'çizmelerim' = my boots"
+    },
+    {
+      "id": "çizmek_s4",
+      "text": "Çizmeyi [çıkardı].",
+      "note": "took off the boot"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çizmek_r1",
+      "prompt": "Cümledeki 'çizmek' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "çizmek"
+      ],
+      "note": null
+    },
+    {
+      "id": "çizmek_r2",
+      "prompt": "'çizmek' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "çizmek"
+      ],
+      "note": null
+    }
+  ]
+}

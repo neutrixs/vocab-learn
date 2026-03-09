@@ -1,0 +1,27 @@
+{
+  "word": "berbat",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "ruined, spoiled, wretched, in poor condition",
+  "sentences": [
+    { "id": "berbat_s1", "text": "Kaza sonrası araç [berbat] halde.", "note": null },
+    { "id": "berbat_s2", "text": "Hava [berbat], dışarı çıkamayız.", "note": null },
+    { "id": "berbat_s3", "text": "Sınav [berbat] geçti.", "note": null },
+    { "id": "berbat_s4", "text": "[Berbat] bir gün yaşadım.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "berbat_r1",
+      "prompt": "Bir şey çok kötü durumda. Onun hali nasıl?",
+      "accepted_forms": ["berbat", "berbat halde"],
+      "note": null
+    },
+    {
+      "id": "berbat_r2",
+      "prompt": "Sınav çok kötü geçti. Sınav ... geçti.",
+      "accepted_forms": ["berbat", "berbat şekilde"],
+      "note": null
+    }
+  ]
+}

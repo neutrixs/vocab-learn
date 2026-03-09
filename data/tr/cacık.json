@@ -1,0 +1,47 @@
+{
+  "word": "cacık",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "tzatziki, yogurt dip",
+  "sentences": [
+    {
+      "id": "cacık_s1",
+      "text": "[Cacık] soğuk ve lezzetli bir meze.",
+      "note": "Turkish yogurt dip"
+    },
+    {
+      "id": "cacık_s2",
+      "text": "Kebabın yanında [cacık] var.",
+      "note": null
+    },
+    {
+      "id": "cacık_s3",
+      "text": "[Cacığa] salatalık, sarımsak koydu.",
+      "note": null
+    },
+    {
+      "id": "cacık_s4",
+      "text": "[Cacığı] buzlu tutmalısın.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "cacık_r1",
+      "prompt": "Cümledeki 'cacık' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "cacık"
+      ],
+      "note": null
+    },
+    {
+      "id": "cacık_r2",
+      "prompt": "'cacık' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "cacık"
+      ],
+      "note": null
+    }
+  ]
+}

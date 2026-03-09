@@ -1,0 +1,37 @@
+{
+  "word": "defa",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "time, instance",
+  "sentences": [
+    {
+      "id": "defa_s1",
+      "text": "Bu olayı birçok [defa] gördüm.",
+      "note": null
+    },
+    {
+      "id": "defa_s2",
+      "text": "Bir [defa] daha dene.",
+      "note": null
+    },
+    {
+      "id": "defa_s3",
+      "text": "Kaç [defa] söyledim?",
+      "note": null
+    },
+    {
+      "id": "defa_s4",
+      "text": "Her [seferinde] aynı hata yapıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "defa_r1",
+      "prompt": "Bir şeyin tekrar sayısı veya kaç kere olduğu anlamına gelen kelime ne?",
+      "accepted_forms": ["defa", "kere", "sefer", "seferinde"],
+      "note": null
+    }
+  ]
+}

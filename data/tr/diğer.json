@@ -1,0 +1,37 @@
+{
+  "word": "diğer",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "pronoun",
+  "english_gloss": "other, another",
+  "sentences": [
+    {
+      "id": "diğer_s1",
+      "text": "Bir ayakkabı kaybettim, [diğeri] nerede?",
+      "note": null
+    },
+    {
+      "id": "diğer_s2",
+      "text": "[Diğer] çocuklar geldi mi?",
+      "note": null
+    },
+    {
+      "id": "diğer_s3",
+      "text": "Bunu ve [diğerlerini] iste.",
+      "note": null
+    },
+    {
+      "id": "diğer_s4",
+      "text": "[Diğer] gün gelecek.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "diğer_r1",
+      "prompt": "Bahsedilen veya alıntı yapılan şeylere ek olarak başka ne?",
+      "accepted_forms": ["diğer", "diğeri", "diğerlerini"],
+      "note": null
+    }
+  ]
+}

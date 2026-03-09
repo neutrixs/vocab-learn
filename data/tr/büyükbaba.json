@@ -1,0 +1,47 @@
+{
+  "word": "büyükbaba",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "grandfather, paternal grandfather",
+  "sentences": [
+    {
+      "id": "büyükbaba_s1",
+      "text": "Benim [büyükbabam] emekli öğretmen.",
+      "note": null
+    },
+    {
+      "id": "büyükbaba_s2",
+      "text": "[Büyükbabamın] hikâyeleri çok ilginç.",
+      "note": null
+    },
+    {
+      "id": "büyükbaba_s3",
+      "text": "[Büyükbabaya] her hafta ziyaret ediyorum.",
+      "note": null
+    },
+    {
+      "id": "büyükbaba_s4",
+      "text": "[Büyükbaba] her sabah erkek kalkar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "büyükbaba_r1",
+      "prompt": "Cümledeki 'büyükbaba' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "büyükbaba"
+      ],
+      "note": null
+    },
+    {
+      "id": "büyükbaba_r2",
+      "prompt": "'büyükbaba' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "büyükbaba"
+      ],
+      "note": null
+    }
+  ]
+}

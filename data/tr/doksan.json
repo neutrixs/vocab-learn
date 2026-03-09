@@ -1,0 +1,37 @@
+{
+  "word": "doksan",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "ninety",
+  "sentences": [
+    {
+      "id": "doksan_s1",
+      "text": "Sınıf [doksan] kişi var.",
+      "note": null
+    },
+    {
+      "id": "doksan_s2",
+      "text": "Yüz eksi on [doksan]dır.",
+      "note": null
+    },
+    {
+      "id": "doksan_s3",
+      "text": "[Doksan] yaşında büyükbabası.",
+      "note": null
+    },
+    {
+      "id": "doksan_s4",
+      "text": "[Doksan] derece açı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "doksan_r1",
+      "prompt": "90 sayısı ne?",
+      "accepted_forms": ["doksan", "90"],
+      "note": null
+    }
+  ]
+}

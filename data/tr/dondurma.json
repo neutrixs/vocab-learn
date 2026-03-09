@@ -1,0 +1,37 @@
+{
+  "word": "dondurma",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "ice cream",
+  "sentences": [
+    {
+      "id": "dondurma_s1",
+      "text": "Bana [dondurma] ver.",
+      "note": null
+    },
+    {
+      "id": "dondurma_s2",
+      "text": "Yazın [dondurma] yiyorum.",
+      "note": null
+    },
+    {
+      "id": "dondurma_s3",
+      "text": "[Dondurma]yla pasta.",
+      "note": null
+    },
+    {
+      "id": "dondurma_s4",
+      "text": "[Dondurma] dükkanına gittik.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dondurma_r1",
+      "prompt": "Soğuk tatlı gıda ne?",
+      "accepted_forms": ["dondurma"],
+      "note": null
+    }
+  ]
+}

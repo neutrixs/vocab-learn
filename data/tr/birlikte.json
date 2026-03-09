@@ -1,0 +1,27 @@
+{
+  "word": "birlikte",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adverb",
+  "english_gloss": "together, jointly, along with",
+  "sentences": [
+    { "id": "birlikte_s1", "text": "Hepimiz [birlikte] yolculuk yaptık.", "note": null },
+    { "id": "birlikte_s2", "text": "Ailemle [birlikte] yaşıyorum.", "note": null },
+    { "id": "birlikte_s3", "text": "[Birlikte] çalışırız.", "note": null },
+    { "id": "birlikte_s4", "text": "Ayakkabı [birlikte] satılıyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "birlikte_r1",
+      "prompt": "Aynı anda, beraber: 'Ailelerimiz ... ev dekorladı.'",
+      "accepted_forms": ["birlikte"],
+      "note": null
+    },
+    {
+      "id": "birlikte_r2",
+      "prompt": "Başkalarıyla beraber: 'Arkadaşlarımla ... eğlendik.'",
+      "accepted_forms": ["birlikte"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "word": "ciddi",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "serious, earnest, strict",
+  "sentences": [
+    {
+      "id": "ciddi_s1",
+      "text": "Bu çok [ciddi] bir durum.",
+      "note": null
+    },
+    {
+      "id": "ciddi_s2",
+      "text": "Hocamız çok [ciddi].",
+      "note": "strict teacher"
+    },
+    {
+      "id": "ciddi_s3",
+      "text": "[Ciddi] bir sorun var.",
+      "note": null
+    },
+    {
+      "id": "ciddi_s4",
+      "text": "O [ciddi] bir yüzle baktı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ciddi_r1",
+      "prompt": "Cümledeki 'ciddi' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "ciddi"
+      ],
+      "note": null
+    },
+    {
+      "id": "ciddi_r2",
+      "prompt": "'ciddi' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "ciddi"
+      ],
+      "note": null
+    }
+  ]
+}

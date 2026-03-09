@@ -1,0 +1,47 @@
+{
+  "word": "çoğu",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "pronoun",
+  "english_gloss": "most, the majority",
+  "sentences": [
+    {
+      "id": "çoğu_s1",
+      "text": "[Çoğu] memnun değil.",
+      "note": "most are not happy"
+    },
+    {
+      "id": "çoğu_s2",
+      "text": "[Çoğu] zaman evdeyim.",
+      "note": "'çoğu zaman' = most of the time"
+    },
+    {
+      "id": "çoğu_s3",
+      "text": "[Çoğunun] fikirləri farklı.",
+      "note": null
+    },
+    {
+      "id": "çoğu_s4",
+      "text": "[Çoğu] gitmiş.",
+      "note": "most have gone"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çoğu_r1",
+      "prompt": "Cümledeki 'çoğu' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "çoğu"
+      ],
+      "note": null
+    },
+    {
+      "id": "çoğu_r2",
+      "prompt": "'çoğu' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "çoğu"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "boş",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "empty, vacant, blank, idle",
+  "sentences": [
+    { "id": "bos_s1", "text": "[Boş] mı doluyorken?", "note": "empty or full" },
+    { "id": "bos_s2", "text": "Gözlerinin açılıp [boş] kalması.", "note": null },
+    { "id": "bos_s3", "text": "[Boş] bir sandalye vardı.", "note": null },
+    { "id": "bos_s4", "text": "[Boşça] söyledim.", "note": "in vain" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bos_r1",
+      "prompt": "İçinde hiçbir şey olmayan: '[...]' kap",
+      "accepted_forms": ["boş"],
+      "note": null
+    },
+    {
+      "id": "bos_r2",
+      "prompt": "Beş saat [...]tat, hiçbir aktivite yok.",
+      "accepted_forms": ["boş"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "word": "cevap",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "answer, response, reply",
+  "sentences": [
+    {
+      "id": "cevap_s1",
+      "text": "Sorunun [cevabı] nedir?",
+      "note": null
+    },
+    {
+      "id": "cevap_s2",
+      "text": "[Cevap] ver lütfen!",
+      "note": "imperative"
+    },
+    {
+      "id": "cevap_s3",
+      "text": "[Cevabı] bilmiyorum.",
+      "note": null
+    },
+    {
+      "id": "cevap_s4",
+      "text": "Mektuba hemen [cevap] yazacağım.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "cevap_r1",
+      "prompt": "Cümledeki 'cevap' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "cevap"
+      ],
+      "note": null
+    },
+    {
+      "id": "cevap_r2",
+      "prompt": "'cevap' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "cevap"
+      ],
+      "note": null
+    }
+  ]
+}

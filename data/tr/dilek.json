@@ -1,0 +1,37 @@
+{
+  "word": "dilek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "wish, desire",
+  "sentences": [
+    {
+      "id": "dilek_s1",
+      "text": "En büyük [dileğim] sağlık.",
+      "note": null
+    },
+    {
+      "id": "dilek_s2",
+      "text": "[Dileğini] söyle.",
+      "note": null
+    },
+    {
+      "id": "dilek_s3",
+      "text": "Bir [dilek] yap.",
+      "note": null
+    },
+    {
+      "id": "dilek_s4",
+      "text": "[Dileklerini] anla.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dilek_r1",
+      "prompt": "Bir şey olmasını isteme, arzu anlamında isim ne?",
+      "accepted_forms": ["dilek", "dileğim", "dilekleri"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "word": "dindar",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "pious, religious",
+  "sentences": [
+    {
+      "id": "dindar_s1",
+      "text": "O çok [dindar] bir insan.",
+      "note": null
+    },
+    {
+      "id": "dindar_s2",
+      "text": "[Dindar] insanlar her gün ibadet eder.",
+      "note": null
+    },
+    {
+      "id": "dindar_s3",
+      "text": "[Dindar] bir ailede büyüdü.",
+      "note": null
+    },
+    {
+      "id": "dindar_s4",
+      "text": "Çok [dindar] davranıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dindar_r1",
+      "prompt": "Dinini iyi bilip yerine getiren, mümin anlamında sıfat ne?",
+      "accepted_forms": ["dindar"],
+      "note": null
+    }
+  ]
+}

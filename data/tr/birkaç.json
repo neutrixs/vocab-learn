@@ -1,0 +1,27 @@
+{
+  "word": "birkaç",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "pronoun",
+  "english_gloss": "a few, several, some (plural of bir)",
+  "sentences": [
+    { "id": "birkaç_s1", "text": "[Birkaç] gün bekledi.", "note": null },
+    { "id": "birkaç_s2", "text": "[Birkaç] arkadaşın davetimdeydi.", "note": null },
+    { "id": "birkaç_s3", "text": "[Birkaç] saat harcadık.", "note": null },
+    { "id": "birkaç_s4", "text": "[Birkaçını] sordum.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "birkaç_r1",
+      "prompt": "Az sayıda, birden fazla ama çok değil: '[...]' adam vardı.",
+      "accepted_forms": ["birkaç"],
+      "note": null
+    },
+    {
+      "id": "birkaç_r2",
+      "prompt": "İki üç gün: '[...]' gün kaldı.",
+      "accepted_forms": ["birkaç"],
+      "note": null
+    }
+  ]
+}

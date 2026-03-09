@@ -1,0 +1,27 @@
+{
+  "word": "buz",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "ice",
+  "sentences": [
+    { "id": "buz_s1", "text": "[Buz] çok soğuk.", "note": null },
+    { "id": "buz_s2", "text": "Gölün yüzü [buzla] kaplandı.", "note": null },
+    { "id": "buz_s3", "text": "[Buzdan] kaymış.", "note": "slipped on ice" },
+    { "id": "buz_s4", "text": "[Buzlu] bir gün.", "note": "icy day" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "buz_r1",
+      "prompt": "Suyu donmuş hali: '[...]'",
+      "accepted_forms": ["buz"],
+      "note": null
+    },
+    {
+      "id": "buz_r2",
+      "prompt": "Soğuk hava nedeniyle oluşan donmuş su: '[...]' var yolda.",
+      "accepted_forms": ["buz"],
+      "note": null
+    }
+  ]
+}

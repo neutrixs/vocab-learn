@@ -1,0 +1,37 @@
+{
+  "word": "dönmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to turn, to return",
+  "sentences": [
+    {
+      "id": "dönmek_s1",
+      "text": "Evine [dön].",
+      "note": null
+    },
+    {
+      "id": "dönmek_s2",
+      "text": "[Döndük] erken.",
+      "note": null
+    },
+    {
+      "id": "dönmek_s3",
+      "text": "Başını [dön].",
+      "note": null
+    },
+    {
+      "id": "dönmek_s4",
+      "text": "Sayfayı [döndür].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dönmek_r1",
+      "prompt": "Başka bir yöne veya yere geri gelmek ne demek?",
+      "accepted_forms": ["dönmek", "dön", "döndü"],
+      "note": null
+    }
+  ]
+}

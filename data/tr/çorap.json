@@ -1,0 +1,47 @@
+{
+  "word": "çorap",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "sock, stocking",
+  "sentences": [
+    {
+      "id": "çorap_s1",
+      "text": "[Çorap] giydi.",
+      "note": null
+    },
+    {
+      "id": "çorap_s2",
+      "text": "Mavi [çorap] seçtim.",
+      "note": null
+    },
+    {
+      "id": "çorap_s3",
+      "text": "[Çorabı] çıkar.",
+      "note": "take off the sock"
+    },
+    {
+      "id": "çorap_s4",
+      "text": "Çiftler [çorap] kayboluyor.",
+      "note": "socks disappear in pairs"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çorap_r1",
+      "prompt": "Cümledeki 'çorap' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "çorap"
+      ],
+      "note": null
+    },
+    {
+      "id": "çorap_r2",
+      "prompt": "'çorap' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "çorap"
+      ],
+      "note": null
+    }
+  ]
+}

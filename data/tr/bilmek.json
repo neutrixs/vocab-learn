@@ -1,0 +1,27 @@
+{
+  "word": "bilmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to know, to understand",
+  "sentences": [
+    { "id": "bilmek_s1", "text": "Adresini [bilmiyorum].", "note": null },
+    { "id": "bilmek_s2", "text": "Onun ne düşündüğünü [bilmek] istiyorum.", "note": null },
+    { "id": "bilmek_s3", "text": "Bu soruyu [bilebilir] misin?", "note": "can you know/solve this question" },
+    { "id": "bilmek_s4", "text": "Kimse ne olduğunu [bilmiyordu].", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bilmek_r1",
+      "prompt": "Bir şeyin bilgisine sahip olmak: 'Cevabı [...]'",
+      "accepted_forms": ["biliyorum", "biliyordum", "bilmek"],
+      "note": null
+    },
+    {
+      "id": "bilmek_r2",
+      "prompt": "Telefon numarasını ... mi?",
+      "accepted_forms": ["biliyor musun", "biliyor"],
+      "note": null
+    }
+  ]
+}

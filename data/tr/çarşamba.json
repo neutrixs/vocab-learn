@@ -1,0 +1,47 @@
+{
+  "word": "çarşamba",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "Wednesday",
+  "sentences": [
+    {
+      "id": "çarşamba_s1",
+      "text": "[Çarşamba] gün sınav var.",
+      "note": null
+    },
+    {
+      "id": "çarşamba_s2",
+      "text": "[Çarşamba] akşamı görüşmeliyiz.",
+      "note": null
+    },
+    {
+      "id": "çarşamba_s3",
+      "text": "[Çarşambaya] kadar cevap ver.",
+      "note": null
+    },
+    {
+      "id": "çarşamba_s4",
+      "text": "[Çarşamba] günü çalışmıyorum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çarşamba_r1",
+      "prompt": "Cümledeki 'çarşamba' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "çarşamba"
+      ],
+      "note": null
+    },
+    {
+      "id": "çarşamba_r2",
+      "prompt": "'çarşamba' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "çarşamba"
+      ],
+      "note": null
+    }
+  ]
+}

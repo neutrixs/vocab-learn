@@ -1,0 +1,47 @@
+{
+  "word": "dakik",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "precise, punctual, exact, meticulous",
+  "sentences": [
+    {
+      "id": "dakik_s1",
+      "text": "O adam çok [dakik].",
+      "note": "he is very punctual"
+    },
+    {
+      "id": "dakik_s2",
+      "text": "[Dakik] bir hesaplama.",
+      "note": "precise calculation"
+    },
+    {
+      "id": "dakik_s3",
+      "text": "[Dakik] olmalısın.",
+      "note": "you should be precise"
+    },
+    {
+      "id": "dakik_s4",
+      "text": "[Dakik] bilgiler verildi.",
+      "note": "exact information was given"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dakik_r1",
+      "prompt": "Cümledeki 'dakik' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "dakik"
+      ],
+      "note": null
+    },
+    {
+      "id": "dakik_r2",
+      "prompt": "'dakik' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "dakik"
+      ],
+      "note": null
+    }
+  ]
+}

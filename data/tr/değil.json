@@ -1,0 +1,37 @@
+{
+  "word": "değil",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to be not, negative copula",
+  "sentences": [
+    {
+      "id": "değil_s1",
+      "text": "Bu doğru [değil].",
+      "note": null
+    },
+    {
+      "id": "değil_s2",
+      "text": "O [değilim], başkası.",
+      "note": null
+    },
+    {
+      "id": "değil_s3",
+      "text": "Sana söylediklerim [değil] yanlış.",
+      "note": null
+    },
+    {
+      "id": "değil_s4",
+      "text": "Bugün hava güzel [değil].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "değil_r1",
+      "prompt": "'Olmamak, yanlış olmak' anlamındaki olumsuz fiil ne?",
+      "accepted_forms": ["değil", "değilim", "değiliz"],
+      "note": null
+    }
+  ]
+}

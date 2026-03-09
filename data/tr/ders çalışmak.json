@@ -1,0 +1,37 @@
+{
+  "word": "ders çalışmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to study",
+  "sentences": [
+    {
+      "id": "ders çalışmak_s1",
+      "text": "Akşam [ders çalışıyorum].",
+      "note": null
+    },
+    {
+      "id": "ders çalışmak_s2",
+      "text": "[Ders çalışmalısın] sınava hazırlanmak için.",
+      "note": null
+    },
+    {
+      "id": "ders çalışmak_s3",
+      "text": "Kütüphanede [ders çalıştık].",
+      "note": null
+    },
+    {
+      "id": "ders çalışmak_s4",
+      "text": "[Ders çalış]malı mısın?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ders çalışmak_r1",
+      "prompt": "Okul dersleri üzerinde çalışarak öğrenmek ne demek?",
+      "accepted_forms": ["ders çalışmak", "ders çalışıyorum", "ders çalıştık"],
+      "note": null
+    }
+  ]
+}

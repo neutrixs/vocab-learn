@@ -1,0 +1,47 @@
+{
+  "word": "çarpmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to hit, to strike, to bump, to multiply",
+  "sentences": [
+    {
+      "id": "çarpmak_s1",
+      "text": "Araç direkte [çarptı].",
+      "note": "hit the pole"
+    },
+    {
+      "id": "çarpmak_s2",
+      "text": "Düşüp başını [çarptı].",
+      "note": "bumped his head"
+    },
+    {
+      "id": "çarpmak_s3",
+      "text": "5 ile 3'ü [çarparsan], 15 olur.",
+      "note": "multiply"
+    },
+    {
+      "id": "çarpmak_s4",
+      "text": "[Çarpma] lütfen!",
+      "note": "don't hit!"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çarpmak_r1",
+      "prompt": "Cümledeki 'çarpmak' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "çarpmak"
+      ],
+      "note": null
+    },
+    {
+      "id": "çarpmak_r2",
+      "prompt": "'çarpmak' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "çarpmak"
+      ],
+      "note": null
+    }
+  ]
+}

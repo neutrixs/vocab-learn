@@ -1,0 +1,27 @@
+{
+  "word": "bira",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "beer",
+  "sentences": [
+    { "id": "bira_s1", "text": "Soğuk [bira] istiyorum.", "note": null },
+    { "id": "bira_s2", "text": "[Bira] açısından Türkiye meşhur değil.", "note": null },
+    { "id": "bira_s3", "text": "Pub'ta [bira] içiyordu.", "note": null },
+    { "id": "bira_s4", "text": "[Biranın] tadı iyiydi.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bira_r1",
+      "prompt": "Arpa malı, alkollü içecek: kime denir?",
+      "accepted_forms": ["bira"],
+      "note": null
+    },
+    {
+      "id": "bira_r2",
+      "prompt": "Barista soruyor: 'İçmek ister misiniz?' 'Soğuk ... lütfen.'",
+      "accepted_forms": ["bira"],
+      "note": null
+    }
+  ]
+}

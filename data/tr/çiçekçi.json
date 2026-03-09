@@ -1,0 +1,47 @@
+{
+  "word": "çiçekçi",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "florist, flower seller",
+  "sentences": [
+    {
+      "id": "çiçekçi_s1",
+      "text": "[Çiçekçi] dükkanı var.",
+      "note": null
+    },
+    {
+      "id": "çiçekçi_s2",
+      "text": "[Çiçekçiye] buket sipariş verdim.",
+      "note": null
+    },
+    {
+      "id": "çiçekçi_s3",
+      "text": "[Çiçekçi] güzel çiçekler satıyor.",
+      "note": null
+    },
+    {
+      "id": "çiçekçi_s4",
+      "text": "Evinin yanında [çiçekçi] var.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çiçekçi_r1",
+      "prompt": "Cümledeki 'çiçekçi' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "çiçekçi"
+      ],
+      "note": null
+    },
+    {
+      "id": "çiçekçi_r2",
+      "prompt": "'çiçekçi' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "çiçekçi"
+      ],
+      "note": null
+    }
+  ]
+}

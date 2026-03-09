@@ -1,0 +1,37 @@
+{
+  "word": "de",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "conjunction",
+  "english_gloss": "and, also",
+  "sentences": [
+    {
+      "id": "de_s1",
+      "text": "Ben [de] gelmek istiyorum.",
+      "note": null
+    },
+    {
+      "id": "de_s2",
+      "text": "O [da] aynı fikirde.",
+      "note": null
+    },
+    {
+      "id": "de_s3",
+      "text": "Masa, sandalye [de] burası.",
+      "note": null
+    },
+    {
+      "id": "de_s4",
+      "text": "Ahmet [de], Fatma [da] birer öğretmen.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "de_r1",
+      "prompt": "'Bir şey ve başka bir şey birden' anlamını gösteren bağlaç ne?",
+      "accepted_forms": ["de", "da"],
+      "note": null
+    }
+  ]
+}

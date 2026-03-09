@@ -1,0 +1,37 @@
+{
+  "word": "davet etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to invite",
+  "sentences": [
+    {
+      "id": "davet etmek_s1",
+      "text": "Seni doğum günü partisine [davet ettim].",
+      "note": null
+    },
+    {
+      "id": "davet etmek_s2",
+      "text": "Onları akşam yemeğine [davet etmişiz].",
+      "note": null
+    },
+    {
+      "id": "davet etmek_s3",
+      "text": "Beni bir konferansa [davet edecekler].",
+      "note": null
+    },
+    {
+      "id": "davet etmek_s4",
+      "text": "Tüm arkadaşlarını [davet et].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "davet etmek_r1",
+      "prompt": "Birisini bir partiye veya etkinliğe gelmesi için çağırmak ne demek?",
+      "accepted_forms": ["davet ettim", "davet etmişiz", "davet edecekler", "davet et"],
+      "note": null
+    }
+  ]
+}

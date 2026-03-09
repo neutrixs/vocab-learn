@@ -1,0 +1,37 @@
+{
+  "word": "dövülmüş",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "beaten, battered",
+  "sentences": [
+    {
+      "id": "dövülmüş_s1",
+      "text": "[Dövülmüş] çiçek tasarımda var.",
+      "note": null
+    },
+    {
+      "id": "dövülmüş_s2",
+      "text": "Deri [dövülmüş] ve işlenmiş.",
+      "note": null
+    },
+    {
+      "id": "dövülmüş_s3",
+      "text": "[Dövülmüş] metal güzel görünüyor.",
+      "note": null
+    },
+    {
+      "id": "dövülmüş_s4",
+      "text": "[Dövülmüş] ama kırılmadı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dövülmüş_r1",
+      "prompt": "Dövme işlemi görmüş, çekiç veya alet ile şekillendirilmiş anlamında sıfat ne?",
+      "accepted_forms": ["dövülmüş"],
+      "note": null
+    }
+  ]
+}

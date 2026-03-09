@@ -1,0 +1,37 @@
+{
+  "word": "düdük",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "whistle, pipe",
+  "sentences": [
+    {
+      "id": "düdük_s1",
+      "text": "Polisler [düdük] çaldılar.",
+      "note": null
+    },
+    {
+      "id": "düdük_s2",
+      "text": "Çocuk [düdük]ten ses çıkardı.",
+      "note": null
+    },
+    {
+      "id": "düdük_s3",
+      "text": "[Düdük] sesi duydum.",
+      "note": null
+    },
+    {
+      "id": "düdük_s4",
+      "text": "Kapıda [düdük] var.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "düdük_r1",
+      "prompt": "Üflenerek ses çıkaran enstrüman ne?",
+      "accepted_forms": ["düdük"],
+      "note": null
+    }
+  ]
+}

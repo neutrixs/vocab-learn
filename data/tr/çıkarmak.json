@@ -1,0 +1,47 @@
+{
+  "word": "çıkarmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to take out, to remove, to produce, to issue",
+  "sentences": [
+    {
+      "id": "çıkarmak_s1",
+      "text": "Cüzdanından para [çıkardı].",
+      "note": null
+    },
+    {
+      "id": "çıkarmak_s2",
+      "text": "Ayakkabı [çıkar].",
+      "note": "take off your shoes"
+    },
+    {
+      "id": "çıkarmak_s3",
+      "text": "Gazete [çıkardı].",
+      "note": "published a newspaper"
+    },
+    {
+      "id": "çıkarmak_s4",
+      "text": "Fotoğraf [çıkardı].",
+      "note": "printed a photo"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çıkarmak_r1",
+      "prompt": "Cümledeki 'çıkarmak' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "çıkarmak"
+      ],
+      "note": null
+    },
+    {
+      "id": "çıkarmak_r2",
+      "prompt": "'çıkarmak' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "çıkarmak"
+      ],
+      "note": null
+    }
+  ]
+}

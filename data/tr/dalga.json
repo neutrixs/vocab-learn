@@ -1,0 +1,47 @@
+{
+  "word": "dalga",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "wave, undulation",
+  "sentences": [
+    {
+      "id": "dalga_s1",
+      "text": "[Dalga] yüksek.",
+      "note": null
+    },
+    {
+      "id": "dalga_s2",
+      "text": "[Dalgalar] güçlü.",
+      "note": null
+    },
+    {
+      "id": "dalga_s3",
+      "text": "Denizde [dalga] oynuyor.",
+      "note": null
+    },
+    {
+      "id": "dalga_s4",
+      "text": "[Dalgaya] girdik.",
+      "note": "'dalgaya' = into the wave"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dalga_r1",
+      "prompt": "Cümledeki 'dalga' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "dalga"
+      ],
+      "note": null
+    },
+    {
+      "id": "dalga_r2",
+      "prompt": "'dalga' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "dalga"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "word": "cumartesi",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "Saturday",
+  "sentences": [
+    {
+      "id": "cumartesi_s1",
+      "text": "[Cumartesi] çalışmam yok.",
+      "note": null
+    },
+    {
+      "id": "cumartesi_s2",
+      "text": "[Cumartesi] güne kadar bekleyeceğim.",
+      "note": null
+    },
+    {
+      "id": "cumartesi_s3",
+      "text": "[Cumartesi] akşam film izleyecek miyiz?",
+      "note": null
+    },
+    {
+      "id": "cumartesi_s4",
+      "text": "[Cumartesi] ders var.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "cumartesi_r1",
+      "prompt": "Cümledeki 'cumartesi' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "cumartesi"
+      ],
+      "note": null
+    },
+    {
+      "id": "cumartesi_r2",
+      "prompt": "'cumartesi' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "cumartesi"
+      ],
+      "note": null
+    }
+  ]
+}

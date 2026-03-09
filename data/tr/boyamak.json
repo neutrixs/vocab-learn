@@ -1,0 +1,27 @@
+{
+  "word": "boyamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to paint, to color, to dye",
+  "sentences": [
+    { "id": "boyamak_s1", "text": "Evi [boyamak] istiyorum.", "note": null },
+    { "id": "boyamak_s2", "text": "Duvarları [boyattı].", "note": "causative" },
+    { "id": "boyamak_s3", "text": "Masayı gül [boyayan].", "note": "rose-colored paint" },
+    { "id": "boyamak_s4", "text": "Saçını [boyatmış].", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "boyamak_r1",
+      "prompt": "Cıvata ile bir yüzeyi renklendirmek: '[...]'",
+      "accepted_forms": ["boyamak", "boyandı"],
+      "note": null
+    },
+    {
+      "id": "boyamak_r2",
+      "prompt": "Evinin duvarlarını beyaza ... etmeli.",
+      "accepted_forms": ["boyatmalı", "boyamalı"],
+      "note": null
+    }
+  ]
+}

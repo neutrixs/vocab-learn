@@ -1,0 +1,37 @@
+{
+  "word": "dolu",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "full",
+  "sentences": [
+    {
+      "id": "dolu_s1",
+      "text": "Bardak [dolu].",
+      "note": null
+    },
+    {
+      "id": "dolu_s2",
+      "text": "Sınıf [dolu].",
+      "note": null
+    },
+    {
+      "id": "dolu_s3",
+      "text": "Gözler yaşla [dolu].",
+      "note": null
+    },
+    {
+      "id": "dolu_s4",
+      "text": "Çanta [dolu].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dolu_r1",
+      "prompt": "İçi doldurulmuş, boş olmayan anlamında sıfat ne?",
+      "accepted_forms": ["dolu"],
+      "note": null
+    }
+  ]
+}

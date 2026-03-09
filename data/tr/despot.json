@@ -1,0 +1,37 @@
+{
+  "word": "despot",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "despot, tyrant",
+  "sentences": [
+    {
+      "id": "despot_s1",
+      "text": "Tarihte pek çok [despot] vardı.",
+      "note": null
+    },
+    {
+      "id": "despot_s2",
+      "text": "Bu [despotik] yönetim bitti.",
+      "note": null
+    },
+    {
+      "id": "despot_s3",
+      "text": "[Despotlar] halkı ezdi.",
+      "note": null
+    },
+    {
+      "id": "despot_s4",
+      "text": "Orta Çağ'da [despotlar] vardı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "despot_r1",
+      "prompt": "Mutlak iktidara sahip, zalim yönetici ne?",
+      "accepted_forms": ["despot", "despotlar", "despotik"],
+      "note": null
+    }
+  ]
+}

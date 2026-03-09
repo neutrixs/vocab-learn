@@ -1,0 +1,47 @@
+{
+  "word": "dakika",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "minute, moment",
+  "sentences": [
+    {
+      "id": "dakika_s1",
+      "text": "Beş [dakika] bekle.",
+      "note": "wait five minutes"
+    },
+    {
+      "id": "dakika_s2",
+      "text": "Bir [dakika] dur.",
+      "note": "wait a minute"
+    },
+    {
+      "id": "dakika_s3",
+      "text": "[Dakika] ibresini baktı.",
+      "note": "looked at the minute hand"
+    },
+    {
+      "id": "dakika_s4",
+      "text": "Saat [dakikasını] gösteriyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dakika_r1",
+      "prompt": "Cümledeki 'dakika' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "dakika"
+      ],
+      "note": null
+    },
+    {
+      "id": "dakika_r2",
+      "prompt": "'dakika' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "dakika"
+      ],
+      "note": null
+    }
+  ]
+}

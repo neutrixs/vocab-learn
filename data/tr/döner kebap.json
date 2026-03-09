@@ -1,0 +1,37 @@
+{
+  "word": "döner kebap",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "döner kebab",
+  "sentences": [
+    {
+      "id": "döner kebap_s1",
+      "text": "Akşam yemeği [döner kebap] yedik.",
+      "note": null
+    },
+    {
+      "id": "döner kebap_s2",
+      "text": "[Döner kebap] çok lezzetli.",
+      "note": null
+    },
+    {
+      "id": "döner kebap_s3",
+      "text": "[Döner kebap]ını sos ile ye.",
+      "note": null
+    },
+    {
+      "id": "döner kebap_s4",
+      "text": "[Döner kebap] Türkiye'nin meşhur yemeği.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "döner kebap_r1",
+      "prompt": "Döner etinden yapılan Türk yemeği ne?",
+      "accepted_forms": ["döner kebap", "döner"],
+      "note": null
+    }
+  ]
+}

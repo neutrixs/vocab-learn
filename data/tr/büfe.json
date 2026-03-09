@@ -1,0 +1,27 @@
+{
+  "word": "büfe",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "buffet, refreshment stand, counter",
+  "sentences": [
+    { "id": "bufe_s1", "text": "Tren [büfesinde] kahve aldı.", "note": null },
+    { "id": "bufe_s2", "text": "[Büfe] açık.", "note": null },
+    { "id": "bufe_s3", "text": "[Büfeyi] doldur.", "note": null },
+    { "id": "bufe_s4", "text": "[Büfesine] gittim.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bufe_r1",
+      "prompt": "Trende veya istasyonda kısa sürede yemek satılan yer: '[...]'",
+      "accepted_forms": ["büfe"],
+      "note": null
+    },
+    {
+      "id": "bufe_r2",
+      "prompt": "Okul ... da tatlı ve içecek satılır.",
+      "accepted_forms": ["büfesi"],
+      "note": null
+    }
+  ]
+}

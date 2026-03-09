@@ -1,0 +1,37 @@
+{
+  "word": "dolap",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "cupboard, wardrobe",
+  "sentences": [
+    {
+      "id": "dolap_s1",
+      "text": "Giysileri [dolap]ta koy.",
+      "note": null
+    },
+    {
+      "id": "dolap_s2",
+      "text": "Mutfak [dolap]ında ne var?",
+      "note": null
+    },
+    {
+      "id": "dolap_s3",
+      "text": "[Dolaptan] bardak getir.",
+      "note": null
+    },
+    {
+      "id": "dolap_s4",
+      "text": "[Dolap]ın kapısı kırık.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dolap_r1",
+      "prompt": "Giysi veya eşya saklamak için kullanılan mobilya ne?",
+      "accepted_forms": ["dolap", "dolabı", "dolaptaki"],
+      "note": null
+    }
+  ]
+}

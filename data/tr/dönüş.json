@@ -1,0 +1,37 @@
+{
+  "word": "dönüş",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "turn, return",
+  "sentences": [
+    {
+      "id": "dönüş_s1",
+      "text": "Yolcu [dönüş]e hazırlanıyor.",
+      "note": null
+    },
+    {
+      "id": "dönüş_s2",
+      "text": "[Dönüş] yolculuğu uzun.",
+      "note": null
+    },
+    {
+      "id": "dönüş_s3",
+      "text": "[Dönüş] tarihi yarın.",
+      "note": null
+    },
+    {
+      "id": "dönüş_s4",
+      "text": "[Dönüş] bileti aldı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dönüş_r1",
+      "prompt": "Bir yerden ayrıldıktan sonra geri gelme ne?",
+      "accepted_forms": ["dönüş", "dönüşü"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "word": "çağdaş",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "contemporary, modern, of the same age",
+  "sentences": [
+    {
+      "id": "çağdaş_s1",
+      "text": "O [çağdaş] bir mimar.",
+      "note": "contemporary architect"
+    },
+    {
+      "id": "çağdaş_s2",
+      "text": "[Çağdaş] mimarlık farklıdır.",
+      "note": null
+    },
+    {
+      "id": "çağdaş_s3",
+      "text": "[Çağdaş] bir insan olmalıyız.",
+      "note": "we should be modern"
+    },
+    {
+      "id": "çağdaş_s4",
+      "text": "[Çağdaş] görüşler yeni fikirlerdir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çağdaş_r1",
+      "prompt": "Cümledeki 'çağdaş' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "çağdaş"
+      ],
+      "note": null
+    },
+    {
+      "id": "çağdaş_r2",
+      "prompt": "'çağdaş' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "çağdaş"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "word": "çorba",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "soup",
+  "sentences": [
+    {
+      "id": "çorba_s1",
+      "text": "[Çorba] sıcak ve leziz.",
+      "note": null
+    },
+    {
+      "id": "çorba_s2",
+      "text": "[Çorbayı] yedim.",
+      "note": null
+    },
+    {
+      "id": "çorba_s3",
+      "text": "[Çorbada] et var.",
+      "note": null
+    },
+    {
+      "id": "çorba_s4",
+      "text": "Taze [çorba] hazırlasın.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çorba_r1",
+      "prompt": "Cümledeki 'çorba' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "çorba"
+      ],
+      "note": null
+    },
+    {
+      "id": "çorba_r2",
+      "prompt": "'çorba' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "çorba"
+      ],
+      "note": null
+    }
+  ]
+}

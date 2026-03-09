@@ -1,0 +1,37 @@
+{
+  "word": "değişmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to change",
+  "sentences": [
+    {
+      "id": "değişmek_s1",
+      "text": "Fikrimi [değiştirdim].",
+      "note": null
+    },
+    {
+      "id": "değişmek_s2",
+      "text": "Durumlar [değişebilir].",
+      "note": null
+    },
+    {
+      "id": "değişmek_s3",
+      "text": "Hava hızla [değişiyor].",
+      "note": null
+    },
+    {
+      "id": "değişmek_s4",
+      "text": "Giysileri [değiştir].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "değişmek_r1",
+      "prompt": "Şeklini, durumunu veya niteliğini farklı hale getirmek ne demek?",
+      "accepted_forms": ["değişmek", "değişir", "değişti", "değiştirdim"],
+      "note": null
+    }
+  ]
+}

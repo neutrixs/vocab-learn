@@ -1,0 +1,37 @@
+{
+  "word": "demek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to say, to mean",
+  "sentences": [
+    {
+      "id": "demek_s1",
+      "text": "Ne [diyorsun]?",
+      "note": null
+    },
+    {
+      "id": "demek_s2",
+      "text": "Yani [demek istiyorsun] bu?",
+      "note": null
+    },
+    {
+      "id": "demek_s3",
+      "text": "[Demişsin] bile.",
+      "note": null
+    },
+    {
+      "id": "demek_s4",
+      "text": "Başarısız [olmuş demek].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "demek_r1",
+      "prompt": "Bir şey söylemek, ifade etmek veya demek istiyorum anlamındaki fiil ne?",
+      "accepted_forms": ["demek", "diyor", "demiştir", "diyorsun"],
+      "note": null
+    }
+  ]
+}

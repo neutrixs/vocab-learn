@@ -1,0 +1,47 @@
+{
+  "word": "cumhuriyet",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "republic",
+  "sentences": [
+    {
+      "id": "cumhuriyet_s1",
+      "text": "Türkiye [Cumhuriyeti] 1923'te kuruldu.",
+      "note": "Turkish Republic"
+    },
+    {
+      "id": "cumhuriyet_s2",
+      "text": "[Cumhuriyet] bir yönetim şeklidir.",
+      "note": null
+    },
+    {
+      "id": "cumhuriyet_s3",
+      "text": "[Cumhuriyet] bayramı 29 Ekim'de kutlanır.",
+      "note": null
+    },
+    {
+      "id": "cumhuriyet_s4",
+      "text": "[Cumhuriyet] ilkeleri önemlidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "cumhuriyet_r1",
+      "prompt": "Cümledeki 'cumhuriyet' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "cumhuriyet"
+      ],
+      "note": null
+    },
+    {
+      "id": "cumhuriyet_r2",
+      "prompt": "'cumhuriyet' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "cumhuriyet"
+      ],
+      "note": null
+    }
+  ]
+}

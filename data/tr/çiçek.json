@@ -1,0 +1,47 @@
+{
+  "word": "çiçek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "flower, bloom",
+  "sentences": [
+    {
+      "id": "çiçek_s1",
+      "text": "[Çiçek] güzel ve kokulu.",
+      "note": null
+    },
+    {
+      "id": "çiçek_s2",
+      "text": "[Çiçekleri] seviyorum.",
+      "note": null
+    },
+    {
+      "id": "çiçek_s3",
+      "text": "Bahçe [çiçeklerle] dolu.",
+      "note": "'çiçeklerle' = with flowers"
+    },
+    {
+      "id": "çiçek_s4",
+      "text": "[Çiçek] satıyor.",
+      "note": "sells flowers"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çiçek_r1",
+      "prompt": "Cümledeki 'çiçek' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "çiçek"
+      ],
+      "note": null
+    },
+    {
+      "id": "çiçek_r2",
+      "prompt": "'çiçek' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "çiçek"
+      ],
+      "note": null
+    }
+  ]
+}

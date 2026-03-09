@@ -1,0 +1,37 @@
+{
+  "word": "domates",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "tomato",
+  "sentences": [
+    {
+      "id": "domates_s1",
+      "text": "Salata için [domates] kesin.",
+      "note": null
+    },
+    {
+      "id": "domates_s2",
+      "text": "[Domates] kırmızı bir sebzedir.",
+      "note": null
+    },
+    {
+      "id": "domates_s3",
+      "text": "[Domatesler] pazarında satılıyor.",
+      "note": null
+    },
+    {
+      "id": "domates_s4",
+      "text": "[Domates] çorbası lezzetli.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "domates_r1",
+      "prompt": "Kırmızı renk sebzesi ne?",
+      "accepted_forms": ["domates", "domatesler"],
+      "note": null
+    }
+  ]
+}

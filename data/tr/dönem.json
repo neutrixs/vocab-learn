@@ -1,0 +1,37 @@
+{
+  "word": "dönem",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "period, era",
+  "sentences": [
+    {
+      "id": "dönem_s1",
+      "text": "Bu [dönem]de sınava hazırlanıyorum.",
+      "note": null
+    },
+    {
+      "id": "dönem_s2",
+      "text": "Osmanlı [dönem]inde neler oldu?",
+      "note": null
+    },
+    {
+      "id": "dönem_s3",
+      "text": "[Dönem] ödevi bitirildi.",
+      "note": null
+    },
+    {
+      "id": "dönem_s4",
+      "text": "İki [dönem] seçilmiş.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dönem_r1",
+      "prompt": "Belirli bir zaman aralığı ne?",
+      "accepted_forms": ["dönem", "dönemin", "dönemlerde"],
+      "note": null
+    }
+  ]
+}

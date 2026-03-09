@@ -1,0 +1,27 @@
+{
+  "word": "birinci",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "first (ordinal number)",
+  "sentences": [
+    { "id": "birinci_s1", "text": "[Birinci] sınıfta okuyorum.", "note": null },
+    { "id": "birinci_s2", "text": "Yarışta [birinci] geldi.", "note": null },
+    { "id": "birinci_s3", "text": "[Birinci] çocuk erkek.", "note": null },
+    { "id": "birinci_s4", "text": "[Birinci] kez geliyorum.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "birinci_r1",
+      "prompt": "Sırada ilk olan: 'Sınıfın ... öğrencisi başarılı.'",
+      "accepted_forms": ["birinci"],
+      "note": null
+    },
+    {
+      "id": "birinci_r2",
+      "prompt": "Madalya kazanında kişi: 'Yarışta ... çocuk geldi.'",
+      "accepted_forms": ["birinci"],
+      "note": null
+    }
+  ]
+}

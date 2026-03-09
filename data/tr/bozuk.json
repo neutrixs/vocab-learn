@@ -1,0 +1,27 @@
+{
+  "word": "bozuk",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "broken, damaged, spoiled, defective",
+  "sentences": [
+    { "id": "bozuk_s1", "text": "Saat [bozuk] mu?", "note": null },
+    { "id": "bozuk_s2", "text": "[Bozuk] bir cep telefonu.", "note": null },
+    { "id": "bozuk_s3", "text": "[Bozuk] dişler.", "note": null },
+    { "id": "bozuk_s4", "text": "[Bozuk] para değersiz.", "note": "counterfeit money" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bozuk_r1",
+      "prompt": "Çalışmayan, hasar görmüş: '[...]' makine",
+      "accepted_forms": ["bozuk"],
+      "note": null
+    },
+    {
+      "id": "bozuk_r2",
+      "prompt": "Bilgisayar ... mu? Tamir etmeliyiz.",
+      "accepted_forms": ["bozuk"],
+      "note": null
+    }
+  ]
+}

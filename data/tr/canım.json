@@ -1,0 +1,47 @@
+{
+  "word": "canım",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "interjection",
+  "english_gloss": "my dear, oh my",
+  "sentences": [
+    {
+      "id": "canım_s1",
+      "text": "[Canım], ne yapacağız şimdi?",
+      "note": "expressing concern"
+    },
+    {
+      "id": "canım_s2",
+      "text": "[Canım], bu çok zor!",
+      "note": "expressing difficulty"
+    },
+    {
+      "id": "canım_s3",
+      "text": "[Canım] arkadaş, bize yardım et lütfen.",
+      "note": "affectionate address"
+    },
+    {
+      "id": "canım_s4",
+      "text": "[Canım], gidip gelecek misin?",
+      "note": "expressing emotion"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "canım_r1",
+      "prompt": "Cümledeki 'canım' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "canım"
+      ],
+      "note": null
+    },
+    {
+      "id": "canım_r2",
+      "prompt": "'canım' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "canım"
+      ],
+      "note": null
+    }
+  ]
+}

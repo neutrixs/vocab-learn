@@ -3,25 +3,44 @@
   "lang": "tr",
   "difficulty": 1,
   "part_of_speech": "noun",
-  "english_gloss": "garbage, trash, rubbish",
+  "english_gloss": "garbage, trash, refuse, rubbish",
   "sentences": [
-    { "id": "çöp_s1", "text": "[Çöpleri] dışarı çıkarmayı unuttum.", "note": null },
-    { "id": "çöp_s2", "text": "Sokağa [çöp] atmak yasaktır.", "note": null },
-    { "id": "çöp_s3", "text": "[Çöp] arabasının sesi bizi her sabah uyandırıyor.", "note": null },
-    { "id": "çöp_s4", "text": "Bu eski kıyafetleri [çöpe] atmak istemiyorum.", "note": null },
-    { "id": "çöp_s5", "text": "[Çöp] tenekesi doldu, boşaltmam gerekiyor.", "note": null }
+    {
+      "id": "çöp_s1",
+      "text": "[Çöp] atma buraya.",
+      "note": "don't throw trash here"
+    },
+    {
+      "id": "çöp_s2",
+      "text": "[Çöpteki] şeyler kirli.",
+      "note": "things in the trash"
+    },
+    {
+      "id": "çöp_s3",
+      "text": "[Çöpü] dışarı çıkar.",
+      "note": "take the garbage out"
+    },
+    {
+      "id": "çöp_s4",
+      "text": "[Çöp] sepeti dolu.",
+      "note": "trash can is full"
+    }
   ],
   "recall_prompts": [
     {
       "id": "çöp_r1",
-      "prompt": "Yenilmez ya da kullanılmaz olan artıkları attığın yere ya da bu artıklara ne denir?",
-      "accepted_forms": ["çöp", "çöpler"],
+      "prompt": "Cümledeki 'çöp' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "çöp"
+      ],
       "note": null
     },
     {
       "id": "çöp_r2",
-      "prompt": "Mutfakta biriken artıkları dışarıdaki büyük kaba atmak için ne yapman gerekiyor?",
-      "accepted_forms": ["çöpü atmak", "çöpü çıkarmak", "çöp atmak", "çöp"],
+      "prompt": "'çöp' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "çöp"
+      ],
       "note": null
     }
   ]

@@ -1,0 +1,47 @@
+{
+  "word": "çekmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to pull, to draw, to take (photo), to suffer",
+  "sentences": [
+    {
+      "id": "çekmek_s1",
+      "text": "Halı [çektik].",
+      "note": "'çektik' = we pulled"
+    },
+    {
+      "id": "çekmek_s2",
+      "text": "Fotoğraf [çekelim].",
+      "note": "let's take a photo"
+    },
+    {
+      "id": "çekmek_s3",
+      "text": "Diş [çektirdim].",
+      "note": "I had a tooth pulled"
+    },
+    {
+      "id": "çekmek_s4",
+      "text": "Çok acı [çekti].",
+      "note": "he suffered greatly"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çekmek_r1",
+      "prompt": "Cümledeki 'çekmek' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "çekmek"
+      ],
+      "note": null
+    },
+    {
+      "id": "çekmek_r2",
+      "prompt": "'çekmek' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "çekmek"
+      ],
+      "note": null
+    }
+  ]
+}

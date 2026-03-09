@@ -1,0 +1,47 @@
+{
+  "word": "danışma",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "consultation, advisory, counseling",
+  "sentences": [
+    {
+      "id": "danışma_s1",
+      "text": "[Danışma] toplantısı vardı.",
+      "note": null
+    },
+    {
+      "id": "danışma_s2",
+      "text": "[Danışma] merkezine gittim.",
+      "note": "went to the consultation center"
+    },
+    {
+      "id": "danışma_s3",
+      "text": "[Danışma] hizmeti verilir.",
+      "note": "consultation service is provided"
+    },
+    {
+      "id": "danışma_s4",
+      "text": "[Danışma] sürsün.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "danışma_r1",
+      "prompt": "Cümledeki 'danışma' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "danışma"
+      ],
+      "note": null
+    },
+    {
+      "id": "danışma_r2",
+      "prompt": "'danışma' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "danışma"
+      ],
+      "note": null
+    }
+  ]
+}

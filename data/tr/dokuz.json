@@ -1,0 +1,37 @@
+{
+  "word": "dokuz",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "nine",
+  "sentences": [
+    {
+      "id": "dokuz_s1",
+      "text": "Saat [dokuz]da buluşalım.",
+      "note": null
+    },
+    {
+      "id": "dokuz_s2",
+      "text": "Bir artı [dokuz] on.",
+      "note": null
+    },
+    {
+      "id": "dokuz_s3",
+      "text": "[Dokuz] yaşında başladı.",
+      "note": null
+    },
+    {
+      "id": "dokuz_s4",
+      "text": "[Dokuz] gün sonra gelecek.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dokuz_r1",
+      "prompt": "9 sayısı ne?",
+      "accepted_forms": ["dokuz", "9"],
+      "note": null
+    }
+  ]
+}

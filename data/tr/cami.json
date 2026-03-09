@@ -1,0 +1,47 @@
+{
+  "word": "cami",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "mosque",
+  "sentences": [
+    {
+      "id": "cami_s1",
+      "text": "Cuma sabahı [camiye] gittim.",
+      "note": "'camiye' = to mosque"
+    },
+    {
+      "id": "cami_s2",
+      "text": "[Caminin] kubbesi çok güzel.",
+      "note": null
+    },
+    {
+      "id": "cami_s3",
+      "text": "[Camide] beş vakit namaz kılınır.",
+      "note": null
+    },
+    {
+      "id": "cami_s4",
+      "text": "Ulu [Cami] tarihî bir yapı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "cami_r1",
+      "prompt": "Cümledeki 'cami' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "cami"
+      ],
+      "note": null
+    },
+    {
+      "id": "cami_r2",
+      "prompt": "'cami' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "cami"
+      ],
+      "note": null
+    }
+  ]
+}

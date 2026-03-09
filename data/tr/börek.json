@@ -1,0 +1,27 @@
+{
+  "word": "börek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "börek (stuffed pastry, Turkish savory pastry)",
+  "sentences": [
+    { "id": "borek_s1", "text": "Kahvaltıda [börek] yedim.", "note": null },
+    { "id": "borek_s2", "text": "[Börek] sıcak servisi veriliyor.", "note": null },
+    { "id": "borek_s3", "text": "Peynirli [börek] lezzetli.", "note": null },
+    { "id": "borek_s4", "text": "[Böreğin] iç malzemesi harika.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "borek_r1",
+      "prompt": "Türk mutfağında peynir veya ette doldurulan hamur: kime denir?",
+      "accepted_forms": ["börek"],
+      "note": null
+    },
+    {
+      "id": "borek_r2",
+      "prompt": "Türk tatlısı değil, tat vermekzeyine ... yendi.",
+      "accepted_forms": ["börek"],
+      "note": null
+    }
+  ]
+}

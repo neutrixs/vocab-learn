@@ -1,0 +1,27 @@
+{
+  "word": "bıyık",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "mustache",
+  "sentences": [
+    { "id": "bıyık_s1", "text": "Babamın [bıyığı] uzun.", "note": null },
+    { "id": "bıyık_s2", "text": "[Bıyık] traşı yaptırdı.", "note": null },
+    { "id": "bıyık_s3", "text": "Tıraş olmadan [bıyığı] belli.", "note": null },
+    { "id": "bıyık_s4", "text": "[Bıyıklı] adamlar andırıyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bıyık_r1",
+      "prompt": "Ağız üzerindeki saçlara ne denir?",
+      "accepted_forms": ["bıyık", "bıyığı"],
+      "note": null
+    },
+    {
+      "id": "bıyık_r2",
+      "prompt": "Babamın yüzünde bir ... vardı.",
+      "accepted_forms": ["bıyık"],
+      "note": null
+    }
+  ]
+}

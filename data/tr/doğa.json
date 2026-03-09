@@ -1,0 +1,37 @@
+{
+  "word": "doğa",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "nature",
+  "sentences": [
+    {
+      "id": "doğa_s1",
+      "text": "[Doğa] çok güzel.",
+      "note": null
+    },
+    {
+      "id": "doğa_s2",
+      "text": "[Doğada] yürüyüş yapmak seviyorum.",
+      "note": null
+    },
+    {
+      "id": "doğa_s3",
+      "text": "İnsan [doğa]nın bir parçası.",
+      "note": null
+    },
+    {
+      "id": "doğa_s4",
+      "text": "[Doğa]yı sevmek önemli.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "doğa_r1",
+      "prompt": "Yeryüzündeki tüm canlı ve cansız varlıkların toplamı ne?",
+      "accepted_forms": ["doğa"],
+      "note": null
+    }
+  ]
+}

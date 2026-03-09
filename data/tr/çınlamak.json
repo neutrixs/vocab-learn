@@ -1,0 +1,47 @@
+{
+  "word": "çınlamak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to ring, to resound, to jingle",
+  "sentences": [
+    {
+      "id": "çınlamak_s1",
+      "text": "Kapı [çınladı].",
+      "note": "the bell rang"
+    },
+    {
+      "id": "çınlamak_s2",
+      "text": "Çan [çınlıyor].",
+      "note": "the bell is ringing"
+    },
+    {
+      "id": "çınlamak_s3",
+      "text": "Kulağımda ses [çınlıyor].",
+      "note": "ears are ringing"
+    },
+    {
+      "id": "çınlamak_s4",
+      "text": "[Çınlamadan] sessiz dur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çınlamak_r1",
+      "prompt": "Cümledeki 'çınlamak' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "çınlamak"
+      ],
+      "note": null
+    },
+    {
+      "id": "çınlamak_r2",
+      "prompt": "'çınlamak' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "çınlamak"
+      ],
+      "note": null
+    }
+  ]
+}

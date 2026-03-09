@@ -1,0 +1,47 @@
+{
+  "word": "çalmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to steal, to ring (bell), to play (instrument)",
+  "sentences": [
+    {
+      "id": "çalmak_s1",
+      "text": "Kapı [çalıyor].",
+      "note": "the door bell is ringing"
+    },
+    {
+      "id": "çalmak_s2",
+      "text": "Gitar [çalıyor].",
+      "note": "playing guitar"
+    },
+    {
+      "id": "çalmak_s3",
+      "text": "Hırsız pencerenin parasını [çaldı].",
+      "note": "stole"
+    },
+    {
+      "id": "çalmak_s4",
+      "text": "[Çalmayın] kapıyı!",
+      "note": "don't ring the bell!"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çalmak_r1",
+      "prompt": "Cümledeki 'çalmak' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "çalmak"
+      ],
+      "note": null
+    },
+    {
+      "id": "çalmak_r2",
+      "prompt": "'çalmak' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "çalmak"
+      ],
+      "note": null
+    }
+  ]
+}

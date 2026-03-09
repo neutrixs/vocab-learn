@@ -1,0 +1,47 @@
+{
+  "word": "cevap vermek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to answer, to respond, to reply",
+  "sentences": [
+    {
+      "id": "cevap_vermek_s1",
+      "text": "Hoca soru sordu, ben [cevap verdim].",
+      "note": null
+    },
+    {
+      "id": "cevap_vermek_s2",
+      "text": "Mektuba [cevap vermelisin].",
+      "note": null
+    },
+    {
+      "id": "cevap_vermek_s3",
+      "text": "Öğrenci [cevap vermedi].",
+      "note": null
+    },
+    {
+      "id": "cevap_vermek_s4",
+      "text": "Kız bana [cevap vermek] istemedi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "cevap_vermek_r1",
+      "prompt": "Cümledeki 'cevap vermek' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "cevap"
+      ],
+      "note": null
+    },
+    {
+      "id": "cevap_vermek_r2",
+      "prompt": "'cevap vermek' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "cevap"
+      ],
+      "note": null
+    }
+  ]
+}

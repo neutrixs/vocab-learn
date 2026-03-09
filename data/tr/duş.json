@@ -1,0 +1,37 @@
+{
+  "word": "duş",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "shower",
+  "sentences": [
+    {
+      "id": "duş_s1",
+      "text": "Sabah [duş]u alıyorum.",
+      "note": null
+    },
+    {
+      "id": "duş_s2",
+      "text": "[Duş]u açtım.",
+      "note": null
+    },
+    {
+      "id": "duş_s3",
+      "text": "Soğuk bir [duş].",
+      "note": null
+    },
+    {
+      "id": "duş_s4",
+      "text": "[Duş] suyunun sıcaklığını ayarla.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "duş_r1",
+      "prompt": "Banyo yapmak için kullanılan su sistemi ne?",
+      "accepted_forms": ["duş"],
+      "note": null
+    }
+  ]
+}

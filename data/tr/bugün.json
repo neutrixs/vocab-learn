@@ -1,0 +1,27 @@
+{
+  "word": "bugün",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "today",
+  "sentences": [
+    { "id": "bugun_s1", "text": "[Bugün] pazar.", "note": null },
+    { "id": "bugun_s2", "text": "[Bugün] çok sıcak.", "note": null },
+    { "id": "bugun_s3", "text": "[Bugünkü] toplantı saat dörtte.", "note": "today's" },
+    { "id": "bugun_s4", "text": "[Bugünden] sonra ne olur?", "note": "from today on" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bugun_r1",
+      "prompt": "Şu anki gün: '[...]' ne yapacaksın?",
+      "accepted_forms": ["bugün"],
+      "note": null
+    },
+    {
+      "id": "bugun_r2",
+      "prompt": "[...] hava çok güzel.",
+      "accepted_forms": ["bugün"],
+      "note": null
+    }
+  ]
+}

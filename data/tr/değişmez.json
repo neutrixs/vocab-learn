@@ -1,0 +1,37 @@
+{
+  "word": "değişmez",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "unchanging, constant",
+  "sentences": [
+    {
+      "id": "değişmez_s1",
+      "text": "Doğa kanunları [değişmez].",
+      "note": null
+    },
+    {
+      "id": "değişmez_s2",
+      "text": "Bu bir [değişmez] gerçek.",
+      "note": null
+    },
+    {
+      "id": "değişmez_s3",
+      "text": "[Değişmez] kurallar vardır.",
+      "note": null
+    },
+    {
+      "id": "değişmez_s4",
+      "text": "Onun tutumu [değişmez].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "değişmez_r1",
+      "prompt": "Değişemeyecek, her zaman aynı kalan, sürekli anlamında sıfat ne?",
+      "accepted_forms": ["değişmez"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "word": "dövmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to beat, to hit",
+  "sentences": [
+    {
+      "id": "dövmek_s1",
+      "text": "Çocuğunu [dovmeyin].",
+      "note": null
+    },
+    {
+      "id": "dövmek_s2",
+      "text": "Adam kapıyı [dövüyor].",
+      "note": null
+    },
+    {
+      "id": "dövmek_s3",
+      "text": "Onu [dövmek] sorun.",
+      "note": null
+    },
+    {
+      "id": "dövmek_s4",
+      "text": "[Dövülmüş] çelik sağlam.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dövmek_r1",
+      "prompt": "Bileğin arkası veya vücudun başka bir bölümü ile vurmak ne demek?",
+      "accepted_forms": ["dövmek", "dövüyor", "dövdü"],
+      "note": null
+    }
+  ]
+}

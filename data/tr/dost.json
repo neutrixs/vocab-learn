@@ -1,0 +1,37 @@
+{
+  "word": "dost",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "friend",
+  "sentences": [
+    {
+      "id": "dost_s1",
+      "text": "O benim iyi bir [dost]um.",
+      "note": null
+    },
+    {
+      "id": "dost_s2",
+      "text": "[Dostlarım]la oyun oynadık.",
+      "note": null
+    },
+    {
+      "id": "dost_s3",
+      "text": "Bu ülke bizim bir [dost]u.",
+      "note": null
+    },
+    {
+      "id": "dost_s4",
+      "text": "[Dostlar] birbirini destekler.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dost_r1",
+      "prompt": "Yakın dostluğu olan, arkadaş anlamında isim ne?",
+      "accepted_forms": ["dost", "dostlarım", "dostuyla"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "word": "dört gözle beklemek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to wait eagerly",
+  "sentences": [
+    {
+      "id": "dört gözle beklemek_s1",
+      "text": "Onu [dört gözle bekliyorum].",
+      "note": null
+    },
+    {
+      "id": "dört gözle beklemek_s2",
+      "text": "Tatili [dört gözle bekliyoruz].",
+      "note": null
+    },
+    {
+      "id": "dört gözle beklemek_s3",
+      "text": "[Dört gözle beklediğim] gün geldi.",
+      "note": null
+    },
+    {
+      "id": "dört gözle beklemek_s4",
+      "text": "Sonucunu [dört gözle bekleyeceğim].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dört gözle beklemek_r1",
+      "prompt": "Birisini veya bir şeyi çok isteyerek sabırsızlıkla beklemek ne demek?",
+      "accepted_forms": ["dört gözle bekliyorum", "dört gözle bekledim"],
+      "note": null
+    }
+  ]
+}

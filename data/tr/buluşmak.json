@@ -1,0 +1,27 @@
+{
+  "word": "buluşmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to meet, to encounter",
+  "sentences": [
+    { "id": "bulusmak_s1", "text": "Arkadaşlarımla [buluştum].", "note": null },
+    { "id": "bulusmak_s2", "text": "[Buluşmak] istiyorum.", "note": null },
+    { "id": "bulusmak_s3", "text": "Pazarda [buluşalım].", "note": "let's meet" },
+    { "id": "bulusmak_s4", "text": "[Buluştuğumuz] yer güzeldi.", "note": "where we met" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bulusmak_r1",
+      "prompt": "Birisiyle kararlaştırılan yerde birarada olmak: '[...]'",
+      "accepted_forms": ["buluştum", "buluşmak"],
+      "note": null
+    },
+    {
+      "id": "bulusmak_r2",
+      "prompt": "Arkadaşım beraber birarada olmak için: '[...]' istiyorum.",
+      "accepted_forms": ["buluşmak"],
+      "note": null
+    }
+  ]
+}

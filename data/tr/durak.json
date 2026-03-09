@@ -1,0 +1,37 @@
+{
+  "word": "durak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "stop, station, pause",
+  "sentences": [
+    {
+      "id": "durak_s1",
+      "text": "Otobüs [durak]ında bekledim.",
+      "note": null
+    },
+    {
+      "id": "durak_s2",
+      "text": "[Durak]ta bir şey mi var?",
+      "note": null
+    },
+    {
+      "id": "durak_s3",
+      "text": "Sonraki [durak] nerede?",
+      "note": null
+    },
+    {
+      "id": "durak_s4",
+      "text": "[Durak] belgesi lazım.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "durak_r1",
+      "prompt": "Otobüs veya taksi durmak için belirlenmiş yer ne?",
+      "accepted_forms": ["durak", "durakta"],
+      "note": null
+    }
+  ]
+}

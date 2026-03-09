@@ -1,0 +1,37 @@
+{
+  "word": "dil",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "language, tongue",
+  "sentences": [
+    {
+      "id": "dil_s1",
+      "text": "Türkçe bir [dil]dir.",
+      "note": null
+    },
+    {
+      "id": "dil_s2",
+      "text": "[Dil] öğrenmek zor.",
+      "note": null
+    },
+    {
+      "id": "dil_s3",
+      "text": "Ağzında [dili] var.",
+      "note": null
+    },
+    {
+      "id": "dil_s4",
+      "text": "Birden fazla [dil] konuşuyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dil_r1",
+      "prompt": "İnsanların iletişim kurmak için kullandığı sistem ne?",
+      "accepted_forms": ["dil", "Türkçe", "İngilizce"],
+      "note": null
+    }
+  ]
+}

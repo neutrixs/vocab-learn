@@ -1,0 +1,37 @@
+{
+  "word": "dikkatli",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "careful, attentive",
+  "sentences": [
+    {
+      "id": "dikkatli_s1",
+      "text": "Dikkat et, [dikkatli] ol.",
+      "note": null
+    },
+    {
+      "id": "dikkatli_s2",
+      "text": "[Dikkatli] bir doktor.",
+      "note": null
+    },
+    {
+      "id": "dikkatli_s3",
+      "text": "Yolda [dikkatli] yürü.",
+      "note": null
+    },
+    {
+      "id": "dikkatli_s4",
+      "text": "[Dikkatli] dinledim.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dikkatli_r1",
+      "prompt": "Uyanık, dikkat verimli, tedbirli anlamında sıfat ne?",
+      "accepted_forms": ["dikkatli"],
+      "note": null
+    }
+  ]
+}

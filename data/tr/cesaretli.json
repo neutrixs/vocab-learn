@@ -1,0 +1,47 @@
+{
+  "word": "cesaretli",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "brave, courageous, bold",
+  "sentences": [
+    {
+      "id": "cesaretli_s1",
+      "text": "O çocuk çok [cesaretli].",
+      "note": null
+    },
+    {
+      "id": "cesaretli_s2",
+      "text": "[Cesaretli] insanlar zorluktan korkmaz.",
+      "note": null
+    },
+    {
+      "id": "cesaretli_s3",
+      "text": "Dağcı çok [cesaretli] olmalı.",
+      "note": null
+    },
+    {
+      "id": "cesaretli_s4",
+      "text": "[Cesaretli] bir karar vermek gerekti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "cesaretli_r1",
+      "prompt": "Cümledeki 'cesaretli' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "cesaretli"
+      ],
+      "note": null
+    },
+    {
+      "id": "cesaretli_r2",
+      "prompt": "'cesaretli' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "cesaretli"
+      ],
+      "note": null
+    }
+  ]
+}

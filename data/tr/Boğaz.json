@@ -1,0 +1,27 @@
+{
+  "word": "Boğaz",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "Strait, Bosphorus (specific waterway)",
+  "sentences": [
+    { "id": "Bogaz_s1", "text": "[Boğaz] çok dar.", "note": "referring to waterway" },
+    { "id": "Bogaz_s2", "text": "[Boğaz] geçişi önemli.", "note": null },
+    { "id": "Bogaz_s3", "text": "İstanbul [Boğaz]ında yer alır.", "note": "locative" },
+    { "id": "Bogaz_s4", "text": "[Boğaz]ı güvenlik kuvvetleri kontrol ediyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "Bogaz_r1",
+      "prompt": "İstanbul'dan geçen denizel geçit: kime denir?",
+      "accepted_forms": ["Boğaz"],
+      "note": null
+    },
+    {
+      "id": "Bogaz_r2",
+      "prompt": "Karadeniz ve Marmara Denizi arasındaki: '[...]'",
+      "accepted_forms": ["Boğaz"],
+      "note": null
+    }
+  ]
+}

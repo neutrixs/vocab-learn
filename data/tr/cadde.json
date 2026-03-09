@@ -1,0 +1,47 @@
+{
+  "word": "cadde",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "street, avenue",
+  "sentences": [
+    {
+      "id": "cadde_s1",
+      "text": "Ana [cadde] çok geniş.",
+      "note": null
+    },
+    {
+      "id": "cadde_s2",
+      "text": "[Caddede] birçok mağaza var.",
+      "note": null
+    },
+    {
+      "id": "cadde_s3",
+      "text": "[Caddenin] üstünden 50 kişi geçti.",
+      "note": null
+    },
+    {
+      "id": "cadde_s4",
+      "text": "Atatürk [Caddesi] şehrin merkezinde.",
+      "note": "'Cadde' + 'si' = Caddesi"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "cadde_r1",
+      "prompt": "Cümledeki 'cadde' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "cadde"
+      ],
+      "note": null
+    },
+    {
+      "id": "cadde_r2",
+      "prompt": "'cadde' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "cadde"
+      ],
+      "note": null
+    }
+  ]
+}

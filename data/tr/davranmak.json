@@ -1,0 +1,37 @@
+{
+  "word": "davranmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to behave, to act",
+  "sentences": [
+    {
+      "id": "davranmak_s1",
+      "text": "Çocuk çok iyi [davranıyor].",
+      "note": null
+    },
+    {
+      "id": "davranmak_s2",
+      "text": "Öyle kötü [davranma] bana.",
+      "note": null
+    },
+    {
+      "id": "davranmak_s3",
+      "text": "Müdür çok profesyonelce [davrandı].",
+      "note": null
+    },
+    {
+      "id": "davranmak_s4",
+      "text": "Bize saygılı bir şekilde [davranmalılar].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "davranmak_r1",
+      "prompt": "Birinin kişiliğine göre hareket etmesi veya davranışını göstermesi ne demek?",
+      "accepted_forms": ["davranıyor", "davranma", "davrandı", "davranmalılar"],
+      "note": null
+    }
+  ]
+}

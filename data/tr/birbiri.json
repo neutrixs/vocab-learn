@@ -1,0 +1,27 @@
+{
+  "word": "birbiri",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "pronoun",
+  "english_gloss": "each other, one another, mutually",
+  "sentences": [
+    { "id": "birbiri_s1", "text": "Biz [birbirimiz]e yardım ederiz.", "note": null },
+    { "id": "birbiri_s2", "text": "Onlar [birbirini] seviyorlar.", "note": null },
+    { "id": "birbiri_s3", "text": "[Birbiri]ne saygı göstermeliyiz.", "note": null },
+    { "id": "birbiri_s4", "text": "[Birbiri]nden farklı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "birbiri_r1",
+      "prompt": "Karşılıklı/mutual anlamında: 'Arkadaşlar ... seviyorlar'",
+      "accepted_forms": ["birbirini", "birbiri"],
+      "note": null
+    },
+    {
+      "id": "birbiri_r2",
+      "prompt": "Biz ... yardım ederiz (karşılıklı).",
+      "accepted_forms": ["birbirimize", "birbirimiz"],
+      "note": null
+    }
+  ]
+}

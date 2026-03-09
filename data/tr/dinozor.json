@@ -1,0 +1,37 @@
+{
+  "word": "dinozor",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "dinosaur",
+  "sentences": [
+    {
+      "id": "dinozor_s1",
+      "text": "[Dinozor]lar çok eski hayvanlar.",
+      "note": null
+    },
+    {
+      "id": "dinozor_s2",
+      "text": "Müzede [dinozor] kemikleri var.",
+      "note": null
+    },
+    {
+      "id": "dinozor_s3",
+      "text": "[Dinozorlar] milyonlar yıl önce yaşadı.",
+      "note": null
+    },
+    {
+      "id": "dinozor_s4",
+      "text": "Çocuk [dinozor] filmini izledi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dinozor_r1",
+      "prompt": "Çok eski çağlarda yaşayan büyük reptil ne?",
+      "accepted_forms": ["dinozor", "dinozorlar"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "beş",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "five (number)",
+  "sentences": [
+    { "id": "bes_s1", "text": "Saat [beş]tir.", "note": null },
+    { "id": "bes_s2", "text": "[Beş] öğrenci okula gitti.", "note": null },
+    { "id": "bes_s3", "text": "İki artı [beş], yedi eder.", "note": null },
+    { "id": "bes_s4", "text": "Elin [beş] parmağı vardır.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bes_r1",
+      "prompt": "Rakam: 5. Türkçe adı nedir?",
+      "accepted_forms": ["beş"],
+      "note": null
+    },
+    {
+      "id": "bes_r2",
+      "prompt": "Saat 5'i göstermek için 'Saat ...' dersin.",
+      "accepted_forms": ["beş", "beştir"],
+      "note": null
+    }
+  ]
+}

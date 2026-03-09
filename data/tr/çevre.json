@@ -1,52 +1,44 @@
 {
   "word": "çevre",
   "lang": "tr",
-  "difficulty": 2,
+  "difficulty": 1,
   "part_of_speech": "noun",
-  "english_gloss": "environment, surroundings, circle (of people)",
+  "english_gloss": "environment, surroundings, circumference",
   "sentences": [
     {
       "id": "çevre_s1",
-      "text": "[Çevreyi] korumak hepimizin görevidir.",
-      "note": null
+      "text": "[Çevre] kirleniyor.",
+      "note": "environment is polluted"
     },
     {
       "id": "çevre_s2",
-      "text": "Geniş bir sosyal [çevresi] var, herkesi tanıyor.",
-      "note": "Sosyal çevre anlamında"
+      "text": "İş [çevresi] güzel.",
+      "note": "work environment"
     },
     {
       "id": "çevre_s3",
-      "text": "Bu fabrika [çevreye] zarar veriyor.",
+      "text": "[Çevre] korumak önemli.",
       "note": null
     },
     {
       "id": "çevre_s4",
-      "text": "Yeni şehirde [çevreme] alışmak zaman aldı.",
-      "note": null
-    },
-    {
-      "id": "çevre_s5",
-      "text": "[Çevre] kirliliği küresel bir sorun haline geldi.",
-      "note": null
+      "text": "[Çevresi] ormandır.",
+      "note": "surrounded by forest"
     }
   ],
   "recall_prompts": [
     {
       "id": "çevre_r1",
-      "prompt": "Fabrikaların ve arabaların doğaya verdiği zarardan bahsediyorsun. 'Bu durum ___ olumsuz etkiliyor.'",
+      "prompt": "Cümledeki 'çevre' kelimesinin anlamı nedir?",
       "accepted_forms": [
-        "çevreyi",
-        "çevre",
-        "doğayı"
+        "çevre"
       ],
       "note": null
     },
     {
       "id": "çevre_r2",
-      "prompt": "Birinin geniş bir arkadaş ve iş ağı olduğunu anlatıyorsun. 'Çok geniş bir sosyal ___ var.'",
+      "prompt": "'çevre' kelimesi hangi durumlarda kullanılır?",
       "accepted_forms": [
-        "çevresi",
         "çevre"
       ],
       "note": null

@@ -1,0 +1,47 @@
+{
+  "word": "çamur",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "mud, dirt, clay",
+  "sentences": [
+    {
+      "id": "çamur_s1",
+      "text": "Yağmurdan sonra [çamur] var.",
+      "note": null
+    },
+    {
+      "id": "çamur_s2",
+      "text": "[Çamura] batmışız.",
+      "note": "'çamura' = in the mud (dative)"
+    },
+    {
+      "id": "çamur_s3",
+      "text": "Çocuk [çamurda] oynuyor.",
+      "note": null
+    },
+    {
+      "id": "çamur_s4",
+      "text": "[Çamur] pis ve ağır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çamur_r1",
+      "prompt": "Cümledeki 'çamur' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "çamur"
+      ],
+      "note": null
+    },
+    {
+      "id": "çamur_r2",
+      "prompt": "'çamur' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "çamur"
+      ],
+      "note": null
+    }
+  ]
+}

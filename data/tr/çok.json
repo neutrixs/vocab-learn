@@ -1,0 +1,47 @@
+{
+  "word": "çok",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adverb",
+  "english_gloss": "much, many, a lot, very",
+  "sentences": [
+    {
+      "id": "çok_s1",
+      "text": "[Çok] güzel!.",
+      "note": "very beautiful!"
+    },
+    {
+      "id": "çok_s2",
+      "text": "[Çok] zaman yok.",
+      "note": "no much time"
+    },
+    {
+      "id": "çok_s3",
+      "text": "[Çok] insanlar vardı.",
+      "note": "many people were there"
+    },
+    {
+      "id": "çok_s4",
+      "text": "[Çok] yoruldum.",
+      "note": "I'm very tired"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çok_r1",
+      "prompt": "Cümledeki 'çok' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "çok"
+      ],
+      "note": null
+    },
+    {
+      "id": "çok_r2",
+      "prompt": "'çok' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "çok"
+      ],
+      "note": null
+    }
+  ]
+}

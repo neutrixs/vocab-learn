@@ -1,0 +1,47 @@
+{
+  "word": "çerez",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "snack, appetizer, nuts",
+  "sentences": [
+    {
+      "id": "çerez_s1",
+      "text": "[Çerezler] lezzetli mi?",
+      "note": null
+    },
+    {
+      "id": "çerez_s2",
+      "text": "Fındık ve yer fıstığı [çerez].",
+      "note": null
+    },
+    {
+      "id": "çerez_s3",
+      "text": "[Çereziyle] çay yapıştırdı.",
+      "note": null
+    },
+    {
+      "id": "çerez_s4",
+      "text": "[Çerez] yemek iyidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çerez_r1",
+      "prompt": "Cümledeki 'çerez' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "çerez"
+      ],
+      "note": null
+    },
+    {
+      "id": "çerez_r2",
+      "prompt": "'çerez' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "çerez"
+      ],
+      "note": null
+    }
+  ]
+}

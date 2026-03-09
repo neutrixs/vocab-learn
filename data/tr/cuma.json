@@ -1,0 +1,47 @@
+{
+  "word": "cuma",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "Friday",
+  "sentences": [
+    {
+      "id": "cuma_s1",
+      "text": "[Cuma] gün tatil gümrük.",
+      "note": "'cuma' = Friday (muslim holy day)"
+    },
+    {
+      "id": "cuma_s2",
+      "text": "[Cumada] işimiz yok.",
+      "note": null
+    },
+    {
+      "id": "cuma_s3",
+      "text": "[Cumaya] kadar bekleyeceğim.",
+      "note": null
+    },
+    {
+      "id": "cuma_s4",
+      "text": "[Cuma] gece seninle buluşmalıyız.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "cuma_r1",
+      "prompt": "Cümledeki 'cuma' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "cuma"
+      ],
+      "note": null
+    },
+    {
+      "id": "cuma_r2",
+      "prompt": "'cuma' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "cuma"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "bulmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to find, to discover, to locate",
+  "sentences": [
+    { "id": "bulmak_s1", "text": "Anahtarı [buldum].", "note": null },
+    { "id": "bulmak_s2", "text": "[Bulmak] zor.", "note": null },
+    { "id": "bulmak_s3", "text": "Onu [bulamadım].", "note": "couldn't find" },
+    { "id": "bulmak_s4", "text": "[Bulunması] gerekiyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bulmak_r1",
+      "prompt": "Kayıp şeyi yeniden in almak: 'Kalemimi [...]'",
+      "accepted_forms": ["buldum", "bulamadım"],
+      "note": null
+    },
+    {
+      "id": "bulmak_r2",
+      "prompt": "Evinde nerede olduğunu bilmediği şeyi locate etmek: '[...]'",
+      "accepted_forms": ["bul", "bulmak"],
+      "note": null
+    }
+  ]
+}

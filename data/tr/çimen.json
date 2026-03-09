@@ -1,0 +1,47 @@
+{
+  "word": "çimen",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "grass, lawn",
+  "sentences": [
+    {
+      "id": "çimen_s1",
+      "text": "[Çimen] yeşil ve yumuşak.",
+      "note": null
+    },
+    {
+      "id": "çimen_s2",
+      "text": "[Çimene] oturun.",
+      "note": "'çimene' = sit on the grass"
+    },
+    {
+      "id": "çimen_s3",
+      "text": "Bahçe [çimenle] kaplı.",
+      "note": null
+    },
+    {
+      "id": "çimen_s4",
+      "text": "[Çimen] biçtiler.",
+      "note": "cut the grass"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çimen_r1",
+      "prompt": "Cümledeki 'çimen' kelimesinin anlamı nedir?",
+      "accepted_forms": [
+        "çimen"
+      ],
+      "note": null
+    },
+    {
+      "id": "çimen_r2",
+      "prompt": "'çimen' kelimesi hangi durumlarda kullanılır?",
+      "accepted_forms": [
+        "çimen"
+      ],
+      "note": null
+    }
+  ]
+}
