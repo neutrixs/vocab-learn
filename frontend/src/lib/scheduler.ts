@@ -1,7 +1,7 @@
 import type { LangProgress } from '../types/progress';
 import type { WordIndexEntry } from '../types/word';
 import type { StudyItem, StudyMode } from '../types/study';
-import { newCard, isDue, isOverdue } from './sm2';
+import { newCard, isDue, isOverdue, parseDate } from './sm2';
 
 const MODES: StudyMode[] = ['recognition', 'recall'];
 
@@ -34,7 +34,7 @@ export function buildSession(
   const todayStr = new Date().toISOString().split('T')[0];
   const wordsIntroducedToday = new Set<string>();
   for (const [key, card] of Object.entries(cards)) {
-    if (card.created === todayStr) {
+    if (parseDate(card.created).toISOString().split('T')[0] === todayStr) {
       wordsIntroducedToday.add(key.split('::')[0]);
     }
   }
