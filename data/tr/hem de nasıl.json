@@ -6,9 +6,9 @@
   "english_gloss": "you bet, and how!, sure thing!",
   "sentences": [
     { "id": "hemdenas_s1", "text": "'Yardım edebilir misin?' '[Hem de nasıl], tabi!'", "note": null },
-    { "id": "hemdenas_s2", "text": "[Hem de nasıl]], bu soruyu çözdük.", "note": null },
-    { "id": "hemdenas_s3", "text": "'Sizi anladı mı?' '[Hem de nasıl]]!!'", "note": null },
-    { "id": "hemdenas_s4", "text": "[Hem de nasıl]], bu kitabı okudum bile.", "note": null }
+    { "id": "hemdenas_s2", "text": "[Hem de nasıl], bu soruyu çözdük.", "note": null },
+    { "id": "hemdenas_s3", "text": "'Sizi anladı mı?' '[Hem de nasıl]!!'", "note": null },
+    { "id": "hemdenas_s4", "text": "[Hem de nasıl], bu kitabı okudum bile.", "note": null }
   ],
   "recall_prompts": [
     {
@@ -19,7 +19,7 @@
     },
     {
       "id": "hemdenas_r2",
-      "prompt": "'Başardın mı?' '[...]] başardım!'",
+      "prompt": "'Başardın mı?' '[...] başardım!'",
       "accepted_forms": ["hem de nasıl"],
       "note": null
     }

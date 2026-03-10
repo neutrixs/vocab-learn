@@ -7,7 +7,7 @@
   "sentences": [
     {
       "id": "falan_s1",
-      "text": "Ahmet [falan], Mehmet [falan] geldi.",
+      "text": "Ahmet [falan, Mehmet falan] geldi.",
       "note": null
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "id": "falan_r2",
-      "prompt": "Ahmet [falan] Fatma [falan] geldi.",
+      "prompt": "Ahmet [falan Fatma falan] geldi.",
       "accepted_forms": [
         "falan"
       ],

@@ -7,22 +7,22 @@
   "sentences": [
     {
       "id": "super_s1",
-      "text": "Çok [süper]] bir gün.",
+      "text": "Çok [süper] bir gün.",
       "note": null
     },
     {
       "id": "super_s2",
-      "text": "[Süper]] bir fikir geldi.",
+      "text": "[Süper] bir fikir geldi.",
       "note": null
     },
     {
       "id": "super_s3",
-      "text": "[Süper]] bir oyuncu.",
+      "text": "[Süper] bir oyuncu.",
       "note": null
     },
     {
       "id": "super_s4",
-      "text": "Bu film [süper]].",
+      "text": "Bu film [süper].",
       "note": null
     }
   ],

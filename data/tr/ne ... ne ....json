@@ -7,17 +7,17 @@
   "sentences": [
     {
       "id": "ne ... ne ..._s1",
-      "text": "[Ne] yemek [ne] içmek istedim.",
+      "text": "[Ne yemek ne] içmek istedim.",
       "note": null
     },
     {
       "id": "ne ... ne ..._s2",
-      "text": "[Ne] gündüz [ne] gece uyudum.",
+      "text": "[Ne gündüz ne] gece uyudum.",
       "note": null
     },
     {
       "id": "ne ... ne ..._s3",
-      "text": "[Ne] burası [ne] şurası.",
+      "text": "[Ne burası ne] şurası.",
       "note": null
     }
   ],

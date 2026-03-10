@@ -7,7 +7,7 @@
   "sentences": [
     {
       "id": "bir_s1",
-      "text": "[Bir] kapı, [bir] pencere, [bir] koltuk.",
+      "text": "[Bir kapı, bir pencere, bir] koltuk.",
       "note": null
     },
     {

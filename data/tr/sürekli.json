@@ -7,22 +7,22 @@
   "sentences": [
     {
       "id": "surekli_s1",
-      "text": "[Sürekli]] yağmur yağıyor.",
+      "text": "[Sürekli] yağmur yağıyor.",
       "note": null
     },
     {
       "id": "surekli_s2",
-      "text": "[Sürekli]] ağrı çekiyorum.",
+      "text": "[Sürekli] ağrı çekiyorum.",
       "note": null
     },
     {
       "id": "surekli_s3",
-      "text": "[Sürekli]] müsaitim.",
+      "text": "[Sürekli] müsaitim.",
       "note": null
     },
     {
       "id": "surekli_s4",
-      "text": "[Sürekli]] sorun var.",
+      "text": "[Sürekli] sorun var.",
       "note": null
     }
   ],

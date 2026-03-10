@@ -7,22 +7,22 @@
   "sentences": [
     {
       "id": "sure_s1",
-      "text": "Kısa bir [süre]].",
+      "text": "Kısa bir [süre].",
       "note": null
     },
     {
       "id": "sure_s2",
-      "text": "Uzun [süresi]] vardı.",
+      "text": "Uzun [süresi] vardı.",
       "note": null
     },
     {
       "id": "sure_s3",
-      "text": "[Süresiz]] metin.",
+      "text": "[Süresiz] metin.",
       "note": null
     },
     {
       "id": "sure_s4",
-      "text": "Belirli bir [süre]] için.",
+      "text": "Belirli bir [süre] için.",
       "note": null
     }
   ],

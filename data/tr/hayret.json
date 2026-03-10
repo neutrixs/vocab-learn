@@ -7,22 +7,22 @@
   "sentences": [
     {
       "id": "hayret_s1",
-      "text": "[Hayretler içinde]] kalmışım.",
+      "text": "[Hayretler içinde] kalmışım.",
       "note": "'hayretler içinde' = in amazement"
     },
     {
       "id": "hayret_s2",
-      "text": "[Hayrete]] düştüm bu haberi duyunca.",
+      "text": "[Hayrete] düştüm bu haberi duyunca.",
       "note": null
     },
     {
       "id": "hayret_s3",
-      "text": "[Hayret ediyorum]] onun yeteneklerine.",
+      "text": "[Hayret ediyorum] onun yeteneklerine.",
       "note": null
     },
     {
       "id": "hayret_s4",
-      "text": "Ne [hayret]], sen burada!",
+      "text": "Ne [hayret], sen burada!",
       "note": null
     }
   ],

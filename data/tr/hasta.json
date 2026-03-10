@@ -7,22 +7,22 @@
   "sentences": [
     {
       "id": "hasta_s1",
-      "text": "Bugün [hasta]] yım ve okula gidemiyorum.",
+      "text": "Bugün [hasta] yım ve okula gidemiyorum.",
       "note": null
     },
     {
       "id": "hasta_s2",
-      "text": "[Hastalanmış]] çok, hastaneye gitmesi lazım.",
+      "text": "[Hastalanmış] çok, hastaneye gitmesi lazım.",
       "note": "'hastalanmış' = got sick (past tense)"
     },
     {
       "id": "hasta_s3",
-      "text": "[Hastalar]] hastanede tedavi görüyor.",
+      "text": "[Hastalar] hastanede tedavi görüyor.",
       "note": null
     },
     {
       "id": "hasta_s4",
-      "text": "[Hasta]] mı oldun, iyi mi?",
+      "text": "[Hasta] mı oldun, iyi mi?",
       "note": null
     }
   ],

@@ -7,22 +7,22 @@
   "sentences": [
     {
       "id": "hediye_s1",
-      "text": "[Hediye]] almaktan çok seviyorum.",
+      "text": "[Hediye] almaktan çok seviyorum.",
       "note": null
     },
     {
       "id": "hediye_s2",
-      "text": "[Hediyesi]] çok pahalı.",
+      "text": "[Hediyesi] çok pahalı.",
       "note": null
     },
     {
       "id": "hediye_s3",
-      "text": "[Hediyeyi]] açtı hemen.",
+      "text": "[Hediyeyi] açtı hemen.",
       "note": null
     },
     {
       "id": "hediye_s4",
-      "text": "Doğum günü [hediyesi]] ne almak istersin?",
+      "text": "Doğum günü [hediyesi] ne almak istersin?",
       "note": null
     }
   ],

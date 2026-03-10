@@ -7,22 +7,22 @@
   "sentences": [
     {
       "id": "hemensimdi_s1",
-      "text": "[Hemen şimdi]] git ve hazırlan.",
+      "text": "[Hemen şimdi] git ve hazırlan.",
       "note": null
     },
     {
       "id": "hemensimdi_s2",
-      "text": "[Hemen şimdi]] karar verelim bu konuda.",
+      "text": "[Hemen şimdi] karar verelim bu konuda.",
       "note": null
     },
     {
       "id": "hemensimdi_s3",
-      "text": "[Hemen şimdi]] değil, biraz bekle.",
+      "text": "[Hemen şimdi] değil, biraz bekle.",
       "note": null
     },
     {
       "id": "hemensimdi_s4",
-      "text": "[Hemen şimdi]] başlaması gerekiyor.",
+      "text": "[Hemen şimdi] başlaması gerekiyor.",
       "note": null
     }
   ],
@@ -37,7 +37,7 @@
     },
     {
       "id": "hemensimdi_r2",
-      "prompt": "[...]] kalkmalıyız veya geç kalırız.",
+      "prompt": "[...] kalkmalıyız veya geç kalırız.",
       "accepted_forms": [
         "hemen şimdi"
       ],

@@ -7,22 +7,22 @@
   "sentences": [
     {
       "id": "haziran_s1",
-      "text": "[Haziran]]da tatil yapacağız.",
+      "text": "[Haziran]da tatil yapacağız.",
       "note": null
     },
     {
       "id": "haziran_s2",
-      "text": "[Haziraının]] başında hava güzel.",
+      "text": "[Haziraının] başında hava güzel.",
       "note": "'haziraının' = June's (genitive)"
     },
     {
       "id": "haziran_s3",
-      "text": "[Hazirandan]] sonra yazı yazacağım.",
+      "text": "[Hazirandan] sonra yazı yazacağım.",
       "note": null
     },
     {
       "id": "haziran_s4",
-      "text": "Her [haziran]]da denize gideriz.",
+      "text": "Her [haziran]da denize gideriz.",
       "note": null
     }
   ],

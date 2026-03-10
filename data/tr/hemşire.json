@@ -5,10 +5,10 @@
   "part_of_speech": "noun",
   "english_gloss": "nurse",
   "sentences": [
-    { "id": "hemsire_s1", "text": "[Hemşire]] hastaya bakıyordu.", "note": null },
-    { "id": "hemsire_s2", "text": "[Hemşirenin]] tecrübesi çok.", "note": "'hemşirenin' = nurse's (genitive)" },
-    { "id": "hemsire_s3", "text": "[Hemşireye]] dosyayı ver.", "note": "'hemşireye' = to the nurse (dative)" },
-    { "id": "hemsire_s4", "text": "[Hemşireler]] çok özverili insanlar.", "note": "'hemşireler' = nurses (plural)" }
+    { "id": "hemsire_s1", "text": "[Hemşire] hastaya bakıyordu.", "note": null },
+    { "id": "hemsire_s2", "text": "[Hemşirenin] tecrübesi çok.", "note": "'hemşirenin' = nurse's (genitive)" },
+    { "id": "hemsire_s3", "text": "[Hemşireye] dosyayı ver.", "note": "'hemşireye' = to the nurse (dative)" },
+    { "id": "hemsire_s4", "text": "[Hemşireler] çok özverili insanlar.", "note": "'hemşireler' = nurses (plural)" }
   ],
   "recall_prompts": [
     {

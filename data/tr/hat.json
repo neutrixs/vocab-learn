@@ -7,22 +7,22 @@
   "sentences": [
     {
       "id": "hat_s1",
-      "text": "Otobüs [hat]]ı değişti.",
+      "text": "Otobüs [hat]ı değişti.",
       "note": "'hatı' = line/route (accusative)"
     },
     {
       "id": "hat_s2",
-      "text": "[Hattan]] inecek mi?",
+      "text": "[Hattan] inecek mi?",
       "note": null
     },
     {
       "id": "hat_s3",
-      "text": "Yeni [hat]] başlattı şirketi.",
+      "text": "Yeni [hat] başlattı şirketi.",
       "note": null
     },
     {
       "id": "hat_s4",
-      "text": "[Hatlara]] göre ücret değişiyor.",
+      "text": "[Hatlara] göre ücret değişiyor.",
       "note": null
     }
   ],

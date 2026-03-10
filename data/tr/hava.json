@@ -7,22 +7,22 @@
   "sentences": [
     {
       "id": "hava_s1",
-      "text": "[Hava]] güzel, dışarı çıkalım.",
+      "text": "[Hava] güzel, dışarı çıkalım.",
       "note": null
     },
     {
       "id": "hava_s2",
-      "text": "[Havası]] sıcak bugün.",
+      "text": "[Havası] sıcak bugün.",
       "note": "'havası' = its weather/air (possessive)"
     },
     {
       "id": "hava_s3",
-      "text": "[Havayı]] serin tutmak lazım.",
+      "text": "[Havayı] serin tutmak lazım.",
       "note": "'havayı' = air (accusative)"
     },
     {
       "id": "hava_s4",
-      "text": "[Hava]] kirliliği artıyor.",
+      "text": "[Hava] kirliliği artıyor.",
       "note": null
     }
   ],

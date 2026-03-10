@@ -5,10 +5,10 @@
   "part_of_speech": "adjective",
   "english_gloss": "sensitive, delicate, touchy",
   "sentences": [
-    { "id": "hassas_s1", "text": "O çok [hassas]], kolaya alınıyor.", "note": null },
-    { "id": "hassas_s2", "text": "[Hassas]] bir konu, dikkat et.", "note": null },
-    { "id": "hassas_s3", "text": "[Hassas]] deney yapıyoruz.", "note": null },
-    { "id": "hassas_s4", "text": "Cildim çok [hassas]], sabun seçmeliyim.", "note": null }
+    { "id": "hassas_s1", "text": "O çok [hassas], kolaya alınıyor.", "note": null },
+    { "id": "hassas_s2", "text": "[Hassas] bir konu, dikkat et.", "note": null },
+    { "id": "hassas_s3", "text": "[Hassas] deney yapıyoruz.", "note": null },
+    { "id": "hassas_s4", "text": "Cildim çok [hassas], sabun seçmeliyim.", "note": null }
   ],
   "recall_prompts": [
     {

@@ -7,22 +7,22 @@
   "sentences": [
     {
       "id": "hazir_s1",
-      "text": "[Hazır]] mısın toplantı için?",
+      "text": "[Hazır] mısın toplantı için?",
       "note": null
     },
     {
       "id": "hazir_s2",
-      "text": "Sınavı [hazırlanırken]] tamamladı. studyıd.",
+      "text": "Sınavı [hazırlanırken] tamamladı. studyıd.",
       "note": null
     },
     {
       "id": "hazir_s3",
-      "text": "[Hazır]] ürünler her zaman mağazada.",
+      "text": "[Hazır] ürünler her zaman mağazada.",
       "note": null
     },
     {
       "id": "hazir_s4",
-      "text": "[Hazırlanmış]] yemek yemeyi seviyorum.",
+      "text": "[Hazırlanmış] yemek yemeyi seviyorum.",
       "note": "'hazırlanmış' = prepared"
     }
   ],

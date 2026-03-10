@@ -5,10 +5,10 @@
   "part_of_speech": "postposition",
   "english_gloss": "except, excluding",
   "sentences": [
-    { "id": "haric_s1", "text": "Herkes [geldi, sen hariç]].", "note": null },
-    { "id": "haric_s2", "text": "[Pazarlar hariç]] her gün açık.", "note": null },
-    { "id": "haric_s3", "text": "Sınıfın tümü [hemen hariç]] başarılı.", "note": null },
-    { "id": "haric_s4", "text": "[Yönetici hariç]] herkes aynı maaş alıyor.", "note": null }
+    { "id": "haric_s1", "text": "Herkes [geldi, sen hariç].", "note": null },
+    { "id": "haric_s2", "text": "[Pazarlar hariç] her gün açık.", "note": null },
+    { "id": "haric_s3", "text": "Sınıfın tümü [hemen hariç] başarılı.", "note": null },
+    { "id": "haric_s4", "text": "[Yönetici hariç] herkes aynı maaş alıyor.", "note": null }
   ],
   "recall_prompts": [
     {
@@ -19,7 +19,7 @@
     },
     {
       "id": "haric_r2",
-      "prompt": "[...]] tatil günü her gün açık.",
+      "prompt": "[...] tatil günü her gün açık.",
       "accepted_forms": ["hariç"],
       "note": null
     }
