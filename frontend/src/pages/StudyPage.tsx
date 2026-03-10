@@ -95,8 +95,17 @@ export function StudyPage() {
         fail: r.fail + (grade === 'fail' ? 1 : 0),
       }));
 
+      if (grade === 'fail') {
+        const insertAt = Math.min(currentIdx + 4, queue.length);
+        setQueue((q) => {
+          const next = [...q];
+          next.splice(insertAt, 0, item);
+          return next;
+        });
+      }
+
       const nextIdx = currentIdx + 1;
-      if (nextIdx >= queue.length) {
+      if (nextIdx >= queue.length && grade !== 'fail') {
         setDone(true);
       } else {
         setCurrentIdx(nextIdx);

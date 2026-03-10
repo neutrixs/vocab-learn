@@ -1,21 +1,26 @@
 import type { SM2Card } from '../types/progress';
 import type { ReviewGrade } from '../types/study';
 
-function today(): string {
-  return new Date().toISOString().split('T')[0];
+function now(): string {
+  return new Date().toISOString();
 }
 
-function addDays(date: string, days: number): string {
-  const d = new Date(date);
-  d.setDate(d.getDate() + days);
-  return d.toISOString().split('T')[0];
+export function parseDate(s: string): Date {
+  if (!s.includes('T')) return new Date(s + 'T00:00:00Z');
+  return new Date(s);
+}
+
+function addHours(hours: number): string {
+  const d = new Date();
+  d.setTime(d.getTime() + hours * 3600_000);
+  return d.toISOString();
 }
 
 export function newCard(): SM2Card {
-  const t = today();
+  const t = now();
   return {
     ease_factor: 2.5,
-    interval: 1,
+    interval: 0,
     repetitions: 0,
     due: t,
     last_reviewed: null,
@@ -29,13 +34,15 @@ export function applyReview(card: SM2Card, grade: ReviewGrade): SM2Card {
 
   if (grade === 'fail') {
     repetitions = 0;
-    interval = 1;
+    interval = 0;
   } else {
     repetitions += 1;
     if (repetitions === 1) {
-      interval = 1;
+      interval = 4;
     } else if (repetitions === 2) {
-      interval = 6;
+      interval = 8;
+    } else if (repetitions === 3) {
+      interval = 24;
     } else {
       interval = Math.round(interval * ease_factor);
     }
@@ -48,15 +55,15 @@ export function applyReview(card: SM2Card, grade: ReviewGrade): SM2Card {
     ease_factor,
     interval,
     repetitions,
-    due: addDays(today(), interval),
-    last_reviewed: today(),
+    due: addHours(interval),
+    last_reviewed: now(),
   };
 }
 
 export function isDue(card: SM2Card): boolean {
-  return card.due <= today();
+  return parseDate(card.due) <= new Date();
 }
 
 export function isOverdue(card: SM2Card): boolean {
-  return card.due < today();
+  return parseDate(card.due) < new Date();
 }

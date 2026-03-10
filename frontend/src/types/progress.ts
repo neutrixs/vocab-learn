@@ -2,7 +2,7 @@ export interface SM2Card {
   ease_factor: number;
   interval: number;
   repetitions: number;
-  due: string; // ISO date string "YYYY-MM-DD"
+  due: string; // ISO datetime string (legacy "YYYY-MM-DD" also accepted)
   last_reviewed: string | null;
   created: string;
 }
