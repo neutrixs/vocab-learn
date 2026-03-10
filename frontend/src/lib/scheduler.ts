@@ -8,7 +8,7 @@ const MODES: StudyMode[] = ['recognition', 'recall'];
 export function buildSession(
   allWords: WordIndexEntry[],
   progress: LangProgress | undefined,
-  maxNew = 10
+  maxNewPerDay = 10
 ): StudyItem[] {
   const cards = progress?.cards ?? {};
   const overdue: StudyItem[] = [];
@@ -30,13 +30,23 @@ export function buildSession(
     }
   }
 
+  // Count words already introduced today to enforce per-day cap
+  const todayStr = new Date().toISOString().split('T')[0];
+  const wordsIntroducedToday = new Set<string>();
+  for (const [key, card] of Object.entries(cards)) {
+    if (card.created === todayStr) {
+      wordsIntroducedToday.add(key.split('::')[0]);
+    }
+  }
+  const remainingNew = Math.max(0, maxNewPerDay - wordsIntroducedToday.size);
+
   // Shuffle new words so every session samples different words, not always the first N
   const newWords = [...new Set(newItems.map((i) => i.word))];
   for (let i = newWords.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [newWords[i], newWords[j]] = [newWords[j], newWords[i]];
   }
-  const pickedWords = new Set(newWords.slice(0, maxNew));
+  const pickedWords = new Set(newWords.slice(0, remainingNew));
   const cappedNew = newItems.filter((i) => pickedWords.has(i.word));
 
   return [...overdue, ...dueToday, ...cappedNew];

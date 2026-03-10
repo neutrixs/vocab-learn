@@ -7,6 +7,7 @@ import { Badge } from '../components/ui/Badge';
 import { ProgressBar } from '../components/ui/ProgressBar';
 import { useLanguage } from '../context/LanguageContext';
 import { useProgress } from '../context/ProgressContext';
+import { useSettings } from '../context/SettingsContext';
 import { loadIndex } from '../lib/dataLoader';
 import { buildSession } from '../lib/scheduler';
 import { getLocale } from '../lib/locale';
@@ -119,6 +120,7 @@ function WordList({ words, cards, lang, t }: { words: WordIndexEntry[]; cards: R
 export function HomePage() {
   const { lang } = useLanguage();
   const { getLangProgress } = useProgress();
+  const { settings } = useSettings();
   const navigate = useNavigate();
   const [index, setIndex] = useState<WordIndex | null>(null);
   const [error, setError] = useState<string | null>(null);
@@ -133,7 +135,7 @@ export function HomePage() {
   const lp = getLangProgress(lang);
   const stats = lp?.stats;
 
-  const sessionItems = index ? buildSession(index.words, lp) : [];
+  const sessionItems = index ? buildSession(index.words, lp, settings.max_new_words_per_day) : [];
   const dueCount = sessionItems.filter((i) => !i.isNew).length;
   const newCount = sessionItems.filter((i) => i.isNew).length;
   const totalWords = index ? index.words.length * 2 : 0; // recognition + recall per word

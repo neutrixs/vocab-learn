@@ -2,6 +2,7 @@ import { useEffect, useState, useCallback } from 'react';
 import { useSearchParams, useNavigate } from 'react-router-dom';
 import { useLanguage } from '../context/LanguageContext';
 import { useProgress } from '../context/ProgressContext';
+import { useSettings } from '../context/SettingsContext';
 import { loadIndex, loadWord, preloadWords } from '../lib/dataLoader';
 import { buildSession } from '../lib/scheduler';
 import { getLocale } from '../lib/locale';
@@ -18,6 +19,7 @@ type StudyMode = 'recognition' | 'recall' | 'mixed';
 export function StudyPage() {
   const { lang } = useLanguage();
   const { getLangProgress, recordReview } = useProgress();
+  const { settings } = useSettings();
   const [params] = useSearchParams();
   const navigate = useNavigate();
   const modeParam = (params.get('mode') ?? 'mixed') as StudyMode;
@@ -37,7 +39,7 @@ export function StudyPage() {
       try {
         const index = await loadIndex(lang);
         const lp = getLangProgress(lang);
-        let items = buildSession(index.words, lp);
+        let items = buildSession(index.words, lp, settings.max_new_words_per_day);
 
         // Filter by mode
         if (modeParam !== 'mixed') {
@@ -58,7 +60,7 @@ export function StudyPage() {
       }
     }
     init();
-  }, [lang, modeParam]); // eslint-disable-line react-hooks/exhaustive-deps
+  }, [lang, modeParam, settings.max_new_words_per_day]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Load current word entry
   useEffect(() => {

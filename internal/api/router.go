@@ -13,6 +13,7 @@ func NewRouter(db *sql.DB, jwtSecret []byte, dataDir string) http.Handler {
 	auth := NewAuthHandler(db, jwtSecret)
 	words := NewWordsHandler(dataDir)
 	progress := NewProgressHandler(db)
+	settings := NewSettingsHandler(db)
 
 	requireAuth := middleware.Auth(jwtSecret)
 
@@ -29,6 +30,10 @@ func NewRouter(db *sql.DB, jwtSecret []byte, dataDir string) http.Handler {
 	mux.Handle("PUT /api/progress/{lang}", requireAuth(http.HandlerFunc(progress.Put)))
 	mux.Handle("DELETE /api/progress/{lang}", requireAuth(http.HandlerFunc(progress.Delete)))
 	mux.Handle("DELETE /api/progress", requireAuth(http.HandlerFunc(progress.DeleteAll)))
+
+	// Settings (authenticated)
+	mux.Handle("GET /api/settings", requireAuth(http.HandlerFunc(settings.Get)))
+	mux.Handle("PUT /api/settings", requireAuth(http.HandlerFunc(settings.Put)))
 
 	return mux
 }

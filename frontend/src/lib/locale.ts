@@ -55,6 +55,10 @@ export interface UILocale {
   /** Settings */
   settings_title: string;
   settings_subtitle: string;
+  study_settings_title: string;
+  max_new_words_label: string;
+  words_per_day: string;
+  max_new_words_hint: string;
   language_title: string;
   active_lang: string;
   reset_title: string;
@@ -127,6 +131,10 @@ const tr: UILocale = {
 
   settings_title: 'Ayarlar',
   settings_subtitle: 'Tercihler ve sıfırlama',
+  study_settings_title: 'ÇALIŞMA',
+  max_new_words_label: 'Günlük yeni kelime',
+  words_per_day: 'kelime / gün',
+  max_new_words_hint: 'Her gün kaç yeni kelime öğrenileceğini belirler. Tekrarlar etkilenmez.',
   language_title: 'DİL',
   active_lang: 'Aktif dil',
   reset_title: 'İLERLEMEYİ SIFIRLA',
@@ -199,6 +207,10 @@ const en: UILocale = {
 
   settings_title: 'Settings',
   settings_subtitle: 'Preferences and reset',
+  study_settings_title: 'STUDY',
+  max_new_words_label: 'New words per day',
+  words_per_day: 'words / day',
+  max_new_words_hint: 'Controls how many new words are introduced each day. Reviews are not affected.',
   language_title: 'LANGUAGE',
   active_lang: 'Active language',
   reset_title: 'RESET PROGRESS',
