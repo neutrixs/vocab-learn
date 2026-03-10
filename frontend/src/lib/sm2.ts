@@ -29,7 +29,7 @@ export function applyReview(card: SM2Card, grade: ReviewGrade): SM2Card {
 
   if (grade === 'fail') {
     repetitions = 0;
-    interval = 1;
+    interval = 0;
   } else {
     repetitions += 1;
     if (repetitions === 1) {
