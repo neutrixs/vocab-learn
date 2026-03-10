@@ -3011,13 +3011,6 @@
       ]
     },
     {
-      "word": "gelmek",
-      "file": "gelmek.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
       "word": "gemi",
       "file": "gemi.json",
       "difficulty": 1,
@@ -3074,13 +3067,6 @@
       "tags": []
     },
     {
-      "word": "gerekli",
-      "file": "gerekli.json",
-      "difficulty": 1,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
       "word": "gerekmek",
       "file": "gerekmek.json",
       "difficulty": 1,
@@ -3105,13 +3091,6 @@
       "word": "gerçek",
       "file": "gerçek.json",
       "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "gerçek",
-      "file": "gerçek.json",
-      "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
     },
@@ -3343,13 +3322,6 @@
       "tags": []
     },
     {
-      "word": "görev",
-      "file": "görev.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "görevli",
       "file": "görevli.json",
       "difficulty": 1,
@@ -3562,13 +3534,6 @@
       "tags": []
     },
     {
-      "word": "haber",
-      "file": "haber.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "haber vermek",
       "file": "haber vermek.json",
       "difficulty": 2,
@@ -3702,13 +3667,6 @@
       "tags": []
     },
     {
-      "word": "hatırlamak",
-      "file": "hatırlamak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
       "word": "hatırlatmak",
       "file": "hatırlatmak.json",
       "difficulty": 2,
@@ -3740,13 +3698,6 @@
       "word": "hayal",
       "file": "hayal.json",
       "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "hayal",
-      "file": "hayal.json",
-      "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
     },
@@ -4407,13 +4358,6 @@
       "tags": []
     },
     {
-      "word": "katılmak",
-      "file": "katılmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
       "word": "kavga etmek",
       "file": "kavga etmek.json",
       "difficulty": 2,
@@ -4480,13 +4424,6 @@
       "word": "kazanmak",
       "file": "kazanmak.json",
       "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "kazanmak",
-      "file": "kazanmak.json",
-      "difficulty": 1,
       "part_of_speech": "verb",
       "tags": []
     },
@@ -4949,13 +4886,6 @@
       "word": "merak etmek",
       "file": "merak etmek.json",
       "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "merak etmek",
-      "file": "merak etmek.json",
-      "difficulty": 1,
       "part_of_speech": "verb",
       "tags": []
     },

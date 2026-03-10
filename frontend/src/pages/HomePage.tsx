@@ -26,7 +26,9 @@ function WordList({ words, cards, lang, t }: { words: WordIndexEntry[]; cards: R
     (t.pos[a] ?? a).localeCompare(t.pos[b] ?? b, lang)
   );
 
-  const sorted = [...words].sort((a, b) => a.word.localeCompare(b.word, lang));
+  const sorted = [...new Map(words.map((w) => [w.word, w])).values()].sort((a, b) =>
+    a.word.localeCompare(b.word, lang)
+  );
 
   const filtered = sorted.filter((w) => {
     const matchesSearch = w.word.toLowerCase().includes(search.toLowerCase());
