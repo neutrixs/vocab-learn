@@ -1,5 +1,5 @@
 import { createContext, useContext, useReducer, useEffect, useRef, useCallback, type ReactNode } from 'react';
-import type { ProgressStore, SM2Card, LangProgress } from '../types/progress';
+import type { ProgressStore, SM2Card, LangProgress, LangStats } from '../types/progress';
 import type { ReviewGrade } from '../types/study';
 import { loadProgress, saveProgress } from '../lib/storage';
 import { applyReview, newCard } from '../lib/sm2';
@@ -20,7 +20,7 @@ type Action =
   | { type: 'RECORD_REVIEW'; lang: string; cardKey: string; grade: ReviewGrade }
   | { type: 'RESET_LANG'; lang: string }
   | { type: 'RESET_ALL' }
-  | { type: 'MERGE_SERVER'; lang: string; cards: Record<string, SM2Card> };
+  | { type: 'MERGE_SERVER'; lang: string; cards: Record<string, SM2Card>; stats: LangStats | null };
 
 function reducer(store: ProgressStore, action: Action): ProgressStore {
   switch (action.type) {
@@ -54,8 +54,10 @@ function reducer(store: ProgressStore, action: Action): ProgressStore {
     case 'RESET_ALL':
       return { version: 1, languages: {} };
     case 'MERGE_SERVER': {
-      const { lang, cards } = action;
+      const { lang, cards, stats: serverStats } = action;
       const lp = store.languages[lang];
+      const defaultStats: LangStats = { streak_days: 0, last_study_date: null, total_reviews: 0, total_correct: 0 };
+
       if (!lp) {
         return {
           ...store,
@@ -63,16 +65,28 @@ function reducer(store: ProgressStore, action: Action): ProgressStore {
             ...store.languages,
             [lang]: {
               cards,
-              stats: { streak_days: 0, last_study_date: null, total_reviews: 0, total_correct: 0 },
+              stats: serverStats ?? defaultStats,
             },
           },
         };
       }
       // Server cards fill in anything missing locally.
-      const merged = { ...cards, ...lp.cards };
+      const mergedCards = { ...cards, ...lp.cards };
+      // Merge stats: take the higher counters; for streak use whichever is more recent.
+      let mergedStats = lp.stats;
+      if (serverStats) {
+        const localDate = lp.stats.last_study_date ?? '';
+        const serverDate = serverStats.last_study_date ?? '';
+        mergedStats = {
+          total_reviews: Math.max(lp.stats.total_reviews, serverStats.total_reviews),
+          total_correct: Math.max(lp.stats.total_correct, serverStats.total_correct),
+          streak_days: serverDate > localDate ? serverStats.streak_days : lp.stats.streak_days,
+          last_study_date: serverDate > localDate ? serverStats.last_study_date : lp.stats.last_study_date,
+        };
+      }
       return {
         ...store,
-        languages: { ...store.languages, [lang]: { ...lp, cards: merged } },
+        languages: { ...store.languages, [lang]: { ...lp, cards: mergedCards, stats: mergedStats } },
       };
     }
     default:
@@ -95,11 +109,14 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
       if (cards.size === 0) continue;
       const payload: Record<string, SM2Card> = {};
       for (const [k, v] of cards) payload[k] = v;
+      // Include current stats so they stay in sync with card updates.
+      const fresh = loadProgress();
+      const stats = fresh.languages[l]?.stats ?? null;
       try {
         const res = await apiFetch(`/api/progress/${l}`, {
           method: 'PUT',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ cards: payload }),
+          body: JSON.stringify({ cards: payload, stats }),
         });
         if (res.ok) cards.clear();
       } catch {
@@ -114,7 +131,7 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
   }, [store]);
 
   // Sync with server on mount / language change:
-  // 1. Fetch server cards
+  // 1. Fetch server cards + stats
   // 2. Merge into local state (server fills gaps, local wins conflicts)
   // 3. Push full merged set back so server has everything
   useEffect(() => {
@@ -122,32 +139,37 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
     (async () => {
       // Fetch what the server has.
       let serverCards: Record<string, SM2Card> = {};
+      let serverStats: LangStats | null = null;
       try {
         const res = await apiFetch(`/api/progress/${lang}`);
         if (res.ok) {
           const data = await res.json();
-          if (data && typeof data === 'object') serverCards = data;
+          if (data && typeof data === 'object') {
+            serverCards = data.cards ?? {};
+            serverStats = data.stats ?? null;
+          }
         }
       } catch { /* offline — just use local */ }
 
       if (cancelled) return;
 
       // Merge server into local state.
-      if (Object.keys(serverCards).length > 0) {
-        dispatch({ type: 'MERGE_SERVER', lang, cards: serverCards });
+      if (Object.keys(serverCards).length > 0 || serverStats) {
+        dispatch({ type: 'MERGE_SERVER', lang, cards: serverCards, stats: serverStats });
       }
 
       // Push full local state (including what we just merged) to server.
       // Read fresh from localStorage since dispatch is async.
       const fresh = loadProgress();
       const localCards = fresh.languages[lang]?.cards ?? {};
-      const merged = { ...serverCards, ...localCards };
-      if (Object.keys(merged).length > 0) {
+      const localStats = fresh.languages[lang]?.stats ?? null;
+      const mergedCards = { ...serverCards, ...localCards };
+      if (Object.keys(mergedCards).length > 0 || localStats) {
         try {
           await apiFetch(`/api/progress/${lang}`, {
             method: 'PUT',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ cards: merged }),
+            body: JSON.stringify({ cards: mergedCards, stats: localStats }),
           });
         } catch { /* will sync next time */ }
       }
