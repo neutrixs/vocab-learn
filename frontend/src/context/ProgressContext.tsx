@@ -58,6 +58,17 @@ function reducer(store: ProgressStore, action: Action): ProgressStore {
       const lp = store.languages[lang];
       const defaultStats: LangStats = { streak_days: 0, last_study_date: null, total_reviews: 0, total_correct: 0 };
 
+      // --- DB MIGRATION: remove in next version ---
+      // The lang_stats table was added after cards already existed in the DB.
+      // On first deploy, server returns stats: null for existing users because
+      // no lang_stats row exists yet. We treat null as "uninitialized" — keep
+      // whatever the local device has and don't let zeroed defaults overwrite it.
+      // Once the first device with real stats syncs, the server will have a row
+      // and future merges use the normal max-based strategy below.
+      // After all clients have synced at least once, this null guard is redundant
+      // because the server will always have a stats row.
+      // --- end DB MIGRATION ---
+
       if (!lp) {
         return {
           ...store,
@@ -65,6 +76,10 @@ function reducer(store: ProgressStore, action: Action): ProgressStore {
             ...store.languages,
             [lang]: {
               cards,
+              // If server stats are uninitialized (null), start with zeroed defaults.
+              // This is only reached on a fresh device with no localStorage — there's
+              // nothing better to use. The real stats will arrive once the primary
+              // device syncs.
               stats: serverStats ?? defaultStats,
             },
           },
@@ -72,7 +87,8 @@ function reducer(store: ProgressStore, action: Action): ProgressStore {
       }
       // Server cards fill in anything missing locally.
       const mergedCards = { ...cards, ...lp.cards };
-      // Merge stats: take the higher counters; for streak use whichever is more recent.
+      // Merge stats: if server stats are uninitialized (null), keep local as-is.
+      // Otherwise take the higher counters; for streak use whichever is more recent.
       let mergedStats = lp.stats;
       if (serverStats) {
         const localDate = lp.stats.last_study_date ?? '';
@@ -110,13 +126,18 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
       const payload: Record<string, SM2Card> = {};
       for (const [k, v] of cards) payload[k] = v;
       // Include current stats so they stay in sync with card updates.
+      // --- DB MIGRATION: remove guard in next version ---
+      // Only send stats if they have a last_study_date (i.e. not uninitialized
+      // defaults from a fresh device). Prevents overwriting real stats on server.
+      // --- end DB MIGRATION ---
       const fresh = loadProgress();
       const stats = fresh.languages[l]?.stats ?? null;
+      const hasRealStats = stats && stats.last_study_date !== null;
       try {
         const res = await apiFetch(`/api/progress/${l}`, {
           method: 'PUT',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ cards: payload, stats }),
+          body: JSON.stringify({ cards: payload, stats: hasRealStats ? stats : null }),
         });
         if (res.ok) cards.clear();
       } catch {
@@ -162,14 +183,25 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
       // Read fresh from localStorage since dispatch is async.
       const fresh = loadProgress();
       const localCards = fresh.languages[lang]?.cards ?? {};
-      const localStats = fresh.languages[lang]?.stats ?? null;
       const mergedCards = { ...serverCards, ...localCards };
-      if (Object.keys(mergedCards).length > 0 || localStats) {
+
+      // --- DB MIGRATION: remove in next version ---
+      // Only push stats if the local device actually has meaningful stats
+      // (i.e. has a last_study_date). A fresh device with no localStorage
+      // would have null here and we must NOT push zeroed defaults to the
+      // server — that would overwrite real stats from another device.
+      // After all clients have synced once, the server always has a stats
+      // row and this guard becomes redundant.
+      // --- end DB MIGRATION ---
+      const localStats = fresh.languages[lang]?.stats ?? null;
+      const hasRealStats = localStats && localStats.last_study_date !== null;
+
+      if (Object.keys(mergedCards).length > 0 || hasRealStats) {
         try {
           await apiFetch(`/api/progress/${lang}`, {
             method: 'PUT',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ cards: mergedCards, stats: localStats }),
+            body: JSON.stringify({ cards: mergedCards, stats: hasRealStats ? localStats : null }),
           });
         } catch { /* will sync next time */ }
       }
