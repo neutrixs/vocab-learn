@@ -14,6 +14,14 @@ CREATE TABLE IF NOT EXISTS progress (
     PRIMARY KEY (user_id, lang, card_key)
 );
 
+CREATE TABLE IF NOT EXISTS lang_stats (
+    user_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+    lang TEXT NOT NULL,
+    data TEXT NOT NULL DEFAULT '{}',
+    updated_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+    PRIMARY KEY (user_id, lang)
+);
+
 CREATE TABLE IF NOT EXISTS user_settings (
     user_id INTEGER PRIMARY KEY REFERENCES users(id) ON DELETE CASCADE,
     data TEXT NOT NULL DEFAULT '{}',
