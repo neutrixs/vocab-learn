@@ -179,29 +179,41 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
         dispatch({ type: 'MERGE_SERVER', lang, cards: serverCards, stats: serverStats });
       }
 
-      // Push full local state (including what we just merged) to server.
-      // Read fresh from localStorage since dispatch is async.
+      // Push full merged state to server.
+      // Read local from localStorage (dispatch is async so state isn't saved yet)
+      // and merge with server data inline — same logic as the reducer.
       const fresh = loadProgress();
       const localCards = fresh.languages[lang]?.cards ?? {};
       const mergedCards = { ...serverCards, ...localCards };
 
-      // --- DB MIGRATION: remove in next version ---
-      // Only push stats if the local device actually has meaningful stats
-      // (i.e. has a last_study_date). A fresh device with no localStorage
-      // would have null here and we must NOT push zeroed defaults to the
-      // server — that would overwrite real stats from another device.
-      // After all clients have synced once, the server always has a stats
-      // row and this guard becomes redundant.
-      // --- end DB MIGRATION ---
       const localStats = fresh.languages[lang]?.stats ?? null;
-      const hasRealStats = localStats && localStats.last_study_date !== null;
+      // Merge stats inline (can't rely on localStorage being up-to-date).
+      let mergedStats: LangStats | null = localStats;
+      if (serverStats && localStats) {
+        const localDate = localStats.last_study_date ?? '';
+        const serverDate = serverStats.last_study_date ?? '';
+        mergedStats = {
+          total_reviews: Math.max(localStats.total_reviews, serverStats.total_reviews),
+          total_correct: Math.max(localStats.total_correct, serverStats.total_correct),
+          streak_days: serverDate > localDate ? serverStats.streak_days : localStats.streak_days,
+          last_study_date: serverDate > localDate ? serverStats.last_study_date : localStats.last_study_date,
+        };
+      } else if (serverStats) {
+        mergedStats = serverStats;
+      }
+
+      // --- DB MIGRATION: remove guard in next version ---
+      // Only push stats if they have a last_study_date (i.e. not uninitialized
+      // defaults from a fresh device). Prevents overwriting real stats on server.
+      // --- end DB MIGRATION ---
+      const hasRealStats = mergedStats && mergedStats.last_study_date !== null;
 
       if (Object.keys(mergedCards).length > 0 || hasRealStats) {
         try {
           await apiFetch(`/api/progress/${lang}`, {
             method: 'PUT',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ cards: mergedCards, stats: hasRealStats ? localStats : null }),
+            body: JSON.stringify({ cards: mergedCards, stats: hasRealStats ? mergedStats : null }),
           });
         } catch { /* will sync next time */ }
       }
