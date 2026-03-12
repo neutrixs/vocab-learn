@@ -174,9 +174,9 @@ export function StudyPage() {
 
       {currentEntry ? (
         item.mode === 'recognition' ? (
-          <RecognitionCard key={item.cardKey} entry={currentEntry} lang={lang} onGrade={handleGrade} />
+          <RecognitionCard key={`${item.cardKey}@${currentIdx}`} entry={currentEntry} lang={lang} onGrade={handleGrade} />
         ) : (
-          <RecallCard key={item.cardKey} entry={currentEntry} lang={lang} onGrade={handleGrade} />
+          <RecallCard key={`${item.cardKey}@${currentIdx}`} entry={currentEntry} lang={lang} onGrade={handleGrade} />
         )
       ) : (
         <div className="page-centered">
