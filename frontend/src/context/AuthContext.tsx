@@ -1,3 +1,4 @@
+import { resetProgress } from '@/lib/storage';
 import { createContext, useContext, useState, useCallback, type ReactNode } from 'react';
 
 interface User {
@@ -68,6 +69,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   const logout = useCallback(() => {
     saveUser(null);
     setUser(null);
+    resetProgress();
   }, []);
 
   return (
