@@ -34,6 +34,9 @@ export function buildSession(
   const todayStr = new Date().toISOString().split('T')[0];
   const wordsIntroducedToday = new Set<string>();
   for (const [key, card] of Object.entries(cards)) {
+    // TEMPORARY FIX
+    // cards entry being stacked
+    if (!card?.due) continue
     if (parseDate(card.created).toISOString().split('T')[0] === todayStr) {
       wordsIntroducedToday.add(key.split('::')[0]);
     }
