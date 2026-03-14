@@ -87,6 +87,15 @@ function reducer(store: ProgressStore, action: Action): ProgressStore {
       }
       // Server cards fill in anything missing locally.
       const mergedCards = { ...cards, ...lp.cards };
+      // TEMPORARY FIX
+      // somehow, there's a cards entry inside cards entry, causing the app to fail.
+      Object.keys(mergedCards).forEach(key => {
+        const entry = mergedCards[key]
+        if (!entry.created || !entry.due) {
+            delete mergedCards[key]
+        }
+      })
+
       // Merge stats: if server stats are uninitialized (null), keep local as-is.
       // Otherwise take the higher counters; for streak use whichever is more recent.
       let mergedStats = lp.stats;
