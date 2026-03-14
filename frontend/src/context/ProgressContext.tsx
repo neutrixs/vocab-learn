@@ -166,7 +166,21 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
         if (res.ok) {
           const data = await res.json();
           if (data && typeof data === 'object') {
-            serverCards = data.cards ?? {};
+            // TEMPORARY FIX
+            // I don't know how, but somehow, in one user case, there's "cards" entry inside cards entry
+            // This should temporarily remove the entry until I found the problem
+            const TEMP_CARDS_DATA: Record<string, SM2Card> = {}
+            Object.keys(data.cards).forEach(key => {
+                const value = data.cards[key] as SM2Card
+                if (!value.due) {
+                    return
+                }
+
+                TEMP_CARDS_DATA[key] = value
+            })
+
+            // serverCards = data.cards ?? {};
+            serverCards = TEMP_CARDS_DATA
             serverStats = data.stats ?? null;
           }
         }
