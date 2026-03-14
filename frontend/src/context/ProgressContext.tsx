@@ -91,7 +91,7 @@ function reducer(store: ProgressStore, action: Action): ProgressStore {
       // somehow, there's a cards entry inside cards entry, causing the app to fail.
       Object.keys(mergedCards).forEach(key => {
         const entry = mergedCards[key]
-        if (!entry.created || !entry.due) {
+        if (!entry?.created || !entry?.due) {
             delete mergedCards[key]
         }
       })
@@ -181,7 +181,7 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
             const TEMP_CARDS_DATA: Record<string, SM2Card> = {}
             Object.keys(data.cards).forEach(key => {
                 const value = data.cards[key] as SM2Card
-                if (!value.due) {
+                if (!value?.due) {
                     return
                 }
 
