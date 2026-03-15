@@ -40,7 +40,11 @@ func (h *ProgressHandler) Get(w http.ResponseWriter, r *http.Request) {
 			http.Error(w, `{"error":"internal error"}`, http.StatusInternalServerError)
 			return
 		}
-		cards[key] = json.RawMessage(data)
+		raw := json.RawMessage(data)
+		if !json.Valid(raw) {
+			continue
+		}
+		cards[key] = raw
 	}
 
 	// Fetch stats.
