@@ -1,7 +1,7 @@
 import { createContext, useContext, useReducer, useEffect, useRef, useCallback, type ReactNode } from 'react';
 import type { ProgressStore, SM2Card, LangProgress, LangStats } from '../types/progress';
 import type { ReviewGrade } from '../types/study';
-import { loadProgress, saveProgress } from '../lib/storage';
+import { emptyStore, filterValidCards } from '../lib/storage';
 import { applyReview, newCard } from '../lib/sm2';
 import { updateStreak } from '../lib/storage';
 import { apiFetch } from '../lib/apiClient';
@@ -78,20 +78,23 @@ function reducer(store: ProgressStore, action: Action): ProgressStore {
 const ProgressContext = createContext<ProgressContextValue>({} as ProgressContextValue);
 
 export function ProgressProvider({ children }: { children: ReactNode }) {
-  const [store, dispatch] = useReducer(reducer, undefined, loadProgress);
+  const [store, dispatch] = useReducer(reducer, undefined, emptyStore);
   const { lang } = useLanguage();
   const flushTimer = useRef<ReturnType<typeof setInterval> | undefined>(undefined);
 
   // Track dirty cards in a ref so it's never stale.
   const dirtyRef = useRef(new Map<string, Map<string, SM2Card>>());
 
+  // Keep a ref to the latest store so flushDirty can read current stats.
+  const storeRef = useRef(store);
+  useEffect(() => { storeRef.current = store; }, [store]);
+
   const flushDirty = useCallback(async () => {
     for (const [l, cards] of dirtyRef.current) {
       if (cards.size === 0) continue;
       const payload: Record<string, SM2Card> = {};
       for (const [k, v] of cards) payload[k] = v;
-      const fresh = loadProgress();
-      const stats = fresh.languages[l]?.stats ?? null;
+      const stats = storeRef.current.languages[l]?.stats ?? null;
       try {
         const res = await apiFetch(`/api/progress/${l}`, {
           method: 'PUT',
@@ -105,17 +108,11 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
     }
   }, []);
 
-  // Save to localStorage on every change.
-  useEffect(() => {
-    saveProgress(store);
-  }, [store]);
-
   // Sync with server on mount / language change.
   // Server is the source of truth — overwrite local state.
   useEffect(() => {
     let cancelled = false;
     (async () => {
-      // Fetch what the server has.
       let serverCards: Record<string, SM2Card> = {};
       let serverStats: LangStats | null = null;
       try {
@@ -123,15 +120,14 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
         if (res.ok) {
           const data = await res.json();
           if (data && typeof data === 'object') {
-            serverCards = data.cards ?? {};
+            serverCards = filterValidCards(data.cards ?? {});
             serverStats = data.stats ?? null;
           }
         }
-      } catch { /* offline — just use local */ }
+      } catch { /* offline — start empty */ }
 
       if (cancelled) return;
 
-      // Server is the source of truth — overwrite local state.
       if (Object.keys(serverCards).length > 0 || serverStats) {
         dispatch({ type: 'MERGE_SERVER', lang, cards: serverCards, stats: serverStats });
       }
