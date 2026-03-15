@@ -65,7 +65,7 @@ function reducer(store: ProgressStore, action: Action): ProgressStore {
           ...store.languages,
           [lang]: {
             cards,
-            stats: serverStats ?? defaultStats,
+            stats: { ...defaultStats, ...serverStats },
           },
         },
       };
