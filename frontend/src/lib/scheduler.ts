@@ -49,7 +49,12 @@ export function buildSession(
   const pickedWords = new Set(newWords.slice(0, remainingNew));
   const cappedNew = newItems.filter((i) => pickedWords.has(i.word));
 
-  return [...overdue, ...dueToday, ...cappedNew];
+  const session = [...overdue, ...dueToday, ...cappedNew];
+  for (let i = session.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [session[i], session[j]] = [session[j], session[i]];
+  }
+  return session;
 }
 
 export function ensureCards(
