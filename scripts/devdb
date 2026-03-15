@@ -1,0 +1,163 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+DB="${DB_PATH:-./vocab-learn.db}"
+SECRET_FILE=".jwt_secret"
+API="http://localhost:8080"
+
+if [[ ! -f "$DB" ]]; then
+  echo "error: database not found at $DB" >&2
+  exit 1
+fi
+
+usage() {
+  cat <<'HELP'
+Usage: scripts/devdb <command> [args...]
+
+Database commands:
+  sql <query>                Run raw SQL (e.g. "SELECT * FROM users")
+  shell                      Open interactive sqlite3 shell
+  users                      List all users
+  cards <user_id> [lang]     Show progress cards for a user
+  stats <user_id> [lang]     Show lang_stats for a user
+
+Data corruption (for testing):
+  inject <user_id> <lang> <card_key> <json>
+                             Insert/replace a card with arbitrary JSON
+  corrupt <user_id> <lang>   Insert a card with a nested cards:{} object
+  nuke-field <user_id> <lang> <card_key> <field>
+                             Remove a field from an existing card's JSON
+
+API commands (requires running server):
+  token <username>           Generate a JWT for the given user (reads .jwt_secret)
+  api-get <username> <lang>  GET /api/progress/{lang} as user
+  api-put <username> <lang> <cards_json>
+                             PUT /api/progress/{lang} as user
+
+HELP
+  exit 0
+}
+
+sql() {
+  sqlite3 -header -column "$DB" "$1"
+}
+
+gen_token() {
+  local username="$1"
+  if [[ ! -f "$SECRET_FILE" ]]; then
+    echo "error: $SECRET_FILE not found" >&2
+    exit 1
+  fi
+
+  local user_id
+  user_id=$(sqlite3 "$DB" "SELECT id FROM users WHERE username = '$username'" 2>/dev/null)
+  if [[ -z "$user_id" ]]; then
+    echo "error: user '$username' not found" >&2
+    exit 1
+  fi
+
+  local secret_hex
+  secret_hex=$(cat "$SECRET_FILE" | tr -d '[:space:]')
+
+  local header='{"alg":"HS256","typ":"JWT"}'
+  local now=$(($(date +%s)))
+  local exp=$(($now + 86400))
+  local payload="{\"user_id\":$user_id,\"username\":\"$username\",\"exp\":$exp}"
+
+  local h=$(echo -n "$header" | base64 -w0 | tr '+/' '-_' | tr -d '=')
+  local p=$(echo -n "$payload" | base64 -w0 | tr '+/' '-_' | tr -d '=')
+  local sig=$(echo -n "$h.$p" | openssl dgst -sha256 -mac HMAC -macopt "hexkey:$secret_hex" -binary | base64 -w0 | tr '+/' '-_' | tr -d '=')
+
+  echo "$h.$p.$sig"
+}
+
+[[ $# -eq 0 ]] && usage
+
+cmd="$1"
+shift
+
+case "$cmd" in
+  sql)
+    [[ $# -lt 1 ]] && { echo "usage: devdb sql <query>" >&2; exit 1; }
+    sql "$1"
+    ;;
+
+  shell)
+    sqlite3 -header -column "$DB"
+    ;;
+
+  users)
+    sql "SELECT id, username, created_at FROM users"
+    ;;
+
+  cards)
+    [[ $# -lt 1 ]] && { echo "usage: devdb cards <user_id> [lang]" >&2; exit 1; }
+    local_uid="$1"
+    if [[ $# -ge 2 ]]; then
+      sql "SELECT card_key, data, updated_at FROM progress WHERE user_id = $local_uid AND lang = '$2'"
+    else
+      sql "SELECT lang, card_key, data, updated_at FROM progress WHERE user_id = $local_uid"
+    fi
+    ;;
+
+  stats)
+    [[ $# -lt 1 ]] && { echo "usage: devdb stats <user_id> [lang]" >&2; exit 1; }
+    local_uid="$1"
+    if [[ $# -ge 2 ]]; then
+      sql "SELECT data, updated_at FROM lang_stats WHERE user_id = $local_uid AND lang = '$2'"
+    else
+      sql "SELECT lang, data, updated_at FROM lang_stats WHERE user_id = $local_uid"
+    fi
+    ;;
+
+  inject)
+    [[ $# -lt 4 ]] && { echo "usage: devdb inject <user_id> <lang> <card_key> <json>" >&2; exit 1; }
+    sqlite3 "$DB" "INSERT OR REPLACE INTO progress (user_id, lang, card_key, data, updated_at)
+      VALUES ($1, '$2', '$3', '$4', CURRENT_TIMESTAMP)"
+    echo "injected $3 for user $1 lang $2"
+    ;;
+
+  corrupt)
+    [[ $# -lt 2 ]] && { echo "usage: devdb corrupt <user_id> <lang>" >&2; exit 1; }
+    bad_json='{"cards":{"nested::bad":{"this":"is wrong"}}}'
+    sqlite3 "$DB" "INSERT OR REPLACE INTO progress (user_id, lang, card_key, data, updated_at)
+      VALUES ($1, '$2', 'cards', '$bad_json', CURRENT_TIMESTAMP)"
+    echo "inserted corrupted 'cards' entry for user $1 lang $2"
+    ;;
+
+  nuke-field)
+    [[ $# -lt 4 ]] && { echo "usage: devdb nuke-field <user_id> <lang> <card_key> <field>" >&2; exit 1; }
+    current=$(sqlite3 "$DB" "SELECT data FROM progress WHERE user_id = $1 AND lang = '$2' AND card_key = '$3'")
+    if [[ -z "$current" ]]; then
+      echo "error: card not found" >&2
+      exit 1
+    fi
+    nuked=$(echo "$current" | jq "del(.$4)")
+    sqlite3 "$DB" "UPDATE progress SET data = '${nuked}', updated_at = CURRENT_TIMESTAMP
+      WHERE user_id = $1 AND lang = '$2' AND card_key = '$3'"
+    echo "removed .$4 from $3 (user $1 lang $2)"
+    ;;
+
+  token)
+    [[ $# -lt 1 ]] && { echo "usage: devdb token <username>" >&2; exit 1; }
+    gen_token "$1"
+    ;;
+
+  api-get)
+    [[ $# -lt 2 ]] && { echo "usage: devdb api-get <username> <lang>" >&2; exit 1; }
+    tok=$(gen_token "$1")
+    curl -s -H "Authorization: Bearer $tok" "$API/api/progress/$2" | jq .
+    ;;
+
+  api-put)
+    [[ $# -lt 3 ]] && { echo "usage: devdb api-put <username> <lang> <cards_json>" >&2; exit 1; }
+    tok=$(gen_token "$1")
+    curl -s -X PUT -H "Authorization: Bearer $tok" -H "Content-Type: application/json" \
+      -d "$3" "$API/api/progress/$2" | jq .
+    ;;
+
+  *)
+    echo "unknown command: $cmd" >&2
+    usage
+    ;;
+esac
