@@ -77,6 +77,21 @@ func (h *ProgressHandler) Put(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
+	// Validate each card has the required SM2 fields.
+	for key, raw := range body.Cards {
+		var card struct {
+			Due     *string  `json:"due"`
+			Created *string  `json:"created"`
+			EF      *float64 `json:"ease_factor"`
+			Iv      *int     `json:"interval"`
+			Reps    *int     `json:"repetitions"`
+		}
+		if err := json.Unmarshal(raw, &card); err != nil || card.Due == nil || card.Created == nil || card.EF == nil || card.Iv == nil || card.Reps == nil {
+			http.Error(w, `{"error":"invalid card: `+key+`"}`, http.StatusBadRequest)
+			return
+		}
+	}
+
 	tx, err := h.db.Begin()
 	if err != nil {
 		http.Error(w, `{"error":"internal error"}`, http.StatusInternalServerError)
