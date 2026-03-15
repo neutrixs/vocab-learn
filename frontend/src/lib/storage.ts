@@ -1,31 +1,35 @@
-import type { ProgressStore } from '../types/progress';
-
-const STORAGE_KEY = 'vocab_progress_v1';
+import type { ProgressStore, SM2Card } from '../types/progress';
 
 function today(): string {
   return new Date().toISOString().split('T')[0];
 }
 
+/** Returns true if the value looks like a valid SM2Card (has all required fields). */
+export function isValidCard(v: unknown): v is SM2Card {
+  if (!v || typeof v !== 'object') return false;
+  const c = v as Record<string, unknown>;
+  return (
+    typeof c.due === 'string' &&
+    typeof c.created === 'string' &&
+    typeof c.ease_factor === 'number' &&
+    typeof c.interval === 'number' &&
+    typeof c.repetitions === 'number'
+  );
+}
+
+/** Filters out entries that aren't valid SM2Cards from a cards record. */
+export function filterValidCards(cards: Record<string, unknown>): Record<string, SM2Card> {
+  const result: Record<string, SM2Card> = {};
+  for (const [key, value] of Object.entries(cards)) {
+    if (isValidCard(value)) {
+      result[key] = value;
+    }
+  }
+  return result;
+}
+
 export function emptyStore(): ProgressStore {
   return { version: 1, languages: {} };
-}
-
-export function loadProgress(): ProgressStore {
-  try {
-    const raw = localStorage.getItem(STORAGE_KEY);
-    if (!raw) return emptyStore();
-    return JSON.parse(raw) as ProgressStore;
-  } catch {
-    return emptyStore();
-  }
-}
-
-export function saveProgress(store: ProgressStore): void {
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(store));
-}
-
-export function resetProgress(): void {
-  localStorage.removeItem(STORAGE_KEY);
 }
 
 export function updateStreak(store: ProgressStore, lang: string): ProgressStore {

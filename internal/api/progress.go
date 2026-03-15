@@ -40,7 +40,11 @@ func (h *ProgressHandler) Get(w http.ResponseWriter, r *http.Request) {
 			http.Error(w, `{"error":"internal error"}`, http.StatusInternalServerError)
 			return
 		}
-		cards[key] = json.RawMessage(data)
+		raw := json.RawMessage(data)
+		if !json.Valid(raw) {
+			continue
+		}
+		cards[key] = raw
 	}
 
 	// Fetch stats.
@@ -75,6 +79,21 @@ func (h *ProgressHandler) Put(w http.ResponseWriter, r *http.Request) {
 	if err := json.NewDecoder(r.Body).Decode(&body); err != nil {
 		http.Error(w, `{"error":"invalid json"}`, http.StatusBadRequest)
 		return
+	}
+
+	// Validate each card has the required SM2 fields.
+	for key, raw := range body.Cards {
+		var card struct {
+			Due     *string  `json:"due"`
+			Created *string  `json:"created"`
+			EF      *float64 `json:"ease_factor"`
+			Iv      *int     `json:"interval"`
+			Reps    *int     `json:"repetitions"`
+		}
+		if err := json.Unmarshal(raw, &card); err != nil || card.Due == nil || card.Created == nil || card.EF == nil || card.Iv == nil || card.Reps == nil {
+			http.Error(w, `{"error":"invalid card: `+key+`"}`, http.StatusBadRequest)
+			return
+		}
 	}
 
 	tx, err := h.db.Begin()
