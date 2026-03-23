@@ -56,7 +56,7 @@ For **each word**, produce a JSON object matching this schema exactly:
 - Every sentence is in **Turkish only** — no English whatsoever in `text`
 - The target word (in an appropriate inflected form) must appear **in square brackets** `[like this]` in every sentence
 - Sentences should be natural, varied in structure, and showcase different grammatical contexts
-- `note` can contain a brief Turkish grammar observation or be `null`
+- `note` must only add context in the target language (e.g. disambiguation, multiple meanings, grammatical nuance) — **NEVER put a translation in `note`**. If there's nothing to add, use `null`.
 - IDs follow pattern: `{word}_s1`, `{word}_s2`, etc.
 
 **Recall prompts:**
