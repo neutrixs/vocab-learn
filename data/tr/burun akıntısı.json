@@ -1,0 +1,43 @@
+{
+  "word": "burun akıntısı",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "nasal runny nose, nasal mucus",
+  "sentences": [
+    {
+      "id": "burun akıntısı_s1",
+      "text": "Soğuk algınlığında [burun akıntısı] çok ortaya çıkar.",
+      "note": null
+    },
+    {
+      "id": "burun akıntısı_s2",
+      "text": "Çocuğunun [burun akıntısını] silmeliyim.",
+      "note": null
+    },
+    {
+      "id": "burun akıntısı_s3",
+      "text": "[Burun akıntısı] enfeksiyon belirtisidir.",
+      "note": null
+    },
+    {
+      "id": "burun akıntısı_s4",
+      "text": "Alerji [burun akıntısına] neden olabilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "burun akıntısı_r1",
+      "prompt": "Gripte burundan akan sıvı nedir?",
+      "accepted_forms": ["burun akıntısı", "burun akıntısını"],
+      "note": null
+    },
+    {
+      "id": "burun akıntısı_r2",
+      "prompt": "Soğuk algınlığında burundan ne gelir?",
+      "accepted_forms": ["burun akıntısı"],
+      "note": null
+    }
+  ]
+}

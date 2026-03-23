@@ -1,0 +1,43 @@
+{
+  "word": "toksin",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "toxin, poison, toxic substance",
+  "sentences": [
+    {
+      "id": "toksin_s1",
+      "text": "Kimya laboratuarında tehlikeli [toksin] vardır.",
+      "note": null
+    },
+    {
+      "id": "toksin_s2",
+      "text": "İçki, bedenimize zararlı [toksinler] bırakır.",
+      "note": null
+    },
+    {
+      "id": "toksin_s3",
+      "text": "Bazı bitkiler [toksin] içeriyorlar.",
+      "note": null
+    },
+    {
+      "id": "toksin_s4",
+      "text": "Sağlık uzmanları vücuttan [toksinleri] arındırmayı tavsiye eder.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "toksin_r1",
+      "prompt": "İçinde zehir barındıran madde nedir?",
+      "accepted_forms": ["toksin", "toksinler"],
+      "note": null
+    },
+    {
+      "id": "toksin_r2",
+      "prompt": "Organizmanın sağlığını olumsuz etkileyen zehirli madde hangisidir?",
+      "accepted_forms": ["toksin", "toksinler"],
+      "note": null
+    }
+  ]
+}

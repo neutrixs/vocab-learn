@@ -1,0 +1,43 @@
+{
+  "word": "belirti",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "symptom, sign",
+  "sentences": [
+    {
+      "id": "belirti_s1",
+      "text": "Ateş hastalığın ilk [belirtisidir].",
+      "note": null
+    },
+    {
+      "id": "belirti_s2",
+      "text": "Bu [belirtiler] ciddi bir hastalığın işareti olabilir.",
+      "note": null
+    },
+    {
+      "id": "belirti_s3",
+      "text": "Doktor hastalık [belirtilerini] sorguladı.",
+      "note": null
+    },
+    {
+      "id": "belirti_s4",
+      "text": "Baş ağrısı grip [belirtilerinden] birisidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "belirti_r1",
+      "prompt": "Hastalığın varlığını gösteren fiziksel işaret nedir?",
+      "accepted_forms": ["belirti", "belirtisi", "belirtileri"],
+      "note": null
+    },
+    {
+      "id": "belirti_r2",
+      "prompt": "Doktor bir hastalığın tanısını koymak için neye bakar?",
+      "accepted_forms": ["belirti", "belirtileri", "belirtiler"],
+      "note": null
+    }
+  ]
+}

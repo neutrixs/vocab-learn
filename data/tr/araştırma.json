@@ -1,0 +1,43 @@
+{
+  "word": "araştırma",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "research",
+  "sentences": [
+    {
+      "id": "araştırma_s1",
+      "text": "Bu [araştırma] projesi çok önemlidir.",
+      "note": null
+    },
+    {
+      "id": "araştırma_s2",
+      "text": "Bilim insanları yeni bir [araştırma] başladılar.",
+      "note": null
+    },
+    {
+      "id": "araştırma_s3",
+      "text": "[Araştırma] sonuçları merakla bekleniyor.",
+      "note": null
+    },
+    {
+      "id": "araştırma_s4",
+      "text": "Üniversitede [araştırma] yapan pek çok prof vardır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "araştırma_r1",
+      "prompt": "Bilim insanlarının yeni bilgi bulmak için yaptığı çalışma nedir?",
+      "accepted_forms": ["araştırma", "araştırması"],
+      "note": null
+    },
+    {
+      "id": "araştırma_r2",
+      "prompt": "Üniversitelerde bilgi ve bulguları incelemek için yapılan nedir?",
+      "accepted_forms": ["araştırma", "araştırması", "araştırmaları"],
+      "note": null
+    }
+  ]
+}

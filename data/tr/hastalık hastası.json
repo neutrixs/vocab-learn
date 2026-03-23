@@ -1,0 +1,50 @@
+{
+  "word": "hastalık hastası",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "disease patient, one suffering from illness",
+  "sentences": [
+    {
+      "id": "hastalık hastası_s1",
+      "text": "[Hastalık hastası] hastanenin odyumunda bekliyordu.",
+      "note": null
+    },
+    {
+      "id": "hastalık hastası_s2",
+      "text": "Doktor [hastalık hastalarını] tedavi etmek için eğitim aldı.",
+      "note": null
+    },
+    {
+      "id": "hastalık hastası_s3",
+      "text": "[Hastalık hastası] olanlar ilaç almak zorundadırlar.",
+      "note": null
+    },
+    {
+      "id": "hastalık hastası_s4",
+      "text": "Klinikteki [hastalık hastaları] çok sayıydı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hastalık hastası_r1",
+      "prompt": "Hastalığa tutulmuş birinin adı nedir?",
+      "accepted_forms": [
+        "hastalık hastası",
+        "hastalık hastaları",
+        "hastalık hastasının"
+      ],
+      "note": null
+    },
+    {
+      "id": "hastalık hastası_r2",
+      "prompt": "Klinikte birçok ... beklemektedir.",
+      "accepted_forms": [
+        "hastalık hastası",
+        "hastalık hastaları"
+      ],
+      "note": null
+    }
+  ]
+}

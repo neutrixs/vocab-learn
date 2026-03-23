@@ -1,0 +1,52 @@
+{
+  "word": "titremek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to tremble, to shiver",
+  "sentences": [
+    {
+      "id": "titremek_s1",
+      "text": "Çocuk soğuktan [titriyor].",
+      "note": null
+    },
+    {
+      "id": "titremek_s2",
+      "text": "Deprem sırasında bina [titriyor].",
+      "note": null
+    },
+    {
+      "id": "titremek_s3",
+      "text": "Korkudan öğrenci [titremişti].",
+      "note": null
+    },
+    {
+      "id": "titremek_s4",
+      "text": "Kış aylarında yaşlı insanlar soğuktan [titrerler].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "titremek_r1",
+      "prompt": "Çok soğuk hava veya korku nedeniyle vücut hızlı hareketler yaptığında bu fiil ne denir?",
+      "accepted_forms": [
+        "titremek",
+        "titredi",
+        "titriyor",
+        "titredim"
+      ],
+      "note": null
+    },
+    {
+      "id": "titremek_r2",
+      "prompt": "Sıcaklık çok düştüğünde insanlar ... başlarlar.",
+      "accepted_forms": [
+        "titremek",
+        "titreye",
+        "titrecek"
+      ],
+      "note": null
+    }
+  ]
+}

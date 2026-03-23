@@ -1,0 +1,51 @@
+{
+  "word": "iğne",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "needle; injection",
+  "sentences": [
+    {
+      "id": "iğne_s1",
+      "text": "Hemşire hastaya [iğne] vurdu.",
+      "note": null
+    },
+    {
+      "id": "iğne_s2",
+      "text": "[İğne]den korktuğu için çocuk ağlamaya başladı.",
+      "note": null
+    },
+    {
+      "id": "iğne_s3",
+      "text": "Doktor aşı [iğne]sini hazırlamış.",
+      "note": null
+    },
+    {
+      "id": "iğne_s4",
+      "text": "Bu terzi çok ince [iğne]lerle çalışıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "iğne_r1",
+      "prompt": "Hemşire hasta için tıbbi enjeksiyon yapmak için hangi aracı kullanır?",
+      "accepted_forms": [
+        "iğne",
+        "iğneyi",
+        "iğnesi"
+      ],
+      "note": null
+    },
+    {
+      "id": "iğne_r2",
+      "prompt": "... korkan birçok insanın sağlık kontrolleri düzenli olarak yapılmaz.",
+      "accepted_forms": [
+        "iğneden",
+        "iğneye",
+        "iğnenin"
+      ],
+      "note": null
+    }
+  ]
+}

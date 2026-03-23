@@ -1,0 +1,43 @@
+{
+  "word": "gerginlik",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "tension, stress",
+  "sentences": [
+    {
+      "id": "gerginlik_s1",
+      "text": "İş [gerginliği] sağlığa zararlı.",
+      "note": null
+    },
+    {
+      "id": "gerginlik_s2",
+      "text": "[Gerginliğini] azaltmak için meditasyon yapabilirsin.",
+      "note": null
+    },
+    {
+      "id": "gerginlik_s3",
+      "text": "Sınav [gerginliği] sınıf içinde hissediliyordu.",
+      "note": null
+    },
+    {
+      "id": "gerginlik_s4",
+      "text": "[Gerginlik] kasları ağrı verir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gerginlik_r1",
+      "prompt": "Stres ve kaygıdan kaynaklanan duygusal durum nedir?",
+      "accepted_forms": ["gerginlik", "gerginliği"],
+      "note": null
+    },
+    {
+      "id": "gerginlik_r2",
+      "prompt": "Kasların sıkı olduğu fiziksel hali ne diye adlandırırız?",
+      "accepted_forms": ["gerginlik"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "word": "psikolojik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "psychological",
+  "sentences": [
+    {
+      "id": "psikolojik_s1",
+      "text": "[Psikolojik] sorunlar bedensel hastalıklara neden olabilir.",
+      "note": null
+    },
+    {
+      "id": "psikolojik_s2",
+      "text": "Psikolog [psikolojik] danışmanlık sağladı.",
+      "note": null
+    },
+    {
+      "id": "psikolojik_s3",
+      "text": "[Psikolojik] tedavi çoğu zaman terapiyle yapılır.",
+      "note": null
+    },
+    {
+      "id": "psikolojik_s4",
+      "text": "[Psikolojik] stres sağlığa zararlı olabilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "psikolojik_r1",
+      "prompt": "Ruh sağlığı ve zihinsel durumla ilgili olan terim hangisidir?",
+      "accepted_forms": [
+        "psikolojik",
+        "psikolojik",
+        "psikolojiktir"
+      ],
+      "note": null
+    },
+    {
+      "id": "psikolojik_r2",
+      "prompt": "... danışmanlık insanların sorunlarını çözmelerine yardım eder.",
+      "accepted_forms": [
+        "psikolojik",
+        "psikolojik",
+        "psikolojik"
+      ],
+      "note": null
+    }
+  ]
+}

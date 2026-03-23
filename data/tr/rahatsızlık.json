@@ -1,0 +1,51 @@
+{
+  "word": "rahatsızlık",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "discomfort; illness",
+  "sentences": [
+    {
+      "id": "rahatsızlık_s1",
+      "text": "Hastanın [rahatsızlık]ı devam ediyor.",
+      "note": null
+    },
+    {
+      "id": "rahatsızlık_s2",
+      "text": "Doktor [rahatsızlık]ın kaynağını araştırmaya başladı.",
+      "note": null
+    },
+    {
+      "id": "rahatsızlık_s3",
+      "text": "[Rahatsızlık]tan kurtulmak için ilaç aldı.",
+      "note": null
+    },
+    {
+      "id": "rahatsızlık_s4",
+      "text": "Hafif [rahatsızlık] bile gözardı etmemelisiniz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "rahatsızlık_r1",
+      "prompt": "Vücutda hissedilen ağrı, rahatsızlık hissi veya hastalık durumu nedir?",
+      "accepted_forms": [
+        "rahatsızlık",
+        "rahatsızlıkları",
+        "rahatsızlıktan"
+      ],
+      "note": null
+    },
+    {
+      "id": "rahatsızlık_r2",
+      "prompt": "... çoğu zaman ciddiye alınmalıdır.",
+      "accepted_forms": [
+        "rahatsızlık",
+        "rahatsızlıklar",
+        "rahatsızlıkların"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "nezle",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "common cold",
+  "sentences": [
+    {
+      "id": "nezle_s1",
+      "text": "Geçen hafta [nezle] oldum ve iki gün evde kaldım.",
+      "note": null
+    },
+    {
+      "id": "nezle_s2",
+      "text": "[Nezle] olunca genellikle burun akıntısı ve boğaz ağrısı olur.",
+      "note": null
+    },
+    {
+      "id": "nezle_s3",
+      "text": "Kışın sık sık [nezle] olan çocuklar için bol C vitamini önerilir.",
+      "note": null
+    },
+    {
+      "id": "nezle_s4",
+      "text": "Annesi [nezlesi] geçene kadar ona çorba yaptı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "nezle_r1",
+      "prompt": "Soğuk havada ıslanınca ortaya çıkan, burun akıntısı ve hapşırmayla seyreden hastalığa ne denir?",
+      "accepted_forms": ["nezle", "nezleye", "nezlesi"],
+      "note": null
+    },
+    {
+      "id": "nezle_r2",
+      "prompt": "Bugün okula gidemedi çünkü ... olmuş, burnu akıyor ve başı ağrıyor.",
+      "accepted_forms": ["nezle", "nezleye", "nezleli"],
+      "note": null
+    }
+  ]
+}

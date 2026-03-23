@@ -1,0 +1,43 @@
+{
+  "word": "antibiyotik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "antibiotic",
+  "sentences": [
+    {
+      "id": "antibiyotik_s1",
+      "text": "Doktor bana [antibiyotik] reçete etti.",
+      "note": null
+    },
+    {
+      "id": "antibiyotik_s2",
+      "text": "[Antibiyotikler] bakteri enfeksiyonlarını tedavi eder.",
+      "note": null
+    },
+    {
+      "id": "antibiyotik_s3",
+      "text": "Tamamına kadar [antibiyotik] almak önemlidir.",
+      "note": null
+    },
+    {
+      "id": "antibiyotik_s4",
+      "text": "Bu [antibiyotik] çok etkilidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "antibiyotik_r1",
+      "prompt": "Bakteri kaynaklı enfeksiyonları tedavi eden ilaç nedir?",
+      "accepted_forms": ["antibiyotik", "antibiyotikler"],
+      "note": null
+    },
+    {
+      "id": "antibiyotik_r2",
+      "prompt": "Doktor soğuk algınlığına karşı sana ne reçete edebilir?",
+      "accepted_forms": ["antibiyotik", "antibiyotikler"],
+      "note": null
+    }
+  ]
+}

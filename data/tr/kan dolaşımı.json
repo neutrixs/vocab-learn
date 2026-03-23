@@ -1,0 +1,51 @@
+{
+  "word": "kan dolaşımı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "blood circulation",
+  "sentences": [
+    {
+      "id": "kan dolaşımı_s1",
+      "text": "Kalp [kan dolaşımı]nın merkezidir.",
+      "note": null
+    },
+    {
+      "id": "kan dolaşımı_s2",
+      "text": "[Kan dolaşımı]nın iyi olması sağlığın göstergesidir.",
+      "note": null
+    },
+    {
+      "id": "kan dolaşımı_s3",
+      "text": "Soğuk hava [kan dolaşımı]nı zayıflatabilir.",
+      "note": null
+    },
+    {
+      "id": "kan dolaşımı_s4",
+      "text": "Doktor [kan dolaşımı]nda problem olup olmadığını kontrol etmek istedi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kan dolaşımı_r1",
+      "prompt": "Kanın vücut içinde kalp ve damarlar aracılığıyla ilerlemesine ne denir?",
+      "accepted_forms": [
+        "kan dolaşımı",
+        "kan dolaşımı",
+        "kan dolaşımında"
+      ],
+      "note": null
+    },
+    {
+      "id": "kan dolaşımı_r2",
+      "prompt": "Kalp ... sağlamak için devamlı atıyor.",
+      "accepted_forms": [
+        "kan dolaşımı",
+        "kan dolaşımını",
+        "kan dolaşımının"
+      ],
+      "note": null
+    }
+  ]
+}

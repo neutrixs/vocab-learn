@@ -1,0 +1,43 @@
+{
+  "word": "boyut",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "size, dimension",
+  "sentences": [
+    {
+      "id": "boyut_s1",
+      "text": "Bu masanın [boyutu] çok büyüktür.",
+      "note": null
+    },
+    {
+      "id": "boyut_s2",
+      "text": "Küçük ve büyük [boyutlar] vardır.",
+      "note": null
+    },
+    {
+      "id": "boyut_s3",
+      "text": "Yapının [boyutunu] mimarı belirlemiştir.",
+      "note": null
+    },
+    {
+      "id": "boyut_s4",
+      "text": "Bu proje müthiş [boyutlara] ulaştı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "boyut_r1",
+      "prompt": "Bir nesnenin uzunluğu, genişliği ve yüksekliğinin ölçüsü nedir?",
+      "accepted_forms": ["boyut", "boyutu", "boyutlar"],
+      "note": null
+    },
+    {
+      "id": "boyut_r2",
+      "prompt": "Giysi S, M, L gibi seçeneklerine ne denir?",
+      "accepted_forms": ["boyut", "boyutlar"],
+      "note": null
+    }
+  ]
+}

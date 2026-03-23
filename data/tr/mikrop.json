@@ -1,0 +1,51 @@
+{
+  "word": "mikrop",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "microbe; germ",
+  "sentences": [
+    {
+      "id": "mikrop_s1",
+      "text": "Eli yıkamak [mikrop]ları temizler.",
+      "note": null
+    },
+    {
+      "id": "mikrop_s2",
+      "text": "[Mikrop]lar hastalık yayabilir.",
+      "note": null
+    },
+    {
+      "id": "mikrop_s3",
+      "text": "İyi hijyen [mikrop]lardan korur.",
+      "note": null
+    },
+    {
+      "id": "mikrop_s4",
+      "text": "Besin hazırlarken [mikrop]ların bulaşmasına dikkat etmeliyiz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "mikrop_r1",
+      "prompt": "Hastalık yapan çok küçük canlılara ne denir?",
+      "accepted_forms": [
+        "mikrop",
+        "mikroplar",
+        "mikroptan"
+      ],
+      "note": null
+    },
+    {
+      "id": "mikrop_r2",
+      "prompt": "... korunmak için sabunla el yıkayın.",
+      "accepted_forms": [
+        "mikrop",
+        "mikroplardan",
+        "mikroptan"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -44,7 +44,7 @@
     },
     {
       "id": "süreç_r2",
-      "prompt": "Bir iş başvurusunun nasıl ilerlediğini anlatıyorsun. 'Başvuru ___ uzun sürdü.'",
+      "prompt": "Bir iş başvurusunun nasıl ilerlediğini anlatıyorsun. 'Başvuru ... uzun sürdü.'",
       "accepted_forms": [
         "süreci",
         "süreç"

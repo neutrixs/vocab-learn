@@ -1,0 +1,43 @@
+{
+  "word": "akupunktur",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "acupuncture",
+  "sentences": [
+    {
+      "id": "akupunktur_s1",
+      "text": "[Akupunktur], Çin tıbbının eski bir yöntemidir.",
+      "note": null
+    },
+    {
+      "id": "akupunktur_s2",
+      "text": "Çoğu insan [akupunkturu] ağrı tedavisi için kullanır.",
+      "note": null
+    },
+    {
+      "id": "akupunktur_s3",
+      "text": "İyi bir [akupunktur] terapisti çok dikkatli çalışır.",
+      "note": null
+    },
+    {
+      "id": "akupunktur_s4",
+      "text": "Bu kliniklerde [akupunktur] seansları yapılmaktadır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "akupunktur_r1",
+      "prompt": "Çin tıbbında ince iğnelerle uygulanan tedavi yöntemi nedir?",
+      "accepted_forms": ["akupunktur"],
+      "note": null
+    },
+    {
+      "id": "akupunktur_r2",
+      "prompt": "Ağrı ve gerginliği azaltmak için yapılan Doğu tedavisi nedir?",
+      "accepted_forms": ["akupunktur", "akupunkture"],
+      "note": null
+    }
+  ]
+}

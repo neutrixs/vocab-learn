@@ -1,0 +1,51 @@
+{
+  "word": "kusma",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "vomiting",
+  "sentences": [
+    {
+      "id": "kusma_s1",
+      "text": "Çocuk [kusma]dan şikayetçi.",
+      "note": null
+    },
+    {
+      "id": "kusma_s2",
+      "text": "[Kusma] bazen ciddi bir hastalığın işareti olabilir.",
+      "note": null
+    },
+    {
+      "id": "kusma_s3",
+      "text": "Hemşire hastaya [kusma]dan korunması için ilaç verdi.",
+      "note": null
+    },
+    {
+      "id": "kusma_s4",
+      "text": "[Kusma]nın devam etmesi endişe vericidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kusma_r1",
+      "prompt": "Midenin içeriğinin ağız yoluyla dışarı çıkması anlamına gelen tıbbi terim nedir?",
+      "accepted_forms": [
+        "kusma",
+        "kusmadan",
+        "kusmaya"
+      ],
+      "note": null
+    },
+    {
+      "id": "kusma_r2",
+      "prompt": "... kontrol etmek için antiemet ilaç verilir.",
+      "accepted_forms": [
+        "kusma",
+        "kusmayı",
+        "kusmalarını"
+      ],
+      "note": null
+    }
+  ]
+}

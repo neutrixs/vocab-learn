@@ -1,0 +1,43 @@
+{
+  "word": "besin",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "nutrient, food",
+  "sentences": [
+    {
+      "id": "besin_s1",
+      "text": "Meyveler sağlıklı [besinler] içeriyor.",
+      "note": null
+    },
+    {
+      "id": "besin_s2",
+      "text": "Vücut gelişimi için yeterli [besin] almak gerekir.",
+      "note": null
+    },
+    {
+      "id": "besin_s3",
+      "text": "Vitamin ve mineral önemli [besinlerdir].",
+      "note": null
+    },
+    {
+      "id": "besin_s4",
+      "text": "Balık omega-3 [besini] içerir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "besin_r1",
+      "prompt": "Vücut için gerekli olan kalori ve vitamin kaynakları nedir?",
+      "accepted_forms": ["besin", "besinler"],
+      "note": null
+    },
+    {
+      "id": "besin_r2",
+      "prompt": "Sağlıklı beslenme için ne yemek gerekiyor?",
+      "accepted_forms": ["besin", "besinler"],
+      "note": null
+    }
+  ]
+}

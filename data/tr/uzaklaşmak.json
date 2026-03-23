@@ -44,7 +44,7 @@
     },
     {
       "id": "uzaklaşmak_r2",
-      "prompt": "Hava soğuk olunca insanlar dilekçe sisteminden ___.",
+      "prompt": "Hava soğuk olunca insanlar dilekçe sisteminden ....",
       "accepted_forms": [
         "uzaklaşıyor",
         "uzaklaştı",

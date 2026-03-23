@@ -1,0 +1,51 @@
+{
+  "word": "mide",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "stomach",
+  "sentences": [
+    {
+      "id": "mide_s1",
+      "text": "[Mide] hastalığı dolayısıyla doktora gitti.",
+      "note": null
+    },
+    {
+      "id": "mide_s2",
+      "text": "Yemekten sonra [mide]si ağrımaya başladı.",
+      "note": null
+    },
+    {
+      "id": "mide_s3",
+      "text": "[Mide]niz boş olduğunda hiçbir şey yemeyin.",
+      "note": null
+    },
+    {
+      "id": "mide_s4",
+      "text": "Doktor [mide] spazmını kontrol etmek için ilaç önerdi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "mide_r1",
+      "prompt": "Yemek yenince onu sindiren organ hangisidir?",
+      "accepted_forms": [
+        "mide",
+        "midesinde",
+        "midesini"
+      ],
+      "note": null
+    },
+    {
+      "id": "mide_r2",
+      "prompt": "... ağrısı yemediğiniz şeylerden kaynaklanabilir.",
+      "accepted_forms": [
+        "mide",
+        "midesinin",
+        "midesinde"
+      ],
+      "note": null
+    }
+  ]
+}

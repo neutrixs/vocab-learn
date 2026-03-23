@@ -1,0 +1,43 @@
+{
+  "word": "çoğalmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to increase, to multiply, to reproduce, to proliferate",
+  "sentences": [
+    {
+      "id": "çoğalmak_s1",
+      "text": "Nüfus hızla [çoğalıyor].",
+      "note": null
+    },
+    {
+      "id": "çoğalmak_s2",
+      "text": "Tavşanlar çabuk [çoğalıyor].",
+      "note": null
+    },
+    {
+      "id": "çoğalmak_s3",
+      "text": "Sorunlar [çoğaldı].",
+      "note": null
+    },
+    {
+      "id": "çoğalmak_s4",
+      "text": "Bakteri kolayca [çoğalabilir].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çoğalmak_r1",
+      "prompt": "Sayı ve miktar gittikçe artmak hangisiyle tanımlanır?",
+      "accepted_forms": ["çoğalmak", "çoğalıyor", "çoğaldı"],
+      "note": null
+    },
+    {
+      "id": "çoğalmak_r2",
+      "prompt": "Canlı bir üreme yoluyla sayılarını artırmak hangisidir?",
+      "accepted_forms": ["çoğalmak", "çoğalabilir"],
+      "note": null
+    }
+  ]
+}

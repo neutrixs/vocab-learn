@@ -1,0 +1,51 @@
+{
+  "word": "mikroskop",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "microscope",
+  "sentences": [
+    {
+      "id": "mikroskop_s1",
+      "text": "Laboratuvarda [mikroskop]lar kullanılır.",
+      "note": null
+    },
+    {
+      "id": "mikroskop_s2",
+      "text": "Doktor hasta örneğini [mikroskop]la inceledi.",
+      "note": null
+    },
+    {
+      "id": "mikroskop_s3",
+      "text": "[Mikroskop] sayesinde mikroplar görülür.",
+      "note": null
+    },
+    {
+      "id": "mikroskop_s4",
+      "text": "Tıp okulu öğrencileri [mikroskop] kullanmayı öğrenirler.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "mikroskop_r1",
+      "prompt": "Çok küçük şeyleri büyüterek görmemizi sağlayan araç nedir?",
+      "accepted_forms": [
+        "mikroskop",
+        "mikroskopla",
+        "mikroskobun"
+      ],
+      "note": null
+    },
+    {
+      "id": "mikroskop_r2",
+      "prompt": "Doktor örneği ... incelemelidir.",
+      "accepted_forms": [
+        "mikroskop",
+        "mikroskopla",
+        "mikroskopla"
+      ],
+      "note": null
+    }
+  ]
+}

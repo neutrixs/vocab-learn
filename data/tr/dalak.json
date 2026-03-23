@@ -1,0 +1,43 @@
+{
+  "word": "dalak",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "spleen",
+  "sentences": [
+    {
+      "id": "dalak_s1",
+      "text": "[Dalak] lenfoid bir organdır.",
+      "note": null
+    },
+    {
+      "id": "dalak_s2",
+      "text": "Doktor [dalağını] muayene etti.",
+      "note": null
+    },
+    {
+      "id": "dalak_s3",
+      "text": "[Dalak] kan hücrelerini filtre eder.",
+      "note": null
+    },
+    {
+      "id": "dalak_s4",
+      "text": "Travma [dalağa] zarar verebilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dalak_r1",
+      "prompt": "Kan hücrelerini filtre eden ve bağışıklık sisteminin parçası olan organ nedir?",
+      "accepted_forms": ["dalak", "dalağını"],
+      "note": null
+    },
+    {
+      "id": "dalak_r2",
+      "prompt": "Eski kanlı hücrelerini kaldıran organ nedir?",
+      "accepted_forms": ["dalak"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "word": "öğün",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "meal",
+  "sentences": [
+    {
+      "id": "öğün_s1",
+      "text": "Günde üç [öğün] yemek sağlıklı yaşamın temelini oluşturur.",
+      "note": null
+    },
+    {
+      "id": "öğün_s2",
+      "text": "Sabah [öğün]ünü kaçırmayın.",
+      "note": null
+    },
+    {
+      "id": "öğün_s3",
+      "text": "[Öğün]ler arasında iki saat oturmalıdır.",
+      "note": null
+    },
+    {
+      "id": "öğün_s4",
+      "text": "Sağlıklı [öğün]ler vücut için güç kaynağıdır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "öğün_r1",
+      "prompt": "Günün bir zamanında yapılan yemek nedir?",
+      "accepted_forms": [
+        "öğün",
+        "öğünü",
+        "öğünün"
+      ],
+      "note": null
+    },
+    {
+      "id": "öğün_r2",
+      "prompt": "Sağlıklı ... beslenmenin önemli parçasıdır.",
+      "accepted_forms": [
+        "öğün",
+        "öğünler",
+        "öğünün"
+      ],
+      "note": null
+    }
+  ]
+}

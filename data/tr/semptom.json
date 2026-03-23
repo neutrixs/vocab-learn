@@ -1,0 +1,43 @@
+{
+  "word": "semptom",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "symptom, sign, indication",
+  "sentences": [
+    {
+      "id": "semptom_s1",
+      "text": "Ateş hastalığın ilk [semptomudur].",
+      "note": null
+    },
+    {
+      "id": "semptom_s2",
+      "text": "Doktor [semptomları] dinledikten sonra tanı koydu.",
+      "note": null
+    },
+    {
+      "id": "semptom_s3",
+      "text": "Baş ağrısı grip [semptomlarından] biridir.",
+      "note": null
+    },
+    {
+      "id": "semptom_s4",
+      "text": "[Semptomlar] belirtilir belirtilmez hemen doktora gitmelisiniz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "semptom_r1",
+      "prompt": "Hastalığın işaretleri ve belirtileri için ne denir?",
+      "accepted_forms": ["semptom", "semptomlar"],
+      "note": null
+    },
+    {
+      "id": "semptom_r2",
+      "prompt": "Tıbbi tanı konuşmasında hastalık göstergeleri nereye girer?",
+      "accepted_forms": ["semptom", "semptomlar"],
+      "note": null
+    }
+  ]
+}

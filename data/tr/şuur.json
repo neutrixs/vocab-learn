@@ -1,0 +1,43 @@
+{
+  "word": "şuur",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "consciousness, awareness, conscience",
+  "sentences": [
+    {
+      "id": "şuur_s1",
+      "text": "Hastanın [şuuru] açıldı, iyileşiyor.",
+      "note": null
+    },
+    {
+      "id": "şuur_s2",
+      "text": "[Şuuru] olmayan kişi dış dünyayı algılayamaz.",
+      "note": null
+    },
+    {
+      "id": "şuur_s3",
+      "text": "Çocuk [şuurunu] toplamaya ve konuşmaya başladı.",
+      "note": null
+    },
+    {
+      "id": "şuur_s4",
+      "text": "İnsan etkin bir [şuur] ile yaşamalı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şuur_r1",
+      "prompt": "Birinin farkında olma ve tepki verme durumuna ne denir?",
+      "accepted_forms": ["şuur", "şuurunu"],
+      "note": null
+    },
+    {
+      "id": "şuur_r2",
+      "prompt": "Uykudan uyandığında geri gelen ne?",
+      "accepted_forms": ["şuur"],
+      "note": null
+    }
+  ]
+}

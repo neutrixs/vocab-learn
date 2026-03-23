@@ -1,0 +1,43 @@
+{
+  "word": "havale (ateşli hastalık)",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "relapsing fever, recurrent fever",
+  "sentences": [
+    {
+      "id": "havale (ateşli hastalık)_s1",
+      "text": "[Havale] konak böceğiyle bulaşır.",
+      "note": null
+    },
+    {
+      "id": "havale (ateşli hastalık)_s2",
+      "text": "[Havalede] yüksek ateş dönemler arasında düşer.",
+      "note": null
+    },
+    {
+      "id": "havale (ateşli hastalık)_s3",
+      "text": "Tarih boyunca [havale] çok insanı öldürdü.",
+      "note": null
+    },
+    {
+      "id": "havale (ateşli hastalık)_s4",
+      "text": "[Havale] spiroketa bakterisiyle neden olunur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "havale (ateşli hastalık)_r1",
+      "prompt": "Bit ve pireler tarafından taşınan ve ateşin aralıklı olarak göründüğü hastalık nedir?",
+      "accepted_forms": ["havale"],
+      "note": null
+    },
+    {
+      "id": "havale (ateşli hastalık)_r2",
+      "prompt": "Parazitik hastalık olarak ateş dönemleri arasında iyileşme gösteren hastalık nedir?",
+      "accepted_forms": ["havale"],
+      "note": null
+    }
+  ]
+}

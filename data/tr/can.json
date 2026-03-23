@@ -1,0 +1,49 @@
+{
+  "word": "can",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "soul, life",
+  "sentences": [
+    {
+      "id": "can_s1",
+      "text": "Savaşta birçok [can] kaybı oldu.",
+      "note": null
+    },
+    {
+      "id": "can_s2",
+      "text": "[Canımız] çok kıymetlidir.",
+      "note": null
+    },
+    {
+      "id": "can_s3",
+      "text": "O onu [canından] çok seviyor.",
+      "note": null
+    },
+    {
+      "id": "can_s4",
+      "text": "Güvenlik [canımızı] korur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "can_r1",
+      "prompt": "Kişinin yaşamı ne denir?",
+      "accepted_forms": [
+        "can",
+        "canı",
+        "canımız"
+      ],
+      "note": null
+    },
+    {
+      "id": "can_r2",
+      "prompt": "Şehadet sözlerinde söylenen 'La ilaha illallah vala ... kıymetli' kelimesi nedir?",
+      "accepted_forms": [
+        "can"
+      ],
+      "note": null
+    }
+  ]
+}

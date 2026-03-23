@@ -1,0 +1,51 @@
+{
+  "word": "katkı maddesi",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "additive, food additive",
+  "sentences": [
+    {
+      "id": "katkı maddesi_s1",
+      "text": "Bu üründe birçok [katkı maddesi] vardır.",
+      "note": null
+    },
+    {
+      "id": "katkı maddesi_s2",
+      "text": "[Katkı maddeleri] gıdaların tadını ve rengini korur.",
+      "note": null
+    },
+    {
+      "id": "katkı maddesi_s3",
+      "text": "Doktor fazla [katkı maddesi] içeren yiyeceklerden kaçınılmasını önerdi.",
+      "note": null
+    },
+    {
+      "id": "katkı maddesi_s4",
+      "text": "Organik ürünlerde [katkı maddesi] yoktur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "katkı maddesi_r1",
+      "prompt": "Gıdaların dayanıklılığı veya renk korunması için eklenen kimyasal madde ne denir?",
+      "accepted_forms": [
+        "katkı maddesi",
+        "katkı maddeleri",
+        "katkı maddesinin"
+      ],
+      "note": null
+    },
+    {
+      "id": "katkı maddesi_r2",
+      "prompt": "Sağlık bilinçli insanlar ... az olan yiyecekler tercih ederler.",
+      "accepted_forms": [
+        "katkı maddesi",
+        "katkı maddeleri",
+        "katkı maddelerinin"
+      ],
+      "note": null
+    }
+  ]
+}

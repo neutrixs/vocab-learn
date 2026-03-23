@@ -1,0 +1,43 @@
+{
+  "word": "çürük",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "rotten, decayed",
+  "sentences": [
+    {
+      "id": "çürük_s1",
+      "text": "Bu meyve [çürüktür].",
+      "note": null
+    },
+    {
+      "id": "çürük_s2",
+      "text": "[Çürük] diş çekilmesi gerekir.",
+      "note": null
+    },
+    {
+      "id": "çürük_s3",
+      "text": "Eski ahşap [çürük] hale gelir.",
+      "note": null
+    },
+    {
+      "id": "çürük_s4",
+      "text": "[Çürük] yumurta pis kokabilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çürük_r1",
+      "prompt": "Zamanla bozulmuş ve kötü hale gelen gıda ne diye adlandırılır?",
+      "accepted_forms": ["çürük", "çürüktür"],
+      "note": null
+    },
+    {
+      "id": "çürük_r2",
+      "prompt": "Diş hekimi çıkarmak istediği diş nasıldır?",
+      "accepted_forms": ["çürük", "çürüktür"],
+      "note": null
+    }
+  ]
+}

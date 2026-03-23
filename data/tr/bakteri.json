@@ -1,0 +1,43 @@
+{
+  "word": "bakteri",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "bacterium, bacteria",
+  "sentences": [
+    {
+      "id": "bakteri_s1",
+      "text": "[Bakteriler] enfeksiyonlara neden olabilir.",
+      "note": null
+    },
+    {
+      "id": "bakteri_s2",
+      "text": "Temiz su [bakteri] içermemelidir.",
+      "note": null
+    },
+    {
+      "id": "bakteri_s3",
+      "text": "[Bakteri] ile savaşmak için antibiyotik kullanılır.",
+      "note": null
+    },
+    {
+      "id": "bakteri_s4",
+      "text": "Mikroskop olmadan [bakteri] göremeyiz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bakteri_r1",
+      "prompt": "Enfeksiyon hastalıklarına neden olan çok küçük organizmaları nedir?",
+      "accepted_forms": ["bakteri", "bakteriler"],
+      "note": null
+    },
+    {
+      "id": "bakteri_r2",
+      "prompt": "Mikroskop altında görülebilen tek hücreli organizmalar nedir?",
+      "accepted_forms": ["bakteri", "bakteriler"],
+      "note": null
+    }
+  ]
+}

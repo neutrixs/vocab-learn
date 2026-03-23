@@ -1,0 +1,51 @@
+{
+  "word": "obsesif",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "adjective",
+  "english_gloss": "obsessive",
+  "sentences": [
+    {
+      "id": "obsesif_s1",
+      "text": "Terapist [obsesif] davranışlardan kurtulmayı öğretti.",
+      "note": null
+    },
+    {
+      "id": "obsesif_s2",
+      "text": "[Obsesif] kompülsif bozukluk tedavi gerektir.",
+      "note": null
+    },
+    {
+      "id": "obsesif_s3",
+      "text": "Hastanın [obsesif] düşünceleri onu rahatsız ediyor.",
+      "note": null
+    },
+    {
+      "id": "obsesif_s4",
+      "text": "[Obsesif] davranışlar kişinin yaşam kalitesini azaltabilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "obsesif_r1",
+      "prompt": "Sürekli tekrar eden ve kişinin kontrolünde olmayan düşünce veya davranışla ilgili terim nedir?",
+      "accepted_forms": [
+        "obsesif",
+        "obsesif",
+        "obsesifdir"
+      ],
+      "note": null
+    },
+    {
+      "id": "obsesif_r2",
+      "prompt": "... bozukluk psikiyatrik tedavi gerektirir.",
+      "accepted_forms": [
+        "obsesif",
+        "obsesifin",
+        "obsesif"
+      ],
+      "note": null
+    }
+  ]
+}

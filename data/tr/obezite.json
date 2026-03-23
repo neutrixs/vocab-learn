@@ -1,0 +1,51 @@
+{
+  "word": "obezite",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "obesity",
+  "sentences": [
+    {
+      "id": "obezite_s1",
+      "text": "[Obezite] modern zamanların hastalığıdır.",
+      "note": null
+    },
+    {
+      "id": "obezite_s2",
+      "text": "[Obezite]den kurtulmak diyeti gerektirir.",
+      "note": null
+    },
+    {
+      "id": "obezite_s3",
+      "text": "Doktor [obezite]nin çeşitli sağlık riskleri hakkında uyardı.",
+      "note": null
+    },
+    {
+      "id": "obezite_s4",
+      "text": "[Obezite]yi önlemek için sağlıklı yaşamak şarttır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "obezite_r1",
+      "prompt": "Kişinin aşırı kilolu ve sağlıksız bir durumda olması nedir?",
+      "accepted_forms": [
+        "obezite",
+        "obezitesi",
+        "obezitenin"
+      ],
+      "note": null
+    },
+    {
+      "id": "obezite_r2",
+      "prompt": "... ve diyabet arasında sıkı bir ilişki vardır.",
+      "accepted_forms": [
+        "obezite",
+        "obezitenin",
+        "obezite"
+      ],
+      "note": null
+    }
+  ]
+}

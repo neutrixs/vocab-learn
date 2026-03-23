@@ -1,0 +1,43 @@
+{
+  "word": "solunum",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "breathing, respiration",
+  "sentences": [
+    {
+      "id": "solunum_s1",
+      "text": "[Solunum] yapması zor bir hastalığı var.",
+      "note": null
+    },
+    {
+      "id": "solunum_s2",
+      "text": "Derin [solunum] yaparak rahatlamaya çalış.",
+      "note": null
+    },
+    {
+      "id": "solunum_s3",
+      "text": "Spor sırasında [solunum] hızlanır.",
+      "note": null
+    },
+    {
+      "id": "solunum_s4",
+      "text": "Hava kirliliği [solunum] sorunlarına neden oluyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "solunum_r1",
+      "prompt": "Akciğerlerin hava alıp verme işlemine ne denir?",
+      "accepted_forms": ["solunum"],
+      "note": null
+    },
+    {
+      "id": "solunum_r2",
+      "prompt": "Nefes almak ve vermek işlemi hangi kelimeyle tanımlanır?",
+      "accepted_forms": ["solunum"],
+      "note": null
+    }
+  ]
+}

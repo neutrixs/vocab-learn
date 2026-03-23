@@ -1,0 +1,43 @@
+{
+  "word": "bulaşıcı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "contagious, infectious",
+  "sentences": [
+    {
+      "id": "bulaşıcı_s1",
+      "text": "Grip çok [bulaşıcı] bir hastalıktır.",
+      "note": null
+    },
+    {
+      "id": "bulaşıcı_s2",
+      "text": "[Bulaşıcı] hastalıklar kolayca yayılır.",
+      "note": null
+    },
+    {
+      "id": "bulaşıcı_s3",
+      "text": "Kovid-19 [bulaşıcı] bir hastalıktı.",
+      "note": null
+    },
+    {
+      "id": "bulaşıcı_s4",
+      "text": "[Bulaşıcı] hastalığa yakalananlar izole edilmelidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bulaşıcı_r1",
+      "prompt": "Bir kişiden diğerine kolayca geçen hastalık türü nedir?",
+      "accepted_forms": ["bulaşıcı"],
+      "note": null
+    },
+    {
+      "id": "bulaşıcı_r2",
+      "prompt": "Öksürük ve hapşırıkla yayılan hastalıklar ne diye adlandırılır?",
+      "accepted_forms": ["bulaşıcı"],
+      "note": null
+    }
+  ]
+}

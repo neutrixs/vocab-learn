@@ -1,0 +1,51 @@
+{
+  "word": "karaciğer",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "liver",
+  "sentences": [
+    {
+      "id": "karaciğer_s1",
+      "text": "[Karaciğer] vücudun önemli organlarından biridir.",
+      "note": null
+    },
+    {
+      "id": "karaciğer_s2",
+      "text": "Aşırı alkol [karaciğer]i hasar verebilir.",
+      "note": null
+    },
+    {
+      "id": "karaciğer_s3",
+      "text": "Doktor kan testinde [karaciğer] fonksiyonlarını kontrol etti.",
+      "note": null
+    },
+    {
+      "id": "karaciğer_s4",
+      "text": "[Karaciğer] hastalığı tedavi edilmeyi gerektir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "karaciğer_r1",
+      "prompt": "Vücutta toksinleri temizleme ve sindirimi yardımcı olan organ hangisidir?",
+      "accepted_forms": [
+        "karaciğer",
+        "karaciğerin",
+        "karaciğeri"
+      ],
+      "note": null
+    },
+    {
+      "id": "karaciğer_r2",
+      "prompt": "... sağlığı yaşam kalitesi için önemlidir.",
+      "accepted_forms": [
+        "karaciğer",
+        "karaciğerin",
+        "karaciğerin"
+      ],
+      "note": null
+    }
+  ]
+}

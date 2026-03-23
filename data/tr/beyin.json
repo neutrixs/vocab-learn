@@ -1,0 +1,43 @@
+{
+  "word": "beyin",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "brain",
+  "sentences": [
+    {
+      "id": "beyin_s1",
+      "text": "[Beyin] insan vücudunun en önemli organıdır.",
+      "note": null
+    },
+    {
+      "id": "beyin_s2",
+      "text": "Düşünme ve anı [beyinde] gerçekleşir.",
+      "note": null
+    },
+    {
+      "id": "beyin_s3",
+      "text": "Başa güçlü bir darbe [beyine] zarar verebilir.",
+      "note": null
+    },
+    {
+      "id": "beyin_s4",
+      "text": "[Beynini] çok kullandığında yorgun hissettin.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "beyin_r1",
+      "prompt": "Düşünme, hafıza ve bilinç nerede yer almaktadır?",
+      "accepted_forms": ["beyin", "beyinde", "beyinin"],
+      "note": null
+    },
+    {
+      "id": "beyin_r2",
+      "prompt": "Merkezi sinir sisteminin ana kontrolü nedir?",
+      "accepted_forms": ["beyin", "beyinde"],
+      "note": null
+    }
+  ]
+}

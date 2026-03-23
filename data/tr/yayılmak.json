@@ -1,0 +1,52 @@
+{
+  "word": "yayılmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to spread, to extend",
+  "sentences": [
+    {
+      "id": "yayılmak_s1",
+      "text": "Hastalık şehir genelinde [yayıldı].",
+      "note": null
+    },
+    {
+      "id": "yayılmak_s2",
+      "text": "Yangın çok hızlı [yayılıyor].",
+      "note": null
+    },
+    {
+      "id": "yayılmak_s3",
+      "text": "Şayia ülke çapında [yayılmıştır].",
+      "note": null
+    },
+    {
+      "id": "yayılmak_s4",
+      "text": "Ormandaki ot yangın sırasında [yayılacak].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yayılmak_r1",
+      "prompt": "Bir hastalık veya olumsuz haber geniş bir bölgeye dağıldığında hangi fiil kullanılır?",
+      "accepted_forms": [
+        "yayılmak",
+        "yayıldı",
+        "yayılıyor",
+        "yayıldım"
+      ],
+      "note": null
+    },
+    {
+      "id": "yayılmak_r2",
+      "prompt": "Sosyal medyada dedikodu hızlı ... çok kötü bir durum.",
+      "accepted_forms": [
+        "yayılmak",
+        "yayılır",
+        "yayılabilir"
+      ],
+      "note": null
+    }
+  ]
+}

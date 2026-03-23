@@ -1,0 +1,51 @@
+{
+  "word": "ishal",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "diarrhea",
+  "sentences": [
+    {
+      "id": "ishal_s1",
+      "text": "Saydığında [ishal] sorunları yaşadı.",
+      "note": null
+    },
+    {
+      "id": "ishal_s2",
+      "text": "Kirli su [ishal]a neden olabilir.",
+      "note": null
+    },
+    {
+      "id": "ishal_s3",
+      "text": "[İshal] birkaç gün içinde geçmesi bekleniyor.",
+      "note": null
+    },
+    {
+      "id": "ishal_s4",
+      "text": "Doktor [ishal] için probiyotik önerdi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ishal_r1",
+      "prompt": "Bağırsakların sıvı dışkı salgılama durumuna ne ad verilir?",
+      "accepted_forms": [
+        "ishal",
+        "ishal",
+        "ishalı"
+      ],
+      "note": null
+    },
+    {
+      "id": "ishal_r2",
+      "prompt": "Yolda kirli yemek yemek ... neden olabilir.",
+      "accepted_forms": [
+        "ishal",
+        "ishale",
+        "ishale"
+      ],
+      "note": null
+    }
+  ]
+}

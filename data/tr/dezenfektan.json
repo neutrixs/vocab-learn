@@ -1,0 +1,43 @@
+{
+  "word": "dezenfektan",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "disinfectant",
+  "sentences": [
+    {
+      "id": "dezenfektan_s1",
+      "text": "[Dezenfektan] hepsi öldürür.",
+      "note": null
+    },
+    {
+      "id": "dezenfektan_s2",
+      "text": "Ellerde [dezenfektan] kullanabiliriz.",
+      "note": null
+    },
+    {
+      "id": "dezenfektan_s3",
+      "text": "[Dezenfektanlar] virüs ve bakteri öldürür.",
+      "note": null
+    },
+    {
+      "id": "dezenfektan_s4",
+      "text": "Hastane [dezenfektan] ile temizlenir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dezenfektan_r1",
+      "prompt": "Bakteri ve virüsleri öldürmek için kullanılan kimyasal madde nedir?",
+      "accepted_forms": ["dezenfektan", "dezenfektanlar"],
+      "note": null
+    },
+    {
+      "id": "dezenfektan_r2",
+      "prompt": "Coronvirus öldürmek için ne kullanabiliriz?",
+      "accepted_forms": ["dezenfektan", "dezenfektanlar"],
+      "note": null
+    }
+  ]
+}

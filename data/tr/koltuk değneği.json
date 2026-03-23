@@ -1,0 +1,51 @@
+{
+  "word": "koltuk değneği",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "crutch",
+  "sentences": [
+    {
+      "id": "koltuk değneği_s1",
+      "text": "Bacağı kırık olduğu için [koltuk değneği]ni kullandı.",
+      "note": null
+    },
+    {
+      "id": "koltuk değneği_s2",
+      "text": "Hasta [koltuk değneği]yle hastaneyi dolaştı.",
+      "note": null
+    },
+    {
+      "id": "koltuk değneği_s3",
+      "text": "[Koltuk değneği]nin boyu hastaya uygun ayarlanmalıdır.",
+      "note": null
+    },
+    {
+      "id": "koltuk değneği_s4",
+      "text": "Ebe [koltuk değneği]ni hastaya verdi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "koltuk değneği_r1",
+      "prompt": "Bacağında sorun olan veya yaşlı insanlar hareket ederken hangi aracı kullanırlar?",
+      "accepted_forms": [
+        "koltuk değneği",
+        "koltuk değneğini",
+        "koltuk değneğinin"
+      ],
+      "note": null
+    },
+    {
+      "id": "koltuk değneği_r2",
+      "prompt": "... yürüyüş yapmak şartlı kalıp alışkanlık gerektiriyor.",
+      "accepted_forms": [
+        "koltuk değneği",
+        "koltuk değneğiyle",
+        "koltuk değneğin"
+      ],
+      "note": null
+    }
+  ]
+}

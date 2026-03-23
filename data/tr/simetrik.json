@@ -1,0 +1,43 @@
+{
+  "word": "simetrik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "symmetric, balanced, proportional",
+  "sentences": [
+    {
+      "id": "simetrik_s1",
+      "text": "Bu binaya yapısı çok [simetrik].",
+      "note": null
+    },
+    {
+      "id": "simetrik_s2",
+      "text": "Kelebek kanatları [simetrik] desen gösterir.",
+      "note": null
+    },
+    {
+      "id": "simetrik_s3",
+      "text": "Matematik dersi [simetrik] şekilleri öğretiyor.",
+      "note": null
+    },
+    {
+      "id": "simetrik_s4",
+      "text": "[Simetrik] bir yüz güzelliğin göstergesi kabul edilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "simetrik_r1",
+      "prompt": "Her iki tarafı eşit ve dengeli olan nedir?",
+      "accepted_forms": ["simetrik"],
+      "note": null
+    },
+    {
+      "id": "simetrik_r2",
+      "prompt": "Merkez çizginin her iki yanında aynı olan duruma ne denir?",
+      "accepted_forms": ["simetrik"],
+      "note": null
+    }
+  ]
+}

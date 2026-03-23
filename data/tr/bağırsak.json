@@ -1,0 +1,43 @@
+{
+  "word": "bağırsak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "intestine",
+  "sentences": [
+    {
+      "id": "bağırsak_s1",
+      "text": "Besinler [bağırsakta] sindirilir.",
+      "note": null
+    },
+    {
+      "id": "bağırsak_s2",
+      "text": "Doktor hasatanın [bağırsağını] muayene etti.",
+      "note": null
+    },
+    {
+      "id": "bağırsak_s3",
+      "text": "[Bağırsaklarında] ağrı olan hasta hastaneye gitti.",
+      "note": null
+    },
+    {
+      "id": "bağırsak_s4",
+      "text": "Sağlıklı [bağırsaklar] genel sağlık için önemlidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bağırsak_r1",
+      "prompt": "Sindirim sisteminde besinleri işleyen organ nedir?",
+      "accepted_forms": ["bağırsak", "bağırsaklar", "bağırsakta"],
+      "note": null
+    },
+    {
+      "id": "bağırsak_r2",
+      "prompt": "Su ve besin emiliminin gerçekleştiği ince ve kalın ne vardır?",
+      "accepted_forms": ["bağırsak", "bağırsaklar"],
+      "note": null
+    }
+  ]
+}

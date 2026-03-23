@@ -1,0 +1,43 @@
+{
+  "word": "sır",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "secret, mystery, confidential matter",
+  "sentences": [
+    {
+      "id": "sır_s1",
+      "text": "Bu [sırı] kimseye söyleme, sadece benim bildiğim.",
+      "note": null
+    },
+    {
+      "id": "sır_s2",
+      "text": "Arkadaşım bana önemli bir [sır] saklıyor.",
+      "note": null
+    },
+    {
+      "id": "sır_s3",
+      "text": "[Sırlar] güven ve bağlılığın temeli.",
+      "note": null
+    },
+    {
+      "id": "sır_s4",
+      "text": "Bu ürünün başarısının [sırı] kalitede yatıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sır_r1",
+      "prompt": "Başkasına söylenmemesi gereken gizli bilgi nedir?",
+      "accepted_forms": ["sır", "sırını", "sırımı"],
+      "note": null
+    },
+    {
+      "id": "sır_r2",
+      "prompt": "Kapalı ve öğrenilmemiş şey hangisiyle tanımlanır?",
+      "accepted_forms": ["sır", "sırları"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "yara",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "wound, injury, sore",
+  "sentences": [
+    {
+      "id": "yara_s1",
+      "text": "Diken [yarasını] dezenfektan ile temizledim.",
+      "note": null
+    },
+    {
+      "id": "yara_s2",
+      "text": "Çocuğun kafa [yarası] kan akıtıyor.",
+      "note": null
+    },
+    {
+      "id": "yara_s3",
+      "text": "[Yarayı] bandaj ile sarmalı.",
+      "note": null
+    },
+    {
+      "id": "yara_s4",
+      "text": "Zaman [yaraları] iyileştirir.",
+      "note": "Spiritual meaning: time heals emotional wounds."
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yara_r1",
+      "prompt": "Kesik veya çizilmek sonucu vücutta oluşan hasarlanmaya ne denir?",
+      "accepted_forms": ["yara", "yarası"],
+      "note": null
+    },
+    {
+      "id": "yara_r2",
+      "prompt": "Deri kırılıp kan akması ile meydana gelen nedir?",
+      "accepted_forms": ["yara", "yaraları"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "word": "iltihap",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "inflammation; infection",
+  "sentences": [
+    {
+      "id": "iltihap_s1",
+      "text": "Dikişin etrafında [iltihap] belirtileri başlamıştır.",
+      "note": null
+    },
+    {
+      "id": "iltihap_s2",
+      "text": "Doktor boğaz [iltihab]ını kontrol etti.",
+      "note": null
+    },
+    {
+      "id": "iltihap_s3",
+      "text": "[İltihap]tan kurtulmak için antibiyotik kullanılır.",
+      "note": null
+    },
+    {
+      "id": "iltihap_s4",
+      "text": "Çocukta [iltihap] bulguları gözlendi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "iltihap_r1",
+      "prompt": "Enfeksiyon sonucu vücudun bir bölgesinde meydana gelen şişkinlik ve kızarıklık durumuna ne denir?",
+      "accepted_forms": [
+        "iltihap",
+        "iltihaplar",
+        "iltihabı"
+      ],
+      "note": null
+    },
+    {
+      "id": "iltihap_r2",
+      "prompt": "Dikişte ... varsa doktor antibiyotik reçete edebilir.",
+      "accepted_forms": [
+        "iltihap",
+        "iltihabı",
+        "iltihabının"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "word": "yaralanmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to get injured, to be wounded",
+  "sentences": [
+    {
+      "id": "yaralanmak_s1",
+      "text": "Oyuncu ayağından [yaralandı].",
+      "note": null
+    },
+    {
+      "id": "yaralanmak_s2",
+      "text": "Kaza sırasında birçok insan [yaralandı].",
+      "note": null
+    },
+    {
+      "id": "yaralanmak_s3",
+      "text": "Çocuk oyuncu sahasında ağır [yaralanabilir].",
+      "note": null
+    },
+    {
+      "id": "yaralanmak_s4",
+      "text": "Savaşta askerlerin pek çoğu [yaralanmıştı].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yaralanmak_r1",
+      "prompt": "Duyar ve kanama olmak anlamına gelen fiil hangisi?",
+      "accepted_forms": [
+        "yaralanmak",
+        "yaralandı",
+        "yaralanıyor",
+        "yaralandım"
+      ],
+      "note": null
+    },
+    {
+      "id": "yaralanmak_r2",
+      "prompt": "Kazada dört kişi ... ve hastaneye gitti.",
+      "accepted_forms": [
+        "yaralanmak",
+        "yaralandı",
+        "yaralandılar"
+      ],
+      "note": null
+    }
+  ]
+}

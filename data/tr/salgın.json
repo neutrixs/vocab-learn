@@ -1,0 +1,43 @@
+{
+  "word": "salgın",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "epidemic, outbreak, infectious disease",
+  "sentences": [
+    {
+      "id": "salgın_s1",
+      "text": "COVID-19 [salgını] tüm dünyayı etkiledi.",
+      "note": null
+    },
+    {
+      "id": "salgın_s2",
+      "text": "[Salgın] hastalıktan korunmak için temizliğe dikkat etmeliyiz.",
+      "note": null
+    },
+    {
+      "id": "salgın_s3",
+      "text": "Bu şehirde grip [salgını] başladı.",
+      "note": null
+    },
+    {
+      "id": "salgın_s4",
+      "text": "Hükümet [salgını] kontrol altına almak için tedbirler aldı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "salgın_r1",
+      "prompt": "Birçok kişiyi bulaştıran hastalık durumuna ne denir?",
+      "accepted_forms": ["salgın"],
+      "note": null
+    },
+    {
+      "id": "salgın_r2",
+      "prompt": "Halk sağlığı tehlikesi oluşturan hastalık yayılmasını hangi kelimeyle ifade ederiz?",
+      "accepted_forms": ["salgın"],
+      "note": null
+    }
+  ]
+}

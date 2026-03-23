@@ -1,0 +1,43 @@
+{
+  "word": "yoga",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "yoga, physical and spiritual practice",
+  "sentences": [
+    {
+      "id": "yoga_s1",
+      "text": "Her sabah [yoga] yaparak günü başlarım.",
+      "note": null
+    },
+    {
+      "id": "yoga_s2",
+      "text": "[Yoga], ruh ve beden sağlığı için faydalı.",
+      "note": null
+    },
+    {
+      "id": "yoga_s3",
+      "text": "[Yoga] dersi saat dokuzda başlıyor.",
+      "note": null
+    },
+    {
+      "id": "yoga_s4",
+      "text": "[Yoganın] asıl amacı iç barışı bulmaktır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yoga_r1",
+      "prompt": "Fiziksel ve zihinsel sağlık için yapılan antik egzersiz nedir?",
+      "accepted_forms": ["yoga"],
+      "note": null
+    },
+    {
+      "id": "yoga_r2",
+      "prompt": "Derin nefes alma ve vücut duruşları içeren spor türü hangisidir?",
+      "accepted_forms": ["yoga"],
+      "note": null
+    }
+  ]
+}

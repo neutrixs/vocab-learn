@@ -1,0 +1,52 @@
+{
+  "word": "şifayı kapmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to cure, to recover, to heal",
+  "sentences": [
+    {
+      "id": "şifayı kapmak_s1",
+      "text": "İlaç sayesinde hastanın [şifayı kapması] hızlı oldu.",
+      "note": null
+    },
+    {
+      "id": "şifayı kapmak_s2",
+      "text": "Doktor önerilerini takip ederse hastalar [şifayı kapacaklar].",
+      "note": null
+    },
+    {
+      "id": "şifayı kapmak_s3",
+      "text": "Ameliyattan sonra hastanın [şifayı kapması] üç ay sürdü.",
+      "note": null
+    },
+    {
+      "id": "şifayı kapmak_s4",
+      "text": "Terapist hastanın [şifayı kapması] için çalışıyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şifayı kapmak_r1",
+      "prompt": "Hastalıktan iyileşmek veya sağlığına kavuşmak için hangi ifade kullanılır?",
+      "accepted_forms": [
+        "şifayı kapmak",
+        "şifayı kap",
+        "şifayı kaptı",
+        "şifayı kapması"
+      ],
+      "note": null
+    },
+    {
+      "id": "şifayı kapmak_r2",
+      "prompt": "Cerrah hastanın ... için ameliyat yaptı.",
+      "accepted_forms": [
+        "şifayı kapmak",
+        "şifayı kapması",
+        "şifayı kapması"
+      ],
+      "note": null
+    }
+  ]
+}

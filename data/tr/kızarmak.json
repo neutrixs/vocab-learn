@@ -1,0 +1,43 @@
+{
+  "word": "kızarmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to turn red, to blush, to become angry, to fry until golden",
+  "sentences": [
+    {
+      "id": "kızarmak_s1",
+      "text": "Yüzü utançtan [kızardı].",
+      "note": null
+    },
+    {
+      "id": "kızarmak_s2",
+      "text": "Tavuklar [kızarana] kadar pişirmeli.",
+      "note": null
+    },
+    {
+      "id": "kızarmak_s3",
+      "text": "Gün batarken gökyüzü [kızarıyor].",
+      "note": null
+    },
+    {
+      "id": "kızarmak_s4",
+      "text": "Arası bozulduğu için [kızardı].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kızarmak_r1",
+      "prompt": "Yüzün renginin kırmızılaşması çoğunlukla hangisiyle olur?",
+      "accepted_forms": ["kızarmak", "kızardı", "kızarıyor"],
+      "note": null
+    },
+    {
+      "id": "kızarmak_r2",
+      "prompt": "Yemek dönerken kepçe ile yanını çevirme işleminde hangi renk değişikliği görülür?",
+      "accepted_forms": ["kızarmak", "kızarana"],
+      "note": null
+    }
+  ]
+}

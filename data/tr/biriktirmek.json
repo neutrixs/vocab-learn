@@ -1,0 +1,43 @@
+{
+  "word": "biriktirmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to accumulate, to save up, to gather",
+  "sentences": [
+    {
+      "id": "biriktirmek_s1",
+      "text": "Yıllarca para [biriktirmiş].",
+      "note": null
+    },
+    {
+      "id": "biriktirmek_s2",
+      "text": "Evin göz bir sürü eşya [biriktirilmiş].",
+      "note": null
+    },
+    {
+      "id": "biriktirmek_s3",
+      "text": "Enerji [biriktirmelisin] derste dinlen.",
+      "note": null
+    },
+    {
+      "id": "biriktirmek_s4",
+      "text": "Kitaplar zaman içinde [biriktirildi].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "biriktirmek_r1",
+      "prompt": "Bir çok şeyi toplama ve bir araya getirme hangisiyle yapılır?",
+      "accepted_forms": ["biriktirmek", "biriktirmiş", "biriktirilmiş"],
+      "note": null
+    },
+    {
+      "id": "biriktirmek_r2",
+      "prompt": "Zaman içinde para veya eşya tasarruf ederek tutmak hangisidir?",
+      "accepted_forms": ["biriktirmek", "biriktirdi"],
+      "note": null
+    }
+  ]
+}

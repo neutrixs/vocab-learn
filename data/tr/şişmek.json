@@ -1,0 +1,52 @@
+{
+  "word": "şişmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to swell, to inflate",
+  "sentences": [
+    {
+      "id": "şişmek_s1",
+      "text": "Ayağı kırıktan sonra [şişti].",
+      "note": null
+    },
+    {
+      "id": "şişmek_s2",
+      "text": "Balon hava ile [şişiyor].",
+      "note": null
+    },
+    {
+      "id": "şişmek_s3",
+      "text": "Arı sokundan sonra yüz [şişecek].",
+      "note": null
+    },
+    {
+      "id": "şişmek_s4",
+      "text": "Çiftçi hayvanların göbeği [şişmişse] veteriner çağrılmalı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şişmek_r1",
+      "prompt": "Bir şey havanın etkisiyle veya hasardan sonra boyutu büyüdüğünde hangi fiil kullanılır?",
+      "accepted_forms": [
+        "şişmek",
+        "şişti",
+        "şişiyor",
+        "şişecek"
+      ],
+      "note": null
+    },
+    {
+      "id": "şişmek_r2",
+      "prompt": "Eldiven hava ile ... için pompa kullandık.",
+      "accepted_forms": [
+        "şişmek",
+        "şişti",
+        "şişmesi"
+      ],
+      "note": null
+    }
+  ]
+}

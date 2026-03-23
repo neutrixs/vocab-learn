@@ -1,0 +1,43 @@
+{
+  "word": "sürükleyici",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "captivating, engaging, compelling, addictive",
+  "sentences": [
+    {
+      "id": "sürükleyici_s1",
+      "text": "Bu roman çok [sürükleyici], bir nefeste okudum.",
+      "note": null
+    },
+    {
+      "id": "sürükleyici_s2",
+      "text": "[Sürükleyici] bir hikaye dinleyip heyecanlandık.",
+      "note": null
+    },
+    {
+      "id": "sürükleyici_s3",
+      "text": "Müzik çok [sürükleyici] ve ritmik.",
+      "note": null
+    },
+    {
+      "id": "sürükleyici_s4",
+      "text": "[Sürükleyici] bir konuşma öğrenci dikkatini çekerek başarılı olur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sürükleyici_r1",
+      "prompt": "İlgisini tamamen çeken, bağımlılık oluşturan nedir?",
+      "accepted_forms": ["sürükleyici"],
+      "note": null
+    },
+    {
+      "id": "sürükleyici_r2",
+      "prompt": "Dikkatini ve ilgisini çeken, ilişkisini koparmayan şey hangisidir?",
+      "accepted_forms": ["sürükleyici"],
+      "note": null
+    }
+  ]
+}

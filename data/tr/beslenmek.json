@@ -1,0 +1,43 @@
+{
+  "word": "beslenmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to eat, to be fed, to nourish oneself",
+  "sentences": [
+    {
+      "id": "beslenmek_s1",
+      "text": "Bebek anne sütü ile [beslenmiş].",
+      "note": null
+    },
+    {
+      "id": "beslenmek_s2",
+      "text": "Sağlıklı [beslenmek] önemli bir alışkanlık.",
+      "note": null
+    },
+    {
+      "id": "beslenmek_s3",
+      "text": "[Beslenme] şekline dikkat etmeli.",
+      "note": null
+    },
+    {
+      "id": "beslenmek_s4",
+      "text": "Hayvanlar bitki ve et ile [beslenirler].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "beslenmek_r1",
+      "prompt": "Yiyecek ve içecek tükettiğinde hangi fiil uygulanır?",
+      "accepted_forms": ["beslenmek", "beslenmiş", "beslenirler", "besleniyorum"],
+      "note": null
+    },
+    {
+      "id": "beslenmek_r2",
+      "prompt": "Vücut için gerekli gıdaları almak hangisiyle tanımlanır?",
+      "accepted_forms": ["beslenmek", "beslenme"],
+      "note": null
+    }
+  ]
+}

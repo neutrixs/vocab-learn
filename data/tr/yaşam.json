@@ -1,0 +1,43 @@
+{
+  "word": "yaşam",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "life, living, existence",
+  "sentences": [
+    {
+      "id": "yaşam_s1",
+      "text": "[Yaşam] güzel ve kıymetli bir armağandır.",
+      "note": null
+    },
+    {
+      "id": "yaşam_s2",
+      "text": "Onun [yaşamı] her zaman çalışmaya adanmıştı.",
+      "note": null
+    },
+    {
+      "id": "yaşam_s3",
+      "text": "[Yaşamda] başarı için sıkı çalışman gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "yaşam_s4",
+      "text": "Sağlıklı [yaşam] mutluluk getiriyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yaşam_r1",
+      "prompt": "Doğumdan ölüme kadar geçen zaman aralığı nedir?",
+      "accepted_forms": ["yaşam"],
+      "note": null
+    },
+    {
+      "id": "yaşam_r2",
+      "prompt": "İnsan ve diğer canlıların var olma durumuna ne denir?",
+      "accepted_forms": ["yaşam"],
+      "note": null
+    }
+  ]
+}

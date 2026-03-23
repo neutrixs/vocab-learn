@@ -1,0 +1,51 @@
+{
+  "word": "karbonhidrat",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "carbohydrate",
+  "sentences": [
+    {
+      "id": "karbonhidrat_s1",
+      "text": "Ekmek ve pirinç [karbonhidrat]ın iyi kaynakları.",
+      "note": null
+    },
+    {
+      "id": "karbonhidrat_s2",
+      "text": "Diyetisyen [karbonhidrat] tüketimini kontrol etmesini tavsiye etti.",
+      "note": null
+    },
+    {
+      "id": "karbonhidrat_s3",
+      "text": "Vücut enerjisini [karbonhidrat]lardan alır.",
+      "note": null
+    },
+    {
+      "id": "karbonhidrat_s4",
+      "text": "Aşırı [karbonhidrat] almak kilo artmasına neden olabilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "karbonhidrat_r1",
+      "prompt": "Patates, pirinç ve bulgur gibi yiyeceklerde hangi besin öğesi bulunur?",
+      "accepted_forms": [
+        "karbonhidrat",
+        "karbonhidratlar",
+        "karbonhidratı"
+      ],
+      "note": null
+    },
+    {
+      "id": "karbonhidrat_r2",
+      "prompt": "... vücuda enerji sağlayan en önemli kaynaklardan biridir.",
+      "accepted_forms": [
+        "karbonhidrat",
+        "karbonhidratlar",
+        "karbonhidratın"
+      ],
+      "note": null
+    }
+  ]
+}

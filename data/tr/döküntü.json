@@ -1,0 +1,43 @@
+{
+  "word": "döküntü",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "rash, exanthema",
+  "sentences": [
+    {
+      "id": "döküntü_s1",
+      "text": "Çocuğunun [döküntüsü] var.",
+      "note": null
+    },
+    {
+      "id": "döküntü_s2",
+      "text": "[Döküntü] kızamıkın belirtisidir.",
+      "note": null
+    },
+    {
+      "id": "döküntü_s3",
+      "text": "Alerjik [döküntü] kaşıntılıdır.",
+      "note": null
+    },
+    {
+      "id": "döküntü_s4",
+      "text": "[Döküntü] cilt hastalığını gösterir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "döküntü_r1",
+      "prompt": "Ciltte görünen kızarıklık ve kaşıntılı patoloji nedir?",
+      "accepted_forms": ["döküntü", "döküntüsü"],
+      "note": null
+    },
+    {
+      "id": "döküntü_r2",
+      "prompt": "Enfeksiyonlı hastalıklarda cilt üzerinde görünen kırmızı lekeler nedir?",
+      "accepted_forms": ["döküntü", "döküntüler"],
+      "note": null
+    }
+  ]
+}

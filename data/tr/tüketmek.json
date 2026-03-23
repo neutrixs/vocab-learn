@@ -44,7 +44,7 @@
     },
     {
       "id": "tüketmek_r2",
-      "prompt": "Hükümet çok para _____ durumda.",
+      "prompt": "Hükümet çok para ... durumda.",
       "accepted_forms": [
         "tüketiyor",
         "tüketmiş",

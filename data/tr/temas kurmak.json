@@ -1,0 +1,52 @@
+{
+  "word": "temas kurmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to make contact, to get in touch",
+  "sentences": [
+    {
+      "id": "temas kurmak_s1",
+      "text": "Müşteri hizmetleriyle [temas kurdum] telefon yoluyla.",
+      "note": null
+    },
+    {
+      "id": "temas kurmak_s2",
+      "text": "Eski arkadaşımla sosyal medyada [temas kurıyorum].",
+      "note": null
+    },
+    {
+      "id": "temas kurmak_s3",
+      "text": "Şirkete [temas kurmak] için e-mail gönderdim.",
+      "note": null
+    },
+    {
+      "id": "temas kurmak_s4",
+      "text": "Doktor hastasıyla düzenli olarak [temas kurmak] istiyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "temas kurmak_r1",
+      "prompt": "Birisi veya bir kuruluş ile iletişim kurmak için hangi ifade kullanılır?",
+      "accepted_forms": [
+        "temas kurmak",
+        "temas kur",
+        "temas kurtum",
+        "temas kurdum"
+      ],
+      "note": null
+    },
+    {
+      "id": "temas kurmak_r2",
+      "prompt": "Şirkete ... için en iyi yol nedir?",
+      "accepted_forms": [
+        "temas kurmak",
+        "temas kurtuk",
+        "temas kurması"
+      ],
+      "note": null
+    }
+  ]
+}

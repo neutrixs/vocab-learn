@@ -1,0 +1,43 @@
+{
+  "word": "akciğer",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "lung",
+  "sentences": [
+    {
+      "id": "akciğer_s1",
+      "text": "Doktor, hastanın [akciğerlerini] dinledi.",
+      "note": null
+    },
+    {
+      "id": "akciğer_s2",
+      "text": "Sigara [akciğerlere] çok zararlıdır.",
+      "note": null
+    },
+    {
+      "id": "akciğer_s3",
+      "text": "Derin nefes almak [akciğerleri] güçlendirir.",
+      "note": null
+    },
+    {
+      "id": "akciğer_s4",
+      "text": "Hastanın [akciğerinde] enfeksiyon tespit edildi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "akciğer_r1",
+      "prompt": "İnsan vücudunda nefes alan organ nedir?",
+      "accepted_forms": ["akciğer", "akciğerler"],
+      "note": null
+    },
+    {
+      "id": "akciğer_r2",
+      "prompt": "Tütün dumanı hangi organı hasar verir?",
+      "accepted_forms": ["akciğer", "akciğerleri", "akciğerlerine"],
+      "note": null
+    }
+  ]
+}

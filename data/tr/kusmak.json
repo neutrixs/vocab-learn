@@ -1,0 +1,52 @@
+{
+  "word": "kusmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to vomit, to throw up",
+  "sentences": [
+    {
+      "id": "kusmak_s1",
+      "text": "Hasta çocuk [kusmuştur].",
+      "note": null
+    },
+    {
+      "id": "kusmak_s2",
+      "text": "Yer değiştirme sırasında birçok insan [kusar].",
+      "note": null
+    },
+    {
+      "id": "kusmak_s3",
+      "text": "O, çok yemekten sonra [kusacak].",
+      "note": null
+    },
+    {
+      "id": "kusmak_s4",
+      "text": "Doktor hasta [kusarsa] hemen çağrılmalı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kusmak_r1",
+      "prompt": "Midenizin içeriği ağız yoluyla çıktığında bu fiil ne denir?",
+      "accepted_forms": [
+        "kusmak",
+        "kusma",
+        "kusdum",
+        "kuştuk"
+      ],
+      "note": null
+    },
+    {
+      "id": "kusmak_r2",
+      "prompt": "Hasta ... için plastik bir torba gerekiyordu.",
+      "accepted_forms": [
+        "kusmak",
+        "kusarsa",
+        "kusması"
+      ],
+      "note": null
+    }
+  ]
+}

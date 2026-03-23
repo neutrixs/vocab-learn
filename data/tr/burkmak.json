@@ -1,0 +1,43 @@
+{
+  "word": "burkmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to twist, to wring, to distort, to cover up",
+  "sentences": [
+    {
+      "id": "burkmak_s1",
+      "text": "Çamaşır [burkdum].",
+      "note": null
+    },
+    {
+      "id": "burkmak_s2",
+      "text": "Su [burulup] çıktı.",
+      "note": null
+    },
+    {
+      "id": "burkmak_s3",
+      "text": "Gerçekleri [burkamayız].",
+      "note": null
+    },
+    {
+      "id": "burkmak_s4",
+      "text": "Temizlikçi nemli bezleri [burktuktan] sonra asıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "burkmak_r1",
+      "prompt": "Bezleri sıkmak ve suyunu çıkarmak hangisiyle yapılır?",
+      "accepted_forms": ["burkmak", "burkdum", "burktuktan"],
+      "note": null
+    },
+    {
+      "id": "burkmak_r2",
+      "prompt": "Kumaşı tortu sıkmak ve tersine bükülmesiyle yapılan işlem hangisidir?",
+      "accepted_forms": ["burkmak"],
+      "note": null
+    }
+  ]
+}

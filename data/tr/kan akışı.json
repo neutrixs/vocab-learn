@@ -1,0 +1,51 @@
+{
+  "word": "kan akışı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "blood flow",
+  "sentences": [
+    {
+      "id": "kan akışı_s1",
+      "text": "Bacağının [kan akışı]nda sorun vardır.",
+      "note": null
+    },
+    {
+      "id": "kan akışı_s2",
+      "text": "Doktor [kan akışı]nı ultrason ile kontrol etti.",
+      "note": null
+    },
+    {
+      "id": "kan akışı_s3",
+      "text": "[Kan akışı]nın yavaşlaması ciddi problemlerin işareti olabilir.",
+      "note": null
+    },
+    {
+      "id": "kan akışı_s4",
+      "text": "Egzersiz [kan akışı]nı arttırır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kan akışı_r1",
+      "prompt": "Vücud damarlarından geçen kanda meydana gelen hareketin adı nedir?",
+      "accepted_forms": [
+        "kan akışı",
+        "kan akışını",
+        "kan akışında"
+      ],
+      "note": null
+    },
+    {
+      "id": "kan akışı_r2",
+      "prompt": "Spor yapmak ... iyileştirir.",
+      "accepted_forms": [
+        "kan akışı",
+        "kan akışını",
+        "kan akışının"
+      ],
+      "note": null
+    }
+  ]
+}

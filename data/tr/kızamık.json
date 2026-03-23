@@ -1,0 +1,51 @@
+{
+  "word": "kızamık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "measles",
+  "sentences": [
+    {
+      "id": "kızamık_s1",
+      "text": "Çocuk [kızamık]tan hastaydı.",
+      "note": null
+    },
+    {
+      "id": "kızamık_s2",
+      "text": "[Kızamık] aşısı çocuklara 12 ay sonra uygulanır.",
+      "note": null
+    },
+    {
+      "id": "kızamık_s3",
+      "text": "[Kızamık]tan korkmak artık gereksiz çünkü aşı var.",
+      "note": null
+    },
+    {
+      "id": "kızamık_s4",
+      "text": "Doktor çocukta [kızamık] belirtileri olup olmadığını kontrol etti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kızamık_r1",
+      "prompt": "Çocuklarda sıkça görülen, döküntülü bulaşıcı bir hastalık nedir?",
+      "accepted_forms": [
+        "kızamık",
+        "kızamığa",
+        "kızamıktan"
+      ],
+      "note": null
+    },
+    {
+      "id": "kızamık_r2",
+      "prompt": "... aşısı hastalıktan korur.",
+      "accepted_forms": [
+        "kızamık",
+        "kızamığın",
+        "kızamık"
+      ],
+      "note": null
+    }
+  ]
+}

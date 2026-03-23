@@ -1,0 +1,50 @@
+{
+  "word": "yaşam koçu",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "life coach",
+  "sentences": [
+    {
+      "id": "yaşam koçu_s1",
+      "text": "[Yaşam koçu] danışanlarını hedeflerine ulaşmada yardımcı olur.",
+      "note": null
+    },
+    {
+      "id": "yaşam koçu_s2",
+      "text": "Benim [yaşam koçum] her haftada bana ne yapmalıyım öğretiyor.",
+      "note": null
+    },
+    {
+      "id": "yaşam koçu_s3",
+      "text": "[Yaşam koçları] insanların hayatlarını değiştirmelerine yardımcı olup motivasyon veren kişilerdir.",
+      "note": null
+    },
+    {
+      "id": "yaşam koçu_s4",
+      "text": "İyi bir [yaşam koçu] bulmak kişisel gelişim için önemli olabilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yaşam koçu_r1",
+      "prompt": "İnsanlara hedeflerine ulaşmalarında ve hayatlarını iyileştirmelerinde rehberlik eden kişi ne denir?",
+      "accepted_forms": [
+        "yaşam koçu",
+        "yaşam koçları",
+        "yaşam koçunun"
+      ],
+      "note": null
+    },
+    {
+      "id": "yaşam koçu_r2",
+      "prompt": "Kariyer gelişimi için bir ... işe aldı.",
+      "accepted_forms": [
+        "yaşam koçu",
+        "yaşam koçuyla"
+      ],
+      "note": null
+    }
+  ]
+}

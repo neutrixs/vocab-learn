@@ -1,0 +1,49 @@
+{
+  "word": "bilinç",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "consciousness, awareness",
+  "sentences": [
+    {
+      "id": "bilinç_s1",
+      "text": "Hastanın [bilinci] açıldı.",
+      "note": null
+    },
+    {
+      "id": "bilinç_s2",
+      "text": "[Bilinç] uyku sırasında değişir.",
+      "note": null
+    },
+    {
+      "id": "bilinç_s3",
+      "text": "Çok güçlü bir darbe sonrası [bilinç] kaybetti.",
+      "note": null
+    },
+    {
+      "id": "bilinç_s4",
+      "text": "Etik [bilinç] insanın davranışını şekillendirir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bilinç_r1",
+      "prompt": "Uyanık durumda farkında olma hali nedir?",
+      "accepted_forms": [
+        "bilinç",
+        "bilinci"
+      ],
+      "note": null
+    },
+    {
+      "id": "bilinç_r2",
+      "prompt": "Kaza sonrası hastanın ... kaybı ciddi bir sorundur.",
+      "accepted_forms": [
+        "bilinç",
+        "bilinci"
+      ],
+      "note": null
+    }
+  ]
+}

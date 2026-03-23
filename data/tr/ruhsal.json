@@ -1,0 +1,43 @@
+{
+  "word": "ruhsal",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "spiritual, mental, psychological",
+  "sentences": [
+    {
+      "id": "ruhsal_s1",
+      "text": "[Ruhsal] sağlık fiziksel sağlık kadar önemlidir.",
+      "note": null
+    },
+    {
+      "id": "ruhsal_s2",
+      "text": "Meditasyon [ruhsal] gelişim için faydalı bir uygulamadır.",
+      "note": null
+    },
+    {
+      "id": "ruhsal_s3",
+      "text": "Bu kitap insanların [ruhsal] yolculuğunu anlatıyor.",
+      "note": null
+    },
+    {
+      "id": "ruhsal_s4",
+      "text": "[Ruhsal] hastalıklar tedavi gerektiren ciddi sorunlardır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ruhsal_r1",
+      "prompt": "Zihin ve kalp sağlığı ile ilgili olan kelime nedir?",
+      "accepted_forms": ["ruhsal"],
+      "note": null
+    },
+    {
+      "id": "ruhsal_r2",
+      "prompt": "Felsefî ve manevi konularla ilgili olan sıfat hangisidir?",
+      "accepted_forms": ["ruhsal"],
+      "note": null
+    }
+  ]
+}

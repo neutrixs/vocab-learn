@@ -1,0 +1,51 @@
+{
+  "word": "kronik hastalık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "chronic disease",
+  "sentences": [
+    {
+      "id": "kronik hastalık_s1",
+      "text": "Babası [kronik hastalık]tan dolayı her ay doktora gider.",
+      "note": null
+    },
+    {
+      "id": "kronik hastalık_s2",
+      "text": "[Kronik hastalık]lar yaşam boyu yönetilmesi gerekir.",
+      "note": null
+    },
+    {
+      "id": "kronik hastalık_s3",
+      "text": "Doktor [kronik hastalık]ın ilerlemesini takip ediyor.",
+      "note": null
+    },
+    {
+      "id": "kronik hastalık_s4",
+      "text": "[Kronik hastalık]tan muzdarip hastalar düzenli ilaç almalıdır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kronik hastalık_r1",
+      "prompt": "Uzun süre devam eden, tedavisi zor olan hastalıklara ne denir?",
+      "accepted_forms": [
+        "kronik hastalık",
+        "kronik hastalıklar",
+        "kronik hastalığı"
+      ],
+      "note": null
+    },
+    {
+      "id": "kronik hastalık_r2",
+      "prompt": "... kontrol etmek için ilaç düzenli alınmalıdır.",
+      "accepted_forms": [
+        "kronik hastalık",
+        "kronik hastalıklar",
+        "kronik hastalıkların"
+      ],
+      "note": null
+    }
+  ]
+}

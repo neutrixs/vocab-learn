@@ -1,0 +1,43 @@
+{
+  "word": "dürtü",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "drive, impulse, instinct",
+  "sentences": [
+    {
+      "id": "dürtü_s1",
+      "text": "İnsanın temel [dürtüleri] vardır.",
+      "note": null
+    },
+    {
+      "id": "dürtü_s2",
+      "text": "[Dürtü] kontrolü önemlidir.",
+      "note": null
+    },
+    {
+      "id": "dürtü_s3",
+      "text": "Uyku [dürtüsü] güçlüdür.",
+      "note": null
+    },
+    {
+      "id": "dürtü_s4",
+      "text": "Hayatta kalma [dürtüsü] doğaldır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dürtü_r1",
+      "prompt": "Doğal ve kontrol edilemez istek veya etkinlik çağırması nedir?",
+      "accepted_forms": ["dürtü", "dürtüler", "dürtüsü"],
+      "note": null
+    },
+    {
+      "id": "dürtü_r2",
+      "prompt": "Biyolojik ihtiyaçlar tarafından yönlendirilen harekete çağırış ne denir?",
+      "accepted_forms": ["dürtü", "dürtüler"],
+      "note": null
+    }
+  ]
+}

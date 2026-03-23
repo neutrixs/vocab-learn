@@ -1,0 +1,43 @@
+{
+  "word": "alerji",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "allergy",
+  "sentences": [
+    {
+      "id": "alerji_s1",
+      "text": "Kardeşinin [allergisi] fındığa karşıdır.",
+      "note": null
+    },
+    {
+      "id": "alerji_s2",
+      "text": "[Alerji] belirti olarak kaşıntı ve kızarıklık görülür.",
+      "note": null
+    },
+    {
+      "id": "alerji_s3",
+      "text": "Kedi kılına [alerji] olan birçok kişi vardır.",
+      "note": null
+    },
+    {
+      "id": "alerji_s4",
+      "text": "Doktor ona [allerji] hakkında bilgi verdi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "alerji_r1",
+      "prompt": "Belirli gıdalara veya maddelere vücudun aşırı tepkisi ne denir?",
+      "accepted_forms": ["alerji", "allerji"],
+      "note": null
+    },
+    {
+      "id": "alerji_r2",
+      "prompt": "Çiçek tozu tarafından tetiklenen reaksiyon nedir?",
+      "accepted_forms": ["alerji", "allerji", "alerjisi"],
+      "note": null
+    }
+  ]
+}

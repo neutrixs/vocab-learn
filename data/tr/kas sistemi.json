@@ -1,0 +1,51 @@
+{
+  "word": "kas sistemi",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "muscular system",
+  "sentences": [
+    {
+      "id": "kas sistemi_s1",
+      "text": "[Kas sistemi] vücutta hareket sağlamak için sorumlundur.",
+      "note": null
+    },
+    {
+      "id": "kas sistemi_s2",
+      "text": "Spor [kas sistemi]ni güçlendirir.",
+      "note": null
+    },
+    {
+      "id": "kas sistemi_s3",
+      "text": "[Kas sistemi]ndeki problem yürümeyi zorlaştırabilir.",
+      "note": null
+    },
+    {
+      "id": "kas sistemi_s4",
+      "text": "Doktor [kas sistemi]ni fizik muayene ile kontrol etti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kas sistemi_r1",
+      "prompt": "Vücudda hareket ve kuvvet sağlamaktan sorumlu yapılar bütünü nedir?",
+      "accepted_forms": [
+        "kas sistemi",
+        "kas sisteminin",
+        "kas sistemini"
+      ],
+      "note": null
+    },
+    {
+      "id": "kas sistemi_r2",
+      "prompt": "Düzenli egzersiz ... sağlıklı tutar.",
+      "accepted_forms": [
+        "kas sistemi",
+        "kas sistemini",
+        "kas sisteminin"
+      ],
+      "note": null
+    }
+  ]
+}

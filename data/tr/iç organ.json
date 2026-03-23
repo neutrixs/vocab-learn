@@ -1,0 +1,51 @@
+{
+  "word": "iç organ",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "internal organ",
+  "sentences": [
+    {
+      "id": "iç organ_s1",
+      "text": "Kalp, akciğer ve karaciğer [iç organ]lardır.",
+      "note": null
+    },
+    {
+      "id": "iç organ_s2",
+      "text": "Doktor hasta hakkında [iç organ] hastalığı olup olmadığını sorguladı.",
+      "note": null
+    },
+    {
+      "id": "iç organ_s3",
+      "text": "Ultrason çekimi vücudunun [iç organ]larını kontrol etmek için yapılır.",
+      "note": null
+    },
+    {
+      "id": "iç organ_s4",
+      "text": "[İç organ] nakli oldukça zor bir ameliyattır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "iç organ_r1",
+      "prompt": "Vücudun içinde bulunan kalp, akciğer ve karaciğer gibi yapılar nedir?",
+      "accepted_forms": [
+        "iç organ",
+        "iç organlar",
+        "iç organlarıdır"
+      ],
+      "note": null
+    },
+    {
+      "id": "iç organ_r2",
+      "prompt": "Doktorlar ... hastalığı teşhis etmek için çeşitli testler yaparlar.",
+      "accepted_forms": [
+        "iç organ",
+        "iç organların",
+        "iç organ"
+      ],
+      "note": null
+    }
+  ]
+}

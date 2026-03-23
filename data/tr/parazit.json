@@ -1,0 +1,51 @@
+{
+  "word": "parazit",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "parasite",
+  "sentences": [
+    {
+      "id": "parazit_s1",
+      "text": "[Parazit] enfeksiyonları tedavi edilmelidir.",
+      "note": null
+    },
+    {
+      "id": "parazit_s2",
+      "text": "Hijyen eksikliği [parazit]lerin yayılmasını sağlar.",
+      "note": null
+    },
+    {
+      "id": "parazit_s3",
+      "text": "Doktor kan testinde [parazit] olup olmadığını kontrol etti.",
+      "note": null
+    },
+    {
+      "id": "parazit_s4",
+      "text": "[Parazit]ten korunmak için su kaynaklarına dikkat etmeliyiz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "parazit_r1",
+      "prompt": "Diğer canlının vücudunda yaşayarak zarar veren canlılara ne denir?",
+      "accepted_forms": [
+        "parazit",
+        "parazitler",
+        "parazitleri"
+      ],
+      "note": null
+    },
+    {
+      "id": "parazit_r2",
+      "prompt": "... vücuttan çıkarılmalıdır.",
+      "accepted_forms": [
+        "parazit",
+        "parazitleri",
+        "parazitlerin"
+      ],
+      "note": null
+    }
+  ]
+}

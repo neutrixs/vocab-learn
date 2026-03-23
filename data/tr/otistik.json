@@ -1,0 +1,51 @@
+{
+  "word": "otistik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "autistic",
+  "sentences": [
+    {
+      "id": "otistik_s1",
+      "text": "[Otistik] çocuk özel eğitime ihtiyaç duyar.",
+      "note": null
+    },
+    {
+      "id": "otistik_s2",
+      "text": "[Otistik] spektrumun farklı seviyeleri vardır.",
+      "note": null
+    },
+    {
+      "id": "otistik_s3",
+      "text": "Doktor [otistik] belirtileri kontrol etti.",
+      "note": null
+    },
+    {
+      "id": "otistik_s4",
+      "text": "[Otistik] bireyler farklı güçlüklere sahiptirler.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "otistik_r1",
+      "prompt": "Sosyal iletişimde ve davranışlarda farklılık gösteren nörodevelopmental bir koşulu tanımlayan sıfat hangisidir?",
+      "accepted_forms": [
+        "otistik",
+        "otistik",
+        "otistiktir"
+      ],
+      "note": null
+    },
+    {
+      "id": "otistik_r2",
+      "prompt": "... çocuklara destekleyici bir ortam gereklidir.",
+      "accepted_forms": [
+        "otistik",
+        "otistik",
+        "otistik"
+      ],
+      "note": null
+    }
+  ]
+}

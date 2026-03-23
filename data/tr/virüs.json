@@ -1,0 +1,43 @@
+{
+  "word": "virüs",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "virus, infection agent",
+  "sentences": [
+    {
+      "id": "virüs_s1",
+      "text": "COVID [virüsü] dünyayı etkisi altına aldı.",
+      "note": null
+    },
+    {
+      "id": "virüs_s2",
+      "text": "[Virüs] bulaşıcı bir hastalıktır.",
+      "note": null
+    },
+    {
+      "id": "virüs_s3",
+      "text": "Bilgisayarlar de [virüslerden] korunmalıdır.",
+      "note": null
+    },
+    {
+      "id": "virüs_s4",
+      "text": "[Virüslere] karşı aşı çok etkilidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "virüs_r1",
+      "prompt": "Bulaştığı kişiye hastalık yapan canlı olan nedir?",
+      "accepted_forms": ["virüs", "virüsü", "virüsler"],
+      "note": null
+    },
+    {
+      "id": "virüs_r2",
+      "prompt": "Grip ve kızamık gibi hastalıkları yayan mikro-organizm hangisidir?",
+      "accepted_forms": ["virüs", "virüsler"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "bağımlı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "dependent, addicted",
+  "sentences": [
+    {
+      "id": "bağımlı_s1",
+      "text": "Çocuk henüz ebeveynlerine [bağımlıdır].",
+      "note": null
+    },
+    {
+      "id": "bağımlı_s2",
+      "text": "[Bağımlılık] hastalığı tedavi edilmelidir.",
+      "note": null
+    },
+    {
+      "id": "bağımlı_s3",
+      "text": "O, internetin [bağımlısı] olmuştur.",
+      "note": null
+    },
+    {
+      "id": "bağımlı_s4",
+      "text": "Hâlâ aile destğine [bağımlı] kalmak istemiyorum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bağımlı_r1",
+      "prompt": "Birinin kontrolüne veya desteğine ihtiyaç duyan kişi nedir?",
+      "accepted_forms": ["bağımlı", "bağımlısı"],
+      "note": null
+    },
+    {
+      "id": "bağımlı_r2",
+      "prompt": "Maddeye alışkın olan veya onu olmadan yaşayamayan kişi nasıl tanımlanır?",
+      "accepted_forms": ["bağımlı", "bağımlısı", "bağımlıdır"],
+      "note": null
+    }
+  ]
+}

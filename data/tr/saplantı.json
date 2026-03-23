@@ -1,0 +1,43 @@
+{
+  "word": "saplantı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "obsession, fixation, stubbornness",
+  "sentences": [
+    {
+      "id": "saplantı_s1",
+      "text": "Onun futbola karşı [saplantısı] çok aşırı.",
+      "note": null
+    },
+    {
+      "id": "saplantı_s2",
+      "text": "[Saplantıdan] kurtulmak zaman alabilir.",
+      "note": null
+    },
+    {
+      "id": "saplantı_s3",
+      "text": "Bu adam sosyal medyaya [saplantılı].",
+      "note": null
+    },
+    {
+      "id": "saplantı_s4",
+      "text": "Bilim insanı [saplantısı] sayesinde önemli keşif yaptı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "saplantı_r1",
+      "prompt": "Bir şeyle aşırı ilgilenme ve bırakamama durumuna ne denir?",
+      "accepted_forms": ["saplantı"],
+      "note": null
+    },
+    {
+      "id": "saplantı_r2",
+      "prompt": "Obsessif düşünce veya davranış hangisiyle karşılanır?",
+      "accepted_forms": ["saplantı"],
+      "note": null
+    }
+  ]
+}

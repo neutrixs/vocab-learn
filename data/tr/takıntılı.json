@@ -1,0 +1,43 @@
+{
+  "word": "takıntılı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "obsessive, fixated, hung up on",
+  "sentences": [
+    {
+      "id": "takıntılı_s1",
+      "text": "O, detaylara çok [takıntılı].",
+      "note": null
+    },
+    {
+      "id": "takıntılı_s2",
+      "text": "[Takıntılı] bir ruh hali insanı tüketir.",
+      "note": null
+    },
+    {
+      "id": "takıntılı_s3",
+      "text": "Bu öğrenci sınav puanıyla [takıntılı].",
+      "note": null
+    },
+    {
+      "id": "takıntılı_s4",
+      "text": "[Takıntılı] davranış ruh sağlığını etkiler.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "takıntılı_r1",
+      "prompt": "Bir şeyi sürekli düşünen ve bırakmayan kişiye ne denir?",
+      "accepted_forms": ["takıntılı"],
+      "note": null
+    },
+    {
+      "id": "takıntılı_r2",
+      "prompt": "Obsesif ve saplantılı davranışı tanımlayan sıfat nedir?",
+      "accepted_forms": ["takıntılı"],
+      "note": null
+    }
+  ]
+}

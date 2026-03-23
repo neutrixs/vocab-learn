@@ -1,0 +1,51 @@
+{
+  "word": "menenjit",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "meningitis",
+  "sentences": [
+    {
+      "id": "menenjit_s1",
+      "text": "[Menenjit] ciddi bir hastalık olabilir.",
+      "note": null
+    },
+    {
+      "id": "menenjit_s2",
+      "text": "Doktor hastada [menenjit] belirtileri olup olmadığını kontrol etti.",
+      "note": null
+    },
+    {
+      "id": "menenjit_s3",
+      "text": "[Menenjit] aşısı halk sağlığı programı kapsamında yapılır.",
+      "note": null
+    },
+    {
+      "id": "menenjit_s4",
+      "text": "[Menenjit]ten korunmak için iyi hijyen kurallarına uyulmalıdır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "menenjit_r1",
+      "prompt": "Beyin ve omurilik zarını etkileyen enfeksiyon hastalığı nedir?",
+      "accepted_forms": [
+        "menenjit",
+        "menenjitin",
+        "menejiti"
+      ],
+      "note": null
+    },
+    {
+      "id": "menenjit_r2",
+      "prompt": "... aşısı çocukluk döneminde uygulanır.",
+      "accepted_forms": [
+        "menenjit",
+        "menenjitin",
+        "menenjit"
+      ],
+      "note": null
+    }
+  ]
+}

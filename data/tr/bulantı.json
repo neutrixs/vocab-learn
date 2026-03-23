@@ -1,0 +1,43 @@
+{
+  "word": "bulantı",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "nausea",
+  "sentences": [
+    {
+      "id": "bulantı_s1",
+      "text": "Hasta [bulantı] hissediyor.",
+      "note": null
+    },
+    {
+      "id": "bulantı_s2",
+      "text": "[Bulantı] bazen kusma ile sonuçlanabilir.",
+      "note": null
+    },
+    {
+      "id": "bulantı_s3",
+      "text": "Araba kokusu [bulantıya] neden oldu.",
+      "note": null
+    },
+    {
+      "id": "bulantı_s4",
+      "text": "Hamilelerde sabah [bulantısı] yaygındır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bulantı_r1",
+      "prompt": "Midenin rahatsız olduğu zaman hissettiğimiz kötü duygu nedir?",
+      "accepted_forms": ["bulantı", "bulantıya"],
+      "note": null
+    },
+    {
+      "id": "bulantı_r2",
+      "prompt": "Kusmak isteği hissi ne denir?",
+      "accepted_forms": ["bulantı", "bulantı"],
+      "note": null
+    }
+  ]
+}

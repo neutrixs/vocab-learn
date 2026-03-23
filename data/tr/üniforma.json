@@ -1,0 +1,43 @@
+{
+  "word": "üniforma",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "uniform, standardized clothing",
+  "sentences": [
+    {
+      "id": "üniforma_s1",
+      "text": "Polis [üniforması] çok net ve tanınabilir.",
+      "note": null
+    },
+    {
+      "id": "üniforma_s2",
+      "text": "Okul [üniforması] tüm öğrenciler tarafından giyilir.",
+      "note": null
+    },
+    {
+      "id": "üniforma_s3",
+      "text": "[Üniforma] giyerken asker görevine başladı.",
+      "note": null
+    },
+    {
+      "id": "üniforma_s4",
+      "text": "Doktor [üniforması] beyaz renkte.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "üniforma_r1",
+      "prompt": "Meslek veya örgüte ait olunca giyilen standart elbise nedir?",
+      "accepted_forms": ["üniforma", "üniforması"],
+      "note": null
+    },
+    {
+      "id": "üniforma_r2",
+      "prompt": "Asker, polis ve öğrencilerin giydiği standart kıyafete ne denir?",
+      "accepted_forms": ["üniforma", "üniforması"],
+      "note": null
+    }
+  ]
+}
