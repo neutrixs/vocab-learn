@@ -13,7 +13,7 @@
     {
       "id": "patates_s2",
       "text": "[Patates]i haşlamak.",
-      "note": "'patatesini haşlamak' = to boil potatoes"
+      "note": null
     },
     {
       "id": "patates_s3",
@@ -23,7 +23,7 @@
     {
       "id": "patates_s4",
       "text": "Çıtır [patates] kızartması yapma.",
-      "note": "'patates kızartması' = french fries"
+      "note": null
     }
   ],
   "recall_prompts": [

@@ -8,7 +8,7 @@
     {
       "id": "oksur_s1",
       "text": "Hasta çok [öksürüyor].",
-      "note": "'öksürüyor' = is coughing"
+      "note": null
     },
     {
       "id": "oksur_s2",
@@ -18,7 +18,7 @@
     {
       "id": "oksur_s3",
       "text": "Soğuktan [öksürdüm].",
-      "note": "'öksürdüm' = I coughed"
+      "note": null
     },
     {
       "id": "oksur_s4",

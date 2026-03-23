@@ -8,7 +8,7 @@
     {
       "id": "guney_s1",
       "text": "Türkiye'nin [güney]inde Antalya var.",
-      "note": "'güneyi' = south (accusative)"
+      "note": null
     },
     {
       "id": "guney_s2",
@@ -18,12 +18,12 @@
     {
       "id": "guney_s3",
       "text": "Rüzgar [güney]den geliyor.",
-      "note": "'güney'den' = from the south (ablative)"
+      "note": null
     },
     {
       "id": "guney_s4",
       "text": "[Güneye] doğru yolculuk yapıyoruz.",
-      "note": "'güneye' = towards the south"
+      "note": null
     }
   ],
   "recall_prompts": [

@@ -23,7 +23,7 @@
     {
       "id": "hastalan_s4",
       "text": "Ne zaman [hastalandın]?",
-      "note": "'hastalandın' = when did you get sick?"
+      "note": null
     }
   ],
   "recall_prompts": [

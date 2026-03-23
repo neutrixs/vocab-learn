@@ -8,12 +8,12 @@
     {
       "id": "ogrenci_s1",
       "text": "[Öğrenci]ler okula gidiyorlar.",
-      "note": "'öğrenciler' = students"
+      "note": null
     },
     {
       "id": "ogrenci_s2",
       "text": "Ben bir [öğrenci]yim.",
-      "note": "'öğrenciyim' = I am a student"
+      "note": null
     },
     {
       "id": "ogrenci_s3",

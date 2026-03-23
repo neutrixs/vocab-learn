@@ -8,7 +8,7 @@
     {
       "id": "postala_s1",
       "text": "Mektupları [postaladım].",
-      "note": "'postaladım' = I mailed"
+      "note": null
     },
     {
       "id": "postala_s2",
@@ -23,7 +23,7 @@
     {
       "id": "postala_s4",
       "text": "Kargo [postalandı] dün.",
-      "note": "'postalandı' = was mailed"
+      "note": null
     }
   ],
   "recall_prompts": [

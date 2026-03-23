@@ -8,12 +8,12 @@
     {
       "id": "goz_s1",
       "text": "Onun [göz]leri çok mavi.",
-      "note": "'gözleri' = his/her eyes"
+      "note": null
     },
     {
       "id": "goz_s2",
       "text": "[Gözüm] ağrıyor.",
-      "note": "'gözüm' = my eye"
+      "note": null
     },
     {
       "id": "goz_s3",
@@ -23,7 +23,7 @@
     {
       "id": "goz_s4",
       "text": "Tablo [göz]e hoş geliyor.",
-      "note": "'göze' = to the eye (dative)"
+      "note": null
     }
   ],
   "recall_prompts": [

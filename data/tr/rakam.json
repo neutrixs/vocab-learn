@@ -5,22 +5,43 @@
   "part_of_speech": "noun",
   "english_gloss": "number, digit, figure",
   "sentences": [
-    { "id": "rakam_s1", "text": "[Rakam]ları sayıyor.", "note": "'rakamları' = numbers" },
-    { "id": "rakam_s2", "text": "[Rakam]ı yazmak gerekli.", "note": "'rakamı' = the number" },
-    { "id": "rakam_s3", "text": "Üç [rakam] var burada.", "note": null },
-    { "id": "rakam_s4", "text": "[Rakam]lar ne anlamına geliyorlar?", "note": null }
+    {
+      "id": "rakam_s1",
+      "text": "[Rakam]ları sayıyor.",
+      "note": null
+    },
+    {
+      "id": "rakam_s2",
+      "text": "[Rakam]ı yazmak gerekli.",
+      "note": null
+    },
+    {
+      "id": "rakam_s3",
+      "text": "Üç [rakam] var burada.",
+      "note": null
+    },
+    {
+      "id": "rakam_s4",
+      "text": "[Rakam]lar ne anlamına geliyorlar?",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "rakam_r1",
       "prompt": "0-9 arasındaki sayıları ifade etmek için kullanılan işaret nedir?",
-      "accepted_forms": ["rakam", "sayı"],
+      "accepted_forms": [
+        "rakam",
+        "sayı"
+      ],
       "note": null
     },
     {
       "id": "rakam_r2",
       "prompt": "Matematik'te ... ile hesap yapılır.",
-      "accepted_forms": ["rakam"],
+      "accepted_forms": [
+        "rakam"
+      ],
       "note": null
     }
   ]

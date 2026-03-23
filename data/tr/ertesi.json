@@ -8,7 +8,7 @@
     {
       "id": "ertesi_s1",
       "text": "[Ertesi] gün sabah erken uyandım.",
-      "note": "'ertesi gün' = next day"
+      "note": null
     },
     {
       "id": "ertesi_s2",
@@ -23,7 +23,7 @@
     {
       "id": "ertesi_s4",
       "text": "[Ertesi] yılda ne olacak bilmiyoruz.",
-      "note": "'ertesi yıl' = next year"
+      "note": null
     }
   ],
   "recall_prompts": [

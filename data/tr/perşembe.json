@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "Thursday",
   "sentences": [
-    { "id": "persembe_s1", "text": "[Perşembe] akşamı sinemaya gidiz.", "note": "'perşembe akşamı' = Thursday evening" },
-    { "id": "persembe_s2", "text": "[Perşembe]den sonra tatil.", "note": "'perşembeden sonra' = after Thursday" },
-    { "id": "persembe_s3", "text": "Yarın [perşembe]mi?", "note": "'perşembemi?' = is it Thursday?" },
-    { "id": "persembe_s4", "text": "[Perşembe]yi bekliyorum.", "note": "'perşembeyi' = Thursday (accusative)" }
+    {
+      "id": "persembe_s1",
+      "text": "[Perşembe] akşamı sinemaya gidiz.",
+      "note": null
+    },
+    {
+      "id": "persembe_s2",
+      "text": "[Perşembe]den sonra tatil.",
+      "note": null
+    },
+    {
+      "id": "persembe_s3",
+      "text": "Yarın [perşembe]mi?",
+      "note": null
+    },
+    {
+      "id": "persembe_s4",
+      "text": "[Perşembe]yi bekliyorum.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "persembe_r1",
       "prompt": "Haftanın beşinci gününe ne denir?",
-      "accepted_forms": ["perşembe"],
+      "accepted_forms": [
+        "perşembe"
+      ],
       "note": null
     },
     {
       "id": "persembe_r2",
       "prompt": "Çarşamba'dan sonra ... gelir.",
-      "accepted_forms": ["perşembe"],
+      "accepted_forms": [
+        "perşembe"
+      ],
       "note": null
     }
   ]

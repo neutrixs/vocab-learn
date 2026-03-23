@@ -8,22 +8,22 @@
     {
       "id": "havalimanı_s1",
       "text": "Uçağa [havalimanına] erkenden gittim.",
-      "note": "'havalimanına' = to the airport (dative)"
+      "note": null
     },
     {
       "id": "havalimanı_s2",
       "text": "[Havalimanında] beklemesi 3 saat.",
-      "note": "'havalimanında' = at the airport (locative)"
+      "note": null
     },
     {
       "id": "havalimanı_s3",
       "text": "[Havalimanıından] dönmek 45 dakika.",
-      "note": "'havalimanından' = from the airport (ablative)"
+      "note": null
     },
     {
       "id": "havalimanı_s4",
       "text": "[Havalimanının] adı İstanbul Havalimanı.",
-      "note": "'havalimanının' = airport's (genitive)"
+      "note": null
     }
   ],
   "recall_prompts": [

@@ -18,12 +18,12 @@
     {
       "id": "gumus_s3",
       "text": "[Gümüşü] cilalaması gerekiyor.",
-      "note": "'gümüşü' = the silver (accusative)"
+      "note": null
     },
     {
       "id": "gumus_s4",
       "text": "[Gümüşten] yapılmış bir kaşık.",
-      "note": "'gümüşten' = made of silver (ablative)"
+      "note": null
     }
   ],
   "recall_prompts": [

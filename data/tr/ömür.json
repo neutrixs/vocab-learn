@@ -8,22 +8,22 @@
     {
       "id": "omur_s1",
       "text": "Yaşadığım [ömür] ne kadar güzel.",
-      "note": "'ömür' = lifetime"
+      "note": null
     },
     {
       "id": "omur_s2",
       "text": "[Ömür]ün kısa, yaşanması gerek.",
-      "note": "'ömrün' = life (possessive)"
+      "note": null
     },
     {
       "id": "omur_s3",
       "text": "Onun [ömür]ü 80 yıl oldu.",
-      "note": "'ömrü' = lifespan"
+      "note": null
     },
     {
       "id": "omur_s4",
       "text": "[Ömür]ü boyunca çalıştı.",
-      "note": "'ömrü boyunca' = throughout his life"
+      "note": null
     }
   ],
   "recall_prompts": [

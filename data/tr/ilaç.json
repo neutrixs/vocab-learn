@@ -13,7 +13,7 @@
     {
       "id": "ilac_s2",
       "text": "[İlacını] zamanında almak lazım.",
-      "note": "'ilacını' = his medicine (possessive accusative)"
+      "note": null
     },
     {
       "id": "ilac_s3",
@@ -23,7 +23,7 @@
     {
       "id": "ilac_s4",
       "text": "[İlaçtan] kaç kez günde almalı?",
-      "note": "'ilçtan' = from the medicine (ablative)"
+      "note": null
     }
   ],
   "recall_prompts": [

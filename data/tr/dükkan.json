@@ -5,22 +5,44 @@
   "part_of_speech": "noun",
   "english_gloss": "shop, store",
   "sentences": [
-    { "id": "dukkan_s1", "text": "[Dükkanı] kapatmak için hazırlanıyoruz.", "note": null },
-    { "id": "dukkan_s2", "text": "Köşedeki [dükkan] çok popüler.", "note": null },
-    { "id": "dukkan_s3", "text": "[Dükkanda] yeni ürünler var.", "note": "'dükkanda' = in the shop (locative)" },
-    { "id": "dukkan_s4", "text": "Bunları [dükkandan] aldım.", "note": "'dükkandan' = from the shop (ablative)" }
+    {
+      "id": "dukkan_s1",
+      "text": "[Dükkanı] kapatmak için hazırlanıyoruz.",
+      "note": null
+    },
+    {
+      "id": "dukkan_s2",
+      "text": "Köşedeki [dükkan] çok popüler.",
+      "note": null
+    },
+    {
+      "id": "dukkan_s3",
+      "text": "[Dükkanda] yeni ürünler var.",
+      "note": null
+    },
+    {
+      "id": "dukkan_s4",
+      "text": "Bunları [dükkandan] aldım.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "dukkan_r1",
       "prompt": "Bir iş yeri, satış yapılan yer. Türkçede ne denir?",
-      "accepted_forms": ["dükkan", "dükkân"],
+      "accepted_forms": [
+        "dükkan",
+        "dükkân"
+      ],
       "note": null
     },
     {
       "id": "dukkan_r2",
       "prompt": "Köşedeki ... çok kalabalık. (shop, store)",
-      "accepted_forms": ["dükkan", "dükkân"],
+      "accepted_forms": [
+        "dükkan",
+        "dükkân"
+      ],
       "note": null
     }
   ]

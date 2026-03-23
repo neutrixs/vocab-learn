@@ -5,22 +5,43 @@
   "part_of_speech": "verb",
   "english_gloss": "to cook, to bake",
   "sentences": [
-    { "id": "pisir_s1", "text": "Anne [pişiriyor] yemeği.", "note": "'pişiriyor' = is cooking" },
-    { "id": "pisir_s2", "text": "[Pişirdim] güzel bir tatlı.", "note": "'pişirdim' = I baked" },
-    { "id": "pisir_s3", "text": "Ekmek [pişir]mek uzun alır.", "note": "'pişirmek' = to bake" },
-    { "id": "pisir_s4", "text": "Yemeği [pişirme]yi niye unuttun?", "note": "'pişirmeyi' = cooking" }
+    {
+      "id": "pisir_s1",
+      "text": "Anne [pişiriyor] yemeği.",
+      "note": null
+    },
+    {
+      "id": "pisir_s2",
+      "text": "[Pişirdim] güzel bir tatlı.",
+      "note": null
+    },
+    {
+      "id": "pisir_s3",
+      "text": "Ekmek [pişir]mek uzun alır.",
+      "note": null
+    },
+    {
+      "id": "pisir_s4",
+      "text": "Yemeği [pişirme]yi niye unuttun?",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "pisir_r1",
       "prompt": "Yemeği ısıya maruz bırakarak hazırlamak ne demektir?",
-      "accepted_forms": ["pişirmek", "aşçılık"],
+      "accepted_forms": [
+        "pişirmek",
+        "aşçılık"
+      ],
       "note": null
     },
     {
       "id": "pisir_r2",
       "prompt": "Öğle yemeğini ... hazırlanıyorum.",
-      "accepted_forms": ["pişirmek"],
+      "accepted_forms": [
+        "pişirmek"
+      ],
       "note": null
     }
   ]

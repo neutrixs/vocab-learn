@@ -13,7 +13,7 @@
     {
       "id": "ilan_s2",
       "text": "[İlanında] iş arıyorlar.",
-      "note": "'ilanında' = in his/her announcement (locative)"
+      "note": null
     },
     {
       "id": "ilan_s3",
@@ -23,7 +23,7 @@
     {
       "id": "ilan_s4",
       "text": "[İlanı] herkes gördü mü?",
-      "note": "'ilanı' = the announcement (accusative)"
+      "note": null
     }
   ],
   "recall_prompts": [

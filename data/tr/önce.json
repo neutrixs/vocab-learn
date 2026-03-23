@@ -8,22 +8,22 @@
     {
       "id": "once_s1",
       "text": "Seni daha [önce] gördüm.",
-      "note": "'önce' = before"
+      "note": null
     },
     {
       "id": "once_s2",
       "text": "[Önce] ders çalış, sonra oyna.",
-      "note": "'önce' = first"
+      "note": null
     },
     {
       "id": "once_s3",
       "text": "Bundan bir ay [önce] orada idim.",
-      "note": "'bir ay önce' = a month ago"
+      "note": null
     },
     {
       "id": "once_s4",
       "text": "[Önce] hava güzel değildi.",
-      "note": "'önce' = previously"
+      "note": null
     }
   ],
   "recall_prompts": [

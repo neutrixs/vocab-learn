@@ -18,12 +18,12 @@
     {
       "id": "hali_s3",
       "text": "[Halısı] temizlemek zor.",
-      "note": "'halısı' = his carpet (possessive)"
+      "note": null
     },
     {
       "id": "hali_s4",
       "text": "[Halıyı] yumamak lazım.",
-      "note": "'halıyı' = the carpet (accusative)"
+      "note": null
     }
   ],
   "recall_prompts": [

@@ -8,22 +8,22 @@
     {
       "id": "ortmek_s1",
       "text": "Pakireti brandayla [örtün].",
-      "note": "'örtün' = cover (imperative)"
+      "note": null
     },
     {
       "id": "ortmek_s2",
       "text": "Gizli [örtülü] kaldı.",
-      "note": "'örtülü' = covered (passive)"
+      "note": null
     },
     {
       "id": "ortmek_s3",
       "text": "Yağmurdan [örtünüyoruz].",
-      "note": "'örtünüyoruz' = we are covering ourselves"
+      "note": null
     },
     {
       "id": "ortmek_s4",
       "text": "Gerçeği [örtmemeliyiz].",
-      "note": "'örtmemeliyiz' = we shouldn't conceal"
+      "note": null
     }
   ],
   "recall_prompts": [

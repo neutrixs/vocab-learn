@@ -5,22 +5,43 @@
   "part_of_speech": "noun",
   "english_gloss": "politician",
   "sentences": [
-    { "id": "politikaci_s1", "text": "[Politikacı] mecliste konuştu.", "note": "'politikacı' = politician" },
-    { "id": "politikaci_s2", "text": "[Politikacı]lar seçim yapıyorlar.", "note": "'politikacılar' = politicians" },
-    { "id": "politikaci_s3", "text": "[Politikacı]nın sözleri önemli.", "note": "'politikacının' = politician's" },
-    { "id": "politikaci_s4", "text": "Başkan bir [politikacı].", "note": null }
+    {
+      "id": "politikaci_s1",
+      "text": "[Politikacı] mecliste konuştu.",
+      "note": null
+    },
+    {
+      "id": "politikaci_s2",
+      "text": "[Politikacı]lar seçim yapıyorlar.",
+      "note": null
+    },
+    {
+      "id": "politikaci_s3",
+      "text": "[Politikacı]nın sözleri önemli.",
+      "note": null
+    },
+    {
+      "id": "politikaci_s4",
+      "text": "Başkan bir [politikacı].",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "politikaci_r1",
       "prompt": "Siyaset yapan ve hükümet işlerinde çalışan insan nedir?",
-      "accepted_forms": ["politikacı", "devlet adamı"],
+      "accepted_forms": [
+        "politikacı",
+        "devlet adamı"
+      ],
       "note": null
     },
     {
       "id": "politikaci_r2",
       "prompt": "Seçimde oy alan ... kim oluyor?",
-      "accepted_forms": ["politikacı"],
+      "accepted_forms": [
+        "politikacı"
+      ],
       "note": null
     }
   ]

@@ -8,17 +8,17 @@
     {
       "id": "oldur_s1",
       "text": "Avcı hayvanı [öldürdü].",
-      "note": "'öldürdü' = he/she killed"
+      "note": null
     },
     {
       "id": "oldur_s2",
       "text": "Bu hastalık milyonları [öldürüyor].",
-      "note": "'öldürüyor' = is killing"
+      "note": null
     },
     {
       "id": "oldur_s3",
       "text": "Yılanı [öl]dürmemeliyiz çoğu zaman.",
-      "note": "'öldürmemeliyiz' = we shouldn't kill"
+      "note": null
     },
     {
       "id": "oldur_s4",

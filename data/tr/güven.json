@@ -13,17 +13,17 @@
     {
       "id": "guven_s2",
       "text": "[Güveni] kırmamak önemli.",
-      "note": "'güveni' = trust (accusative)"
+      "note": null
     },
     {
       "id": "guven_s3",
       "text": "[Güvenle] hareket edebilirim.",
-      "note": "'güvenle' = with confidence (instrumental)"
+      "note": null
     },
     {
       "id": "guven_s4",
       "text": "[Güvensizlik] hissediyorum.",
-      "note": "'güvensizlik' = lack of trust"
+      "note": null
     }
   ],
   "recall_prompts": [
