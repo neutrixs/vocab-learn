@@ -37,7 +37,7 @@
     },
     {
       "id": "hat_r2",
-      "prompt": "Bu otobüs hangi [...] ta çalışıyor?",
+      "prompt": "Bu otobüs hangi ... ta çalışıyor?",
       "accepted_forms": [
         "hat"
       ],

@@ -37,7 +37,7 @@
     },
     {
       "id": "hasta_r2",
-      "prompt": "Arkadaşın halen okula gelmedi, [...] mıdır?",
+      "prompt": "Arkadaşın halen okula gelmedi, ... mıdır?",
       "accepted_forms": [
         "hasta"
       ],

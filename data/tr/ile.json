@@ -39,7 +39,7 @@
     },
     {
       "id": "ile_r2",
-      "prompt": "Otobüs [...] dönüştü.",
+      "prompt": "Otobüs ... dönüştü.",
       "accepted_forms": [
         "ile",
         "yle",

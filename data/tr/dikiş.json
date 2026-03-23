@@ -44,7 +44,7 @@
     },
     {
       "id": "dikiş_r2",
-      "prompt": "Bu elbisedeki [dikiş] çok güzel ve simetrik.",
+      "prompt": "Bu elbisedeki ... çok güzel ve simetrik.",
       "accepted_forms": [
         "dikiş",
         "dikişler"

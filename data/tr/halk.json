@@ -37,7 +37,7 @@
     },
     {
       "id": "halk_r2",
-      "prompt": "Bir ülkenin [...] çok kalabalık.",
+      "prompt": "Bir ülkenin ... çok kalabalık.",
       "accepted_forms": [
         "halkı"
       ],

@@ -37,7 +37,7 @@
     },
     {
       "id": "farketmez_r2",
-      "prompt": "Hangi renkle giyinirsen [fark etmez].",
+      "prompt": "Hangi renkle giyinirsen ....",
       "accepted_forms": [
         "fark etmez"
       ],

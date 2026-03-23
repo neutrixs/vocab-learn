@@ -37,7 +37,7 @@
     },
     {
       "id": "ertesi_r2",
-      "prompt": "[Ertesi] gün olay oldu.",
+      "prompt": "... gün olay oldu.",
       "accepted_forms": [
         "ertesi"
       ],

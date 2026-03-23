@@ -39,7 +39,7 @@
     },
     {
       "id": "satmak_r2",
-      "prompt": "Dükkan bu ayda çok [...].",
+      "prompt": "Dükkan bu ayda çok ....",
       "accepted_forms": [
         "sattı",
         "satış yaptı",

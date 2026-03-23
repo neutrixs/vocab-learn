@@ -37,7 +37,7 @@
     },
     {
       "id": "ilan_r2",
-      "prompt": "Gazete ve dergilerde para karşılığında yayınlanan [...] vardır.",
+      "prompt": "Gazete ve dergilerde para karşılığında yayınlanan ... vardır.",
       "accepted_forms": [
         "ilan"
       ],

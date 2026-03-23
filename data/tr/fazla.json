@@ -37,7 +37,7 @@
     },
     {
       "id": "fazla_r2",
-      "prompt": "[Fazla] ağır kargo için ücret isterse.",
+      "prompt": "... ağır kargo için ücret isterse.",
       "accepted_forms": [
         "fazla"
       ],

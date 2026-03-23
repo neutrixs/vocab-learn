@@ -37,7 +37,7 @@
     },
     {
       "id": "grip_r2",
-      "prompt": "Geçen hafta [...] oldum ve eve kapandım.",
+      "prompt": "Geçen hafta ... oldum ve eve kapandım.",
       "accepted_forms": [
         "grip",
         "gripli"

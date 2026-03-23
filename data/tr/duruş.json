@@ -44,7 +44,7 @@
     },
     {
       "id": "duruş_r2",
-      "prompt": "Balerin çok zarif ve ince bir [duruş] gösteriyor.",
+      "prompt": "Balerin çok zarif ve ince bir ... gösteriyor.",
       "accepted_forms": [
         "duruş",
         "duruşu"

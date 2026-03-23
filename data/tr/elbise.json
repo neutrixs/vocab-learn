@@ -37,7 +37,7 @@
     },
     {
       "id": "elbise_r2",
-      "prompt": "Mavi [elbise] giydi düğüne.",
+      "prompt": "Mavi ... giydi düğüne.",
       "accepted_forms": [
         "elbise"
       ],

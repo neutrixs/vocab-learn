@@ -29,7 +29,7 @@
   "recall_prompts": [
     {
       "id": "bulusmak_r1",
-      "prompt": "Birisiyle kararlaştırılan yerde birarada olmak: '[...]'",
+      "prompt": "Birisiyle kararlaştırılan yerde birarada olmak: '...'",
       "accepted_forms": [
         "buluştum",
         "buluşmak"
@@ -38,7 +38,7 @@
     },
     {
       "id": "bulusmak_r2",
-      "prompt": "Arkadaşım beraber birarada olmak için: '[...]' istiyorum.",
+      "prompt": "Arkadaşım beraber birarada olmak için: '...' istiyorum.",
       "accepted_forms": [
         "buluşmak"
       ],

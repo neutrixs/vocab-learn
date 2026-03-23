@@ -5,22 +5,42 @@
   "part_of_speech": "adjective",
   "english_gloss": "whole, entire, all, complete",
   "sentences": [
-    { "id": "butun_s1", "text": "[Bütün] gün çalıştım.", "note": null },
-    { "id": "butun_s2", "text": "[Bütün] sınıf gitti.", "note": null },
-    { "id": "butun_s3", "text": "[Bütün] dünyada tanınıyor.", "note": null },
-    { "id": "butun_s4", "text": "[Bütün] hayatı böyle geçti.", "note": null }
+    {
+      "id": "butun_s1",
+      "text": "[Bütün] gün çalıştım.",
+      "note": null
+    },
+    {
+      "id": "butun_s2",
+      "text": "[Bütün] sınıf gitti.",
+      "note": null
+    },
+    {
+      "id": "butun_s3",
+      "text": "[Bütün] dünyada tanınıyor.",
+      "note": null
+    },
+    {
+      "id": "butun_s4",
+      "text": "[Bütün] hayatı böyle geçti.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "butun_r1",
-      "prompt": "Hiç parçalanmamış, tam: '[...]' gün uyuduk.",
-      "accepted_forms": ["bütün"],
+      "prompt": "Hiç parçalanmamış, tam: '...' gün uyuduk.",
+      "accepted_forms": [
+        "bütün"
+      ],
       "note": null
     },
     {
       "id": "butun_r2",
-      "prompt": "Sınıfın tamamı, hepsi: '[...] sınıf gitti.'",
-      "accepted_forms": ["bütün"],
+      "prompt": "Sınıfın tamamı, hepsi: '... sınıf gitti.'",
+      "accepted_forms": [
+        "bütün"
+      ],
       "note": null
     }
   ]

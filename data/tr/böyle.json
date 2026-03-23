@@ -5,22 +5,42 @@
   "part_of_speech": "adverb",
   "english_gloss": "like this, like that, so, thus, in this way",
   "sentences": [
-    { "id": "boyle_s1", "text": "[Böyle] yapmalısın.", "note": null },
-    { "id": "boyle_s2", "text": "[Böyle] bir durum hiç görmedim.", "note": null },
-    { "id": "boyle_s3", "text": "Bu [böyle] devam edebilir.", "note": null },
-    { "id": "boyle_s4", "text": "[Böylece] gelişim başladı.", "note": "böylece = thus" }
+    {
+      "id": "boyle_s1",
+      "text": "[Böyle] yapmalısın.",
+      "note": null
+    },
+    {
+      "id": "boyle_s2",
+      "text": "[Böyle] bir durum hiç görmedim.",
+      "note": null
+    },
+    {
+      "id": "boyle_s3",
+      "text": "Bu [böyle] devam edebilir.",
+      "note": null
+    },
+    {
+      "id": "boyle_s4",
+      "text": "[Böylece] gelişim başladı.",
+      "note": "böylece = thus"
+    }
   ],
   "recall_prompts": [
     {
       "id": "boyle_r1",
-      "prompt": "Bu şekilde, bu şekilde: '[...]' olur mu?",
-      "accepted_forms": ["böyle"],
+      "prompt": "Bu şekilde, bu şekilde: '...' olur mu?",
+      "accepted_forms": [
+        "böyle"
+      ],
       "note": null
     },
     {
       "id": "boyle_r2",
       "prompt": "İşi ... yapmanız lazım.",
-      "accepted_forms": ["böyle"],
+      "accepted_forms": [
+        "böyle"
+      ],
       "note": null
     }
   ]

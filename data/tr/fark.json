@@ -37,7 +37,7 @@
     },
     {
       "id": "fark_r2",
-      "prompt": "[Fark] ne var bu ikisi arasında?",
+      "prompt": "... ne var bu ikisi arasında?",
       "accepted_forms": [
         "fark"
       ],

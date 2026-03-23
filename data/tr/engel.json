@@ -44,7 +44,7 @@
     },
     {
       "id": "engel_r2",
-      "prompt": "Özür dile, hiçbir [engel] olmaz.",
+      "prompt": "Özür dile, hiçbir ... olmaz.",
       "accepted_forms": [
         "engel",
         "engeli"

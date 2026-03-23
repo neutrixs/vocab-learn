@@ -29,7 +29,7 @@
   "recall_prompts": [
     {
       "id": "bos_r1",
-      "prompt": "İçinde hiçbir şey olmayan: '[...]' kap",
+      "prompt": "İçinde hiçbir şey olmayan: '...' kap",
       "accepted_forms": [
         "boş"
       ],
@@ -37,7 +37,7 @@
     },
     {
       "id": "bos_r2",
-      "prompt": "Beş saat [...]tat, hiçbir aktivite yok.",
+      "prompt": "Beş saat ...tat, hiçbir aktivite yok.",
       "accepted_forms": [
         "boş"
       ],

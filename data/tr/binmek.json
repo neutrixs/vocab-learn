@@ -29,7 +29,7 @@
   "recall_prompts": [
     {
       "id": "binmek_r1",
-      "prompt": "Otobüse girmek: 'Otobüse [...]'",
+      "prompt": "Otobüse girmek: 'Otobüse ...'",
       "accepted_forms": [
         "bindim",
         "biniyorum"
@@ -38,7 +38,7 @@
     },
     {
       "id": "binmek_r2",
-      "prompt": "Ata veya bisiklete çıkmak: 'Bisiklete [...]'",
+      "prompt": "Ata veya bisiklete çıkmak: 'Bisiklete ...'",
       "accepted_forms": [
         "bindim",
         "bin"

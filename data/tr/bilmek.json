@@ -29,7 +29,7 @@
   "recall_prompts": [
     {
       "id": "bilmek_r1",
-      "prompt": "Bir şeyin bilgisine sahip olmak: 'Cevabı [...]'",
+      "prompt": "Bir şeyin bilgisine sahip olmak: 'Cevabı ...'",
       "accepted_forms": [
         "biliyorum",
         "biliyordum",

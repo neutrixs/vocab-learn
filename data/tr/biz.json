@@ -29,7 +29,7 @@
   "recall_prompts": [
     {
       "id": "biz_r1",
-      "prompt": "Konuşan kişi ve arkadaşlarını ifade eden zamir: '[...]' öğrenciyiz.",
+      "prompt": "Konuşan kişi ve arkadaşlarını ifade eden zamir: '...' öğrenciyiz.",
       "accepted_forms": [
         "biz"
       ],

@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "noise, sound",
   "sentences": [
-    { "id": "gurultu_s1", "text": "[Gürültü] çok fazla, uyuyamıyorum.", "note": null },
-    { "id": "gurultu_s2", "text": "[Gürültüsü] dışarıdan geliyor.", "note": "'gürültüsü' = its noise (possessive)" },
-    { "id": "gurultu_s3", "text": "[Gürültüsüz] bir oda istiyorum.", "note": "'gürültüsüz' = soundless (negative)" },
-    { "id": "gurultu_s4", "text": "[Gürültüyü] kapatabilir misin?", "note": "'gürültüyü' = the noise (accusative)" }
+    {
+      "id": "gurultu_s1",
+      "text": "[Gürültü] çok fazla, uyuyamıyorum.",
+      "note": null
+    },
+    {
+      "id": "gurultu_s2",
+      "text": "[Gürültüsü] dışarıdan geliyor.",
+      "note": "'gürültüsü' = its noise (possessive)"
+    },
+    {
+      "id": "gurultu_s3",
+      "text": "[Gürültüsüz] bir oda istiyorum.",
+      "note": "'gürültüsüz' = soundless (negative)"
+    },
+    {
+      "id": "gurultu_s4",
+      "text": "[Gürültüyü] kapatabilir misin?",
+      "note": "'gürültüyü' = the noise (accusative)"
+    }
   ],
   "recall_prompts": [
     {
       "id": "gurultu_r1",
       "prompt": "Rahatsız edici ses: ...",
-      "accepted_forms": ["gürültü"],
+      "accepted_forms": [
+        "gürültü"
+      ],
       "note": null
     },
     {
       "id": "gurultu_r2",
-      "prompt": "Caddenin [...] ben uyuyamıyorum.",
-      "accepted_forms": ["gürültüsünden"],
+      "prompt": "Caddenin ... ben uyuyamıyorum.",
+      "accepted_forms": [
+        "gürültüsünden"
+      ],
       "note": null
     }
   ]

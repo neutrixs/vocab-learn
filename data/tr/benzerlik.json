@@ -44,7 +44,7 @@
     },
     {
       "id": "benzerlik_r2",
-      "prompt": "Bu binaların mimarı aynı, bu yüzden aralarında [benzerlik] var.",
+      "prompt": "Bu binaların mimarı aynı, bu yüzden aralarında ... var.",
       "accepted_forms": [
         "benzerlik",
         "benzerlikleri"

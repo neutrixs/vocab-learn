@@ -5,22 +5,42 @@
   "part_of_speech": "adverb",
   "english_gloss": "for this time, just this once",
   "sentences": [
-    { "id": "bu_seferlik_s1", "text": "[Bu seferlik] geçti.", "note": null },
-    { "id": "bu_seferlik_s2", "text": "[Bu seferlik] tamam.", "note": null },
-    { "id": "bu_seferlik_s3", "text": "[Bu seferlik] affedildin.", "note": null },
-    { "id": "bu_seferlik_s4", "text": "[Bu seferlik] başka.", "note": null }
+    {
+      "id": "bu_seferlik_s1",
+      "text": "[Bu seferlik] geçti.",
+      "note": null
+    },
+    {
+      "id": "bu_seferlik_s2",
+      "text": "[Bu seferlik] tamam.",
+      "note": null
+    },
+    {
+      "id": "bu_seferlik_s3",
+      "text": "[Bu seferlik] affedildin.",
+      "note": null
+    },
+    {
+      "id": "bu_seferlik_s4",
+      "text": "[Bu seferlik] başka.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "bu_seferlik_r1",
-      "prompt": "Sadece bu kez için: '[...]' izin veriyorum.",
-      "accepted_forms": ["bu seferlik"],
+      "prompt": "Sadece bu kez için: '...' izin veriyorum.",
+      "accepted_forms": [
+        "bu seferlik"
+      ],
       "note": null
     },
     {
       "id": "bu_seferlik_r2",
-      "prompt": "[...] affedildin ama sonra dikkat et!",
-      "accepted_forms": ["bu seferlik"],
+      "prompt": "... affedildin ama sonra dikkat et!",
+      "accepted_forms": [
+        "bu seferlik"
+      ],
       "note": null
     }
   ]

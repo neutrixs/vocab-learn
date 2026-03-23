@@ -38,7 +38,7 @@
     },
     {
       "id": "goz_r2",
-      "prompt": "Birinin 'Gözlerinin rengi ne?' diye soruyor. Cevap: '[...] mavi.'",
+      "prompt": "Birinin 'Gözlerinin rengi ne?' diye soruyor. Cevap: '... mavi.'",
       "accepted_forms": [
         "gözleri",
         "göz"

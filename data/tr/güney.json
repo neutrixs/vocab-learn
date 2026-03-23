@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "south",
   "sentences": [
-    { "id": "guney_s1", "text": "Türkiye'nin [güney]inde Antalya var.", "note": "'güneyi' = south (accusative)" },
-    { "id": "guney_s2", "text": "[Güney] bölgesi çok sıcak.", "note": null },
-    { "id": "guney_s3", "text": "Rüzgar [güney]den geliyor.", "note": "'güney'den' = from the south (ablative)" },
-    { "id": "guney_s4", "text": "[Güneye] doğru yolculuk yapıyoruz.", "note": "'güneye' = towards the south" }
+    {
+      "id": "guney_s1",
+      "text": "Türkiye'nin [güney]inde Antalya var.",
+      "note": "'güneyi' = south (accusative)"
+    },
+    {
+      "id": "guney_s2",
+      "text": "[Güney] bölgesi çok sıcak.",
+      "note": null
+    },
+    {
+      "id": "guney_s3",
+      "text": "Rüzgar [güney]den geliyor.",
+      "note": "'güney'den' = from the south (ablative)"
+    },
+    {
+      "id": "guney_s4",
+      "text": "[Güneye] doğru yolculuk yapıyoruz.",
+      "note": "'güneye' = towards the south"
+    }
   ],
   "recall_prompts": [
     {
       "id": "guney_r1",
       "prompt": "Haritada kuzey karşısında olan yön: ...",
-      "accepted_forms": ["güney"],
+      "accepted_forms": [
+        "güney"
+      ],
       "note": null
     },
     {
       "id": "guney_r2",
-      "prompt": "Antalya ve Mersin Türkiye'nin [...] bölgesinde.",
-      "accepted_forms": ["güney"],
+      "prompt": "Antalya ve Mersin Türkiye'nin ... bölgesinde.",
+      "accepted_forms": [
+        "güney"
+      ],
       "note": null
     }
   ]

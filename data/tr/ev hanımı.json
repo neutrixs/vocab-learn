@@ -37,7 +37,7 @@
     },
     {
       "id": "evhanimi_r2",
-      "prompt": "[Ev hanımı] aşçılık, temizlik, çamaşır yapar.",
+      "prompt": "... aşçılık, temizlik, çamaşır yapar.",
       "accepted_forms": [
         "ev hanımı"
       ],

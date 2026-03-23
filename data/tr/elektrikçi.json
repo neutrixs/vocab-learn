@@ -37,7 +37,7 @@
     },
     {
       "id": "elektrikci_r2",
-      "prompt": "[Elektrikçi] gelecek yarın, ışığı tamir etmesini sağlayacağım.",
+      "prompt": "... gelecek yarın, ışığı tamir etmesini sağlayacağım.",
       "accepted_forms": [
         "elektrikçi"
       ],

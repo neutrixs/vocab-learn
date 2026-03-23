@@ -37,7 +37,7 @@
     },
     {
       "id": "hemen_r2",
-      "prompt": "[...] başla, vakit kaybetme.",
+      "prompt": "... başla, vakit kaybetme.",
       "accepted_forms": [
         "hemen"
       ],

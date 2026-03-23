@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "carpet, rug",
   "sentences": [
-    { "id": "hali_s1", "text": "[Halı] çok güzel, nereden aldın?", "note": null },
-    { "id": "hali_s2", "text": "Kırmızı [halı] tezgahına koydum.", "note": null },
-    { "id": "hali_s3", "text": "[Halısı] temizlemek zor.", "note": "'halısı' = his carpet (possessive)" },
-    { "id": "hali_s4", "text": "[Halıyı] yumamak lazım.", "note": "'halıyı' = the carpet (accusative)" }
+    {
+      "id": "hali_s1",
+      "text": "[Halı] çok güzel, nereden aldın?",
+      "note": null
+    },
+    {
+      "id": "hali_s2",
+      "text": "Kırmızı [halı] tezgahına koydum.",
+      "note": null
+    },
+    {
+      "id": "hali_s3",
+      "text": "[Halısı] temizlemek zor.",
+      "note": "'halısı' = his carpet (possessive)"
+    },
+    {
+      "id": "hali_s4",
+      "text": "[Halıyı] yumamak lazım.",
+      "note": "'halıyı' = the carpet (accusative)"
+    }
   ],
   "recall_prompts": [
     {
       "id": "hali_r1",
       "prompt": "Yerdeki dokulu kumaş eşya: ...",
-      "accepted_forms": ["halı"],
+      "accepted_forms": [
+        "halı"
+      ],
       "note": null
     },
     {
       "id": "hali_r2",
-      "prompt": "Oturma odasının ortasında bir [...] var.",
-      "accepted_forms": ["halı"],
+      "prompt": "Oturma odasının ortasında bir ... var.",
+      "accepted_forms": [
+        "halı"
+      ],
       "note": null
     }
   ]

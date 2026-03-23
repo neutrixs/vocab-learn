@@ -44,7 +44,7 @@
     },
     {
       "id": "düşük_r2",
-      "prompt": "Bu masanın yüksekliği çok [düşük] bana göre.",
+      "prompt": "Bu masanın yüksekliği çok ... bana göre.",
       "accepted_forms": [
         "düşük",
         "alçak"

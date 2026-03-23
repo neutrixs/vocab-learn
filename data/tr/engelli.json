@@ -44,7 +44,7 @@
     },
     {
       "id": "engelli_r2",
-      "prompt": "[Engelli] bireyler toplumda eşit haklara sahip olmalıdır.",
+      "prompt": "... bireyler toplumda eşit haklara sahip olmalıdır.",
       "accepted_forms": [
         "engelli",
         "engelliler"

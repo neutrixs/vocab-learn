@@ -29,7 +29,7 @@
   "recall_prompts": [
     {
       "id": "bugun_r1",
-      "prompt": "Şu anki gün: '[...]' ne yapacaksın?",
+      "prompt": "Şu anki gün: '...' ne yapacaksın?",
       "accepted_forms": [
         "bugün"
       ],
@@ -37,7 +37,7 @@
     },
     {
       "id": "bugun_r2",
-      "prompt": "[...] hava çok güzel.",
+      "prompt": "... hava çok güzel.",
       "accepted_forms": [
         "bugün"
       ],

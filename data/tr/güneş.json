@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "sun",
   "sentences": [
-    { "id": "gunes_s1", "text": "[Güneş] çok sıcak bugün.", "note": null },
-    { "id": "gunes_s2", "text": "[Güneşin] doğuşu çok güzel.", "note": "'güneşin' = sun's (genitive)" },
-    { "id": "gunes_s3", "text": "[Güneşe] bakmak gözleri zarar veriyor.", "note": "'güneşe' = at the sun (dative)" },
-    { "id": "gunes_s4", "text": "[Güneş] batıyor, akşam oluyor.", "note": null }
+    {
+      "id": "gunes_s1",
+      "text": "[Güneş] çok sıcak bugün.",
+      "note": null
+    },
+    {
+      "id": "gunes_s2",
+      "text": "[Güneşin] doğuşu çok güzel.",
+      "note": "'güneşin' = sun's (genitive)"
+    },
+    {
+      "id": "gunes_s3",
+      "text": "[Güneşe] bakmak gözleri zarar veriyor.",
+      "note": "'güneşe' = at the sun (dative)"
+    },
+    {
+      "id": "gunes_s4",
+      "text": "[Güneş] batıyor, akşam oluyor.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "gunes_r1",
       "prompt": "Gökyüzünde parlayan yıldız: ...",
-      "accepted_forms": ["güneş"],
+      "accepted_forms": [
+        "güneş"
+      ],
       "note": null
     },
     {
       "id": "gunes_r2",
-      "prompt": "Sabah [...] doğuşu çok şiirsel.",
-      "accepted_forms": ["güneş"],
+      "prompt": "Sabah ... doğuşu çok şiirsel.",
+      "accepted_forms": [
+        "güneş"
+      ],
       "note": null
     }
   ]

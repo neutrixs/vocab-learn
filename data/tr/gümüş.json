@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "silver",
   "sentences": [
-    { "id": "gumus_s1", "text": "[Gümüş] çok değerli bir metali.", "note": null },
-    { "id": "gumus_s2", "text": "[Gümüş] yüzük çok güzel.", "note": null },
-    { "id": "gumus_s3", "text": "[Gümüşü] cilalaması gerekiyor.", "note": "'gümüşü' = the silver (accusative)" },
-    { "id": "gumus_s4", "text": "[Gümüşten] yapılmış bir kaşık.", "note": "'gümüşten' = made of silver (ablative)" }
+    {
+      "id": "gumus_s1",
+      "text": "[Gümüş] çok değerli bir metali.",
+      "note": null
+    },
+    {
+      "id": "gumus_s2",
+      "text": "[Gümüş] yüzük çok güzel.",
+      "note": null
+    },
+    {
+      "id": "gumus_s3",
+      "text": "[Gümüşü] cilalaması gerekiyor.",
+      "note": "'gümüşü' = the silver (accusative)"
+    },
+    {
+      "id": "gumus_s4",
+      "text": "[Gümüşten] yapılmış bir kaşık.",
+      "note": "'gümüşten' = made of silver (ablative)"
+    }
   ],
   "recall_prompts": [
     {
       "id": "gumus_r1",
       "prompt": "Altından sonra en değerli maden: ...",
-      "accepted_forms": ["gümüş"],
+      "accepted_forms": [
+        "gümüş"
+      ],
       "note": null
     },
     {
       "id": "gumus_r2",
-      "prompt": "Anneannemin [...] halkaları var.",
-      "accepted_forms": ["gümüş"],
+      "prompt": "Anneannemin ... halkaları var.",
+      "accepted_forms": [
+        "gümüş"
+      ],
       "note": null
     }
   ]

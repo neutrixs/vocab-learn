@@ -37,7 +37,7 @@
     },
     {
       "id": "ensonunda_r2",
-      "prompt": "[En sonunda] karar verdi, evet dedi.",
+      "prompt": "... karar verdi, evet dedi.",
       "accepted_forms": [
         "en sonunda"
       ],

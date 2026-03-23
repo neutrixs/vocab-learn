@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "yesterday",
   "sentences": [
-    { "id": "dun_s1", "text": "[Dün] ne yaptın?", "note": null },
-    { "id": "dun_s2", "text": "[Dün] akşam sinema gittim.", "note": null },
-    { "id": "dun_s3", "text": "[Dün] çok yoruldum.", "note": null },
-    { "id": "dun_s4", "text": "[Dünkü] maç çok güzeldi.", "note": "'dünkü' = yesterday's (possessive form)" }
+    {
+      "id": "dun_s1",
+      "text": "[Dün] ne yaptın?",
+      "note": null
+    },
+    {
+      "id": "dun_s2",
+      "text": "[Dün] akşam sinema gittim.",
+      "note": null
+    },
+    {
+      "id": "dun_s3",
+      "text": "[Dün] çok yoruldum.",
+      "note": null
+    },
+    {
+      "id": "dun_s4",
+      "text": "[Dünkü] maç çok güzeldi.",
+      "note": "'dünkü' = yesterday's (possessive form)"
+    }
   ],
   "recall_prompts": [
     {
       "id": "dun_r1",
       "prompt": "Bugünün bir gün öncesi. Ne zaman?",
-      "accepted_forms": ["dün"],
+      "accepted_forms": [
+        "dün"
+      ],
       "note": null
     },
     {
       "id": "dun_r2",
-      "prompt": "[Dün] yağmur yağdı. (Yesterday)",
-      "accepted_forms": ["dün"],
+      "prompt": "... yağmur yağdı. (Yesterday)",
+      "accepted_forms": [
+        "dün"
+      ],
       "note": null
     }
   ]

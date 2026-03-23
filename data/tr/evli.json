@@ -37,7 +37,7 @@
     },
     {
       "id": "evli_r2",
-      "prompt": "[Evli] misin?",
+      "prompt": "... misin?",
       "accepted_forms": [
         "evli"
       ],

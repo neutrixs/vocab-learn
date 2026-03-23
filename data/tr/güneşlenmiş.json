@@ -5,22 +5,45 @@
   "part_of_speech": "adjective",
   "english_gloss": "sunburned, tanned",
   "sentences": [
-    { "id": "guneslenmi_s1", "text": "[Güneşlenmiş] cilt sağlıksız olabilir.", "note": null },
-    { "id": "guneslenmi_s2", "text": "Tatilden [güneşlenmiş] olarak dönmüş.", "note": null },
-    { "id": "guneslenmi_s3", "text": "[Güneşlenmiş] çiftçiler.", "note": null },
-    { "id": "guneslenmi_s4", "text": "Yüzü [güneşlenmiş] ama kaş kısmı beyaz.", "note": null }
+    {
+      "id": "guneslenmi_s1",
+      "text": "[Güneşlenmiş] cilt sağlıksız olabilir.",
+      "note": null
+    },
+    {
+      "id": "guneslenmi_s2",
+      "text": "Tatilden [güneşlenmiş] olarak dönmüş.",
+      "note": null
+    },
+    {
+      "id": "guneslenmi_s3",
+      "text": "[Güneşlenmiş] çiftçiler.",
+      "note": null
+    },
+    {
+      "id": "guneslenmi_s4",
+      "text": "Yüzü [güneşlenmiş] ama kaş kısmı beyaz.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "guneslenmi_r1",
       "prompt": "Güneşte çok vakit geçirince cilt nasıl olur?",
-      "accepted_forms": ["güneşlenmiş", "güneşlemiş", "bronz"],
+      "accepted_forms": [
+        "güneşlenmiş",
+        "güneşlemiş",
+        "bronz"
+      ],
       "note": null
     },
     {
       "id": "guneslenmi_r2",
-      "prompt": "Sahilden döndüğünde vücudun [...] oluyor.",
-      "accepted_forms": ["güneşlenmiş", "güneşlemişti"],
+      "prompt": "Sahilden döndüğünde vücudun ... oluyor.",
+      "accepted_forms": [
+        "güneşlenmiş",
+        "güneşlemişti"
+      ],
       "note": null
     }
   ]

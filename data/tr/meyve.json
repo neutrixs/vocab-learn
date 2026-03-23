@@ -5,22 +5,44 @@
   "part_of_speech": "noun",
   "english_gloss": "fruit",
   "sentences": [
-    { "id": "meyve_s1", "text": "[Meyve] sağlıklı.", "note": null },
-    { "id": "meyve_s2", "text": "[Meyveler] pazarda satılıyor.", "note": null },
-    { "id": "meyve_s3", "text": "[Meyvelerini] sev.", "note": null },
-    { "id": "meyve_s4", "text": "Taze [meyve] almıştım.", "note": null }
+    {
+      "id": "meyve_s1",
+      "text": "[Meyve] sağlıklı.",
+      "note": null
+    },
+    {
+      "id": "meyve_s2",
+      "text": "[Meyveler] pazarda satılıyor.",
+      "note": null
+    },
+    {
+      "id": "meyve_s3",
+      "text": "[Meyvelerini] sev.",
+      "note": null
+    },
+    {
+      "id": "meyve_s4",
+      "text": "Taze [meyve] almıştım.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "meyve_r1",
       "prompt": "Ağaçta yetişen yenilenebilir gıda. Örnek ... nelerdir?",
-      "accepted_forms": ["meyve", "elmalar", "portakal"],
+      "accepted_forms": [
+        "meyve",
+        "elmalar",
+        "portakal"
+      ],
       "note": null
     },
     {
       "id": "meyve_r2",
-      "prompt": "Pazarda satılan sağlıklı besin. '[...] pazarında bulunur.'",
-      "accepted_forms": ["meyve"],
+      "prompt": "Pazarda satılan sağlıklı besin. '... pazarında bulunur.'",
+      "accepted_forms": [
+        "meyve"
+      ],
       "note": null
     }
   ]

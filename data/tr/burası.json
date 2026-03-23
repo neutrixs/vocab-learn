@@ -29,7 +29,7 @@
   "recall_prompts": [
     {
       "id": "burası_r1",
-      "prompt": "Şu anda bulunulan yer: '[...]' ne kadar güzel!",
+      "prompt": "Şu anda bulunulan yer: '...' ne kadar güzel!",
       "accepted_forms": [
         "burası"
       ],
@@ -37,7 +37,7 @@
     },
     {
       "id": "burası_r2",
-      "prompt": "'[...] nerede?' diye soruyor.",
+      "prompt": "'... nerede?' diye soruyor.",
       "accepted_forms": [
         "burası"
       ],

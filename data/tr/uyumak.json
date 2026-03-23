@@ -5,16 +5,35 @@
   "part_of_speech": "verb",
   "english_gloss": "to sleep, to suit",
   "sentences": [
-    { "id": "uyumak_s1", "text": "Geç saate kadar [uyudum].", "note": null },
-    { "id": "uyumak_s2", "text": "[Uyuyor] musun? Naber?", "note": null },
-    { "id": "uyumak_s3", "text": "Bugün iyice [uyumalıyız].", "note": null },
-    { "id": "uyumak_s4", "text": "Renkler birbirine [uyuyodu] mu?", "note": null }
+    {
+      "id": "uyumak_s1",
+      "text": "Geç saate kadar [uyudum].",
+      "note": null
+    },
+    {
+      "id": "uyumak_s2",
+      "text": "[Uyuyor] musun? Naber?",
+      "note": null
+    },
+    {
+      "id": "uyumak_s3",
+      "text": "Bugün iyice [uyumalıyız].",
+      "note": null
+    },
+    {
+      "id": "uyumak_s4",
+      "text": "Renkler birbirine [uyuyodu] mu?",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "uyumak_r1",
-      "prompt": "Gece geç saatlere [gelmedim ve yattım].",
-      "accepted_forms": ["uyudum", "yattım"],
+      "prompt": "Gece geç saatlere ....",
+      "accepted_forms": [
+        "uyudum",
+        "yattım"
+      ],
       "note": null
     }
   ]

@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "tavern, pub, bar",
   "sentences": [
-    { "id": "meyhane_s1", "text": "[Meyhaneye] gitti akşam.", "note": null },
-    { "id": "meyhane_s2", "text": "İçinde [meyhane] kalabalık.", "note": null },
-    { "id": "meyhane_s3", "text": "[Meyhanda] arkadaş buluştuk.", "note": null },
-    { "id": "meyhane_s4", "text": "[Meyhanenin] fiyatı pahalı.", "note": null }
+    {
+      "id": "meyhane_s1",
+      "text": "[Meyhaneye] gitti akşam.",
+      "note": null
+    },
+    {
+      "id": "meyhane_s2",
+      "text": "İçinde [meyhane] kalabalık.",
+      "note": null
+    },
+    {
+      "id": "meyhane_s3",
+      "text": "[Meyhanda] arkadaş buluştuk.",
+      "note": null
+    },
+    {
+      "id": "meyhane_s4",
+      "text": "[Meyhanenin] fiyatı pahalı.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "meyhane_r1",
       "prompt": "Alkol ve meze yediğimiz yer. Türkçesi?",
-      "accepted_forms": ["meyhane"],
+      "accepted_forms": [
+        "meyhane"
+      ],
       "note": null
     },
     {
       "id": "meyhane_r2",
-      "prompt": "Gece eğlenti yapılan yer. '[...] ye gittik.'",
-      "accepted_forms": ["meyhane"],
+      "prompt": "Gece eğlenti yapılan yer. '... ye gittik.'",
+      "accepted_forms": [
+        "meyhane"
+      ],
       "note": null
     }
   ]

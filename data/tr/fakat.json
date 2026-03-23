@@ -38,7 +38,7 @@
     },
     {
       "id": "fakat_r2",
-      "prompt": "Gitmek istedi [fakat] yapamadı.",
+      "prompt": "Gitmek istedi ... yapamadı.",
       "accepted_forms": [
         "fakat"
       ],

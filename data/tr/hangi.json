@@ -37,7 +37,7 @@
     },
     {
       "id": "hangi_r2",
-      "prompt": "[...] kitabı okumak istiyorsun?",
+      "prompt": "... kitabı okumak istiyorsun?",
       "accepted_forms": [
         "hangi"
       ],

@@ -37,7 +37,7 @@
     },
     {
       "id": "duzenli_r2",
-      "prompt": "[Düzenli] beslenme çok önemli.",
+      "prompt": "... beslenme çok önemli.",
       "accepted_forms": [
         "düzenli"
       ],

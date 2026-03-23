@@ -37,7 +37,7 @@
     },
     {
       "id": "es_r2",
-      "prompt": "Karısı [eş]dir, eşi de vardır.",
+      "prompt": "Karısı ...dir, eşi de vardır.",
       "accepted_forms": [
         "eş"
       ],

@@ -44,7 +44,7 @@
     },
     {
       "id": "data_r2",
-      "prompt": "[Data] yönetimi modern işletmelerin temel görevidir.",
+      "prompt": "... yönetimi modern işletmelerin temel görevidir.",
       "accepted_forms": [
         "data",
         "veriler"

@@ -37,7 +37,7 @@
     },
     {
       "id": "eskiden_r2",
-      "prompt": "[Eskiden] böyle olmazdı.",
+      "prompt": "... böyle olmazdı.",
       "accepted_forms": [
         "eskiden"
       ],

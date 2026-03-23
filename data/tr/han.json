@@ -37,7 +37,7 @@
     },
     {
       "id": "han_r2",
-      "prompt": "Kervan yolculuğu sırasında [...] nda dinlenirlerdi.",
+      "prompt": "Kervan yolculuğu sırasında ... nda dinlenirlerdi.",
       "accepted_forms": [
         "han"
       ],

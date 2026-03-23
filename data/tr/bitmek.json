@@ -5,22 +5,43 @@
   "part_of_speech": "verb",
   "english_gloss": "to end, to be over, to run out, to be finished",
   "sentences": [
-    { "id": "bitmek_s1", "text": "Film [bitmiş].", "note": null },
-    { "id": "bitmek_s2", "text": "Mektep [bitmek] üzere.", "note": null },
-    { "id": "bitmek_s3", "text": "Sınav [bitti].", "note": null },
-    { "id": "bitmek_s4", "text": "Parasının [bittiğini] fark etti.", "note": null }
+    {
+      "id": "bitmek_s1",
+      "text": "Film [bitmiş].",
+      "note": null
+    },
+    {
+      "id": "bitmek_s2",
+      "text": "Mektep [bitmek] üzere.",
+      "note": null
+    },
+    {
+      "id": "bitmek_s3",
+      "text": "Sınav [bitti].",
+      "note": null
+    },
+    {
+      "id": "bitmek_s4",
+      "text": "Parasının [bittiğini] fark etti.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "bitmek_r1",
-      "prompt": "Bir şey sona ermek: 'Film [...]'",
-      "accepted_forms": ["bitmiş", "bitti"],
+      "prompt": "Bir şey sona ermek: 'Film ...'",
+      "accepted_forms": [
+        "bitmiş",
+        "bitti"
+      ],
       "note": null
     },
     {
       "id": "bitmek_r2",
       "prompt": "Sınavı ... (sınav tamam oldu).",
-      "accepted_forms": ["bitti"],
+      "accepted_forms": [
+        "bitti"
+      ],
       "note": null
     }
   ]

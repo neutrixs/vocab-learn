@@ -39,7 +39,7 @@
     },
     {
       "id": "evlenmek_r2",
-      "prompt": "[Evlendim] bu yıl.",
+      "prompt": "... bu yıl.",
       "accepted_forms": [
         "evlendim",
         "evlenmek"

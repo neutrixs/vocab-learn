@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "cumin",
   "sentences": [
-    { "id": "kimyon_s1", "text": "[Kimyon] çorbaya konur.", "note": null },
-    { "id": "kimyon_s2", "text": "[Kimyon] kokusu güzel.", "note": null },
-    { "id": "kimyon_s3", "text": "Baharat [kimyon].", "note": null },
-    { "id": "kimyon_s4", "text": "[Kimyon] tuzu ayırılır.", "note": null }
+    {
+      "id": "kimyon_s1",
+      "text": "[Kimyon] çorbaya konur.",
+      "note": null
+    },
+    {
+      "id": "kimyon_s2",
+      "text": "[Kimyon] kokusu güzel.",
+      "note": null
+    },
+    {
+      "id": "kimyon_s3",
+      "text": "Baharat [kimyon].",
+      "note": null
+    },
+    {
+      "id": "kimyon_s4",
+      "text": "[Kimyon] tuzu ayırılır.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "kimyon_r1",
       "prompt": "Çorbaya konulan uzunca tohum gibi baharat. Adı?",
-      "accepted_forms": ["kimyon"],
+      "accepted_forms": [
+        "kimyon"
+      ],
       "note": null
     },
     {
       "id": "kimyon_r2",
-      "prompt": "Çiftçilerin ektiği bitki. '[...] tarlası.'",
-      "accepted_forms": ["kimyon"],
+      "prompt": "Çiftçilerin ektiği bitki. '... tarlası.'",
+      "accepted_forms": [
+        "kimyon"
+      ],
       "note": null
     }
   ]

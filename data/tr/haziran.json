@@ -37,7 +37,7 @@
     },
     {
       "id": "haziran_r2",
-      "prompt": "[...] da yaz başlıyor.",
+      "prompt": "... da yaz başlıyor.",
       "accepted_forms": [
         "haziran"
       ],

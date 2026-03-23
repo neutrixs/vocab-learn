@@ -5,22 +5,42 @@
   "part_of_speech": "adverb",
   "english_gloss": "a little, a bit, somewhat, some",
   "sentences": [
-    { "id": "biraz_s1", "text": "Lütfen [biraz] bekle.", "note": null },
-    { "id": "biraz_s2", "text": "Su [biraz] sıcak.", "note": null },
-    { "id": "biraz_s3", "text": "[Biraz] zaman lazım.", "note": null },
-    { "id": "biraz_s4", "text": "Seninle [biraz] konuşmak istiyorum.", "note": null }
+    {
+      "id": "biraz_s1",
+      "text": "Lütfen [biraz] bekle.",
+      "note": null
+    },
+    {
+      "id": "biraz_s2",
+      "text": "Su [biraz] sıcak.",
+      "note": null
+    },
+    {
+      "id": "biraz_s3",
+      "text": "[Biraz] zaman lazım.",
+      "note": null
+    },
+    {
+      "id": "biraz_s4",
+      "text": "Seninle [biraz] konuşmak istiyorum.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "biraz_r1",
-      "prompt": "Küçük bir miktar veya zaman: '[...]' bekle.",
-      "accepted_forms": ["biraz"],
+      "prompt": "Küçük bir miktar veya zaman: '...' bekle.",
+      "accepted_forms": [
+        "biraz"
+      ],
       "note": null
     },
     {
       "id": "biraz_r2",
       "prompt": "Çay ... sıcak, içmek için beklemelisin.",
-      "accepted_forms": ["biraz"],
+      "accepted_forms": [
+        "biraz"
+      ],
       "note": null
     }
   ]

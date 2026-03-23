@@ -5,22 +5,43 @@
   "part_of_speech": "noun",
   "english_gloss": "appetizer, snack, starter",
   "sentences": [
-    { "id": "meze_s1", "text": "[Meze] ne istiyorsun?", "note": null },
-    { "id": "meze_s2", "text": "[Mezeler] lezzetli.", "note": null },
-    { "id": "meze_s3", "text": "[Mezeyi] başlamadan önce bekle.", "note": null },
-    { "id": "meze_s4", "text": "Soğuk [meze] vardı.", "note": null }
+    {
+      "id": "meze_s1",
+      "text": "[Meze] ne istiyorsun?",
+      "note": null
+    },
+    {
+      "id": "meze_s2",
+      "text": "[Mezeler] lezzetli.",
+      "note": null
+    },
+    {
+      "id": "meze_s3",
+      "text": "[Mezeyi] başlamadan önce bekle.",
+      "note": null
+    },
+    {
+      "id": "meze_s4",
+      "text": "Soğuk [meze] vardı.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "meze_r1",
       "prompt": "Ana yemeğin öncesi servisi edilen üstü. Türkçesi?",
-      "accepted_forms": ["meze", "mezeler"],
+      "accepted_forms": [
+        "meze",
+        "mezeler"
+      ],
       "note": null
     },
     {
       "id": "meze_r2",
-      "prompt": "Rakı yanında yenen yiyecek. '[...] ye zeytini katma.'",
-      "accepted_forms": ["meze"],
+      "prompt": "Rakı yanında yenen yiyecek. '... ye zeytini katma.'",
+      "accepted_forms": [
+        "meze"
+      ],
       "note": null
     }
   ]

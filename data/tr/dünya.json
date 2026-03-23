@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "world, earth",
   "sentences": [
-    { "id": "dunya_s1", "text": "[Dünya] çok güzel bir yer.", "note": null },
-    { "id": "dunya_s2", "text": "[Dünyada] milyonlar insan var.", "note": "'dünyada' = in the world (locative)" },
-    { "id": "dunya_s3", "text": "[Dünyaya] bakmak başka bir hisdir.", "note": null },
-    { "id": "dunya_s4", "text": "Dünyanın en yüksek dağı Everest'tir.", "note": null }
+    {
+      "id": "dunya_s1",
+      "text": "[Dünya] çok güzel bir yer.",
+      "note": null
+    },
+    {
+      "id": "dunya_s2",
+      "text": "[Dünyada] milyonlar insan var.",
+      "note": "'dünyada' = in the world (locative)"
+    },
+    {
+      "id": "dunya_s3",
+      "text": "[Dünyaya] bakmak başka bir hisdir.",
+      "note": null
+    },
+    {
+      "id": "dunya_s4",
+      "text": "Dünyanın en yüksek dağı Everest'tir.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "dunya_r1",
       "prompt": "Yaşadığımız gezegen. Ne denir?",
-      "accepted_forms": ["dünya"],
+      "accepted_forms": [
+        "dünya"
+      ],
       "note": null
     },
     {
       "id": "dunya_r2",
-      "prompt": "[Dünya] barışı herkesin arzusu.",
-      "accepted_forms": ["dünya"],
+      "prompt": "... barışı herkesin arzusu.",
+      "accepted_forms": [
+        "dünya"
+      ],
       "note": null
     }
   ]

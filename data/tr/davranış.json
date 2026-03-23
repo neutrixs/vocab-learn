@@ -44,7 +44,7 @@
     },
     {
       "id": "davranış_r2",
-      "prompt": "Sosyal ortamlardaki insanın [davranışı] onun eğitimini gösterir.",
+      "prompt": "Sosyal ortamlardaki insanın ... onun eğitimini gösterir.",
       "accepted_forms": [
         "davranışı",
         "davranış"

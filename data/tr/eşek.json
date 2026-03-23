@@ -37,7 +37,7 @@
     },
     {
       "id": "esek_r2",
-      "prompt": "[Eşek] ahırda yatıyor.",
+      "prompt": "... ahırda yatıyor.",
       "accepted_forms": [
         "eşek"
       ],

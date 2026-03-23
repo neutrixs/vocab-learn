@@ -37,7 +37,7 @@
     },
     {
       "id": "eski_r2",
-      "prompt": "[Eski] ev onarım gerekiyor.",
+      "prompt": "... ev onarım gerekiyor.",
       "accepted_forms": [
         "eski"
       ],

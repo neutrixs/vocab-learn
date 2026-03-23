@@ -43,7 +43,7 @@
     },
     {
       "id": "esnek_r2",
-      "prompt": "Bu kural çok [esnek], değiştirilip ayarlanabilir.",
+      "prompt": "Bu kural çok ..., değiştirilip ayarlanabilir.",
       "accepted_forms": [
         "esnek",
         "değişken"

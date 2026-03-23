@@ -43,7 +43,7 @@
     },
     {
       "id": "cazip_r2",
-      "prompt": "Bu iş imkanı çok [cazip], hemen başlamak istiyorum.",
+      "prompt": "Bu iş imkanı çok ..., hemen başlamak istiyorum.",
       "accepted_forms": [
         "cazip",
         "cazip görünüyor"

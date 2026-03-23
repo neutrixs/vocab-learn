@@ -37,7 +37,7 @@
     },
     {
       "id": "esmer_r2",
-      "prompt": "[Esmer] arkadaşım özel davetiye gönderdi.",
+      "prompt": "... arkadaşım özel davetiye gönderdi.",
       "accepted_forms": [
         "esmer"
       ],

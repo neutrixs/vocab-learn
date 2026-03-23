@@ -37,7 +37,7 @@
     },
     {
       "id": "elli_r2",
-      "prompt": "Yaş [elli] oldu geçen yıl.",
+      "prompt": "Yaş ... oldu geçen yıl.",
       "accepted_forms": [
         "elli"
       ],

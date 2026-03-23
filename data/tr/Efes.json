@@ -37,7 +37,7 @@
     },
     {
       "id": "efes_r2",
-      "prompt": "[Efes] tapınağı çok ünlüydü.",
+      "prompt": "... tapınağı çok ünlüydü.",
       "accepted_forms": [
         "Efes"
       ],

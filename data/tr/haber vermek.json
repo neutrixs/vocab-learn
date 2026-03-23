@@ -37,7 +37,7 @@
     },
     {
       "id": "haber_v_r2",
-      "prompt": "Arkadaşına yola çıkacağını [...] lazım.",
+      "prompt": "Arkadaşına yola çıkacağını ... lazım.",
       "accepted_forms": [
         "haber vermek",
         "haber vermelisin"

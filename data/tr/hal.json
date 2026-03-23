@@ -37,7 +37,7 @@
     },
     {
       "id": "hal_r2",
-      "prompt": "Onun [...] iyi değil, endişeleniyorum.",
+      "prompt": "Onun ... iyi değil, endişeleniyorum.",
       "accepted_forms": [
         "hali"
       ],

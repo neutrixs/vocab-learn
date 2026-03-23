@@ -37,7 +37,7 @@
     },
     {
       "id": "hediye_r2",
-      "prompt": "Doğum günün için ona [...] aldım.",
+      "prompt": "Doğum günün için ona ... aldım.",
       "accepted_forms": [
         "hediye"
       ],

@@ -29,7 +29,7 @@
   "recall_prompts": [
     {
       "id": "bosanmak_r1",
-      "prompt": "Evlilik ilişkisini sonlandırmak: '[...]'",
+      "prompt": "Evlilik ilişkisini sonlandırmak: '...'",
       "accepted_forms": [
         "boşandı",
         "boşanmak"

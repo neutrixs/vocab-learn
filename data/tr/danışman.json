@@ -44,7 +44,7 @@
     },
     {
       "id": "danışman_r2",
-      "prompt": "Yatırım hakkında bir [danışman] ile görüştük.",
+      "prompt": "Yatırım hakkında bir ... ile görüştük.",
       "accepted_forms": [
         "danışman",
         "danışmanla"

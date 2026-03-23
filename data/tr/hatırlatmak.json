@@ -37,7 +37,7 @@
     },
     {
       "id": "hatirla2_r2",
-      "prompt": "Lütfen beni ödeme günü [...] lazım.",
+      "prompt": "Lütfen beni ödeme günü ... lazım.",
       "accepted_forms": [
         "hatırlatmalı"
       ],

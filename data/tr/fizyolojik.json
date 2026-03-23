@@ -43,7 +43,7 @@
     },
     {
       "id": "fizyolojik_r2",
-      "prompt": "[Fizyolojik] tepkiler vücudun doğal savunma mekanizması.",
+      "prompt": "... tepkiler vücudun doğal savunma mekanizması.",
       "accepted_forms": [
         "fizyolojik",
         "bedensel"

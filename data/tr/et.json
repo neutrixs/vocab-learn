@@ -37,7 +37,7 @@
     },
     {
       "id": "et_r2",
-      "prompt": "[Et] yemek sevmem.",
+      "prompt": "... yemek sevmem.",
       "accepted_forms": [
         "et"
       ],

@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "day",
   "sentences": [
-    { "id": "gun_s1", "text": "Bugün güzel bir [gün].", "note": null },
-    { "id": "gun_s2", "text": "[Gün]ün başında kahve içiyorum.", "note": "'günün' = day's (genitive)" },
-    { "id": "gun_s3", "text": "[Güne] iyi başlamak önemli.", "note": "'güne' = to the day (dative)" },
-    { "id": "gun_s4", "text": "Her [gün] aynı saatte yatıyorum.", "note": null }
+    {
+      "id": "gun_s1",
+      "text": "Bugün güzel bir [gün].",
+      "note": null
+    },
+    {
+      "id": "gun_s2",
+      "text": "[Gün]ün başında kahve içiyorum.",
+      "note": "'günün' = day's (genitive)"
+    },
+    {
+      "id": "gun_s3",
+      "text": "[Güne] iyi başlamak önemli.",
+      "note": "'güne' = to the day (dative)"
+    },
+    {
+      "id": "gun_s4",
+      "text": "Her [gün] aynı saatte yatıyorum.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "gun_r1",
       "prompt": "24 saatlik zaman birimi: ...",
-      "accepted_forms": ["gün"],
+      "accepted_forms": [
+        "gün"
+      ],
       "note": null
     },
     {
       "id": "gun_r2",
-      "prompt": "Pazar günü çok güzel bir [...] oldu.",
-      "accepted_forms": ["gün"],
+      "prompt": "Pazar günü çok güzel bir ... oldu.",
+      "accepted_forms": [
+        "gün"
+      ],
       "note": null
     }
   ]

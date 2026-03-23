@@ -39,7 +39,7 @@
     },
     {
       "id": "bıkmak_r2",
-      "prompt": "Aynı yemeği uzun süredir yedikten sonra: 'Bu yemeğinden [...]'",
+      "prompt": "Aynı yemeği uzun süredir yedikten sonra: 'Bu yemeğinden ...'",
       "accepted_forms": [
         "bıktım",
         "bıkıyorum"

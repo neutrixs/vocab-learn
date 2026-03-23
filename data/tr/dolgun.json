@@ -43,7 +43,7 @@
     },
     {
       "id": "dolgun_r2",
-      "prompt": "Elma [dolgun] ve kırmızı, çok güzel görünüyor.",
+      "prompt": "Elma ... ve kırmızı, çok güzel görünüyor.",
       "accepted_forms": [
         "dolgun",
         "dolu"

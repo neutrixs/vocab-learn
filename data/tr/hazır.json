@@ -37,7 +37,7 @@
     },
     {
       "id": "hazir_r2",
-      "prompt": "Toplantı için [...] mısınız?",
+      "prompt": "Toplantı için ... mısınız?",
       "accepted_forms": [
         "hazır"
       ],

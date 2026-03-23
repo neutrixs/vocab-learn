@@ -37,7 +37,7 @@
     },
     {
       "id": "evvelkigün_r2",
-      "prompt": "[Evvelki gün] olay oldu.",
+      "prompt": "... olay oldu.",
       "accepted_forms": [
         "evvelki gün"
       ],

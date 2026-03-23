@@ -37,7 +37,7 @@
     },
     {
       "id": "eger_r2",
-      "prompt": "[Eğer] gelirse sana haber vereceğim.",
+      "prompt": "... gelirse sana haber vereceğim.",
       "accepted_forms": [
         "eğer"
       ],

@@ -37,7 +37,7 @@
     },
     {
       "id": "hemensimdi_r2",
-      "prompt": "[...] kalkmalıyız veya geç kalırız.",
+      "prompt": "... kalkmalıyız veya geç kalırız.",
       "accepted_forms": [
         "hemen şimdi"
       ],

@@ -37,7 +37,7 @@
     },
     {
       "id": "hamam_r2",
-      "prompt": "Pazar günü [...] gideceğiz.",
+      "prompt": "Pazar günü ... gideceğiz.",
       "accepted_forms": [
         "hamama"
       ],

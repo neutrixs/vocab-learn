@@ -37,7 +37,7 @@
     },
     {
       "id": "hava_r2",
-      "prompt": "Bu hafta sonu [...] nasıl olur acaba?",
+      "prompt": "Bu hafta sonu ... nasıl olur acaba?",
       "accepted_forms": [
         "hava"
       ],

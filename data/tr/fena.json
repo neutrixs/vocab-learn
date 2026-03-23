@@ -37,7 +37,7 @@
     },
     {
       "id": "fena_r2",
-      "prompt": "[Fena] bir fikriin var mı?",
+      "prompt": "... bir fikriin var mı?",
       "accepted_forms": [
         "fena"
       ],

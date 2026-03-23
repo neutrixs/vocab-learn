@@ -37,7 +37,7 @@
     },
     {
       "id": "erken_r2",
-      "prompt": "[Erken] kalkmak sağlıklı.",
+      "prompt": "... kalkmak sağlıklı.",
       "accepted_forms": [
         "erken"
       ],

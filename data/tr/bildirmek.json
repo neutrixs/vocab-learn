@@ -5,22 +5,44 @@
   "part_of_speech": "verb",
   "english_gloss": "to inform, to notify, to announce, to report",
   "sentences": [
-    { "id": "bildirmek_s1", "text": "Haberi ona [bildirdim].", "note": null },
-    { "id": "bildirmek_s2", "text": "Durumu yöneticiye [bildirmeliyiz].", "note": null },
-    { "id": "bildirmek_s3", "text": "Kararı halka [bildirdi].", "note": null },
-    { "id": "bildirmek_s4", "text": "Değişikliği [bildirmeleri] gerekiyor.", "note": null }
+    {
+      "id": "bildirmek_s1",
+      "text": "Haberi ona [bildirdim].",
+      "note": null
+    },
+    {
+      "id": "bildirmek_s2",
+      "text": "Durumu yöneticiye [bildirmeliyiz].",
+      "note": null
+    },
+    {
+      "id": "bildirmek_s3",
+      "text": "Kararı halka [bildirdi].",
+      "note": null
+    },
+    {
+      "id": "bildirmek_s4",
+      "text": "Değişikliği [bildirmeleri] gerekiyor.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "bildirmek_r1",
-      "prompt": "Birini bir konuda haberdar etmek: 'Ona durumu [...]'",
-      "accepted_forms": ["bildirdim", "bildirmek"],
+      "prompt": "Birini bir konuda haberdar etmek: 'Ona durumu ...'",
+      "accepted_forms": [
+        "bildirdim",
+        "bildirmek"
+      ],
       "note": null
     },
     {
       "id": "bildirmek_r2",
       "prompt": "Haber vermek anlamında: 'Şirket değişikliği halka ... etmeli'",
-      "accepted_forms": ["bildirmeleri", "bildirmesi"],
+      "accepted_forms": [
+        "bildirmeleri",
+        "bildirmesi"
+      ],
       "note": null
     }
   ]

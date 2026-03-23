@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "airport",
   "sentences": [
-    { "id": "havalimanı_s1", "text": "Uçağa [havalimanına] erkenden gittim.", "note": "'havalimanına' = to the airport (dative)" },
-    { "id": "havalimanı_s2", "text": "[Havalimanında] beklemesi 3 saat.", "note": "'havalimanında' = at the airport (locative)" },
-    { "id": "havalimanı_s3", "text": "[Havalimanıından] dönmek 45 dakika.", "note": "'havalimanından' = from the airport (ablative)" },
-    { "id": "havalimanı_s4", "text": "[Havalimanının] adı İstanbul Havalimanı.", "note": "'havalimanının' = airport's (genitive)" }
+    {
+      "id": "havalimanı_s1",
+      "text": "Uçağa [havalimanına] erkenden gittim.",
+      "note": "'havalimanına' = to the airport (dative)"
+    },
+    {
+      "id": "havalimanı_s2",
+      "text": "[Havalimanında] beklemesi 3 saat.",
+      "note": "'havalimanında' = at the airport (locative)"
+    },
+    {
+      "id": "havalimanı_s3",
+      "text": "[Havalimanıından] dönmek 45 dakika.",
+      "note": "'havalimanından' = from the airport (ablative)"
+    },
+    {
+      "id": "havalimanı_s4",
+      "text": "[Havalimanının] adı İstanbul Havalimanı.",
+      "note": "'havalimanının' = airport's (genitive)"
+    }
   ],
   "recall_prompts": [
     {
       "id": "havalimanı_r1",
       "prompt": "Uçak kalkışı ve iniş yapılan yer: ...",
-      "accepted_forms": ["havalimanı"],
+      "accepted_forms": [
+        "havalimanı"
+      ],
       "note": null
     },
     {
       "id": "havalimanı_r2",
-      "prompt": "[...] inde hiçbir zaman olmadım.",
-      "accepted_forms": ["havalimanı"],
+      "prompt": "... inde hiçbir zaman olmadım.",
+      "accepted_forms": [
+        "havalimanı"
+      ],
       "note": null
     }
   ]

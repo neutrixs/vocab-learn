@@ -37,7 +37,7 @@
     },
     {
       "id": "eldiven_r2",
-      "prompt": "Soğuk havada [eldiven] giymeliyiz.",
+      "prompt": "Soğuk havada ... giymeliyiz.",
       "accepted_forms": [
         "eldiven"
       ],

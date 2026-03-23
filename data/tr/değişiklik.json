@@ -44,7 +44,7 @@
     },
     {
       "id": "değişiklik_r2",
-      "prompt": "Kural ve sisteme çok [değişiklik] yapıldı.",
+      "prompt": "Kural ve sisteme çok ... yapıldı.",
       "accepted_forms": [
         "değişiklik",
         "değişiklikleri"

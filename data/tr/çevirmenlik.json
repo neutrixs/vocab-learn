@@ -43,7 +43,7 @@
     },
     {
       "id": "çevirmenlik_r2",
-      "prompt": "O diller konusunda yetenekli, [çevirmenlik] yapabilir.",
+      "prompt": "O diller konusunda yetenekli, ... yapabilir.",
       "accepted_forms": [
         "çevirmenlik",
         "çevirmenliğini"

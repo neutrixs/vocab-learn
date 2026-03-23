@@ -37,7 +37,7 @@
     },
     {
       "id": "falan_r2",
-      "prompt": "Ahmet [falan Fatma falan] geldi.",
+      "prompt": "Ahmet ... geldi.",
       "accepted_forms": [
         "falan"
       ],

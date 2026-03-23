@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "small change, coins, loose change",
   "sentences": [
-    { "id": "bozuk_para_s1", "text": "[Bozuk para] çantamda.", "note": null },
-    { "id": "bozuk_para_s2", "text": "[Bozuk para]yı boşalttım.", "note": null },
-    { "id": "bozuk_para_s3", "text": "Yolda [bozuk para] buldum.", "note": null },
-    { "id": "bozuk_para_s4", "text": "[Bozuk para] değerli.", "note": null }
+    {
+      "id": "bozuk_para_s1",
+      "text": "[Bozuk para] çantamda.",
+      "note": null
+    },
+    {
+      "id": "bozuk_para_s2",
+      "text": "[Bozuk para]yı boşalttım.",
+      "note": null
+    },
+    {
+      "id": "bozuk_para_s3",
+      "text": "Yolda [bozuk para] buldum.",
+      "note": null
+    },
+    {
+      "id": "bozuk_para_s4",
+      "text": "[Bozuk para] değerli.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "bozuk_para_r1",
-      "prompt": "Küçük parçacık paraları: '[...]'",
-      "accepted_forms": ["bozuk para"],
+      "prompt": "Küçük parçacık paraları: '...'",
+      "accepted_forms": [
+        "bozuk para"
+      ],
       "note": null
     },
     {
       "id": "bozuk_para_r2",
       "prompt": "Otomata makine ... gereklidir.",
-      "accepted_forms": ["bozuk para"],
+      "accepted_forms": [
+        "bozuk para"
+      ],
       "note": null
     }
   ]

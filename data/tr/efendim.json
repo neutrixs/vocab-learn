@@ -37,7 +37,7 @@
     },
     {
       "id": "efendim_r2",
-      "prompt": "[Efendim], ne söylediniz? (Pardon?)",
+      "prompt": "..., ne söylediniz? (Pardon?)",
       "accepted_forms": [
         "efendim"
       ],

@@ -37,7 +37,7 @@
     },
     {
       "id": "ekmek_r2",
-      "prompt": "Sabah kahvaltısında [ekmek] ve çay içerim.",
+      "prompt": "Sabah kahvaltısında ... ve çay içerim.",
       "accepted_forms": [
         "ekmek"
       ],

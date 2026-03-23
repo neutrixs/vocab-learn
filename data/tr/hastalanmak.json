@@ -37,7 +37,7 @@
     },
     {
       "id": "hastalan_r2",
-      "prompt": "Soğuktan dolayı geçen hafta [...] dun.",
+      "prompt": "Soğuktan dolayı geçen hafta ... dun.",
       "accepted_forms": [
         "hastalandım"
       ],

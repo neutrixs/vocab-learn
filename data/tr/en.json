@@ -37,7 +37,7 @@
     },
     {
       "id": "en_r2",
-      "prompt": "Bu [en] iyi çözüm.",
+      "prompt": "Bu ... iyi çözüm.",
       "accepted_forms": [
         "en"
       ],

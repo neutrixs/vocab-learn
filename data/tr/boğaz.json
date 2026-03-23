@@ -37,7 +37,7 @@
     },
     {
       "id": "bogaz_r2",
-      "prompt": "Soğuk algınlığında ağrıyan yer: '[...]' ağrısı",
+      "prompt": "Soğuk algınlığında ağrıyan yer: '...' ağrısı",
       "accepted_forms": [
         "boğaz"
       ],

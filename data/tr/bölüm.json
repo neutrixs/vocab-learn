@@ -5,22 +5,42 @@
   "part_of_speech": "noun",
   "english_gloss": "department, division, section, chapter",
   "sentences": [
-    { "id": "bolum_s1", "text": "Üniversitede [bölüm] seçiyorum.", "note": null },
-    { "id": "bolum_s2", "text": "[Bölüm] müdürü toplantı yaptı.", "note": null },
-    { "id": "bolum_s3", "text": "Kitabın [bölümü] sonunu.", "note": null },
-    { "id": "bolum_s4", "text": "[Bölümleri] okuyor.", "note": null }
+    {
+      "id": "bolum_s1",
+      "text": "Üniversitede [bölüm] seçiyorum.",
+      "note": null
+    },
+    {
+      "id": "bolum_s2",
+      "text": "[Bölüm] müdürü toplantı yaptı.",
+      "note": null
+    },
+    {
+      "id": "bolum_s3",
+      "text": "Kitabın [bölümü] sonunu.",
+      "note": null
+    },
+    {
+      "id": "bolum_s4",
+      "text": "[Bölümleri] okuyor.",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "bolum_r1",
-      "prompt": "Üniversitede okunan alan: '[...]'",
-      "accepted_forms": ["bölüm"],
+      "prompt": "Üniversitede okunan alan: '...'",
+      "accepted_forms": [
+        "bölüm"
+      ],
       "note": null
     },
     {
       "id": "bolum_r2",
-      "prompt": "Kitabın her bölümü: '[...]' adı vardır.",
-      "accepted_forms": ["bölüm"],
+      "prompt": "Kitabın her bölümü: '...' adı vardır.",
+      "accepted_forms": [
+        "bölüm"
+      ],
       "note": null
     }
   ]

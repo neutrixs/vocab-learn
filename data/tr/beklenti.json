@@ -44,7 +44,7 @@
     },
     {
       "id": "beklenti_r2",
-      "prompt": "Öğretmenlerin öğrencilerden beklediği [beklenti] yüksektir.",
+      "prompt": "Öğretmenlerin öğrencilerden beklediği ... yüksektir.",
       "accepted_forms": [
         "beklentisi",
         "beklenti"

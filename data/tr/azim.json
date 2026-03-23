@@ -44,7 +44,7 @@
     },
     {
       "id": "azim_r2",
-      "prompt": "O çocuk çok başarılı çünkü gerçekten büyük [azmi] var.",
+      "prompt": "O çocuk çok başarılı çünkü gerçekten büyük ... var.",
       "accepted_forms": [
         "azmi",
         "azim"

@@ -37,7 +37,7 @@
     },
     {
       "id": "esyalar_r2",
-      "prompt": "Taşınırken [eşyaları] dikkat et.",
+      "prompt": "Taşınırken ... dikkat et.",
       "accepted_forms": [
         "eşyaları"
       ],

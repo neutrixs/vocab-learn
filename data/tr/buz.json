@@ -29,7 +29,7 @@
   "recall_prompts": [
     {
       "id": "buz_r1",
-      "prompt": "Suyu donmuş hali: '[...]'",
+      "prompt": "Suyu donmuş hali: '...'",
       "accepted_forms": [
         "buz"
       ],
@@ -37,7 +37,7 @@
     },
     {
       "id": "buz_r2",
-      "prompt": "Soğuk hava nedeniyle oluşan donmuş su: '[...]' var yolda.",
+      "prompt": "Soğuk hava nedeniyle oluşan donmuş su: '...' var yolda.",
       "accepted_forms": [
         "buz"
       ],

@@ -44,7 +44,7 @@
     },
     {
       "id": "etkileyici_r2",
-      "prompt": "Bu sahne çok [etkileyici], duygularımı harekete geçirdi.",
+      "prompt": "Bu sahne çok ..., duygularımı harekete geçirdi.",
       "accepted_forms": [
         "etkileyici",
         "duygu yüklü"

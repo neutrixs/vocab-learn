@@ -37,7 +37,7 @@
     },
     {
       "id": "ersigün_r2",
-      "prompt": "[Ertesi gün] buluşalım mı?",
+      "prompt": "... buluşalım mı?",
       "accepted_forms": [
         "ertesi gün"
       ],

@@ -38,7 +38,7 @@
     },
     {
       "id": "oyle_r2",
-      "prompt": "'[Öyle] mi?' ne demektir?",
+      "prompt": "'... mi?' ne demektir?",
       "accepted_forms": [
         "öyle"
       ],

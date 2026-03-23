@@ -29,7 +29,7 @@
   "recall_prompts": [
     {
       "id": "bulmak_r1",
-      "prompt": "Kayıp şeyi yeniden in almak: 'Kalemimi [...]'",
+      "prompt": "Kayıp şeyi yeniden in almak: 'Kalemimi ...'",
       "accepted_forms": [
         "buldum",
         "bulamadım"
@@ -38,7 +38,7 @@
     },
     {
       "id": "bulmak_r2",
-      "prompt": "Evinde nerede olduğunu bilmediği şeyi locate etmek: '[...]'",
+      "prompt": "Evinde nerede olduğunu bilmediği şeyi locate etmek: '...'",
       "accepted_forms": [
         "bul",
         "bulmak"

@@ -29,7 +29,7 @@
   "recall_prompts": [
     {
       "id": "bu_r1",
-      "prompt": "Konuşan kişiye yakın olan şey veya kişi: '[...]' ben mi?",
+      "prompt": "Konuşan kişiye yakın olan şey veya kişi: '...' ben mi?",
       "accepted_forms": [
         "bu"
       ],
@@ -37,7 +37,7 @@
     },
     {
       "id": "bu_r2",
-      "prompt": "'[...] ne?' diyorsun yakındaki nesneyi gösterek.",
+      "prompt": "'... ne?' diyorsun yakındaki nesneyi gösterek.",
       "accepted_forms": [
         "bu"
       ],

@@ -29,7 +29,7 @@
   "recall_prompts": [
     {
       "id": "bucuk_r1",
-      "prompt": "5.5 olan sayı: 'Saat beş [...]'",
+      "prompt": "5.5 olan sayı: 'Saat beş ...'",
       "accepted_forms": [
         "buçuk"
       ],

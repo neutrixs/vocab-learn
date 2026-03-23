@@ -44,7 +44,7 @@
     },
     {
       "id": "geçici_r2",
-      "prompt": "Bu rahatsızlık [geçici], çok kısa sürede geçecek.",
+      "prompt": "Bu rahatsızlık ..., çok kısa sürede geçecek.",
       "accepted_forms": [
         "geçici",
         "kısa süreli"

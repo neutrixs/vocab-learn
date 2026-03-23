@@ -37,7 +37,7 @@
     },
     {
       "id": "erkek_r2",
-      "prompt": "[Erkek] arkadaşım yarın gelecek.",
+      "prompt": "... arkadaşım yarın gelecek.",
       "accepted_forms": [
         "erkek"
       ],

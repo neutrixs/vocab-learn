@@ -37,7 +37,7 @@
     },
     {
       "id": "ermeni_r2",
-      "prompt": "[Ermeni] hastalığı İstanbul'da açılı.",
+      "prompt": "... hastalığı İstanbul'da açılı.",
       "accepted_forms": [
         "Ermeni"
       ],

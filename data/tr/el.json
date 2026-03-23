@@ -37,7 +37,7 @@
     },
     {
       "id": "el_r2",
-      "prompt": "[El] yıka, yemek yemeden önce.",
+      "prompt": "... yıka, yemek yemeden önce.",
       "accepted_forms": [
         "el"
       ],

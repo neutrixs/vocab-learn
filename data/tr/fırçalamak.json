@@ -39,7 +39,7 @@
     },
     {
       "id": "fircalamak_r2",
-      "prompt": "[Fırçala] dişlerini iyi temiz et.",
+      "prompt": "... dişlerini iyi temiz et.",
       "accepted_forms": [
         "fırçala",
         "fırçalamak"

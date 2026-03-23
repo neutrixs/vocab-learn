@@ -37,7 +37,7 @@
     },
     {
       "id": "hafta_r2",
-      "prompt": "Pazartesiden pazara kadar [...] oluşturur.",
+      "prompt": "Pazartesiden pazara kadar ... oluşturur.",
       "accepted_forms": [
         "hafta"
       ],

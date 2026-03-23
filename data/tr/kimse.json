@@ -29,7 +29,7 @@
   "recall_prompts": [
     {
       "id": "kimse_r1",
-      "prompt": "Hiç bir kişi yok anlamı. '[...] gelmedi.'",
+      "prompt": "Hiç bir kişi yok anlamı. '... gelmedi.'",
       "accepted_forms": [
         "kimse"
       ],

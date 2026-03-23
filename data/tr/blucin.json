@@ -29,7 +29,7 @@
   "recall_prompts": [
     {
       "id": "blucin_r1",
-      "prompt": "Pantolonun bir türü: '[...]' giyiyorum.",
+      "prompt": "Pantolonun bir türü: '...' giyiyorum.",
       "accepted_forms": [
         "blucin"
       ],

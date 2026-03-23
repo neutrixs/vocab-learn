@@ -37,7 +37,7 @@
     },
     {
       "id": "duz_r2",
-      "prompt": "Bu yol çok [düz], rahat sürüş yapabilirsin.",
+      "prompt": "Bu yol çok ..., rahat sürüş yapabilirsin.",
       "accepted_forms": [
         "düz"
       ],

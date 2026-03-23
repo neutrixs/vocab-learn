@@ -44,7 +44,7 @@
     },
     {
       "id": "firma_r2",
-      "prompt": "Büyük [firma] için çalışmaktan çok hoşlanıyor.",
+      "prompt": "Büyük ... için çalışmaktan çok hoşlanıyor.",
       "accepted_forms": [
         "firma",
         "firmasında"

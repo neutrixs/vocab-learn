@@ -44,7 +44,7 @@
     },
     {
       "id": "dönüm noktası_r2",
-      "prompt": "Projedeki [dönüm noktası] pazarlamaya başlamaktı.",
+      "prompt": "Projedeki ... pazarlamaya başlamaktı.",
       "accepted_forms": [
         "dönüm noktası",
         "dönüm noktasıydı"

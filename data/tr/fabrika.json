@@ -37,7 +37,7 @@
     },
     {
       "id": "fabrika_r2",
-      "prompt": "[Fabrika] işçileri grevde.",
+      "prompt": "... işçileri grevde.",
       "accepted_forms": [
         "fabrika"
       ],

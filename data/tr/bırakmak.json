@@ -29,7 +29,7 @@
   "recall_prompts": [
     {
       "id": "bırakmak_r1",
-      "prompt": "Tuttuğun şeyi yere düşürmek: 'Fincanı [...]'",
+      "prompt": "Tuttuğun şeyi yere düşürmek: 'Fincanı ...'",
       "accepted_forms": [
         "bıraktım",
         "bırakıyorum"
@@ -38,7 +38,7 @@
     },
     {
       "id": "bırakmak_r2",
-      "prompt": "Bir alışkanlığı artık yapmamak: 'Sigara [...]'",
+      "prompt": "Bir alışkanlığı artık yapmamak: 'Sigara ...'",
       "accepted_forms": [
         "bıraktı",
         "bırakmak"

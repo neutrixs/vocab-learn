@@ -29,7 +29,7 @@
   "recall_prompts": [
     {
       "id": "hemhem_r1",
-      "prompt": "İki şeyi aynı anda belirtmek için: '[... hep ...] düşünerek gettim.'",
+      "prompt": "İki şeyi aynı anda belirtmek için: '... düşünerek gettim.'",
       "accepted_forms": [
         "hem",
         "hem"
@@ -38,7 +38,7 @@
     },
     {
       "id": "hemhem_r2",
-      "prompt": "[... çalış ...] dinlen.",
+      "prompt": "... dinlen.",
       "accepted_forms": [
         "hem",
         "hem"

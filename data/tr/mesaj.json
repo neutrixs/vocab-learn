@@ -5,22 +5,43 @@
   "part_of_speech": "noun",
   "english_gloss": "message, text",
   "sentences": [
-    { "id": "mesaj_s1", "text": "[Mesaj] gönderdin mi?", "note": null },
-    { "id": "mesaj_s2", "text": "SMS [mesajı] aldım.", "note": null },
-    { "id": "mesaj_s3", "text": "[Mesajlar] kontrol ettim.", "note": null },
-    { "id": "mesaj_s4", "text": "Ne [mesajı] vermek istiyorum?", "note": null }
+    {
+      "id": "mesaj_s1",
+      "text": "[Mesaj] gönderdin mi?",
+      "note": null
+    },
+    {
+      "id": "mesaj_s2",
+      "text": "SMS [mesajı] aldım.",
+      "note": null
+    },
+    {
+      "id": "mesaj_s3",
+      "text": "[Mesajlar] kontrol ettim.",
+      "note": null
+    },
+    {
+      "id": "mesaj_s4",
+      "text": "Ne [mesajı] vermek istiyorum?",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "mesaj_r1",
       "prompt": "Telefonda gönderilen yazılı haberleşme. Türkçesi?",
-      "accepted_forms": ["mesaj", "mesajı"],
+      "accepted_forms": [
+        "mesaj",
+        "mesajı"
+      ],
       "note": null
     },
     {
       "id": "mesaj_r2",
-      "prompt": "Birisi seni arama yerine SMS [...] gönderdi.",
-      "accepted_forms": ["mesaj"],
+      "prompt": "Birisi seni arama yerine SMS ... gönderdi.",
+      "accepted_forms": [
+        "mesaj"
+      ],
       "note": null
     }
   ]

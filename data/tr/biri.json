@@ -5,22 +5,42 @@
   "part_of_speech": "pronoun",
   "english_gloss": "someone, one person, anybody",
   "sentences": [
-    { "id": "biri_s1", "text": "[Biri] kapıyı açtı.", "note": null },
-    { "id": "biri_s2", "text": "[Birine] sorman gerek.", "note": null },
-    { "id": "biri_s3", "text": "Onlardan [biri] yardım edecek.", "note": null },
-    { "id": "biri_s4", "text": "[Biri] vardı mı okumayan?", "note": null }
+    {
+      "id": "biri_s1",
+      "text": "[Biri] kapıyı açtı.",
+      "note": null
+    },
+    {
+      "id": "biri_s2",
+      "text": "[Birine] sorman gerek.",
+      "note": null
+    },
+    {
+      "id": "biri_s3",
+      "text": "Onlardan [biri] yardım edecek.",
+      "note": null
+    },
+    {
+      "id": "biri_s4",
+      "text": "[Biri] vardı mı okumayan?",
+      "note": null
+    }
   ],
   "recall_prompts": [
     {
       "id": "biri_r1",
-      "prompt": "Tanımsız bir kişi: '[...]' geldi.",
-      "accepted_forms": ["biri"],
+      "prompt": "Tanımsız bir kişi: '...' geldi.",
+      "accepted_forms": [
+        "biri"
+      ],
       "note": null
     },
     {
       "id": "biri_r2",
       "prompt": "Öğrencilerin ... (biri) başarısız oldu.",
-      "accepted_forms": ["biri"],
+      "accepted_forms": [
+        "biri"
+      ],
       "note": null
     }
   ]

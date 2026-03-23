@@ -29,7 +29,7 @@
   "recall_prompts": [
     {
       "id": "bitirmek_r1",
-      "prompt": "Ödevini sonlandırmak: 'Ödevi [...]'",
+      "prompt": "Ödevini sonlandırmak: 'Ödevi ...'",
       "accepted_forms": [
         "bitirdim",
         "bitiriyorum"
@@ -38,7 +38,7 @@
     },
     {
       "id": "bitirmek_r2",
-      "prompt": "Yemeğini tamamlamak: 'Yemeği [...]'",
+      "prompt": "Yemeğini tamamlamak: 'Yemeği ...'",
       "accepted_forms": [
         "bitir",
         "bitirdim"

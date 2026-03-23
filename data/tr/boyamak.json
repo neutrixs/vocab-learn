@@ -29,7 +29,7 @@
   "recall_prompts": [
     {
       "id": "boyamak_r1",
-      "prompt": "Cıvata ile bir yüzeyi renklendirmek: '[...]'",
+      "prompt": "Cıvata ile bir yüzeyi renklendirmek: '...'",
       "accepted_forms": [
         "boyamak",
         "boyandı"

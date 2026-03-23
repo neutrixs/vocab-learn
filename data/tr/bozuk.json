@@ -29,7 +29,7 @@
   "recall_prompts": [
     {
       "id": "bozuk_r1",
-      "prompt": "Çalışmayan, hasar görmüş: '[...]' makine",
+      "prompt": "Çalışmayan, hasar görmüş: '...' makine",
       "accepted_forms": [
         "bozuk"
       ],

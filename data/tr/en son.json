@@ -38,7 +38,7 @@
     },
     {
       "id": "enSON_r2",
-      "prompt": "[En son] ne yaptınız? (last time)",
+      "prompt": "... ne yaptınız? (last time)",
       "accepted_forms": [
         "en son"
       ],

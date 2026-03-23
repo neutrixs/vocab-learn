@@ -37,7 +37,7 @@
     },
     {
       "id": "guldumek_r2",
-      "prompt": "Onun fıkrası beni [...] oldu.",
+      "prompt": "Onun fıkrası beni ... oldu.",
       "accepted_forms": [
         "güldürdü"
       ],

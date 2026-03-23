@@ -37,7 +37,7 @@
     },
     {
       "id": "eczaci_r2",
-      "prompt": "[Eczacı] bana bu ilaçı tavsiye etti.",
+      "prompt": "... bana bu ilaçı tavsiye etti.",
       "accepted_forms": [
         "eczacı"
       ],

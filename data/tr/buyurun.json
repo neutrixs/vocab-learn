@@ -29,7 +29,7 @@
   "recall_prompts": [
     {
       "id": "buyurun_r1",
-      "prompt": "Birini yemek yemeye davet ederken: '[...]', lütfen masaya oturun.",
+      "prompt": "Birini yemek yemeye davet ederken: '...', lütfen masaya oturun.",
       "accepted_forms": [
         "buyurun"
       ],
@@ -37,7 +37,7 @@
     },
     {
       "id": "buyurun_r2",
-      "prompt": "Misafire pencereyi gösteren ev sahibi: '[...] harika manzara!'",
+      "prompt": "Misafire pencereyi gösteren ev sahibi: '... harika manzara!'",
       "accepted_forms": [
         "buyurun"
       ],

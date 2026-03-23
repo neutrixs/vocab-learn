@@ -37,7 +37,7 @@
     },
     {
       "id": "hep_r2",
-      "prompt": "[...] senden bahsetme zaman.",
+      "prompt": "... senden bahsetme zaman.",
       "accepted_forms": [
         "hep"
       ],

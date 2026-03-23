@@ -37,7 +37,7 @@
     },
     {
       "id": "felaket_r2",
-      "prompt": "[Felaket] bölgeye yardım gönder.",
+      "prompt": "... bölgeye yardım gönder.",
       "accepted_forms": [
         "felaket"
       ],
