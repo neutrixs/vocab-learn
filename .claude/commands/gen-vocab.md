@@ -41,7 +41,7 @@ For **each word**, produce a JSON object matching this schema exactly:
   "recall_prompts": [
     {
       "id": "WORD_r1",
-      "prompt": "Turkish scenario or fill-in-blank question that requires the word",
+      "prompt": "Turkish scenario with ... for blank, or a question requiring the word",
       "accepted_forms": ["form1", "form2", "form3"],
       "note": null
     }
@@ -51,10 +51,12 @@ For **each word**, produce a JSON object matching this schema exactly:
 
 ### Rules — follow these strictly:
 
-**Sentences:**
+**Sentences (recognition mode):**
 - Write **3–5 sentences** per word
 - Every sentence is in **Turkish only** — no English whatsoever in `text`
-- The target word (in an appropriate inflected form) must appear **in square brackets** `[like this]` in every sentence
+- The target word must appear **in square brackets** in every sentence — brackets are **only** for recognition sentences
+- Brackets should contain **only the word stem**, with suffixes **outside** the brackets. E.g. `[öğrenci]lerini`, `[acele]ye`, `[güzel]liği` — NOT `[öğrencilerini]`
+- For words with vowel-dropping stems, the bracket contains the altered stem: `[şehr]in` (from şehir), `[burn]um` (from burun)
 - Sentences should be natural, varied in structure, and showcase different grammatical contexts
 - `note` must only add context in the target language (e.g. disambiguation, multiple meanings, grammatical nuance) — **NEVER put a translation in `note`**. If there's nothing to add, use `null`.
 - IDs follow pattern: `{word}_s1`, `{word}_s2`, etc.
@@ -62,6 +64,9 @@ For **each word**, produce a JSON object matching this schema exactly:
 **Recall prompts:**
 - Write **2 recall prompts** per word
 - The `prompt` is a **Turkish-language scenario or fill-in-blank** that strongly implies the target word — written entirely in Turkish, no English
+- **No hints** — the recall prompt must NOT contain any part of the answer, brackets, or clues that give away the word
+- **Fill-in-the-blank format:** Use `...` (triple dot) to indicate where the answer goes. Suffixes MUST be included as part of the expected answer, e.g. if the blank is "öğrencilerini" the prompt should end with `...` and `accepted_forms` should include "öğrencilerini" (the full inflected form with suffixes)
+- **Question format:** If the prompt is a direct question (not fill-in-the-blank), just write the question naturally — no blanks or special markers needed
 - `accepted_forms` lists 3–5 inflected forms the learner might correctly write (lowercased, trimmed)
 - IDs follow pattern: `{word}_r1`, `{word}_r2`, etc.
 
@@ -112,6 +117,6 @@ Print a concise summary:
 ## Important reminders
 
 - **No English in sentences or prompts** — Turkish only in the study-facing fields
-- **Always bracket the word form** in every sentence
+- **Always bracket the word form** in every recognition sentence — never in recall prompts
 - Keep `english_gloss` brief — it's a hint, not a dictionary entry
 - The app fetches files at `/data/tr/{filename}` — filenames must match exactly what's in `_index.json`
