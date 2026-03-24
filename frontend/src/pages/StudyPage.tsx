@@ -5,7 +5,6 @@ import { useProgress } from '../context/ProgressContext';
 import { useSettings } from '../context/SettingsContext';
 import { loadIndex, loadWord, preloadWords } from '../lib/dataLoader';
 import { buildSession } from '../lib/scheduler';
-import { isDue, isOverdue } from '../lib/sm2';
 import { getLocale } from '../lib/locale';
 import { ProgressBar } from '../components/ui/ProgressBar';
 import { Button } from '../components/ui/Button';
@@ -50,13 +49,12 @@ export function StudyPage() {
             const cardKey = `${wordParam}::${mode}`;
             const card = cards[cardKey];
             const isNew = !card;
-            const isDueNow = card ? (isOverdue(card) || isDue(card)) : false;
             return {
               word: wordParam,
               mode,
               cardKey,
               isNew,
-              readonly: !isNew && !isDueNow,
+              readonly: !isNew, // already-seen cards are preview-only — no SM-2 changes
             };
           });
         } else {
