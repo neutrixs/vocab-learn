@@ -11,11 +11,10 @@ import { ProgressBar } from '../components/ui/ProgressBar';
 import { Button } from '../components/ui/Button';
 import { RecognitionCard } from '../components/study/RecognitionCard';
 import { RecallCard } from '../components/study/RecallCard';
-import type { StudyItem } from '../types/study';
+import type { StudyItem, StudyMode, ReviewGrade } from '../types/study';
 import type { WordEntry } from '../types/word';
-import type { ReviewGrade } from '../types/study';
 
-type StudyMode = 'recognition' | 'recall' | 'mixed';
+type SessionMode = 'recognition' | 'recall' | 'mixed';
 
 export function StudyPage() {
   const { lang } = useLanguage();
@@ -23,7 +22,7 @@ export function StudyPage() {
   const { settings } = useSettings();
   const [params] = useSearchParams();
   const navigate = useNavigate();
-  const modeParam = (params.get('mode') ?? 'mixed') as StudyMode;
+  const modeParam = (params.get('mode') ?? 'mixed') as SessionMode;
   const wordParam = params.get('word');
   const t = getLocale(lang);
 
