@@ -5,6 +5,7 @@ import { useProgress } from '../context/ProgressContext';
 import { useSettings } from '../context/SettingsContext';
 import { loadIndex, loadWord, preloadWords } from '../lib/dataLoader';
 import { buildSession } from '../lib/scheduler';
+import { isDue, isOverdue } from '../lib/sm2';
 import { getLocale } from '../lib/locale';
 import { ProgressBar } from '../components/ui/ProgressBar';
 import { Button } from '../components/ui/Button';
@@ -23,6 +24,7 @@ export function StudyPage() {
   const [params] = useSearchParams();
   const navigate = useNavigate();
   const modeParam = (params.get('mode') ?? 'mixed') as StudyMode;
+  const wordParam = params.get('word');
   const t = getLocale(lang);
 
   const [queue, setQueue] = useState<StudyItem[]>([]);
@@ -37,9 +39,31 @@ export function StudyPage() {
   useEffect(() => {
     async function init() {
       try {
-        const index = await loadIndex(lang);
-        const lp = getLangProgress(lang);
-        let items = buildSession(index.words, lp, settings.max_new_words_per_day);
+        let items: StudyItem[];
+
+        if (wordParam) {
+          // Instant single-word session — no need to load full index
+          const lp = getLangProgress(lang);
+          const cards = lp?.cards ?? {};
+          const modes: StudyMode[] = ['recognition', 'recall'];
+          items = modes.map((mode) => {
+            const cardKey = `${wordParam}::${mode}`;
+            const card = cards[cardKey];
+            const isNew = !card;
+            const isDueNow = card ? (isOverdue(card) || isDue(card)) : false;
+            return {
+              word: wordParam,
+              mode,
+              cardKey,
+              isNew,
+              readonly: !isNew && !isDueNow,
+            };
+          });
+        } else {
+          const index = await loadIndex(lang);
+          const lp = getLangProgress(lang);
+          items = buildSession(index.words, lp, settings.max_new_words_per_day);
+        }
 
         // Filter by mode
         if (modeParam !== 'mixed') {
@@ -60,7 +84,7 @@ export function StudyPage() {
       }
     }
     init();
-  }, [lang, modeParam, settings.max_new_words_per_day]); // eslint-disable-line react-hooks/exhaustive-deps
+  }, [lang, modeParam, wordParam, settings.max_new_words_per_day]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Load current word entry
   useEffect(() => {
@@ -89,23 +113,26 @@ export function StudyPage() {
         // Card will be auto-created in recordReview via newCard()
       }
 
-      recordReview(lang, item.cardKey, grade);
-      setResults((r) => ({
-        pass: r.pass + (grade === 'pass' ? 1 : 0),
-        fail: r.fail + (grade === 'fail' ? 1 : 0),
-      }));
+      if (!item.readonly) {
+        recordReview(lang, item.cardKey, grade);
+        setResults((r) => ({
+          pass: r.pass + (grade === 'pass' ? 1 : 0),
+          fail: r.fail + (grade === 'fail' ? 1 : 0),
+        }));
 
-      if (grade === 'fail') {
-        const insertAt = Math.min(currentIdx + 4, queue.length);
-        setQueue((q) => {
-          const next = [...q];
-          next.splice(insertAt, 0, item);
-          return next;
-        });
+        if (grade === 'fail') {
+          const insertAt = Math.min(currentIdx + 4, queue.length);
+          setQueue((q) => {
+            const next = [...q];
+            next.splice(insertAt, 0, item);
+            return next;
+          });
+        }
       }
 
       const nextIdx = currentIdx + 1;
-      if (nextIdx >= queue.length && grade !== 'fail') {
+      const willRequeue = !item.readonly && grade === 'fail';
+      if (nextIdx >= queue.length && !willRequeue) {
         setDone(true);
       } else {
         setCurrentIdx(nextIdx);

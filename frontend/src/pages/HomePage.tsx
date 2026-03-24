@@ -17,7 +17,7 @@ import type { SM2Card } from '../types/progress';
 
 const PAGE_SIZE = 10;
 
-function WordList({ words, cards, lang, t }: { words: WordIndexEntry[]; cards: Record<string, SM2Card>; lang: string; t: UILocale }) {
+function WordList({ words, cards, lang, t, onWordClick }: { words: WordIndexEntry[]; cards: Record<string, SM2Card>; lang: string; t: UILocale; onWordClick: (word: string) => void }) {
   const [search, setSearch] = useState('');
   const [selectedPos, setSelectedPos] = useState<Set<string>>(new Set());
   const [page, setPage] = useState(0);
@@ -82,7 +82,7 @@ function WordList({ words, cards, lang, t }: { words: WordIndexEntry[]; cards: R
           const recCard = cards[`${w.word}::recognition`];
           const recallCard = cards[`${w.word}::recall`];
           return (
-            <li key={w.word} className="word-index-item">
+            <li key={w.word} className="word-index-item word-index-item--clickable" onClick={() => onWordClick(w.word)}>
               <span className="word-index-word">{w.word}</span>
               <span className="word-index-pos">{t.pos[w.part_of_speech] ?? w.part_of_speech}</span>
               <div className="word-index-cards">
@@ -229,7 +229,13 @@ export function HomePage() {
         </Card>
 
         {index && (
-          <WordList words={index.words} cards={lp?.cards ?? {}} lang={lang} t={t} />
+          <WordList
+            words={index.words}
+            cards={lp?.cards ?? {}}
+            lang={lang}
+            t={t}
+            onWordClick={(word) => navigate(`/study?mode=mixed&word=${encodeURIComponent(word)}`)}
+          />
         )}
       </div>
     </div>

@@ -451,6 +451,14 @@ body {
   border-bottom: none;
 }
 
+.word-index-item--clickable {
+  cursor: pointer;
+}
+
+.word-index-item--clickable:hover {
+  background: var(--color-surface-hover, rgba(0, 0, 0, 0.04));
+}
+
 .word-index-word {
   font-family: var(--font-serif);
   font-weight: 600;
