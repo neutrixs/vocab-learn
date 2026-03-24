@@ -1,0 +1,57 @@
+{
+  "word": "yorumlamak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to interpret, to comment on",
+  "sentences": [
+    {
+      "id": "yorumlamak_s1",
+      "text": "Siyasetçi kararı [yorumladı].",
+      "note": null
+    },
+    {
+      "id": "yorumlamak_s2",
+      "text": "Metin birçok şekilde [yorumlanabilir].",
+      "note": null
+    },
+    {
+      "id": "yorumlamak_s3",
+      "text": "Şarkının anlamını [yorum] yapan müzik öğretmeni açıkladı.",
+      "note": null
+    },
+    {
+      "id": "yorumlamak_s4",
+      "text": "[Yorum] edecek kişi bilinçli olmalı.",
+      "note": null
+    },
+    {
+      "id": "yorumlamak_s5",
+      "text": "Haber profesyonel gazeteciler tarafından [yorumlanıyor].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yorumlamak_r1",
+      "prompt": "Bir metne, olayına veya fikirlere kendi anlayışıyla anlamını vermek hangi fiille yapılır?",
+      "accepted_forms": [
+        "yorumlamak",
+        "yorumladı",
+        "yorumlanıyor",
+        "yorumlayan"
+      ],
+      "note": null
+    },
+    {
+      "id": "yorumlamak_r2",
+      "prompt": "Haber iyi bir muhabir tarafından ... gerekir.",
+      "accepted_forms": [
+        "yorumlanmalı",
+        "yorumlanması",
+        "yorumlanmalıdır"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "hazırlık",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "preparation",
+  "sentences": [
+    {
+      "id": "hazırlık_s1",
+      "text": "Sınav için çok [hazırlık] yaptım.",
+      "note": null
+    },
+    {
+      "id": "hazırlık_s2",
+      "text": "Düğün [hazırlık]ları üç ay sürdü.",
+      "note": null
+    },
+    {
+      "id": "hazırlık_s3",
+      "text": "[Hazırlık] olmadan başarılı olamayız.",
+      "note": null
+    },
+    {
+      "id": "hazırlık_s4",
+      "text": "Tatil için [hazırlık]larını tamamladı.",
+      "note": null
+    },
+    {
+      "id": "hazırlık_s5",
+      "text": "Proje [hazırlık]ında hepimiz yardım ettik.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hazırlık_r1",
+      "prompt": "Bir şey yapabilmek için önceden yapılan çalışmalara ... denir.",
+      "accepted_forms": ["hazırlık", "hazırlıklar", "hazırlığı", "hazırlıkları"],
+      "note": null
+    },
+    {
+      "id": "hazırlık_r2",
+      "prompt": "Sınavdan önceki çalışma dönemine ne ad verilir?",
+      "accepted_forms": ["hazırlık", "hazırlıklar"],
+      "note": null
+    }
+  ]
+}

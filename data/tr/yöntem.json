@@ -1,0 +1,27 @@
+{
+  "word": "yöntem",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "method, approach, way",
+  "sentences": [
+    { "id": "yöntem_s1", "text": "Öğretmen yeni bir [yöntem] kullanmaya başladı.", "note": null },
+    { "id": "yöntem_s2", "text": "Bu [yöntem] çok etkilidir ve hızlı sonuç verir.", "note": null },
+    { "id": "yöntem_s3", "text": "[Yöntem]lerimizi değiştirmemiz gerekiyor.", "note": null },
+    { "id": "yöntem_s4", "text": "İmam [yöntem]ine göre insan uygulamayı tercih ediyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yöntem_r1",
+      "prompt": "Bir işi yapmanın belirli şekline veya prosedürüne ne denir?",
+      "accepted_forms": ["yöntem", "yöntemi", "yöntemler", "Yöntem"],
+      "note": null
+    },
+    {
+      "id": "yöntem_r2",
+      "prompt": "Bilim ... ile problemleri çözer.",
+      "accepted_forms": ["yöntemi", "yöntemlerle"],
+      "note": null
+    }
+  ]
+}

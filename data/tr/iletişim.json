@@ -1,0 +1,48 @@
+{
+  "word": "iletişim",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "communication",
+  "sentences": [
+    {
+      "id": "iletişim_s1",
+      "text": "[İletişim] becerisi her meslekte önemlidir.",
+      "note": null
+    },
+    {
+      "id": "iletişim_s2",
+      "text": "İyi [iletişim] ilişkileri kuvvetlendirir.",
+      "note": null
+    },
+    {
+      "id": "iletişim_s3",
+      "text": "[İletişim]in ilk adımı dinlemektir.",
+      "note": null
+    },
+    {
+      "id": "iletişim_s4",
+      "text": "Ekip [iletişim]i projenin başarısı için kritiktir.",
+      "note": null
+    },
+    {
+      "id": "iletişim_s5",
+      "text": "Kültürler arası [iletişim] zorlayıcı olabilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "iletişim_r1",
+      "prompt": "İki veya daha fazla kişi arasında fikir, duygu ve bilgi aktarımı ... olarak adlandırılır.",
+      "accepted_forms": ["iletişim", "iletişimi", "iletişime"],
+      "note": null
+    },
+    {
+      "id": "iletişim_r2",
+      "prompt": "Sosyal medya aracılığıyla insanlar nasıl bağlantı kurarlar?",
+      "accepted_forms": ["iletişim", "iletişime geçerek"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "kavram",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "concept",
+  "sentences": [
+    {
+      "id": "kavram_s1",
+      "text": "[Kavram]lar soyut düşüncenin temelini oluşturur.",
+      "note": null
+    },
+    {
+      "id": "kavram_s2",
+      "text": "Demokrasi bir [kavram]dır ve farklı şekillerde anlaşılabilir.",
+      "note": null
+    },
+    {
+      "id": "kavram_s3",
+      "text": "Bu ders yeni [kavram]lar tanıtacaktır.",
+      "note": null
+    },
+    {
+      "id": "kavram_s4",
+      "text": "[Kavram]ının anlaşılması önemli ön koşuldur.",
+      "note": null
+    },
+    {
+      "id": "kavram_s5",
+      "text": "Matematik [kavram]larını iyi öğrenmek gerekir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kavram_r1",
+      "prompt": "Bir fikrin, olayın veya ilişkinin soyut tanımı ... olarak adlandırılır.",
+      "accepted_forms": ["kavram", "kavramı", "kavrama", "kavramlar"],
+      "note": null
+    },
+    {
+      "id": "kavram_r2",
+      "prompt": "Bir grup şeyin ortak özelliğini belirtmek için kullanılan genel fikir nedir?",
+      "accepted_forms": ["kavram", "kavramlar"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "word": "slayt",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "slide, slide presentation",
+  "sentences": [
+    {
+      "id": "slayt_s1",
+      "text": "Sunum için yirmi [slayt] hazırladı.",
+      "note": null
+    },
+    {
+      "id": "slayt_s2",
+      "text": "Her [slayt]ta bir başlık ve görseller vardı.",
+      "note": null
+    },
+    {
+      "id": "slayt_s3",
+      "text": "[Slayt] gösterisinde çok dikkat çeken bilgiler vardı.",
+      "note": null
+    },
+    {
+      "id": "slayt_s4",
+      "text": "Öğretmen [slayt]ları ekrana yansıttı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "slayt_r1",
+      "prompt": "Bilgisayarda sunum yaparken gösterilen her bir sayfa nedir?",
+      "accepted_forms": [
+        "slayt",
+        "slaytlar",
+        "slaytları"
+      ],
+      "note": null
+    },
+    {
+      "id": "slayt_r2",
+      "prompt": "Powerpoint sunum ... adlanır.",
+      "accepted_forms": [
+        "slayt",
+        "slayttır",
+        "slayttan",
+        "slaytlarda"
+      ],
+      "note": null
+    }
+  ]
+}

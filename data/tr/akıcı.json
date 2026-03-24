@@ -1,0 +1,41 @@
+{
+  "word": "akıcı",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "fluent, flowing",
+  "sentences": [
+    {
+      "id": "akıcı_s1",
+      "text": "O öğrenci [akıcı] bir şekilde İngilizcesi konuşuyor.",
+      "note": null
+    },
+    {
+      "id": "akıcı_s2",
+      "text": "Yazısı çok [akıcı] ve okuması kolay.",
+      "note": null
+    },
+    {
+      "id": "akıcı_s3",
+      "text": "[Akıcı] konuşma için çok pratik gerekir.",
+      "note": null
+    },
+    {
+      "id": "akıcı_s4",
+      "text": "Müziğin [akıcı] ritmi çok güzel.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "akıcı_r1",
+      "prompt": "Dil öğrenirken ... bir şekilde konuşabilmek herkesin hedefidir.",
+      "accepted_forms": ["akıcı", "akıcı bir"]
+    },
+    {
+      "id": "akıcı_r2",
+      "prompt": "Su havuzdan ... bir şekilde aşağıya iniyor.",
+      "accepted_forms": ["akıcı", "akıcı bir"]
+    }
+  ]
+}

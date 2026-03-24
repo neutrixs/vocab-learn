@@ -1,0 +1,27 @@
+{
+  "word": "yatılı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "residential, boarding (as in boarding school)",
+  "sentences": [
+    { "id": "yatılı_s1", "text": "[Yatılı] okulda öğrenciler haftada bir gün evine gidiyor.", "note": null },
+    { "id": "yatılı_s2", "text": "Kızı [yatılı] bir liseye gitti ve burada çok mutlu.", "note": null },
+    { "id": "yatılı_s3", "text": "[Yatılı] bir tesiste rehab tedavisi alıyor.", "note": null },
+    { "id": "yatılı_s4", "text": "Bu [yatılı] hastanede doktor 24 saat hizmet veriyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yatılı_r1",
+      "prompt": "Öğrencilerin okul binasında kaldığı okula ne denir?",
+      "accepted_forms": ["yatılı", "Yatılı"],
+      "note": null
+    },
+    {
+      "id": "yatılı_r2",
+      "prompt": "Bu hastanede hastalar geceleri burada kalıyorlar. Bu ... bir hastanedir.",
+      "accepted_forms": ["yatılı", "Yatılı"],
+      "note": null
+    }
+  ]
+}

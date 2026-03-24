@@ -1,0 +1,48 @@
+{
+  "word": "jest",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "gesture",
+  "sentences": [
+    {
+      "id": "jest_s1",
+      "text": "[Jest]i anlamında başını salladı.",
+      "note": null
+    },
+    {
+      "id": "jest_s2",
+      "text": "Yakındığı insana bir hoşluk [jest]i yaptı.",
+      "note": null
+    },
+    {
+      "id": "jest_s3",
+      "text": "Kültürlere göre [jest]lerin anlamları değişir.",
+      "note": null
+    },
+    {
+      "id": "jest_s4",
+      "text": "El [jest]leri bazen kelimelerden daha çok şey söyler.",
+      "note": null
+    },
+    {
+      "id": "jest_s5",
+      "text": "Diplomatik bir [jest] olarak hediye sundu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "jest_r1",
+      "prompt": "Vücudun bazı kısımlarıyla yapılan hareket, anlamı olup ... olarak bilinir.",
+      "accepted_forms": ["jest", "jesti", "jeste", "jestler"],
+      "note": null
+    },
+    {
+      "id": "jest_r2",
+      "prompt": "Saygı göstermek için kişi başıyla ne yapabilir?",
+      "accepted_forms": ["jest", "jest yapabilir", "başını kaldırabilir"],
+      "note": null
+    }
+  ]
+}

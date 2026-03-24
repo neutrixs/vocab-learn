@@ -1,0 +1,28 @@
+{
+  "word": "özgür",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "free, independent, at liberty",
+  "sentences": [
+    { "id": "özgür_s1", "text": "Herkes düşüncelerini [özgür]ce ifade etme hakkına sahiptir.", "note": null },
+    { "id": "özgür_s2", "text": "[Özgür] bir toplumda insanlar kendi kararlarını verebilirler.", "note": null },
+    { "id": "özgür_s3", "text": "Kuşlar gökyüzünde [özgür] uçarlar.", "note": null },
+    { "id": "özgür_s4", "text": "Yazarlar fikirlerini [özgür]ce yazabilmelidirler.", "note": null },
+    { "id": "özgür_s5", "text": "[Özgür] birey, kendi tercihlerini yapabilen insandır.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "özgür_r1",
+      "prompt": "Sınırlamalardan ve kontrol altından bağımsız, isteklerine uyan anlamı nedir?",
+      "accepted_forms": ["özgür"],
+      "note": null
+    },
+    {
+      "id": "özgür_r2",
+      "prompt": "Demokratik bir toplumda vatandaş ... olarak yaşama hakkına sahiptir.",
+      "accepted_forms": ["özgür"],
+      "note": null
+    }
+  ]
+}

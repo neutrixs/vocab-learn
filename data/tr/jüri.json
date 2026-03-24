@@ -1,0 +1,43 @@
+{
+  "word": "jüri",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "jury",
+  "sentences": [
+    {
+      "id": "jüri_s1",
+      "text": "[Jüri] üyeleri mahkemede sabit bir yerde oturmaktadır.",
+      "note": null
+    },
+    {
+      "id": "jüri_s2",
+      "text": "[Jüri]nin görevi sanığın suçlu veya masumiyetine karar vermektir.",
+      "note": null
+    },
+    {
+      "id": "jüri_s3",
+      "text": "Yarışmada [jüri] heyeti kazananları belirler.",
+      "note": null
+    },
+    {
+      "id": "jüri_s4",
+      "text": "Sanat sergisinde [jüri] üyeleri eserleri değerlendir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "jüri_r1",
+      "prompt": "Mahkemede davanın başlamasından ve yargılanmasından sorumlu olan halk temsilcileri topluluğu ... olarak bilinir.",
+      "accepted_forms": ["jüri", "jürisi", "jüriye", "jüri üyeleri"],
+      "note": null
+    },
+    {
+      "id": "jüri_r2",
+      "prompt": "Yarışmada kazananları seçen grup ne diye adlandırılır?",
+      "accepted_forms": ["jüri", "jüri heyeti"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "içsel",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "internal, intrinsic",
+  "sentences": [
+    {
+      "id": "içsel_s1",
+      "text": "[İçsel] motivasyon başarının anahtarıdır.",
+      "note": null
+    },
+    {
+      "id": "içsel_s2",
+      "text": "Sorunun [içsel] nedenleri analiz edilmeli.",
+      "note": null
+    },
+    {
+      "id": "içsel_s3",
+      "text": "[İçsel] çatışmalar kişi gelişimini etkiler.",
+      "note": null
+    },
+    {
+      "id": "içsel_s4",
+      "text": "Firmanın [içsel] yapısı karmaşıktır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "içsel_r1",
+      "prompt": "Birinin ruh durumundan gelen, içeriden gelen duygu ... olarak tanımlanır.",
+      "accepted_forms": ["içsel", "içsel duygu", "içsel motivasyon"],
+      "note": null
+    },
+    {
+      "id": "içsel_r2",
+      "prompt": "Dışarıdan değil de içeride bulunan niteliğe sahip olan şey ne diye adlandırılır?",
+      "accepted_forms": ["içsel", "içsel"],
+      "note": null
+    }
+  ]
+}

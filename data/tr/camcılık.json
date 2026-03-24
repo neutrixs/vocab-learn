@@ -1,0 +1,41 @@
+{
+  "word": "camcılık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "glazing, glass work",
+  "sentences": [
+    {
+      "id": "camcılık_s1",
+      "text": "[Camcılık] eski bir zanaat mesleğidir.",
+      "note": null
+    },
+    {
+      "id": "camcılık_s2",
+      "text": "Usta [camcılık] işinde çok yetenekli.",
+      "note": null
+    },
+    {
+      "id": "camcılık_s3",
+      "text": "[Camcılık] hizmetleri çok pahalı olabilir.",
+      "note": null
+    },
+    {
+      "id": "camcılık_s4",
+      "text": "[Camcılık] sanatında ustalaşması yıllar aldı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "camcılık_r1",
+      "prompt": "Cam işleriyle uğraşan mesleksine ... denir.",
+      "accepted_forms": ["camcılık", "camcılık denir"]
+    },
+    {
+      "id": "camcılık_r2",
+      "prompt": "Kırılan pencereyi tamir için ... ustası çağırdı.",
+      "accepted_forms": ["camcı", "camcılık"]
+    }
+  ]
+}

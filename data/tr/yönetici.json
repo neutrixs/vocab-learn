@@ -1,0 +1,27 @@
+{
+  "word": "yönetici",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "manager, administrator, director",
+  "sentences": [
+    { "id": "yönetici_s1", "text": "Okul [yönetici]si toplantıya katılmış.", "note": null },
+    { "id": "yönetici_s2", "text": "[Yönetici]ler yeni kararlar almışlar.", "note": null },
+    { "id": "yönetici_s3", "text": "İnsan kaynakları [yönetici]si işçileri kontrol ediyor.", "note": null },
+    { "id": "yönetici_s4", "text": "Proje [yönetici]si tüm çalışmaları izlemektedir.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yönetici_r1",
+      "prompt": "Bir kurumun veya işletmenin işlerini organize eden ve kontrol eden kişiye ne denir?",
+      "accepted_forms": ["yönetici", "yöneticisi", "yöneticiler", "Yönetici"],
+      "note": null
+    },
+    {
+      "id": "yönetici_r2",
+      "prompt": "Okul ... kararları alıyor ve öğretmenleri yönetiyor.",
+      "accepted_forms": ["yöneticisi", "yönetici"],
+      "note": null
+    }
+  ]
+}

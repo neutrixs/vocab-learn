@@ -1,0 +1,27 @@
+{
+  "word": "beste yapmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to compose (music), to write a song",
+  "sentences": [
+    { "id": "beste yapmak_s1", "text": "Müzisyen yeni bir [beste yap]tı ve çok sevilen oldu.", "note": null },
+    { "id": "beste yapmak_s2", "text": "Bu ünlü şarkıcı birçok [beste yap]mıştır.", "note": null },
+    { "id": "beste yapmak_s3", "text": "Opera bestesini [beste yap]an kişi çok ünlüdür.", "note": null },
+    { "id": "beste yapmak_s4", "text": "Bir [beste yap]maktan önce müzisyen ilham arayıyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "beste yapmak_r1",
+      "prompt": "Müzisyen melodisi yaratmak ve şarkı oluşturmak için ne yapar?",
+      "accepted_forms": ["beste yapmak", "beste yaptı", "beste yapması", "beste yapan"],
+      "note": null
+    },
+    {
+      "id": "beste yapmak_r2",
+      "prompt": "Mozart birçok meşhur ... yaptı.",
+      "accepted_forms": ["beste", "besteler"],
+      "note": null
+    }
+  ]
+}

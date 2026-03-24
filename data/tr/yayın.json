@@ -1,0 +1,27 @@
+{
+  "word": "yayın",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "broadcast, publication, program",
+  "sentences": [
+    { "id": "yayın_s1", "text": "Haber [yayın]ı saat sekizde başlıyor.", "note": null },
+    { "id": "yayın_s2", "text": "Bu dergi her ayın ilk günü [yayın] yapıyor.", "note": null },
+    { "id": "yayın_s3", "text": "Televizyon [yayın]ları sabah altıda başlamaktadır.", "note": null },
+    { "id": "yayın_s4", "text": "Müzik [yayın]larını dinlemek için radyoyu aç.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yayın_r1",
+      "prompt": "Televizyonda her gün haber sunan programa ne denir?",
+      "accepted_forms": ["yayın", "yayını", "Yayın"],
+      "note": null
+    },
+    {
+      "id": "yayın_r2",
+      "prompt": "Derginin haftalık ... vardır ve insanlar bunu okuyor.",
+      "accepted_forms": ["yayını", "yayınları", "yayın"],
+      "note": null
+    }
+  ]
+}

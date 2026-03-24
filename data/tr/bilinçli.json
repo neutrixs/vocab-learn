@@ -1,0 +1,41 @@
+{
+  "word": "bilinçli",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "conscious, aware",
+  "sentences": [
+    {
+      "id": "bilinçli_s1",
+      "text": "[Bilinçli] tüketiciler satın alma kararlarında düşünürler.",
+      "note": null
+    },
+    {
+      "id": "bilinçli_s2",
+      "text": "Çoğu insan çalışma saatleri boyunca [bilinçli]dir.",
+      "note": null
+    },
+    {
+      "id": "bilinçli_s3",
+      "text": "[Bilinçli] bir seçim yapması gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "bilinçli_s4",
+      "text": "Yaşamak için [bilinçli] bir tavır almalıdır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bilinçli_r1",
+      "prompt": "Durumunun farkında olan ve anlayan kişi ... bir kişidir.",
+      "accepted_forms": ["bilinçli", "bilinçli bir"]
+    },
+    {
+      "id": "bilinçli_r2",
+      "prompt": "Bilinçli olmak kararlarımızı daha iyi hale getirir.",
+      "accepted_forms": ["bilinçli"]
+    }
+  ]
+}

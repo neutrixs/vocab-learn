@@ -1,0 +1,51 @@
+{
+  "word": "tasarruflu",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "thrifty, economical, conservative",
+  "sentences": [
+    {
+      "id": "tasarruflu_s1",
+      "text": "[Tasarruflu] bir anne her kuruşu çok iyi bilir.",
+      "note": null
+    },
+    {
+      "id": "tasarruflu_s2",
+      "text": "Bu araba çok [tasarruflu], az benzin harcar.",
+      "note": null
+    },
+    {
+      "id": "tasarruflu_s3",
+      "text": "[Tasarruflu] yaşamak krize karşı iyi bir korunmadır.",
+      "note": null
+    },
+    {
+      "id": "tasarruflu_s4",
+      "text": "[Tasarruflu] bir insanın evi temiz ve düzenlidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tasarruflu_r1",
+      "prompt": "Harcadığı parayı ve enerjisini israf etmeyen kişi nedir?",
+      "accepted_forms": [
+        "tasarruflu",
+        "tasarrufluydu",
+        "tasarruflu bir"
+      ],
+      "note": null
+    },
+    {
+      "id": "tasarruflu_r2",
+      "prompt": "Az enerji tüketen ve ekonomik bir araç ... ... dir.",
+      "accepted_forms": [
+        "tasarruflu",
+        "tasarrufluluk",
+        "tasarruflu bir"
+      ],
+      "note": null
+    }
+  ]
+}

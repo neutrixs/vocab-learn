@@ -1,0 +1,41 @@
+{
+  "word": "baskı",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "pressure, printing",
+  "sentences": [
+    {
+      "id": "baskı_s1",
+      "text": "Hükümet muhalefet üzerine [baskı] yapıyor.",
+      "note": null
+    },
+    {
+      "id": "baskı_s2",
+      "text": "Kitabın [baskı]sı çok güzel.",
+      "note": null
+    },
+    {
+      "id": "baskı_s3",
+      "text": "[Baskı] altında karar vermek doğru değildir.",
+      "note": null
+    },
+    {
+      "id": "baskı_s4",
+      "text": "Gazete [baskı]sında hata yok.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "baskı_r1",
+      "prompt": "Birinin üzerine gelen zorlayıcı etki onun ... olmaktır.",
+      "accepted_forms": ["baskısı", "baskı"]
+    },
+    {
+      "id": "baskı_r2",
+      "prompt": "Kitap ... yöntemi eski zamanlardan beri var.",
+      "accepted_forms": ["baskı", "baskısı"]
+    }
+  ]
+}

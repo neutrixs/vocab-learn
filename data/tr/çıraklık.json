@@ -1,0 +1,43 @@
+{
+  "word": "çıraklık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "apprenticeship",
+  "sentences": [
+    {
+      "id": "çıraklık_s1",
+      "text": "O, terzi ustasının yanında [çıraklık] yapıyor.",
+      "note": null
+    },
+    {
+      "id": "çıraklık_s2",
+      "text": "[Çıraklık] döneminde çok şey öğrenmiş.",
+      "note": null
+    },
+    {
+      "id": "çıraklık_s3",
+      "text": "Mimar olmak için [çıraklık]tan geçmesi gerekir.",
+      "note": null
+    },
+    {
+      "id": "çıraklık_s4",
+      "text": "[Çıraklık]ı bitirdikten sonra kalfa olur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çıraklık_r1",
+      "prompt": "Genç bir zanaat öğrenmek için ... döneminden geçmesi gerekir.",
+      "accepted_forms": ["çıraklık", "çıraklığını"],
+      "note": null
+    },
+    {
+      "id": "çıraklık_r2",
+      "prompt": "Usta-kalfa ilişkisinde ... dönemi nasıl tanımlanır.",
+      "accepted_forms": ["çıraklığın", "çıraklık"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "word": "zannetmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to suspect, to suppose, to think wrongly",
+  "sentences": [
+    {
+      "id": "zannetmek_s1",
+      "text": "Polisler suçluyu [zannettiler].",
+      "note": null
+    },
+    {
+      "id": "zannetmek_s2",
+      "text": "Kimse onu böyle bir şey yapacak diye [zannetmezdi].",
+      "note": null
+    },
+    {
+      "id": "zannetmek_s3",
+      "text": "[Zannet]me ki ayırım olmayacak.",
+      "note": null
+    },
+    {
+      "id": "zannetmek_s4",
+      "text": "Herkesi [zannetmiş] gibi davranmak haksızdır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "zannetmek_r1",
+      "prompt": "Kanıtsız bir şekilde birinin kötü şey yaptığını düşünmek veya kuşku duymak hangi fiille ifade edilir?",
+      "accepted_forms": [
+        "zannetmek",
+        "zannettim",
+        "zannediyor",
+        "zannedilen"
+      ],
+      "note": null
+    },
+    {
+      "id": "zannetmek_r2",
+      "prompt": "Herkesi ... yaşamak insanı yalnız bırakır.",
+      "accepted_forms": [
+        "zannetmek",
+        "zannedilen",
+        "zannedilmiş"
+      ],
+      "note": null
+    }
+  ]
+}

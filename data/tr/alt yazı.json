@@ -1,0 +1,41 @@
+{
+  "word": "alt yazı",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "subtitle",
+  "sentences": [
+    {
+      "id": "alt yazı_s1",
+      "text": "Filmi [alt yazı]larla izledim.",
+      "note": null
+    },
+    {
+      "id": "alt yazı_s2",
+      "text": "[Alt yazı] olmadan filmi anlayamadı.",
+      "note": null
+    },
+    {
+      "id": "alt yazı_s3",
+      "text": "[Alt yazı]lar İngilizce olarak ayarlandı.",
+      "note": null
+    },
+    {
+      "id": "alt yazı_s4",
+      "text": "Kamu yayınında [alt yazı] hizmetidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "alt yazı_r1",
+      "prompt": "Filmin alttarafında görünen yazılara ... denir.",
+      "accepted_forms": ["alt yazı", "alt yazılar"]
+    },
+    {
+      "id": "alt yazı_r2",
+      "prompt": "Yabancı dizileri takip etmek için ... gerekir.",
+      "accepted_forms": ["alt yazı", "alt yazılara"]
+    }
+  ]
+}

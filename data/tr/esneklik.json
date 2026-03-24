@@ -1,0 +1,43 @@
+{
+  "word": "esneklik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "flexibility, elasticity",
+  "sentences": [
+    {
+      "id": "esneklik_s1",
+      "text": "Kauçuk [esneklik] özelliğine sahiptir.",
+      "note": null
+    },
+    {
+      "id": "esneklik_s2",
+      "text": "Tasarıda [esneklik] göstermeliyiz.",
+      "note": null
+    },
+    {
+      "id": "esneklik_s3",
+      "text": "[Esneklik] saati uygulamak çalışanları mutlu etti.",
+      "note": null
+    },
+    {
+      "id": "esneklik_s4",
+      "text": "Vücudun [esneklik]ini arttırmak yoga ile yapılır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "esneklik_r1",
+      "prompt": "Malzemenin ... özelliği ne kadar iyiyse o kadar kullanışlıdır.",
+      "accepted_forms": ["esnekliği", "esneklik"],
+      "note": null
+    },
+    {
+      "id": "esneklik_r2",
+      "prompt": "İş ortamında ... kurallarını uygulamak önem taşır.",
+      "accepted_forms": ["esnekliği", "esneklik"],
+      "note": null
+    }
+  ]
+}

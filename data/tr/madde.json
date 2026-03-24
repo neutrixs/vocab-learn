@@ -1,0 +1,27 @@
+{
+  "word": "madde",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "substance, matter, article, item",
+  "sentences": [
+    { "id": "madde_s1", "text": "Kimya dersinde çeşitli [madde]lerin özelliklerini öğrendik.", "note": null },
+    { "id": "madde_s2", "text": "Hukuk kitabının üçüncü [madde]si bu kuralı açıklamaktadır.", "note": null },
+    { "id": "madde_s3", "text": "Sürü [madde]ler (katı, sıvı, gaz) farklı şekillerde hareket eder.", "note": null },
+    { "id": "madde_s4", "text": "Antlaşmanın beşinci [madde]sine göre gümrük vergileri kaldırılacak.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "madde_r1",
+      "prompt": "Kimyada yer alan katı, sıvı veya gaz hali olan şey nedir?",
+      "accepted_forms": ["madde", "maddeler"],
+      "note": null
+    },
+    {
+      "id": "madde_r2",
+      "prompt": "Yasadaki 12. ... 'ye göre bu davranış yasaldır.",
+      "accepted_forms": ["madde", "maddesi"],
+      "note": null
+    }
+  ]
+}

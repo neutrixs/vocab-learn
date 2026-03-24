@@ -1,0 +1,57 @@
+{
+  "word": "özetlemek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to summarize, to sum up",
+  "sentences": [
+    {
+      "id": "özetlemek_s1",
+      "text": "Makalenin ana fikirlerini [özetledi].",
+      "note": null
+    },
+    {
+      "id": "özetlemek_s2",
+      "text": "Lütfen kitabın olaylarını [özetle].",
+      "note": null
+    },
+    {
+      "id": "özetlemek_s3",
+      "text": "Konuşmacu sözlerini birkaç cümle ile [özetlemeye] karar verdi.",
+      "note": null
+    },
+    {
+      "id": "özetlemek_s4",
+      "text": "Öğretmen, dersin önemli noktalarını [özetlemesi] için öğrenciyi seçti.",
+      "note": null
+    },
+    {
+      "id": "özetlemek_s5",
+      "text": "Rapor [özetlenmeli], ayrıntı gerekmez.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "özetlemek_r1",
+      "prompt": "Uzun bir metni kısaca ve öz şekilde anlatmak hangi fiille yapılır?",
+      "accepted_forms": [
+        "özetlemek",
+        "özetledim",
+        "özetliyor",
+        "özetlenmiş"
+      ],
+      "note": null
+    },
+    {
+      "id": "özetlemek_r2",
+      "prompt": "Kitabın tüm olay örgüsünü iki paragrafta ... lazım.",
+      "accepted_forms": [
+        "özetlemek",
+        "özetlemelisin",
+        "özetlemeli"
+      ],
+      "note": null
+    }
+  ]
+}

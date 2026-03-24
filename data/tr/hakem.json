@@ -1,0 +1,43 @@
+{
+  "word": "hakem",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "referee, arbiter",
+  "sentences": [
+    {
+      "id": "hakem_s1",
+      "text": "[Hakem] maç sırasında kuralları uygulamaktan sorumludur.",
+      "note": null
+    },
+    {
+      "id": "hakem_s2",
+      "text": "Futbol [hakem]i çok zor kararlar vermek zorundadır.",
+      "note": null
+    },
+    {
+      "id": "hakem_s3",
+      "text": "[Hakem]in kararına karşı oyuncu itiraz etti.",
+      "note": null
+    },
+    {
+      "id": "hakem_s4",
+      "text": "Maçta iki [hakem] ve bir hakem yardımcısı vardı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hakem_r1",
+      "prompt": "Spor müsabakalarında kuralları denetleyen kişi ... olarak bilinir.",
+      "accepted_forms": ["hakem", "hakemi", "hakeme", "hakemler"],
+      "note": null
+    },
+    {
+      "id": "hakem_r2",
+      "prompt": "Teniste oyuncuların arasında tarafsız kalan kişi kimdir?",
+      "accepted_forms": ["hakem", "hakemi"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "word": "kulak tıkamak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to block one's ears, to ignore, to shut out",
+  "sentences": [
+    {
+      "id": "kulak_tıkamak_s1",
+      "text": "Çocuk ayırıcı söze [kulak tıkadı].",
+      "note": null
+    },
+    {
+      "id": "kulak_tıkamak_s2",
+      "text": "Gürültü çok fazla olunca polis [kulaklarını tıkadı].",
+      "note": null
+    },
+    {
+      "id": "kulak_tıkamak_s3",
+      "text": "[Kulak tıka]ma, babacığın sözlerine kulak ver.",
+      "note": null
+    },
+    {
+      "id": "kulak_tıkamak_s4",
+      "text": "Önemli sesleri [kulak tıkaraktan] sonra pişman oldu.",
+      "note": null
+    },
+    {
+      "id": "kulak_tıkamak_s5",
+      "text": "Milyonlarca kişi gerçeğe [kulak tıkadı].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kulak_tıkamak_r1",
+      "prompt": "Birinin söylediklerine veya seslere dikkat etmemeyi tercih etmek anlamında hangi fiil kullanılır?",
+      "accepted_forms": [
+        "kulak tıkamak",
+        "kulak tıkadı",
+        "kulaklarını tıkadı",
+        "kulak tıkayan"
+      ],
+      "note": null
+    },
+    {
+      "id": "kulak_tıkamak_r2",
+      "prompt": "Israrla uyarıları ... çocuk sonra problem yaşadı.",
+      "accepted_forms": [
+        "kulak tıkayan",
+        "kulak tıkamasına",
+        "kulak tıkamış"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "word": "şekil",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "shape, form, appearance",
+  "sentences": [
+    {
+      "id": "şekil_s1",
+      "text": "Bu kutu kare [şekil]indedir.",
+      "note": null
+    },
+    {
+      "id": "şekil_s2",
+      "text": "Elmasın [şekil]i çok güzeldir.",
+      "note": null
+    },
+    {
+      "id": "şekil_s3",
+      "text": "[Şekil] değiştirme büyüye benziyor.",
+      "note": null
+    },
+    {
+      "id": "şekil_s4",
+      "text": "Bu ağacın [şekil]i çok tuhaftır.",
+      "note": null
+    },
+    {
+      "id": "şekil_s5",
+      "text": "[Şekil]i ne kadar güzel olursa olsun, içi boş olamaz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şekil_r1",
+      "prompt": "Nesnenin dış görünüşü veya konfigürasyonu nedir?",
+      "accepted_forms": [
+        "şekil",
+        "şekli",
+        "şekilde"
+      ],
+      "note": null
+    },
+    {
+      "id": "şekil_r2",
+      "prompt": "Daire, kare ve üçgen birer geometrik ... ... dir.",
+      "accepted_forms": [
+        "şekil",
+        "şekildir"
+      ],
+      "note": null
+    }
+  ]
+}

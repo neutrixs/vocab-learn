@@ -1,0 +1,43 @@
+{
+  "word": "dama",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "checkers (the game), damask (fabric)",
+  "sentences": [
+    {
+      "id": "dama_s1",
+      "text": "Kardeşim bana [dama] oynattı.",
+      "note": null
+    },
+    {
+      "id": "dama_s2",
+      "text": "[Dama] oyunu satranç gibi zeka oyunudur.",
+      "note": null
+    },
+    {
+      "id": "dama_s3",
+      "text": "Annemin masasında [dama]lı kumaş vardır.",
+      "note": null
+    },
+    {
+      "id": "dama_s4",
+      "text": "[Dama]da taş hareket ettirmeliyiz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dama_r1",
+      "prompt": "Tahtası ve taşları olan bir zeka oyunu olan ... oynuyorlar.",
+      "accepted_forms": ["dama", "damayı"],
+      "note": null
+    },
+    {
+      "id": "dama_r2",
+      "prompt": "Evin dekorasyon kumaşında ... deseni vardır.",
+      "accepted_forms": ["dama", "damalar", "damalı"],
+      "note": null
+    }
+  ]
+}

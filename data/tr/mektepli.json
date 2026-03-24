@@ -1,0 +1,27 @@
+{
+  "word": "mektepli",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "educated, school-taught, academic",
+  "sentences": [
+    { "id": "mektepli_s1", "text": "Onun [mektepli] bilgisi uygulamada işe yaramadı.", "note": null },
+    { "id": "mektepli_s2", "text": "[Mektepli] yazarlar bazen teori ve pratik arasında köprü kurarlar.", "note": null },
+    { "id": "mektepli_s3", "text": "Usta çiftçi, [mektepli] tarım mühendisinden daha çok biliyordu.", "note": null },
+    { "id": "mektepli_s4", "text": "O [mektepli] bir profesyoneldi ama sade konuşurdu.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "mektepli_r1",
+      "prompt": "Okul eğitimi görmüş, formal eğitim almış anlamında ne söyleriz?",
+      "accepted_forms": ["mektepli", "mekteplisi"],
+      "note": null
+    },
+    {
+      "id": "mektepli_r2",
+      "prompt": "Pratik bilgiye karşın, ... bilgi teorik ve sistematiktir.",
+      "accepted_forms": ["mektepli"],
+      "note": null
+    }
+  ]
+}

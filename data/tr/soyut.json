@@ -1,0 +1,51 @@
+{
+  "word": "soyut",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "abstract, conceptual",
+  "sentences": [
+    {
+      "id": "soyut_s1",
+      "text": "Felsefe [soyut] kavramlarla uğraşan bir bilimdir.",
+      "note": null
+    },
+    {
+      "id": "soyut_s2",
+      "text": "[Soyut] sanat herkese hitap etmez.",
+      "note": null
+    },
+    {
+      "id": "soyut_s3",
+      "text": "Aşk, adalet, saçlık gibi kavramlar [soyut] isimlerdir.",
+      "note": null
+    },
+    {
+      "id": "soyut_s4",
+      "text": "Bu [soyut] fikri somut örneklerle açıklamak gerekir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "soyut_r1",
+      "prompt": "Dokunulamayan, gözle görülemeyen, yalnızca zihinle kavranan şey nedir?",
+      "accepted_forms": [
+        "soyut",
+        "soyuttur",
+        "soyutsa"
+      ],
+      "note": null
+    },
+    {
+      "id": "soyut_r2",
+      "prompt": "Sevgi, güzellik ve adalet gibi ... fikirlerdir.",
+      "accepted_forms": [
+        "soyut",
+        "soyut",
+        "soytılan"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "word": "meydan okumak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to challenge, to defy, to dare",
+  "sentences": [
+    {
+      "id": "meydan_okumak_s1",
+      "text": "Sporcu rakibine [meydan okuttu].",
+      "note": null
+    },
+    {
+      "id": "meydan_okumak_s2",
+      "text": "Cesur genç diktatöre [meydan okudu].",
+      "note": null
+    },
+    {
+      "id": "meydan_okumak_s3",
+      "text": "[Meydan okumak] yönetimlenmeyen birinin göstergesidir.",
+      "note": null
+    },
+    {
+      "id": "meydan_okumak_s4",
+      "text": "Avukat hakim[e meydan okuyan] kişiye vekalet etmek istemedi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "meydan_okumak_r1",
+      "prompt": "Birinin gücüne ya da otoritesine karşı çıkarak onu korkutmaya çalışmak hangi ifadeyle anlatılır?",
+      "accepted_forms": [
+        "meydan okumak",
+        "meydan okudu",
+        "meydan okuyan",
+        "meydan okuttu"
+      ],
+      "note": null
+    },
+    {
+      "id": "meydan_okumak_r2",
+      "prompt": "Daha güçlü birine karşı ... cesaret göstermek berbat bir sonuç doğurabilir.",
+      "accepted_forms": [
+        "meydan okumak",
+        "meydan okuması",
+        "meydan okuyan"
+      ],
+      "note": null
+    }
+  ]
+}

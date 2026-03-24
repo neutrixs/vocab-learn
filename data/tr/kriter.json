@@ -1,0 +1,27 @@
+{
+  "word": "kriter",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "criterion, standard, measure",
+  "sentences": [
+    { "id": "kriter_s1", "text": "İşe alım için başlıca [kriter]ler yaş, eğitim ve deneyimdir.", "note": null },
+    { "id": "kriter_s2", "text": "Meyve seçerken en önemli [kriter] renk ve sertliktir.", "note": null },
+    { "id": "kriter_s3", "text": "Başarının ölçülmesi için açık [kriter]lerin belirlenmesi gerekir.", "note": null },
+    { "id": "kriter_s4", "text": "Kalite kontrol [kriter]lerine göre ürün incelendi.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kriter_r1",
+      "prompt": "Bir değerlendirmede başarının ölçüsü veya standardı nedir?",
+      "accepted_forms": ["kriter", "kriterler"],
+      "note": null
+    },
+    {
+      "id": "kriter_r2",
+      "prompt": "Üniversiteye başvuruda sınav puanı, lise notu gibi şeyler ... olarak adlandırılır.",
+      "accepted_forms": ["kriter", "kriterler"],
+      "note": null
+    }
+  ]
+}

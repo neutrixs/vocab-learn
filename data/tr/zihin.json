@@ -1,0 +1,27 @@
+{
+  "word": "zihin",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "mind, mental state, intellect",
+  "sentences": [
+    { "id": "zihin_s1", "text": "[Zihin]i rahatlatmak için meditasyon yapması gerekir.", "note": null },
+    { "id": "zihin_s2", "text": "Hasta [zihin]den rahatsız ve tedavi almıyor.", "note": null },
+    { "id": "zihin_s3", "text": "[Zihin] sağlığı fiziki sağlık kadar önemlidir.", "note": null },
+    { "id": "zihin_s4", "text": "Spor [zihin]i güçlendirir ve stres azaltır.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "zihin_r1",
+      "prompt": "İnsan düşüncesi ve ruh halinin merkez yeri nedir?",
+      "accepted_forms": ["zihin", "zihininin", "Zihin"],
+      "note": null
+    },
+    {
+      "id": "zihin_r2",
+      "prompt": "... sağlığını korumak için yeterli uyku gerekir.",
+      "accepted_forms": ["Zihin", "zihin"],
+      "note": null
+    }
+  ]
+}

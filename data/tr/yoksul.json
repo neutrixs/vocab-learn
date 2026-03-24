@@ -1,0 +1,27 @@
+{
+  "word": "yoksul",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "poor, destitute",
+  "sentences": [
+    { "id": "yoksul_s1", "text": "[Yoksul] aileler devletten yardım almıştır.", "note": null },
+    { "id": "yoksul_s2", "text": "Bu [yoksul] mahallede okullar çok basittir.", "note": null },
+    { "id": "yoksul_s3", "text": "[Yoksul] çocuklara kış ayında giyecek dağıtılıyor.", "note": null },
+    { "id": "yoksul_s4", "text": "Bir [yoksul] adamın bütün parası yoktur.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yoksul_r1",
+      "prompt": "Parası az olan, fakir olan kişiye veya aileye ne denir?",
+      "accepted_forms": ["yoksul", "Yoksul"],
+      "note": null
+    },
+    {
+      "id": "yoksul_r2",
+      "prompt": "Bu ... insanlar yardıma çok ihtiyaç duyuyor.",
+      "accepted_forms": ["yoksul", "yoksullar"],
+      "note": null
+    }
+  ]
+}

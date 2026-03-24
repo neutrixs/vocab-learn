@@ -1,0 +1,52 @@
+{
+  "word": "ödül vermek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to award, to give a prize",
+  "sentences": [
+    {
+      "id": "ödül_vermek_s1",
+      "text": "Yarışmayı kazanan öğrenciye başkan [ödül verdi].",
+      "note": null
+    },
+    {
+      "id": "ödül_vermek_s2",
+      "text": "En iyi sanat eserine altın madalya [ödülü verilecek].",
+      "note": null
+    },
+    {
+      "id": "ödül_vermek_s3",
+      "text": "Başarılı çalışanlarına kurum her sene [ödül veriyor].",
+      "note": null
+    },
+    {
+      "id": "ödül_vermek_s4",
+      "text": "[Ödül veriş] törenine tüm öğrenciler katıldı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ödül_vermek_r1",
+      "prompt": "Başarı veya yetenek için birilerine para veya hediye vermek hangi ifadeyle tanımlanır?",
+      "accepted_forms": [
+        "ödül vermek",
+        "ödül verdi",
+        "ödül veriyor",
+        "ödülü ver"
+      ],
+      "note": null
+    },
+    {
+      "id": "ödül_vermek_r2",
+      "prompt": "Yarışmada birinci olan kişiye ne ... .",
+      "accepted_forms": [
+        "ödül verilir",
+        "ödül verilecek",
+        "ödül verilmiş"
+      ],
+      "note": null
+    }
+  ]
+}

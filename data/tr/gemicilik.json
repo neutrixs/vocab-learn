@@ -1,0 +1,43 @@
+{
+  "word": "gemicilik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "shipping, maritime business, seamanship",
+  "sentences": [
+    {
+      "id": "gemicilik_s1",
+      "text": "İstanbul'da [gemicilik] çok önemli bir meslek.",
+      "note": null
+    },
+    {
+      "id": "gemicilik_s2",
+      "text": "[Gemicilik] ticaretin temelini oluşturur.",
+      "note": null
+    },
+    {
+      "id": "gemicilik_s3",
+      "text": "Deniz [gemicilik]inde çalışan denizciler vardır.",
+      "note": null
+    },
+    {
+      "id": "gemicilik_s4",
+      "text": "[Gemicilik]i öğrenmek için okul gerekir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gemicilik_r1",
+      "prompt": "Gemi ile ticaret yapmanın adına ... denir.",
+      "accepted_forms": ["gemicilik", "gemiciliği"],
+      "note": null
+    },
+    {
+      "id": "gemicilik_r2",
+      "prompt": "Kıyıya yakın şehirde ... yapanlar vardır.",
+      "accepted_forms": ["gemicilik", "gemiciliği"],
+      "note": null
+    }
+  ]
+}

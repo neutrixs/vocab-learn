@@ -1,0 +1,52 @@
+{
+  "word": "hatır sormak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to ask after, to inquire about, to check on",
+  "sentences": [
+    {
+      "id": "hatır_sormak_s1",
+      "text": "Annesinin sağlığını [hatır sordu].",
+      "note": null
+    },
+    {
+      "id": "hatır_sormak_s2",
+      "text": "Komsunun hastalık haberini duyduktan sonra [hatır sor] gittin mi?",
+      "note": null
+    },
+    {
+      "id": "hatır_sormak_s3",
+      "text": "Eski arkadaşının [hatırını sor]mak için çağırmasını istedi.",
+      "note": null
+    },
+    {
+      "id": "hatır_sormak_s4",
+      "text": "[Hatır sormaları] sevdikleri kişilere yapılan saygılı bir harekettir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hatır_sormak_r1",
+      "prompt": "Birinin sağlığını veya ne halde olduğunu merak ederek onun hakkında bilgi istememek hangi ifadeyle anlatılır?",
+      "accepted_forms": [
+        "hatır sormak",
+        "hatır sordum",
+        "hatır soruyor",
+        "hatırını sordu"
+      ],
+      "note": null
+    },
+    {
+      "id": "hatır_sormak_r2",
+      "prompt": "Hastayı ziyarete gittiğinde ilk yapman gereken şey onun ... ne kadar iyi olduğunu öğrenmektir.",
+      "accepted_forms": [
+        "hatırını sormak",
+        "hatırını sorması",
+        "hatırını sormak"
+      ],
+      "note": null
+    }
+  ]
+}

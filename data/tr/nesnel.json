@@ -1,0 +1,27 @@
+{
+  "word": "nesnel",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "objective, impartial, unbiased",
+  "sentences": [
+    { "id": "nesnel_s1", "text": "Hakim davanın [nesnel] bir şekilde yargılaması gerekir.", "note": null },
+    { "id": "nesnel_s2", "text": "Bilim [nesnel] gözlem ve veri toplamaya dayanır.", "note": null },
+    { "id": "nesnel_s3", "text": "Spor spikeri maç hakkında [nesnel] bilgi vermelidir.", "note": null },
+    { "id": "nesnel_s4", "text": "[Nesnel] bir analiz yapmak için kişisel yargıları bırakmalıyız.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "nesnel_r1",
+      "prompt": "Kişisel duygular ve önyargılardan bağımsız, tarafsız demek nedir?",
+      "accepted_forms": ["nesnel"],
+      "note": null
+    },
+    {
+      "id": "nesnel_r2",
+      "prompt": "Bilimsel araştırmalar ... veriler üzerine yapılmalıdır.",
+      "accepted_forms": ["nesnel"],
+      "note": null
+    }
+  ]
+}

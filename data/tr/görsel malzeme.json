@@ -1,0 +1,43 @@
+{
+  "word": "görsel malzeme",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "visual material, visual aids",
+  "sentences": [
+    {
+      "id": "görsel malzeme_s1",
+      "text": "Öğretmen derste [görsel malzeme] kullanır.",
+      "note": null
+    },
+    {
+      "id": "görsel malzeme_s2",
+      "text": "[Görsel malzeme], öğrencilerin dikkati çeker.",
+      "note": null
+    },
+    {
+      "id": "görsel malzeme_s3",
+      "text": "Sunum için renkli [görsel malzeme] hazırlayın.",
+      "note": null
+    },
+    {
+      "id": "görsel malzeme_s4",
+      "text": "İyi [görsel malzeme] öğrenmeyi kolaylaştırır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "görsel malzeme_r1",
+      "prompt": "Derste resim ve video gibi ... kullanırız.",
+      "accepted_forms": ["görsel malzeme", "görsel malzeme", "malzemeyi"],
+      "note": null
+    },
+    {
+      "id": "görsel malzeme_r2",
+      "prompt": "Eğitimde ... öğrenmeyi hızlandırır.",
+      "accepted_forms": ["görsel malzeme", "görsel malzemenin"],
+      "note": null
+    }
+  ]
+}

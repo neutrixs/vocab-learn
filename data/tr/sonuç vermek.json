@@ -1,0 +1,52 @@
+{
+  "word": "sonuç vermek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to result in, to yield a result",
+  "sentences": [
+    {
+      "id": "sonuç_vermek_s1",
+      "text": "Tedavi hastaYa iyi [sonuç verdi].",
+      "note": null
+    },
+    {
+      "id": "sonuç_vermek_s2",
+      "text": "Bu yöntem istenilen [sonucu vermedi].",
+      "note": null
+    },
+    {
+      "id": "sonuç_vermek_s3",
+      "text": "Çalışmalarımız olumlu [sonuç veriyor].",
+      "note": null
+    },
+    {
+      "id": "sonuç_vermek_s4",
+      "text": "[Sonuç verecek] bir çözüm bulmak gerekiyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sonuç_vermek_r1",
+      "prompt": "Bir tedavi, yöntem veya çalışma başarılı bir bitiş getirmesi ne demek?",
+      "accepted_forms": [
+        "sonuç vermek",
+        "sonuç verdi",
+        "sonuç veriyor",
+        "sonucu vermiş"
+      ],
+      "note": null
+    },
+    {
+      "id": "sonuç_vermek_r2",
+      "prompt": "Bu ilaç hastalığa ... .",
+      "accepted_forms": [
+        "sonuç veriyor",
+        "sonuç verecek",
+        "sonuç vermiş"
+      ],
+      "note": null
+    }
+  ]
+}

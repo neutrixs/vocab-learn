@@ -1,0 +1,27 @@
+{
+  "word": "mekanizma",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "mechanism, system, apparatus",
+  "sentences": [
+    { "id": "mekanizma_s1", "text": "Saat içindeki karmaşık [mekanizma] kesin olarak çalışır.", "note": null },
+    { "id": "mekanizma_s2", "text": "Hükümetin bütçe [mekanizma]sı oldukça karışıktır.", "note": null },
+    { "id": "mekanizma_s3", "text": "Beyin, hafızanın [mekanizma]sını tam olarak anlamamış.", "note": null },
+    { "id": "mekanizma_s4", "text": "Çatının kapanma [mekanizma]sı elektrik motoruyla çalışıyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "mekanizma_r1",
+      "prompt": "Bir şeyin nasıl çalıştığını gösteren sistem veya yapı nedir?",
+      "accepted_forms": ["mekanizma", "mekanizması", "mekanizmalar"],
+      "note": null
+    },
+    {
+      "id": "mekanizma_r2",
+      "prompt": "Bu makine çok sofistike bir ... ile tasarlanmıştır.",
+      "accepted_forms": ["mekanizma", "mekanizması"],
+      "note": null
+    }
+  ]
+}

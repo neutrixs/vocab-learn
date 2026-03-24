@@ -1,0 +1,43 @@
+{
+  "word": "detay",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "detail",
+  "sentences": [
+    {
+      "id": "detay_s1",
+      "text": "Sanatçı her [detay]a dikkat ediyor.",
+      "note": null
+    },
+    {
+      "id": "detay_s2",
+      "text": "[Detay]lar resmini güzel yapıyor.",
+      "note": null
+    },
+    {
+      "id": "detay_s3",
+      "text": "Mimarın planında hiç bir [detay] kaçmamıştır.",
+      "note": null
+    },
+    {
+      "id": "detay_s4",
+      "text": "Raporda tüm [detay]lar yazılmıştır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "detay_r1",
+      "prompt": "Büyük resmi anlamak için küçük ... leri anlamalısınız.",
+      "accepted_forms": ["detayları", "detay"],
+      "note": null
+    },
+    {
+      "id": "detay_r2",
+      "prompt": "Bu tasarımda hiçbir ... kaçmamış.",
+      "accepted_forms": ["detay", "detayı"],
+      "note": null
+    }
+  ]
+}

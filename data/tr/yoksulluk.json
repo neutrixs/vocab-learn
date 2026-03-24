@@ -1,0 +1,27 @@
+{
+  "word": "yoksulluk",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "poverty",
+  "sentences": [
+    { "id": "yoksulluk_s1", "text": "[Yoksulluk] birçok sosyal soruna neden olmaktadır.", "note": null },
+    { "id": "yoksulluk_s2", "text": "Hükümet [yoksulluk]la savaşmak için yeni bir program başlattı.", "note": null },
+    { "id": "yoksulluk_s3", "text": "[Yoksulluk] nedeniyle çocuklar okula gidemiyor.", "note": null },
+    { "id": "yoksulluk_s4", "text": "Ülkedeki [yoksulluk] oranı yüzde otuz düşmüştür.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yoksulluk_r1",
+      "prompt": "Yaşanan fakir olma durumuna ne denir?",
+      "accepted_forms": ["yoksulluk", "Yoksulluk"],
+      "note": null
+    },
+    {
+      "id": "yoksulluk_r2",
+      "prompt": "Hükümet ... ile savaşmak için sosyal yardım programları başlattı.",
+      "accepted_forms": ["yoksulluk", "yoksulluğa"],
+      "note": null
+    }
+  ]
+}

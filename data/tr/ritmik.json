@@ -1,0 +1,50 @@
+{
+  "word": "ritmik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "rhythmic, rhythmical",
+  "sentences": [
+    {
+      "id": "ritmik_s1",
+      "text": "Dansçının [ritmik] hareketleri izleyiciyi büyüledi.",
+      "note": null
+    },
+    {
+      "id": "ritmik_s2",
+      "text": "[Ritmik] jimnastik olimpiyatlarda popüler bir spordur.",
+      "note": null
+    },
+    {
+      "id": "ritmik_s3",
+      "text": "Müziğin [ritmik] yapısı çok düzenliydi.",
+      "note": null
+    },
+    {
+      "id": "ritmik_s4",
+      "text": "[Ritmik] nefes almak meditasyon sırasında sakinleştiricidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ritmik_r1",
+      "prompt": "Ritme sahip olan, uyumlu bir taksim veya hareket ... olarak adlandırılır.",
+      "accepted_forms": [
+        "ritmik",
+        "ritmiktir"
+      ],
+      "note": null
+    },
+    {
+      "id": "ritmik_r2",
+      "prompt": "Müzik ve dansla ilgili olarak, düzenli bir kuru veya tempo taşıyan şey nedir?",
+      "accepted_forms": [
+        "ritmik",
+        "ritmik hareketi",
+        "ritmik yapı"
+      ],
+      "note": null
+    }
+  ]
+}

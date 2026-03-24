@@ -1,0 +1,52 @@
+{
+  "word": "dil dökmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to pour out one's heart, to confess, to speak out",
+  "sentences": [
+    {
+      "id": "dil_dökmek_s1",
+      "text": "Gizli bir şeyden bahsetmekten çekinmeliysin, [dil dök]me hiç.",
+      "note": null
+    },
+    {
+      "id": "dil_dökmek_s2",
+      "text": "Dostuyla tüm sırlarını [dil döktü].",
+      "note": null
+    },
+    {
+      "id": "dil_dökmek_s3",
+      "text": "Rahip, papaz vicdanını [dil dökecek] birilerine yakındır.",
+      "note": null
+    },
+    {
+      "id": "dil_dökmek_s4",
+      "text": "Genellikle insanlar saygın kişilere [dil dökerler].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dil_dökmek_r1",
+      "prompt": "Birine gizli bir şey söyleyerek samimi bir şekilde sırrını açmak hangi ifadeyle anlatılır?",
+      "accepted_forms": [
+        "dil dökmek",
+        "dil döktü",
+        "dil dökerek",
+        "dilim döktüm"
+      ],
+      "note": null
+    },
+    {
+      "id": "dil_dökmek_r2",
+      "prompt": "Depresyondaki kişi bir terapiste ... gerekir.",
+      "accepted_forms": [
+        "dil dökmeli",
+        "dilini dökmeleri",
+        "dil dökmesi"
+      ],
+      "note": null
+    }
+  ]
+}

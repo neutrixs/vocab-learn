@@ -1,0 +1,55 @@
+{
+  "word": "siyaset",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "politics, policy",
+  "sentences": [
+    {
+      "id": "siyaset_s1",
+      "text": "[Siyaset] ile ilgilenmek herkesin işi değildir.",
+      "note": null
+    },
+    {
+      "id": "siyaset_s2",
+      "text": "Ülke [siyaset]i geçtiğimiz ay çok gerilimli oldu.",
+      "note": null
+    },
+    {
+      "id": "siyaset_s3",
+      "text": "Hükümetin [siyaset]i halktan eleştiri aldı.",
+      "note": null
+    },
+    {
+      "id": "siyaset_s4",
+      "text": "[Siyaset]in amacı toplumu yönetmek ve düzeni sağlamaktır.",
+      "note": null
+    },
+    {
+      "id": "siyaset_s5",
+      "text": "Uluslararası [siyaset] karmaşık ve tehlikelidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "siyaset_r1",
+      "prompt": "Ülkenin yönetimi ve hükümeti ile ilgili mesele nedir?",
+      "accepted_forms": [
+        "siyaset",
+        "siyasettir",
+        "siyaseti"
+      ],
+      "note": null
+    },
+    {
+      "id": "siyaset_r2",
+      "prompt": "... bir ülkenin kararlarını ve kamu işlerini yönetme sanatıdır.",
+      "accepted_forms": [
+        "siyaset",
+        "siyaset,"
+      ],
+      "note": null
+    }
+  ]
+}

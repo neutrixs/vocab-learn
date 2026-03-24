@@ -1,0 +1,27 @@
+{
+  "word": "ölçüt",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "measure, standard, criterion",
+  "sentences": [
+    { "id": "ölçüt_s1", "text": "Başarının ana [ölçüt]ü tespit edilmeli.", "note": null },
+    { "id": "ölçüt_s2", "text": "Kalite kontrolü belirli [ölçüt]lere göre yapılır.", "note": null },
+    { "id": "ölçüt_s3", "text": "Bu projenin başarısını ölçmek için açık [ölçüt]ler tanımladık.", "note": null },
+    { "id": "ölçüt_s4", "text": "Gözlemlenebilir [ölçüt]ler bilimsel araştırmalarda zorunludur.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ölçüt_r1",
+      "prompt": "Bir şeyin iyi veya kötü, başarılı veya başarısız olup olmadığını gösteren kıstaş nedir?",
+      "accepted_forms": ["ölçüt", "ölçütleri"],
+      "note": null
+    },
+    {
+      "id": "ölçüt_r2",
+      "prompt": "Bu işlemde biz başarıyı ölçmek için beş ... belirledik.",
+      "accepted_forms": ["ölçüt", "ölçütü"],
+      "note": null
+    }
+  ]
+}

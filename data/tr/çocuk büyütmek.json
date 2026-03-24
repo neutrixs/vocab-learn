@@ -1,0 +1,27 @@
+{
+  "word": "çocuk büyütmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to raise a child, to bring up children",
+  "sentences": [
+    { "id": "çocuk büyütmek_s1", "text": "Anne [çocuk büyüt]mek için çok sabırlı olmakta.", "note": null },
+    { "id": "çocuk büyütmek_s2", "text": "Ebeveynler [çocuk büyüt]erken sorumluluklu davranmalı.", "note": null },
+    { "id": "çocuk büyütmek_s3", "text": "Dört [çocuk büyüt]müş ve başarılı hale geldi.", "note": null },
+    { "id": "çocuk büyütmek_s4", "text": "[Çocuk büyüt]mesi fiziksel ve ruhsal çaba gerektirir.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çocuk büyütmek_r1",
+      "prompt": "Ebeveynlerin çocuğu beslemesi, eğitmesi ve bakması işine ne denir?",
+      "accepted_forms": ["çocuk büyütmek", "çocuk büyütmesi", "çocuk büyütmekte", "çocukları büyütmek"],
+      "note": null
+    },
+    {
+      "id": "çocuk büyütmek_r2",
+      "prompt": "Dört ... büyütmek zordur ama güzeldir.",
+      "accepted_forms": ["çocuğu", "çocuk"],
+      "note": null
+    }
+  ]
+}

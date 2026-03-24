@@ -1,0 +1,27 @@
+{
+  "word": "zekâ",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "intelligence, smartness, cleverness",
+  "sentences": [
+    { "id": "zekâ_s1", "text": "O çocuğun [zekâ]sı çok yüksektir.", "note": null },
+    { "id": "zekâ_s2", "text": "[Zekâ] testleri insanların akıl seviyelerini ölçer.", "note": null },
+    { "id": "zekâ_s3", "text": "Üniversiteye girmek için yüksek [zekâ]ya ihtiyaç var.", "note": null },
+    { "id": "zekâ_s4", "text": "İnsan ve hayvanlar arasında [zekâ] farkı çok büyüktür.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "zekâ_r1",
+      "prompt": "Bir kişinin akıl yürütme ve öğrenme yeteneğine ne denir?",
+      "accepted_forms": ["zekâ", "Zekâ"],
+      "note": null
+    },
+    {
+      "id": "zekâ_r2",
+      "prompt": "... testi insanların akıl düzeyini belirlemek için kullanılır.",
+      "accepted_forms": ["Zekâ", "zekâ"],
+      "note": null
+    }
+  ]
+}

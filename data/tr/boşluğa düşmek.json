@@ -1,0 +1,52 @@
+{
+  "word": "boşluğa düşmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to fall into a void, to fall into despair",
+  "sentences": [
+    {
+      "id": "boşluğa_düşmek_s1",
+      "text": "İşi kaybettikten sonra ruhsal [boşluğa düştü].",
+      "note": null
+    },
+    {
+      "id": "boşluğa_düşmek_s2",
+      "text": "Arkadaşı ayrıldıktan sonra derin [boşluğa düştü].",
+      "note": null
+    },
+    {
+      "id": "boşluğa_düşmek_s3",
+      "text": "İnsanlar bazen yaşam amacını kaybedince [boşluğa düş]erler.",
+      "note": null
+    },
+    {
+      "id": "boşluğa_düşmek_s4",
+      "text": "[Boşluğa düş]memek için ruh sağlığına dikkat etmeliyiz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "boşluğa_düşmek_r1",
+      "prompt": "Hayatında anlam ve amaç kaybederek depresyona girmek hangi ifadeyle anlatılır?",
+      "accepted_forms": [
+        "boşluğa düşmek",
+        "boşluğa düştü",
+        "boşluğa düşüyor",
+        "boşluğa düşmüş"
+      ],
+      "note": null
+    },
+    {
+      "id": "boşluğa_düşmek_r2",
+      "prompt": "Sevdiklerini kaybeden insanlar halk ... riski altındadır.",
+      "accepted_forms": [
+        "boşluğa düşme",
+        "boşluğa düşmek",
+        "boşluğa düşebilir"
+      ],
+      "note": null
+    }
+  ]
+}

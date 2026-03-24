@@ -1,0 +1,28 @@
+{
+  "word": "kurum",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "institution, organization, body",
+  "sentences": [
+    { "id": "kurum_s1", "text": "Eğitim [kurum]ları öğrencilerin gelişiminde önemli rol oynar.", "note": null },
+    { "id": "kurum_s2", "text": "Üniversite bir yüksek öğretim [kurum]udur.", "note": null },
+    { "id": "kurum_s3", "text": "[Kurum]un yönetim kurulu başkanı belli kararlar alır.", "note": null },
+    { "id": "kurum_s4", "text": "Devlet [kurum]ları halkın hizmetinde çalışır.", "note": null },
+    { "id": "kurum_s5", "text": "Hastane, bir sağlık [kurum]ıdır.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kurum_r1",
+      "prompt": "Üniversite, hastane, okul gibi kuruluşlar genel olarak ne denir?",
+      "accepted_forms": ["kurum", "kurumlar"],
+      "note": null
+    },
+    {
+      "id": "kurum_r2",
+      "prompt": "Belirli amaçlarla kurulmuş ve yapılandırılmış bir ... başında müdür veya başkan bulunur.",
+      "accepted_forms": ["kurum", "kurumlar"],
+      "note": null
+    }
+  ]
+}

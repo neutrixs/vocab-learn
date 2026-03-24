@@ -1,0 +1,41 @@
+{
+  "word": "biçim",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "form, shape, style",
+  "sentences": [
+    {
+      "id": "biçim_s1",
+      "text": "Kutu [biçim]inde paket gelmişti.",
+      "note": null
+    },
+    {
+      "id": "biçim_s2",
+      "text": "[Biçim] ve içerik ikisi de önemli.",
+      "note": null
+    },
+    {
+      "id": "biçim_s3",
+      "text": "Bu sanatçının [biçim]i çok benzersiz.",
+      "note": null
+    },
+    {
+      "id": "biçim_s4",
+      "text": "Yazının [biçim]i düzgün ve okunaklı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "biçim_r1",
+      "prompt": "Bir şeyin görünüşü ya da şekline ... denir.",
+      "accepted_forms": ["biçim", "biçim denir"]
+    },
+    {
+      "id": "biçim_r2",
+      "prompt": "Tasarımda ... ve işlevsellik eşit önem taşır.",
+      "accepted_forms": ["biçim"]
+    }
+  ]
+}

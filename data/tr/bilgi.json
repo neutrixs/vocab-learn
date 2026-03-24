@@ -1,0 +1,41 @@
+{
+  "word": "bilgi",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "information, knowledge",
+  "sentences": [
+    {
+      "id": "bilgi_s1",
+      "text": "[Bilgi] almak için internete bakmalısınız.",
+      "note": null
+    },
+    {
+      "id": "bilgi_s2",
+      "text": "Onun bu konuda [bilgi]si çok fazla.",
+      "note": null
+    },
+    {
+      "id": "bilgi_s3",
+      "text": "[Bilgi] çağında yaşıyoruz.",
+      "note": null
+    },
+    {
+      "id": "bilgi_s4",
+      "text": "Doktor bana tedavi hakkında [bilgi] verdi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bilgi_r1",
+      "prompt": "Bir konu hakkında sahip olunan veri ve açıklamalara ... denir.",
+      "accepted_forms": ["bilgi", "bilgi denir"]
+    },
+    {
+      "id": "bilgi_r2",
+      "prompt": "Bu çalışmada bana çok bilgi oldu.",
+      "accepted_forms": ["bilgi", "bilgi oldu"]
+    }
+  ]
+}

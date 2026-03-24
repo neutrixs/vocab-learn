@@ -1,0 +1,27 @@
+{
+  "word": "yüksek lisans",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "master's degree",
+  "sentences": [
+    { "id": "yüksek lisans_s1", "text": "[Yüksek lisans] programına katılmak için öğrenci başvurdu.", "note": null },
+    { "id": "yüksek lisans_s2", "text": "Üniversitede [yüksek lisans] tezi yazması gerekecek.", "note": null },
+    { "id": "yüksek lisans_s3", "text": "[Yüksek lisans] yapan öğrenciler daha yüksek maaş alıyor.", "note": null },
+    { "id": "yüksek lisans_s4", "text": "Bu üniversitenin [yüksek lisans] programları çok iyi.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yüksek lisans_r1",
+      "prompt": "Üniversitedeki dört yıllık lisans sonrasında yapılan ikinci dereceli öğretim programına ne denir?",
+      "accepted_forms": ["yüksek lisans", "Yüksek lisans"],
+      "note": null
+    },
+    {
+      "id": "yüksek lisans_r2",
+      "prompt": "Doktora öncesi ... derecesi almak gerekir.",
+      "accepted_forms": ["yüksek lisans", "yüksek lisansı"],
+      "note": null
+    }
+  ]
+}

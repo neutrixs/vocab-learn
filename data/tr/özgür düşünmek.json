@@ -1,0 +1,52 @@
+{
+  "word": "özgür düşünmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to think freely, to have free thought",
+  "sentences": [
+    {
+      "id": "özgür_düşünmek_s1",
+      "text": "Demokraside insanlar [özgür düşünebilir]ler.",
+      "note": null
+    },
+    {
+      "id": "özgür_düşünmek_s2",
+      "text": "Sanatçı fikirlerini [özgür düşün]erek oluşturttu.",
+      "note": null
+    },
+    {
+      "id": "özgür_düşünmek_s3",
+      "text": "[Özgür düşün]mek istiyorsan, toplumun baskısından kurtul.",
+      "note": null
+    },
+    {
+      "id": "özgür_düşünmek_s4",
+      "text": "Bilim insanları [özgür düşün]erek yeni keşifler yaparlar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "özgür_düşünmek_r1",
+      "prompt": "Kimsenin baskısı olmadan kendi fikirlerimizi oluşturmak anlamında hangi ifade kullanılır?",
+      "accepted_forms": [
+        "özgür düşünmek",
+        "özgür düşündü",
+        "özgür düşünerek",
+        "özgür düşünebilir"
+      ],
+      "note": null
+    },
+    {
+      "id": "özgür_düşünmek_r2",
+      "prompt": "Bilim ilerlemek için araştırmacılar ... zorunludur.",
+      "accepted_forms": [
+        "özgür düşünmeli",
+        "özgür düşünmeleri",
+        "özgür düşünmeliler"
+      ],
+      "note": null
+    }
+  ]
+}

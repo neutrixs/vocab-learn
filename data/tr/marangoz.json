@@ -1,0 +1,28 @@
+{
+  "word": "marangoz",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "carpenter, woodworker",
+  "sentences": [
+    { "id": "marangoz_s1", "text": "[Marangoz] ahşap masayı ustaca yapılandı.", "note": null },
+    { "id": "marangoz_s2", "text": "Kapımız kırık olduğu için [marangoz]u çağırdık.", "note": null },
+    { "id": "marangoz_s3", "text": "Usta [marangoz] yaklaşık otuz yıldan beri bu işi yapıyor.", "note": null },
+    { "id": "marangoz_s4", "text": "[Marangoz]un elinde birçok araç-gereç vardı.", "note": null },
+    { "id": "marangoz_s5", "text": "Ev yenilemesinde iyi bir [marangoz] bulmak önemlidir.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "marangoz_r1",
+      "prompt": "Ahşap işleri yapan ve mobilya yapan usta kimdir?",
+      "accepted_forms": ["marangoz", "marangozun", "marangozlar"],
+      "note": null
+    },
+    {
+      "id": "marangoz_r2",
+      "prompt": "Kitap rafını yapmam için iyi bir ... bulmam gerekiyor.",
+      "accepted_forms": ["marangoz", "marangozun"],
+      "note": null
+    }
+  ]
+}

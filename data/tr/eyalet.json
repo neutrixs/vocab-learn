@@ -1,0 +1,43 @@
+{
+  "word": "eyalet",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "province, state",
+  "sentences": [
+    {
+      "id": "eyalet_s1",
+      "text": "Osmanlı İmparatorluğu birçok [eyalet]ten oluşuyordu.",
+      "note": null
+    },
+    {
+      "id": "eyalet_s2",
+      "text": "[Eyalet]in valisini halk seçmektedir.",
+      "note": null
+    },
+    {
+      "id": "eyalet_s3",
+      "text": "Ülke on yedi [eyalet]e bölünmüştür.",
+      "note": null
+    },
+    {
+      "id": "eyalet_s4",
+      "text": "Her [eyalet]in kendi yönetimi vardır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "eyalet_r1",
+      "prompt": "Ülkenin bölüntüsündeki idari ... kaç tane bulunmaktadır.",
+      "accepted_forms": ["eyalet", "eyaletler"],
+      "note": null
+    },
+    {
+      "id": "eyalet_r2",
+      "prompt": "Federasyonda her ... kendi yasalarını yapabilir.",
+      "accepted_forms": ["eyaletin", "eyaletler"],
+      "note": null
+    }
+  ]
+}

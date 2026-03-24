@@ -1,0 +1,51 @@
+{
+  "word": "üretken",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "productive, prolific, fertile",
+  "sentences": [
+    {
+      "id": "üretken_s1",
+      "text": "Bu yıl yazarın [üretken] bir yılı oldu.",
+      "note": null
+    },
+    {
+      "id": "üretken_s2",
+      "text": "[Üretken] bir çalışma ortamı başarı için gereklidir.",
+      "note": null
+    },
+    {
+      "id": "üretken_s3",
+      "text": "Bu toprak çok [üretken]dir, her şey burada iyi yetişir.",
+      "note": null
+    },
+    {
+      "id": "üretken_s4",
+      "text": "[Üretken] insanlar hep meşgul ve başarılıdırlar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "üretken_r1",
+      "prompt": "Çok iş başaran, verimli ve başarılı olan şey nedir?",
+      "accepted_forms": [
+        "üretken",
+        "üretekendir",
+        "üretkenlik"
+      ],
+      "note": null
+    },
+    {
+      "id": "üretken_r2",
+      "prompt": "Toprağın veya yazarın ... olması demek çok ürün vermesidir.",
+      "accepted_forms": [
+        "üretken",
+        "üretken olmak",
+        "üretkenliği"
+      ],
+      "note": null
+    }
+  ]
+}

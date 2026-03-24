@@ -1,0 +1,27 @@
+{
+  "word": "hafızaya kaydetmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to memorize, to commit to memory",
+  "sentences": [
+    { "id": "hafızaya kaydetmek_s1", "text": "Öğrenci formülü [hafızaya kaydet]mek için tekrarlaması gerekiyor.", "note": null },
+    { "id": "hafızaya kaydetmek_s2", "text": "Şarkı [hafızaya kaydet]ildi ve şimdi söylebiliyor.", "note": null },
+    { "id": "hafızaya kaydetmek_s3", "text": "Telefon numarasını [hafızaya kaydet]meyen insanlar artık var.", "note": null },
+    { "id": "hafızaya kaydetmek_s4", "text": "Bu tarihsel olay insanların [hafızaya kaydet]ilmektedir.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hafızaya kaydetmek_r1",
+      "prompt": "Bir şeyi zihinle öğrenip hatırlayacak şekilde aklına koymak demektir ...",
+      "accepted_forms": ["hafızaya kaydetmek", "hafızaya kaydetti", "hafızaya kaydetmek", "hafızaya kaydedilmek"],
+      "note": null
+    },
+    {
+      "id": "hafızaya kaydetmek_r2",
+      "prompt": "Bu önemli tarihleri ... çalışıyor.",
+      "accepted_forms": ["hafızaya kaydetmek", "hafızaya kaydetmesi"],
+      "note": null
+    }
+  ]
+}

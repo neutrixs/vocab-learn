@@ -1,0 +1,41 @@
+{
+  "word": "alaylı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "sarcastic, mocking",
+  "sentences": [
+    {
+      "id": "alaylı_s1",
+      "text": "Cevabı [alaylı] bir tonda verdi.",
+      "note": null
+    },
+    {
+      "id": "alaylı_s2",
+      "text": "[Alaylı] yorumlar ortamı gerginleştirmeli.",
+      "note": null
+    },
+    {
+      "id": "alaylı_s3",
+      "text": "Onun [alaylı] tavrı herkesi rahatsız etti.",
+      "note": null
+    },
+    {
+      "id": "alaylı_s4",
+      "text": "[Alaylı] bir gülümsemesi vardı yüzünde.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "alaylı_r1",
+      "prompt": "Birisinin alay ederek konuşması ... bir tavır göstermesidir.",
+      "accepted_forms": ["alaylı", "alaylı bir"]
+    },
+    {
+      "id": "alaylı_r2",
+      "prompt": "O cevaplar ... ve hatalı.",
+      "accepted_forms": ["alaylı", "alaylı idi"]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "kinestetik",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "adjective",
+  "english_gloss": "kinesthetic",
+  "sentences": [
+    {
+      "id": "kinestetik_s1",
+      "text": "[Kinestetik] öğrenme tarzı hareket ve dokunuş aracılığıyla bilgi alma işlemidir.",
+      "note": null
+    },
+    {
+      "id": "kinestetik_s2",
+      "text": "[Kinestetik] duyu vücudun pozisyonunun farkında olmasını sağlar.",
+      "note": null
+    },
+    {
+      "id": "kinestetik_s3",
+      "text": "Bazı insanlar [kinestetik] deneyimler aracılığıyla daha iyi öğrenirler.",
+      "note": null
+    },
+    {
+      "id": "kinestetik_s4",
+      "text": "[Kinestetik] iletişim dans ve sporla ilgilidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kinestetik_r1",
+      "prompt": "Vücudun hareketleri ve konumlanmasına ilişkin duyusal algı ... olarak tanımlanır.",
+      "accepted_forms": ["kinestetik", "kinestetik"],
+      "note": null
+    },
+    {
+      "id": "kinestetik_r2",
+      "prompt": "Hareket ve dokunma aracılığıyla öğrenmek hangi tür öğrenme stilinin parçasıdır?",
+      "accepted_forms": ["kinestetik", "kinestetik öğrenme"],
+      "note": null
+    }
+  ]
+}

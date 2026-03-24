@@ -1,0 +1,48 @@
+{
+  "word": "işlev",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "function, role",
+  "sentences": [
+    {
+      "id": "işlev_s1",
+      "text": "Her organın vücudda bir [işlev]i vardır.",
+      "note": null
+    },
+    {
+      "id": "işlev_s2",
+      "text": "[İşlev]ini yerine getiremeyen makine onarılmalı.",
+      "note": null
+    },
+    {
+      "id": "işlev_s3",
+      "text": "Yöneticinin temel [işlev]leri planlama ve denetimdir.",
+      "note": null
+    },
+    {
+      "id": "işlev_s4",
+      "text": "Sistem [işlev]lerini kontrol etmek gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "işlev_s5",
+      "text": "[İşlev]sel açıdan bu çözüm en iyisidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "işlev_r1",
+      "prompt": "Bir şeyin yerine getirmesi gereken görev, görevi ... olarak adlandırılır.",
+      "accepted_forms": ["işlev", "işlevi", "işleve", "işlevleri"],
+      "note": null
+    },
+    {
+      "id": "işlev_r2",
+      "prompt": "Elektrik motorunun makinedeki görevi nedir?",
+      "accepted_forms": ["işlev", "işlevi"],
+      "note": null
+    }
+  ]
+}

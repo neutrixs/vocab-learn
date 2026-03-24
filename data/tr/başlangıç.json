@@ -1,0 +1,41 @@
+{
+  "word": "başlangıç",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "beginning, start",
+  "sentences": [
+    {
+      "id": "başlangıç_s1",
+      "text": "[Başlangıç]ta birçok zorluk yaşadı.",
+      "note": null
+    },
+    {
+      "id": "başlangıç_s2",
+      "text": "Filmin [başlangıç]ı çok ilginç.",
+      "note": null
+    },
+    {
+      "id": "başlangıç_s3",
+      "text": "[Başlangıç] yapması için destek almalıdır.",
+      "note": null
+    },
+    {
+      "id": "başlangıç_s4",
+      "text": "Bu yılın [başlangıç]ı seninki mi?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "başlangıç_r1",
+      "prompt": "Bir şeyin ilk aşamasına ... denir.",
+      "accepted_forms": ["başlangıç", "başlangıç denir"]
+    },
+    {
+      "id": "başlangıç_r2",
+      "prompt": "Proje ... iyiydi ama sonrası sıkıntılı oldu.",
+      "accepted_forms": ["başlangıcı", "başlangıçta"]
+    }
+  ]
+}

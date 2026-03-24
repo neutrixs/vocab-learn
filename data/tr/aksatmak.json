@@ -1,0 +1,27 @@
+{
+  "word": "aksatmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to delay, to disrupt, to interrupt",
+  "sentences": [
+    { "id": "aksatmak_s1", "text": "Trafik akışını [aksatma]ması gerekir.", "note": null },
+    { "id": "aksatmak_s2", "text": "Kaza işleri [aksatt]ı ve geç kaldık.", "note": null },
+    { "id": "aksatmak_s3", "text": "Planlı bakım çalışmaları üretimi [aksatm]ıştır.", "note": null },
+    { "id": "aksatmak_s4", "text": "Hava durumu uçuş [aksat]mayacak diye umuyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "aksatmak_r1",
+      "prompt": "Bir işin yapılmasını ertelemek veya durdurmanın anlamına ne denir?",
+      "accepted_forms": ["aksatmak", "aksattı", "aksatması", "aksattığı"],
+      "note": null
+    },
+    {
+      "id": "aksatmak_r2",
+      "prompt": "Trafik kazası otobüsün gelişini ... etti.",
+      "accepted_forms": ["aksattı", "aksatmıştır"],
+      "note": null
+    }
+  ]
+}

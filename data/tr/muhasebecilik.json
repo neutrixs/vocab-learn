@@ -1,0 +1,27 @@
+{
+  "word": "muhasebecilik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "accounting, accountancy",
+  "sentences": [
+    { "id": "muhasebecilik_s1", "text": "[Muhasebecilik] bir işletmenin finansal kayıtlarını yönetir.", "note": null },
+    { "id": "muhasebecilik_s2", "text": "Üniversitede [muhasebecilik] dersleri finans bölümünde verilir.", "note": null },
+    { "id": "muhasebecilik_s3", "text": "Doğru [muhasebecilik] uygulamaları vergi problemlerini önler.", "note": null },
+    { "id": "muhasebecilik_s4", "text": "[Muhasebecilik]de dürüstlük çok önemlidir.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "muhasebecilik_r1",
+      "prompt": "İşletmelerin para işlerini sistematik şekilde kayıt ve rapor etme mesleği nedir?",
+      "accepted_forms": ["muhasebecilik"],
+      "note": null
+    },
+    {
+      "id": "muhasebecilik_r2",
+      "prompt": "Şirket yöneticileri ... konusunda uzman muhasebecilere ihtiyaç duyarlar.",
+      "accepted_forms": ["muhasebecilik", "muhasebe"],
+      "note": null
+    }
+  ]
+}

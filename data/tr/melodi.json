@@ -1,0 +1,27 @@
+{
+  "word": "melodi",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "melody, tune",
+  "sentences": [
+    { "id": "melodi_s1", "text": "Bu şarkının [melodi]si çok güzel ve akılda kalıcı.", "note": null },
+    { "id": "melodi_s2", "text": "Piyanist harika bir [melodi] çalıyordu.", "note": null },
+    { "id": "melodi_s3", "text": "Müzikte [melodi] ve ritim birlikte güzel bir yapı oluşturur.", "note": null },
+    { "id": "melodi_s4", "text": "[Melodi]si basit ama etkili olan şarkılar çoğu zaman başarılı olur.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "melodi_r1",
+      "prompt": "Bir şarkının veya müzik parçasının ana sesi veya akışı nedir?",
+      "accepted_forms": ["melodi", "melodisi", "melodiler"],
+      "note": null
+    },
+    {
+      "id": "melodi_r2",
+      "prompt": "Bu klasik müzik parçasının ... o kadar etkileyici ki herkes hatırlar.",
+      "accepted_forms": ["melodi", "melodisi"],
+      "note": null
+    }
+  ]
+}

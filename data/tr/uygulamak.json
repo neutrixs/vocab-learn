@@ -1,0 +1,57 @@
+{
+  "word": "uygulamak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to apply, to implement, to practice",
+  "sentences": [
+    {
+      "id": "uygulamak_s1",
+      "text": "Öğretmenin yöntemi tüm sınıflara [uygulandı].",
+      "note": null
+    },
+    {
+      "id": "uygulamak_s2",
+      "text": "Yeni kuralı yarından [uygula].",
+      "note": null
+    },
+    {
+      "id": "uygulamak_s3",
+      "text": "Hukuku adil bir şekilde [uygulamak] gerekir.",
+      "note": null
+    },
+    {
+      "id": "uygulamak_s4",
+      "text": "Bilgisayar programını [uyguladığımızda] sorun çıktı.",
+      "note": null
+    },
+    {
+      "id": "uygulamak_s5",
+      "text": "Öğrenciler teoriye [uygulamayı] laboratuvarda öğrenirler.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "uygulamak_r1",
+      "prompt": "Teorik bilgiyi gerçek durumda kullanmak veya bir kuralı yerine getirmek hangi fiille ifade edilir?",
+      "accepted_forms": [
+        "uygulamak",
+        "uygulandı",
+        "uygulamaya",
+        "uygulanıyor"
+      ],
+      "note": null
+    },
+    {
+      "id": "uygulamak_r2",
+      "prompt": "Trafik kuralları tüm şehirde ... zorunludur.",
+      "accepted_forms": [
+        "uygulanmalı",
+        "uygulanması",
+        "uygulanmalıdır"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "word": "ritim tutmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to keep the beat, to keep time",
+  "sentences": [
+    {
+      "id": "ritim_tutmak_s1",
+      "text": "Davulcu müziğin [ritmi tuttu].",
+      "note": null
+    },
+    {
+      "id": "ritim_tutmak_s2",
+      "text": "Çocuk şarkıya ayaklarıyla [ritim tutuyor].",
+      "note": null
+    },
+    {
+      "id": "ritim_tutmak_s3",
+      "text": "[Ritim tut], şarkı ile uyumlu olmalısın.",
+      "note": null
+    },
+    {
+      "id": "ritim_tutmak_s4",
+      "text": "Müzisyenler [ritmi tutmadan] iyi bir parça çalamazlar.",
+      "note": null
+    },
+    {
+      "id": "ritim_tutmak_s5",
+      "text": "Orkestranın [ritmi tutması] şefin görevidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ritim_tutmak_r1",
+      "prompt": "Müzisyenlerin müziğin ritmini izleyerek hareket etmeleri ne demek?",
+      "accepted_forms": [
+        "ritim tutmak",
+        "ritmi tuttum",
+        "ritmi tutuyor",
+        "ritmi tuttu"
+      ],
+      "note": null
+    },
+    {
+      "id": "ritim_tutmak_r2",
+      "prompt": "İyi bir dans için dansçı müziğin ... gerekir.",
+      "accepted_forms": [
+        "ritmi tutmalı",
+        "ritmini tutmalı",
+        "ritmi tutması"
+      ],
+      "note": null
+    }
+  ]
+}

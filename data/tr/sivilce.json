@@ -1,0 +1,51 @@
+{
+  "word": "sivilce",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "acne, pimple",
+  "sentences": [
+    {
+      "id": "sivilce_s1",
+      "text": "Gençlik döneminde [sivilce] çoğunlukla ortaya çıkar.",
+      "note": null
+    },
+    {
+      "id": "sivilce_s2",
+      "text": "Cildini iyi temizlemezsen [sivilce] oluşabilir.",
+      "note": null
+    },
+    {
+      "id": "sivilce_s3",
+      "text": "Doktor [sivilce] için bir krem önerdi.",
+      "note": null
+    },
+    {
+      "id": "sivilce_s4",
+      "text": "[Sivilce]ler genellikle yüzde görülür.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sivilce_r1",
+      "prompt": "Cildin üzerinde oluşan kırmızı, enfekte noktalar nedir?",
+      "accepted_forms": [
+        "sivilce",
+        "sivilceler",
+        "sivilceleri"
+      ],
+      "note": null
+    },
+    {
+      "id": "sivilce_r2",
+      "prompt": "Ergenlik çağında yüzde sık görülen cilt hastalığı ... adlanır.",
+      "accepted_forms": [
+        "sivilce",
+        "sivilcedir",
+        "sivilceye"
+      ],
+      "note": null
+    }
+  ]
+}

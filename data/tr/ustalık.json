@@ -1,0 +1,51 @@
+{
+  "word": "ustalık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "craftsmanship, mastery, expertise",
+  "sentences": [
+    {
+      "id": "ustalık_s1",
+      "text": "Mobilya marangozun [ustalık]ından belli oluyor.",
+      "note": null
+    },
+    {
+      "id": "ustalık_s2",
+      "text": "[Ustalık] ve beceri uzun yılların ürünüdür.",
+      "note": null
+    },
+    {
+      "id": "ustalık_s3",
+      "text": "Ressam [ustalık]yla tabloyu boyadı.",
+      "note": null
+    },
+    {
+      "id": "ustalık_s4",
+      "text": "Bu sanatçının [ustalık]ı dünyaca tanındı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ustalık_r1",
+      "prompt": "Bir işi çok iyi yapmak için gerekli olan beceri ve deneyim nedir?",
+      "accepted_forms": [
+        "ustalık",
+        "ustalıktan",
+        "ustalığı"
+      ],
+      "note": null
+    },
+    {
+      "id": "ustalık_r2",
+      "prompt": "Ressim, dansa veya örneklemede gösterilen yüksek seviye ... ... dir.",
+      "accepted_forms": [
+        "ustalık",
+        "ustalıktır",
+        "ustalığı"
+      ],
+      "note": null
+    }
+  ]
+}

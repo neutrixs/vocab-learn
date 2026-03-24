@@ -1,0 +1,41 @@
+{
+  "word": "belediye",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "municipality, city council",
+  "sentences": [
+    {
+      "id": "belediye_s1",
+      "text": "[Belediye] başkanı seçimler yapıyor.",
+      "note": null
+    },
+    {
+      "id": "belediye_s2",
+      "text": "[Belediye] hizmetleri halkın talepleriyle ilgili.",
+      "note": null
+    },
+    {
+      "id": "belediye_s3",
+      "text": "Şehrin [belediye]si yolları onarıyor.",
+      "note": null
+    },
+    {
+      "id": "belediye_s4",
+      "text": "[Belediye] binası merkezde bulunuyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "belediye_r1",
+      "prompt": "Bir şehrin yönetiminden sorumlu kuruluşa ... denir.",
+      "accepted_forms": ["belediye", "belediye denir"]
+    },
+    {
+      "id": "belediye_r2",
+      "prompt": "Belediye seçimlerinde halk oy kullanır.",
+      "accepted_forms": ["belediye"]
+    }
+  ]
+}

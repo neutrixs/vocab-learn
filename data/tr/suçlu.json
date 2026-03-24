@@ -1,0 +1,50 @@
+{
+  "word": "suçlu",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun, adjective",
+  "english_gloss": "guilty, offender, culprit",
+  "sentences": [
+    {
+      "id": "suçlu_s1",
+      "text": "[Suçlu] mahkemede savunma yaptı.",
+      "note": null
+    },
+    {
+      "id": "suçlu_s2",
+      "text": "Polis [suçlu]yu tutuklamak için aradı.",
+      "note": null
+    },
+    {
+      "id": "suçlu_s3",
+      "text": "Kimse [suçlu] saymamak istemiştir.",
+      "note": null
+    },
+    {
+      "id": "suçlu_s4",
+      "text": "İnsan [suçlu]nun cezasını almasını ister.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "suçlu_r1",
+      "prompt": "Bir suçu işlemiş olan kişi nedir?",
+      "accepted_forms": [
+        "suçlu",
+        "suçludur",
+        "suçluydu"
+      ],
+      "note": null
+    },
+    {
+      "id": "suçlu_r2",
+      "prompt": "Mahkemede yargılanan ... kişi sanıktır.",
+      "accepted_forms": [
+        "suçlu",
+        "suçlunun"
+      ],
+      "note": null
+    }
+  ]
+}

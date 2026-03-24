@@ -1,0 +1,27 @@
+{
+  "word": "af çıkmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to be pardoned, to be forgiven (of a law/sentence)",
+  "sentences": [
+    { "id": "af çıkmak_s1", "text": "Mahkûmun cezası [af çık]tı ve serbest bırakıldı.", "note": null },
+    { "id": "af çıkmak_s2", "text": "Devlet tarafından [af çık]an insanlar hapisten çıkıyor.", "note": null },
+    { "id": "af çıkmak_s3", "text": "Geçen yıl çok sayıda [af çık]tı.", "note": null },
+    { "id": "af çıkmak_s4", "text": "Hükümet bayramda çok sayıda mahkûmun cezasının [af çık]masına karar verdi.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "af çıkmak_r1",
+      "prompt": "Mahkûmun cezası devlet tarafından kaldırılıp serbest bırakılırsa bu ne denir?",
+      "accepted_forms": ["af çıkmak", "af çıktı", "af çıkması", "af çıkan"],
+      "note": null
+    },
+    {
+      "id": "af çıkmak_r2",
+      "prompt": "Mahkûm cezasının ... çıkmasını bekliyor.",
+      "accepted_forms": ["af", "afın"],
+      "note": null
+    }
+  ]
+}

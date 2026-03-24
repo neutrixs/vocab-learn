@@ -1,0 +1,57 @@
+{
+  "word": "kaydetmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to record, to save, to register",
+  "sentences": [
+    {
+      "id": "kaydetmek_s1",
+      "text": "Toplantıyı video kameraya [kaydettik].",
+      "note": null
+    },
+    {
+      "id": "kaydetmek_s2",
+      "text": "Ses kaydını bilgisayara [kaydet].",
+      "note": null
+    },
+    {
+      "id": "kaydetmek_s3",
+      "text": "Öğrenci, öğretmenin sözlerini [kaydediyor].",
+      "note": null
+    },
+    {
+      "id": "kaydetmek_s4",
+      "text": "Hareketleriniz kameralar tarafından [kaydedildi].",
+      "note": null
+    },
+    {
+      "id": "kaydetmek_s5",
+      "text": "[Kaydet] istiyorsan, başkan adını vermeli.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kaydetmek_r1",
+      "prompt": "Ses veya görüntüyü teknolojik bir cihaza aktarmak hangi fiille ifade edilir?",
+      "accepted_forms": [
+        "kaydetmek",
+        "kaydettim",
+        "kaydediyor",
+        "kaydedildi"
+      ],
+      "note": null
+    },
+    {
+      "id": "kaydetmek_r2",
+      "prompt": "Okul, öğrencinin ismini resmi bir dosyada ... için kayıt formu doldurttu.",
+      "accepted_forms": [
+        "kaydetmek",
+        "kaydedebilmek",
+        "kaydetmek"
+      ],
+      "note": null
+    }
+  ]
+}

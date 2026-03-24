@@ -1,0 +1,43 @@
+{
+  "word": "destekçi",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "supporter, backer, advocate",
+  "sentences": [
+    {
+      "id": "destekçi_s1",
+      "text": "Takımın birçok [destekçi]si vardır.",
+      "note": null
+    },
+    {
+      "id": "destekçi_s2",
+      "text": "Projesi için bir kaç [destekçi] bulmuş.",
+      "note": null
+    },
+    {
+      "id": "destekçi_s3",
+      "text": "[Destekçi]leri ona her zaman yardım ederler.",
+      "note": null
+    },
+    {
+      "id": "destekçi_s4",
+      "text": "Liderin [destekçi]leri seçimi kazandı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "destekçi_r1",
+      "prompt": "Siyasi partinin sadık ... ları vardır.",
+      "accepted_forms": ["destekçileri", "destekçi"],
+      "note": null
+    },
+    {
+      "id": "destekçi_r2",
+      "prompt": "Bu etkinliğin birçok ... i var.",
+      "accepted_forms": ["destekçisi", "destekçisi"],
+      "note": null
+    }
+  ]
+}

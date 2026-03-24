@@ -1,0 +1,48 @@
+{
+  "word": "çizgi",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "line, stripe",
+  "sentences": [
+    {
+      "id": "çizgi_s1",
+      "text": "Kalem ile bir [çizgi] çizdim.",
+      "note": null
+    },
+    {
+      "id": "çizgi_s2",
+      "text": "Bayrağında beyaz [çizgi]ler var.",
+      "note": null
+    },
+    {
+      "id": "çizgi_s3",
+      "text": "Bu yolun ortasında sarı [çizgi] vardır.",
+      "note": null
+    },
+    {
+      "id": "çizgi_s4",
+      "text": "[Çizgi]leri düzgün çiz yoksa silinecek.",
+      "note": null
+    },
+    {
+      "id": "çizgi_s5",
+      "text": "Koordinat sisteminde X ve Y [çizgi]leri vardır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çizgi_r1",
+      "prompt": "Harita üzerinde siyah ... çizilmiş.",
+      "accepted_forms": ["çizgiler", "çizgi"],
+      "note": null
+    },
+    {
+      "id": "çizgi_r2",
+      "prompt": "Kağıt üzerinde kalem ile ... çizip etkinlik yaptık.",
+      "accepted_forms": ["çizgileri", "çizgi"],
+      "note": null
+    }
+  ]
+}

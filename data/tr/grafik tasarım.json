@@ -1,0 +1,43 @@
+{
+  "word": "grafik tasarım",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "graphic design",
+  "sentences": [
+    {
+      "id": "grafik tasarım_s1",
+      "text": "[Grafik tasarım] alanında başarılı olmak için yaratıcı düşünmek gerekir.",
+      "note": null
+    },
+    {
+      "id": "grafik tasarım_s2",
+      "text": "Modern [grafik tasarım] reklam endüstrisinin en önemli parçasıdır.",
+      "note": null
+    },
+    {
+      "id": "grafik tasarım_s3",
+      "text": "Bu logo [grafik tasarım] öğrencileri tarafından tasarlanmıştır.",
+      "note": null
+    },
+    {
+      "id": "grafik tasarım_s4",
+      "text": "[Grafik tasarım]ım sayesinde müşteriler daha fazla ilgi gösterdi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "grafik tasarım_r1",
+      "prompt": "Renkler, tipografi ve görsellerle sanat oluşturmak ... ... olarak bilinir.",
+      "accepted_forms": ["grafik tasarım", "grafik tasarımı", "grafik tasarıma"],
+      "note": null
+    },
+    {
+      "id": "grafik tasarım_r2",
+      "prompt": "Bir markanın logosunu oluşturmak hangi alandır?",
+      "accepted_forms": ["grafik tasarım", "grafik tasarımı"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "analiz etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to analyze, to examine in detail",
+  "sentences": [
+    { "id": "analiz etmek_s1", "text": "Doktor kan [analiz et]ti ve sonuçları verdi.", "note": null },
+    { "id": "analiz etmek_s2", "text": "Sosyolog davranışları [analiz et]mesi gerekir.", "note": null },
+    { "id": "analiz etmek_s3", "text": "Şirket verilerini [analiz et]erek karar alıyor.", "note": null },
+    { "id": "analiz etmek_s4", "text": "Bilim insanları örnekleri [analiz et]mektedir.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "analiz etmek_r1",
+      "prompt": "Bir şeyi detaylı incelemek ve parçalara bölerek anlamak demektir ...",
+      "accepted_forms": ["analiz etmek", "analiz etti", "analiz etmek", "analiz etmesi"],
+      "note": null
+    },
+    {
+      "id": "analiz etmek_r2",
+      "prompt": "Hemşire kan örneğini laboratuvarda ... etti.",
+      "accepted_forms": ["analiz", "analiz etmek"],
+      "note": null
+    }
+  ]
+}

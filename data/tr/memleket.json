@@ -1,0 +1,28 @@
+{
+  "word": "memleket",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "country, hometown, nation",
+  "sentences": [
+    { "id": "memleket_s1", "text": "Atamın [memleket]i Doğu Anadolu'da bir köydür.", "note": null },
+    { "id": "memleket_s2", "text": "Ülkemizin [memleket]inde pek çok güzel tarihî eser vardır.", "note": null },
+    { "id": "memleket_s3", "text": "Yurtdışında yaşayan insanlar [memleket]lerini özlemle hatırlarlar.", "note": null },
+    { "id": "memleket_s4", "text": "Her [memleket]in kendine göre kültürü ve geleneği vardır.", "note": null },
+    { "id": "memleket_s5", "text": "[Memleket]e dönüş için gereken kağıtları hazırladı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "memleket_r1",
+      "prompt": "İnsan doğduğu yer ya da tarihî ve kültürel bağı olan yer ne denir?",
+      "accepted_forms": ["memleket", "memleketi", "memlekete", "memleket"],
+      "note": null
+    },
+    {
+      "id": "memleket_r2",
+      "prompt": "Çoğu göçmen kendi ... için özlem duyarlar.",
+      "accepted_forms": ["memleket", "memleketini"],
+      "note": null
+    }
+  ]
+}

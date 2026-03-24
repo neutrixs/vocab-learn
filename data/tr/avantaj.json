@@ -1,0 +1,41 @@
+{
+  "word": "avantaj",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "advantage, benefit",
+  "sentences": [
+    {
+      "id": "avantaj_s1",
+      "text": "Bu yöntem birçok [avantaj]ı vardır.",
+      "note": null
+    },
+    {
+      "id": "avantaj_s2",
+      "text": "Erken kalkmak sağlığa [avantaj] sağlar.",
+      "note": null
+    },
+    {
+      "id": "avantaj_s3",
+      "text": "[Avantaj]larını bilmek önemlidir.",
+      "note": null
+    },
+    {
+      "id": "avantaj_s4",
+      "text": "Spor müsabakasında [avantaj] sağlayan faktörler vardır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "avantaj_r1",
+      "prompt": "Bir durumun pozitif yönü onun ... olmaktır.",
+      "accepted_forms": ["avantajı", "avantaj", "avantajları"]
+    },
+    {
+      "id": "avantaj_r2",
+      "prompt": "Bu ortamda çalışmanın pek çok ... vardır.",
+      "accepted_forms": ["avantajı", "avantajları"]
+    }
+  ]
+}

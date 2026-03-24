@@ -1,0 +1,43 @@
+{
+  "word": "çiftçilik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "farming, agriculture",
+  "sentences": [
+    {
+      "id": "çiftçilik_s1",
+      "text": "Babası yaşamını [çiftçilik]ten kazanıyor.",
+      "note": null
+    },
+    {
+      "id": "çiftçilik_s2",
+      "text": "[Çiftçilik], ülkenin ana gelir kaynağıdır.",
+      "note": null
+    },
+    {
+      "id": "çiftçilik_s3",
+      "text": "Modern [çiftçilik] teknolojisi çok önemlidir.",
+      "note": null
+    },
+    {
+      "id": "çiftçilik_s4",
+      "text": "[Çiftçilik]e başlamak için toprak gerekir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çiftçilik_r1",
+      "prompt": "Tarla işlemek ve mahsül yetiştirmek ... olarak adlandırılır.",
+      "accepted_forms": ["çiftçilik", "çiftçilik"],
+      "note": null
+    },
+    {
+      "id": "çiftçilik_r2",
+      "prompt": "Kırsal bölgelerde insanların çoğu ... yaparak yaşarlar.",
+      "accepted_forms": ["çiftçilikle", "çiftçiliğini"],
+      "note": null
+    }
+  ]
+}

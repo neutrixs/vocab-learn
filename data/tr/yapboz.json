@@ -1,0 +1,51 @@
+{
+  "word": "yapboz",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "puzzle",
+  "sentences": [
+    {
+      "id": "yapboz_s1",
+      "text": "Çocuk [yapboz]u kurdu, hiç parça kaybolmamıştı.",
+      "note": null
+    },
+    {
+      "id": "yapboz_s2",
+      "text": "Bu [yapboz] çok zor, üç saat sürdü.",
+      "note": null
+    },
+    {
+      "id": "yapboz_s3",
+      "text": "[Yapboz]un tüm parçalarını buldum ama son bir tanesini kaybettim.",
+      "note": null
+    },
+    {
+      "id": "yapboz_s4",
+      "text": "Beyaz [yapboz]lar kurulmak için çok kıbardır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yapboz_r1",
+      "prompt": "Birçok parçadan oluşan ve bunları bir araya getirerek resim oluşturan oyun nedir?",
+      "accepted_forms": [
+        "yapboz",
+        "yapbozun",
+        "yapbozlar"
+      ],
+      "note": null
+    },
+    {
+      "id": "yapboz_r2",
+      "prompt": "Rengarenk karton parçalarından oluşan eğlendirici oyun ... adlanır.",
+      "accepted_forms": [
+        "yapboz",
+        "yapbozdur",
+        "yapboza"
+      ],
+      "note": null
+    }
+  ]
+}

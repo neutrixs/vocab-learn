@@ -1,0 +1,27 @@
+{
+  "word": "makale",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "article, essay",
+  "sentences": [
+    { "id": "makale_s1", "text": "Bu dergi ilginç [makale]ler yayınlamaktadır.", "note": null },
+    { "id": "makale_s2", "text": "Gazetedeki [makale] hakkındaki fikirlerini paylaştı.", "note": null },
+    { "id": "makale_s3", "text": "Akademik [makale]ler genellikle uzun araştırmalar sonucunda yazılır.", "note": null },
+    { "id": "makale_s4", "text": "Bu [makale]nin yazarı ünlü bir bilim insanıdır.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "makale_r1",
+      "prompt": "Gazete, dergi veya akademik yayında yayınlanan yazı nedir?",
+      "accepted_forms": ["makale", "makaleler"],
+      "note": null
+    },
+    {
+      "id": "makale_r2",
+      "prompt": "Haber sitesinde okuduğum eğitim hakkındaki ... çok bilgilendirici idi.",
+      "accepted_forms": ["makale", "makalesi"],
+      "note": null
+    }
+  ]
+}

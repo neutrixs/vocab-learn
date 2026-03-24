@@ -1,0 +1,43 @@
+{
+  "word": "ilişkin",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "related to, pertaining to",
+  "sentences": [
+    {
+      "id": "ilişkin_s1",
+      "text": "Projeyle [ilişkin] soruları cevaplayabilirim.",
+      "note": null
+    },
+    {
+      "id": "ilişkin_s2",
+      "text": "Sağlıkla [ilişkin] araştırmalar devam ediyor.",
+      "note": null
+    },
+    {
+      "id": "ilişkin_s3",
+      "text": "Yasayla [ilişkin] konular avukatla görüşülmelidir.",
+      "note": null
+    },
+    {
+      "id": "ilişkin_s4",
+      "text": "Eğitimle [ilişkin] politikalar tartışılıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ilişkin_r1",
+      "prompt": "\"Çalışma koşullarıyla ... kurallara saygı gereklidir\" cümlesinde boş yeri doldurunuz.",
+      "accepted_forms": ["ilişkin", "ilişkin"],
+      "note": null
+    },
+    {
+      "id": "ilişkin_r2",
+      "prompt": "Bir şeyle alakalı, ona ait olan özelliğe ne denir?",
+      "accepted_forms": ["ilişkin", "ilişkin"],
+      "note": null
+    }
+  ]
+}

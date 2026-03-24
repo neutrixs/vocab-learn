@@ -1,0 +1,48 @@
+{
+  "word": "gurur",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "pride",
+  "sentences": [
+    {
+      "id": "gurur_s1",
+      "text": "Oğlunun başarısından [gurur] duydu.",
+      "note": null
+    },
+    {
+      "id": "gurur_s2",
+      "text": "[Gurur] bazen insanları yanlış kararlara götürebilir.",
+      "note": null
+    },
+    {
+      "id": "gurur_s3",
+      "text": "Kendi [gurur]undan vazgeçip hata kabul etti.",
+      "note": null
+    },
+    {
+      "id": "gurur_s4",
+      "text": "Milli [gurur] onun değerlerinin merkezindedir.",
+      "note": null
+    },
+    {
+      "id": "gurur_s5",
+      "text": "[Gurur]u kırmamak için sessiz kaldım.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gurur_r1",
+      "prompt": "Kendini yüksek saymak, kendi başarılarından memnun olmak ... olarak adlandırılır.",
+      "accepted_forms": ["gurur", "gururu", "gurura", "gururla"],
+      "note": null
+    },
+    {
+      "id": "gurur_r2",
+      "prompt": "Ülkemizin başarılarından hissedilen duygu nedir?",
+      "accepted_forms": ["gurur", "gururu", "milli gurur"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "ipucu",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "clue, hint",
+  "sentences": [
+    {
+      "id": "ipucu_s1",
+      "text": "Dedektif suçun çözümüne bir [ipucu] buldu.",
+      "note": null
+    },
+    {
+      "id": "ipucu_s2",
+      "text": "[İpucu]larını kullanarak sırrı keşfetti.",
+      "note": null
+    },
+    {
+      "id": "ipucu_s3",
+      "text": "Öğretmen sınava [ipucu] vermek istemiyor.",
+      "note": null
+    },
+    {
+      "id": "ipucu_s4",
+      "text": "Bu [ipucu] bize doğru yola götürecek.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ipucu_r1",
+      "prompt": "Birinin bir şeyi bulmasına veya anlamasına yardımcı olan bilgi parçası ... olarak bilinir.",
+      "accepted_forms": ["ipucu", "ipucu", "ipuçları", "ipuçlarından"],
+      "note": null
+    },
+    {
+      "id": "ipucu_r2",
+      "prompt": "Sorunun cevabını bulmanıza yardımcı olacak küçük bir ... verildi.",
+      "accepted_forms": ["ipucu", "ipuçları"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "denge",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "balance, equilibrium",
+  "sentences": [
+    {
+      "id": "denge_s1",
+      "text": "İçinde birçok taş olan kutu [denge]sini kaybetti.",
+      "note": null
+    },
+    {
+      "id": "denge_s2",
+      "text": "Bisiklet rahat kalmak için [denge] gerekir.",
+      "note": null
+    },
+    {
+      "id": "denge_s3",
+      "text": "[Denge]li beslenme sağlıkta çok önemlidir.",
+      "note": null
+    },
+    {
+      "id": "denge_s4",
+      "text": "Yaşam [denge]sini korumalıyız.",
+      "note": null
+    },
+    {
+      "id": "denge_s5",
+      "text": "Ekonomide arz ve talep [denge]sinde tutulmalı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "denge_r1",
+      "prompt": "Bir taraf ağır olunca ... bozulur.",
+      "accepted_forms": ["denge", "dengesini"],
+      "note": null
+    },
+    {
+      "id": "denge_r2",
+      "prompt": "İş ve özel hayat ... ını sağlamak zordur.",
+      "accepted_forms": ["dengesini", "denge"],
+      "note": null
+    }
+  ]
+}

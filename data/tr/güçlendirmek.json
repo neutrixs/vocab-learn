@@ -1,0 +1,27 @@
+{
+  "word": "güçlendirmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to strengthen, to reinforce, to empower",
+  "sentences": [
+    { "id": "güçlendirmek_s1", "text": "Spor kasları [güçlendir]ir ve vücudu sağlamlaştırır.", "note": null },
+    { "id": "güçlendirmek_s2", "text": "Hükümet ekonomiyi [güçlendir]meye çalışıyor.", "note": null },
+    { "id": "güçlendirmek_s3", "text": "İnanç insanın [güçlendir]mesi için önemlidir.", "note": null },
+    { "id": "güçlendirmek_s4", "text": "Ülkenin dış ticareti [güçlendir]ildi.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "güçlendirmek_r1",
+      "prompt": "Bir şeyi daha güçlü hale getirmek ve kuvvet katmak demektir ...",
+      "accepted_forms": ["güçlendirmek", "güçlendiriyor", "güçlendirdi", "güçlendirmeye"],
+      "note": null
+    },
+    {
+      "id": "güçlendirmek_r2",
+      "prompt": "Antrenman vücudu ... eder ve sağlıklı kılar.",
+      "accepted_forms": ["güçlendiriyor", "güçlendirir", "güçlendirmekte"],
+      "note": null
+    }
+  ]
+}

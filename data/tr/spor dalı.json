@@ -1,0 +1,50 @@
+{
+  "word": "spor dalı",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "sport, type of sport",
+  "sentences": [
+    {
+      "id": "spor dalı_s1",
+      "text": "Futbol en popüler [spor dalı]dır.",
+      "note": null
+    },
+    {
+      "id": "spor dalı_s2",
+      "text": "Yüzme [spor dalı]sında antrenman çok zordur.",
+      "note": null
+    },
+    {
+      "id": "spor dalı_s3",
+      "text": "Tenis bir [spor dalı] olarak hızlı büyüyor.",
+      "note": null
+    },
+    {
+      "id": "spor dalı_s4",
+      "text": "Birçok [spor dalı] Olimpiyat Oyunları'nda yer alır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "spor dalı_r1",
+      "prompt": "Futbol, basketbol, tenis gibi fiziksel etkinlikler nedir?",
+      "accepted_forms": [
+        "spor dalı",
+        "spor dalları",
+        "spor dallarıdır"
+      ],
+      "note": null
+    },
+    {
+      "id": "spor dalı_r2",
+      "prompt": "Yüzme, koşu ve güreş birer ... ... dir.",
+      "accepted_forms": [
+        "spor dalı",
+        "spor dalıdır"
+      ],
+      "note": null
+    }
+  ]
+}

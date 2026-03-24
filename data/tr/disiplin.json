@@ -1,0 +1,48 @@
+{
+  "word": "disiplin",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "discipline, self-control",
+  "sentences": [
+    {
+      "id": "disiplin_s1",
+      "text": "[Disiplin] başarının anahtarıdır.",
+      "note": null
+    },
+    {
+      "id": "disiplin_s2",
+      "text": "Askeri [disiplin] çok katıdır.",
+      "note": null
+    },
+    {
+      "id": "disiplin_s3",
+      "text": "Okul [disiplin]i korumak için kurallar vardır.",
+      "note": null
+    },
+    {
+      "id": "disiplin_s4",
+      "text": "[Disiplin]li olmak çalışmayı kolaylaştırır.",
+      "note": null
+    },
+    {
+      "id": "disiplin_s5",
+      "text": "Spor hayatında [disiplin] zorunludur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "disiplin_r1",
+      "prompt": "Her gün aynı saatte ders çalışmak ... gösterir.",
+      "accepted_forms": ["disiplin", "disiplini"],
+      "note": null
+    },
+    {
+      "id": "disiplin_r2",
+      "prompt": "Asker ... ine uymalı.",
+      "accepted_forms": ["disiplini", "disipline"],
+      "note": null
+    }
+  ]
+}

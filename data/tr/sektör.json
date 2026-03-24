@@ -1,0 +1,56 @@
+{
+  "word": "sektör",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "sector",
+  "sentences": [
+    {
+      "id": "sektör_s1",
+      "text": "Tarım [sektör]ü Türkiye'nin ekonomisinde önemlidir.",
+      "note": null
+    },
+    {
+      "id": "sektör_s2",
+      "text": "Teknoloji [sektör]ünde çalışan insanların sayısı artıyor.",
+      "note": null
+    },
+    {
+      "id": "sektör_s3",
+      "text": "Sağlık [sektör]üne yatırım yapması gerekir.",
+      "note": null
+    },
+    {
+      "id": "sektör_s4",
+      "text": "Turizm [sektör]ü pandemi sırasında çok zarar gördü.",
+      "note": null
+    },
+    {
+      "id": "sektör_s5",
+      "text": "Bu [sektör]de iş bulmak kolay değildir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sektör_r1",
+      "prompt": "Tarım, teknoloji ve sanayi gibi ekonominin bölümleri nedir?",
+      "accepted_forms": [
+        "sektör",
+        "sektörler",
+        "sektörleri"
+      ],
+      "note": null
+    },
+    {
+      "id": "sektör_r2",
+      "prompt": "Belirli bir endüstri veya ekonomik alan ... denir.",
+      "accepted_forms": [
+        "sektör",
+        "sektörtür",
+        "sektöre"
+      ],
+      "note": null
+    }
+  ]
+}

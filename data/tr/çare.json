@@ -1,0 +1,43 @@
+{
+  "word": "çare",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "remedy, solution, cure",
+  "sentences": [
+    {
+      "id": "çare_s1",
+      "text": "Doktor hastalığı için iyi bir [çare] buldu.",
+      "note": null
+    },
+    {
+      "id": "çare_s2",
+      "text": "[Çare]siz bir durumda kalmışız.",
+      "note": null
+    },
+    {
+      "id": "çare_s3",
+      "text": "Bu sorunun başka bir [çare]si var mı?",
+      "note": null
+    },
+    {
+      "id": "çare_s4",
+      "text": "Onun için [çare] yok diye düşünüyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çare_r1",
+      "prompt": "Sorunun çözümü için ... bulmak gerekir.",
+      "accepted_forms": ["çare", "çaresini"],
+      "note": null
+    },
+    {
+      "id": "çare_r2",
+      "prompt": "Hastalığın tedavisi için hangi ... alması gerekiyor.",
+      "accepted_forms": ["çareleri", "çareleri"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "nitelik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "quality, characteristic, attribute",
+  "sentences": [
+    { "id": "nitelik_s1", "text": "Bu ürünün üstün [nitelik]leri fiyatını haklı kılar.", "note": null },
+    { "id": "nitelik_s2", "text": "Bir liderin temel [nitelik]leri dürüstlük ve sorumluluktur.", "note": null },
+    { "id": "nitelik_s3", "text": "Yüksek [nitelik]li eğitim toplumun gelişmesini sağlar.", "note": null },
+    { "id": "nitelik_s4", "text": "İnsanın kişisel [nitelik]leri iş başarısında önemli rol oynar.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "nitelik_r1",
+      "prompt": "Bir şeyin kalitesi, özellikleri veya ayırt edici özelliği nedir?",
+      "accepted_forms": ["nitelik", "nitelikleri", "nitelikleri"],
+      "note": null
+    },
+    {
+      "id": "nitelik_r2",
+      "prompt": "Bu fotoğrafın fotoğraf... yeterince yüksektir.",
+      "accepted_forms": ["nitelik", "niteliği"],
+      "note": null
+    }
+  ]
+}

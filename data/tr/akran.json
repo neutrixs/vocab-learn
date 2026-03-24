@@ -1,0 +1,41 @@
+{
+  "word": "akran",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "peer, same age",
+  "sentences": [
+    {
+      "id": "akran_s1",
+      "text": "Okulda [akran]larıyla çok iyi anlaşıyor.",
+      "note": null
+    },
+    {
+      "id": "akran_s2",
+      "text": "[Akran] baskısı ergenlik döneminde çok etkilidir.",
+      "note": null
+    },
+    {
+      "id": "akran_s3",
+      "text": "Çocuklar [akran]larından etkilenir.",
+      "note": null
+    },
+    {
+      "id": "akran_s4",
+      "text": "[Akran] grubu sosyal gelişimde önemli rol oynar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "akran_r1",
+      "prompt": "Yaşıtları ve aynı yaşta olan kişiler ... diye adlandırılır.",
+      "accepted_forms": ["akran", "akran denir"]
+    },
+    {
+      "id": "akran_r2",
+      "prompt": "Ergenler ... baskısından çok etkilenirler.",
+      "accepted_forms": ["akran", "akran baskısı", "akranlarının"]
+    }
+  ]
+}

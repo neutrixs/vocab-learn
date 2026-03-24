@@ -1,0 +1,51 @@
+{
+  "word": "uzay",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "space, universe",
+  "sentences": [
+    {
+      "id": "uzay_s1",
+      "text": "[Uzay] araştırmaları bizim gelecekle ilgili çok şey öğretiyor.",
+      "note": null
+    },
+    {
+      "id": "uzay_s2",
+      "text": "Ay [uzay]da dünyanın uydusu olarak döner.",
+      "note": null
+    },
+    {
+      "id": "uzay_s3",
+      "text": "[Uzay] teleskopları yıldızları görmemize yardım eder.",
+      "note": null
+    },
+    {
+      "id": "uzay_s4",
+      "text": "Astronotlar [uzay]da ve uzay istasyonunda yaşarlar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "uzay_r1",
+      "prompt": "Yıldız, ay ve gezegenlerin bulunduğu sınırsız alan nedir?",
+      "accepted_forms": [
+        "uzay",
+        "uzayı",
+        "uzayda"
+      ],
+      "note": null
+    },
+    {
+      "id": "uzay_r2",
+      "prompt": "Dünya ve diğer gezegenler ... ... içinde bulunurlar.",
+      "accepted_forms": [
+        "uzay",
+        "uzayda",
+        "uzayın"
+      ],
+      "note": null
+    }
+  ]
+}

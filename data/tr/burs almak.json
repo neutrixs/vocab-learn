@@ -1,0 +1,27 @@
+{
+  "word": "burs almak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to receive a scholarship, to get a grant",
+  "sentences": [
+    { "id": "burs almak_s1", "text": "Başarılı öğrenci [burs al]dı ve okula devam edebildi.", "note": null },
+    { "id": "burs almak_s2", "text": "Üstün yeteneğe sahip çocuklar [burs al]maktadır.", "note": null },
+    { "id": "burs almak_s3", "text": "Dış ülkede okumak için [burs al]masına ihtiyacı vardı.", "note": null },
+    { "id": "burs almak_s4", "text": "Üniversite [burs al]an öğrencileri destekliyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "burs almak_r1",
+      "prompt": "Öğrencilerin okuma masrafları için kurumdan para desteği almak demektir ...",
+      "accepted_forms": ["burs almak", "burs aldı", "burs alması", "burs alan"],
+      "note": null
+    },
+    {
+      "id": "burs almak_r2",
+      "prompt": "Fakir öğrenci okuyabilmek için hükümet ... aldı.",
+      "accepted_forms": ["burs", "bursu"],
+      "note": null
+    }
+  ]
+}

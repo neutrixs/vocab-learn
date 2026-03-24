@@ -1,0 +1,41 @@
+{
+  "word": "ayaküstü yemek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "fast food, street food",
+  "sentences": [
+    {
+      "id": "ayaküstü yemek_s1",
+      "text": "Ofistin yakınında [ayaküstü yemek] satan dükkânlar var.",
+      "note": null
+    },
+    {
+      "id": "ayaküstü yemek_s2",
+      "text": "[Ayaküstü yemek] çoğunlukla sağlıksız olur.",
+      "note": null
+    },
+    {
+      "id": "ayaküstü yemek_s3",
+      "text": "Meydanda [ayaküstü yemek] alıp yiyebilirsiniz.",
+      "note": null
+    },
+    {
+      "id": "ayaküstü yemek_s4",
+      "text": "[Ayaküstü yemek] hızlı ve ucuzdur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ayaküstü yemek_r1",
+      "prompt": "Sokakta veya hızlı yenilen yemeğe ... denir.",
+      "accepted_forms": ["ayaküstü yemek", "ayaküstü"]
+    },
+    {
+      "id": "ayaküstü yemek_r2",
+      "prompt": "Acele eden kişiler genellikle ... yer.",
+      "accepted_forms": ["ayaküstü yemek", "ayaküstü yemek yer"]
+    }
+  ]
+}

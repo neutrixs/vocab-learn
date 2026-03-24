@@ -1,0 +1,27 @@
+{
+  "word": "objektif",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "objective, unbiased, impartial",
+  "sentences": [
+    { "id": "objektif_s1", "text": "Gazeteci haberi [objektif] bir şekilde sunmalıdır.", "note": null },
+    { "id": "objektif_s2", "text": "Bir [objektif] bakış açısı sorunu daha iyi anlamaya yardımcı olur.", "note": null },
+    { "id": "objektif_s3", "text": "Yargı sistemi [objektif] hükümler vermek için tasarlanmıştır.", "note": null },
+    { "id": "objektif_s4", "text": "Araştırmacı [objektif] sonuçlar elde etmek için metodoloji uygulamalıdır.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "objektif_r1",
+      "prompt": "Kişisel önyargılardan ve duygulardan uzak, tarafsız anlamında ne denir?",
+      "accepted_forms": ["objektif"],
+      "note": null
+    },
+    {
+      "id": "objektif_r2",
+      "prompt": "Bu kararı verebilmek için daha ... bir değerlendirme gerekli.",
+      "accepted_forms": ["objektif"],
+      "note": null
+    }
+  ]
+}

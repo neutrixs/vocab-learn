@@ -1,0 +1,48 @@
+{
+  "word": "koordinasyon",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "coordination",
+  "sentences": [
+    {
+      "id": "koordinasyon_s1",
+      "text": "[Koordinasyon] olmadan proje başarısız olur.",
+      "note": null
+    },
+    {
+      "id": "koordinasyon_s2",
+      "text": "Sporculunun el-göz [koordinasyon]u müthiştir.",
+      "note": null
+    },
+    {
+      "id": "koordinasyon_s3",
+      "text": "[Koordinasyon] sağlamak yöneticinin görevidir.",
+      "note": null
+    },
+    {
+      "id": "koordinasyon_s4",
+      "text": "Ekip üyeleri arasında [koordinasyon] iyi olmalı.",
+      "note": null
+    },
+    {
+      "id": "koordinasyon_s5",
+      "text": "[Koordinasyon] başarısı sorunsuz iş akışını sağlar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "koordinasyon_r1",
+      "prompt": "Farklı parçaların veya görevlerin bir amaca doğru düzenli çalışması ... olarak adlandırılır.",
+      "accepted_forms": ["koordinasyon", "koordinasyonu", "koordinasyona", "koordinasyonunu"],
+      "note": null
+    },
+    {
+      "id": "koordinasyon_r2",
+      "prompt": "Beyin ve kas sisteminin birlikte hareket etme yeteneğine ne ad verilir?",
+      "accepted_forms": ["koordinasyon", "koordinasyonu"],
+      "note": null
+    }
+  ]
+}
