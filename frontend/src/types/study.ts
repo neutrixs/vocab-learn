@@ -5,6 +5,7 @@ export interface StudyItem {
   mode: StudyMode;
   cardKey: string; // "{word}::{mode}"
   isNew: boolean;
+  readonly?: boolean; // if true, grading won't record a review (preview mode)
 }
 
 export type ReviewGrade = 'pass' | 'fail';
