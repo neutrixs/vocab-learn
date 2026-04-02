@@ -2,7 +2,7 @@
   "word": "siz siz olun",
   "lang": "tr",
   "difficulty": 2,
-  "part_of_speech": "expression",
+  "part_of_speech": "phrase",
   "english_gloss": "be respectful, maintain formality, keep your distance, stand on ceremony",
   "sentences": [
     {
@@ -30,13 +30,20 @@
     {
       "id": "siz_siz_olun_r1",
       "prompt": "Biriyle resmi ve saygılı bir şekilde davranmak, 'siz' şeklinde konuşmak anlamında kullanılan ifade nedir?",
-      "accepted_forms": ["siz siz olmak", "siz siz olun", "siz siz olunmak"],
+      "accepted_forms": [
+        "siz siz olmak",
+        "siz siz olun",
+        "siz siz olunmak"
+      ],
       "note": null
     },
     {
       "id": "siz_siz_olun_r2",
       "prompt": "Birisine karşı edepli ve mesafeli olmayı, resmi dil kullanmayı ifade eden söz nedir?",
-      "accepted_forms": ["siz siz olmak", "siz siz olun"],
+      "accepted_forms": [
+        "siz siz olmak",
+        "siz siz olun"
+      ],
       "note": null
     }
   ]

@@ -2,7 +2,7 @@
   "word": "patlak",
   "lang": "tr",
   "difficulty": 1,
-  "part_of_speech": "adjective, noun",
+  "part_of_speech": "adjective",
   "english_gloss": "burst, punctured, crack (adj/n)",
   "sentences": [
     {
@@ -25,13 +25,21 @@
     {
       "id": "patlak_r1",
       "prompt": "Lastik veya balonunun hava çıkması sonucunda ne olur?",
-      "accepted_forms": ["patlak", "patlamak", "patladı"],
+      "accepted_forms": [
+        "patlak",
+        "patlamak",
+        "patladı"
+      ],
       "note": null
     },
     {
       "id": "patlak_r2",
       "prompt": "Cam veya seramik yüzeyde oluşan kırılma veya çatlak için kullanılan kelime nedir?",
-      "accepted_forms": ["patlak", "patlağı", "patlaklara"],
+      "accepted_forms": [
+        "patlak",
+        "patlağı",
+        "patlaklara"
+      ],
       "note": null
     }
   ]

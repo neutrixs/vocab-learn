@@ -6951,7 +6951,7 @@
       "word": "patlak",
       "file": "patlak.json",
       "difficulty": 1,
-      "part_of_speech": "adjective, noun",
+      "part_of_speech": "adjective",
       "tags": []
     },
     {
@@ -7994,7 +7994,7 @@
       "word": "siz siz olun",
       "file": "siz siz olun.json",
       "difficulty": 2,
-      "part_of_speech": "expression",
+      "part_of_speech": "phrase",
       "tags": []
     },
     {
@@ -8227,7 +8227,7 @@
       "word": "suçlu",
       "file": "suçlu.json",
       "difficulty": 1,
-      "part_of_speech": "noun, adjective",
+      "part_of_speech": "adjective",
       "tags": []
     },
     {
@@ -9501,7 +9501,7 @@
       "word": "yaşıt",
       "file": "yaşıt.json",
       "difficulty": 1,
-      "part_of_speech": "noun, adjective",
+      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -10674,7 +10674,7 @@
       "word": "şüpheli",
       "file": "şüpheli.json",
       "difficulty": 1,
-      "part_of_speech": "adjective, noun",
+      "part_of_speech": "adjective",
       "tags": []
     }
   ]
