@@ -1,0 +1,43 @@
+{
+  "word": "karnaval",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "carnival",
+  "sentences": [
+    {
+      "id": "karnaval_s1",
+      "text": "Rio de Janeiro'daki [karnaval], dünyanın en ünlü şenliğidir.",
+      "note": null
+    },
+    {
+      "id": "karnaval_s2",
+      "text": "Çocuklar [karnaval] zamanında kostüm giyerek eğlenirler.",
+      "note": null
+    },
+    {
+      "id": "karnaval_s3",
+      "text": "Bu yıl şehrimizde büyük bir [karnaval] düzenlenmesi planlanıyor.",
+      "note": null
+    },
+    {
+      "id": "karnaval_s4",
+      "text": "[Karnaval]da dansçılar renkli kıyafetler ve süslemeler kullanırlar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "karnaval_r1",
+      "prompt": "Kostümlü, müzikli ve dansçı olan, eğlencelerin olduğu şenlik nedir?",
+      "accepted_forms": ["karnaval", "karnavalin", "karnavalı"],
+      "note": null
+    },
+    {
+      "id": "karnaval_r2",
+      "prompt": "Rio de Janeiro'da yapılan, dünyadaki en ünlü etkinliğin adı nedir?",
+      "accepted_forms": ["karnaval", "karnavalda", "karnavaları"],
+      "note": null
+    }
+  ]
+}

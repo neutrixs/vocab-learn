@@ -1,0 +1,38 @@
+{
+  "word": "beden dili",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "body language",
+  "sentences": [
+    {
+      "id": "beden_dili_s1",
+      "text": "[Beden dili]nin sözel iletişim kadar önemli olduğu unutulmamalıdır.",
+      "note": null
+    },
+    {
+      "id": "beden_dili_s2",
+      "text": "Kollarını çapraz koyması onun kapalı [beden dili]ni gösteriyor.",
+      "note": null
+    },
+    {
+      "id": "beden_dili_s3",
+      "text": "Görüşmede başarılı olmak için [beden dili]ne dikkat etmeliyiz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "beden_dili_r1",
+      "prompt": "El, yüz ve vücut hareketleriyle yapılan iletişim türü nedir?",
+      "accepted_forms": ["beden dili", "beden dilinin", "beden diline"],
+      "note": null
+    },
+    {
+      "id": "beden_dili_r2",
+      "prompt": "Sözsüz olarak vücudumuzla gösterdiğimiz davranış şekline ne denir?",
+      "accepted_forms": ["beden dili", "beden dilinin", "beden diline"],
+      "note": null
+    }
+  ]
+}

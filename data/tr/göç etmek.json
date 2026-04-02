@@ -1,0 +1,38 @@
+{
+  "word": "göç etmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to migrate, to move (residence)",
+  "sentences": [
+    {
+      "id": "goc_etmek_s1",
+      "text": "Ailemiz geçen yıl İstanbul'dan Ankara'ya [göç et]ti.",
+      "note": null
+    },
+    {
+      "id": "goc_etmek_s2",
+      "text": "Kuşlar kış mevsiminde daha sıcak bölgelere [göç et]erler.",
+      "note": null
+    },
+    {
+      "id": "goc_etmek_s3",
+      "text": "Birçok insanın iş nedeniyle başka şehre [göç et]mesi gerekiyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "goc_etmek_r1",
+      "prompt": "Biri bir şehirden başka bir şehre taşındığında ne yapıyor?",
+      "accepted_forms": ["göç etmek", "göç etti", "göç ederim", "göç ettik"],
+      "note": null
+    },
+    {
+      "id": "goc_etmek_r2",
+      "prompt": "Kuşlar mevsimler değiştiğinde sıcak ülkelere ne yaparlar?",
+      "accepted_forms": ["göç etmek", "göç etti", "göç ederler", "göç ederim"],
+      "note": null
+    }
+  ]
+}

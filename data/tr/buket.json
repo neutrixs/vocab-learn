@@ -1,0 +1,38 @@
+{
+  "word": "buket",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "bouquet, bunch of flowers",
+  "sentences": [
+    {
+      "id": "buket_s1",
+      "text": "Doğum gününde ona güzel bir [buket] aldım.",
+      "note": null
+    },
+    {
+      "id": "buket_s2",
+      "text": "[Buket]teki çiçekler çok güzel kokuyor.",
+      "note": null
+    },
+    {
+      "id": "buket_s3",
+      "text": "Evlenmeden önce gelin [buket] hazırladı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "buket_r1",
+      "prompt": "Çiçeklerden oluşan, özel günlerde verilen demet nedir?",
+      "accepted_forms": ["buket", "buketi", "bukete", "buketler"],
+      "note": null
+    },
+    {
+      "id": "buket_r2",
+      "prompt": "Sevdiklerine hediye olarak verilen çiçek demeti ne denir?",
+      "accepted_forms": ["buket", "buketi", "bukete", "buketler"],
+      "note": null
+    }
+  ]
+}

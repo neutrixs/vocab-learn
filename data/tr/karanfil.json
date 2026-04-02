@@ -1,0 +1,43 @@
+{
+  "word": "karanfil",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "carnation (flower)",
+  "sentences": [
+    {
+      "id": "karanfil_s1",
+      "text": "Anneler Günü'nde çoğu kişi kırmızı [karanfil] hediye eder.",
+      "note": null
+    },
+    {
+      "id": "karanfil_s2",
+      "text": "Bahçımda pembe ve beyaz [karanfil]ler açmış.",
+      "note": null
+    },
+    {
+      "id": "karanfil_s3",
+      "text": "Taze [karanfil]in kokusunu çok severim.",
+      "note": null
+    },
+    {
+      "id": "karanfil_s4",
+      "text": "[Karanfil]ler dayanıklı çiçekler ve uzun süre taze kalırlar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "karanfil_r1",
+      "prompt": "Anneler Günü'nde sıkça hediye edilen, kırmızı renkli çiçek nedir?",
+      "accepted_forms": ["karanfil", "karanfili", "karanfilim"],
+      "note": null
+    },
+    {
+      "id": "karanfil_r2",
+      "prompt": "Bahçın süslemesi için kullanılan, uzun süre taze kalan çiçek adı nedir?",
+      "accepted_forms": ["karanfil", "karanfiller", "karanfillerim"],
+      "note": null
+    }
+  ]
+}

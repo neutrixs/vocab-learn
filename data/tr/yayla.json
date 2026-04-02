@@ -1,0 +1,38 @@
+{
+  "word": "yayla",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "highland plateau, summer pasture",
+  "sentences": [
+    {
+      "id": "yayla_s1",
+      "text": "Yazın çobanlar hayvanları [yayla]ya götürürler.",
+      "note": null
+    },
+    {
+      "id": "yayla_s2",
+      "text": "Anadolu'nun [yayla]ları çok verimlidir.",
+      "note": null
+    },
+    {
+      "id": "yayla_s3",
+      "text": "Bu [yayla]nın deniz seviyesinden yüksekliği iki bin metredir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yayla_r1",
+      "prompt": "Yazın çobanların hayvanlarını otlattığı yüksek yer ne denir?",
+      "accepted_forms": ["yayla", "yaylaya", "yaylaları"],
+      "note": null
+    },
+    {
+      "id": "yayla_r2",
+      "prompt": "Anadolu'da yer alan yüksek otlak alanı nedir?",
+      "accepted_forms": ["yayla", "yaylaya", "yaylaları"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "her bütçeye uygun",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "affordable for every budget, suitable for all budgets, reasonably priced",
+  "sentences": [
+    {
+      "id": "her_butceye_uygun_s1",
+      "text": "Bu restoran [her bütçeye uygun] fiyatlara sahip.",
+      "note": null
+    },
+    {
+      "id": "her_butceye_uygun_s2",
+      "text": "Turizm danışmanı misafirleri [her bütçeye uygun] otel seçenekleri gösterdi.",
+      "note": null
+    },
+    {
+      "id": "her_butceye_uygun_s3",
+      "text": "Mağaza [her bütçeye uygun] giyim ürünleri satıyor.",
+      "note": null
+    },
+    {
+      "id": "her_butceye_uygun_s4",
+      "text": "[Her bütçeye uygun] paketi seçerek yolculuğu gerçekleştirebilirsiniz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "her_butceye_uygun_r1",
+      "prompt": "Tüm insanların paraları için uygun olan fiyatlara ne denir?",
+      "accepted_forms": ["her bütçeye uygun", "her bütçeye uygun fiyat"],
+      "note": null
+    },
+    {
+      "id": "her_butceye_uygun_r2",
+      "prompt": "Bu ürünler ___ fiyatlarda bulunuyor.",
+      "accepted_forms": ["her bütçeye uygun", "her bütçeye uygun fiyat", "her bütçeye uygun seçenek"],
+      "note": null
+    }
+  ]
+}

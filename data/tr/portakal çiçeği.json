@@ -1,0 +1,38 @@
+{
+  "word": "portakal çiçeği",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "orange blossom",
+  "sentences": [
+    {
+      "id": "portakal_cicegi_s1",
+      "text": "Baharın gelişini [portakal çiçeği]nin açması simgeledirir.",
+      "note": null
+    },
+    {
+      "id": "portakal_cicegi_s2",
+      "text": "Düğünlerde [portakal çiçeği]nin kokusu çok sevilir.",
+      "note": null
+    },
+    {
+      "id": "portakal_cicegi_s3",
+      "text": "Tatlılara tat vermek için [portakal çiçeği] suyu kullanılabilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "portakal_cicegi_r1",
+      "prompt": "Portakal ağaçlarının bahar mevsiminde açtığı beyaz çiçeğe ne denir?",
+      "accepted_forms": ["portakal çiçeği", "portakal çiçeğinin"],
+      "note": null
+    },
+    {
+      "id": "portakal_cicegi_r2",
+      "prompt": "Düğünlerde ve şeker tatlılarında kullanılan, portakal ağacının çiçeğinin adı nedir?",
+      "accepted_forms": ["portakal çiçeği", "portakal çiçeğinin"],
+      "note": null
+    }
+  ]
+}

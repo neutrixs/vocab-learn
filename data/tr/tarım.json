@@ -1,0 +1,38 @@
+{
+  "word": "tarım",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "agriculture, farming",
+  "sentences": [
+    {
+      "id": "tarim_s1",
+      "text": "Ülkenin ekonomisinde [tarım] önemli rol oynar.",
+      "note": null
+    },
+    {
+      "id": "tarim_s2",
+      "text": "Babası yıllardır [tarım] yapıyor.",
+      "note": null
+    },
+    {
+      "id": "tarim_s3",
+      "text": "Anadolu bölgesinde [tarım] geçim kaynağıdır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tarim_r1",
+      "prompt": "Toprakta bitki yetiştirmek ve hayvan beslemek amacıyla yapılan uğraşıya ne denir?",
+      "accepted_forms": ["tarım", "tarımı", "tarımda", "tarımsal"],
+      "note": null
+    },
+    {
+      "id": "tarim_r2",
+      "prompt": "Ürün ve gıda üretimi için yapılan toprak işlemesi hangi alana aittir?",
+      "accepted_forms": ["tarım", "tarımı", "tarımda", "tarımsal"],
+      "note": null
+    }
+  ]
+}

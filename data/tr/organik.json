@@ -1,0 +1,38 @@
+{
+  "word": "organik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "organic",
+  "sentences": [
+    {
+      "id": "organik_s1",
+      "text": "[Organik] ürünler kimyasal pestisit içermez.",
+      "note": null
+    },
+    {
+      "id": "organik_s2",
+      "text": "Pazar yerinde [organik] sebze ve meyve satıyorlar.",
+      "note": null
+    },
+    {
+      "id": "organik_s3",
+      "text": "Bu şirket [organik] tarım yöntemlerini tercih ediyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "organik_r1",
+      "prompt": "Kimyasal pestisit kullanılmayan tarım ürünlerine hangi sıfat uygulanır?",
+      "accepted_forms": ["organik", "organik ürün", "organik gıda", "organik tarım"],
+      "note": null
+    },
+    {
+      "id": "organik_r2",
+      "prompt": "Doğal ve sağlıklı yetiştirilmiş gıdaları tanımlamak için kullanılan sözcük nedir?",
+      "accepted_forms": ["organik", "organik ürün", "organik gıda", "organik tarım"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "sokakları kaplamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to flood the streets, to take to the streets in large numbers, to surge through the streets",
+  "sentences": [
+    {
+      "id": "sokakları_kaplamak_s1",
+      "text": "Milli maçta, taraftarlar sokakları [kapla]dılar.",
+      "note": null
+    },
+    {
+      "id": "sokakları_kaplamak_s2",
+      "text": "Kutlama sırasında insanlar [sokakları kaplamış], coşku içinde yürüyorlardı.",
+      "note": null
+    },
+    {
+      "id": "sokakları_kaplamak_s3",
+      "text": "Seçim sonuçlarından sonra gençler sokakları [kapla]maya başladı.",
+      "note": null
+    },
+    {
+      "id": "sokakları_kaplamak_s4",
+      "text": "[Sokakları kaplamak] örneğin bir köy festivali sırasında çok yaygındır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sokakları_kaplamak_r1",
+      "prompt": "Çok sayıda insanın sokakta toplanması, büyük kalabalıklar halinde yürümesi anlamında kullanılan ifade nedir?",
+      "accepted_forms": ["sokakları kaplamak", "sokakları kapla", "sokakları kaplı"],
+      "note": null
+    },
+    {
+      "id": "sokakları_kaplamak_r2",
+      "prompt": "Kutlama veya gösteride insanların sokakları doldurması ve yürümesini ifade eden fiil nedir?",
+      "accepted_forms": ["sokakları kaplamak", "sokakları kapla", "sokakları kapladı"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "şekerleme",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "confectionery, candy, sweet",
+  "sentences": [
+    {
+      "id": "sekerleme_s1",
+      "text": "Dükkânın penceresi [şekerleme]lerle dolduydu.",
+      "note": null
+    },
+    {
+      "id": "sekerleme_s2",
+      "text": "Çocuklar [şekerleme] satın almak istiyorlardı.",
+      "note": null
+    },
+    {
+      "id": "sekerleme_s3",
+      "text": "Bayramda misafirlere [şekerleme] ikram edilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sekerleme_r1",
+      "prompt": "Şeker ve undan yapılmış tatlı veya şekerli yiyeceklere ne denir?",
+      "accepted_forms": ["şekerleme", "şekerleme"],
+      "note": null
+    },
+    {
+      "id": "sekerleme_r2",
+      "prompt": "Çocukların sevdiği, tatı yüksek olan tatlı malzemeleri hangi isimle adlandırırız?",
+      "accepted_forms": ["şekerleme", "şekerleme"],
+      "note": null
+    }
+  ]
+}

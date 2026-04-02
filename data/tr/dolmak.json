@@ -1,0 +1,38 @@
+{
+  "word": "dolmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to fill, to become full",
+  "sentences": [
+    {
+      "id": "dolmak_s1",
+      "text": "Havuz suyuyla [dolmak]ta iki saat geçti.",
+      "note": null
+    },
+    {
+      "id": "dolmak_s2",
+      "text": "Pazar günü alışveriş merkezleri insanlarla [dolu]dur.",
+      "note": null
+    },
+    {
+      "id": "dolmak_s3",
+      "text": "Kalbı mutlulukla [doldu] ve gülümsedi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dolmak_r1",
+      "prompt": "Boş olan bir şeyin içinin doldurulması ne anlamına gelir?",
+      "accepted_forms": ["dolmak", "dolu", "doldu", "dolsun"],
+      "note": null
+    },
+    {
+      "id": "dolmak_r2",
+      "prompt": "Su bardağa akıyor ve bardak yavaş yavaş... ne oluyor?",
+      "accepted_forms": ["dolmak", "dolu", "doldu", "dolsun"],
+      "note": null
+    }
+  ]
+}

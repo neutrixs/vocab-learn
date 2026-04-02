@@ -1,0 +1,43 @@
+{
+  "word": "onur",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "honor, dignity",
+  "sentences": [
+    {
+      "id": "onur_s1",
+      "text": "Asker [onur]unu ve vatanını korumak için savaşır.",
+      "note": null
+    },
+    {
+      "id": "onur_s2",
+      "text": "Aile [onur]u her Türk için çok önemlidir.",
+      "note": null
+    },
+    {
+      "id": "onur_s3",
+      "text": "Başkan onu [onur]lu bir ödülle taltif etti.",
+      "note": null
+    },
+    {
+      "id": "onur_s4",
+      "text": "[Onur]lu yaşamak insanın asıl zenginliğidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "onur_r1",
+      "prompt": "İnsan değeri, kişiliği ve itibarı anlamına gelen soyut kavram nedir?",
+      "accepted_forms": ["onur", "onuru", "onurun"],
+      "note": null
+    },
+    {
+      "id": "onur_r2",
+      "prompt": "Vatan ve aile için çok önem taşıyan, Türk kültüründe değerli bir erdem nedir?",
+      "accepted_forms": ["onur", "onurluk", "onurlu"],
+      "note": null
+    }
+  ]
+}

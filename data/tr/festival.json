@@ -1,0 +1,38 @@
+{
+  "word": "festival",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "festival, celebration",
+  "sentences": [
+    {
+      "id": "festival_s1",
+      "text": "Bu yıl şehirde müzik [festival]i düzenleniyor.",
+      "note": null
+    },
+    {
+      "id": "festival_s2",
+      "text": "[Festival]de çeşitli ülkelerden sanatçılar yer alıyor.",
+      "note": null
+    },
+    {
+      "id": "festival_s3",
+      "text": "Film [festival]ine binlerce izleyici katıldı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "festival_r1",
+      "prompt": "Sanat, müzik veya kültür etkinliklerinin topluca düzenlendiği gösteri ne denir?",
+      "accepted_forms": ["festival", "festivali", "festivale", "festivaller"],
+      "note": null
+    },
+    {
+      "id": "festival_r2",
+      "prompt": "Birçok performansçının katıldığı büyük kutlama etkinliği nedir?",
+      "accepted_forms": ["festival", "festivali", "festivale", "festivaller"],
+      "note": null
+    }
+  ]
+}

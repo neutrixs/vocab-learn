@@ -1,0 +1,43 @@
+{
+  "word": "hayatında yer almak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to be important in someone's life, to occupy a place in someone's life, to matter to someone",
+  "sentences": [
+    {
+      "id": "hayatinda_yer_almak_s1",
+      "text": "Öğretmeni bütün öğrenciler için önemli bir rol oynuyor, her birinin [hayatında yer al]dı.",
+      "note": null
+    },
+    {
+      "id": "hayatinda_yer_almak_s2",
+      "text": "Bu arkadaş grubunun dostları onun [hayatında yer al]ır.",
+      "note": null
+    },
+    {
+      "id": "hayatinda_yer_almak_s3",
+      "text": "Futbol oyuncu için en başından beri [hayatında yer al]mış.",
+      "note": null
+    },
+    {
+      "id": "hayatinda_yer_almak_s4",
+      "text": "Sanat faaliyeti Ahmet'in [hayatında yer al]ması nedeniyle hep mutlu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hayatinda_yer_almak_r1",
+      "prompt": "Bir insanın hayatında önem taşımak ne denir?",
+      "accepted_forms": ["hayatında yer almak", "hayatında yer aldı", "hayatında yer alır", "hayatında yer alması"],
+      "note": null
+    },
+    {
+      "id": "hayatinda_yer_almak_r2",
+      "prompt": "Müzik ilk günden beri onun ___ .",
+      "accepted_forms": ["hayatında yer aldı", "hayatında yer almış", "hayatında yer alır"],
+      "note": null
+    }
+  ]
+}

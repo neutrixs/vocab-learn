@@ -1,0 +1,38 @@
+{
+  "word": "ot",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "grass, herb",
+  "sentences": [
+    {
+      "id": "ot_s1",
+      "text": "Bahçedeki [ot]lar uzamış, biçilmesi gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "ot_s2",
+      "text": "Koyunlar çayırda [ot] yiyorlar.",
+      "note": null
+    },
+    {
+      "id": "ot_s3",
+      "text": "Şifa niyetine çeşitli [ot]lar kullanılıyor.",
+      "note": "Can mean medicinal herbs"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ot_r1",
+      "prompt": "Bahçede ve çayırda yetişen yeşil bitkilere ne denir?",
+      "accepted_forms": ["ot", "otlar"],
+      "note": null
+    },
+    {
+      "id": "ot_r2",
+      "prompt": "Hayvanlara yem olarak verilen yeşil bitki nedir?",
+      "accepted_forms": ["ot", "otlar"],
+      "note": null
+    }
+  ]
+}

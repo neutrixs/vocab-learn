@@ -1,0 +1,38 @@
+{
+  "word": "göçebe",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "nomad, nomadic person",
+  "sentences": [
+    {
+      "id": "gocebe_s1",
+      "text": "[Göçebe]ler tarih boyunca farklı bölgelerde yaşamışlardır.",
+      "note": null
+    },
+    {
+      "id": "gocebe_s2",
+      "text": "Çöl bölgesinde yaşayan [göçebe] aileler geleneksel kültürü koruyor.",
+      "note": null
+    },
+    {
+      "id": "gocebe_s3",
+      "text": "[Göçebe]nin göçü mevsimsel yağış düzenine göre belirlenir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gocebe_r1",
+      "prompt": "Sabit bir yerde oturmayıp bir yerden başka yere göç eden insan nedir?",
+      "accepted_forms": ["göçebe", "göçebenin", "göçebeye", "göçebeler"],
+      "note": null
+    },
+    {
+      "id": "gocebe_r2",
+      "prompt": "Çölde ve kır bölgelerinde dolaşarak yaşayan kişiye ne denir?",
+      "accepted_forms": ["göçebe", "göçebenin", "göçebeye", "göçebeler"],
+      "note": null
+    }
+  ]
+}

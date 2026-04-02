@@ -1,0 +1,38 @@
+{
+  "word": "reklamcılık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "advertising, advertisement industry",
+  "sentences": [
+    {
+      "id": "reklamcilk_s1",
+      "text": "[Reklamcılık] şirketi yeni bir kampanya başlattı.",
+      "note": null
+    },
+    {
+      "id": "reklamcilk_s2",
+      "text": "O üniversitede [reklamcılık] bölümü vardır.",
+      "note": null
+    },
+    {
+      "id": "reklamcilk_s3",
+      "text": "Dijital [reklamcılık] son yıllarda çok gelişti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "reklamcilk_r1",
+      "prompt": "Ürünleri tanıtmak ve satış artırmak amacıyla yapılan iş dalına ne denir?",
+      "accepted_forms": ["reklamcılık", "reklamcılığı", "reklamcılıkta", "reklamcılıktan"],
+      "note": null
+    },
+    {
+      "id": "reklamcilk_r2",
+      "prompt": "Reklam ve tanıtım hizmetleri sunmak üzere kurulmuş şirketlerin işine hangi ad verilir?",
+      "accepted_forms": ["reklamcılık", "reklamcılığı", "reklamcılıkta", "reklamcılıktan"],
+      "note": null
+    }
+  ]
+}

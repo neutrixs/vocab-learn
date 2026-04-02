@@ -1,0 +1,38 @@
+{
+  "word": "dindarlık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "religiosity, devoutness, piety",
+  "sentences": [
+    {
+      "id": "dindarlik_s1",
+      "text": "[Dindarlık] insanın kişisel inancı ve davranışlarında yansıtılır.",
+      "note": null
+    },
+    {
+      "id": "dindarlik_s2",
+      "text": "Toplumda [dindarlık] derecesi çeşitli kültürlerde farklı görülmektedir.",
+      "note": null
+    },
+    {
+      "id": "dindarlik_s3",
+      "text": "Onun [dindarlık]ı hayatının her alanında bellidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dindarlik_r1",
+      "prompt": "Dine bağlılığını ve saygısını göstermek nedir?",
+      "accepted_forms": ["dindarlık", "dindarlığı", "dindarlığın", "dindarlıkları"],
+      "note": null
+    },
+    {
+      "id": "dindarlik_r2",
+      "prompt": "İnsan davranışında dine olan sadakat ve saygı ne denir?",
+      "accepted_forms": ["dindarlık", "dindarlığı", "dindarlığın", "dindarlıkları"],
+      "note": null
+    }
+  ]
+}

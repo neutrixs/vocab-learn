@@ -1,0 +1,38 @@
+{
+  "word": "yün",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "wool",
+  "sentences": [
+    {
+      "id": "yun_s1",
+      "text": "Bu kazak saf [yün]den yapılmıştır.",
+      "note": null
+    },
+    {
+      "id": "yun_s2",
+      "text": "[Yün] koyunların vücudunu örten uzun lifli bir proteindir.",
+      "note": null
+    },
+    {
+      "id": "yun_s3",
+      "text": "Kış aylarında [yün] giysileri çok rahat ve sıcak olur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yun_r1",
+      "prompt": "Koyunlardan alınan ve tekstil endüstrisinde kullanılan lifli madde nedir?",
+      "accepted_forms": ["yün", "yünü", "yünün"],
+      "note": null
+    },
+    {
+      "id": "yun_r2",
+      "prompt": "Sıcak giysiler yapmak için kullanılan hayvansal elyaf adı nedir?",
+      "accepted_forms": ["yün", "yünü", "yünün"],
+      "note": null
+    }
+  ]
+}

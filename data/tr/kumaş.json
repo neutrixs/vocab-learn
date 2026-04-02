@@ -1,0 +1,43 @@
+{
+  "word": "kumaş",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "fabric, cloth",
+  "sentences": [
+    {
+      "id": "kumaş_s1",
+      "text": "Terzi yeni elbise için pahalı [kumaş] seçti.",
+      "note": null
+    },
+    {
+      "id": "kumaş_s2",
+      "text": "Bu [kumaş] çok yumuşak ve rahat hissediyor.",
+      "note": null
+    },
+    {
+      "id": "kumaş_s3",
+      "text": "Pazarında birçok renk ve desende [kumaş] satılır.",
+      "note": null
+    },
+    {
+      "id": "kumaş_s4",
+      "text": "[Kumaş]ın kalitesi elbiseyi güzel ve dayanıklı yapar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kumaş_r1",
+      "prompt": "Elbise, gömlek ve etek yapımında kullanılan, dokuma çeşidi nedir?",
+      "accepted_forms": ["kumaş", "kumaşı", "kumaşın"],
+      "note": null
+    },
+    {
+      "id": "kumaş_r2",
+      "prompt": "Pazarında çeşitli renkler ve desenlerde satılan, giysi malzemesi nedir?",
+      "accepted_forms": ["kumaş", "kumaşlar", "kumaşının"],
+      "note": null
+    }
+  ]
+}

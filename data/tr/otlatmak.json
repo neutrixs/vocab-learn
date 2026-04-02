@@ -1,0 +1,43 @@
+{
+  "word": "otlatmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to graze, to feed (livestock) in pasture",
+  "sentences": [
+    {
+      "id": "otlatmak_s1",
+      "text": "Çiftçi koyunlarını dağdaki otlakta [otlatıyor].",
+      "note": null
+    },
+    {
+      "id": "otlatmak_s2",
+      "text": "Büyükbabası her sabah atları [otlatmak] için alan açık sahaya götürüyordu.",
+      "note": null
+    },
+    {
+      "id": "otlatmak_s3",
+      "text": "İnek sürüsü ziraat mühendisinin gözetiminde diyarbaklı dağlarda [otlatılıyor].",
+      "note": null
+    },
+    {
+      "id": "otlatmak_s4",
+      "text": "[Otlatılan] hayvanlar sağlıklı ve güçlü olmaya çalışırlar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "otlatmak_r1",
+      "prompt": "Hayvanlara çayırda ot yedirmek işlemi ne denir?",
+      "accepted_forms": ["otlatmak", "otlattı", "otlatır", "otlatılıyor"],
+      "note": null
+    },
+    {
+      "id": "otlatmak_r2",
+      "prompt": "Çiftçi koyunlarını her gün açık alana ___. (fiil, şimdiki zaman)",
+      "accepted_forms": ["otlatır", "otlatıyor"],
+      "note": null
+    }
+  ]
+}

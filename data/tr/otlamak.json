@@ -1,0 +1,38 @@
+{
+  "word": "otlamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to graze, to eat grass",
+  "sentences": [
+    {
+      "id": "otlamak_s1",
+      "text": "Koyunlar ve keçiler çayırda [otla]rlar.",
+      "note": null
+    },
+    {
+      "id": "otlamak_s2",
+      "text": "Sabanın atları öğle saatinde yaylada [otlu]yorlardı.",
+      "note": null
+    },
+    {
+      "id": "otlamak_s3",
+      "text": "Hayvanlar gün boyunca [otla]makla meşgul olurlar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "otlamak_r1",
+      "prompt": "Koyun, keçi ve at gibi hayvanlar meraya gittiklerinde ne yaparlar?",
+      "accepted_forms": ["otlamak", "otlar", "otlıyor", "otladı"],
+      "note": null
+    },
+    {
+      "id": "otlamak_r2",
+      "prompt": "Çiftliğin hayvanları otun içinde gün boyunca ne yapar?",
+      "accepted_forms": ["otlamak", "otlar", "otlıyor", "otladı"],
+      "note": null
+    }
+  ]
+}

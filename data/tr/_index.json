@@ -47,15 +47,6 @@
       ]
     },
     {
-      "word": "açık",
-      "file": "açık.json",
-      "difficulty": 1,
-      "part_of_speech": "adjective",
-      "tags": [
-        "descriptive"
-      ]
-    },
-    {
       "word": "acil",
       "file": "acil.json",
       "difficulty": 1,
@@ -72,29 +63,11 @@
       ]
     },
     {
-      "word": "açılmak",
-      "file": "açılmak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": [
-        "action"
-      ]
-    },
-    {
       "word": "acımak",
       "file": "acımak.json",
       "difficulty": 1,
       "part_of_speech": "verb",
       "tags": []
-    },
-    {
-      "word": "açmak",
-      "file": "açmak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": [
-        "action"
-      ]
     },
     {
       "word": "ad",
@@ -198,54 +171,6 @@
       ]
     },
     {
-      "word": "ağız",
-      "file": "ağız.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": [
-        "objects",
-        "people"
-      ]
-    },
-    {
-      "word": "ağlamak",
-      "file": "ağlamak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": [
-        "action"
-      ]
-    },
-    {
-      "word": "ağrı",
-      "file": "ağrı.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": [
-        "objects",
-        "people"
-      ]
-    },
-    {
-      "word": "ağrımak",
-      "file": "ağrımak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": [
-        "action"
-      ]
-    },
-    {
-      "word": "Ağustos",
-      "file": "Ağustos.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": [
-        "objects",
-        "people"
-      ]
-    },
-    {
       "word": "ahır",
       "file": "ahır.json",
       "difficulty": 2,
@@ -273,20 +198,6 @@
       "tags": []
     },
     {
-      "word": "akıcı",
-      "file": "akıcı.json",
-      "difficulty": 1,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "akıtmak",
-      "file": "akıtmak.json",
-      "difficulty": 3,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
       "word": "akmak",
       "file": "akmak.json",
       "difficulty": 1,
@@ -301,16 +212,6 @@
       "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
-    },
-    {
-      "word": "akşam",
-      "file": "akşam.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": [
-        "objects",
-        "people"
-      ]
     },
     {
       "word": "aksamak",
@@ -341,6 +242,30 @@
       "tags": []
     },
     {
+      "word": "akıcı",
+      "file": "akıcı.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "akıtmak",
+      "file": "akıtmak.json",
+      "difficulty": 3,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "akşam",
+      "file": "akşam.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": [
+        "objects",
+        "people"
+      ]
+    },
+    {
       "word": "alaylı",
       "file": "alaylı.json",
       "difficulty": 2,
@@ -357,23 +282,6 @@
     {
       "word": "alev",
       "file": "alev.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": [
-        "objects",
-        "people"
-      ]
-    },
-    {
-      "word": "alışkanlık",
-      "file": "alışkanlık.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "alışveriş",
-      "file": "alışveriş.json",
       "difficulty": 1,
       "part_of_speech": "noun",
       "tags": [
@@ -410,8 +318,8 @@
       ]
     },
     {
-      "word": "Allah ısmarladık",
-      "file": "Allah ısmarladık.json",
+      "word": "Allah korusun",
+      "file": "Allah korusun.json",
       "difficulty": 2,
       "part_of_speech": "interjection",
       "tags": [
@@ -419,8 +327,8 @@
       ]
     },
     {
-      "word": "Allah korusun",
-      "file": "Allah korusun.json",
+      "word": "Allah ısmarladık",
+      "file": "Allah ısmarladık.json",
       "difficulty": 2,
       "part_of_speech": "interjection",
       "tags": [
@@ -482,6 +390,16 @@
       "tags": []
     },
     {
+      "word": "altmış",
+      "file": "altmış.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": [
+        "objects",
+        "people"
+      ]
+    },
+    {
       "word": "altı",
       "file": "altı.json",
       "difficulty": 1,
@@ -502,8 +420,15 @@
       ]
     },
     {
-      "word": "altmış",
-      "file": "altmış.json",
+      "word": "alışkanlık",
+      "file": "alışkanlık.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "alışveriş",
+      "file": "alışveriş.json",
       "difficulty": 1,
       "part_of_speech": "noun",
       "tags": [
@@ -572,15 +497,6 @@
       ]
     },
     {
-      "word": "anırmak",
-      "file": "anırmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": [
-        "action"
-      ]
-    },
-    {
       "word": "anlam",
       "file": "anlam.json",
       "difficulty": 2,
@@ -595,6 +511,13 @@
       "tags": [
         "action"
       ]
+    },
+    {
+      "word": "anlatmak",
+      "file": "anlatmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
     },
     {
       "word": "anlaşma",
@@ -614,13 +537,6 @@
       "tags": [
         "action"
       ]
-    },
-    {
-      "word": "anlatmak",
-      "file": "anlatmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
     },
     {
       "word": "anne",
@@ -658,6 +574,15 @@
       "difficulty": 2,
       "part_of_speech": "noun",
       "tags": []
+    },
+    {
+      "word": "anırmak",
+      "file": "anırmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": [
+        "action"
+      ]
     },
     {
       "word": "apartman",
@@ -722,13 +647,6 @@
       "tags": []
     },
     {
-      "word": "arıza",
-      "file": "arıza.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "arka",
       "file": "arka.json",
       "difficulty": 2,
@@ -743,17 +661,17 @@
       "tags": []
     },
     {
-      "word": "artık",
-      "file": "artık.json",
-      "difficulty": 2,
-      "part_of_speech": "adverb",
-      "tags": []
-    },
-    {
       "word": "artmak",
       "file": "artmak.json",
       "difficulty": 2,
       "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "artık",
+      "file": "artık.json",
+      "difficulty": 2,
+      "part_of_speech": "adverb",
       "tags": []
     },
     {
@@ -771,16 +689,9 @@
       "tags": []
     },
     {
-      "word": "aşağıda",
-      "file": "aşağıda.json",
+      "word": "arıza",
+      "file": "arıza.json",
       "difficulty": 2,
-      "part_of_speech": "adverb",
-      "tags": []
-    },
-    {
-      "word": "aşçı",
-      "file": "aşçı.json",
-      "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
     },
@@ -792,38 +703,10 @@
       "tags": []
     },
     {
-      "word": "aşık olmak",
-      "file": "aşık olmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "aşırı",
-      "file": "aşırı.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
       "word": "asker",
       "file": "asker.json",
       "difficulty": 2,
       "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "aşkolsun",
-      "file": "aşkolsun.json",
-      "difficulty": 2,
-      "part_of_speech": "interjection",
-      "tags": []
-    },
-    {
-      "word": "aşmak",
-      "file": "aşmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -841,13 +724,6 @@
       "tags": []
     },
     {
-      "word": "atıştırmak",
-      "file": "atıştırmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
       "word": "atlamak",
       "file": "atlamak.json",
       "difficulty": 2,
@@ -857,6 +733,13 @@
     {
       "word": "atmak",
       "file": "atmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "atıştırmak",
+      "file": "atıştırmak.json",
       "difficulty": 2,
       "part_of_speech": "verb",
       "tags": []
@@ -904,13 +787,6 @@
       "tags": []
     },
     {
-      "word": "ayırmak",
-      "file": "ayırmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
       "word": "ayna",
       "file": "ayna.json",
       "difficulty": 1,
@@ -953,6 +829,13 @@
       "tags": []
     },
     {
+      "word": "ayırmak",
+      "file": "ayırmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
       "word": "az",
       "file": "az.json",
       "difficulty": 1,
@@ -967,6 +850,123 @@
       "tags": []
     },
     {
+      "word": "açmak",
+      "file": "açmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "word": "açık",
+      "file": "açık.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
+      "tags": [
+        "descriptive"
+      ]
+    },
+    {
+      "word": "açılmak",
+      "file": "açılmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "word": "ağlamak",
+      "file": "ağlamak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "word": "ağrı",
+      "file": "ağrı.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": [
+        "objects",
+        "people"
+      ]
+    },
+    {
+      "word": "ağrımak",
+      "file": "ağrımak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "word": "Ağustos",
+      "file": "Ağustos.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": [
+        "objects",
+        "people"
+      ]
+    },
+    {
+      "word": "ağız",
+      "file": "ağız.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": [
+        "objects",
+        "people"
+      ]
+    },
+    {
+      "word": "aşağıda",
+      "file": "aşağıda.json",
+      "difficulty": 2,
+      "part_of_speech": "adverb",
+      "tags": []
+    },
+    {
+      "word": "aşkolsun",
+      "file": "aşkolsun.json",
+      "difficulty": 2,
+      "part_of_speech": "interjection",
+      "tags": []
+    },
+    {
+      "word": "aşmak",
+      "file": "aşmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "aşçı",
+      "file": "aşçı.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "aşık olmak",
+      "file": "aşık olmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "aşırı",
+      "file": "aşırı.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
       "word": "baba",
       "file": "baba.json",
       "difficulty": 1,
@@ -976,6 +976,139 @@
     {
       "word": "bacak",
       "file": "bacak.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "bahsetmek",
+      "file": "bahsetmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "bahçe",
+      "file": "bahçe.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "bakanlık",
+      "file": "bakanlık.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "baklava",
+      "file": "baklava.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "bakmak",
+      "file": "bakmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "bakteri",
+      "file": "bakteri.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "bardak",
+      "file": "bardak.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "barış",
+      "file": "barış.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "baskı",
+      "file": "baskı.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "basmak",
+      "file": "basmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "batmak",
+      "file": "batmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "bay",
+      "file": "bay.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "bayan",
+      "file": "bayan.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "bayağı",
+      "file": "bayağı.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "bayram",
+      "file": "bayram.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "bayılmak",
+      "file": "bayılmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "bazen",
+      "file": "bazen.json",
+      "difficulty": 2,
+      "part_of_speech": "adverb",
+      "tags": []
+    },
+    {
+      "word": "bazı",
+      "file": "bazı.json",
+      "difficulty": 2,
+      "part_of_speech": "pronoun",
+      "tags": []
+    },
+    {
+      "word": "bağlantı",
+      "file": "bağlantı.json",
       "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
@@ -1016,66 +1149,17 @@
       "tags": []
     },
     {
-      "word": "bağlantı",
-      "file": "bağlantı.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "bahçe",
-      "file": "bahçe.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "bahsetmek",
-      "file": "bahsetmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "bakanlık",
-      "file": "bakanlık.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "baklava",
-      "file": "baklava.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "bakmak",
-      "file": "bakmak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "bakteri",
-      "file": "bakteri.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "bardak",
-      "file": "bardak.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "baş",
       "file": "baş.json",
       "difficulty": 1,
       "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "başarmak",
+      "file": "başarmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -1093,24 +1177,10 @@
       "tags": []
     },
     {
-      "word": "başarmak",
-      "file": "başarmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
       "word": "başbakan",
       "file": "başbakan.json",
       "difficulty": 2,
       "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "başı dönmek",
-      "file": "başı dönmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -1131,13 +1201,6 @@
       "word": "başkent",
       "file": "başkent.json",
       "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "baskı",
-      "file": "baskı.json",
-      "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
     },
@@ -1163,66 +1226,10 @@
       "tags": []
     },
     {
-      "word": "basmak",
-      "file": "basmak.json",
+      "word": "başı dönmek",
+      "file": "başı dönmek.json",
       "difficulty": 2,
       "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "batmak",
-      "file": "batmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "bay",
-      "file": "bay.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "bayağı",
-      "file": "bayağı.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "bayan",
-      "file": "bayan.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "bayılmak",
-      "file": "bayılmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "bayram",
-      "file": "bayram.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "bazen",
-      "file": "bazen.json",
-      "difficulty": 2,
-      "part_of_speech": "adverb",
-      "tags": []
-    },
-    {
-      "word": "bazı",
-      "file": "bazı.json",
-      "difficulty": 2,
-      "part_of_speech": "pronoun",
       "tags": []
     },
     {
@@ -1247,17 +1254,10 @@
       "tags": []
     },
     {
-      "word": "beğenmek",
-      "file": "beğenmek.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "bekâr",
-      "file": "bekâr.json",
+      "word": "beden dili",
+      "file": "beden dili.json",
       "difficulty": 2,
-      "part_of_speech": "adjective",
+      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -1272,6 +1272,13 @@
       "file": "beklenti.json",
       "difficulty": 2,
       "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "bekâr",
+      "file": "bekâr.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
       "tags": []
     },
     {
@@ -1359,13 +1366,6 @@
       "tags": []
     },
     {
-      "word": "beş",
-      "file": "beş.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "besin",
       "file": "besin.json",
       "difficulty": 1,
@@ -1408,15 +1408,22 @@
       "tags": []
     },
     {
-      "word": "biber",
-      "file": "biber.json",
+      "word": "beğenmek",
+      "file": "beğenmek.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "beş",
+      "file": "beş.json",
       "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
     },
     {
-      "word": "biçim",
-      "file": "biçim.json",
+      "word": "biber",
+      "file": "biber.json",
       "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
@@ -1426,13 +1433,6 @@
       "file": "biftek.json",
       "difficulty": 1,
       "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "bıkmak",
-      "file": "bıkmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -1506,6 +1506,20 @@
       "tags": []
     },
     {
+      "word": "bir araya getirmek",
+      "file": "bir araya getirmek.json",
+      "difficulty": 2,
+      "part_of_speech": "phrase",
+      "tags": []
+    },
+    {
+      "word": "bir çuval inciri berbat etmek",
+      "file": "bir çuval inciri berbat etmek.json",
+      "difficulty": 3,
+      "part_of_speech": "phrase",
+      "tags": []
+    },
+    {
       "word": "bira",
       "file": "bira.json",
       "difficulty": 1,
@@ -1517,13 +1531,6 @@
       "file": "birahane.json",
       "difficulty": 2,
       "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "bırakmak",
-      "file": "bırakmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -1597,13 +1604,6 @@
       "tags": []
     },
     {
-      "word": "bıyık",
-      "file": "bıyık.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "biz",
       "file": "biz.json",
       "difficulty": 1,
@@ -1611,16 +1611,16 @@
       "tags": []
     },
     {
-      "word": "blucin",
-      "file": "blucin.json",
+      "word": "biçim",
+      "file": "biçim.json",
       "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
     },
     {
-      "word": "böbrek",
-      "file": "böbrek.json",
-      "difficulty": 2,
+      "word": "blucin",
+      "file": "blucin.json",
+      "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
     },
@@ -1632,23 +1632,9 @@
       "tags": []
     },
     {
-      "word": "Boğaz",
-      "file": "Boğaz.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "boğaz",
-      "file": "boğaz.json",
+      "word": "boru",
+      "file": "boru.json",
       "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "bölüm",
-      "file": "bölüm.json",
-      "difficulty": 2,
       "part_of_speech": "noun",
       "tags": []
     },
@@ -1657,48 +1643,6 @@
       "file": "borç.json",
       "difficulty": 1,
       "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "börek",
-      "file": "börek.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "boru",
-      "file": "boru.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "boş",
-      "file": "boş.json",
-      "difficulty": 1,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "boşaltmak",
-      "file": "boşaltmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "boşanmak",
-      "file": "boşanmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "boşluğa düşmek",
-      "file": "boşluğa düşmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -1713,13 +1657,6 @@
       "file": "boyamak.json",
       "difficulty": 2,
       "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "böyle",
-      "file": "böyle.json",
-      "difficulty": 1,
-      "part_of_speech": "adverb",
       "tags": []
     },
     {
@@ -1772,6 +1709,48 @@
       "tags": []
     },
     {
+      "word": "Boğaz",
+      "file": "Boğaz.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "boğaz",
+      "file": "boğaz.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "boş",
+      "file": "boş.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "boşaltmak",
+      "file": "boşaltmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "boşanmak",
+      "file": "boşanmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "boşluğa düşmek",
+      "file": "boşluğa düşmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
       "word": "bu",
       "file": "bu.json",
       "difficulty": 1,
@@ -1793,20 +1772,6 @@
       "tags": []
     },
     {
-      "word": "buçuk",
-      "file": "buçuk.json",
-      "difficulty": 1,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "büfe",
-      "file": "büfe.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "bugün",
       "file": "bugün.json",
       "difficulty": 1,
@@ -1821,10 +1786,24 @@
       "tags": []
     },
     {
+      "word": "buket",
+      "file": "buket.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
       "word": "bulantı",
       "file": "bulantı.json",
       "difficulty": 1,
       "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "bulaşmak",
+      "file": "bulaşmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -1839,13 +1818,6 @@
       "file": "bulaşık.json",
       "difficulty": 1,
       "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "bulaşmak",
-      "file": "bulaşmak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -1891,13 +1863,6 @@
       "tags": []
     },
     {
-      "word": "büro",
-      "file": "büro.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "burs almak",
       "file": "burs almak.json",
       "difficulty": 2,
@@ -1914,6 +1879,69 @@
     {
       "word": "burun akıntısı",
       "file": "burun akıntısı.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "buyurun",
+      "file": "buyurun.json",
+      "difficulty": 2,
+      "part_of_speech": "interjection",
+      "tags": []
+    },
+    {
+      "word": "buz",
+      "file": "buz.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "buçuk",
+      "file": "buçuk.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "böbrek",
+      "file": "böbrek.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "bölüm",
+      "file": "bölüm.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "börek",
+      "file": "börek.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "böyle",
+      "file": "böyle.json",
+      "difficulty": 1,
+      "part_of_speech": "adverb",
+      "tags": []
+    },
+    {
+      "word": "büfe",
+      "file": "büfe.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "büro",
+      "file": "büro.json",
       "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
@@ -1949,13 +1977,6 @@
       "tags": []
     },
     {
-      "word": "buyurun",
-      "file": "buyurun.json",
-      "difficulty": 2,
-      "part_of_speech": "interjection",
-      "tags": []
-    },
-    {
       "word": "büyütmek",
       "file": "büyütmek.json",
       "difficulty": 1,
@@ -1963,17 +1984,24 @@
       "tags": []
     },
     {
-      "word": "buz",
-      "file": "buz.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
+      "word": "bıkmak",
+      "file": "bıkmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
       "tags": []
     },
     {
-      "word": "çabuk",
-      "file": "çabuk.json",
+      "word": "bırakmak",
+      "file": "bırakmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "bıyık",
+      "file": "bıyık.json",
       "difficulty": 1,
-      "part_of_speech": "adjective",
+      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -1991,55 +2019,6 @@
       "tags": []
     },
     {
-      "word": "çağdaş",
-      "file": "çağdaş.json",
-      "difficulty": 1,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "çağırmak",
-      "file": "çağırmak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "çakmak",
-      "file": "çakmak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "çalışan",
-      "file": "çalışan.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "çalışkan",
-      "file": "çalışkan.json",
-      "difficulty": 1,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "çalışmak",
-      "file": "çalışmak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "çalmak",
-      "file": "çalmak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
       "word": "camcılık",
       "file": "camcılık.json",
       "difficulty": 2,
@@ -2054,15 +2033,15 @@
       "tags": []
     },
     {
-      "word": "çamur",
-      "file": "çamur.json",
-      "difficulty": 1,
+      "word": "can",
+      "file": "can.json",
+      "difficulty": 2,
       "part_of_speech": "noun",
       "tags": []
     },
     {
-      "word": "can",
-      "file": "can.json",
+      "word": "canlılık",
+      "file": "canlılık.json",
       "difficulty": 2,
       "part_of_speech": "noun",
       "tags": []
@@ -2075,66 +2054,10 @@
       "tags": []
     },
     {
-      "word": "çare",
-      "file": "çare.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "çarpmak",
-      "file": "çarpmak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "çarşaf",
-      "file": "çarşaf.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "çarşamba",
-      "file": "çarşamba.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "çarşı",
-      "file": "çarşı.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "çay",
-      "file": "çay.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "cazip",
       "file": "cazip.json",
       "difficulty": 2,
       "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "çekmek",
-      "file": "çekmek.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "çerez",
-      "file": "çerez.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -2152,13 +2075,6 @@
       "tags": []
     },
     {
-      "word": "çeşit",
-      "file": "çeşit.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "cevap",
       "file": "cevap.json",
       "difficulty": 1,
@@ -2173,73 +2089,10 @@
       "tags": []
     },
     {
-      "word": "çevirmenlik",
-      "file": "çevirmenlik.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "çevre",
-      "file": "çevre.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "çiçek",
-      "file": "çiçek.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "çiçekçi",
-      "file": "çiçekçi.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "ciddi",
       "file": "ciddi.json",
       "difficulty": 1,
       "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "çiftçilik",
-      "file": "çiftçilik.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "çıkarmak",
-      "file": "çıkarmak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "çıkış",
-      "file": "çıkış.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "çıkmak",
-      "file": "çıkmak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "çimen",
-      "file": "çimen.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -2250,141 +2103,8 @@
       "tags": []
     },
     {
-      "word": "Çin",
-      "file": "Çin.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "Çingene",
-      "file": "Çingene.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "çınlamak",
-      "file": "çınlamak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "çıplak",
-      "file": "çıplak.json",
-      "difficulty": 1,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "çıraklık",
-      "file": "çıraklık.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "çirkin",
-      "file": "çirkin.json",
-      "difficulty": 1,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
       "word": "civar",
       "file": "civar.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "çizgi",
-      "file": "çizgi.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "çizmek",
-      "file": "çizmek.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "çocuk",
-      "file": "çocuk.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "çocuk büyütmek",
-      "file": "çocuk büyütmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "çoğalmak",
-      "file": "çoğalmak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "çoğu",
-      "file": "çoğu.json",
-      "difficulty": 1,
-      "part_of_speech": "pronoun",
-      "tags": []
-    },
-    {
-      "word": "çok",
-      "file": "çok.json",
-      "difficulty": 1,
-      "part_of_speech": "adverb",
-      "tags": []
-    },
-    {
-      "word": "cömert",
-      "file": "cömert.json",
-      "difficulty": 1,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "çöp",
-      "file": "çöp.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "çorap",
-      "file": "çorap.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "çorba",
-      "file": "çorba.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "çözmek",
-      "file": "çözmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "çözüm",
-      "file": "çözüm.json",
       "difficulty": 2,
       "part_of_speech": "noun",
       "tags": []
@@ -2411,22 +2131,15 @@
       "tags": []
     },
     {
-      "word": "çürük",
-      "file": "çürük.json",
-      "difficulty": 2,
+      "word": "cömert",
+      "file": "cömert.json",
+      "difficulty": 1,
       "part_of_speech": "adjective",
       "tags": []
     },
     {
       "word": "cüzdan",
       "file": "cüzdan.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "dağ",
-      "file": "dağ.json",
       "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
@@ -2523,6 +2236,13 @@
       "tags": []
     },
     {
+      "word": "davranmak",
+      "file": "davranmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
       "word": "davranış",
       "file": "davranış.json",
       "difficulty": 2,
@@ -2530,10 +2250,10 @@
       "tags": []
     },
     {
-      "word": "davranmak",
-      "file": "davranmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
+      "word": "dağ",
+      "file": "dağ.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -2548,62 +2268,6 @@
       "file": "defa.json",
       "difficulty": 2,
       "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "değer",
-      "file": "değer.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "değerlendirmek",
-      "file": "değerlendirmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "değil",
-      "file": "değil.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "değişiklik",
-      "file": "değişiklik.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "değişken",
-      "file": "değişken.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "değişmek",
-      "file": "değişmek.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "değişmez",
-      "file": "değişmez.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "değiştirmek",
-      "file": "değiştirmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -2684,17 +2348,17 @@
       "tags": []
     },
     {
-      "word": "destekçi",
-      "file": "destekçi.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "desteklemek",
       "file": "desteklemek.json",
       "difficulty": 2,
       "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "destekçi",
+      "file": "destekçi.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -2733,10 +2397,59 @@
       "tags": []
     },
     {
-      "word": "diğer",
-      "file": "diğer.json",
+      "word": "değer",
+      "file": "değer.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "değerlendirmek",
+      "file": "değerlendirmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "değil",
+      "file": "değil.json",
       "difficulty": 1,
-      "part_of_speech": "pronoun",
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "değişiklik",
+      "file": "değişiklik.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "değişken",
+      "file": "değişken.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "değişmek",
+      "file": "değişmek.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "değişmez",
+      "file": "değişmez.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "değiştirmek",
+      "file": "değiştirmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -2789,6 +2502,13 @@
       "tags": []
     },
     {
+      "word": "dindarlık",
+      "file": "dindarlık.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
       "word": "dinlemek",
       "file": "dinlemek.json",
       "difficulty": 1,
@@ -2810,20 +2530,6 @@
       "tags": []
     },
     {
-      "word": "diş",
-      "file": "diş.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "dışarıda",
-      "file": "dışarıda.json",
-      "difficulty": 1,
-      "part_of_speech": "adverb",
-      "tags": []
-    },
-    {
       "word": "disiplin",
       "file": "disiplin.json",
       "difficulty": 2,
@@ -2841,6 +2547,104 @@
       "word": "dizi",
       "file": "dizi.json",
       "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "diğer",
+      "file": "diğer.json",
+      "difficulty": 1,
+      "part_of_speech": "pronoun",
+      "tags": []
+    },
+    {
+      "word": "diş",
+      "file": "diş.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "doksan",
+      "file": "doksan.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "dokuz",
+      "file": "dokuz.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "dolap",
+      "file": "dolap.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "doldurmak",
+      "file": "doldurmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "dolgun",
+      "file": "dolgun.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "dolmak",
+      "file": "dolmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "dolmuş",
+      "file": "dolmuş.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "dolu",
+      "file": "dolu.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "dolunay",
+      "file": "dolunay.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "domates",
+      "file": "domates.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "dondurma",
+      "file": "dondurma.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "dost",
+      "file": "dost.json",
+      "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
     },
@@ -2894,8 +2698,57 @@
       "tags": []
     },
     {
-      "word": "doksan",
-      "file": "doksan.json",
+      "word": "duble",
+      "file": "duble.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "dudak",
+      "file": "dudak.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "durak",
+      "file": "durak.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "durmak",
+      "file": "durmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "durum",
+      "file": "durum.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "duruş",
+      "file": "duruş.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "duygulu",
+      "file": "duygulu.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "duş",
+      "file": "duş.json",
       "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
@@ -2904,62 +2757,6 @@
       "word": "döküntü",
       "file": "döküntü.json",
       "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "dokuz",
-      "file": "dokuz.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "dolap",
-      "file": "dolap.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "doldurmak",
-      "file": "doldurmak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "dolgun",
-      "file": "dolgun.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "dolmuş",
-      "file": "dolmuş.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "dolu",
-      "file": "dolu.json",
-      "difficulty": 1,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "domates",
-      "file": "domates.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "dondurma",
-      "file": "dondurma.json",
-      "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
     },
@@ -3013,20 +2810,6 @@
       "tags": []
     },
     {
-      "word": "döşeme",
-      "file": "döşeme.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "dost",
-      "file": "dost.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "dövmek",
       "file": "dövmek.json",
       "difficulty": 2,
@@ -3041,16 +2824,9 @@
       "tags": []
     },
     {
-      "word": "duble",
-      "file": "duble.json",
+      "word": "döşeme",
+      "file": "döşeme.json",
       "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "dudak",
-      "file": "dudak.json",
-      "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
     },
@@ -3083,36 +2859,8 @@
       "tags": []
     },
     {
-      "word": "durak",
-      "file": "durak.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "durmak",
-      "file": "durmak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
       "word": "dürtü",
       "file": "dürtü.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "durum",
-      "file": "durum.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "duruş",
-      "file": "duruş.json",
       "difficulty": 2,
       "part_of_speech": "noun",
       "tags": []
@@ -3125,10 +2873,17 @@
       "tags": []
     },
     {
-      "word": "duş",
-      "file": "duş.json",
+      "word": "düz",
+      "file": "düz.json",
       "difficulty": 1,
-      "part_of_speech": "noun",
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "düzenli",
+      "file": "düzenli.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
       "tags": []
     },
     {
@@ -3167,24 +2922,10 @@
       "tags": []
     },
     {
-      "word": "duygulu",
-      "file": "duygulu.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "düz",
-      "file": "düz.json",
+      "word": "dışarıda",
+      "file": "dışarıda.json",
       "difficulty": 1,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "düzenli",
-      "file": "düzenli.json",
-      "difficulty": 1,
-      "part_of_speech": "adjective",
+      "part_of_speech": "adverb",
       "tags": []
     },
     {
@@ -3213,27 +2954,6 @@
       "file": "Efes.json",
       "difficulty": 2,
       "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "eğer",
-      "file": "eğer.json",
-      "difficulty": 1,
-      "part_of_speech": "conjunction",
-      "tags": []
-    },
-    {
-      "word": "eğitim",
-      "file": "eğitim.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "eğlenmek",
-      "file": "eğlenmek.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -3412,20 +3132,6 @@
       "tags": []
     },
     {
-      "word": "eş",
-      "file": "eş.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "eşek",
-      "file": "eşek.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "eski",
       "file": "eski.json",
       "difficulty": 1,
@@ -3437,13 +3143,6 @@
       "file": "eskiden.json",
       "difficulty": 1,
       "part_of_speech": "adverb",
-      "tags": []
-    },
-    {
-      "word": "eşlik etmek",
-      "file": "eşlik etmek.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -3472,13 +3171,6 @@
       "file": "esprili.json",
       "difficulty": 2,
       "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "eşyalar",
-      "file": "eşyalar.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -3575,6 +3267,55 @@
       "tags": []
     },
     {
+      "word": "eğer",
+      "file": "eğer.json",
+      "difficulty": 1,
+      "part_of_speech": "conjunction",
+      "tags": []
+    },
+    {
+      "word": "eğitim",
+      "file": "eğitim.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "eğlenmek",
+      "file": "eğlenmek.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "eş",
+      "file": "eş.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "eşek",
+      "file": "eşek.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "eşlik etmek",
+      "file": "eşlik etmek.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "eşyalar",
+      "file": "eşyalar.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
       "word": "fabrika",
       "file": "fabrika.json",
       "difficulty": 1,
@@ -3659,6 +3400,13 @@
       "tags": []
     },
     {
+      "word": "festival",
+      "file": "festival.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
       "word": "fethetmek",
       "file": "fethetmek.json",
       "difficulty": 2,
@@ -3687,38 +3435,10 @@
       "tags": []
     },
     {
-      "word": "fırçalamak",
-      "file": "fırçalamak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
       "word": "firma",
       "file": "firma.json",
       "difficulty": 2,
       "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "fırsat",
-      "file": "fırsat.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "fiş",
-      "file": "fiş.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "fışkırmak",
-      "file": "fışkırmak.json",
-      "difficulty": 3,
-      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -3733,6 +3453,13 @@
       "file": "fizyolojik.json",
       "difficulty": 2,
       "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "fiş",
+      "file": "fiş.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -3757,6 +3484,27 @@
       "tags": []
     },
     {
+      "word": "fırsat",
+      "file": "fırsat.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "fırçalamak",
+      "file": "fırçalamak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "fışkırmak",
+      "file": "fışkırmak.json",
+      "difficulty": 3,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
       "word": "galiba",
       "file": "galiba.json",
       "difficulty": 1,
@@ -3778,73 +3526,10 @@
       "tags": []
     },
     {
-      "word": "geç",
-      "file": "geç.json",
-      "difficulty": 1,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "geç kalmak",
-      "file": "geç kalmak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
       "word": "gece",
       "file": "gece.json",
       "difficulty": 1,
       "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "geçerli",
-      "file": "geçerli.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "geçici",
-      "file": "geçici.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "geçimli",
-      "file": "geçimli.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "geçimsiz",
-      "file": "geçimsiz.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "geçinmek",
-      "file": "geçinmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "geçirmek",
-      "file": "geçirmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "geçmek",
-      "file": "geçmek.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -3914,20 +3599,6 @@
       "tags": []
     },
     {
-      "word": "genç",
-      "file": "genç.json",
-      "difficulty": 1,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "gençlik",
-      "file": "gençlik.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "gene",
       "file": "gene.json",
       "difficulty": 2,
@@ -3949,24 +3620,17 @@
       "tags": []
     },
     {
-      "word": "gerçek",
-      "file": "gerçek.json",
-      "difficulty": 2,
+      "word": "genç",
+      "file": "genç.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "gençlik",
+      "file": "gençlik.json",
+      "difficulty": 1,
       "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "gerçekleşmek",
-      "file": "gerçekleşmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "gerçekleştirmek",
-      "file": "gerçekleştirmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -4012,6 +3676,27 @@
       "tags": []
     },
     {
+      "word": "gerçek",
+      "file": "gerçek.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "gerçekleşmek",
+      "file": "gerçekleşmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "gerçekleştirmek",
+      "file": "gerçekleştirmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
       "word": "getirmek",
       "file": "getirmek.json",
       "difficulty": 1,
@@ -4026,17 +3711,80 @@
       "tags": []
     },
     {
+      "word": "geç",
+      "file": "geç.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "geç kalmak",
+      "file": "geç kalmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "geçerli",
+      "file": "geçerli.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "geçici",
+      "file": "geçici.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "geçimini sağlamak",
+      "file": "geçimini sağlamak.json",
+      "difficulty": 2,
+      "part_of_speech": "phrase",
+      "tags": []
+    },
+    {
+      "word": "geçimli",
+      "file": "geçimli.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "geçimsiz",
+      "file": "geçimsiz.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "geçinmek",
+      "file": "geçinmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "geçirmek",
+      "file": "geçirmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "geçmek",
+      "file": "geçmek.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
       "word": "gibi",
       "file": "gibi.json",
       "difficulty": 1,
       "part_of_speech": "postposition",
-      "tags": []
-    },
-    {
-      "word": "gıda",
-      "file": "gıda.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -4099,6 +3847,13 @@
       ]
     },
     {
+      "word": "gitmeye değer",
+      "file": "gitmeye değer.json",
+      "difficulty": 2,
+      "part_of_speech": "phrase",
+      "tags": []
+    },
+    {
       "word": "giyinmek",
       "file": "giyinmek.json",
       "difficulty": 1,
@@ -4120,15 +3875,36 @@
       "tags": []
     },
     {
-      "word": "göbek",
-      "file": "göbek.json",
+      "word": "grafik tasarım",
+      "file": "grafik tasarım.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "grip",
+      "file": "grip.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "grup",
+      "file": "grup.json",
       "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
     },
     {
-      "word": "göğüs",
-      "file": "göğüs.json",
+      "word": "gurur",
+      "file": "gurur.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "göbek",
+      "file": "göbek.json",
       "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
@@ -4232,6 +4008,20 @@
       "tags": []
     },
     {
+      "word": "göz atmak",
+      "file": "göz atmak.json",
+      "difficulty": 2,
+      "part_of_speech": "phrase",
+      "tags": []
+    },
+    {
+      "word": "göz teması",
+      "file": "göz teması.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
       "word": "gözlük",
       "file": "gözlük.json",
       "difficulty": 1,
@@ -4239,38 +4029,24 @@
       "tags": []
     },
     {
-      "word": "grafik tasarım",
-      "file": "grafik tasarım.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "grip",
-      "file": "grip.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "grup",
-      "file": "grup.json",
+      "word": "göç etmek",
+      "file": "göç etmek.json",
       "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "güç",
-      "file": "güç.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "güçlendirmek",
-      "file": "güçlendirmek.json",
-      "difficulty": 2,
       "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "göçebe",
+      "file": "göçebe.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "göğüs",
+      "file": "göğüs.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -4302,6 +4078,13 @@
       "tags": []
     },
     {
+      "word": "güney",
+      "file": "güney.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
       "word": "güneş",
       "file": "güneş.json",
       "difficulty": 1,
@@ -4313,13 +4096,6 @@
       "file": "güneşlenmiş.json",
       "difficulty": 2,
       "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "güney",
-      "file": "güney.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -4339,13 +4115,6 @@
     {
       "word": "gürültü",
       "file": "gürültü.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "gurur",
-      "file": "gurur.json",
       "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
@@ -4395,6 +4164,27 @@
       "tags": []
     },
     {
+      "word": "güç",
+      "file": "güç.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "güçlendirmek",
+      "file": "güçlendirmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "gıda",
+      "file": "gıda.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
       "word": "haber",
       "file": "haber.json",
       "difficulty": 2,
@@ -4416,6 +4206,13 @@
       "tags": []
     },
     {
+      "word": "hafta",
+      "file": "hafta.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
       "word": "hafıza",
       "file": "hafıza.json",
       "difficulty": 2,
@@ -4427,13 +4224,6 @@
       "file": "hafızaya kaydetmek.json",
       "difficulty": 2,
       "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "hafta",
-      "file": "hafta.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -4458,13 +4248,6 @@
       "tags": []
     },
     {
-      "word": "hâlâ",
-      "file": "hâlâ.json",
-      "difficulty": 2,
-      "part_of_speech": "adverb",
-      "tags": []
-    },
-    {
       "word": "halat",
       "file": "halat.json",
       "difficulty": 2,
@@ -4472,15 +4255,15 @@
       "tags": []
     },
     {
-      "word": "halı",
-      "file": "halı.json",
+      "word": "halk",
+      "file": "halk.json",
       "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
     },
     {
-      "word": "halk",
-      "file": "halk.json",
+      "word": "halı",
+      "file": "halı.json",
       "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
@@ -4612,9 +4395,30 @@
       "tags": []
     },
     {
+      "word": "hayat tarzı",
+      "file": "hayat tarzı.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "hayatında yer almak",
+      "file": "hayatında yer almak.json",
+      "difficulty": 2,
+      "part_of_speech": "phrase",
+      "tags": []
+    },
+    {
       "word": "hayret",
       "file": "hayret.json",
       "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "haziran",
+      "file": "haziran.json",
+      "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
     },
@@ -4623,13 +4427,6 @@
       "file": "hazır.json",
       "difficulty": 1,
       "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "haziran",
-      "file": "haziran.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -4738,6 +4535,13 @@
       "tags": []
     },
     {
+      "word": "her bütçeye uygun",
+      "file": "her bütçeye uygun.json",
+      "difficulty": 2,
+      "part_of_speech": "phrase",
+      "tags": []
+    },
+    {
       "word": "heyecanlı",
       "file": "heyecanlı.json",
       "difficulty": 2,
@@ -4752,46 +4556,16 @@
       "tags": []
     },
     {
+      "word": "hâlâ",
+      "file": "hâlâ.json",
+      "difficulty": 2,
+      "part_of_speech": "adverb",
+      "tags": []
+    },
+    {
       "word": "hükümet",
       "file": "hükümet.json",
       "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "iç organ",
-      "file": "iç organ.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "içerik",
-      "file": "içerik.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "içmek",
-      "file": "içmek.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": [
-        "daily"
-      ]
-    },
-    {
-      "word": "içsel",
-      "file": "içsel.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "iğne",
-      "file": "iğne.json",
-      "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
     },
@@ -4817,15 +4591,15 @@
       "tags": []
     },
     {
-      "word": "ilaç",
-      "file": "ilaç.json",
+      "word": "ilan",
+      "file": "ilan.json",
       "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
     },
     {
-      "word": "ilan",
-      "file": "ilan.json",
+      "word": "ilaç",
+      "file": "ilaç.json",
       "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
@@ -4929,17 +4703,17 @@
       "tags": []
     },
     {
-      "word": "inanılmaz",
-      "file": "inanılmaz.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
       "word": "inanmak",
       "file": "inanmak.json",
       "difficulty": 2,
       "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "inanılmaz",
+      "file": "inanılmaz.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
       "tags": []
     },
     {
@@ -4964,13 +4738,6 @@
       "tags": []
     },
     {
-      "word": "iş bölümü",
-      "file": "iş bölümü.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "ishal",
       "file": "ishal.json",
       "difficulty": 1,
@@ -4978,15 +4745,52 @@
       "tags": []
     },
     {
-      "word": "ısınmak",
-      "file": "ısınmak.json",
-      "difficulty": 1,
+      "word": "izlemek",
+      "file": "izlemek.json",
+      "difficulty": 2,
       "part_of_speech": "verb",
       "tags": []
     },
     {
-      "word": "ısıtma",
-      "file": "ısıtma.json",
+      "word": "iç organ",
+      "file": "iç organ.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "içerik",
+      "file": "içerik.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "içmek",
+      "file": "içmek.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": [
+        "daily"
+      ]
+    },
+    {
+      "word": "içsel",
+      "file": "içsel.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "iğne",
+      "file": "iğne.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "iş bölümü",
+      "file": "iş bölümü.json",
       "difficulty": 2,
       "part_of_speech": "noun",
       "tags": []
@@ -5010,13 +4814,6 @@
       "file": "iştah.json",
       "difficulty": 1,
       "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "izlemek",
-      "file": "izlemek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -5064,34 +4861,6 @@
     {
       "word": "kabul etmek",
       "file": "kabul etmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "kaç",
-      "file": "kaç.json",
-      "difficulty": 1,
-      "part_of_speech": "pronoun",
-      "tags": []
-    },
-    {
-      "word": "kaçınmak",
-      "file": "kaçınmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "kaçırmak",
-      "file": "kaçırmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "kaçmak",
-      "file": "kaçmak.json",
       "difficulty": 2,
       "part_of_speech": "verb",
       "tags": []
@@ -5174,13 +4943,6 @@
       "tags": []
     },
     {
-      "word": "kalkış",
-      "file": "kalkış.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "kalkmak",
       "file": "kalkmak.json",
       "difficulty": 1,
@@ -5189,6 +4951,13 @@
         "movement",
         "daily"
       ]
+    },
+    {
+      "word": "kalkış",
+      "file": "kalkış.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
     },
     {
       "word": "kalmak",
@@ -5254,17 +5023,17 @@
       "tags": []
     },
     {
-      "word": "kapı",
-      "file": "kapı.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "kaprisli",
       "file": "kaprisli.json",
       "difficulty": 2,
       "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "kapı",
+      "file": "kapı.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -5310,6 +5079,13 @@
       "tags": []
     },
     {
+      "word": "karanfil",
+      "file": "karanfil.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
       "word": "karanlık",
       "file": "karanlık.json",
       "difficulty": 1,
@@ -5338,6 +5114,34 @@
       "tags": []
     },
     {
+      "word": "kariyer",
+      "file": "kariyer.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "karmaşık",
+      "file": "karmaşık.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "karnaval",
+      "file": "karnaval.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "kart",
+      "file": "kart.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
       "word": "karın",
       "file": "karın.json",
       "difficulty": 1,
@@ -5349,13 +5153,6 @@
       "file": "karınca.json",
       "difficulty": 1,
       "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "karışık",
-      "file": "karışık.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
       "tags": []
     },
     {
@@ -5373,15 +5170,8 @@
       "tags": []
     },
     {
-      "word": "kariyer",
-      "file": "kariyer.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "karmaşık",
-      "file": "karmaşık.json",
+      "word": "karışık",
+      "file": "karışık.json",
       "difficulty": 2,
       "part_of_speech": "adjective",
       "tags": []
@@ -5401,13 +5191,6 @@
       "tags": []
     },
     {
-      "word": "kart",
-      "file": "kart.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "kas sistemi",
       "file": "kas sistemi.json",
       "difficulty": 2,
@@ -5422,23 +5205,9 @@
       "tags": []
     },
     {
-      "word": "kaşık",
-      "file": "kaşık.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "kasım",
       "file": "kasım.json",
       "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "kaşkol",
-      "file": "kaşkol.json",
-      "difficulty": 2,
       "part_of_speech": "noun",
       "tags": []
     },
@@ -5450,17 +5219,17 @@
       "tags": []
     },
     {
-      "word": "katılmak",
-      "file": "katılmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
       "word": "katkı maddesi",
       "file": "katkı maddesi.json",
       "difficulty": 2,
       "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "katılmak",
+      "file": "katılmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -5520,16 +5289,16 @@
       "tags": []
     },
     {
-      "word": "kayıt",
-      "file": "kayıt.json",
-      "difficulty": 2,
+      "word": "kaynak",
+      "file": "kaynak.json",
+      "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
     },
     {
-      "word": "kaynak",
-      "file": "kaynak.json",
-      "difficulty": 1,
+      "word": "kayıt",
+      "file": "kayıt.json",
+      "difficulty": 2,
       "part_of_speech": "noun",
       "tags": []
     },
@@ -5548,6 +5317,13 @@
       "tags": []
     },
     {
+      "word": "kazanmak",
+      "file": "kazanmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
       "word": "kazanç",
       "file": "kazanç.json",
       "difficulty": 2,
@@ -5555,10 +5331,45 @@
       "tags": []
     },
     {
-      "word": "kazanmak",
-      "file": "kazanmak.json",
+      "word": "kaç",
+      "file": "kaç.json",
+      "difficulty": 1,
+      "part_of_speech": "pronoun",
+      "tags": []
+    },
+    {
+      "word": "kaçmak",
+      "file": "kaçmak.json",
       "difficulty": 2,
       "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "kaçınmak",
+      "file": "kaçınmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "kaçırmak",
+      "file": "kaçırmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "kaşkol",
+      "file": "kaşkol.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "kaşık",
+      "file": "kaşık.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -5590,6 +5401,13 @@
       "tags": []
     },
     {
+      "word": "kendine güvenmek",
+      "file": "kendine güvenmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
       "word": "kere",
       "file": "kere.json",
       "difficulty": 1,
@@ -5604,17 +5422,24 @@
       "tags": []
     },
     {
-      "word": "keşfetmek",
-      "file": "keşfetmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
       "word": "kesinlikle",
       "file": "kesinlikle.json",
       "difficulty": 2,
       "part_of_speech": "adverb",
+      "tags": []
+    },
+    {
+      "word": "keçi",
+      "file": "keçi.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "keşfetmek",
+      "file": "keşfetmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -5709,108 +5534,10 @@
       "tags": []
     },
     {
-      "word": "kırk",
-      "file": "kırk.json",
+      "word": "kolonya",
+      "file": "kolonya.json",
       "difficulty": 1,
       "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "kırmak",
-      "file": "kırmak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "kırmızı",
-      "file": "kırmızı.json",
-      "difficulty": 1,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "kış",
-      "file": "kış.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "kısa",
-      "file": "kısa.json",
-      "difficulty": 1,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "kıskanç",
-      "file": "kıskanç.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "kısmak",
-      "file": "kısmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "kıvırcık",
-      "file": "kıvırcık.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "kız",
-      "file": "kız.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "kızamık",
-      "file": "kızamık.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "kızarmak",
-      "file": "kızarmak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "kızdırmak",
-      "file": "kızdırmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "kızıl",
-      "file": "kızıl.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "kızkardeş",
-      "file": "kızkardeş.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "kızmak",
-      "file": "kızmak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -5905,6 +5632,13 @@
       "tags": []
     },
     {
+      "word": "krizantem",
+      "file": "krizantem.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
       "word": "kronik hastalık",
       "file": "kronik hastalık.json",
       "difficulty": 2,
@@ -5926,9 +5660,9 @@
       "tags": []
     },
     {
-      "word": "kültür",
-      "file": "kültür.json",
-      "difficulty": 2,
+      "word": "kumaş",
+      "file": "kumaş.json",
+      "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
     },
@@ -6003,6 +5737,118 @@
       "tags": []
     },
     {
+      "word": "kültür",
+      "file": "kültür.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "kırk",
+      "file": "kırk.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "kırmak",
+      "file": "kırmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "kırmızı",
+      "file": "kırmızı.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "kısa",
+      "file": "kısa.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "kıskanç",
+      "file": "kıskanç.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "kısmak",
+      "file": "kısmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "kıvırcık",
+      "file": "kıvırcık.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "kız",
+      "file": "kız.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "kızamık",
+      "file": "kızamık.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "kızarmak",
+      "file": "kızarmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "kızdırmak",
+      "file": "kızdırmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "kızkardeş",
+      "file": "kızkardeş.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "kızmak",
+      "file": "kızmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "kızıl",
+      "file": "kızıl.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "kış",
+      "file": "kış.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
       "word": "macera",
       "file": "macera.json",
       "difficulty": 2,
@@ -6031,10 +5877,24 @@
       "tags": []
     },
     {
+      "word": "maske",
+      "file": "maske.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
       "word": "masrafsız",
       "file": "masrafsız.json",
       "difficulty": 3,
       "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "masumiyet",
+      "file": "masumiyet.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -6150,23 +6010,9 @@
       "tags": []
     },
     {
-      "word": "meşgul",
-      "file": "meşgul.json",
-      "difficulty": 1,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
       "word": "meslek",
       "file": "meslek.json",
       "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "meşrubat",
-      "file": "meşrubat.json",
-      "difficulty": 2,
       "part_of_speech": "noun",
       "tags": []
     },
@@ -6216,6 +6062,20 @@
       "word": "meze",
       "file": "meze.json",
       "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "meşgul",
+      "file": "meşgul.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "meşrubat",
+      "file": "meşrubat.json",
+      "difficulty": 2,
       "part_of_speech": "noun",
       "tags": []
     },
@@ -6304,15 +6164,15 @@
       "tags": []
     },
     {
-      "word": "model",
-      "file": "model.json",
+      "word": "misafir ağırlama",
+      "file": "misafir ağırlama.json",
       "difficulty": 2,
-      "part_of_speech": "noun",
+      "part_of_speech": "phrase",
       "tags": []
     },
     {
-      "word": "mönü",
-      "file": "mönü.json",
+      "word": "model",
+      "file": "model.json",
       "difficulty": 2,
       "part_of_speech": "noun",
       "tags": []
@@ -6339,13 +6199,6 @@
       "tags": []
     },
     {
-      "word": "müdür",
-      "file": "müdür.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "muhasebecilik",
       "file": "muhasebecilik.json",
       "difficulty": 2,
@@ -6356,34 +6209,6 @@
       "word": "muhit",
       "file": "muhit.json",
       "difficulty": 3,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "mülteci",
-      "file": "mülteci.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "müsaade etmek",
-      "file": "müsaade etmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "müstakil",
-      "file": "müstakil.json",
-      "difficulty": 3,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "müşteri",
-      "file": "müşteri.json",
-      "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
     },
@@ -6409,16 +6234,51 @@
       "tags": []
     },
     {
-      "word": "müttefikler",
-      "file": "müttefikler.json",
+      "word": "muz",
+      "file": "muz.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "mönü",
+      "file": "mönü.json",
       "difficulty": 2,
       "part_of_speech": "noun",
       "tags": []
     },
     {
-      "word": "muz",
-      "file": "muz.json",
+      "word": "müdür",
+      "file": "müdür.json",
       "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "mülteci",
+      "file": "mülteci.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "müsaade etmek",
+      "file": "müsaade etmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "müstakil",
+      "file": "müstakil.json",
+      "difficulty": 3,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "müttefikler",
+      "file": "müttefikler.json",
+      "difficulty": 2,
       "part_of_speech": "noun",
       "tags": []
     },
@@ -6432,6 +6292,13 @@
     {
       "word": "müzisyen",
       "file": "müzisyen.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "müşteri",
+      "file": "müşteri.json",
       "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
@@ -6514,13 +6381,6 @@
       "tags": []
     },
     {
-      "word": "neşeli",
-      "file": "neşeli.json",
-      "difficulty": 1,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
       "word": "nesnel",
       "file": "nesnel.json",
       "difficulty": 2,
@@ -6553,6 +6413,13 @@
       "file": "nezle olmak.json",
       "difficulty": 2,
       "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "neşeli",
+      "file": "neşeli.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
       "tags": []
     },
     {
@@ -6612,13 +6479,6 @@
       "tags": []
     },
     {
-      "word": "öbür",
-      "file": "öbür.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
       "word": "ocak",
       "file": "ocak.json",
       "difficulty": 1,
@@ -6633,120 +6493,8 @@
       "tags": []
     },
     {
-      "word": "ödeme",
-      "file": "ödeme.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "ödemek",
-      "file": "ödemek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "ödül vermek",
-      "file": "ödül vermek.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "ödünç vermek",
-      "file": "ödünç vermek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "öğe",
-      "file": "öğe.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "öge",
-      "file": "öge.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "öğle",
-      "file": "öğle.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "öğrenci",
-      "file": "öğrenci.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "öğrenmek",
-      "file": "öğrenmek.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "oğul",
-      "file": "oğul.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "öğün",
-      "file": "öğün.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "öğüt",
-      "file": "öğüt.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "öksürmek",
-      "file": "öksürmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "öksürük",
-      "file": "öksürük.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "olay",
       "file": "olay.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "ölçmek",
-      "file": "ölçmek.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "ölçüt",
-      "file": "ölçüt.json",
       "difficulty": 2,
       "part_of_speech": "noun",
       "tags": []
@@ -6766,13 +6514,6 @@
       "tags": []
     },
     {
-      "word": "öldürmek",
-      "file": "öldürmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
       "word": "olmak",
       "file": "olmak.json",
       "difficulty": 1,
@@ -6787,13 +6528,6 @@
       "tags": []
     },
     {
-      "word": "ömür",
-      "file": "ömür.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "on",
       "file": "on.json",
       "difficulty": 1,
@@ -6801,52 +6535,10 @@
       "tags": []
     },
     {
-      "word": "ön",
-      "file": "ön.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "önce",
-      "file": "önce.json",
-      "difficulty": 1,
-      "part_of_speech": "adverb",
-      "tags": []
-    },
-    {
-      "word": "önemli",
-      "file": "önemli.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "öneri",
-      "file": "öneri.json",
+      "word": "onur",
+      "file": "onur.json",
       "difficulty": 2,
       "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "önermek",
-      "file": "önermek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "önümüzdeki",
-      "file": "önümüzdeki.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "öpmek",
-      "file": "öpmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -6871,6 +6563,13 @@
       "tags": []
     },
     {
+      "word": "organik",
+      "file": "organik.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
       "word": "orta",
       "file": "orta.json",
       "difficulty": 1,
@@ -6878,10 +6577,10 @@
       "tags": []
     },
     {
-      "word": "örtmek",
-      "file": "örtmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
+      "word": "ot",
+      "file": "ot.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -6896,6 +6595,20 @@
       "file": "otistik.json",
       "difficulty": 2,
       "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "otlamak",
+      "file": "otlamak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "otlatmak",
+      "file": "otlatmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -6920,20 +6633,6 @@
       "tags": []
     },
     {
-      "word": "övmek",
-      "file": "övmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "öyle",
-      "file": "öyle.json",
-      "difficulty": 1,
-      "part_of_speech": "adverb",
-      "tags": []
-    },
-    {
       "word": "oyun",
       "file": "oyun.json",
       "difficulty": 1,
@@ -6941,66 +6640,17 @@
       "tags": []
     },
     {
-      "word": "özel",
-      "file": "özel.json",
+      "word": "oğlak",
+      "file": "oğlak.json",
       "difficulty": 1,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "özellik",
-      "file": "özellik.json",
-      "difficulty": 2,
       "part_of_speech": "noun",
       "tags": []
     },
     {
-      "word": "özellikle",
-      "file": "özellikle.json",
-      "difficulty": 2,
-      "part_of_speech": "adverb",
-      "tags": []
-    },
-    {
-      "word": "özetlemek",
-      "file": "özetlemek.json",
+      "word": "oğul",
+      "file": "oğul.json",
       "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "özgü",
-      "file": "özgü.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "özgür",
-      "file": "özgür.json",
-      "difficulty": 1,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "özgür düşünmek",
-      "file": "özgür düşünmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "özgürlük",
-      "file": "özgürlük.json",
-      "difficulty": 2,
       "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "özür dilemek",
-      "file": "özür dilemek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -7256,6 +6906,13 @@
       "tags": []
     },
     {
+      "word": "portakal çiçeği",
+      "file": "portakal çiçeği.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
       "word": "portre",
       "file": "portre.json",
       "difficulty": 2,
@@ -7298,16 +6955,16 @@
       "tags": []
     },
     {
-      "word": "püf noktası",
-      "file": "püf noktası.json",
-      "difficulty": 2,
+      "word": "pul",
+      "file": "pul.json",
+      "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
     },
     {
-      "word": "pul",
-      "file": "pul.json",
-      "difficulty": 1,
+      "word": "püf noktası",
+      "file": "püf noktası.json",
+      "difficulty": 2,
       "part_of_speech": "noun",
       "tags": []
     },
@@ -7400,6 +7057,20 @@
       "file": "rejim.json",
       "difficulty": 2,
       "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "reklamcılık",
+      "file": "reklamcılık.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "rengarenk",
+      "file": "rengarenk.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
       "tags": []
     },
     {
@@ -7529,27 +7200,6 @@
       "tags": []
     },
     {
-      "word": "saç",
-      "file": "saç.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "saç kestirmek",
-      "file": "saç kestirmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "saçma",
-      "file": "saçma.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
       "word": "sade",
       "file": "sade.json",
       "difficulty": 2,
@@ -7561,41 +7211,6 @@
       "file": "sadece.json",
       "difficulty": 1,
       "part_of_speech": "adverb",
-      "tags": []
-    },
-    {
-      "word": "sağ",
-      "file": "sağ.json",
-      "difficulty": 1,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "sağ olun",
-      "file": "sağ olun.json",
-      "difficulty": 2,
-      "part_of_speech": "interjection",
-      "tags": []
-    },
-    {
-      "word": "sağlamak",
-      "file": "sağlamak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "sağlık",
-      "file": "sağlık.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "sağlık sigortası",
-      "file": "sağlık sigortası.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -7620,20 +7235,6 @@
       "tags": []
     },
     {
-      "word": "şaka",
-      "file": "şaka.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "şaka etmek",
-      "file": "şaka etmek.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
       "word": "sakal",
       "file": "sakal.json",
       "difficulty": 2,
@@ -7652,6 +7253,13 @@
       "file": "sakin.json",
       "difficulty": 2,
       "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "sakinlik",
+      "file": "sakinlik.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -7690,16 +7298,16 @@
       "tags": []
     },
     {
-      "word": "salı",
-      "file": "salı.json",
-      "difficulty": 1,
+      "word": "salon",
+      "file": "salon.json",
+      "difficulty": 2,
       "part_of_speech": "noun",
       "tags": []
     },
     {
-      "word": "salon",
-      "file": "salon.json",
-      "difficulty": 2,
+      "word": "salı",
+      "file": "salı.json",
+      "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
     },
@@ -7753,27 +7361,6 @@
       "tags": []
     },
     {
-      "word": "şans",
-      "file": "şans.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "şans vermek",
-      "file": "şans vermek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "şapka",
-      "file": "şapka.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "saplantı",
       "file": "saplantı.json",
       "difficulty": 2,
@@ -7809,44 +7396,16 @@
       "tags": []
     },
     {
-      "word": "şarkı",
-      "file": "şarkı.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "şarkı söylemek",
-      "file": "şarkı söylemek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "şart",
-      "file": "şart.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "şaşırmak",
-      "file": "şaşırmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "şaşırtıcı",
-      "file": "şaşırtıcı.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
       "word": "sataşmak",
       "file": "sataşmak.json",
       "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "satmak",
+      "file": "satmak.json",
+      "difficulty": 1,
       "part_of_speech": "verb",
       "tags": []
     },
@@ -7872,20 +7431,6 @@
       "tags": []
     },
     {
-      "word": "satmak",
-      "file": "satmak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "şato",
-      "file": "şato.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "savaş",
       "file": "savaş.json",
       "difficulty": 2,
@@ -7907,6 +7452,13 @@
       "tags": []
     },
     {
+      "word": "saymak",
+      "file": "saymak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
       "word": "sayı",
       "file": "sayı.json",
       "difficulty": 1,
@@ -7921,16 +7473,58 @@
       "tags": []
     },
     {
-      "word": "saymak",
-      "file": "saymak.json",
+      "word": "saç",
+      "file": "saç.json",
       "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "saç kestirmek",
+      "file": "saç kestirmek.json",
+      "difficulty": 2,
       "part_of_speech": "verb",
       "tags": []
     },
     {
-      "word": "şb.",
-      "file": "şb..json",
+      "word": "saçma",
+      "file": "saçma.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "sağ",
+      "file": "sağ.json",
       "difficulty": 1,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "sağ olun",
+      "file": "sağ olun.json",
+      "difficulty": 2,
+      "part_of_speech": "interjection",
+      "tags": []
+    },
+    {
+      "word": "sağlamak",
+      "file": "sağlamak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "sağlık",
+      "file": "sağlık.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "sağlık sigortası",
+      "file": "sağlık sigortası.json",
+      "difficulty": 2,
       "part_of_speech": "noun",
       "tags": []
     },
@@ -7942,51 +7536,9 @@
       "tags": []
     },
     {
-      "word": "seçim",
-      "file": "seçim.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "seçmek",
-      "file": "seçmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "şef",
-      "file": "şef.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "sefer",
       "file": "sefer.json",
       "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "şehir",
-      "file": "şehir.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "şeker",
-      "file": "şeker.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "şekil",
-      "file": "şekil.json",
-      "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
     },
@@ -8033,23 +7585,9 @@
       "tags": []
     },
     {
-      "word": "şemsiye",
-      "file": "şemsiye.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "sene",
       "file": "sene.json",
       "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "şerefe",
-      "file": "şerefe.json",
-      "difficulty": 2,
       "part_of_speech": "noun",
       "tags": []
     },
@@ -8110,13 +7648,6 @@
       "tags": []
     },
     {
-      "word": "şey",
-      "file": "şey.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "seyahat",
       "file": "seyahat.json",
       "difficulty": 2,
@@ -8145,36 +7676,15 @@
       "tags": []
     },
     {
-      "word": "sıcak",
-      "file": "sıcak.json",
-      "difficulty": 1,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "şifayı kapmak",
-      "file": "şifayı kapmak.json",
+      "word": "seçim",
+      "file": "seçim.json",
       "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "sıfır",
-      "file": "sıfır.json",
-      "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
     },
     {
-      "word": "sıfırdan başlamak",
-      "file": "sıfırdan başlamak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "sıfırdan var etmek",
-      "file": "sıfırdan var etmek.json",
+      "word": "seçmek",
+      "file": "seçmek.json",
       "difficulty": 2,
       "part_of_speech": "verb",
       "tags": []
@@ -8187,59 +7697,10 @@
       "tags": []
     },
     {
-      "word": "sığınmak",
-      "file": "sığınmak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "sığmak",
-      "file": "sığmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
       "word": "sigorta",
       "file": "sigorta.json",
       "difficulty": 2,
       "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "sık sık",
-      "file": "sık sık.json",
-      "difficulty": 1,
-      "part_of_speech": "adverb",
-      "tags": []
-    },
-    {
-      "word": "şikayet etmek",
-      "file": "şikayet etmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "sıkıcı",
-      "file": "sıkıcı.json",
-      "difficulty": 1,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "sıkılmak",
-      "file": "sıkılmak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "sıkışmak",
-      "file": "sıkışmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -8257,27 +7718,6 @@
       "tags": []
     },
     {
-      "word": "şimdi",
-      "file": "şimdi.json",
-      "difficulty": 1,
-      "part_of_speech": "adverb",
-      "tags": []
-    },
-    {
-      "word": "şimdiki",
-      "file": "şimdiki.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "şimdilik",
-      "file": "şimdilik.json",
-      "difficulty": 2,
-      "part_of_speech": "adverb",
-      "tags": []
-    },
-    {
       "word": "simetrik",
       "file": "simetrik.json",
       "difficulty": 2,
@@ -8285,29 +7725,8 @@
       "tags": []
     },
     {
-      "word": "sınav",
-      "file": "sınav.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "sınavda kalmak",
-      "file": "sınavda kalmak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
       "word": "sinema",
       "file": "sinema.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "sınıf",
-      "file": "sınıf.json",
       "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
@@ -8324,55 +7743,6 @@
       "file": "sinirli.json",
       "difficulty": 1,
       "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "sır",
-      "file": "sır.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "sıra",
-      "file": "sıra.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "şirket",
-      "file": "şirket.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "sırt",
-      "file": "sırt.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "şişe",
-      "file": "şişe.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "şişmanlamak",
-      "file": "şişmanlamak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "şişmek",
-      "file": "şişmek.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -8397,6 +7767,13 @@
       "tags": []
     },
     {
+      "word": "siz siz olun",
+      "file": "siz siz olun.json",
+      "difficulty": 2,
+      "part_of_speech": "expression",
+      "tags": []
+    },
+    {
       "word": "sizce",
       "file": "sizce.json",
       "difficulty": 1,
@@ -8404,52 +7781,10 @@
       "tags": []
     },
     {
-      "word": "sızdırmak",
-      "file": "sızdırmak.json",
-      "difficulty": 3,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "sızıntı",
-      "file": "sızıntı.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "slayt",
       "file": "slayt.json",
       "difficulty": 1,
       "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "şofben",
-      "file": "şofben.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "şoför",
-      "file": "şoför.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "soğuk",
-      "file": "soğuk.json",
-      "difficulty": 1,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "soğutmak",
-      "file": "soğutmak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -8464,6 +7799,13 @@
       "file": "sokak.json",
       "difficulty": 1,
       "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "sokakları kaplamak",
+      "file": "sokakları kaplamak.json",
+      "difficulty": 2,
+      "part_of_speech": "phrase",
       "tags": []
     },
     {
@@ -8488,13 +7830,6 @@
       "tags": []
     },
     {
-      "word": "söndürmek",
-      "file": "söndürmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
       "word": "sonra",
       "file": "sonra.json",
       "difficulty": 1,
@@ -8506,6 +7841,13 @@
       "file": "sonsuz.json",
       "difficulty": 1,
       "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "sonunda",
+      "file": "sonunda.json",
+      "difficulty": 2,
+      "part_of_speech": "adverb",
       "tags": []
     },
     {
@@ -8530,24 +7872,10 @@
       "tags": []
     },
     {
-      "word": "sonunda",
-      "file": "sonunda.json",
-      "difficulty": 2,
-      "part_of_speech": "adverb",
-      "tags": []
-    },
-    {
       "word": "sormak",
       "file": "sormak.json",
       "difficulty": 1,
       "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "şort",
-      "file": "şort.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -8579,31 +7907,17 @@
       "tags": []
     },
     {
-      "word": "soyad",
-      "file": "soyad.json",
-      "difficulty": 1,
+      "word": "sosyal sınıf",
+      "file": "sosyal sınıf.json",
+      "difficulty": 2,
       "part_of_speech": "noun",
       "tags": []
     },
     {
-      "word": "şöyle",
-      "file": "şöyle.json",
-      "difficulty": 2,
-      "part_of_speech": "adverb",
-      "tags": []
-    },
-    {
-      "word": "söylemek",
-      "file": "söylemek.json",
+      "word": "soyad",
+      "file": "soyad.json",
       "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "söylenmek",
-      "file": "söylenmek.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
+      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -8614,9 +7928,16 @@
       "tags": []
     },
     {
-      "word": "söz tutmak",
-      "file": "söz tutmak.json",
-      "difficulty": 2,
+      "word": "soğuk",
+      "file": "soğuk.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "soğutmak",
+      "file": "soğutmak.json",
+      "difficulty": 1,
       "part_of_speech": "verb",
       "tags": []
     },
@@ -8651,27 +7972,6 @@
       "tags": []
     },
     {
-      "word": "şubat",
-      "file": "şubat.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "şube",
-      "file": "şube.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "suçlu",
-      "file": "suçlu.json",
-      "difficulty": 1,
-      "part_of_speech": "noun, adjective",
-      "tags": []
-    },
-    {
       "word": "sunmak",
       "file": "sunmak.json",
       "difficulty": 1,
@@ -8686,17 +7986,59 @@
       "tags": []
     },
     {
+      "word": "susamak",
+      "file": "susamak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "susmak",
+      "file": "susmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "suçlu",
+      "file": "suçlu.json",
+      "difficulty": 1,
+      "part_of_speech": "noun, adjective",
+      "tags": []
+    },
+    {
+      "word": "söndürmek",
+      "file": "söndürmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "söylemek",
+      "file": "söylemek.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "söylenmek",
+      "file": "söylenmek.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "söz tutmak",
+      "file": "söz tutmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
       "word": "süper",
       "file": "süper.json",
       "difficulty": 1,
       "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "şüpheli",
-      "file": "şüpheli.json",
-      "difficulty": 1,
-      "part_of_speech": "adjective, noun",
       "tags": []
     },
     {
@@ -8714,17 +8056,17 @@
       "tags": []
     },
     {
-      "word": "süreç",
-      "file": "süreç.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "sürekli",
       "file": "sürekli.json",
       "difficulty": 1,
       "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "süreç",
+      "file": "süreç.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -8749,20 +8091,6 @@
       "tags": []
     },
     {
-      "word": "susamak",
-      "file": "susamak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "susmak",
-      "file": "susmak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
       "word": "süt",
       "file": "süt.json",
       "difficulty": 1,
@@ -8770,10 +8098,129 @@
       "tags": []
     },
     {
-      "word": "şuur",
-      "file": "şuur.json",
+      "word": "sıcak",
+      "file": "sıcak.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "sıfır",
+      "file": "sıfır.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "sıfırdan başlamak",
+      "file": "sıfırdan başlamak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "sıfırdan var etmek",
+      "file": "sıfırdan var etmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "sık sık",
+      "file": "sık sık.json",
+      "difficulty": 1,
+      "part_of_speech": "adverb",
+      "tags": []
+    },
+    {
+      "word": "sıkıcı",
+      "file": "sıkıcı.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "sıkılmak",
+      "file": "sıkılmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "sıkışmak",
+      "file": "sıkışmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "sınav",
+      "file": "sınav.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "sınavda kalmak",
+      "file": "sınavda kalmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "sınıf",
+      "file": "sınıf.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "sır",
+      "file": "sır.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "sıra",
+      "file": "sıra.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "sırt",
+      "file": "sırt.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "sızdırmak",
+      "file": "sızdırmak.json",
+      "difficulty": 3,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "sızıntı",
+      "file": "sızıntı.json",
       "difficulty": 2,
       "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "sığmak",
+      "file": "sığmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "sığınmak",
+      "file": "sığınmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -8812,6 +8259,20 @@
       "tags": []
     },
     {
+      "word": "takip etmek",
+      "file": "takip etmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "takmak",
+      "file": "takmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
       "word": "takım",
       "file": "takım.json",
       "difficulty": 2,
@@ -8830,20 +8291,6 @@
       "file": "takıntılı.json",
       "difficulty": 2,
       "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "takip etmek",
-      "file": "takip etmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "takmak",
-      "file": "takmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -8952,17 +8399,17 @@
       "tags": []
     },
     {
-      "word": "tarihçi",
-      "file": "tarihçi.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "tarihi",
       "file": "tarihi.json",
       "difficulty": 2,
       "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "tarihçi",
+      "file": "tarihçi.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -8987,24 +8434,17 @@
       "tags": []
     },
     {
+      "word": "tarım",
+      "file": "tarım.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
       "word": "tasarruflu",
       "file": "tasarruflu.json",
       "difficulty": 2,
       "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "taşımak",
-      "file": "taşımak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "taşınmak",
-      "file": "taşınmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -9054,6 +8494,27 @@
       "file": "taze.json",
       "difficulty": 1,
       "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "tazminat ödemek",
+      "file": "tazminat ödemek.json",
+      "difficulty": 3,
+      "part_of_speech": "phrase",
+      "tags": []
+    },
+    {
+      "word": "taşımak",
+      "file": "taşımak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "taşınmak",
+      "file": "taşınmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -9127,6 +8588,13 @@
       "tags": []
     },
     {
+      "word": "temas etmek",
+      "file": "temas etmek.json",
+      "difficulty": 2,
+      "part_of_speech": "phrase",
+      "tags": []
+    },
+    {
       "word": "temas kurmak",
       "file": "temas kurmak.json",
       "difficulty": 1,
@@ -9151,6 +8619,13 @@
       "word": "temmuz",
       "file": "temmuz.json",
       "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "temsilci",
+      "file": "temsilci.json",
+      "difficulty": 2,
       "part_of_speech": "noun",
       "tags": []
     },
@@ -9183,13 +8658,6 @@
       "tags": []
     },
     {
-      "word": "teşekkür etmek",
-      "file": "teşekkür etmek.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
       "word": "tesisatçı",
       "file": "tesisatçı.json",
       "difficulty": 2,
@@ -9218,9 +8686,9 @@
       "tags": []
     },
     {
-      "word": "tıkanmak",
-      "file": "tıkanmak.json",
-      "difficulty": 2,
+      "word": "teşekkür etmek",
+      "file": "teşekkür etmek.json",
+      "difficulty": 1,
       "part_of_speech": "verb",
       "tags": []
     },
@@ -9232,10 +8700,10 @@
       "tags": []
     },
     {
-      "word": "tıraş",
-      "file": "tıraş.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
+      "word": "titremek",
+      "file": "titremek.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -9243,13 +8711,6 @@
       "file": "tişört.json",
       "difficulty": 1,
       "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "titremek",
-      "file": "titremek.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -9316,15 +8777,43 @@
       "tags": []
     },
     {
-      "word": "tören",
-      "file": "tören.json",
+      "word": "torun",
+      "file": "torun.json",
       "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
     },
     {
-      "word": "torun",
-      "file": "torun.json",
+      "word": "tur",
+      "file": "tur.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "turuncu",
+      "file": "turuncu.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "tutmak",
+      "file": "tutmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "tuz",
+      "file": "tuz.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "tören",
+      "file": "tören.json",
       "difficulty": 1,
       "part_of_speech": "noun",
       "tags": []
@@ -9351,13 +8840,6 @@
       "tags": []
     },
     {
-      "word": "tur",
-      "file": "tur.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "Türk",
       "file": "Türk.json",
       "difficulty": 1,
@@ -9372,50 +8854,15 @@
       "tags": []
     },
     {
-      "word": "turuncu",
-      "file": "turuncu.json",
-      "difficulty": 1,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "tutmak",
-      "file": "tutmak.json",
-      "difficulty": 1,
+      "word": "tıkanmak",
+      "file": "tıkanmak.json",
+      "difficulty": 2,
       "part_of_speech": "verb",
       "tags": []
     },
     {
-      "word": "tuz",
-      "file": "tuz.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "üç",
-      "file": "üç.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "uçak",
-      "file": "uçak.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "ücra",
-      "file": "ücra.json",
-      "difficulty": 3,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "uçuş",
-      "file": "uçuş.json",
+      "word": "tıraş",
+      "file": "tıraş.json",
       "difficulty": 2,
       "part_of_speech": "noun",
       "tags": []
@@ -9425,13 +8872,6 @@
       "file": "ucuz.json",
       "difficulty": 1,
       "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "üf",
-      "file": "üf.json",
-      "difficulty": 2,
-      "part_of_speech": "interjection",
       "tags": []
     },
     {
@@ -9449,38 +8889,10 @@
       "tags": []
     },
     {
-      "word": "ülke",
-      "file": "ülke.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
       "word": "ummak",
       "file": "ummak.json",
       "difficulty": 2,
       "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "üniforma",
-      "file": "üniforma.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "üniversite",
-      "file": "üniversite.json",
-      "difficulty": 1,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "ünlü",
-      "file": "ünlü.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
       "tags": []
     },
     {
@@ -9491,22 +8903,8 @@
       "tags": []
     },
     {
-      "word": "üretken",
-      "file": "üretken.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
       "word": "ustalık",
       "file": "ustalık.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "üstü",
-      "file": "üstü.json",
       "difficulty": 2,
       "part_of_speech": "noun",
       "tags": []
@@ -9533,9 +8931,9 @@
       "tags": []
     },
     {
-      "word": "ütülemek",
-      "file": "ütülemek.json",
-      "difficulty": 2,
+      "word": "uyanmak",
+      "file": "uyanmak.json",
+      "difficulty": 1,
       "part_of_speech": "verb",
       "tags": []
     },
@@ -9544,13 +8942,6 @@
       "file": "uyanık.json",
       "difficulty": 2,
       "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "uyanmak",
-      "file": "uyanmak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -9624,24 +9015,24 @@
       "tags": []
     },
     {
-      "word": "üzeri",
-      "file": "üzeri.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "üzülmek",
-      "file": "üzülmek.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
       "word": "uzun",
       "file": "uzun.json",
       "difficulty": 1,
       "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "uçak",
+      "file": "uçak.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "uçuş",
+      "file": "uçuş.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -9694,6 +9085,13 @@
       "tags": []
     },
     {
+      "word": "veba",
+      "file": "veba.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
       "word": "vergi",
       "file": "vergi.json",
       "difficulty": 2,
@@ -9743,6 +9141,13 @@
       "tags": []
     },
     {
+      "word": "yapma",
+      "file": "yapma.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
       "word": "yara",
       "file": "yara.json",
       "difficulty": 1,
@@ -9771,6 +9176,41 @@
       "tags": []
     },
     {
+      "word": "yatılı",
+      "file": "yatılı.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "yayla",
+      "file": "yayla.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "yayılmak",
+      "file": "yayılmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "yayın",
+      "file": "yayın.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "yazılımcı",
+      "file": "yazılımcı.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
       "word": "yaşam",
       "file": "yaşam.json",
       "difficulty": 1,
@@ -9796,34 +9236,6 @@
       "file": "yaşıt.json",
       "difficulty": 1,
       "part_of_speech": "noun, adjective",
-      "tags": []
-    },
-    {
-      "word": "yatılı",
-      "file": "yatılı.json",
-      "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "yayılmak",
-      "file": "yayılmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
-      "word": "yayın",
-      "file": "yayın.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
-      "tags": []
-    },
-    {
-      "word": "yazılımcı",
-      "file": "yazılımcı.json",
-      "difficulty": 2,
-      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -9864,13 +9276,6 @@
       "tags": []
     },
     {
-      "word": "yığmak",
-      "file": "yığmak.json",
-      "difficulty": 2,
-      "part_of_speech": "verb",
-      "tags": []
-    },
-    {
       "word": "yoga",
       "file": "yoga.json",
       "difficulty": 1,
@@ -9889,6 +9294,20 @@
       "file": "yoksulluk.json",
       "difficulty": 2,
       "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "yorucu",
+      "file": "yorucu.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "yorumlamak",
+      "file": "yorumlamak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
       "tags": []
     },
     {
@@ -9913,17 +9332,10 @@
       "tags": []
     },
     {
-      "word": "yorucu",
-      "file": "yorucu.json",
+      "word": "yörük",
+      "file": "yörük.json",
       "difficulty": 2,
-      "part_of_speech": "adjective",
-      "tags": []
-    },
-    {
-      "word": "yorumlamak",
-      "file": "yorumlamak.json",
-      "difficulty": 1,
-      "part_of_speech": "verb",
+      "part_of_speech": "noun",
       "tags": []
     },
     {
@@ -9934,10 +9346,31 @@
       "tags": []
     },
     {
+      "word": "yün",
+      "file": "yün.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "yığmak",
+      "file": "yığmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
       "word": "zafer",
       "file": "zafer.json",
       "difficulty": 2,
       "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "zafer işareti",
+      "file": "zafer işareti.json",
+      "difficulty": 2,
+      "part_of_speech": "phrase",
       "tags": []
     },
     {
@@ -9996,6 +9429,944 @@
       "file": "zorluk.json",
       "difficulty": 2,
       "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "çabuk",
+      "file": "çabuk.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "çakmak",
+      "file": "çakmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "çalmak",
+      "file": "çalmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "çalışan",
+      "file": "çalışan.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "çalışkan",
+      "file": "çalışkan.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "çalışmak",
+      "file": "çalışmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "çamur",
+      "file": "çamur.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "çare",
+      "file": "çare.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "çarpmak",
+      "file": "çarpmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "çarşaf",
+      "file": "çarşaf.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "çarşamba",
+      "file": "çarşamba.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "çarşı",
+      "file": "çarşı.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "çay",
+      "file": "çay.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "çağdaş",
+      "file": "çağdaş.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "çağırmak",
+      "file": "çağırmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "çekmek",
+      "file": "çekmek.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "çerez",
+      "file": "çerez.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "çevirmenlik",
+      "file": "çevirmenlik.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "çevre",
+      "file": "çevre.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "çeşit",
+      "file": "çeşit.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "çiftçilik",
+      "file": "çiftçilik.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "çimen",
+      "file": "çimen.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "Çin",
+      "file": "Çin.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "Çingene",
+      "file": "Çingene.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "çirkin",
+      "file": "çirkin.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "çizgi",
+      "file": "çizgi.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "çizmek",
+      "file": "çizmek.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "çiçek",
+      "file": "çiçek.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "çiçekçi",
+      "file": "çiçekçi.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "çocuk",
+      "file": "çocuk.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "çocuk büyütmek",
+      "file": "çocuk büyütmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "çok",
+      "file": "çok.json",
+      "difficulty": 1,
+      "part_of_speech": "adverb",
+      "tags": []
+    },
+    {
+      "word": "çorap",
+      "file": "çorap.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "çorba",
+      "file": "çorba.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "çoğalmak",
+      "file": "çoğalmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "çoğu",
+      "file": "çoğu.json",
+      "difficulty": 1,
+      "part_of_speech": "pronoun",
+      "tags": []
+    },
+    {
+      "word": "çöp",
+      "file": "çöp.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "çözmek",
+      "file": "çözmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "çözüm",
+      "file": "çözüm.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "çürük",
+      "file": "çürük.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "çıkarmak",
+      "file": "çıkarmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "çıkmak",
+      "file": "çıkmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "çıkış",
+      "file": "çıkış.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "çınlamak",
+      "file": "çınlamak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "çıplak",
+      "file": "çıplak.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "çıraklık",
+      "file": "çıraklık.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "öbür",
+      "file": "öbür.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "ödeme",
+      "file": "ödeme.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "ödemek",
+      "file": "ödemek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "ödül vermek",
+      "file": "ödül vermek.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "ödünç vermek",
+      "file": "ödünç vermek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "öge",
+      "file": "öge.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "öksürmek",
+      "file": "öksürmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "öksürük",
+      "file": "öksürük.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "öldürmek",
+      "file": "öldürmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "ölçmek",
+      "file": "ölçmek.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "ölçüt",
+      "file": "ölçüt.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "ömür",
+      "file": "ömür.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "ön",
+      "file": "ön.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "önce",
+      "file": "önce.json",
+      "difficulty": 1,
+      "part_of_speech": "adverb",
+      "tags": []
+    },
+    {
+      "word": "önemli",
+      "file": "önemli.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "öneri",
+      "file": "öneri.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "önermek",
+      "file": "önermek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "önümüzdeki",
+      "file": "önümüzdeki.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "öpmek",
+      "file": "öpmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "örtmek",
+      "file": "örtmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "övmek",
+      "file": "övmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "öyle",
+      "file": "öyle.json",
+      "difficulty": 1,
+      "part_of_speech": "adverb",
+      "tags": []
+    },
+    {
+      "word": "özel",
+      "file": "özel.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "özellik",
+      "file": "özellik.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "özellikle",
+      "file": "özellikle.json",
+      "difficulty": 2,
+      "part_of_speech": "adverb",
+      "tags": []
+    },
+    {
+      "word": "özetlemek",
+      "file": "özetlemek.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "özgü",
+      "file": "özgü.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "özgür",
+      "file": "özgür.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "özgür düşünmek",
+      "file": "özgür düşünmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "özgürlük",
+      "file": "özgürlük.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "özür dilemek",
+      "file": "özür dilemek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "öğe",
+      "file": "öğe.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "öğle",
+      "file": "öğle.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "öğrenci",
+      "file": "öğrenci.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "öğrenmek",
+      "file": "öğrenmek.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "öğün",
+      "file": "öğün.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "öğüt",
+      "file": "öğüt.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "ücra",
+      "file": "ücra.json",
+      "difficulty": 3,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "üf",
+      "file": "üf.json",
+      "difficulty": 2,
+      "part_of_speech": "interjection",
+      "tags": []
+    },
+    {
+      "word": "ülke",
+      "file": "ülke.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "üniforma",
+      "file": "üniforma.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "üniversite",
+      "file": "üniversite.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "ünlü",
+      "file": "ünlü.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "üretken",
+      "file": "üretken.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "üstü",
+      "file": "üstü.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "ütülemek",
+      "file": "ütülemek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "üzeri",
+      "file": "üzeri.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "üzülmek",
+      "file": "üzülmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "üç",
+      "file": "üç.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "ısınmak",
+      "file": "ısınmak.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "ısıtma",
+      "file": "ısıtma.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "şaka",
+      "file": "şaka.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "şaka etmek",
+      "file": "şaka etmek.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "şans",
+      "file": "şans.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "şans vermek",
+      "file": "şans vermek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "şapka",
+      "file": "şapka.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "şarkı",
+      "file": "şarkı.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "şarkı söylemek",
+      "file": "şarkı söylemek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "şart",
+      "file": "şart.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "şato",
+      "file": "şato.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "şaşırmak",
+      "file": "şaşırmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "şaşırtıcı",
+      "file": "şaşırtıcı.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "şb.",
+      "file": "şb..json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "şef",
+      "file": "şef.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "şehir",
+      "file": "şehir.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "şeker",
+      "file": "şeker.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "şekerleme",
+      "file": "şekerleme.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "şekil",
+      "file": "şekil.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "şemsiye",
+      "file": "şemsiye.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "şerefe",
+      "file": "şerefe.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "şey",
+      "file": "şey.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "şifayı kapmak",
+      "file": "şifayı kapmak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "şikayet etmek",
+      "file": "şikayet etmek.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "şimdi",
+      "file": "şimdi.json",
+      "difficulty": 1,
+      "part_of_speech": "adverb",
+      "tags": []
+    },
+    {
+      "word": "şimdiki",
+      "file": "şimdiki.json",
+      "difficulty": 2,
+      "part_of_speech": "adjective",
+      "tags": []
+    },
+    {
+      "word": "şimdilik",
+      "file": "şimdilik.json",
+      "difficulty": 2,
+      "part_of_speech": "adverb",
+      "tags": []
+    },
+    {
+      "word": "şirket",
+      "file": "şirket.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "şişe",
+      "file": "şişe.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "şişmanlamak",
+      "file": "şişmanlamak.json",
+      "difficulty": 2,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "şişmek",
+      "file": "şişmek.json",
+      "difficulty": 1,
+      "part_of_speech": "verb",
+      "tags": []
+    },
+    {
+      "word": "şofben",
+      "file": "şofben.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "şoför",
+      "file": "şoför.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "şort",
+      "file": "şort.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "şubat",
+      "file": "şubat.json",
+      "difficulty": 1,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "şube",
+      "file": "şube.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "şuur",
+      "file": "şuur.json",
+      "difficulty": 2,
+      "part_of_speech": "noun",
+      "tags": []
+    },
+    {
+      "word": "şöyle",
+      "file": "şöyle.json",
+      "difficulty": 2,
+      "part_of_speech": "adverb",
+      "tags": []
+    },
+    {
+      "word": "şüpheli",
+      "file": "şüpheli.json",
+      "difficulty": 1,
+      "part_of_speech": "adjective, noun",
       "tags": []
     }
   ]

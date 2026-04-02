@@ -1,0 +1,43 @@
+{
+  "word": "misafir ağırlama",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "hospitality, entertaining guests, treating guests",
+  "sentences": [
+    {
+      "id": "misafir_agirlama_s1",
+      "text": "[Misafir ağırlama] bizim kültürümüzde çok önemli bir gelenektir.",
+      "note": null
+    },
+    {
+      "id": "misafir_agirlama_s2",
+      "text": "Annem [misafir ağırla]mayı çok severdi ve her zaman mis kokulu yemekler hazırlardı.",
+      "note": null
+    },
+    {
+      "id": "misafir_agirlama_s3",
+      "text": "Türk [misafir ağırlaması] dünya çapında ünlüdür.",
+      "note": null
+    },
+    {
+      "id": "misafir_agirlama_s4",
+      "text": "Bu evde [misafir ağırla]maya büyük önem verilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "misafir_agirlama_r1",
+      "prompt": "Konuklara iyi davranmak ve onları ağırlamak için kullanılan Türkçe ifade nedir?",
+      "accepted_forms": ["misafir ağırlama", "misafir ağırlamak", "misafir ağırlaması"],
+      "note": null
+    },
+    {
+      "id": "misafir_agirlama_r2",
+      "prompt": "Türk kültüründe konukları iyi karşılamak ve onlara hizmet etmeyi ifade eden söz nedir?",
+      "accepted_forms": ["misafir ağırlama", "misafir ağırlamak"],
+      "note": null
+    }
+  ]
+}

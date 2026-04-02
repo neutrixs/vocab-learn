@@ -1,0 +1,43 @@
+{
+  "word": "krizantem",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "chrysanthemum",
+  "sentences": [
+    {
+      "id": "krizantem_s1",
+      "text": "[Krizantem], özellikle sonbahar aylarında çoğu bahçede görülebilir.",
+      "note": null
+    },
+    {
+      "id": "krizantem_s2",
+      "text": "Sarı ve kırmızı [krizantem]ler çok güzeldir.",
+      "note": null
+    },
+    {
+      "id": "krizantem_s3",
+      "text": "Ülkemizde [krizantem] çiçeği hastaları ziyarete götürülebilir.",
+      "note": null
+    },
+    {
+      "id": "krizantem_s4",
+      "text": "[Krizantem]in çiçekleri uzun zaman taze kalır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "krizantem_r1",
+      "prompt": "Sonbaharın tipik çiçesi olan, sarı, pembe veya kırmızı renklerde bulunabilen çiçek nedir?",
+      "accepted_forms": ["krizantem", "krizantemi", "krizantemin"],
+      "note": null
+    },
+    {
+      "id": "krizantem_r2",
+      "prompt": "Hastaları ziyarete götürülen, dayanıklı ve uzun ömürlü çiçek adı nedir?",
+      "accepted_forms": ["krizantem", "krizantemler", "krizantemi"],
+      "note": null
+    }
+  ]
+}

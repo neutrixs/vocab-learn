@@ -1,0 +1,38 @@
+{
+  "word": "yapma",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "artificial, synthetic, fake",
+  "sentences": [
+    {
+      "id": "yapma_s1",
+      "text": "Bu çiçekler [yapma], canlı değil.",
+      "note": null
+    },
+    {
+      "id": "yapma_s2",
+      "text": "O [yapma] bir gülüştür, samimi değildir.",
+      "note": null
+    },
+    {
+      "id": "yapma_s3",
+      "text": "Masada duran [yapma] meyve set dekorasyon için kullanılır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yapma_r1",
+      "prompt": "Doğal değil, insan tarafından üretilen şeye ne denir?",
+      "accepted_forms": ["yapma", "yapmacık", "yapay", "sahte"],
+      "note": null
+    },
+    {
+      "id": "yapma_r2",
+      "prompt": "Sahte ve taklit olan bir şeyi tanımlamak için kullanılan kelime nedir?",
+      "accepted_forms": ["yapma", "yapmacık", "yapay", "sahte"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "kendine güvenmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to be confident in oneself, to have self-confidence",
+  "sentences": [
+    {
+      "id": "kendine_guvenmek_s1",
+      "text": "Başarı için önce [kendine güvenmen] gerekir.",
+      "note": null
+    },
+    {
+      "id": "kendine_guvenmek_s2",
+      "text": "O sporcu sınava girmeden [kendisine güveniyordu].",
+      "note": null
+    },
+    {
+      "id": "kendine_guvenmek_s3",
+      "text": "Yeni işinde [kendisine güvenmesi] zaman alacaktır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kendine_guvenmek_r1",
+      "prompt": "Kendisinin yeteneklerinde inanmak ve güvenmek ne demektir?",
+      "accepted_forms": ["kendine güvenmek", "kendisine güven", "kendine güven"],
+      "note": null
+    },
+    {
+      "id": "kendine_guvenmek_r2",
+      "prompt": "Başarı için gerekli olan öz saygı ve inanç duygusuna ne denir?",
+      "accepted_forms": ["kendine güvenmek", "kendisine güven", "kendine güven"],
+      "note": null
+    }
+  ]
+}

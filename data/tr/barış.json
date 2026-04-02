@@ -1,0 +1,38 @@
+{
+  "word": "barış",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "peace",
+  "sentences": [
+    {
+      "id": "baris_s1",
+      "text": "Dünya [barış]ını selamlamak hepimizin görevidir.",
+      "note": null
+    },
+    {
+      "id": "baris_s2",
+      "text": "İki ülke arasında [barış] anlaşması imzalandı.",
+      "note": null
+    },
+    {
+      "id": "baris_s3",
+      "text": "Savaştan sonra [barış] uzun sürmedi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "baris_r1",
+      "prompt": "Savaşın karşıtı olan durum nedir?",
+      "accepted_forms": ["barış", "barışa", "barışın", "barışlar"],
+      "note": null
+    },
+    {
+      "id": "baris_r2",
+      "prompt": "Uluslararası ilişkilerde istenen hedef nedir?",
+      "accepted_forms": ["barış", "barışa", "barışın", "barışlar"],
+      "note": null
+    }
+  ]
+}

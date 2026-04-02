@@ -1,0 +1,43 @@
+{
+  "word": "oğlak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "kid (young goat)",
+  "sentences": [
+    {
+      "id": "oğlak_s1",
+      "text": "Anne [oğlak], yavrularına bakıyor ve onları koruyor.",
+      "note": null
+    },
+    {
+      "id": "oğlak_s2",
+      "text": "Çiftlikte milyonlarca [oğlak] oyun oynarken oynuyor.",
+      "note": null
+    },
+    {
+      "id": "oğlak_s3",
+      "text": "Küçük [oğlak]lar çabuk büyürler ve güçlü olurlar.",
+      "note": null
+    },
+    {
+      "id": "oğlak_s4",
+      "text": "[Oğlak] sütü çok besleyici ve sağlıklıdır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "oğlak_r1",
+      "prompt": "Keçinin yavrusuna ne denir?",
+      "accepted_forms": ["oğlak", "oğlağın", "oğlağı"],
+      "note": null
+    },
+    {
+      "id": "oğlak_r2",
+      "prompt": "Çiftlikte doğan, çocuk keçi adı nedir?",
+      "accepted_forms": ["oğlak", "oğlaklar", "oğlakların"],
+      "note": null
+    }
+  ]
+}

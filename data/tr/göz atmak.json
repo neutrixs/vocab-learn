@@ -1,0 +1,43 @@
+{
+  "word": "göz atmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to glance at, to take a look at, to cast a look, to peek",
+  "sentences": [
+    {
+      "id": "goz_atmak_s1",
+      "text": "Dersten sonra arkadaş tarafından verilen dosyaya [göz attı].",
+      "note": null
+    },
+    {
+      "id": "goz_atmak_s2",
+      "text": "Editör makalenin ilk sayfasına [göz at]madan yayın yapmamış.",
+      "note": null
+    },
+    {
+      "id": "goz_atmak_s3",
+      "text": "Alışveriş merkezinde yeni koleksiyona [göz at]tıktan sonra beğenmedi.",
+      "note": null
+    },
+    {
+      "id": "goz_atmak_s4",
+      "text": "Polis şüpheli araçlara [göz atıyor] ve kontrol ediyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "goz_atmak_r1",
+      "prompt": "Bir şeye kısa bir bakış atmak ne denir?",
+      "accepted_forms": ["göz atmak", "göz attı", "göz atmadan", "göz atıyor"],
+      "note": null
+    },
+    {
+      "id": "goz_atmak_r2",
+      "prompt": "Koleksiyona ___ sonra beğenmedi.",
+      "accepted_forms": ["göz attıktan", "kısaca bakmaktan"],
+      "note": null
+    }
+  ]
+}

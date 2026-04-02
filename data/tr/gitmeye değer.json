@@ -1,0 +1,43 @@
+{
+  "word": "gitmeye değer",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "worth going to, worth visiting, worthwhile to visit",
+  "sentences": [
+    {
+      "id": "gitmeye_deger_s1",
+      "text": "Bu müze Stanbul'da [gitmeye değer] bir yer.",
+      "note": null
+    },
+    {
+      "id": "gitmeye_deger_s2",
+      "text": "Yüzyıl önceki kütüphane [gitmeye değer] midir?",
+      "note": null
+    },
+    {
+      "id": "gitmeye_deger_s3",
+      "text": "Resepsiyon başkanı şehrin [gitmeye değer] yerlerini bize gösterdi.",
+      "note": null
+    },
+    {
+      "id": "gitmeye_deger_s4",
+      "text": "Turist rehberi, [gitmeye değer] daha birçok lokantayı önerdi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gitmeye_deger_r1",
+      "prompt": "Ziyaret etmeye değer olan yer ne denir?",
+      "accepted_forms": ["gitmeye değer", "gitmeye değerdir"],
+      "note": null
+    },
+    {
+      "id": "gitmeye_deger_r2",
+      "prompt": "Bu kütüphane ___ bir yer miydi?",
+      "accepted_forms": ["gitmeye değer", "gitmeye değerdir", "gitmeye değer bir yer"],
+      "note": null
+    }
+  ]
+}

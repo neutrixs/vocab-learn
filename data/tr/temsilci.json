@@ -1,0 +1,38 @@
+{
+  "word": "temsilci",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "representative, delegate, agent",
+  "sentences": [
+    {
+      "id": "temsilci_s1",
+      "text": "Şirketin [temsilci]si toplantıya katılacak.",
+      "note": null
+    },
+    {
+      "id": "temsilci_s2",
+      "text": "Parlamentoda milletinin [temsilci]si vardır.",
+      "note": null
+    },
+    {
+      "id": "temsilci_s3",
+      "text": "Ülkemizin dışişleri [temsilci]si konuşma yaptı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "temsilci_r1",
+      "prompt": "Bir kurum veya grup adına işlem görmek için atanan kişiye ne denir?",
+      "accepted_forms": ["temsilci", "temsilciyi", "temsilciler", "temsilcinin"],
+      "note": null
+    },
+    {
+      "id": "temsilci_r2",
+      "prompt": "Halk oyunu ile seçilen parlamenter kimdir hangi isimle anılır?",
+      "accepted_forms": ["temsilci", "temsilciyi", "temsilciler", "temsilcinin"],
+      "note": null
+    }
+  ]
+}

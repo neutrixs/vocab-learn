@@ -1,0 +1,43 @@
+{
+  "word": "bir çuval inciri berbat etmek",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "phrase",
+  "english_gloss": "to ruin everything, to make a mess of good things, to spoil a whole bunch with one bad element",
+  "sentences": [
+    {
+      "id": "bir_cuval_inciri_berbat_etmek_s1",
+      "text": "Bütün projenin başarısını bir hatası [bir çuval inciri berbat etti].",
+      "note": null
+    },
+    {
+      "id": "bir_cuval_inciri_berbat_etmek_s2",
+      "text": "Davulcu konsertin tamamını [bir çuval inciri berbat etme]miş olsaydı harika olurdu.",
+      "note": null
+    },
+    {
+      "id": "bir_cuval_inciri_berbat_etmek_s3",
+      "text": "Şirketin uzun yıllar kurduğu itibarı bir skandal [bir çuval inciri berbat etti].",
+      "note": null
+    },
+    {
+      "id": "bir_cuval_inciri_berbat_etmek_s4",
+      "text": "Hepsi başarılı oldu ama bir kişi serisini [bir çuval inciri berbat etme]ye devam etti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bir_cuval_inciri_berbat_etmek_r1",
+      "prompt": "Pek çok iyi şeyi bir kötü şeyle mahvetmek ne denir?",
+      "accepted_forms": ["bir çuval inciri berbat etmek", "bir çuval inciri berbat etti", "bir çuval inciri berbat etme"],
+      "note": null
+    },
+    {
+      "id": "bir_cuval_inciri_berbat_etmek_r2",
+      "prompt": "Tüm proje bir hatası ile ___.",
+      "accepted_forms": ["bir çuval inciri berbat oldu", "bir çuval inciri berbat etti"],
+      "note": null
+    }
+  ]
+}

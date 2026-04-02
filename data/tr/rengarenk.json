@@ -1,0 +1,38 @@
+{
+  "word": "rengarenk",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "colorful, multicolored, varied",
+  "sentences": [
+    {
+      "id": "rengarenk_s1",
+      "text": "Pazarda [rengarenk] meyveler satılıyordu.",
+      "note": null
+    },
+    {
+      "id": "rengarenk_s2",
+      "text": "Kız çocuğunun [rengarenk] elbisesi çok güzel görünüyordu.",
+      "note": null
+    },
+    {
+      "id": "rengarenk_s3",
+      "text": "Bu müze [rengarenk] sanat eserlerinden oluşuyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "rengarenk_r1",
+      "prompt": "Birçok farklı rengin bulunduğu anlamına gelen sıfat nedir?",
+      "accepted_forms": ["rengarenk", "rengarenkli", "rengarenk bir"],
+      "note": null
+    },
+    {
+      "id": "rengarenk_r2",
+      "prompt": "Rengârenk nasıl bir çiçek bahçesini tanımlamak için hangi sözcüğü kullanırsın?",
+      "accepted_forms": ["rengarenk", "rengarenkli", "rengarenk bir"],
+      "note": null
+    }
+  ]
+}

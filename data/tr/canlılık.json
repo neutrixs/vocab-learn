@@ -1,0 +1,38 @@
+{
+  "word": "canlılık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "liveliness, vivacity, dynamism",
+  "sentences": [
+    {
+      "id": "canlilik_s1",
+      "text": "Sahnedeki oyuncuların [canlılık]ı seyircileri etkiledi.",
+      "note": null
+    },
+    {
+      "id": "canlilik_s2",
+      "text": "[Canlılık] ve heyecan bu maçın temel özelliğiydi.",
+      "note": null
+    },
+    {
+      "id": "canlilik_s3",
+      "text": "Tasarımın [canlılık]ı tüm iç mekanı aydınlatıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "canlilik_r1",
+      "prompt": "Enerjik ve dinamik bir durumun niteliği nedir?",
+      "accepted_forms": ["canlılık", "canlılığı", "canlılığın", "canlılıkları"],
+      "note": null
+    },
+    {
+      "id": "canlilik_r2",
+      "prompt": "Yaşamın ve hareketin getirdiği coşku ve enerji ne denir?",
+      "accepted_forms": ["canlılık", "canlılığı", "canlılığın", "canlılıkları"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "masumiyet",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "innocence",
+  "sentences": [
+    {
+      "id": "masumiyet_s1",
+      "text": "Çocukların [masumiyet]i çoğu zaman güzeldir.",
+      "note": null
+    },
+    {
+      "id": "masumiyet_s2",
+      "text": "Mahkeme onun [masumiyet]ini kanıtladı ve serbest bıraktı.",
+      "note": null
+    },
+    {
+      "id": "masumiyet_s3",
+      "text": "[Masumiyet] iddianın tersinin kanıtlanması gerekir.",
+      "note": null
+    },
+    {
+      "id": "masumiyet_s4",
+      "text": "Adalet sistemi herkesin [masumiyet]i sayılmasını önemser.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "masumiyet_r1",
+      "prompt": "Bir kişinin suçsuzluğu ve hiçbir yanlışlık yapmadığını ifade eden durum nedir?",
+      "accepted_forms": ["masumiyet", "masumiyeti", "masumiyetin"],
+      "note": null
+    },
+    {
+      "id": "masumiyet_r2",
+      "prompt": "Çocukların ve temiz kalpli insanların sahip olduğu, saf ve suçsuz olma hali nedir?",
+      "accepted_forms": ["masumiyet", "masumiyeti", "masumiyetin"],
+      "note": null
+    }
+  ]
+}

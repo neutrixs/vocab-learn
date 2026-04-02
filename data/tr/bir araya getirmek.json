@@ -1,0 +1,43 @@
+{
+  "word": "bir araya getirmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to bring together, to gather, to unite, to combine",
+  "sentences": [
+    {
+      "id": "bir_araya_getirmek_s1",
+      "text": "Etkinlik tüm taraftarları [bir araya getirdi].",
+      "note": null
+    },
+    {
+      "id": "bir_araya_getirmek_s2",
+      "text": "Proje iki ülkeyi [bir araya getirmek] için tasarlandı.",
+      "note": null
+    },
+    {
+      "id": "bir_araya_getirmek_s3",
+      "text": "Konferans farklı disiplinlerden uzmanları [bir araya getirecek].",
+      "note": null
+    },
+    {
+      "id": "bir_araya_getirmek_s4",
+      "text": "Müdür ekibi [bir araya getirmek] için hafta sonuna bir toplantı planladı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bir_araya_getirmek_r1",
+      "prompt": "Ayrı olan kişi veya şeyleri bir yerde toplamak ne denir?",
+      "accepted_forms": ["bir araya getirmek", "bir araya getirdi", "bir araya getirecek", "bir araya getirme"],
+      "note": null
+    },
+    {
+      "id": "bir_araya_getirmek_r2",
+      "prompt": "İki ülkeyi ___ için konferans düzenlendi.",
+      "accepted_forms": ["bir araya getirmek", "bir araya getirdi", "bir araya getiriyor", "bir araya getirme"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "sakinlik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "calmness, tranquility, serenity",
+  "sentences": [
+    {
+      "id": "sakinlik_s1",
+      "text": "Meditasyonda [sakinlik] buldu.",
+      "note": null
+    },
+    {
+      "id": "sakinlik_s2",
+      "text": "Dağdaki [sakinlik] onu rahatlatmıştı.",
+      "note": null
+    },
+    {
+      "id": "sakinlik_s3",
+      "text": "Kriz zamanında liderimizin [sakinlığ]ı bizi güven verdi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sakinlik_r1",
+      "prompt": "Huzurlu ve sessiz bir durumu ifade eden isim nedir?",
+      "accepted_forms": ["sakinlik", "sakinliği", "sakinliğe", "sakinliğin"],
+      "note": null
+    },
+    {
+      "id": "sakinlik_r2",
+      "prompt": "İçsel barış ve rahatlık hissiyatına ne denir?",
+      "accepted_forms": ["sakinlik", "sakinliği", "sakinliğe", "sakinliğin"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "zafer işareti",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "victory sign (V sign made with fingers)",
+  "sentences": [
+    {
+      "id": "zafer_isareti_s1",
+      "text": "Sporcu maçı kazandıktan sonra kameraya [zafer işareti] yaptı.",
+      "note": null
+    },
+    {
+      "id": "zafer_isareti_s2",
+      "text": "Çocuklar şakacı bir şekilde birbirlerine [zafer işareti] gösterdiler.",
+      "note": null
+    },
+    {
+      "id": "zafer_isareti_s3",
+      "text": "Fotoğrafta [zafer işareti] yaparak başarısını kutladı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "zafer_isareti_r1",
+      "prompt": "Başarı veya zafer anlamında V şeklinde yapılan el işaretinin adı nedir?",
+      "accepted_forms": ["zafer işareti", "zafer isaretı"],
+      "note": null
+    },
+    {
+      "id": "zafer_isareti_r2",
+      "prompt": "İki parmaklı V şeklinde yapılan ve galibiyeti sembolize eden işaret ne diye bilinir?",
+      "accepted_forms": ["zafer işareti", "zafer isaretı"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "tazminat ödemek",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "phrase",
+  "english_gloss": "to pay compensation, to pay damages or indemnity",
+  "sentences": [
+    {
+      "id": "tazminat_odemek_s1",
+      "text": "Şirket işçilerin mağdur olması nedeniyle yüksek [tazminat ödedi].",
+      "note": null
+    },
+    {
+      "id": "tazminat_odemek_s2",
+      "text": "Mahkeme sanığın mağdura [tazminat ödemesine] karar verdi.",
+      "note": null
+    },
+    {
+      "id": "tazminat_odemek_s3",
+      "text": "İmam Hatip Likesi öğrenci haklarını ihlal ettiği için [tazminat ödemek] zorunda kaldı.",
+      "note": null
+    },
+    {
+      "id": "tazminat_odemek_s4",
+      "text": "Kaza sonrası sigorta şirketi zarar görenler için [tazminat ödeyecek].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tazminat_odemek_r1",
+      "prompt": "Bir kişiye verilen zarar veya zararı karşılamak için para vermek ne denir?",
+      "accepted_forms": ["tazminat ödemek", "tazminat ödedi", "tazminat ödeyecek", "tazminat ödemesi"],
+      "note": null
+    },
+    {
+      "id": "tazminat_odemek_r2",
+      "prompt": "Mahkeme sanığın mağdura ___ karar verdi.",
+      "accepted_forms": ["tazminat ödemesine", "tazminat ödeyecek"],
+      "note": null
+    }
+  ]
+}

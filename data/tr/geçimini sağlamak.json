@@ -1,0 +1,43 @@
+{
+  "word": "geçimini sağlamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to make a living, to earn one's keep, to support oneself",
+  "sentences": [
+    {
+      "id": "gecimini_saglamak_s1",
+      "text": "Usta [geçimini sağlamak] için havuzda yüzme dersi veriyordu.",
+      "note": null
+    },
+    {
+      "id": "gecimini_saglamak_s2",
+      "text": "Parasız gelen öğrenci [geçimini sağlamak] için kampüste çalışıyor.",
+      "note": null
+    },
+    {
+      "id": "gecimini_saglamak_s3",
+      "text": "Muhasebeci aile için [geçimini sağla]maya çalışıyor ama zorluyor.",
+      "note": null
+    },
+    {
+      "id": "gecimini_saglamak_s4",
+      "text": "Yazı yazarak [geçimini sağlamak] çok zor, ama gözü pek adamımız bırakmıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gecimini_saglamak_r1",
+      "prompt": "Yaşamını devam ettirmek için gerekli parayı kazanmak ne denir?",
+      "accepted_forms": ["geçimini sağlamak", "geçimini sağlamaya", "geçimini sağlıyor", "geçimini sağladı"],
+      "note": null
+    },
+    {
+      "id": "gecimini_saglamak_r2",
+      "prompt": "Açlıktan ölmemek için kendi parasını ___ lazım.",
+      "accepted_forms": ["geçimini sağlaması", "geçimini kazanması"],
+      "note": null
+    }
+  ]
+}

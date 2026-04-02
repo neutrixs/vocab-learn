@@ -1,0 +1,43 @@
+{
+  "word": "keçi",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "goat",
+  "sentences": [
+    {
+      "id": "keçi_s1",
+      "text": "Köyde birçok [keçi] vardır ve bunlardan süt alınır.",
+      "note": null
+    },
+    {
+      "id": "keçi_s2",
+      "text": "Küçük [keçi]ler çabuk hareket eder ve çevik atlarlar.",
+      "note": null
+    },
+    {
+      "id": "keçi_s3",
+      "text": "[Keçi] sütünden yapılan peynir çok lezzetlidir.",
+      "note": null
+    },
+    {
+      "id": "keçi_s4",
+      "text": "Çiftlikte öğretmen [keçi]yi gösterdi ve çocuklara anlatıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "keçi_r1",
+      "prompt": "Iki boynuzlu, beriki bacaklı, çiftlikte yaşayan hayvan nedir?",
+      "accepted_forms": ["keçi", "keçinin", "keçiyi"],
+      "note": null
+    },
+    {
+      "id": "keçi_r2",
+      "prompt": "Sütünden peynir ve yoğurt yapılan, tarla ve tepelerde gezen hayvan adı nedir?",
+      "accepted_forms": ["keçi", "keçiler", "keçilerin"],
+      "note": null
+    }
+  ]
+}

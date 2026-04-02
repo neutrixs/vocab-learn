@@ -1,0 +1,43 @@
+{
+  "word": "temas etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to make contact, to get in touch, to reach out",
+  "sentences": [
+    {
+      "id": "temas_etmek_s1",
+      "text": "Lütfen sorularınız için iletişim sayfasında bize [temas et]mekten çekinmeyin.",
+      "note": null
+    },
+    {
+      "id": "temas_etmek_s2",
+      "text": "Eski arkadaşı buldu ve onunla telefon yoluyla [temas etti].",
+      "note": null
+    },
+    {
+      "id": "temas_etmek_s3",
+      "text": "Şirketi müdürü potansiyel iş ortağı ile [temas et]meyi planlıyor.",
+      "note": null
+    },
+    {
+      "id": "temas_etmek_s4",
+      "text": "[Temas etme]niz durumunda en kısa zamanda dönüş yapacağız.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "temas_etmek_r1",
+      "prompt": "Birisiyle iletişim kurmak veya irtibat sağlamak ne denir?",
+      "accepted_forms": ["temas etmek", "temas etti", "temas ettim", "temas etmekten"],
+      "note": null
+    },
+    {
+      "id": "temas_etmek_r2",
+      "prompt": "Ona ulaşmak istersen onunla ___ gerek.",
+      "accepted_forms": ["temas etmen", "temas etmen gerekir"],
+      "note": null
+    }
+  ]
+}

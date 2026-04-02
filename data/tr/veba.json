@@ -1,0 +1,38 @@
+{
+  "word": "veba",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "plague, pestilence",
+  "sentences": [
+    {
+      "id": "veba_s1",
+      "text": "Ortaçağ'da [veba] Avrupa'nın nüfusunu önemli ölçüde azalttı.",
+      "note": null
+    },
+    {
+      "id": "veba_s2",
+      "text": "[Veba] hastalığı taşıyan fareler ve sıçanlar çok tehlikeliydi.",
+      "note": null
+    },
+    {
+      "id": "veba_s3",
+      "text": "Halk [veba] salgınından korunmak için çeşitli yöntemler denedi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "veba_r1",
+      "prompt": "Ortaçağ'da Avrupa'nın nüfusunu büyük ölçüde azaltan bulaşıcı hastalığın adı nedir?",
+      "accepted_forms": ["veba", "vebası"],
+      "note": null
+    },
+    {
+      "id": "veba_r2",
+      "prompt": "Sıçanlar tarafından taşınan ve çok ölümlü olan hastalığa ne denir?",
+      "accepted_forms": ["veba", "vebası"],
+      "note": null
+    }
+  ]
+}

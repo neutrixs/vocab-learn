@@ -1,0 +1,43 @@
+{
+  "word": "kolonya",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "cologne (eau de cologne)",
+  "sentences": [
+    {
+      "id": "kolonya_s1",
+      "text": "Türkiye'de misafirlere [kolonya] dökmek saygı ve hoşluk göstergesidir.",
+      "note": null
+    },
+    {
+      "id": "kolonya_s2",
+      "text": "Babamın masasında limon kokunlu [kolonya] şişesi duruyor.",
+      "note": null
+    },
+    {
+      "id": "kolonya_s3",
+      "text": "Düğün ve davetlerde hep [kolonya] sunulur.",
+      "note": null
+    },
+    {
+      "id": "kolonya_s4",
+      "text": "[Kolonya]nın serin kokusu insanı ferahlatır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kolonya_r1",
+      "prompt": "Türklerin misafirlere sunduğu, serin koku olan sıvı nedir?",
+      "accepted_forms": ["kolonya", "kolonyası", "kolonyayı"],
+      "note": null
+    },
+    {
+      "id": "kolonya_r2",
+      "prompt": "Limon veya gül kokulu, özel günlerde tathizat için kullanılan sıvı adı nedir?",
+      "accepted_forms": ["kolonya", "kolonyalar", "kolonyaların"],
+      "note": null
+    }
+  ]
+}
