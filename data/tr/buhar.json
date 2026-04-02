@@ -1,0 +1,38 @@
+{
+  "word": "buhar",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "steam, vapor",
+  "sentences": [
+    {
+      "id": "buhar_s1",
+      "text": "Kaynayan su [buhar]a dönüştü.",
+      "note": null
+    },
+    {
+      "id": "buhar_s2",
+      "text": "[Buhar] makinesinin çalışmasında önemli bir rol oynar.",
+      "note": null
+    },
+    {
+      "id": "buhar_s3",
+      "text": "Mutfakta [buhar]ın yoğunluğu pencereleri buğuladı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "buhar_r1",
+      "prompt": "Kaynayan su ne haline dönüşür?",
+      "accepted_forms": ["buhar", "buhara", "buharı", "buhardan"],
+      "note": null
+    },
+    {
+      "id": "buhar_r2",
+      "prompt": "Endüstride enerji kaynağı olarak kullanılan şey nedir?",
+      "accepted_forms": ["buhar", "buhardan", "buhara", "buharın"],
+      "note": null
+    }
+  ]
+}

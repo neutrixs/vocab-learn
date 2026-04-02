@@ -1,0 +1,38 @@
+{
+  "word": "manastır",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "monastery, convent",
+  "sentences": [
+    {
+      "id": "manastır_s1",
+      "text": "Eski [manastır] tepesinde ihtişamlı bir yapı halinde duruyor.",
+      "note": null
+    },
+    {
+      "id": "manastır_s2",
+      "text": "Rahibeler [manastır]da sessiz bir hayat sürerler.",
+      "note": null
+    },
+    {
+      "id": "manastır_s3",
+      "text": "Bu [manastır] yüzlerce yıldır turizm merkezi olarak bilinmektedir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "manastır_r1",
+      "prompt": "Rahibelerin veya rahiplerin dini yaşamlarını sürdüğü kurum adı nedir?",
+      "accepted_forms": ["manastır", "manastırda", "manastırı"],
+      "note": null
+    },
+    {
+      "id": "manastır_r2",
+      "prompt": "Dini toplulukların toplandığı ve dua ettiği yapı hangisidir?",
+      "accepted_forms": ["manastır", "manastırın", "manastırlar"],
+      "note": null
+    }
+  ]
+}

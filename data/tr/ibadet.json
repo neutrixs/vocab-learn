@@ -1,0 +1,43 @@
+{
+  "word": "ibadet",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "worship, devotion, religious observance",
+  "sentences": [
+    {
+      "id": "ibadet_s1",
+      "text": "Müslümanlar beş vakit [ibadet] kılmakla yükümlüdür.",
+      "note": null
+    },
+    {
+      "id": "ibadet_s2",
+      "text": "[İbadet] ettikten sonra huzurlu bir his yaşıyordu.",
+      "note": null
+    },
+    {
+      "id": "ibadet_s3",
+      "text": "Kütüphanede [ibadet] kitapları vardı.",
+      "note": null
+    },
+    {
+      "id": "ibadet_s4",
+      "text": "Ramazan ayında [ibadet]e daha çok zaman ayrılır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ibadet_r1",
+      "prompt": "Tanrı'ya karşı gösterilen saygı ve hayranlık eylemlerine ne denir?",
+      "accepted_forms": ["ibadet", "ibadeti", "ibadete", "ibadetten"],
+      "note": null
+    },
+    {
+      "id": "ibadet_r2",
+      "prompt": "Dini görevleri yerine getirme anlamına gelen kelime nedir?",
+      "accepted_forms": ["ibadet", "ibadeti", "ibadete", "ibadettir"],
+      "note": null
+    }
+  ]
+}

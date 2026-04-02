@@ -1,0 +1,38 @@
+{
+  "word": "çarmıh",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "cross (religious symbol), crucifix",
+  "sentences": [
+    {
+      "id": "carmih_s1",
+      "text": "Kilisede [çarmıh] sembolü duvarın üzerine asılı idi.",
+      "note": null
+    },
+    {
+      "id": "carmih_s2",
+      "text": "[Çarmıh], Hristiyanlığın en önemli sembollerinden biridir.",
+      "note": null
+    },
+    {
+      "id": "carmih_s3",
+      "text": "Papaz boyununda bir [çarmıh] kolye taşıyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "carmih_r1",
+      "prompt": "Hristiyanlık dininin en temel sembolü nedir?",
+      "accepted_forms": ["çarmıh", "çarmıha", "çarmıhı", "çarmıhtan"],
+      "note": null
+    },
+    {
+      "id": "carmih_r2",
+      "prompt": "Kilisede duvarlar üzerine asılan dini sembol nedir?",
+      "accepted_forms": ["çarmıh", "çarmıh", "çarmıhı", "çarmıha"],
+      "note": null
+    }
+  ]
+}

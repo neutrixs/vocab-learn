@@ -1,0 +1,43 @@
+{
+  "word": "kaplıca",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "hot spring, thermal bath, spa",
+  "sentences": [
+    {
+      "id": "kaplica_s1",
+      "text": "Ailemiz yazlık tatilinde bir [kaplıca]ya gittik.",
+      "note": null
+    },
+    {
+      "id": "kaplica_s2",
+      "text": "[Kaplıca]nın sıcak suyu çok rahatlatıcıydı.",
+      "note": null
+    },
+    {
+      "id": "kaplica_s3",
+      "text": "Bu [kaplıca] romatizmanın tedavisinde faydalıdır.",
+      "note": null
+    },
+    {
+      "id": "kaplica_s4",
+      "text": "[Kaplıca]da yüzme ve dinlenme keyiflidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kaplica_r1",
+      "prompt": "Doğal olarak sıcak olan ve şifa bulunabilen su kaynağı adı nedir?",
+      "accepted_forms": ["kaplıca", "kaplıcada", "kaplıcaya", "kaplıcalar"],
+      "note": null
+    },
+    {
+      "id": "kaplica_r2",
+      "prompt": "Mineralli sıcak suda yüzülüp tedavi gören yerler ne adla anılır?",
+      "accepted_forms": ["kaplıca", "kaplıcada", "kaplıcaları", "kaplıcaya"],
+      "note": null
+    }
+  ]
+}

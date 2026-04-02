@@ -1,0 +1,38 @@
+{
+  "word": "rahibe",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "nun, nun (female religious)",
+  "sentences": [
+    {
+      "id": "rahibe_s1",
+      "text": "Manastırdaki [rahibe]ler sabah namazında toplanırlar.",
+      "note": null
+    },
+    {
+      "id": "rahibe_s2",
+      "text": "Yaşlı [rahibe] öğrencilere ders veriyor.",
+      "note": null
+    },
+    {
+      "id": "rahibe_s3",
+      "text": "[Rahibe]nin siyah elbisesi ve başı kapalı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "rahibe_r1",
+      "prompt": "Manastırda yaşayan ve dini görevleri yerine getiren kadın dini kişi adı nedir?",
+      "accepted_forms": ["rahibe", "rahimenin", "rahileri"],
+      "note": null
+    },
+    {
+      "id": "rahibe_r2",
+      "prompt": "Klosterlerde veya manastırlarda dini yaşam süren bayan için kullanılan kelime hangisidir?",
+      "accepted_forms": ["rahibe", "rahiçi", "rahileri"],
+      "note": null
+    }
+  ]
+}

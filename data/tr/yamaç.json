@@ -1,0 +1,43 @@
+{
+  "word": "yamaç",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "slope, hillside, incline",
+  "sentences": [
+    {
+      "id": "yamac_s1",
+      "text": "Dağın [yamaç]ında çiçekler açıyor.",
+      "note": null
+    },
+    {
+      "id": "yamac_s2",
+      "text": "Koyun sürüsü [yamaç]tan aşağı iniyordu.",
+      "note": null
+    },
+    {
+      "id": "yamac_s3",
+      "text": "[Yamaç]ta yürümek oldukça zorluydu.",
+      "note": null
+    },
+    {
+      "id": "yamac_s4",
+      "text": "Kayakçılar dik [yamaç]lardan kayıyorlardı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yamac_r1",
+      "prompt": "Dağ veya tepenin eğimli yüzeyine ne denir?",
+      "accepted_forms": ["yamaç", "yamacı", "yamacının", "yamacta"],
+      "note": null
+    },
+    {
+      "id": "yamac_r2",
+      "prompt": "Dik ve eğimli toprak yüzeyi nedir?",
+      "accepted_forms": ["yamaç", "yamaçta", "yamacın", "yamacı"],
+      "note": null
+    }
+  ]
+}

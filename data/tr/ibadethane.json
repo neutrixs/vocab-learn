@@ -1,0 +1,43 @@
+{
+  "word": "ibadethane",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "place of worship, shrine, chapel",
+  "sentences": [
+    {
+      "id": "ibadethane_s1",
+      "text": "Eski [ibadethane]de ağırbaşlı bir hava vardı.",
+      "note": null
+    },
+    {
+      "id": "ibadethane_s2",
+      "text": "Kültür merkezi eskinin [ibadethane]sini restore etti.",
+      "note": null
+    },
+    {
+      "id": "ibadethane_s3",
+      "text": "[İbadethane]nin kapıları gündüz açık tutulurdu.",
+      "note": null
+    },
+    {
+      "id": "ibadethane_s4",
+      "text": "Tarihçiler bu [ibadethane]nin yüz yaşında olduğunu söylüyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ibadethane_r1",
+      "prompt": "İbadet etmek için kullanılan bina veya mekan adı nedir?",
+      "accepted_forms": ["ibadethane", "ibadethaneye", "ibadethanesin", "ibadethaneyi"],
+      "note": null
+    },
+    {
+      "id": "ibadethane_r2",
+      "prompt": "Dini törenler ve merasimlerin yapıldığı yer ne adla anılır?",
+      "accepted_forms": ["ibadethane", "ibadethane", "ibadethaneye", "ibadethanesin"],
+      "note": null
+    }
+  ]
+}

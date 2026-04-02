@@ -1,0 +1,43 @@
+{
+  "word": "arkadaş canlısı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "friendly, sociable, having many friends, friend-oriented",
+  "sentences": [
+    {
+      "id": "arkadas_canlisi_s1",
+      "text": "Mehmet çok [arkadaş canlısı] biri olduğu için herkes onunla vakit geçirmek ister.",
+      "note": null
+    },
+    {
+      "id": "arkadas_canlisi_s2",
+      "text": "Siz [arkadaş canlısı] karakterde olduğunuzdan yeni insanlarla tanışmak kolay.",
+      "note": null
+    },
+    {
+      "id": "arkadas_canlisi_s3",
+      "text": "[Arkadaş canlısı] insanlar daha mutlu ve sosyal yaşam sürüyorlar.",
+      "note": null
+    },
+    {
+      "id": "arkadas_canlisi_s4",
+      "text": "Kız kardeşi [arkadaş canlısı] bir kişiliktir, her zaman birilerinin etrafında.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "arkadas_canlisi_r1",
+      "prompt": "Çok sosyal olan ve etrafında daima arkadaş olan, severek onlarla zaman harcayan kişiye ne denir?",
+      "accepted_forms": ["arkadaş canlısı", "arkadaş canlısıdır", "arkadaş canlısı biri", "arkadaş canlısılar"],
+      "note": null
+    },
+    {
+      "id": "arkadas_canlisi_r2",
+      "prompt": "Kütüphanede ders çalışmak yerine daima arkadaşlarıyla saatlerce sohbet eden birine ne denir?",
+      "accepted_forms": ["arkadaş canlısı", "arkadaş canlısıdır", "arkadaş canlısı biri", "arkadaş canlı"],
+      "note": null
+    }
+  ]
+}

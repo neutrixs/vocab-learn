@@ -1,0 +1,43 @@
+{
+  "word": "kırışık",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "wrinkled, creased, crumpled",
+  "sentences": [
+    {
+      "id": "kirisik_s1",
+      "text": "Masadan düşen kağıt [kırışık] oldu.",
+      "note": null
+    },
+    {
+      "id": "kirisik_s2",
+      "text": "Yaşlı adamın yüzü [kırışık]tı.",
+      "note": null
+    },
+    {
+      "id": "kirisik_s3",
+      "text": "[Kırışık] gömleği ütülemem gerekti.",
+      "note": null
+    },
+    {
+      "id": "kirisik_s4",
+      "text": "Çantada taşıdığım elbiseler [kırışık] olmuştu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kirisik_r1",
+      "prompt": "Üzerinde katlanmış veya bozulmuş çizgiler olan kumaş veya kağıt nasıl tanımlanır?",
+      "accepted_forms": ["kırışık", "kırışığı", "kırışık", "kırışıklar"],
+      "note": null
+    },
+    {
+      "id": "kirisik_r2",
+      "prompt": "Pürüzlü ve düz olmayan, çöpten çıkan kağıt gibi bir şeye ne denir?",
+      "accepted_forms": ["kırışık", "kırışıklar", "kırışığım", "kırışığın"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "kutsal",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "sacred, holy",
+  "sentences": [
+    {
+      "id": "kutsal_s1",
+      "text": "Bu [kutsal] mekan sayg ile ziyaret edilmelidir.",
+      "note": null
+    },
+    {
+      "id": "kutsal_s2",
+      "text": "Dini kitaplar birçok kültürde [kutsal] olarak kabul edilir.",
+      "note": null
+    },
+    {
+      "id": "kutsal_s3",
+      "text": "[Kutsal] emanet hiç kimse tarafından rahatsız edilmemelidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kutsal_r1",
+      "prompt": "Din ve inanç açısından saygı ve koruma gereken şeyler için kullanılan sıfat hangisidir?",
+      "accepted_forms": ["kutsal", "kutsala", "kutsalın"],
+      "note": null
+    },
+    {
+      "id": "kutsal_r2",
+      "prompt": "Manastırlar ve tapınaklar gibi dini yapıları tanımlamak için hangi kelime kullanılır?",
+      "accepted_forms": ["kutsal", "kutsalda", "kutsalların"],
+      "note": null
+    }
+  ]
+}

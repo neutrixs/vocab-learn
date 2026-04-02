@@ -1,0 +1,43 @@
+{
+  "word": "içtenlik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "sincerity, genuineness, candor",
+  "sentences": [
+    {
+      "id": "istenlik_s1",
+      "text": "Onun sözlerinde [içtenlik] vardı.",
+      "note": null
+    },
+    {
+      "id": "istenlik_s2",
+      "text": "[İçtenlik] insanlar arasında güven yaratır.",
+      "note": null
+    },
+    {
+      "id": "istenlik_s3",
+      "text": "Konuşmasından [içtenlik] akan bir ses duyuluyordu.",
+      "note": null
+    },
+    {
+      "id": "istenlik_s4",
+      "text": "Dostluk [içtenlik]e dayanmalıdır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "istenlik_r1",
+      "prompt": "Yürekten gelen samimi davranış ve konuşmanın niteliğine ne denir?",
+      "accepted_forms": ["içtenlik", "içtenliği", "içtenliğe", "içtenlikle"],
+      "note": null
+    },
+    {
+      "id": "istenlik_r2",
+      "prompt": "Sahte olmayan, gerçek duygularını gösteren davranışın özelliği nedir?",
+      "accepted_forms": ["içtenlik", "içtenliği", "içtenliğin", "içtenliğe"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "mütevazı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "modest, humble",
+  "sentences": [
+    {
+      "id": "mütevazı_s1",
+      "text": "Başarılı olmasına rağmen çok [mütevazı] bir insan.",
+      "note": null
+    },
+    {
+      "id": "mütevazı_s2",
+      "text": "Bu [mütevazı] ev küçük ama sıcak bir ortam sağlıyor.",
+      "note": null
+    },
+    {
+      "id": "mütevazı_s3",
+      "text": "Öğretmen [mütevazı] bir tavırla dersi anlatıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "mütevazı_r1",
+      "prompt": "Kendisini abartmayan ve alçakgönüllü davranan insanları tanımlamak için hangi sıfat kullanılır?",
+      "accepted_forms": ["mütevazı", "mütevazıca", "mütevazıya"],
+      "note": null
+    },
+    {
+      "id": "mütevazı_r2",
+      "prompt": "Gösterişsiz ve basit bir yaşam tarzını benimseyen kişi nasıl tanımlanır?",
+      "accepted_forms": ["mütevazı", "mütevazıda", "mütevazının"],
+      "note": null
+    }
+  ]
+}

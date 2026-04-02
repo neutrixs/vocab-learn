@@ -1,0 +1,43 @@
+{
+  "word": "pazarlamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to market, to sell, to promote, to persuade to buy",
+  "sentences": [
+    {
+      "id": "pazarlamak_s1",
+      "text": "Şirket yeni ürünü agresif şekilde [pazarl]ıyor.",
+      "note": null
+    },
+    {
+      "id": "pazarlamak_s2",
+      "text": "Satıcı bana ceket [pazarla]maya çalışıyor.",
+      "note": null
+    },
+    {
+      "id": "pazarlamak_s3",
+      "text": "Elektronik ürünleri internette [pazarlamak] çok yaygın.",
+      "note": null
+    },
+    {
+      "id": "pazarlamak_s4",
+      "text": "[Pazarla]dığı ürünler gerçekten kaliteliydi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "pazarlamak_r1",
+      "prompt": "Bir ürünü satmak amacıyla tanıtmak, reklamını yapmak anlamında hangi fiil kullanılır?",
+      "accepted_forms": ["pazarlamak", "pazarlıyor", "pazarladı", "pazarlanır"],
+      "note": null
+    },
+    {
+      "id": "pazarlamak_r2",
+      "prompt": "Müşteriye satın almak için ikna etmek, ürünü promosyonu ne demektir?",
+      "accepted_forms": ["pazarlamak", "pazarlanmak", "pazarlama", "pazarlanacak"],
+      "note": null
+    }
+  ]
+}

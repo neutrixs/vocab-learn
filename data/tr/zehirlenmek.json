@@ -1,0 +1,43 @@
+{
+  "word": "zehirlenmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to be poisoned, to get poisoned",
+  "sentences": [
+    {
+      "id": "zehirlenmek_s1",
+      "text": "Kötü yemekten birçok insan [zehirlen]di.",
+      "note": null
+    },
+    {
+      "id": "zehirlenmek_s2",
+      "text": "Oyuncu tiyatro oyununda [zehirlen]miş gibi sahne aldı.",
+      "note": null
+    },
+    {
+      "id": "zehirlenmek_s3",
+      "text": "Zehirli maddelerden kaçınmak gerekir yoksa [zehirlen]ebilirsin.",
+      "note": null
+    },
+    {
+      "id": "zehirlenmek_s4",
+      "text": "Eski kuyu suyu içen hayvan [zehirlen]mişti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "zehirlenmek_r1",
+      "prompt": "Zararlı veya toksik bir madde vücuda girse ve kişi hastalanırsa bu kişi ne olmuştur?",
+      "accepted_forms": ["zehirlenmiş", "zehirlendi", "zehirlenmek", "zehirlenmişti", "zehirlenebilir"],
+      "note": null
+    },
+    {
+      "id": "zehirlenmek_r2",
+      "prompt": "Yılan sokunca veya zehirli maddeler içilince insan hangi duruma düşer?",
+      "accepted_forms": ["zehirlenme", "zehirlenmek", "zehirlenir", "zehirlenmiş", "zehirlenmektedir"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "konukseverlik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "hospitality, hospitable attitude",
+  "sentences": [
+    {
+      "id": "konukseverlik_s1",
+      "text": "Anadolu'nun [konukseverlik]ı dünyaca tanınmıştır.",
+      "note": null
+    },
+    {
+      "id": "konukseverlik_s2",
+      "text": "Ailesi beni çok iyi ağırladı, bunun [konukseverlik] örneği bir davranıştı.",
+      "note": null
+    },
+    {
+      "id": "konukseverlik_s3",
+      "text": "Bu otelin [konukseverlik]ı ve hizmeti mükemmel.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "konukseverlik_r1",
+      "prompt": "Misafirlere karşı gösterilen sıcak ve cömert davranışa ne denir?",
+      "accepted_forms": ["konukseverlik", "konukseverliği", "konukseverliğin"],
+      "note": null
+    },
+    {
+      "id": "konukseverlik_r2",
+      "prompt": "Bir toplumun misafir ağırlamada gösterdiği nezaket ve cömertliği tanımlayan kelime hangisidir?",
+      "accepted_forms": ["konukseverlik", "konukseverliği", "konukseverliğe"],
+      "note": null
+    }
+  ]
+}

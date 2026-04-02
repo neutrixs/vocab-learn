@@ -1,0 +1,38 @@
+{
+  "word": "gezgin",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "traveler, wanderer, tourist",
+  "sentences": [
+    {
+      "id": "gezgin_s1",
+      "text": "[Gezgin] yolculuklarını bir deftere not ediyor.",
+      "note": null
+    },
+    {
+      "id": "gezgin_s2",
+      "text": "Dünya turuna çıkan [gezgin]ler birçok ülke görmüştür.",
+      "note": null
+    },
+    {
+      "id": "gezgin_s3",
+      "text": "[Gezgin]in sırt çantası her yerde takıldığı görülüyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gezgin_r1",
+      "prompt": "Dünyanın çeşitli yerlerini gezmeyi sevip seyahat eden kişi ne adıyla bilinir?",
+      "accepted_forms": ["gezgin", "gezgini", "gezginin", "gezginler"],
+      "note": null
+    },
+    {
+      "id": "gezgin_r2",
+      "prompt": "Çanta ile yol yürüyen ve farklı yerleri keşfeden kişi kim?",
+      "accepted_forms": ["gezgin", "gezgin", "gezgini", "gezgindir"],
+      "note": null
+    }
+  ]
+}

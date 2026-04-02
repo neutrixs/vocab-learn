@@ -1,0 +1,38 @@
+{
+  "word": "turizm elçisi",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "tourism ambassador, tourism envoy",
+  "sentences": [
+    {
+      "id": "turizm_elcisi_s1",
+      "text": "Ülkemizin [turizm elçisi] Avrupa ülkelerini ziyaret etti.",
+      "note": null
+    },
+    {
+      "id": "turizm_elcisi_s2",
+      "text": "[Turizm elçisi]si olarak çeşitli etkinliklere katılıyor.",
+      "note": null
+    },
+    {
+      "id": "turizm_elcisi_s3",
+      "text": "Yeni [turizm elçisi] turist sayısını arttırmak için çalışıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "turizm_elcisi_r1",
+      "prompt": "Ülkesinin turizm alanındaki temsilciliğini yapan kişiye ne denir?",
+      "accepted_forms": ["turizm elçisi", "turizm elçisine", "turizm elçisinin", "turizm elçisinin"],
+      "note": null
+    },
+    {
+      "id": "turizm_elcisi_r2",
+      "prompt": "Uluslararası turizm faaliyetlerinde ülkeyi temsil eden görevli kimdir?",
+      "accepted_forms": ["turizm elçisi", "turizm elçisiye", "turizm elçisinin", "turizm elçisini"],
+      "note": null
+    }
+  ]
+}

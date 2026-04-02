@@ -1,0 +1,43 @@
+{
+  "word": "kısıtlı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "limited, restricted, confined",
+  "sentences": [
+    {
+      "id": "kisitli_s1",
+      "text": "Benim bütçem oldukça [kısıtlı]dır.",
+      "note": null
+    },
+    {
+      "id": "kisitli_s2",
+      "text": "[Kısıtlı] miktarda yemek aldık.",
+      "note": null
+    },
+    {
+      "id": "kisitli_s3",
+      "text": "Hapisanede mahkumun hareketleri [kısıtlı]dır.",
+      "note": null
+    },
+    {
+      "id": "kisitli_s4",
+      "text": "Pandemi sırasında seyahat imkanları [kısıtlı] idi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kisitli_r1",
+      "prompt": "Özgürlüğü veya yapılabilecek şeyler azaltılmış durumda olan ne adla tanımlanır?",
+      "accepted_forms": ["kısıtlı", "kısıtlıdır", "kısıtlıyım", "kısıtlı"],
+      "note": null
+    },
+    {
+      "id": "kisitli_r2",
+      "prompt": "Yeterli olmayan, az miktarda olan durum veya şey nasıl ifade edilir?",
+      "accepted_forms": ["kısıtlı", "kısıtlı", "kısıtlıyım", "kısıtlısı"],
+      "note": null
+    }
+  ]
+}

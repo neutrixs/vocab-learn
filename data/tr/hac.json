@@ -1,0 +1,38 @@
+{
+  "word": "hac",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "pilgrimage (especially Islamic pilgrimage to Mecca), hajj",
+  "sentences": [
+    {
+      "id": "hac_s1",
+      "text": "Müslümanlar gücü yettiği sürece [hac]c gitmek istiyorlar.",
+      "note": null
+    },
+    {
+      "id": "hac_s2",
+      "text": "[Hac] yolculuğu, İslam dininin beş temel sütününden biridir.",
+      "note": null
+    },
+    {
+      "id": "hac_s3",
+      "text": "Babası [hac]cı dönüşünde çok mutlu görünüyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hac_r1",
+      "prompt": "Müslümanların Mekke'ye yaptığı dini yolculuğun adı nedir?",
+      "accepted_forms": ["hac", "hacı", "hacca", "hacdan"],
+      "note": null
+    },
+    {
+      "id": "hac_r2",
+      "prompt": "İslam dininin beş sütünden biri olan dini sorumluluk nedir?",
+      "accepted_forms": ["hac", "hac", "hacca", "hacı"],
+      "note": null
+    }
+  ]
+}

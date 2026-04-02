@@ -1,0 +1,38 @@
+{
+  "word": "patlak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective, noun",
+  "english_gloss": "burst, punctured, crack (adj/n)",
+  "sentences": [
+    {
+      "id": "patlak_s1",
+      "text": "Lastik [patlak] oldu ve yola çıkamadık.",
+      "note": null
+    },
+    {
+      "id": "patlak_s2",
+      "text": "Camda büyük bir [patlak] var.",
+      "note": null
+    },
+    {
+      "id": "patlak_s3",
+      "text": "[Patlak] çanta taşıyamayacak kadar eski.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "patlak_r1",
+      "prompt": "Lastik veya balonunun hava çıkması sonucunda ne olur?",
+      "accepted_forms": ["patlak", "patlamak", "patladı"],
+      "note": null
+    },
+    {
+      "id": "patlak_r2",
+      "prompt": "Cam veya seramik yüzeyde oluşan kırılma veya çatlak için kullanılan kelime nedir?",
+      "accepted_forms": ["patlak", "patlağı", "patlaklara"],
+      "note": null
+    }
+  ]
+}

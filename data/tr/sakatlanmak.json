@@ -1,0 +1,43 @@
+{
+  "word": "sakatlanmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to be injured, to become disabled, to get hurt",
+  "sentences": [
+    {
+      "id": "sakatlanmak_s1",
+      "text": "Futbol oynarken [sakatlan]dı ve ayağını incitti.",
+      "note": null
+    },
+    {
+      "id": "sakatlanmak_s2",
+      "text": "Ünlü oyuncu bir kazada [sakatlan]mış.",
+      "note": null
+    },
+    {
+      "id": "sakatlanmak_s3",
+      "text": "Sporculuğu bitmedi, diye [sakatlan]mamak için çok dikkatli.",
+      "note": null
+    },
+    {
+      "id": "sakatlanmak_s4",
+      "text": "[Sakatlan]ırsa spor kariyeri bitebilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sakatlanmak_r1",
+      "prompt": "Sporcu bir kaza sonucu yaralanır ve bedensel olarak zarar görürse, bu durumu ifade etmek için hangi fiili kullanırız?",
+      "accepted_forms": ["sakatlanmak", "sakatlandı", "sakatlanmış", "sakatlanır", "sakatlanmıştır"],
+      "note": null
+    },
+    {
+      "id": "sakatlanmak_r2",
+      "prompt": "Bacağını çok ağır şekilde inciten biri ne olmuştur?",
+      "accepted_forms": ["sakatlanmıştır", "sakatlandı", "sakatlanmış", "sakatlanabilir"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "hacı",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "pilgrim, someone who has made the hajj pilgrimage to Mecca",
+  "sentences": [
+    {
+      "id": "haci_s1",
+      "text": "[Hacı] Ahmed, Mekke'ye gittikten sonra çok huzurlu görünüyor.",
+      "note": null
+    },
+    {
+      "id": "haci_s2",
+      "text": "Köyümüzde birçok [hacı] vardır ve herkes onlara saygı gösterir.",
+      "note": null
+    },
+    {
+      "id": "haci_s3",
+      "text": "[Hacı]ların başlarında özel başlık bulunur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "haci_r1",
+      "prompt": "Mekke'ye hacca gidip dönmüş Müslüman kişiye ne denir?",
+      "accepted_forms": ["hacı", "hacıya", "hacının", "hacılar"],
+      "note": null
+    },
+    {
+      "id": "haci_r2",
+      "prompt": "Dini görevini yerine getirip Mekke'ye gitmek ile elde edilen unvan nedir?",
+      "accepted_forms": ["hacı", "hacı", "hacıya", "hacının"],
+      "note": null
+    }
+  ]
+}

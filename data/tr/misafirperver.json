@@ -1,0 +1,38 @@
+{
+  "word": "misafirperver",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "hospitable, welcoming to guests",
+  "sentences": [
+    {
+      "id": "misafirperver_s1",
+      "text": "Aile çok [misafirperver] ve beni sıcak karşıladı.",
+      "note": null
+    },
+    {
+      "id": "misafirperver_s2",
+      "text": "Bu bölgenin [misafirperver] insanları vardır.",
+      "note": null
+    },
+    {
+      "id": "misafirperver_s3",
+      "text": "[Misafirperver] ev sahipleri misafirlerine en iyi sofraları hazırlarlar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "misafirperver_r1",
+      "prompt": "Misafirleri sıcak ve cömert bir şekilde ağırlayan kişi için kullanılan sıfat nedir?",
+      "accepted_forms": ["misafirperver", "misafirperveri", "misafirperverce"],
+      "note": null
+    },
+    {
+      "id": "misafirperver_r2",
+      "prompt": "Konuklarını memnun etmekten hoşlanan ve onlara iyi davranış gösteren kimsenin niteliği nedir?",
+      "accepted_forms": ["misafirperver", "misafirperverin", "misafirpervercesi"],
+      "note": null
+    }
+  ]
+}

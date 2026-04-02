@@ -1,0 +1,43 @@
+{
+  "word": "ikon",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "icon, religious image, symbol",
+  "sentences": [
+    {
+      "id": "ikon_s1",
+      "text": "Kilisede eski bir [ikon] vardı.",
+      "note": null
+    },
+    {
+      "id": "ikon_s2",
+      "text": "[İkon]un altında Yunanca yazılar vardı.",
+      "note": null
+    },
+    {
+      "id": "ikon_s3",
+      "text": "Bu [ikon] Bizans döneminden kalmıştır.",
+      "note": null
+    },
+    {
+      "id": "ikon_s4",
+      "text": "Müze sanatçısı [ikon]u dikkatle restore etti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ikon_r1",
+      "prompt": "Kilise veya Doğu Ortodoks geleneğinde kutsal kişilerin tasvirleri ne adla anılır?",
+      "accepted_forms": ["ikon", "ikonu", "ikona", "ikonda"],
+      "note": null
+    },
+    {
+      "id": "ikon_r2",
+      "prompt": "Dini amaçlarla yapılan kutsal resim veya sembol nedir?",
+      "accepted_forms": ["ikon", "ikonu", "ikonlar", "ikona"],
+      "note": null
+    }
+  ]
+}

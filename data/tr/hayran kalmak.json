@@ -1,0 +1,43 @@
+{
+  "word": "hayran kalmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to be amazed, to be impressed, to admire",
+  "sentences": [
+    {
+      "id": "hayran_kalmak_s1",
+      "text": "Müze yapılarını görünce [hayran kal]dı.",
+      "note": null
+    },
+    {
+      "id": "hayran_kalmak_s2",
+      "text": "Sanatçının yeteneklerine [hayran kal]dık.",
+      "note": null
+    },
+    {
+      "id": "hayran_kalmak_s3",
+      "text": "Sonbaharda kızıl yapraklara [hayran kal]ıyorum.",
+      "note": null
+    },
+    {
+      "id": "hayran_kalmak_s4",
+      "text": "Doktor [hayran kal]acak bu teşhisle.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hayran_kalmak_r1",
+      "prompt": "Birinin veya birşeyin güzelliğine, başarısına karşı duyulan hayranlığı ifade eden fiil hangisi?",
+      "accepted_forms": ["hayran kalmak", "hayran kaldı", "hayran kalıyor", "hayran kaldık"],
+      "note": null
+    },
+    {
+      "id": "hayran_kalmak_r2",
+      "prompt": "Bir şeyden çok etkilenmek, beğenmek ne demektir?",
+      "accepted_forms": ["hayran kalmak", "hayran kalır", "hayran kaldı", "hayran kalacak"],
+      "note": null
+    }
+  ]
+}

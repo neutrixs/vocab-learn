@@ -1,0 +1,43 @@
+{
+  "word": "keselenmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to become angry, to get upset, to get irritated",
+  "sentences": [
+    {
+      "id": "keselenmek_s1",
+      "text": "Kız arkadaşına [keselen]di, konuşmak istemiyor.",
+      "note": null
+    },
+    {
+      "id": "keselenmek_s2",
+      "text": "Öğretmen sürekli uyarılara [keselen]mişti.",
+      "note": null
+    },
+    {
+      "id": "keselenmek_s3",
+      "text": "Annesi ona çok bağırınca [keselen]iyor.",
+      "note": null
+    },
+    {
+      "id": "keselenmek_s4",
+      "text": "Onun tavırlarından [keselen]ecek misin?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "keselenmek_r1",
+      "prompt": "Kızgınlık ve öfke hissetmek anlamında hangi fiil kullanılır?",
+      "accepted_forms": ["keselenmek", "keselendi", "keselenmiş", "keselenecek"],
+      "note": null
+    },
+    {
+      "id": "keselenmek_r2",
+      "prompt": "Birinin davranışından sinirlenmek ne demektir?",
+      "accepted_forms": ["keselenmek", "keselenme", "keselenirsen", "keselenmişti"],
+      "note": null
+    }
+  ]
+}

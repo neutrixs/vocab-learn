@@ -1,0 +1,43 @@
+{
+  "word": "süslenmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to get dressed up, to adorn oneself, to decorate",
+  "sentences": [
+    {
+      "id": "suslenmek_s1",
+      "text": "Kız arkadaşı davet için güzel [süslen]di.",
+      "note": null
+    },
+    {
+      "id": "suslenmek_s2",
+      "text": "Bayram günü çocuklar renkli kıyafetlerle [süslen]iyorlar.",
+      "note": null
+    },
+    {
+      "id": "suslenmek_s3",
+      "text": "Doktor olmadan önce aynaya bakıp saçını [süslen]mesi iyi olur.",
+      "note": null
+    },
+    {
+      "id": "suslenmek_s4",
+      "text": "Geline gelin olması için saatler boyunca [süslen]di.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "suslenmek_r1",
+      "prompt": "Kız kardeşin özel bir günde güzel görünmek için kıyafet giyip makyaj yapıyorsa, o ne yapıyor?",
+      "accepted_forms": ["süsleniyor", "süslendi", "süslenmek", "süslenmiş", "süslenmeli"],
+      "note": null
+    },
+    {
+      "id": "suslenmek_r2",
+      "prompt": "Parti öncesinde saçını, makyajını ve kıyafetini düzenlemek için ne yapmalı?",
+      "accepted_forms": ["süslenmek", "süslenmeli", "süslenmen gerekiyor", "süslenmişsin", "süslenirsin"],
+      "note": null
+    }
+  ]
+}

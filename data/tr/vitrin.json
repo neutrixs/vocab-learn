@@ -1,0 +1,38 @@
+{
+  "word": "vitrin",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "shop window, display case, showcase",
+  "sentences": [
+    {
+      "id": "vitrin_s1",
+      "text": "Mağazanın [vitrin]inde yeni koleksiyon sergileniyor.",
+      "note": null
+    },
+    {
+      "id": "vitrin_s2",
+      "text": "[Vitrin]deki elbiseler çok güzel tasarlanmış.",
+      "note": null
+    },
+    {
+      "id": "vitrin_s3",
+      "text": "Pasaj içindeki her dükkanın kendi [vitrin]i var.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "vitrin_r1",
+      "prompt": "Mağaza önündeki, ürünleri gösteren cam kutuya ne denir?",
+      "accepted_forms": ["vitrin", "vitrini", "vitrinde", "vitrinin"],
+      "note": null
+    },
+    {
+      "id": "vitrin_r2",
+      "prompt": "Alışveriş merkezinde eşyaların sergilendiği yerdir?",
+      "accepted_forms": ["vitrin", "vitrinde", "vitrini", "vitrinler"],
+      "note": null
+    }
+  ]
+}

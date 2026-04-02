@@ -1,0 +1,38 @@
+{
+  "word": "buruşuk",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "wrinkled, creased, crumpled",
+  "sentences": [
+    {
+      "id": "burusuk_s1",
+      "text": "Gömleğim çamaşırdan çıkınca [buruşuk] görünüyordu.",
+      "note": null
+    },
+    {
+      "id": "burusuk_s2",
+      "text": "[Buruşuk] kağıdı düzeltmek için ütü kullandı.",
+      "note": null
+    },
+    {
+      "id": "burusuk_s3",
+      "text": "Yaşlı adamın [buruşuk] yüzü birçok hikaye anlattı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "burusuk_r1",
+      "prompt": "Ezilmiş ve kırışmış bir şeyi tanımlamak için hangi sıfat kullanılır?",
+      "accepted_forms": ["buruşuk", "buruşuğu", "buruşuğun", "buruşuk"],
+      "note": null
+    },
+    {
+      "id": "burusuk_r2",
+      "prompt": "Ütüden çıkmış gibi pürüzsüz olmayan kumaş nasıl görünür?",
+      "accepted_forms": ["buruşuk", "buruşuğu", "buruşuktur", "buruşuk"],
+      "note": null
+    }
+  ]
+}

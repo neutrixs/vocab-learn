@@ -1,0 +1,38 @@
+{
+  "word": "geçim",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "livelihood, living, means of subsistence",
+  "sentences": [
+    {
+      "id": "gecim_s1",
+      "text": "Ailesinin [geçim]i otopark işletmesinden gelir.",
+      "note": null
+    },
+    {
+      "id": "gecim_s2",
+      "text": "[Geçim] derde düşünce insanlar zor durumdadır.",
+      "note": null
+    },
+    {
+      "id": "gecim_s3",
+      "text": "Balık tutmak onun ana [geçim] kaynağıdır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gecim_r1",
+      "prompt": "Birinin yaşaması için gerekli para ve kaynaklar hangi kelime ile adlandırılır?",
+      "accepted_forms": ["geçim", "geçimi", "geçimden", "geçime"],
+      "note": null
+    },
+    {
+      "id": "gecim_r2",
+      "prompt": "İnsanların yaşayıp karnını doyurması için yapması gereken şey nedir?",
+      "accepted_forms": ["geçim", "geçim", "geçimi", "geçimle"],
+      "note": null
+    }
+  ]
+}

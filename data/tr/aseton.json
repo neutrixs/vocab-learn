@@ -1,0 +1,38 @@
+{
+  "word": "aseton",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "acetone, solvent used in nail polish remover",
+  "sentences": [
+    {
+      "id": "aseton_s1",
+      "text": "Tırnak cilası çıkarmak için [aseton] kullanıldı.",
+      "note": null
+    },
+    {
+      "id": "aseton_s2",
+      "text": "[Aseton] kimya laboratuvarında önemli bir çözücüdür.",
+      "note": null
+    },
+    {
+      "id": "aseton_s3",
+      "text": "Güzellik salonunda [aseton] ile tırnak temizliği yapılır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "aseton_r1",
+      "prompt": "Tırnak cilasını çıkarmak için hangi kimyasal madde kullanılır?",
+      "accepted_forms": ["aseton", "asetonu", "asetonda", "asetonda"],
+      "note": null
+    },
+    {
+      "id": "aseton_r2",
+      "prompt": "Organik çözücü olarak laboratuvarda sıkça kullanılan maddenin adı nedir?",
+      "accepted_forms": ["aseton", "aseton", "asetona", "asetoni"],
+      "note": null
+    }
+  ]
+}

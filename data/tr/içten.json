@@ -1,0 +1,43 @@
+{
+  "word": "içten",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "sincere, heartfelt, candid",
+  "sentences": [
+    {
+      "id": "isten_s1",
+      "text": "Ona [içten] bir şekilde özür diledim.",
+      "note": null
+    },
+    {
+      "id": "isten_s2",
+      "text": "Arkadaşın sana verdiği tavsiyeler çok [içten] ve dürüstçü.",
+      "note": null
+    },
+    {
+      "id": "isten_s3",
+      "text": "[İçten] gelen hisler en doğru hislerdir.",
+      "note": null
+    },
+    {
+      "id": "isten_s4",
+      "text": "Sohbetimiz [içten] ve rahatlatıcı olmuştu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "isten_r1",
+      "prompt": "Yürekten gelen, samimi anlamına gelen sıfat nedir?",
+      "accepted_forms": ["içten", "içteni", "içteniyim", "içtendir"],
+      "note": null
+    },
+    {
+      "id": "isten_r2",
+      "prompt": "Aldatmalı olmayan, gerçek anlamını gösteren kelime hangisidir?",
+      "accepted_forms": ["içten", "içteni", "içtene", "içtenden"],
+      "note": null
+    }
+  ]
+}

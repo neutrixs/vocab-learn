@@ -1,0 +1,38 @@
+{
+  "word": "çekyat",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "daybed, sofa bed, convertible couch",
+  "sentences": [
+    {
+      "id": "cekyat_s1",
+      "text": "Oturma odasında bir [çekyat] var; gece yatak olur.",
+      "note": null
+    },
+    {
+      "id": "cekyat_s2",
+      "text": "[Çekyat]ı açınca çok rahat bir yatak oldu.",
+      "note": null
+    },
+    {
+      "id": "cekyat_s3",
+      "text": "Misafirlerin geldiği zaman [çekyat] sayesinde yer bulduk.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "cekyat_r1",
+      "prompt": "Gündüz kanepe, gece yatak olan meşe nedir?",
+      "accepted_forms": ["çekyat", "çekyatı", "çekyata", "çekyattan"],
+      "note": null
+    },
+    {
+      "id": "cekyat_r2",
+      "prompt": "Dar evlerde yer kaydırmak için kullanılan açılıp kapanan oturak hangi isimle bilinir?",
+      "accepted_forms": ["çekyat", "çekyat", "çekyatı", "çekyata"],
+      "note": null
+    }
+  ]
+}

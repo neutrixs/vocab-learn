@@ -1,0 +1,43 @@
+{
+  "word": "oyalanmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to be distracted, to dilly-dally, to waste time, to be detained",
+  "sentences": [
+    {
+      "id": "oyalanmak_s1",
+      "text": "Oğlan yolda [oyalan]dı, okula geç kaldı.",
+      "note": null
+    },
+    {
+      "id": "oyalanmak_s2",
+      "text": "Pazarda birçok vitrin beni [oyala]dı.",
+      "note": null
+    },
+    {
+      "id": "oyalanmak_s3",
+      "text": "Telefona [oyalan]ırsan ders yapamazsın.",
+      "note": null
+    },
+    {
+      "id": "oyalanmak_s4",
+      "text": "[Oyalan]mayın, hemen başlayalım!",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "oyalanmak_r1",
+      "prompt": "Zamanı boşa harcamak, yapılması gereken işi ertelemek anlamına gelen fiil nedir?",
+      "accepted_forms": ["oyalanmak", "oyalandı", "oyalanır", "oyalanıyorum"],
+      "note": null
+    },
+    {
+      "id": "oyalanmak_r2",
+      "prompt": "Bir işi yapmaya zaman bulamadan geri kalmak ne demektir?",
+      "accepted_forms": ["oyalanmak", "oyalanmak", "oyalanarak", "oyalanacak"],
+      "note": null
+    }
+  ]
+}

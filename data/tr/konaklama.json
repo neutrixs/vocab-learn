@@ -1,0 +1,43 @@
+{
+  "word": "konaklama",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "accommodation, lodging, overnight stay",
+  "sentences": [
+    {
+      "id": "konaklama_s1",
+      "text": "Tatil için [konaklama] reservasyonu yaptım.",
+      "note": null
+    },
+    {
+      "id": "konaklama_s2",
+      "text": "Otel [konaklama] bedeli ücretsizdi.",
+      "note": null
+    },
+    {
+      "id": "konaklama_s3",
+      "text": "[Konaklama]nızın konforlu olması diliyoruz.",
+      "note": null
+    },
+    {
+      "id": "konaklama_s4",
+      "text": "Bu şehirde uygun fiyatlı [konaklama] seçenekleri vardır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "konaklama_r1",
+      "prompt": "Geceyi geçirmek için bir yere kalış anlamına gelen kelime nedir?",
+      "accepted_forms": ["konaklama", "konaklamas", "konaklama", "konaklamanın"],
+      "note": null
+    },
+    {
+      "id": "konaklama_r2",
+      "prompt": "Seyahat sırasında otele gelmek anlamını taşıyan isim ne adla anılır?",
+      "accepted_forms": ["konaklama", "konaklamaya", "konaklamalar", "konaklamas"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "gondol",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "gondola (traditional Venetian boat)",
+  "sentences": [
+    {
+      "id": "gondol_s1",
+      "text": "Venedikte [gondol]lar ana ulaşım aracı olarak kullanılır.",
+      "note": null
+    },
+    {
+      "id": "gondol_s2",
+      "text": "[Gondol]da oturup kanaldan geçmek çok romantiktir.",
+      "note": null
+    },
+    {
+      "id": "gondol_s3",
+      "text": "[Gondol]un çok derin tarihçesi vardır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gondol_r1",
+      "prompt": "Venedikte su kanallarında kullanılan geleneksel teknesi ne denir?",
+      "accepted_forms": ["gondol", "gondola", "gondolu", "gondolda"],
+      "note": null
+    },
+    {
+      "id": "gondol_r2",
+      "prompt": "İtalya'nın Venediğinde insanlar hangi tür tekneye biner?",
+      "accepted_forms": ["gondol", "gondol", "gondolu", "gondola"],
+      "note": null
+    }
+  ]
+}

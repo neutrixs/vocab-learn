@@ -1,0 +1,43 @@
+{
+  "word": "ısırmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to bite",
+  "sentences": [
+    {
+      "id": "isirmak_s1",
+      "text": "Köpek postacıyı [ısır]dı.",
+      "note": null
+    },
+    {
+      "id": "isirmak_s2",
+      "text": "Sivrisinek beni [ısır]mış, kaşıntı var.",
+      "note": null
+    },
+    {
+      "id": "isirmak_s3",
+      "text": "Öğrenci kalemini [ısır]ıyor.",
+      "note": null
+    },
+    {
+      "id": "isirmak_s4",
+      "text": "Balık yemi [ısır]ır mı acaba?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "isirmak_r1",
+      "prompt": "Hayvanın dişleriyle sıkıca kapatması anlamına gelen fiil nedir?",
+      "accepted_forms": ["ısırmak", "ısırdı", "ısırıyor", "ısırır"],
+      "note": null
+    },
+    {
+      "id": "isirmak_r2",
+      "prompt": "Köpek veya sivrisinek hareketi tanımlamak için hangi fiil kullanılır?",
+      "accepted_forms": ["ısırmak", "ısırdı", "ısırma", "ısırıyor"],
+      "note": null
+    }
+  ]
+}

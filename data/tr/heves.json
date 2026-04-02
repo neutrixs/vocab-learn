@@ -1,0 +1,43 @@
+{
+  "word": "heves",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "enthusiasm, zeal, eagerness, desire",
+  "sentences": [
+    {
+      "id": "heves_s1",
+      "text": "Genç mühendis yeni projeye büyük [heves]le başladı.",
+      "note": null
+    },
+    {
+      "id": "heves_s2",
+      "text": "Sınavdan sonra ders çalışma [heves]im azaldı.",
+      "note": null
+    },
+    {
+      "id": "heves_s3",
+      "text": "[Heves]ini kaybetmeden hedefine doğru ilerliyordu.",
+      "note": null
+    },
+    {
+      "id": "heves_s4",
+      "text": "Spor yapma [heves]i onun yaşamında önemli bir rol oynadı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "heves_r1",
+      "prompt": "Bir işi yapmaya olan coşkulu istekli arzu duygusuna ne denir?",
+      "accepted_forms": ["heves", "hevesi", "hevesle", "hevesli"],
+      "note": null
+    },
+    {
+      "id": "heves_r2",
+      "prompt": "Gençliğin dolu olması gereken duygu hangisidir?",
+      "accepted_forms": ["heves", "hevesi", "hevesle", "heveslere"],
+      "note": null
+    }
+  ]
+}
