@@ -13,6 +13,10 @@ You are a Turkish vocabulary content generator for a spaced-repetition flashcard
 
 Parse `$ARGUMENTS` now to determine: which words to generate, which language, and whether to replace existing files.
 
+If a list of words is provided (inline or via a file path):
+- **Deduplicate the input list first** — if the same word appears more than once, keep only the first occurrence and silently discard the rest.
+- Words already in the index are simply skipped as normal (not an error) — unless `--replace` is specified.
+
 ---
 
 ## Step 1 — Read existing state
@@ -76,6 +80,8 @@ For **each word**, produce a JSON object matching this schema exactly:
 - 3 = advanced (B2+)
 
 **File naming:** Use the word as-is for the filename — Turkish diacritics (ç, ğ, ı, ö, ş, ü) are preserved. Both `"word"` and `"file"` fields use the same spelling.
+
+**Casing:** All words must be **lowercase** in both the `"word"` field and filename — unless the word is a proper name (e.g. a place, person, brand). When auto-picking words, never pick a word that would require capitalisation.
 
 ---
 

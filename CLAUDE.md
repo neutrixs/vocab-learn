@@ -82,3 +82,9 @@ make build            # builds frontend + Go binary → bin/server
 - Word index: `data/{lang}/_index.json`
 - SQLite: `vocab-learn.db` (users + progress tables)
 - localStorage: `vocab_progress_v1` (offline cache), `vocab_auth` (JWT token)
+
+## Data Directory Rules
+
+- **Never use the Read tool on `data/`** — the directory contains thousands of files and is too large to browse or read directly.
+- **Always interact with `data/` programmatically** — use `jq`, shell scripts, or Python.
+- **If reading is truly unavoidable**, limit output length (e.g. `head`, `jq` with `limit/2`, or `--head-limit` on Grep).
