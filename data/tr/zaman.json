@@ -34,7 +34,7 @@
   "recall_prompts": [
     {
       "id": "zaman_r1",
-      "prompt": "Arkadaşın 'Ne zaman buluşabiliriz?' diye soruyor. 'Boş ..ım olunca seni ararım.' diyorsun.",
+      "prompt": "Arkadaşın 'Ne zaman buluşabiliriz?' diye soruyor. 'Boş ...ım olunca seni ararım.' diyorsun.",
       "accepted_forms": [
         "zamanım",
         "zaman",

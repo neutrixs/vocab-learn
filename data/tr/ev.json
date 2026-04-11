@@ -29,7 +29,7 @@
   "recall_prompts": [
     {
       "id": "ev_r1",
-      "prompt": "İş çıkışı nereye gidiyorsun? 'Doğruca ..e gidiyorum.' dersin.",
+      "prompt": "İş çıkışı nereye gidiyorsun? 'Doğruca ...e gidiyorum.' dersin.",
       "accepted_forms": [
         "eve",
         "ev",

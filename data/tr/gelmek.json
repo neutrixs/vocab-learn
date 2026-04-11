@@ -39,7 +39,7 @@
     },
     {
       "id": "gelmek_r2",
-      "prompt": "Dün partiye katıldın. 'Partiye ne zaman ..?' sorusuna cevap ver.",
+      "prompt": "Dün partiye katıldın. 'Partiye ne zaman ...?' sorusuna cevap ver.",
       "accepted_forms": [
         "geldim",
         "geldin",

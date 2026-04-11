@@ -29,7 +29,7 @@
   "recall_prompts": [
     {
       "id": "uyumak_r1",
-      "prompt": "Gece geç saatlere ....",
+      "prompt": "Gece geç saatlere ...",
       "accepted_forms": [
         "uyudum",
         "yattım"

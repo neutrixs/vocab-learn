@@ -19,7 +19,7 @@
     },
     {
       "id": "icmek_r2",
-      "prompt": "Arkadaşın 'Bu sabah kahve mi çay mı ..?' diye soruyor.",
+      "prompt": "Arkadaşın 'Bu sabah kahve mi çay mı ...?' diye soruyor.",
       "accepted_forms": ["içtin", "içtim", "içmek"],
       "note": null
     }
