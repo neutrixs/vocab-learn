@@ -1,0 +1,27 @@
+{
+  "word": "dili tutulmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to be tongue-tied, to be speechless",
+  "sentences": [
+    { "id": "dili tutulmak_s1", "text": "Sürpriz hediye gördüğünde dili [tutuldu].", "note": null },
+    { "id": "dili tutulmak_s2", "text": "Korkudan dili [tutulma]yan insanlar çok azdır.", "note": "rare occurrence" },
+    { "id": "dili tutulmak_s3", "text": "Başkan ortasında dili [tutuldu], konuşamadı.", "note": null },
+    { "id": "dili tutulmak_s4", "text": "Güzel kızı gördükten sonra dili [tutulma]k başladı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dili tutulmak_r1",
+      "prompt": "Çok şaşırdığında ya da utandığında insanların dili ...",
+      "accepted_forms": ["tutulur", "tutuldu", "tutulabilir", "tutulmak"],
+      "note": null
+    },
+    {
+      "id": "dili tutulmak_r2",
+      "prompt": "Heyecan ya da korkudan sesini alamayan kişinin dili ... durumundadır.",
+      "accepted_forms": ["tutuldu", "tutulur", "tutulmuş", "tutulmış"],
+      "note": null
+    }
+  ]
+}

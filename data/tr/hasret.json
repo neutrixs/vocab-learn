@@ -1,0 +1,27 @@
+{
+  "word": "hasret",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "longing, yearning, separation",
+  "sentences": [
+    { "id": "hasret_s1", "text": "Annesi için duyduğu [hasret] çok derindir.", "note": null },
+    { "id": "hasret_s2", "text": "[hasret] ve özlem insanı yıpratır.", "note": null },
+    { "id": "hasret_s3", "text": "Yıllar sonra karşılaşmalarının [hasret]i bir anda ortadan kalktı.", "note": null },
+    { "id": "hasret_s4", "text": "Dostunun [hasret]ini dinleyerek ağladı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hasret_r1",
+      "prompt": "Sevgilisi veya yakın birinin olmayışı yüzünden duyulan derin özlem nedir?",
+      "accepted_forms": ["hasret", "hasreti", "hasretler", "hasretin"],
+      "note": null
+    },
+    {
+      "id": "hasret_r2",
+      "prompt": "Yıllardır eşinden ayrı yaşayan adamın ... yüzü andırıyordu.",
+      "accepted_forms": ["hasret", "hasreti"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "debriyaj",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "clutch",
+  "sentences": [
+    { "id": "debriyaj_s1", "text": "Aracı hareket ettirmek için [debriyaj]ı basmalısınız.", "note": null },
+    { "id": "debriyaj_s2", "text": "[Debriyaj] pedali sol ayağınızın altında bulunur.", "note": null },
+    { "id": "debriyaj_s3", "text": "Sürücü [debriyaj]ı kademeli olarak bırakır.", "note": null },
+    { "id": "debriyaj_s4", "text": "[Debriyaj]ın yıpranması pahalı tamiratlara yol açar.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "debriyaj_r1",
+      "prompt": "Manuel şanzımanlı otomobillerde vites değiştirmek için basılan pedal nedir?",
+      "accepted_forms": ["debriyaj"],
+      "note": null
+    },
+    {
+      "id": "debriyaj_r2",
+      "prompt": "Sol ayağınızla basılan ve motoru şanzımandan ayıran parçaya ... denir.",
+      "accepted_forms": ["debriyaj"],
+      "note": null
+    }
+  ]
+}

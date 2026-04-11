@@ -1,0 +1,43 @@
+{
+  "word": "makam",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "position, rank, office, seat, melody mode (in music)",
+  "sentences": [
+    {
+      "id": "makam_s1",
+      "text": "Başkanın [makam]ında kıymetli eşyalar ve belgeler saklanır.",
+      "note": null
+    },
+    {
+      "id": "makam_s2",
+      "text": "Müdürün [makam]ı geniş ve ferah.",
+      "note": null
+    },
+    {
+      "id": "makam_s3",
+      "text": "Türk müziğinde [makam], melodinin temelini oluşturur.",
+      "note": "makam as a musical mode"
+    },
+    {
+      "id": "makam_s4",
+      "text": "Yüksek [makam]da çalışmak sorumluluk taşır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "makam_r1",
+      "prompt": "Resmi bir görevde bulunulan yer veya konumun adı ne?",
+      "accepted_forms": ["makam", "makamı", "makamda", "makamına", "makamları"],
+      "note": null
+    },
+    {
+      "id": "makam_r2",
+      "prompt": "Büyükelçi ülkenin ...ında önemli toplantı yaptı.",
+      "accepted_forms": ["makam", "makamında"],
+      "note": null
+    }
+  ]
+}

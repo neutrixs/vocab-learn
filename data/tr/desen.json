@@ -1,0 +1,27 @@
+{
+  "word": "desen",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "pattern, design",
+  "sentences": [
+    { "id": "desen_s1", "text": "Kumaşın üzerindeki [desen] çok güzeldi.", "note": null },
+    { "id": "desen_s2", "text": "Bu [desen]in geometrik şekilleri vardır.", "note": null },
+    { "id": "desen_s3", "text": "Sanatçı yeni bir [desen] çizmişti.", "note": null },
+    { "id": "desen_s4", "text": "Halının [desen]i Türk kültürünü yansıtır.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "desen_r1",
+      "prompt": "Kumaş veya halının üzerinde bulunan şekil ve renkler nedir?",
+      "accepted_forms": ["desen", "deseni", "desenler", "desenin"],
+      "note": null
+    },
+    {
+      "id": "desen_r2",
+      "prompt": "Sanatçı halı üzerine güzel bir ... çizdi.",
+      "accepted_forms": ["desen", "deseni", "desenler"],
+      "note": null
+    }
+  ]
+}

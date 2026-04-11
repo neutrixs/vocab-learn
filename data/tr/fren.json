@@ -1,0 +1,48 @@
+{
+  "word": "fren",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "brake",
+  "sentences": [
+    {
+      "id": "fren_s1",
+      "text": "Arabaya bindiğinde ilk yapman gereken [fren] sistemini kontrol etmek.",
+      "note": null
+    },
+    {
+      "id": "fren_s2",
+      "text": "Bisikletin [fren]i çalışmadığı için hızlı inemedin.",
+      "note": null
+    },
+    {
+      "id": "fren_s3",
+      "text": "[fren] pedalına basarak arabayı durdurduk.",
+      "note": null
+    },
+    {
+      "id": "fren_s4",
+      "text": "Dağda [fren] başarısızlığı çok tehlikeli olabilir.",
+      "note": null
+    },
+    {
+      "id": "fren_s5",
+      "text": "Motosikletin ön ve arka [fren]leri eşit şekilde ayarlanmalıdır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "fren_r1",
+      "prompt": "Araç veya bisikleti durdurmak için kullandığımız sisteme ne denir?",
+      "accepted_forms": ["fren", "freni", "freniniz", "frenine"],
+      "note": null
+    },
+    {
+      "id": "fren_r2",
+      "prompt": "Arabanın hızını azaltmak için ... pedalına basarsınız.",
+      "accepted_forms": ["fren", "freni", "frene"],
+      "note": null
+    }
+  ]
+}

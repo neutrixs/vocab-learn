@@ -1,0 +1,27 @@
+{
+  "word": "tek tip",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "uniform, standardized",
+  "sentences": [
+    { "id": "tek tip_s1", "text": "Tüm öğrenciler [tek tip] üniformalar giymelidir.", "note": null },
+    { "id": "tek tip_s2", "text": "Bu ülkede [tek tip] posta pulları kullanılır.", "note": null },
+    { "id": "tek tip_s3", "text": "[Tek tip] üretim işletmelerde maliyeti düşürür.", "note": null },
+    { "id": "tek tip_s4", "text": "Harita mühendisliği için [tek tip] araçlar zorunludur.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tek tip_r1",
+      "prompt": "Tüm askerler aynı kıyafet giydiklerinde bunun adı nedir?",
+      "accepted_forms": ["tek tip"],
+      "note": null
+    },
+    {
+      "id": "tek tip_r2",
+      "prompt": "Fabrikaların tüm ürünlerini aynı şekilde üretmesine ... denir.",
+      "accepted_forms": ["tek tip"],
+      "note": null
+    }
+  ]
+}

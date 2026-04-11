@@ -1,0 +1,27 @@
+{
+  "word": "zevk",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "pleasure, enjoyment, taste",
+  "sentences": [
+    { "id": "zevk_s1", "text": "Bu yemek gerçekten lezzetli, büyük bir [zevk]le yiyorum.", "note": null },
+    { "id": "zevk_s2", "text": "Müzik dinlemek benim en büyük [zevk]lerinden biridir.", "note": null },
+    { "id": "zevk_s3", "text": "Sanat hakkında çok iyi bir [zevk]i vardır, her zaman güzel eserler seçer.", "note": null },
+    { "id": "zevk_s4", "text": "Okumaktan aldığı [zevk] onu her gün kütüphaneye götürür.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "zevk_r1",
+      "prompt": "Birisi çok güzel bir şeyi yemeyi seviyorsa, bunu yer ve ... alır.",
+      "accepted_forms": ["zevk", "zevk alır"],
+      "note": null
+    },
+    {
+      "id": "zevk_r2",
+      "prompt": "Kişinin sevdiği şeyleri yapması sonucu hissettiği hoş his nedir?",
+      "accepted_forms": ["zevk", "zevktir"],
+      "note": null
+    }
+  ]
+}

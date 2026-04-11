@@ -1,0 +1,43 @@
+{
+  "word": "uygulama",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "application",
+  "sentences": [
+    {
+      "id": "uygulama_s1",
+      "text": "Bu [uygulama] telefonda çok kullanışlı.",
+      "note": null
+    },
+    {
+      "id": "uygulama_s2",
+      "text": "[Uygulama]yı indir ve yükle.",
+      "note": null
+    },
+    {
+      "id": "uygulama_s3",
+      "text": "Yeni [uygulama]lar her gün çıkıyor.",
+      "note": null
+    },
+    {
+      "id": "uygulama_s4",
+      "text": "[Uygulama] mağazasından binlerce program seçebilirsin.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "uygulama_r1",
+      "prompt": "Telefonda veya bilgisayarda çalışan program ne ad verilir?",
+      "accepted_forms": ["uygulama", "uygulamalar", "uygulamayı", "uygulamada"],
+      "note": null
+    },
+    {
+      "id": "uygulama_r2",
+      "prompt": "App Store'dan indirdiğin ... Instagram, Facebook gibi programlar.",
+      "accepted_forms": ["uygulama", "uygulamalar", "uygulamadır", "uygulamadır"],
+      "note": null
+    }
+  ]
+}

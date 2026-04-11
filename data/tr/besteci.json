@@ -1,0 +1,43 @@
+{
+  "word": "besteci",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "composer",
+  "sentences": [
+    {
+      "id": "besteci_s1",
+      "text": "Beethoven 18. yüzyılın en ünlü [besteci]lerinden biridir.",
+      "note": null
+    },
+    {
+      "id": "besteci_s2",
+      "text": "Türk [besteci]leri Osmanlı müziğine büyük katkı sağlamıştır.",
+      "note": null
+    },
+    {
+      "id": "besteci_s3",
+      "text": "Bu [besteci]nin senfonileri tüm dünyada beğenilmektedir.",
+      "note": null
+    },
+    {
+      "id": "besteci_s4",
+      "text": "Genç [besteci], ilk operasını 25 yaşında tamamlamıştır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "besteci_r1",
+      "prompt": "Müzik eserleri yazıp düzenleyen kişi neye denir?",
+      "accepted_forms": ["besteci"],
+      "note": null
+    },
+    {
+      "id": "besteci_r2",
+      "prompt": "Mozart, Chopin ve Beethoven gibi ünlü müzisyenleri tanımlamak için kullanılan meslek adı nedir?",
+      "accepted_forms": ["besteci"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "boncuk",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "bead",
+  "sentences": [
+    {
+      "id": "boncuk_s1",
+      "text": "Kolye renkli [boncuk]lardan yapılmıştır.",
+      "note": null
+    },
+    {
+      "id": "boncuk_s2",
+      "text": "Çocuk cam [boncuk]ları iplik üzerine sıralıyor.",
+      "note": null
+    },
+    {
+      "id": "boncuk_s3",
+      "text": "Teyzesi elinde bir [boncuk] kolyesi giyiyordu.",
+      "note": null
+    },
+    {
+      "id": "boncuk_s4",
+      "text": "Türk kültüründe cam [boncuk]lar çok önemli bir yer tutar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "boncuk_r1",
+      "prompt": "Kolye veya bilezik yapmak için iplik üzerine sıralanan küçük, delikli nesneler nelerdir?",
+      "accepted_forms": ["boncuk", "boncuğu", "boncuklar"],
+      "note": null
+    },
+    {
+      "id": "boncuk_r2",
+      "prompt": "Mağazada satılan renkli cam veya plastik ... çocuklar için çok popülerdir.",
+      "accepted_forms": ["boncuk", "boncuklar"],
+      "note": null
+    }
+  ]
+}

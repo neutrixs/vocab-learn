@@ -1,0 +1,27 @@
+{
+  "word": "yapıt",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "work, masterpiece, artwork",
+  "sentences": [
+    { "id": "yapıt_s1", "text": "Bu müze, ünlü sanat [yapıt]larını barındırıyor.", "note": null },
+    { "id": "yapıt_s2", "text": "Ressam'ın son [yapıt]ı çok etkileyici ve derindir.", "note": null },
+    { "id": "yapıt_s3", "text": "[Yapıt], sanatçının çok yıl çalışmasının sonucudur.", "note": null },
+    { "id": "yapıt_s4", "text": "Orhan Pamuk'un edebi [yapıt]ları Türkçe edebiyata büyük katkı koymuştur.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yapıt_r1",
+      "prompt": "Bir sanatçının veya yazarın ürettiği edebi, sanatsal eser nedir?",
+      "accepted_forms": ["yapıt", "yapıtlar"],
+      "note": null
+    },
+    {
+      "id": "yapıt_r2",
+      "prompt": "Müzede gördüğüm antik ... çok güzeldi ve etkileyiciydi.",
+      "accepted_forms": ["yapıt", "yapıtları"],
+      "note": null
+    }
+  ]
+}

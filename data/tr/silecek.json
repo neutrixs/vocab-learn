@@ -1,0 +1,43 @@
+{
+  "word": "silecek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "wiper, windshield wiper",
+  "sentences": [
+    {
+      "id": "silecek_s1",
+      "text": "Yağmur yağınca araba [silecek]leri çalışır.",
+      "note": null
+    },
+    {
+      "id": "silecek_s2",
+      "text": "[Silecek]in bozuk olduğunu fark ettim.",
+      "note": "nominative form with possessive suffix"
+    },
+    {
+      "id": "silecek_s3",
+      "text": "Ön cam [silecek]lerini değiştirmesi lazım.",
+      "note": null
+    },
+    {
+      "id": "silecek_s4",
+      "text": "[Silecek] kaıştırılmalı ama beni.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "silecek_r1",
+      "prompt": "Arabanın ön camını temizlemek için hangi parçayı kullanırsın?",
+      "accepted_forms": ["silecek", "silecekleri", "silepek", "sileceği"],
+      "note": null
+    },
+    {
+      "id": "silecek_r2",
+      "prompt": "Yağmurda ön cam temizlenmesi için ... otomatik olarak çalışır.",
+      "accepted_forms": ["silecek", "silecekleri"],
+      "note": null
+    }
+  ]
+}

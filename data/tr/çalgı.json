@@ -1,0 +1,43 @@
+{
+  "word": "çalgı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "musical instrument",
+  "sentences": [
+    {
+      "id": "çalgı_s1",
+      "text": "Piyano, kemençe ve ney birer Türk [çalgı]sıdır.",
+      "note": null
+    },
+    {
+      "id": "çalgı_s2",
+      "text": "Müzik okulunda öğrenciler çeşitli [çalgı]ları öğrenirler.",
+      "note": null
+    },
+    {
+      "id": "çalgı_s3",
+      "text": "Bu [çalgı]nın sesini duymak bile insanı yatıştırır.",
+      "note": null
+    },
+    {
+      "id": "çalgı_s4",
+      "text": "[Çalgı] çalmayı öğrenmek sabır ve disiplin gerektirir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çalgı_r1",
+      "prompt": "Gitar, flüt, davul gibi sesler çıkarmak için kullanılan araçlara ne denir?",
+      "accepted_forms": ["çalgı", "çalgılar"],
+      "note": null
+    },
+    {
+      "id": "çalgı_r2",
+      "prompt": "Orkestrada müzisyenler hangi ... kullanarak şarkı seslendirir?",
+      "accepted_forms": ["çalgı", "çalgıları"],
+      "note": null
+    }
+  ]
+}

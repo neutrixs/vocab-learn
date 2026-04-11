@@ -1,0 +1,43 @@
+{
+  "word": "moda",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "fashion, style, trend",
+  "sentences": [
+    {
+      "id": "moda_s1",
+      "text": "Her mevsimde yeni giysi [moda]ları belirlenir.",
+      "note": null
+    },
+    {
+      "id": "moda_s2",
+      "text": "Paris, uluslararası [moda]nın merkezi kabul edilir.",
+      "note": null
+    },
+    {
+      "id": "moda_s3",
+      "text": "Tasarımcı [moda] dünyasında tanınan ünlü bir isimdir.",
+      "note": null
+    },
+    {
+      "id": "moda_s4",
+      "text": "Çoğu insan [moda]yı takip etmek istiyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "moda_r1",
+      "prompt": "Giysi, saç ve yapı tarzının belirli dönemdeki popüler görünümüne ne denir?",
+      "accepted_forms": ["moda", "modanın", "modada", "modaya", "modaları"],
+      "note": null
+    },
+    {
+      "id": "moda_r2",
+      "prompt": "Ünlü oyuncu her zaman ...yı takip ederek giyinir.",
+      "accepted_forms": ["moda", "modayı"],
+      "note": null
+    }
+  ]
+}

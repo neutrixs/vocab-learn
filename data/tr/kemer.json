@@ -1,0 +1,27 @@
+{
+  "word": "kemer",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "belt, arch",
+  "sentences": [
+    { "id": "kemer_s1", "text": "Pantalonu tutması için [kemer] takmalıdır.", "note": null },
+    { "id": "kemer_s2", "text": "Eski mimari eserlerin [kemer]leri güzel işlenmiştir.", "note": null },
+    { "id": "kemer_s3", "text": "Deri [kemer] çok dayanıklıdır.", "note": null },
+    { "id": "kemer_s4", "text": "Aracın emniyetli [kemer]ini bağlamayı unutmuş.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kemer_r1",
+      "prompt": "Giysileri tutmak için bele dolanılan nesne nedir?",
+      "accepted_forms": ["kemer", "kemeri", "kemerler", "kemerin"],
+      "note": null
+    },
+    {
+      "id": "kemer_r2",
+      "prompt": "Arabada oturup seyahat ederken güvenlik için emniyetli ... bağlamalısınız.",
+      "accepted_forms": ["kemer", "kemeri"],
+      "note": null
+    }
+  ]
+}

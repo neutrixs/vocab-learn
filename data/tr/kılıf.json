@@ -1,0 +1,43 @@
+{
+  "word": "kılıf",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "case, cover, sheath",
+  "sentences": [
+    {
+      "id": "kılıf_s1",
+      "text": "Telefonum için yeni bir [kılıf] aldım.",
+      "note": null
+    },
+    {
+      "id": "kılıf_s2",
+      "text": "Kılıcın [kılıf]ı çok güzel şekilde dönermiş.",
+      "note": "genitive form with possessive suffix"
+    },
+    {
+      "id": "kılıf_s3",
+      "text": "[Kılıf] olmadan telefonu taşımak tehlikeli.",
+      "note": null
+    },
+    {
+      "id": "kılıf_s4",
+      "text": "Bu çantanın içinde bir [kılıf] var.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kılıf_r1",
+      "prompt": "Telefonu korumak için neye koymak gerekir?",
+      "accepted_forms": ["kılıf", "kılıfa", "kılıfı", "kılıfta"],
+      "note": null
+    },
+    {
+      "id": "kılıf_r2",
+      "prompt": "Kılıç taşınırken bir ... gereklidir.",
+      "accepted_forms": ["kılıf", "kılıfı"],
+      "note": null
+    }
+  ]
+}

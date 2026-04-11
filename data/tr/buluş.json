@@ -1,0 +1,27 @@
+{
+  "word": "buluş",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "invention, discovery",
+  "sentences": [
+    { "id": "buluş_s1", "text": "Elektrik [buluş]u insanlık tarihini değiştirdi.", "note": null },
+    { "id": "buluş_s2", "text": "Bu [buluş] mucidinin yaşamını zorlaştırdı.", "note": null },
+    { "id": "buluş_s3", "text": "Bilim insanları tarafından yapılan [buluş]lar dünyayı ileriye götürür.", "note": null },
+    { "id": "buluş_s4", "text": "[Buluş]lar pazara sunulmadan önce test edilmelidir.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "buluş_r1",
+      "prompt": "İnsanlar tarafından ilk defa yapılan yeni bir şey nedir?",
+      "accepted_forms": ["buluş"],
+      "note": null
+    },
+    {
+      "id": "buluş_r2",
+      "prompt": "Mucidinin yaptığı şeye ... denir.",
+      "accepted_forms": ["buluş"],
+      "note": null
+    }
+  ]
+}

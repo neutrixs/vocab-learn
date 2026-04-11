@@ -1,0 +1,43 @@
+{
+  "word": "vites",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "gear",
+  "sentences": [
+    {
+      "id": "vites_s1",
+      "text": "Araçta beş [vites] vardır.",
+      "note": null
+    },
+    {
+      "id": "vites_s2",
+      "text": "[Vites]i değiştirmeden hızlanman olamaz.",
+      "note": null
+    },
+    {
+      "id": "vites_s3",
+      "text": "Dağda tırmanırken en düşük [vites]i seç.",
+      "note": null
+    },
+    {
+      "id": "vites_s4",
+      "text": "[Vites] değiştirirken embriyajı basmalısın.",
+      "note": "embriyaj = clutch pedal"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "vites_r1",
+      "prompt": "Arabanın motorunun hızını kontrol etmek için kullanılan şeye ne denir?",
+      "accepted_forms": ["vites", "vitesleri", "vitesi", "vitese"],
+      "note": null
+    },
+    {
+      "id": "vites_r2",
+      "prompt": "Otomatik araçlarda ... yok, manuel araçlarda var.",
+      "accepted_forms": ["vites", "vites değiştirilir", "vites var", "vitesi"],
+      "note": null
+    }
+  ]
+}

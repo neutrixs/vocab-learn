@@ -1,0 +1,43 @@
+{
+  "word": "sosyal ağ",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "social network",
+  "sentences": [
+    {
+      "id": "sosyal ağ_s1",
+      "text": "Instagram bir [sosyal ağ] uygulamasıdır.",
+      "note": null
+    },
+    {
+      "id": "sosyal ağ_s2",
+      "text": "[Sosyal ağ]larda insanlar fotoğraf ve video paylaşırlar.",
+      "note": null
+    },
+    {
+      "id": "sosyal ağ_s3",
+      "text": "Birçok kişi [sosyal ağ]ları tanımlaştırmak için çok fazla zaman harcıyor.",
+      "note": null
+    },
+    {
+      "id": "sosyal ağ_s4",
+      "text": "[Sosyal ağ] kullanımı gençler arasında çok yaygındır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sosyal ağ_r1",
+      "prompt": "Instagram, Facebook ve Twitter gibi platformlara ne ad verilir?",
+      "accepted_forms": ["sosyal ağ", "sosyal ağlar", "sosyal ağın", "sosyal ağlara"],
+      "note": null
+    },
+    {
+      "id": "sosyal ağ_r2",
+      "prompt": "İnsanlar fotoğraf ve mesaj paylaşmak için ... kullanırlar.",
+      "accepted_forms": ["sosyal ağ", "sosyal ağları", "sosyal ağlarda", "sosyal ağlar"],
+      "note": null
+    }
+  ]
+}

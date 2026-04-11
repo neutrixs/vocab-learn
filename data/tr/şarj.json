@@ -1,0 +1,43 @@
+{
+  "word": "şarj",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "charge",
+  "sentences": [
+    {
+      "id": "şarj_s1",
+      "text": "Telefonu [şarj] etmesi gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "şarj_s2",
+      "text": "[Şarj] kablosu kırıldı, yenisini almam lazım.",
+      "note": null
+    },
+    {
+      "id": "şarj_s3",
+      "text": "Dizüstü bilgisayarın [şarj]ı bitmek üzere.",
+      "note": null
+    },
+    {
+      "id": "şarj_s4",
+      "text": "[Şarj] cihazı çoğu evde gerekli bir eşyalardandır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şarj_r1",
+      "prompt": "Telefon pilini dolu yapma işlemine ne ad verilir?",
+      "accepted_forms": ["şarj", "şarj etme", "şarjlama", "şarjı"],
+      "note": null
+    },
+    {
+      "id": "şarj_r2",
+      "prompt": "Cihazların bataryasını doldurmak için ... gereklidir.",
+      "accepted_forms": ["şarj", "şarj cihazı", "şarj kablosu", "şarjlama"],
+      "note": null
+    }
+  ]
+}

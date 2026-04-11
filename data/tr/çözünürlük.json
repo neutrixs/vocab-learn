@@ -1,0 +1,27 @@
+{
+  "word": "çözünürlük",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "resolution",
+  "sentences": [
+    { "id": "çözünürlük_s1", "text": "Kameranın [çözünürlük]ü fotoğrafın kalitesini belirler.", "note": null },
+    { "id": "çözünürlük_s2", "text": "4K ekran yüksek [çözünürlük] sunmaktadır.", "note": null },
+    { "id": "çözünürlük_s3", "text": "Bilgisayar monitörünün [çözünürlük]ü artırıldığında her şey daha net görülür.", "note": null },
+    { "id": "çözünürlük_s4", "text": "Mikroskop [çözünürlük]ü çok yüksek olmalıdır.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çözünürlük_r1",
+      "prompt": "Ekran veya kamera görüntüsünün netliğini gösteren ölçü nedir?",
+      "accepted_forms": ["çözünürlük"],
+      "note": null
+    },
+    {
+      "id": "çözünürlük_r2",
+      "prompt": "1080p veya 4K gibi ekran kalitesini gösteren ölçüye ... denir.",
+      "accepted_forms": ["çözünürlük"],
+      "note": null
+    }
+  ]
+}

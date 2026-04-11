@@ -1,0 +1,27 @@
+{
+  "word": "yanıltmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to deceive, to mislead, to trick",
+  "sentences": [
+    { "id": "yanıltmak_s1", "text": "Hiçbir şekilde seni [yanıltmak] istemiyorum, söylediklerim gerçektir.", "note": null },
+    { "id": "yanıltmak_s2", "text": "Yanlış reklam müşterileri sık sık [yanıltmak]tır.", "note": null },
+    { "id": "yanıltmak_s3", "text": "Görüş açısından aldatıcı bir bilgi sizi [yanıltmak]tabilir.", "note": null },
+    { "id": "yanıltmak_s4", "text": "Beni [yanıltmak]tı, oysa bana güvenmişim.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yanıltmak_r1",
+      "prompt": "Birini yanlış şey söyleyerek veya yaparak hata yaptırmak ne demek?",
+      "accepted_forms": ["yanıltmak", "yanılttı", "yanıltmak", "yanıltır"],
+      "note": null
+    },
+    {
+      "id": "yanıltmak_r2",
+      "prompt": "Öğretmen soruyla öğrencileri ... niyetinde değildi, açık sorular sordular.",
+      "accepted_forms": ["yanıltmak", "yanıltmış"],
+      "note": null
+    }
+  ]
+}

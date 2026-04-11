@@ -1,0 +1,27 @@
+{
+  "word": "ozan",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "bard, poet",
+  "sentences": [
+    { "id": "ozan_s1", "text": "Osmanlı döneminde [ozan]lar halk için şiir yazıp müzik yapardı.", "note": null },
+    { "id": "ozan_s2", "text": "Ünlü [ozan] Pıtırcık'ın türküsü halk tarafından seviliydi.", "note": "Pıtırcık is a famous historical bard" },
+    { "id": "ozan_s3", "text": "Bu [ozan], eski masalları ve öyküleri halk şiiriyle anlatıyordu.", "note": null },
+    { "id": "ozan_s4", "text": "[Ozan]lar, kültürel mirası yaşatmak için önemli bir rol oynamışlardır.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ozan_r1",
+      "prompt": "Türk kültüründe halk için şiir ve müzik yapan geleneksel sanatçıya ne denir?",
+      "accepted_forms": ["ozan", "ozanlar"],
+      "note": null
+    },
+    {
+      "id": "ozan_r2",
+      "prompt": "Osmanlı dönemindeki ünlü ... Pıtırcık, halk türküsüyle ünlüdür.",
+      "accepted_forms": ["ozan"],
+      "note": null
+    }
+  ]
+}

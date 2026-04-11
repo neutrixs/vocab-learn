@@ -1,0 +1,27 @@
+{
+  "word": "indirmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to lower, to take down, to download",
+  "sentences": [
+    { "id": "indirmek_s1", "text": "Lütfen pencerenin perdesini [indir].", "note": null },
+    { "id": "indirmek_s2", "text": "Ağacın dalından meyveler [indird]im.", "note": null },
+    { "id": "indirmek_s3", "text": "Bilgisayardan müzik [indirme]k istiyorum.", "note": "downloading context" },
+    { "id": "indirmek_s4", "text": "Fiyatları [indir]mek satış arttırabilir.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "indirmek_r1",
+      "prompt": "İnternet üzerinden bir dosya almak için ... gerekir.",
+      "accepted_forms": ["indirmek", "indirme", "indirmesi", "indir", "indiririm"],
+      "note": null
+    },
+    {
+      "id": "indirmek_r2",
+      "prompt": "Çatıdaki bayrağı aşağıya ... gerekiyor.",
+      "accepted_forms": ["indirmek", "indir", "indire", "indirmeliyiz"],
+      "note": null
+    }
+  ]
+}

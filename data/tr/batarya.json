@@ -1,0 +1,27 @@
+{
+  "word": "batarya",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "battery",
+  "sentences": [
+    { "id": "batarya_s1", "text": "Cep telefonunun [batarya]sı sabaha kadar dayanmadı.", "note": null },
+    { "id": "batarya_s2", "text": "Bu kulaklık [batarya]sı 10 saat boyunca çalışır.", "note": null },
+    { "id": "batarya_s3", "text": "[Batarya]nızı korumak için telefonu aşırı ısıtmayın.", "note": null },
+    { "id": "batarya_s4", "text": "Oyuncağın [batarya]sının yerine yeni tane koyduk.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "batarya_r1",
+      "prompt": "Cihazlara güç veren ve zamanla bitebilen bileşen nedir?",
+      "accepted_forms": ["batarya"],
+      "note": null
+    },
+    {
+      "id": "batarya_r2",
+      "prompt": "Uzun yolculuklara giderken telefon ...sını kontrol etmeliyiz.",
+      "accepted_forms": ["batarya"],
+      "note": null
+    }
+  ]
+}

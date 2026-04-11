@@ -1,0 +1,28 @@
+{
+  "word": "parça",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "piece, part",
+  "sentences": [
+    { "id": "parça_s1", "text": "Kek kesildi ve her [parça] farklı bir tabağa kondu.", "note": null },
+    { "id": "parça_s2", "text": "Bu kumaşın [parça]sı çok güzel, elbise dikilebilir.", "note": null },
+    { "id": "parça_s3", "text": "[Parça]lar birleştirilerek büyük bir tablo oluşturuldu.", "note": null },
+    { "id": "parça_s4", "text": "Müzik [parça]sını dinleyince çok etkilendim.", "note": null },
+    { "id": "parça_s5", "text": "Duvardaki [parça], antika bir sanat eseriydi.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "parça_r1",
+      "prompt": "Bütün bir şey küçük bölümlere ayrıldığında her bölüme ne denir?",
+      "accepted_forms": ["parça", "parçalar"],
+      "note": null
+    },
+    {
+      "id": "parça_r2",
+      "prompt": "Müzik ... dinlemek eğlencelidir.",
+      "accepted_forms": ["parçasını", "parçası"],
+      "note": null
+    }
+  ]
+}

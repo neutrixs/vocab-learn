@@ -1,0 +1,43 @@
+{
+  "word": "sim kart",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "SIM card",
+  "sentences": [
+    {
+      "id": "sim kart_s1",
+      "text": "Telefonum için yeni bir [sim kart] aldım.",
+      "note": null
+    },
+    {
+      "id": "sim kart_s2",
+      "text": "[Sim kart] olmadan telefon kullanılamaz.",
+      "note": null
+    },
+    {
+      "id": "sim kart_s3",
+      "text": "Eski [sim kart]ı çıkardım ve yenisini takmış.",
+      "note": "accusative form"
+    },
+    {
+      "id": "sim kart_s4",
+      "text": "[Sim kart] seviye alanında farklı operatörlere ait olabilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sim kart_r1",
+      "prompt": "Telefonda internet ve arama hizmetleri almak için hangi kartı yüklemen gerekir?",
+      "accepted_forms": ["sim kart", "sim kartı", "sim kartlar", "sim karta"],
+      "note": null
+    },
+    {
+      "id": "sim kart_r2",
+      "prompt": "Telefonu farklı operatöre geçmek için yeni ... takmak gerekir.",
+      "accepted_forms": ["sim kart", "sim kartı"],
+      "note": null
+    }
+  ]
+}

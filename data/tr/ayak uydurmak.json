@@ -1,0 +1,27 @@
+{
+  "word": "ayak uydurmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to keep up, to follow the pace, to catch up",
+  "sentences": [
+    { "id": "ayak uydurmak_s1", "text": "Hızlı yürüyen arkadaşına [ayak uydurmak]ı zor oldu.", "note": null },
+    { "id": "ayak uydurmak_s2", "text": "Teknoloji bu kadar hızlı ilerlediğinde buna [ayak uydurmak] zor.", "note": null },
+    { "id": "ayak uydurmak_s3", "text": "Ders çok hızlı işleniyordu, ben sınıfla [ayak uydurmak]ta başarısız oldum.", "note": null },
+    { "id": "ayak uydurmak_s4", "text": "Moda değişiyor, ama ben ona [ayak uydurmak]ı tercih etmiyorum.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ayak uydurmak_r1",
+      "prompt": "Başkaları kadar hızlı ilerleme, aynı hızda devam etme anlamına gelen ifade nedir?",
+      "accepted_forms": ["ayak uydurmak", "uydurmak", "ayağı uydu"],
+      "note": null
+    },
+    {
+      "id": "ayak uydurmak_r2",
+      "prompt": "Hızlı koşan bir gruba katılmak istiyorsa, onların temposu ile ... zorunda.",
+      "accepted_forms": ["ayak uydurmak", "ayak uydurmalı", "uydurmak"],
+      "note": null
+    }
+  ]
+}

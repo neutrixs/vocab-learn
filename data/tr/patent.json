@@ -1,0 +1,43 @@
+{
+  "word": "patent",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "patent, exclusive right to an invention",
+  "sentences": [
+    {
+      "id": "patent_s1",
+      "text": "[Patent] bir buluşun hukuki korumasıdır.",
+      "note": null
+    },
+    {
+      "id": "patent_s2",
+      "text": "Bu şirketin [patent]ı yirmi yıl geçerlidir.",
+      "note": "possessive form with suffix"
+    },
+    {
+      "id": "patent_s3",
+      "text": "[Patent]ler buluşçuların haklarını korur.",
+      "note": "plural nominative form"
+    },
+    {
+      "id": "patent_s4",
+      "text": "Yeni teknolojiler için [patent] başvurusu yapılmalı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "patent_r1",
+      "prompt": "Bir icat yapmak sonrasında hukuki koruma almak için dosya edilen belgeye ne denir?",
+      "accepted_forms": ["patent", "patenti", "patentler", "patenta"],
+      "note": null
+    },
+    {
+      "id": "patent_r2",
+      "prompt": "Bu teknoloji için ... alabilmek için kanuni işlemler gerekir.",
+      "accepted_forms": ["patent", "patenti"],
+      "note": null
+    }
+  ]
+}

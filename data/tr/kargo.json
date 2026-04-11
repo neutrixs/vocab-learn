@@ -1,0 +1,48 @@
+{
+  "word": "kargo",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "cargo; package delivery",
+  "sentences": [
+    {
+      "id": "kargo_s1",
+      "text": "Çevrimiçi alışverişte sipariş ettiğim ürün [kargo]yla geliyor.",
+      "note": null
+    },
+    {
+      "id": "kargo_s2",
+      "text": "[kargo] göndermek için bir kutu ve yapıştırıcı etiket gerekir.",
+      "note": null
+    },
+    {
+      "id": "kargo_s3",
+      "text": "Bu [kargo] ağır, dikkatli götürmek lazım.",
+      "note": null
+    },
+    {
+      "id": "kargo_s4",
+      "text": "[kargo] şirketi teslimatlarda hızlı ve güvenilir hizmet veriyor.",
+      "note": null
+    },
+    {
+      "id": "kargo_s5",
+      "text": "Uluslararası [kargo] göndermek yerel kargoya göre daha pahalıdır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kargo_r1",
+      "prompt": "Çevrimiçi mağazadan satın aldığınız ürünler adresinize hangi yolla ulaştırılır?",
+      "accepted_forms": ["kargo", "kargoyla", "kargoya", "kargosu"],
+      "note": null
+    },
+    {
+      "id": "kargo_r2",
+      "prompt": "Bir paketi başka şehre göndermek istiyorsanız, ... şirketine başvurabilirsiniz.",
+      "accepted_forms": ["kargo", "kargosu", "kargoyla"],
+      "note": null
+    }
+  ]
+}

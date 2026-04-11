@@ -1,0 +1,27 @@
+{
+  "word": "hakim olmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to master, to be skilled at, to have control over",
+  "sentences": [
+    { "id": "hakim olmak_s1", "text": "Bu programcı birden fazla dilde [hakim olmak]tır.", "note": null },
+    { "id": "hakim olmak_s2", "text": "Yıllar sonra nihayet İngilizceye [hakim olmak]tır.", "note": null },
+    { "id": "hakim olmak_s3", "text": "Oyunu oynamak için kurallara iyi [hakim olmak] gerekir.", "note": null },
+    { "id": "hakim olmak_s4", "text": "Kendi duygularına [hakim olmak] müşkül olabilir ama gerekliydi.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hakim olmak_r1",
+      "prompt": "Birisi bir tekniğe veya dile çok iyi öğrendiyse, o dile ... deriz.",
+      "accepted_forms": ["hakim olmak", "hakim", "hakimdir"],
+      "note": null
+    },
+    {
+      "id": "hakim olmak_r2",
+      "prompt": "Bir beceriyi veya konuyu çok iyi bilmek ve yapabilmek ne demek?",
+      "accepted_forms": ["hakim olmak", "hakim olması"],
+      "note": null
+    }
+  ]
+}

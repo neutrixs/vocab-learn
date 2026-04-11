@@ -1,0 +1,43 @@
+{
+  "word": "porselen",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "porcelain, ceramic material",
+  "sentences": [
+    {
+      "id": "porselen_s1",
+      "text": "Bunların [porselen] tabaklar görmüşsün.",
+      "note": null
+    },
+    {
+      "id": "porselen_s2",
+      "text": "Bu [porselen] çok ince ve hassastır.",
+      "note": null
+    },
+    {
+      "id": "porselen_s3",
+      "text": "[Porselen] eşyaları özel olarak saklıyorum.",
+      "note": null
+    },
+    {
+      "id": "porselen_s4",
+      "text": "Çin [porselen]i ünlü ürünlerinin arasında yer alıyor.",
+      "note": "possessive form"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "porselen_r1",
+      "prompt": "Çay fincanları ve dekoratif eşyalar genellikle hangi malzemeden yapılır?",
+      "accepted_forms": ["porselen", "porselenin", "porselenle", "porseleniniz"],
+      "note": null
+    },
+    {
+      "id": "porselen_r2",
+      "prompt": "Bu güzel tabaklar ... malzemesinden yapılmıştır.",
+      "accepted_forms": ["porselen", "porselenin"],
+      "note": null
+    }
+  ]
+}

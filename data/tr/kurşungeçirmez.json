@@ -1,0 +1,27 @@
+{
+  "word": "kurşungeçirmez",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "bulletproof",
+  "sentences": [
+    { "id": "kurşungeçirmez_s1", "text": "Başkan [kurşungeçirmez] cam arkasında konuştu.", "note": null },
+    { "id": "kurşungeçirmez_s2", "text": "Polis memurları [kurşungeçirmez] yelek giyer.", "note": "protective equipment" },
+    { "id": "kurşungeçirmez_s3", "text": "Asker [kurşungeçirmez] kalkan taşıyordu.", "note": null },
+    { "id": "kurşungeçirmez_s4", "text": "Bankalar [kurşungeçirmez] kapı ve pencerelerle donatılıdır.", "note": "security features" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kurşungeçirmez_r1",
+      "prompt": "Polis ve askerler güvenlik için ... yelekler giyerler.",
+      "accepted_forms": ["kurşungeçirmez", "kurşungeçirmeye"],
+      "note": null
+    },
+    {
+      "id": "kurşungeçirmez_r2",
+      "prompt": "Ateşli silahlardan korumak için yapılan malzeme ne denir?",
+      "accepted_forms": ["kurşungeçirmez", "kurşungeçirmez malzeme"],
+      "note": null
+    }
+  ]
+}

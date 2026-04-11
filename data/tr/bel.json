@@ -1,0 +1,43 @@
+{
+  "word": "bel",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "waist; mountain pass",
+  "sentences": [
+    {
+      "id": "bel_s1",
+      "text": "Kemer ince bir [bel]e daha iyi oturur.",
+      "note": null
+    },
+    {
+      "id": "bel_s2",
+      "text": "Uzun oturma işleri yüzünden [bel]im ağrıyor.",
+      "note": null
+    },
+    {
+      "id": "bel_s3",
+      "text": "Bu dağın [bel]inden güzel bir manzara görülüyor.",
+      "note": "bel can also mean mountain pass"
+    },
+    {
+      "id": "bel_s4",
+      "text": "[Bel] ağrısı modern yaşamın sık görülen sorunlarından biridir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bel_r1",
+      "prompt": "Kalçalar ile göğüs arasında bulunan gövdenin dar kısmı nedir?",
+      "accepted_forms": ["bel"],
+      "note": null
+    },
+    {
+      "id": "bel_r2",
+      "prompt": "Dağlarda geçit olan veya herhangi bir yüksekliğin en dar kısmı ... olarak adlandırılır.",
+      "accepted_forms": ["bel"],
+      "note": null
+    }
+  ]
+}

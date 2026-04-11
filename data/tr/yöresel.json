@@ -1,0 +1,28 @@
+{
+  "word": "yöresel",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "regional, local",
+  "sentences": [
+    { "id": "yöresel_s1", "text": "Bu [yöresel] yemek çok meşhur ve lezzetlidir.", "note": null },
+    { "id": "yöresel_s2", "text": "[Yöresel] kültür, her bölgenin çok özel ve değerlidir.", "note": null },
+    { "id": "yöresel_s3", "text": "Pazar'da satılan [yöresel] ürünler ve sanat eserleri turist çeker.", "note": null },
+    { "id": "yöresel_s4", "text": "[Yöresel] müzik geleneği yüzyıllardan beri korunmuştur.", "note": null },
+    { "id": "yöresel_s5", "text": "Bu [yöresel] kıyafet, o bölgenin kimliğini gösteriyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yöresel_r1",
+      "prompt": "Belirli bir bölgeye ait ve o bölge tarafından tanınan yiyecek veya kültür nedir?",
+      "accepted_forms": ["yöresel"],
+      "note": null
+    },
+    {
+      "id": "yöresel_r2",
+      "prompt": "Bu ... yemek, sadece o bölgede yapılır ve özel malzemeler kullanılır.",
+      "accepted_forms": ["yöresel"],
+      "note": null
+    }
+  ]
+}

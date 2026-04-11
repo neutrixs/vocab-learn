@@ -1,0 +1,27 @@
+{
+  "word": "suyunu çekmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to drain (the water from), to wring out",
+  "sentences": [
+    { "id": "suyunu çekmek_s1", "text": "Meyvelerin [suyunu çekme]k için pres kullanıyorum.", "note": "juice extraction" },
+    { "id": "suyunu çekmek_s2", "text": "Elbiseyi yıkadıktan sonra iyi [suyunu çek].", "note": "wringing out clothes" },
+    { "id": "suyunu çekmek_s3", "text": "Sebzeleri haşladıktan sonra [suyunu çekmeliyiz].", "note": null },
+    { "id": "suyunu çekmek_s4", "text": "Havuzun [suyunu çekme]leri gerekiyor.", "note": "draining context" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "suyunu çekmek_r1",
+      "prompt": "Islak elbiseden suyu almak için ...",
+      "accepted_forms": ["suyunu çekmek", "suyunu çek", "suyunu çekmeliyiz"],
+      "note": null
+    },
+    {
+      "id": "suyunu çekmek_r2",
+      "prompt": "Taze meyve sıkılırken meyvenin ... gerekir.",
+      "accepted_forms": ["suyunu çekmek", "suyunu çekmeliyiz", "suyunu çekmeli"],
+      "note": null
+    }
+  ]
+}

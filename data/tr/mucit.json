@@ -1,0 +1,43 @@
+{
+  "word": "mucit",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "inventor, creator of an invention",
+  "sentences": [
+    {
+      "id": "mucit_s1",
+      "text": "Thomas Edison ünlü bir [mucit]tir.",
+      "note": "nominative form with copula"
+    },
+    {
+      "id": "mucit_s2",
+      "text": "[Mucit]ler dünyayı değiştiren şeyler yaratırlar.",
+      "note": "plural nominative form"
+    },
+    {
+      "id": "mucit_s3",
+      "text": "Bu [mucit]in icat elektrik ışığı olmuş.",
+      "note": null
+    },
+    {
+      "id": "mucit_s4",
+      "text": "[Mucit]lerin hepsi yenilikçi düşünürler.",
+      "note": "plural possessive form"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "mucit_r1",
+      "prompt": "Yeni bir şey icat eden kişiye ne denir?",
+      "accepted_forms": ["mucit", "mucidi", "mucitler", "mucittin"],
+      "note": null
+    },
+    {
+      "id": "mucit_r2",
+      "prompt": "Elektrik ampülünü icat eden ... Thomas Edison'dur.",
+      "accepted_forms": ["mucit", "mucidi"],
+      "note": null
+    }
+  ]
+}

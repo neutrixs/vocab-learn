@@ -1,0 +1,43 @@
+{
+  "word": "titreşim",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "vibration",
+  "sentences": [
+    {
+      "id": "titreşim_s1",
+      "text": "Makinenin [titreşim]i çok güçlü.",
+      "note": null
+    },
+    {
+      "id": "titreşim_s2",
+      "text": "[Titreşim] nedeniyle ahşap kapıda çatlaklar oluştu.",
+      "note": null
+    },
+    {
+      "id": "titreşim_s3",
+      "text": "Telefon [titreşim] modu ile çalışabilir.",
+      "note": null
+    },
+    {
+      "id": "titreşim_s4",
+      "text": "[Titreşim]i azaltmak için sisteme yeni parçalar takıldı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "titreşim_r1",
+      "prompt": "Bir makine hızlı şekilde ileri geri hareket ettiğinde ne oluşur?",
+      "accepted_forms": ["titreşim", "titreşimler", "titreşimi", "titreşime"],
+      "note": null
+    },
+    {
+      "id": "titreşim_r2",
+      "prompt": "Telefon ses modu yerine ... moduyla çalışabilir.",
+      "accepted_forms": ["titreşim", "titreşimi", "titreşime", "titreşimleri"],
+      "note": null
+    }
+  ]
+}

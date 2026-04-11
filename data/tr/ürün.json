@@ -1,0 +1,28 @@
+{
+  "word": "ürün",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "product, production",
+  "sentences": [
+    { "id": "ürün_s1", "text": "Bu şirket yüksek kaliteli [ürün] üretmekle ünlüdür.", "note": null },
+    { "id": "ürün_s2", "text": "[Ürün]ün fiyatı pazar dışında değişebilir.", "note": null },
+    { "id": "ürün_s3", "text": "Tarım [ürün]leri sezondan sezona farklılık gösterir.", "note": null },
+    { "id": "ürün_s4", "text": "Yeni [ürün]ün tanıtımı bütün medyada yer aldı.", "note": null },
+    { "id": "ürün_s5", "text": "[Ürün]ü satın almadan önce içeriğini kontrol etmeliyiz.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ürün_r1",
+      "prompt": "Bir işletme tarafından yapılan ve pazarda satılan mal nedir?",
+      "accepted_forms": ["ürün", "ürünler"],
+      "note": null
+    },
+    {
+      "id": "ürün_r2",
+      "prompt": "Bu fabrikada üretilen ... çok iyi kalitededir.",
+      "accepted_forms": ["ürünler", "ürün"],
+      "note": null
+    }
+  ]
+}

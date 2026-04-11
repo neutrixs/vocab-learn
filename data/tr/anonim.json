@@ -1,0 +1,43 @@
+{
+  "word": "anonim",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "anonymous",
+  "sentences": [
+    {
+      "id": "anonim_s1",
+      "text": "Bu mektup [anonim] gönderilmiş, kimden geldiği belli değil.",
+      "note": null
+    },
+    {
+      "id": "anonim_s2",
+      "text": "İnternet kullanıcılar çoğunlukla [anonim] kalmayı tercih ederler.",
+      "note": null
+    },
+    {
+      "id": "anonim_s3",
+      "text": "[Anonim] yazarlar tarih boyunca birçok değerli yapıt bırakmıştır.",
+      "note": null
+    },
+    {
+      "id": "anonim_s4",
+      "text": "Ankette [anonim] yanıtlar vermek daha dürüst cevaplar getirebilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "anonim_r1",
+      "prompt": "Adı bilinmeyen, kimliği gizli olan şeyi tanımlamak için hangi sözcüğü kullanırız?",
+      "accepted_forms": ["anonim"],
+      "note": null
+    },
+    {
+      "id": "anonim_r2",
+      "prompt": "Sosyal medyada kimliğini açıklamayan kullanıcı ... bir şekilde davranıyor.",
+      "accepted_forms": ["anonim"],
+      "note": null
+    }
+  ]
+}

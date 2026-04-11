@@ -1,0 +1,43 @@
+{
+  "word": "otonom",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "autonomous, independent, self-governing",
+  "sentences": [
+    {
+      "id": "otonom_s1",
+      "text": "[Otonom] araçlar gelecekte daha yaygın olacak.",
+      "note": null
+    },
+    {
+      "id": "otonom_s2",
+      "text": "Bu üniversite [otonom] bir kuruma sahiptir.",
+      "note": null
+    },
+    {
+      "id": "otonom_s3",
+      "text": "[Otonom] kararlar bireylerin özgürlüğünün göstergesidir.",
+      "note": null
+    },
+    {
+      "id": "otonom_s4",
+      "text": "Robot [otonom] şekilde hareket edebilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "otonom_r1",
+      "prompt": "Dış kontrole ihtiyaç duymadan kendisi karar veren veya hareket eden anlamında hangi kelime kullanılır?",
+      "accepted_forms": ["otonom", "otonomu"],
+      "note": null
+    },
+    {
+      "id": "otonom_r2",
+      "prompt": "Sürücüsüz arabalar ... araçlardır.",
+      "accepted_forms": ["otonom", "otonomdur"],
+      "note": null
+    }
+  ]
+}

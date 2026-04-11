@@ -1,0 +1,27 @@
+{
+  "word": "gösterişli",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "showy, ostentatious, flashy",
+  "sentences": [
+    { "id": "gösterişli_s1", "text": "Zengin adamın [gösterişli] bir arabası vardı.", "note": null },
+    { "id": "gösterişli_s2", "text": "[gösterişli] kıyafetler insanın dikkat çektirir.", "note": null },
+    { "id": "gösterişli_s3", "text": "Düğün [gösterişli] bir etkinlik olmuştu.", "note": null },
+    { "id": "gösterişli_s4", "text": "O [gösterişli] yaşam tarzından hoşlanmıyorum.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gösterişli_r1",
+      "prompt": "Dikkat çekmek için yapılan, çok süslü ve belirgin olan nedir?",
+      "accepted_forms": ["gösterişli", "gösterişli"],
+      "note": null
+    },
+    {
+      "id": "gösterişli_r2",
+      "prompt": "Zengin insanlar genellikle ... evler ve arabalar kullanırlar.",
+      "accepted_forms": ["gösterişli", "gösterişli"],
+      "note": null
+    }
+  ]
+}

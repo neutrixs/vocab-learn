@@ -1,0 +1,43 @@
+{
+  "word": "yazılım",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "software",
+  "sentences": [
+    {
+      "id": "yazılım_s1",
+      "text": "Bu bilgisayara yeni [yazılım] yüklenmiştir.",
+      "note": null
+    },
+    {
+      "id": "yazılım_s2",
+      "text": "[Yazılım] geliştirmek zor bir işdir.",
+      "note": null
+    },
+    {
+      "id": "yazılım_s3",
+      "text": "[Yazılım] mühendisi iyi para kazanır.",
+      "note": null
+    },
+    {
+      "id": "yazılım_s4",
+      "text": "[Yazılım] virüsü bilgisayarı koruma altına alırız.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yazılım_r1",
+      "prompt": "Bilgisayarın işlemci ve hafızası gibi fiziksel parçaları değil, programlarına ne denir?",
+      "accepted_forms": ["yazılım", "yazılımı", "yazılımlar", "yazılımda"],
+      "note": null
+    },
+    {
+      "id": "yazılım_r2",
+      "prompt": "Word, Excel ve Python gibi programlar ... kategorisindedir.",
+      "accepted_forms": ["yazılım", "yazılımlar", "yazılımdır", "yazılıma"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "düğme",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "button",
+  "sentences": [
+    {
+      "id": "düğme_s1",
+      "text": "Ceket üzerindeki [düğme]ler çıktı, yenisini dikmeliyim.",
+      "note": null
+    },
+    {
+      "id": "düğme_s2",
+      "text": "Telefondaki [düğme]ye basıp çekimi başlattı.",
+      "note": null
+    },
+    {
+      "id": "düğme_s3",
+      "text": "Asansörün [düğme]sini çevirdin mi?",
+      "note": null
+    },
+    {
+      "id": "düğme_s4",
+      "text": "Bir [düğme] tıklaması ile bu işlemi yapabilirsiniz.",
+      "note": null
+    },
+    {
+      "id": "düğme_s5",
+      "text": "Tişörtün ön tarafında iki [düğme] var.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "düğme_r1",
+      "prompt": "Gömleği kapatmak için kullanılan küçük, yuvarlak nesneye ne denir?",
+      "accepted_forms": ["düğme", "düğmeler", "düğmeyi", "düğmeleri"],
+      "note": null
+    },
+    {
+      "id": "düğme_r2",
+      "prompt": "Asansörde kaçıncı kata gitmek istiyorsanız, ekranda o numaranın ... sine basarsınız.",
+      "accepted_forms": ["düğme", "düğmesi", "düğmeye"],
+      "note": null
+    }
+  ]
+}

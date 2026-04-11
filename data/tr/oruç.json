@@ -1,0 +1,43 @@
+{
+  "word": "oruç",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "fast, fasting (especially in Ramadan)",
+  "sentences": [
+    {
+      "id": "oruç_s1",
+      "text": "Ramazan ayında müslümanlar [oruç] tutuyor.",
+      "note": null
+    },
+    {
+      "id": "oruç_s2",
+      "text": "[Oruç] sağlık ve manevi nedenlerle önemlidir.",
+      "note": null
+    },
+    {
+      "id": "oruç_s3",
+      "text": "Güneş doğarken [oruç] başlanır, batarken açılır.",
+      "note": null
+    },
+    {
+      "id": "oruç_s4",
+      "text": "Çocuklar yetişkinliğe ulaştıktan sonra [oruç] tutmaya başlarlar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "oruç_r1",
+      "prompt": "Ramazan ayında güneş doğmasından batışına kadar yemek yememek ve içmemek anlamına gelen din görevine ne denir?",
+      "accepted_forms": ["oruç", "orucu", "orcunun", "orcun", "orcuyu", "orclar"],
+      "note": null
+    },
+    {
+      "id": "oruç_r2",
+      "prompt": "Dini bir görev olarak Ramazan ayında insanlar ... tutarlar.",
+      "accepted_forms": ["oruç", "orucu"],
+      "note": null
+    }
+  ]
+}

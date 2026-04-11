@@ -1,0 +1,43 @@
+{
+  "word": "baklagil",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "legume (plant family)",
+  "sentences": [
+    {
+      "id": "baklagil_s1",
+      "text": "Mercimek bir [baklagil]dir ve protein açısından oldukça zengindir.",
+      "note": null
+    },
+    {
+      "id": "baklagil_s2",
+      "text": "Çiftçiler toprak verimliliğini arttırmak için [baklagil]ler ekiyorlar.",
+      "note": null
+    },
+    {
+      "id": "baklagil_s3",
+      "text": "[Baklagil]lere ait ürünler vegan beslenenlerin temel besin kaynağıdır.",
+      "note": null
+    },
+    {
+      "id": "baklagil_s4",
+      "text": "Nohut, fasülye ve bezelye hepsi [baklagil] grubuna dahildir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "baklagil_r1",
+      "prompt": "Mercimek, nohut ve fasülye hangi bitki ailesine aittir?",
+      "accepted_forms": ["baklagil"],
+      "note": null
+    },
+    {
+      "id": "baklagil_r2",
+      "prompt": "Protein ve lif yönünden zengin olan ve toprağa azot ekleyen bitkiler grubunun adı nedir?",
+      "accepted_forms": ["baklagil"],
+      "note": null
+    }
+  ]
+}

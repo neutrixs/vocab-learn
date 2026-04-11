@@ -1,0 +1,43 @@
+{
+  "word": "dokunmatik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "touchless, non-contact",
+  "sentences": [
+    {
+      "id": "dokunmatik_s1",
+      "text": "Bu [dokunmatik] musluğu kullanırken hiçbir şey tutmanıza gerek yok.",
+      "note": null
+    },
+    {
+      "id": "dokunmatik_s2",
+      "text": "[dokunmatik] kapılar hastanelerde yaygın olarak kullanılır.",
+      "note": "Can refer to automatic doors triggered by motion"
+    },
+    {
+      "id": "dokunmatik_s3",
+      "text": "Pandemi sırasında [dokunmatik] teknoloji çok popüler hale geldi.",
+      "note": null
+    },
+    {
+      "id": "dokunmatik_s4",
+      "text": "[dokunmatik] sensör, elimizi yıkamamızı otomatik olarak algılıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dokunmatik_r1",
+      "prompt": "Elimizi kullanmadan kullanabileceğimiz kapı veya musluk türünü açıklamak için hangi sıfatı kullanırız?",
+      "accepted_forms": ["dokunmatik", "dokunmatiğini", "dokunmatik", "dokunmatikse"],
+      "note": null
+    },
+    {
+      "id": "dokunmatik_r2",
+      "prompt": "Koronavirüs döneminde, hastanelerde ... sensörlü aydınlatma sistemi tercih ediliyordu.",
+      "accepted_forms": ["dokunmatik", "dokunmatıksa"],
+      "note": null
+    }
+  ]
+}

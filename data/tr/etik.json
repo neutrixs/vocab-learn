@@ -1,0 +1,27 @@
+{
+  "word": "etik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "ethics, morality",
+  "sentences": [
+    { "id": "etik_s1", "text": "[etik] ve ahlak insan davranışlarını yönlendirir.", "note": null },
+    { "id": "etik_s2", "text": "İş dünyasında [etik] ilkeleri çok önemlidir.", "note": null },
+    { "id": "etik_s3", "text": "Hekim yaptığı işte [etik]e uymalıdır.", "note": null },
+    { "id": "etik_s4", "text": "Çalışmada [etik] kurallara dikkat etmek gerekir.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "etik_r1",
+      "prompt": "Doğru ve yanlış davranışları belirleyen ilkeler nedir?",
+      "accepted_forms": ["etik", "etiği", "etikler", "etiğin"],
+      "note": null
+    },
+    {
+      "id": "etik_r2",
+      "prompt": "Profesyonel ... kuralları işyerinde uyulması gereken davranışlar belirler.",
+      "accepted_forms": ["etik", "etiği", "etikler"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "dantel",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "lace",
+  "sentences": [
+    {
+      "id": "dantel_s1",
+      "text": "Gelinlik [dantel]le süslü görülüyor.",
+      "note": null
+    },
+    {
+      "id": "dantel_s2",
+      "text": "Bu [dantel] halkalar Avrupa'dan ithal edilmiştir.",
+      "note": null
+    },
+    {
+      "id": "dantel_s3",
+      "text": "[Dantel] yapımı çok uzun zamanda tamamlanır.",
+      "note": null
+    },
+    {
+      "id": "dantel_s4",
+      "text": "Vintage elbiseler çoğunlukla [dantel] detaylarla bezenmişti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dantel_r1",
+      "prompt": "Delikli desenli iplik kumaş olup elbise, perdeler ve başörtüleri süslü görmek için kullanılan şey nedir?",
+      "accepted_forms": ["dantel"],
+      "note": null
+    },
+    {
+      "id": "dantel_r2",
+      "prompt": "Gelin elbiselerini süslemek için sıkça kullanılan, ince işlemeli kumaş ... olarak adlandırılır.",
+      "accepted_forms": ["dantel"],
+      "note": null
+    }
+  ]
+}

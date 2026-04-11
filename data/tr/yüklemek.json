@@ -1,0 +1,27 @@
+{
+  "word": "yüklemek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to load, to upload, to charge",
+  "sentences": [
+    { "id": "yüklemek_s1", "text": "Arabaya bavulları [yükleme]k uzun zaman aldı.", "note": null },
+    { "id": "yüklemek_s2", "text": "Fotoğrafları sosyal medyaya [yükle]miş misin?", "note": "uploading context" },
+    { "id": "yüklemek_s3", "text": "Uydu internet [yükleniyor], lütfen bekleyin.", "note": "loading context" },
+    { "id": "yüklemek_s4", "text": "Telefonu şarjda [yüklemeye] devam ettir.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yüklemek_r1",
+      "prompt": "İçerik internet sitesine paylaşmak için ... gerekir.",
+      "accepted_forms": ["yüklemek", "yükleme", "yükle", "yüklemeliyim"],
+      "note": null
+    },
+    {
+      "id": "yüklemek_r2",
+      "prompt": "Kamyonete ağır kutuları ... demir çalışıyor.",
+      "accepted_forms": ["yüklemek", "yükleme", "yüklemek", "yükleniyor"],
+      "note": null
+    }
+  ]
+}

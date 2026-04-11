@@ -1,0 +1,27 @@
+{
+  "word": "etkilemek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to affect, to influence, to impress",
+  "sentences": [
+    { "id": "etkilemek_s1", "text": "Hava durumu insanların ruh halini [etkilemek]tedir.", "note": null },
+    { "id": "etkilemek_s2", "text": "Olumsuz yorumlar onu [etkilemek]tedir ve moral kaybeder.", "note": null },
+    { "id": "etkilemek_s3", "text": "Bu film beni çok [etkilemek]ti, hâlen düşünüyorum.", "note": null },
+    { "id": "etkilemek_s4", "text": "Öğretmenin sözleri öğrencileri derin şekilde [etkilemek]ti.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "etkilemek_r1",
+      "prompt": "Bir kişinin davranışını veya duygularını değiştirmek anlamına gelen fiil nedir?",
+      "accepted_forms": ["etkilemek", "etkiler"],
+      "note": null
+    },
+    {
+      "id": "etkilemek_r2",
+      "prompt": "Kötü haberler insanları ... rahatsız eder.",
+      "accepted_forms": ["etkiler", "etkiledi", "etkilemektedir"],
+      "note": null
+    }
+  ]
+}

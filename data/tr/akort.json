@@ -1,0 +1,43 @@
+{
+  "word": "akort",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "chord (in music)",
+  "sentences": [
+    {
+      "id": "akort_s1",
+      "text": "Gitarın [akort]unu kontrol etmek gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "akort_s2",
+      "text": "Bu şarkıda mi [akort]ı sık kullanılıyor.",
+      "note": null
+    },
+    {
+      "id": "akort_s3",
+      "text": "Müzik öğretmeni öğrencilere [akort] geçişlerini öğretti.",
+      "note": null
+    },
+    {
+      "id": "akort_s4",
+      "text": "Piyano çalışırken [akort]ları doğru basması çok önemlidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "akort_r1",
+      "prompt": "Gitarı çalarken do, re, mi gibi seslerin birleşimiyle oluşan şeye ne denir?",
+      "accepted_forms": ["akort", "akord"],
+      "note": null
+    },
+    {
+      "id": "akort_r2",
+      "prompt": "Müzik teorisinde birkaç notanın aynı anda çalınmasıyla oluşan şeyin adı nedir?",
+      "accepted_forms": ["akort", "akord"],
+      "note": null
+    }
+  ]
+}

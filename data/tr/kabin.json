@@ -1,0 +1,48 @@
+{
+  "word": "kabin",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "cabin",
+  "sentences": [
+    {
+      "id": "kabin_s1",
+      "text": "Uçağın [kabin]inde stewardess yolculara hizmet ediyor.",
+      "note": null
+    },
+    {
+      "id": "kabin_s2",
+      "text": "Sahil kütüğü koyun karşısında ahşap bir [kabin] var.",
+      "note": null
+    },
+    {
+      "id": "kabin_s3",
+      "text": "Dağdaki küçük [kabin]de sadece bir odada yaşıyorlar.",
+      "note": null
+    },
+    {
+      "id": "kabin_s4",
+      "text": "[kabin] baskınını duydu ve korktular.",
+      "note": null
+    },
+    {
+      "id": "kabin_s5",
+      "text": "Gemi yolculuğunda beş yıldızlı [kabin] çok pahalıdır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kabin_r1",
+      "prompt": "Uçakta yolcuların oturduğu bölüme ne denir?",
+      "accepted_forms": ["kabin", "kabinde", "kabinin", "kabinine"],
+      "note": null
+    },
+    {
+      "id": "kabin_r2",
+      "prompt": "Dağlık bir alanda, orta boylu ahşap bir ev veya sığınak olan ... basit bir barınaktır.",
+      "accepted_forms": ["kabin", "kabini", "kabindir"],
+      "note": null
+    }
+  ]
+}

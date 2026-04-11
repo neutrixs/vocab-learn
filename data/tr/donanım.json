@@ -1,0 +1,48 @@
+{
+  "word": "donanım",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "hardware",
+  "sentences": [
+    {
+      "id": "donanım_s1",
+      "text": "Bilgisayarın [donanım]ı, yani işlemci ve grafik kartı çok güçlü.",
+      "note": null
+    },
+    {
+      "id": "donanım_s2",
+      "text": "[donanım] ve yazılım birlikte çalışarak bir bilgisayar sistemini oluştururlar.",
+      "note": null
+    },
+    {
+      "id": "donanım_s3",
+      "text": "Bu laptopu yükseltmek için daha iyi [donanım]a ihtiyacımız var.",
+      "note": null
+    },
+    {
+      "id": "donanım_s4",
+      "text": "[donanım] bozulmuşsa, bilgisayar çalışmayabilir.",
+      "note": null
+    },
+    {
+      "id": "donanım_s5",
+      "text": "Oyun oynamak için yüksek kaliteli [donanım] gerekir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "donanım_r1",
+      "prompt": "Bilgisayarın fiziksel bileşenleri (işlemci, bellek, disk vb.) genel olarak neyle çağırılır?",
+      "accepted_forms": ["donanım", "donanımıdır", "donanımdan"],
+      "note": null
+    },
+    {
+      "id": "donanım_r2",
+      "prompt": "Yazılımdan farklı olarak, bilgisayarın tutabileceğiniz fiziksel parçalarına ... denir.",
+      "accepted_forms": ["donanım", "donanımı", "donanımdan"],
+      "note": null
+    }
+  ]
+}

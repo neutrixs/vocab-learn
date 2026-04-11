@@ -1,0 +1,27 @@
+{
+  "word": "yiğitlik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "courage, bravery",
+  "sentences": [
+    { "id": "yiğitlik_s1", "text": "Asker, düşman karşısında büyük bir [yiğitlik] gösterdi.", "note": null },
+    { "id": "yiğitlik_s2", "text": "[Yiğitlik], korkunç anlarda insanın gerçek karakterini ortaya çıkarır.", "note": null },
+    { "id": "yiğitlik_s3", "text": "Türk kültüründe [yiğitlik] ve onur çok değerli özelliklerdir.", "note": null },
+    { "id": "yiğitlik_s4", "text": "Bu genç adamın [yiğitlik]lı tavırları herkesine saygı duyup etkiledi.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yiğitlik_r1",
+      "prompt": "Zorlu durumlarla yüz yüze gelmesi ve korkusuz olmak ne demek?",
+      "accepted_forms": ["yiğitlik"],
+      "note": null
+    },
+    {
+      "id": "yiğitlik_r2",
+      "prompt": "Bu kahraman, savaşta gösterdiği ... yüzünden herkes tarafından sevildi.",
+      "accepted_forms": ["yiğitlikle", "yiğitlik"],
+      "note": null
+    }
+  ]
+}

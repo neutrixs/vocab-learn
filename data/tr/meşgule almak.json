@@ -1,0 +1,27 @@
+{
+  "word": "meşgule almak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to occupy, to keep busy, to take up (time/attention)",
+  "sentences": [
+    { "id": "meşgule almak_s1", "text": "İş çok zamanını [meşgule alıyor].", "note": null },
+    { "id": "meşgule almak_s2", "text": "Yeni proje onu tamamen [meşgule aldı].", "note": null },
+    { "id": "meşgule almak_s3", "text": "Çocuk oyuncaklar onun dikkatini [meşgule alıyor].", "note": "keeping children entertained" },
+    { "id": "meşgule almak_s4", "text": "Hastalığı tüm gücünü [meşgule almış]tı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "meşgule almak_r1",
+      "prompt": "Bir şey zamanınızın çoğunu ... durumundadır.",
+      "accepted_forms": ["meşgule almaktadır", "meşgule alıyor", "meşgule aldı"],
+      "note": null
+    },
+    {
+      "id": "meşgule almak_r2",
+      "prompt": "Dikkatinizi ve zamanınızı ... işler çok vardır.",
+      "accepted_forms": ["meşgule alan", "meşgule alacak", "meşgule almak"],
+      "note": null
+    }
+  ]
+}

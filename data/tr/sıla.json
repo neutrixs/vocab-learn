@@ -1,0 +1,27 @@
+{
+  "word": "sıla",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "homeland, native place",
+  "sentences": [
+    { "id": "sıla_s1", "text": "Uzun yıllar sonra [sıla]sına geri döndü ve çok mutlu oldu.", "note": null },
+    { "id": "sıla_s2", "text": "Şair, [sıla]sını özlediği için duygu dolu şiirler yazmıştır.", "note": null },
+    { "id": "sıla_s3", "text": "Her insanın [sıla]sı için özel bir duygusal bağı vardır.", "note": null },
+    { "id": "sıla_s4", "text": "[Sıla] hasreti, insanı çok üzebilir ve derin bir çoşkunluk yaratabilir.", "note": "hasret = longing, yearning" }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sıla_r1",
+      "prompt": "Biri doğup büyüdüğü memlekete geri dönmek istiyorsa, hangi yeri çok özler?",
+      "accepted_forms": ["sıla", "sılasını", "sılanın"],
+      "note": null
+    },
+    {
+      "id": "sıla_r2",
+      "prompt": "... hasreti, şairlerin en sık işledikleri temalardan biridir.",
+      "accepted_forms": ["sıla"],
+      "note": null
+    }
+  ]
+}

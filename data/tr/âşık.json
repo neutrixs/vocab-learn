@@ -1,0 +1,43 @@
+{
+  "word": "âşık",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "in love with",
+  "sentences": [
+    {
+      "id": "âşık_s1",
+      "text": "O kız, sınıf arkadaşına çok [âşık].",
+      "note": null
+    },
+    {
+      "id": "âşık_s2",
+      "text": "Yıllardır ona [âşık] olduğunu kimse bilmiyordu.",
+      "note": null
+    },
+    {
+      "id": "âşık_s3",
+      "text": "Derya kendini çok [âşık] hissediyor.",
+      "note": null
+    },
+    {
+      "id": "âşık_s4",
+      "text": "[Âşık] bir kişinin yüzünü görmek yeterli.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "âşık_r1",
+      "prompt": "Birine karşı derin bir sevgi hissi taşıyan kişi ... kişidir.",
+      "accepted_forms": ["âşık"],
+      "note": null
+    },
+    {
+      "id": "âşık_r2",
+      "prompt": "Tancredi, Klâra'ya ... olmuş ve ona evlenme teklifi etmiştir.",
+      "accepted_forms": ["âşık"],
+      "note": null
+    }
+  ]
+}

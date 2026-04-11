@@ -1,0 +1,27 @@
+{
+  "word": "öne çıkmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to stand out, to come forward, to distinguish oneself",
+  "sentences": [
+    { "id": "öne çıkmak_s1", "text": "Sınıfta başarısı ile birçok öğrenci arasından [öne çıkmak]tır.", "note": null },
+    { "id": "öne çıkmak_s2", "text": "Bu tasarımcının yaratıcı fikirleri onu meslekte [öne çıkmak]tırdı.", "note": null },
+    { "id": "öne çıkmak_s3", "text": "Diğer adaylar arasında deneyimi ile [öne çıkmak]tır.", "note": null },
+    { "id": "öne çıkmak_s4", "text": "Spor da başarılı olması onu okulda [öne çıkmak]tırdı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "öne çıkmak_r1",
+      "prompt": "Başarısı veya becerisiyle diğerlerinden farklı olmak, dikkati çekmek anlamına gelen ifade nedir?",
+      "accepted_forms": ["öne çıkmak", "öne çıktı", "çıkıyor"],
+      "note": null
+    },
+    {
+      "id": "öne çıkmak_r2",
+      "prompt": "Grup içinde kişi kendi yetenekleriyle dikkat çekiyorsa, ... deriz.",
+      "accepted_forms": ["öne çıkıyor", "öne çıkmış", "çıkmak"],
+      "note": null
+    }
+  ]
+}

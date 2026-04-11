@@ -1,0 +1,27 @@
+{
+  "word": "yokluk",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "absence, lack, poverty",
+  "sentences": [
+    { "id": "yokluk_s1", "text": "[Yokluk] insanı çok sıkıntılı ve mutsuz yapabilir.", "note": null },
+    { "id": "yokluk_s2", "text": "Savaş sırasında [yokluk] ve açlık çok arttı.", "note": null },
+    { "id": "yokluk_s3", "text": "[Yokluk]ta yaşayan insanlar bile umutlarını kaybetmemelidirler.", "note": null },
+    { "id": "yokluk_s4", "text": "Bu roman [yokluk]ta büyüyen bir çocuğun hikayesini anlatıyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yokluk_r1",
+      "prompt": "Bir şeyin olmaması veya çok az olması durumuna ne denir?",
+      "accepted_forms": ["yokluk"],
+      "note": null
+    },
+    {
+      "id": "yokluk_r2",
+      "prompt": "... ve fakirlik, toplumu çok kötü etkileyebilir.",
+      "accepted_forms": ["yokluk"],
+      "note": null
+    }
+  ]
+}

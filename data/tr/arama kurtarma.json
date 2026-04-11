@@ -1,0 +1,27 @@
+{
+  "word": "arama kurtarma",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "search and rescue",
+  "sentences": [
+    { "id": "arama kurtarma_s1", "text": "Dağda kayıp dağcı için [arama kurtarma] operasyonu başladı.", "note": null },
+    { "id": "arama kurtarma_s2", "text": "[Arama kurtarma] ekibi, denizde tekneyi buldu.", "note": null },
+    { "id": "arama kurtarma_s3", "text": "Askerler [arama kurtarma] görevine katıldılar.", "note": "military context" },
+    { "id": "arama kurtarma_s4", "text": "Kızıl Hilal [arama kurtarma] faaliyetlerinde çok önemlidir.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "arama kurtarma_r1",
+      "prompt": "Kayıp bir kişiyi bulmak için ... operasyonu açılır.",
+      "accepted_forms": ["arama kurtarma", "arama kurtarmayı", "arama kurtarmanın"],
+      "note": null
+    },
+    {
+      "id": "arama kurtarma_r2",
+      "prompt": "Sağlık ve güvenlik için hangi kurumlar ... çalışmalarına katılırlar?",
+      "accepted_forms": ["arama kurtarma", "arama kurtarmaya", "arama kurtarması"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "gurbet",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "exile, foreign land, separation from homeland",
+  "sentences": [
+    { "id": "gurbet_s1", "text": "Göçmenlerin [gurbet]te yaşaması zorludur.", "note": null },
+    { "id": "gurbet_s2", "text": "[gurbet] ve hasret kalpte derin yara açar.", "note": null },
+    { "id": "gurbet_s3", "text": "Yıllar [gurbet]te geçtikten sonra memlekete dönüş özlemi artar.", "note": null },
+    { "id": "gurbet_s4", "text": "[gurbet]in acısı sevdikleri olan birey için büyüktür.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gurbet_r1",
+      "prompt": "Kendi ülkesinden uzakta yaşamak ve anavatandan ayrı olma durumuna ne denir?",
+      "accepted_forms": ["gurbet", "gurbette", "gurbeti", "gurbetin"],
+      "note": null
+    },
+    {
+      "id": "gurbet_r2",
+      "prompt": "Ailesi memlekette kalıp o ...te yaşadığı için çok özlüyordu.",
+      "accepted_forms": ["gurbet", "gurbette"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "kesim",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "section, segment, cut",
+  "sentences": [
+    { "id": "kesim_s1", "text": "Tekstilin [kesim]i çok güzel yapılmıştır.", "note": null },
+    { "id": "kesim_s2", "text": "Bu [kesim] toplumda en fazla nüfusa sahiptir.", "note": "Sosyal veya ekonomik bir grubu ifade eder" },
+    { "id": "kesim_s3", "text": "[Kesim] işleri yapan ustalar çok deneyimlidir.", "note": null },
+    { "id": "kesim_s4", "text": "Pazarın tarım [kesim]i bu yıl çok gelişti.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kesim_r1",
+      "prompt": "Bir giyim fabrikasında kumaş parçalarına bölme işine ne denir?",
+      "accepted_forms": ["kesim", "kesime", "kesimleri", "kesimine"],
+      "note": null
+    },
+    {
+      "id": "kesim_r2",
+      "prompt": "Sosyal sınıflandırmada alt ... orta sınıf ve üst sınıf bulunur.",
+      "accepted_forms": ["kesim", "kesim,"],
+      "note": null
+    }
+  ]
+}

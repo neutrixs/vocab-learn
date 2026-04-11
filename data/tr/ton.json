@@ -1,0 +1,43 @@
+{
+  "word": "ton",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "tone",
+  "sentences": [
+    {
+      "id": "ton_s1",
+      "text": "Konuşurken [ton]unu değiştirmesi gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "ton_s2",
+      "text": "[Ton]u çok kaba, daha saygılı konuş.",
+      "note": null
+    },
+    {
+      "id": "ton_s3",
+      "text": "Müzisyen [ton]u mükemmel bir şekilde ayarladı.",
+      "note": null
+    },
+    {
+      "id": "ton_s4",
+      "text": "Sorunuzu daha yumuşak bir [ton] ile sorabilir misiniz?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ton_r1",
+      "prompt": "Birinin konuşurken kullandığı ses kalitesine ne denir?",
+      "accepted_forms": ["ton", "tonları", "tonla", "tonu"],
+      "note": null
+    },
+    {
+      "id": "ton_r2",
+      "prompt": "Müzik enstrümanında doğru ... ayarlamak önemlidir.",
+      "accepted_forms": ["ton", "tonu", "tonları", "tonda"],
+      "note": null
+    }
+  ]
+}

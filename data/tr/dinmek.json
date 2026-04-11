@@ -1,0 +1,27 @@
+{
+  "word": "dinmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to rest, to pause",
+  "sentences": [
+    { "id": "dinmek_s1", "text": "Uzun bir yürüyüşten sonra biraz [dinmek] istiyorum.", "note": null },
+    { "id": "dinmek_s2", "text": "Öğleden sonra masasında [dinmiş] gibi görünüyorsun.", "note": null },
+    { "id": "dinmek_s3", "text": "Harita okuduktan sonra gözlerini biraz [dindir].", "note": "Imperative form" },
+    { "id": "dinmek_s4", "text": "Spor yaptıktan sonra vücudunuz iyi bir şekilde [dinme]lidir.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dinmek_r1",
+      "prompt": "Tüm gün çalıştıktan sonra bir saat ... istiyorum.",
+      "accepted_forms": ["dinmek", "dinmesi", "dinme", "dinmelerim", "dinmeliyim"],
+      "note": null
+    },
+    {
+      "id": "dinmek_r2",
+      "prompt": "Yorgun olduğunda vücut ne yapmaya ihtiyaç duyar?",
+      "accepted_forms": ["dinmek", "dinmeye", "dinmesi", "dinmelidir"],
+      "note": null
+    }
+  ]
+}

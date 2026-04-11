@@ -1,0 +1,27 @@
+{
+  "word": "göç",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "migration, immigration",
+  "sentences": [
+    { "id": "göç_s1", "text": "Kuşlar kış mevsiminde [göç]e gider.", "note": null },
+    { "id": "göç_s2", "text": "Büyük şehirler insanların [göç]ünü cazip hale getirir.", "note": null },
+    { "id": "göç_s3", "text": "Ekonomik nedenler [göç]ün başlıca sebebidir.", "note": null },
+    { "id": "göç_s4", "text": "[göç] sonrasında insanlar yeni bir yaşam kurar.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "göç_r1",
+      "prompt": "İnsanların veya hayvanların bir yerden başka bir yere kalıcı olarak taşınmasına ne denir?",
+      "accepted_forms": ["göç", "göçe", "göçü", "göçün"],
+      "note": null
+    },
+    {
+      "id": "göç_r2",
+      "prompt": "Kuşlar yazın serin bölgelere ... gider.",
+      "accepted_forms": ["göç", "göçe"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "kuşak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "belt, band, stripe, generation",
+  "sentences": [
+    {
+      "id": "kuşak_s1",
+      "text": "Kadın elbisesini bir deri [kuşak] ile toplayıp daha şık hale getirdi.",
+      "note": null
+    },
+    {
+      "id": "kuşak_s2",
+      "text": "Pantolonun üstüne [kuşak] bağlamadan çıkamassınız.",
+      "note": null
+    },
+    {
+      "id": "kuşak_s3",
+      "text": "Beyaz duvarda siyah [kuşak] deseni vardır.",
+      "note": null
+    },
+    {
+      "id": "kuşak_s4",
+      "text": "Gençlik [kuşak]ı ile ileriki nesiller farklı değerlere sahip.",
+      "note": "kuşak can mean 'generation' in this sense"
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kuşak_r1",
+      "prompt": "Elbise ve pantolon tutmak için bele dolanmış şerit benzeri nesneye ne denir?",
+      "accepted_forms": ["kuşak", "kuşağı", "kuşaklar", "kuşakta", "kuşağında"],
+      "note": null
+    },
+    {
+      "id": "kuşak_r2",
+      "prompt": "Tasarımcı elbise ...ı ile daha zarif görünüm oluşturdu.",
+      "accepted_forms": ["kuşak", "kuşağını", "kuşağı"],
+      "note": null
+    }
+  ]
+}

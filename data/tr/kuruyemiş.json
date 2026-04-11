@@ -1,0 +1,43 @@
+{
+  "word": "kuruyemiş",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "dried fruit, nuts and dried fruits",
+  "sentences": [
+    {
+      "id": "kuruyemiş_s1",
+      "text": "Mamaliga [kuruyemiş] satışında çeşitlilik oldukça geniş.",
+      "note": null
+    },
+    {
+      "id": "kuruyemiş_s2",
+      "text": "Sağlıklı beslenme için günde bir avuç [kuruyemiş] yememiz önerilir.",
+      "note": null
+    },
+    {
+      "id": "kuruyemiş_s3",
+      "text": "Ramazan ayında [kuruyemiş] tüketimi artar.",
+      "note": null
+    },
+    {
+      "id": "kuruyemiş_s4",
+      "text": "Antep fıstığı, fındık ve ceviz [kuruyemiş]in çeşitleridir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kuruyemiş_r1",
+      "prompt": "Fındık, ceviz, fıstık ve kuru meyve gibi besinlere genel olarak ne denir?",
+      "accepted_forms": ["kuruyemiş", "kuruyemişi", "kuruyemişler", "kuruyemişte"],
+      "note": null
+    },
+    {
+      "id": "kuruyemiş_r2",
+      "prompt": "Öğlenişte arkadaşlarımızla ... yiyerek sohbet ettik.",
+      "accepted_forms": ["kuruyemiş", "kuruyemişi"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "abaküs",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "abacus",
+  "sentences": [
+    { "id": "abaküs_s1", "text": "Antik dönemde tüccarlar [abaküs] kullanarak hesap yaparlardı.", "note": null },
+    { "id": "abaküs_s2", "text": "Çocuklara matematiği öğretmek için [abaküs] etkili bir araçtır.", "note": null },
+    { "id": "abaküs_s3", "text": "[Abaküs]ün çerçevesi ahşap veya plastikten yapılır.", "note": null },
+    { "id": "abaküs_s4", "text": "Müze koleksiyonunda 17. yüzyıl [abaküs]ü sergilenmektedir.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "abaküs_r1",
+      "prompt": "Çubuklara geçirilmiş boncuklarla hesap yapılan araç nedir?",
+      "accepted_forms": ["abaküs"],
+      "note": null
+    },
+    {
+      "id": "abaküs_r2",
+      "prompt": "Eski zamanlardan beri matematikçiler tarafından kullanılan ... sayılarla işlem yapmak için bir araçtır.",
+      "accepted_forms": ["abaküs"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "kürk",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "fur, fur coat",
+  "sentences": [
+    {
+      "id": "kürk_s1",
+      "text": "Kış aylarında genç kadın pahalı bir [kürk] giyerdi.",
+      "note": null
+    },
+    {
+      "id": "kürk_s2",
+      "text": "Hayvan [kürk]ü tedavi ve ilaçlamada kullanılıyor.",
+      "note": null
+    },
+    {
+      "id": "kürk_s3",
+      "text": "Ressam tablosunda zarif [kürk]lü bir kız portresi çizdi.",
+      "note": null
+    },
+    {
+      "id": "kürk_s4",
+      "text": "[Kürk]ün temiz tutulması önem taşır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kürk_r1",
+      "prompt": "Hayvanların vücudunu kaplayan ve soğuktan korunmak için giyilen, değerli malzeme nedir?",
+      "accepted_forms": ["kürk", "kürk'ü", "kürklü", "kürkte", "kürklere"],
+      "note": null
+    },
+    {
+      "id": "kürk_r2",
+      "prompt": "Kış mevsiminde bir hanımefendi siyah ... giyerek yürüyordu.",
+      "accepted_forms": ["kürk", "kürk'e"],
+      "note": null
+    }
+  ]
+}

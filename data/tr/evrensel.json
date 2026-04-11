@@ -1,0 +1,27 @@
+{
+  "word": "evrensel",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "universal",
+  "sentences": [
+    { "id": "evrensel_s1", "text": "İnsan hakları [evrensel] bir değerdir.", "note": null },
+    { "id": "evrensel_s2", "text": "[evrensel] ilkeler tüm ülkelerde kabul edilmektedir.", "note": null },
+    { "id": "evrensel_s3", "text": "Aşk tüm insanlar için [evrensel] bir duygudur.", "note": null },
+    { "id": "evrensel_s4", "text": "Bu [evrensel] düşünce bütün kültürlerde görülür.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "evrensel_r1",
+      "prompt": "Tüm insanlar ve tüm kültürlerde geçerli olan nedir?",
+      "accepted_forms": ["evrensel", "evrensel"],
+      "note": null
+    },
+    {
+      "id": "evrensel_r2",
+      "prompt": "İnsan hakları ... ilkeler sayılır ve herkes için geçerlidir.",
+      "accepted_forms": ["evrensel", "evrensel"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "ekran",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "screen",
+  "sentences": [
+    {
+      "id": "ekran_s1",
+      "text": "Bilgisayar [ekran]ında yeni bir pencere açıldı.",
+      "note": null
+    },
+    {
+      "id": "ekran_s2",
+      "text": "Telefon [ekran]ı kırılmış, tamiri çok pahalı.",
+      "note": null
+    },
+    {
+      "id": "ekran_s3",
+      "text": "TV [ekran]ını temizlemek için özel bez kullanmalısın.",
+      "note": null
+    },
+    {
+      "id": "ekran_s4",
+      "text": "Çok uzun süre [ekran] izlemek gözlere zarar veriyor.",
+      "note": null
+    },
+    {
+      "id": "ekran_s5",
+      "text": "Sinema salonundaki [ekran] çok büyüktü.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ekran_r1",
+      "prompt": "Bilgisayar, telefon veya televisionda görselleri görmek için baktığımız kısma ne denir?",
+      "accepted_forms": ["ekran", "ekranı", "ekrandan", "ekranında"],
+      "note": null
+    },
+    {
+      "id": "ekran_r2",
+      "prompt": "Sinema salonunda filmin yansıtıldığı büyük beyaz yüzeye ... denir.",
+      "accepted_forms": ["ekran", "ekranına", "ekranda"],
+      "note": null
+    }
+  ]
+}

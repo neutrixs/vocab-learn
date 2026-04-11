@@ -1,0 +1,48 @@
+{
+  "word": "erişim",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "access",
+  "sentences": [
+    {
+      "id": "erişim_s1",
+      "text": "Bu dosyaya yalnızca yönetici [erişim]ine sahiptir.",
+      "note": null
+    },
+    {
+      "id": "erişim_s2",
+      "text": "İnternet [erişim]i kesinti yaşadı, şimdi düzeltiliyor.",
+      "note": null
+    },
+    {
+      "id": "erişim_s3",
+      "text": "[erişim] kodunuzu başkasıyla paylaşmayın.",
+      "note": null
+    },
+    {
+      "id": "erişim_s4",
+      "text": "Kütüphanenin online veritabanına [erişim] için üye olmanız gerekir.",
+      "note": null
+    },
+    {
+      "id": "erişim_s5",
+      "text": "Hastalar tıbbi [erişim] kontrolü altında tutuluyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "erişim_r1",
+      "prompt": "Bir kaynağa ulaşabilme yeteneğine veya hakkına ne denir?",
+      "accepted_forms": ["erişim", "erişime", "erişimini", "erişimle"],
+      "note": null
+    },
+    {
+      "id": "erişim_r2",
+      "prompt": "Bilgisayardaki dosyaya kimin ... si vardır, belirlemeliyiz.",
+      "accepted_forms": ["erişim", "erişimi"],
+      "note": null
+    }
+  ]
+}

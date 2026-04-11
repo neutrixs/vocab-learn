@@ -1,0 +1,48 @@
+{
+  "word": "kullanıcı",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "user, user of something",
+  "sentences": [
+    {
+      "id": "kullanıcı_s1",
+      "text": "Her [kullanıcı] hesabında bir parola oluşturmalıdır.",
+      "note": null
+    },
+    {
+      "id": "kullanıcı_s2",
+      "text": "[Kullanıcı]lar bu uygulamayı çok seviyorlar.",
+      "note": "nominative plural form"
+    },
+    {
+      "id": "kullanıcı_s3",
+      "text": "Yeni [kullanıcı]yı sisteme ekledim.",
+      "note": "accusative form with suffix"
+    },
+    {
+      "id": "kullanıcı_s4",
+      "text": "[Kullanıcı] arayüzü oldukça basit ve anlaşılır.",
+      "note": null
+    },
+    {
+      "id": "kullanıcı_s5",
+      "text": "Program [kullanıcı] geri bildirimlerine dikkat ediyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kullanıcı_r1",
+      "prompt": "Bilgisayar programını kullanan kişiye ne denir?",
+      "accepted_forms": ["kullanıcı", "kullanıcıya", "kullanıcılar", "kullanıcıyı"],
+      "note": null
+    },
+    {
+      "id": "kullanıcı_r2",
+      "prompt": "Sosyal ağdaki her ... hesap sahibidir.",
+      "accepted_forms": ["kullanıcı", "kullanıcının"],
+      "note": null
+    }
+  ]
+}

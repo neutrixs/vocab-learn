@@ -1,0 +1,27 @@
+{
+  "word": "dikiz aynası",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "rear-view mirror",
+  "sentences": [
+    { "id": "dikiz aynası_s1", "text": "Sürücü [dikiz aynası]ndan geriye bakan araçları göz önünde tutar.", "note": null },
+    { "id": "dikiz aynası_s2", "text": "[Dikiz aynası] araba içinde ön camdan yapılmıştır.", "note": null },
+    { "id": "dikiz aynası_s3", "text": "Güvenli sürüş için [dikiz aynası]na sık sık bakmak gerekir.", "note": null },
+    { "id": "dikiz aynası_s4", "text": "[Dikiz aynası]nın açısını ayarlamak önemlidir.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dikiz aynası_r1",
+      "prompt": "Arabada arkadaki trafiği görmek için kullandığınız ayna nedir?",
+      "accepted_forms": ["dikiz aynası"],
+      "note": null
+    },
+    {
+      "id": "dikiz aynası_r2",
+      "prompt": "Sürücü koltuğundan araba ...nda geri yakını izler.",
+      "accepted_forms": ["dikiz aynası"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "word": "ana ekran",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "home screen, main screen",
+  "sentences": [
+    { "id": "ana ekran_s1", "text": "Telefonunun [ana ekran]ına döndüğünde bildirimler görebilirsiniz.", "note": null },
+    { "id": "ana ekran_s2", "text": "Yazılımın [ana ekran]ı kullanıcı dostu tasarlanmıştır.", "note": null },
+    { "id": "ana ekran_s3", "text": "[Ana ekran]dan uygulamaları açabilirsiniz.", "note": null },
+    { "id": "ana ekran_s4", "text": "Masaüstü bilgisayarınızın [ana ekran]ı önemli bilgileri gösterir.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ana ekran_r1",
+      "prompt": "Telefonu açtığınızda ilk gördüğünüz ekran adı nedir?",
+      "accepted_forms": ["ana ekran"],
+      "note": null
+    },
+    {
+      "id": "ana ekran_r2",
+      "prompt": "Uygulamaların simgeleri görüntülenen ilk sayfaya ... denir.",
+      "accepted_forms": ["ana ekran"],
+      "note": null
+    }
+  ]
+}

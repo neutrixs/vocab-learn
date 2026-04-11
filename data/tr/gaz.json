@@ -1,0 +1,48 @@
+{
+  "word": "gaz",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "gas; accelerator",
+  "sentences": [
+    {
+      "id": "gaz_s1",
+      "text": "Arabanın [gaz] pedalına basarak hızlandırdı.",
+      "note": null
+    },
+    {
+      "id": "gaz_s2",
+      "text": "Sobaya [gaz] dökmek tehlikeli olabilir.",
+      "note": null
+    },
+    {
+      "id": "gaz_s3",
+      "text": "Doğal [gaz] kışın evi ısıtmak için kullanılır.",
+      "note": null
+    },
+    {
+      "id": "gaz_s4",
+      "text": "[gaz] maskesi, kimyasal korunma için gereklidir.",
+      "note": null
+    },
+    {
+      "id": "gaz_s5",
+      "text": "Mutfakta [gaz] ocağı çalıştırırken dikkatli olmalısınız.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gaz_r1",
+      "prompt": "Arabayı daha hızlı hareket ettirmek için basılan pedale ne denir?",
+      "accepted_forms": ["gaz", "gazı", "gaze", "gazında"],
+      "note": null
+    },
+    {
+      "id": "gaz_r2",
+      "prompt": "Evde ısınmak veya pişirme yapmak için kullandığımız ... sızıntısı tehlikeli olabilir.",
+      "accepted_forms": ["gaz", "gazın", "gazı"],
+      "note": null
+    }
+  ]
+}

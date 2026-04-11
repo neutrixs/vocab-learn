@@ -1,0 +1,27 @@
+{
+  "word": "korse",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "corset",
+  "sentences": [
+    { "id": "korse_s1", "text": "Eski dönemlerde kadınlar sıkı [korse] giyerlerdi.", "note": null },
+    { "id": "korse_s2", "text": "[Korse] kültüründe çoğu zaman sağlık sorunlarına yol açıyordu.", "note": null },
+    { "id": "korse_s3", "text": "Bu [korse] çok pahalı bir tasarımcı tarafından yapılmıştır.", "note": null },
+    { "id": "korse_s4", "text": "Tarihi [korse]ler müzelerde sergileniyor.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "korse_r1",
+      "prompt": "Vücudu sıkı bir şekilde saran eski dönem giysi türüne ne denir?",
+      "accepted_forms": ["korse", "korsesi", "korseleri"],
+      "note": null
+    },
+    {
+      "id": "korse_r2",
+      "prompt": "Viktorya döneminde kadınlar dar bir ... takı idiler.",
+      "accepted_forms": ["korse", "korse.", "korse,"],
+      "note": null
+    }
+  ]
+}

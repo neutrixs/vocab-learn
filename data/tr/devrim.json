@@ -1,0 +1,27 @@
+{
+  "word": "devrim",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "revolution",
+  "sentences": [
+    { "id": "devrim_s1", "text": "Fransız [devrim]i tarihte çok önemli bir olaydır.", "note": null },
+    { "id": "devrim_s2", "text": "Teknoloji alanında bir [devrim] yaşandı.", "note": null },
+    { "id": "devrim_s3", "text": "[devrim]in ardından ülke birçok değişim geçirdi.", "note": null },
+    { "id": "devrim_s4", "text": "Bilgisayarlar endüstride bir [devrim] başlattı.", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "devrim_r1",
+      "prompt": "Hükümetin yıkılıp yeni bir sistemin kurulmasını sağlayan harekat nedir?",
+      "accepted_forms": ["devrim", "devrimi", "devrimler", "devrimin"],
+      "note": null
+    },
+    {
+      "id": "devrim_r2",
+      "prompt": "Teknoloji alanında meydana gelen büyük ... toplumun tamamını değiştirdi.",
+      "accepted_forms": ["devrim", "devrimi", "devrimler"],
+      "note": null
+    }
+  ]
+}

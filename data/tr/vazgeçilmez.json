@@ -1,0 +1,43 @@
+{
+  "word": "vazgeçilmez",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "indispensable",
+  "sentences": [
+    {
+      "id": "vazgeçilmez_s1",
+      "text": "Su insan hayatı için [vazgeçilmez]dir.",
+      "note": null
+    },
+    {
+      "id": "vazgeçilmez_s2",
+      "text": "[Vazgeçilmez] bir arkadaşı var mı sende?",
+      "note": null
+    },
+    {
+      "id": "vazgeçilmez_s3",
+      "text": "Teknoloji günümüzde [vazgeçilmez] bir parça haline geldi.",
+      "note": null
+    },
+    {
+      "id": "vazgeçilmez_s4",
+      "text": "Bu kitap benim koleksiyonumun [vazgeçilmez] bir parçasıdır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "vazgeçilmez_r1",
+      "prompt": "Olmadan yaşayamadığımız şey ne tür bir şeydir?",
+      "accepted_forms": ["vazgeçilmez", "vazgeçilmezi", "vazgeçilmezdir", "vazgeçilmez şey"],
+      "note": null
+    },
+    {
+      "id": "vazgeçilmez_r2",
+      "prompt": "Sağlık ve mutluluk hayat için ... şeylerdir.",
+      "accepted_forms": ["vazgeçilmez", "vazgeçilmez şeyler", "vazgeçilmeze", "vazgeçilmezdir"],
+      "note": null
+    }
+  ]
+}

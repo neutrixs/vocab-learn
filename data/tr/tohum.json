@@ -1,0 +1,28 @@
+{
+  "word": "tohum",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "seed",
+  "sentences": [
+    { "id": "tohum_s1", "text": "Bahçeya [tohum] ekti ve birkaç hafta sonra bitki filizlendi.", "note": null },
+    { "id": "tohum_s2", "text": "[Tohum]lar toprakta yetişmek için su ve ışık gerektirir.", "note": null },
+    { "id": "tohum_s3", "text": "Her sonbahar çiftçi kışa hazırlanmak için yeni [tohum] alır.", "note": null },
+    { "id": "tohum_s4", "text": "Güneş [tohum]u çok besleyicidir ve sağlıklıdır.", "note": null },
+    { "id": "tohum_s5", "text": "[Tohum]dan büyük bir ağaç çıkacağını kim bilebilir?", "note": null }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tohum_r1",
+      "prompt": "Bahçeya ekerek yeni bir bitki yetiştirmek için hangi şeyi kullanırız?",
+      "accepted_forms": ["tohum", "tohumlar"],
+      "note": null
+    },
+    {
+      "id": "tohum_r2",
+      "prompt": "Ayçiçeği ... çok lezzetli ve besleyicidir.",
+      "accepted_forms": ["tohumları", "tohumu"],
+      "note": null
+    }
+  ]
+}
