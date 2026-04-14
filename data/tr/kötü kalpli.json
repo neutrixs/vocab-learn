@@ -1,0 +1,43 @@
+{
+  "word": "kötü kalpli",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "malicious, ill-natured, evil-hearted",
+  "sentences": [
+    {
+      "id": "kötü_s1",
+      "text": "Dikkatini [kötü kalpli] insanlardan sakın.",
+      "note": null
+    },
+    {
+      "id": "kötü_s2",
+      "text": "O adam [kötü kalpli] ve gaddar görünüyor.",
+      "note": null
+    },
+    {
+      "id": "kötü_s3",
+      "text": "[Kötü kalpli] insanlar başkalarına zarar verir.",
+      "note": null
+    },
+    {
+      "id": "kötü_s4",
+      "text": "Herkesi şüpheyle görmek [kötü kalpli] olmakla karıştırılmamalı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kötü_r1",
+      "prompt": "Diğer insanlara karşı olumsuz niyetli, acımasız anlamına gelen sıfat nedir?",
+      "accepted_forms": ["kötü kalpli"],
+      "note": null
+    },
+    {
+      "id": "kötü_r2",
+      "prompt": "İngilizce 'malicious' veya 'evil-hearted' anlamına gelen Türkçe deyim nedir?",
+      "accepted_forms": ["kötü kalpli"],
+      "note": null
+    }
+  ]
+}

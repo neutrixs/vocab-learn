@@ -1,0 +1,43 @@
+{
+  "word": "dar",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "narrow, tight, confined",
+  "sentences": [
+    {
+      "id": "dar_s1",
+      "text": "Eski şehir merkezindeki sokaklar [dar]dır.",
+      "note": null
+    },
+    {
+      "id": "dar_s2",
+      "text": "Pantolon çok [dar] gelmiştir.",
+      "note": null
+    },
+    {
+      "id": "dar_s3",
+      "text": "Kapı [dar], rahat geçemiyorum.",
+      "note": null
+    },
+    {
+      "id": "dar_s4",
+      "text": "Bu [dar] alana kaç kişi sığabilir?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dar_r1",
+      "prompt": "Genişliği veya hacmi az olan anlamına gelen sıfat nedir?",
+      "accepted_forms": ["dar"],
+      "note": null
+    },
+    {
+      "id": "dar_r2",
+      "prompt": "İngilizce 'narrow' anlamına gelen Türkçe kelime nedir?",
+      "accepted_forms": ["dar"],
+      "note": null
+    }
+  ]
+}

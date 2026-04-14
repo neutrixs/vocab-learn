@@ -1,0 +1,43 @@
+{
+  "word": "güçlü",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "strong, powerful, mighty",
+  "sentences": [
+    {
+      "id": "güçlü_s1",
+      "text": "Aslan çok [güçlü] bir hayvandır.",
+      "note": null
+    },
+    {
+      "id": "güçlü_s2",
+      "text": "İrade [güçlü] insanlar başarılı olur.",
+      "note": null
+    },
+    {
+      "id": "güçlü_s3",
+      "text": "Bu ülke askeri olarak çok [güçlü]dür.",
+      "note": null
+    },
+    {
+      "id": "güçlü_s4",
+      "text": "[Güçlü] bir kolunun vardır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "güçlü_r1",
+      "prompt": "Fiziksel veya zihinsel beden gücüne sahip anlamına gelen sıfat nedir?",
+      "accepted_forms": ["güçlü"],
+      "note": null
+    },
+    {
+      "id": "güçlü_r2",
+      "prompt": "İngilizce 'strong' veya 'powerful' anlamına gelen Türkçe kelime nedir?",
+      "accepted_forms": ["güçlü"],
+      "note": null
+    }
+  ]
+}

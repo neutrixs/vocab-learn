@@ -1,0 +1,43 @@
+{
+  "word": "paralel",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "parallel",
+  "sentences": [
+    {
+      "id": "paralel_s1",
+      "text": "Bu iki çizgi [paralel]dir.",
+      "note": null
+    },
+    {
+      "id": "paralel_s2",
+      "text": "Demiryolu rayları [paralel] çizgilerdir.",
+      "note": null
+    },
+    {
+      "id": "paralel_s3",
+      "text": "[Paralel] doğrular hiç kesişmezler.",
+      "note": null
+    },
+    {
+      "id": "paralel_s4",
+      "text": "Bunlar [paralel] durumda değildir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "paralel_r1",
+      "prompt": "Paralel kelimesinin anlamı nedir?",
+      "accepted_forms": ["paralel"],
+      "note": null
+    },
+    {
+      "id": "paralel_r2",
+      "prompt": "Hiç kesişmeyen ve eşit uzaklıkta olan çizgiler hangi kelimeyle tanımlanır?",
+      "accepted_forms": ["paralel"],
+      "note": null
+    }
+  ]
+}

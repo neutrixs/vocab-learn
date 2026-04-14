@@ -1,0 +1,43 @@
+{
+  "word": "çömlek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "pottery, earthenware, ceramic ware",
+  "sentences": [
+    {
+      "id": "çömlek_s1",
+      "text": "Eski [çömlek]'ler arkeolojik kazılarda bulundu.",
+      "note": null
+    },
+    {
+      "id": "çömlek_s2",
+      "text": "Seramik [çömlek] sanatı Türkiye'de eski bir geleneğidir.",
+      "note": null
+    },
+    {
+      "id": "çömlek_s3",
+      "text": "[Çömlek] atölyesinde usta çalışıyor.",
+      "note": null
+    },
+    {
+      "id": "çömlek_s4",
+      "text": "Müzede Osmanlı [çömlek]'leri sergileniyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çömlek_r1",
+      "prompt": "Topraktan yapılan tabasızı veya döner tezgahta çekilen kap nedir?",
+      "accepted_forms": ["çömlek"],
+      "note": null
+    },
+    {
+      "id": "çömlek_r2",
+      "prompt": "Seramik ve topraktan yapılan eski kap malzemesini söyle.",
+      "accepted_forms": ["çömlek"],
+      "note": null
+    }
+  ]
+}

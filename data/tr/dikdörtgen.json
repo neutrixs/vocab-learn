@@ -1,0 +1,43 @@
+{
+  "word": "dikdörtgen",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "rectangle",
+  "sentences": [
+    {
+      "id": "dikdörtgen_s1",
+      "text": "[Dikdörtgen] dört köşeye sahiptir.",
+      "note": null
+    },
+    {
+      "id": "dikdörtgen_s2",
+      "text": "Pencere [dikdörtgen] bir şekildedir.",
+      "note": null
+    },
+    {
+      "id": "dikdörtgen_s3",
+      "text": "[Dikdörtgen] alanını hesapla.",
+      "note": null
+    },
+    {
+      "id": "dikdörtgen_s4",
+      "text": "Bu [dikdörtgen] kutu çok kullanışlıdır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dikdörtgen_r1",
+      "prompt": "Dikdörtgen kelimesinin anlamı nedir?",
+      "accepted_forms": ["dikdörtgen"],
+      "note": null
+    },
+    {
+      "id": "dikdörtgen_r2",
+      "prompt": "Dört kenarı eşit olmayan ve açıları 90 derece olan şekil ne denir?",
+      "accepted_forms": ["dikdörtgen"],
+      "note": null
+    }
+  ]
+}

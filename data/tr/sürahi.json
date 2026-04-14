@@ -1,0 +1,43 @@
+{
+  "word": "sürahi",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "pitcher, jug, ewer",
+  "sentences": [
+    {
+      "id": "sürahi_s1",
+      "text": "Soğuk su [sürahi]'den bardağa dökülüyor.",
+      "note": null
+    },
+    {
+      "id": "sürahi_s2",
+      "text": "Porselen [sürahi] masada duruyordu.",
+      "note": null
+    },
+    {
+      "id": "sürahi_s3",
+      "text": "Şarap [sürahi]'sini misafir getirdi.",
+      "note": null
+    },
+    {
+      "id": "sürahi_s4",
+      "text": "Antika [sürahi]'ler koleksiyonda değerlidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sürahi_r1",
+      "prompt": "Sıvı dökülmek için kullanılan, ağzı geniş kap nedir?",
+      "accepted_forms": ["sürahi"],
+      "note": null
+    },
+    {
+      "id": "sürahi_r2",
+      "prompt": "Çay veya su servisi için kullanılan dekoratif kap söyle.",
+      "accepted_forms": ["sürahi"],
+      "note": null
+    }
+  ]
+}

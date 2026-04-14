@@ -1,0 +1,43 @@
+{
+  "word": "an",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "moment, instant",
+  "sentences": [
+    {
+      "id": "an_s1",
+      "text": "Bir [an] bile bekleyemiyorum, çok heyecanlı.",
+      "note": null
+    },
+    {
+      "id": "an_s2",
+      "text": "Bu [an]ı unutamayacağım asla.",
+      "note": null
+    },
+    {
+      "id": "an_s3",
+      "text": "Herhangi bir [an]da gelebilir, hazır ol.",
+      "note": null
+    },
+    {
+      "id": "an_s4",
+      "text": "Yaşamın en güzel [an]ları aileminle geçirdim.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "an_r1",
+      "prompt": "Çok kısa bir zaman dilimini ifade eden sözcük nedir?",
+      "accepted_forms": ["an"],
+      "note": null
+    },
+    {
+      "id": "an_r2",
+      "prompt": "İngilizce 'moment' anlamına gelen Türkçe kelime nedir?",
+      "accepted_forms": ["an"],
+      "note": null
+    }
+  ]
+}

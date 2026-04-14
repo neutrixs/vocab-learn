@@ -1,0 +1,43 @@
+{
+  "word": "ahşap",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "wood, timber, wooden",
+  "sentences": [
+    {
+      "id": "ahşap_s1",
+      "text": "[Ahşap] bir masa alıp oturma odasına koydular.",
+      "note": null
+    },
+    {
+      "id": "ahşap_s2",
+      "text": "Bu kapı güzel [ahşap]tan yapılmış.",
+      "note": null
+    },
+    {
+      "id": "ahşap_s3",
+      "text": "[Ahşap] malzeme çevre dostu bir seçimdir.",
+      "note": null
+    },
+    {
+      "id": "ahşap_s4",
+      "text": "Çatıda [ahşap] kirişler vardır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ahşap_r1",
+      "prompt": "Masalar ve kapılar hangi doğal materyalden yapılır?",
+      "accepted_forms": ["ahşap"],
+      "note": null
+    },
+    {
+      "id": "ahşap_r2",
+      "prompt": "Ağacdan elde edilen ve meşe, çam gibi türleri olan madde nedir?",
+      "accepted_forms": ["ahşap"],
+      "note": null
+    }
+  ]
+}

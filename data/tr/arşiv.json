@@ -1,0 +1,43 @@
+{
+  "word": "arşiv",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "archive, record repository",
+  "sentences": [
+    {
+      "id": "arşiv_s1",
+      "text": "Eski belgeler [arşiv]de saklıdır.",
+      "note": null
+    },
+    {
+      "id": "arşiv_s2",
+      "text": "Müze [arşiv]ı tarihi belgeleri içerir.",
+      "note": null
+    },
+    {
+      "id": "arşiv_s3",
+      "text": "Devlet [arşiv]ı önemli kayıtları tutar.",
+      "note": null
+    },
+    {
+      "id": "arşiv_s4",
+      "text": "Dijital [arşiv] çok kullanışlıdır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "arşiv_r1",
+      "prompt": "Önemli belgelerin sistematik olarak saklandığı yer anlamına gelen sözcük nedir?",
+      "accepted_forms": ["arşiv"],
+      "note": null
+    },
+    {
+      "id": "arşiv_r2",
+      "prompt": "İngilizce 'archive' anlamına gelen Türkçe kelime nedir?",
+      "accepted_forms": ["arşiv"],
+      "note": null
+    }
+  ]
+}

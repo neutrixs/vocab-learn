@@ -1,0 +1,43 @@
+{
+  "word": "iyi kalpli",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "kind-hearted, good-natured, compassionate",
+  "sentences": [
+    {
+      "id": "iyi_s1",
+      "text": "Ömrü boyunca [iyi kalpli] davrandı.",
+      "note": null
+    },
+    {
+      "id": "iyi_s2",
+      "text": "Bir [iyi kalpli] insanla tanışmak şanstır.",
+      "note": null
+    },
+    {
+      "id": "iyi_s3",
+      "text": "Annesi çok [iyi kalpli] ve cömert kişidir.",
+      "note": null
+    },
+    {
+      "id": "iyi_s4",
+      "text": "Hayalharap insanlar bile [iyi kalpli] olabilirler.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "iyi_r1",
+      "prompt": "Merhamet duygularına sahip, başkaları için ilgili anlamına gelen sıfat nedir?",
+      "accepted_forms": ["iyi kalpli"],
+      "note": null
+    },
+    {
+      "id": "iyi_r2",
+      "prompt": "İngilizce 'kind-hearted' anlamına gelen Türkçe deyim nedir?",
+      "accepted_forms": ["iyi kalpli"],
+      "note": null
+    }
+  ]
+}

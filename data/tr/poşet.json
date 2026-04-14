@@ -1,0 +1,43 @@
+{
+  "word": "poşet",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "plastic bag, paper bag",
+  "sentences": [
+    {
+      "id": "poşet_s1",
+      "text": "Alışveriş [poşet]'lerini masaya koyduk.",
+      "note": null
+    },
+    {
+      "id": "poşet_s2",
+      "text": "Plastik [poşet] çevreye zarar verir.",
+      "note": null
+    },
+    {
+      "id": "poşet_s3",
+      "text": "Yemekleri [poşet]'lere koydu.",
+      "note": null
+    },
+    {
+      "id": "poşet_s4",
+      "text": "Bakkal [poşet]'ini verdi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "poşet_r1",
+      "prompt": "Alışveriş yaptığında aldığı kağıt veya plastik kap nedir?",
+      "accepted_forms": ["poşet"],
+      "note": null
+    },
+    {
+      "id": "poşet_r2",
+      "prompt": "Birkaç ürünü taşımak için kullanılan tek kullanımlık kap söyle.",
+      "accepted_forms": ["poşet"],
+      "note": null
+    }
+  ]
+}

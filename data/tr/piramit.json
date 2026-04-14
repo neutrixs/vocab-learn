@@ -1,0 +1,43 @@
+{
+  "word": "piramit",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "pyramid",
+  "sentences": [
+    {
+      "id": "piramit_s1",
+      "text": "Mısır'da büyük bir [piramit] vardır.",
+      "note": null
+    },
+    {
+      "id": "piramit_s2",
+      "text": "[Piramit] antik bir yapıdır.",
+      "note": null
+    },
+    {
+      "id": "piramit_s3",
+      "text": "Bu [piramit] modeli çok güzeldir.",
+      "note": null
+    },
+    {
+      "id": "piramit_s4",
+      "text": "[Piramit] şeklinin tabanı dikdörtgendir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "piramit_r1",
+      "prompt": "Piramit kelimesinin anlamı nedir?",
+      "accepted_forms": ["piramit"],
+      "note": null
+    },
+    {
+      "id": "piramit_r2",
+      "prompt": "Mısır'daki antik yapılar hangi kelimeyle bilinir?",
+      "accepted_forms": ["piramit"],
+      "note": null
+    }
+  ]
+}

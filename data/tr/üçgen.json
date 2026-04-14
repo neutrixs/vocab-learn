@@ -1,0 +1,43 @@
+{
+  "word": "üçgen",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "triangle",
+  "sentences": [
+    {
+      "id": "üçgen_s1",
+      "text": "[Üçgen] üç kenardan oluşur.",
+      "note": null
+    },
+    {
+      "id": "üçgen_s2",
+      "text": "Resimde [üçgen] şekil vardır.",
+      "note": null
+    },
+    {
+      "id": "üçgen_s3",
+      "text": "[Üçgen] geometrik bir şekildir.",
+      "note": null
+    },
+    {
+      "id": "üçgen_s4",
+      "text": "Bu [üçgen]in açılarını ölç.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "üçgen_r1",
+      "prompt": "Üçgen kelimesinin anlamı nedir?",
+      "accepted_forms": ["üçgen"],
+      "note": null
+    },
+    {
+      "id": "üçgen_r2",
+      "prompt": "Üç kenardan oluşan geometrik şekil hangi kelimeyle adlandırılır?",
+      "accepted_forms": ["üçgen"],
+      "note": null
+    }
+  ]
+}

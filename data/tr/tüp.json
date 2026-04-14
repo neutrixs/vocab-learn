@@ -1,0 +1,43 @@
+{
+  "word": "tüp",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "tube, pipe, cylinder",
+  "sentences": [
+    {
+      "id": "tüp_s1",
+      "text": "Tişörtün [tüp] içine koydu.",
+      "note": null
+    },
+    {
+      "id": "tüp_s2",
+      "text": "Metal [tüp]'ler su taşımak için kullanılıyor.",
+      "note": null
+    },
+    {
+      "id": "tüp_s3",
+      "text": "[Tüp]'ten dış aktı çıkıyor.",
+      "note": null
+    },
+    {
+      "id": "tüp_s4",
+      "text": "Depo [tüp]'leri büyük makinede saklanmaktadır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tüp_r1",
+      "prompt": "İçinden sıvı veya gaz geçen, silindir şekilli kapı nedir?",
+      "accepted_forms": ["tüp"],
+      "note": null
+    },
+    {
+      "id": "tüp_r2",
+      "prompt": "Pasta, krem gibi maddeleri sıkarak çıkaran kapı söyle.",
+      "accepted_forms": ["tüp"],
+      "note": null
+    }
+  ]
+}

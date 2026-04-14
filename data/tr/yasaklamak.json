@@ -1,0 +1,43 @@
+{
+  "word": "yasaklamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to forbid, to ban, to prohibit",
+  "sentences": [
+    {
+      "id": "yasaklamak_s1",
+      "text": "Hükümet sigara reklamlarını [yasaklamak]ta karar verdi.",
+      "note": null
+    },
+    {
+      "id": "yasaklamak_s2",
+      "text": "Okul çocuklara oyunu [yasaklamak]ıyor.",
+      "note": null
+    },
+    {
+      "id": "yasaklamak_s3",
+      "text": "Kanun bazı aktiviteleri [yasaklamak]ıdır.",
+      "note": null
+    },
+    {
+      "id": "yasaklamak_s4",
+      "text": "Anne benim oyun oynamama [yasaklamak]ıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yasaklamak_r1",
+      "prompt": "Birini bir şey yapmasından alıkoymak, izin vermemek anlamına gelen fiil nedir?",
+      "accepted_forms": ["yasaklamak"],
+      "note": null
+    },
+    {
+      "id": "yasaklamak_r2",
+      "prompt": "İngilizce 'to forbid' anlamına gelen Türkçe kelime nedir?",
+      "accepted_forms": ["yasaklamak"],
+      "note": null
+    }
+  ]
+}

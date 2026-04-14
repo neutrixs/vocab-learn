@@ -1,0 +1,43 @@
+{
+  "word": "kap",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "container, vessel, dish",
+  "sentences": [
+    {
+      "id": "kap_s1",
+      "text": "[Kap]'ta yemek mi var?",
+      "note": null
+    },
+    {
+      "id": "kap_s2",
+      "text": "Boş [kap]'ları mutfağa götür.",
+      "note": null
+    },
+    {
+      "id": "kap_s3",
+      "text": "Metal [kap]'lar bulaşıkhanede kurutuluyor.",
+      "note": null
+    },
+    {
+      "id": "kap_s4",
+      "text": "[Kap]'a dikkat et, sıcaktır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kap_r1",
+      "prompt": "Yemek koymak için kullanılan genel ad nedir?",
+      "accepted_forms": ["kap"],
+      "note": null
+    },
+    {
+      "id": "kap_r2",
+      "prompt": "Çeşitli şeyler tutmak için kullanılan herhangi bir kabı söyle.",
+      "accepted_forms": ["kap"],
+      "note": null
+    }
+  ]
+}

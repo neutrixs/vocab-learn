@@ -1,0 +1,43 @@
+{
+  "word": "kumaştan",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "phrase",
+  "english_gloss": "made of fabric, from fabric",
+  "sentences": [
+    {
+      "id": "kumaştan_s1",
+      "text": "Bu elbise [kumaştan] yapılmıştır.",
+      "note": null
+    },
+    {
+      "id": "kumaştan_s2",
+      "text": "[Kumaştan] yapılmış perdeyi pencereye astı.",
+      "note": null
+    },
+    {
+      "id": "kumaştan_s3",
+      "text": "Çanta [kumaştan] mı yoksa deriden mi?",
+      "note": null
+    },
+    {
+      "id": "kumaştan_s4",
+      "text": "[Kumaştan] yapı dekoratif yastıklar çok güzeldir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kumaştan_r1",
+      "prompt": "Elbise ve perdelerin yapıldığı materyali belirtmek için hangi eki kullanırız?",
+      "accepted_forms": ["kumaştan"],
+      "note": null
+    },
+    {
+      "id": "kumaştan_r2",
+      "prompt": "Dokuma malzemesinden yapılmış anlamında ne deriz?",
+      "accepted_forms": ["kumaştan"],
+      "note": null
+    }
+  ]
+}

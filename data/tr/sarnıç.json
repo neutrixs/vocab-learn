@@ -1,0 +1,43 @@
+{
+  "word": "sarnıç",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "cistern, tank, reservoir",
+  "sentences": [
+    {
+      "id": "sarnıç_s1",
+      "text": "Evin altında büyük bir [sarnıç] var.",
+      "note": null
+    },
+    {
+      "id": "sarnıç_s2",
+      "text": "Yağmur suyu [sarnıç]'a akıyor.",
+      "note": null
+    },
+    {
+      "id": "sarnıç_s3",
+      "text": "Antik dönem [sarnıç]'ları hala tarihi değeri var.",
+      "note": null
+    },
+    {
+      "id": "sarnıç_s4",
+      "text": "Sıcak günlerde [sarnıç]'tan su çekiyoruz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sarnıç_r1",
+      "prompt": "Evin altında yağmur suyunu toplayan yer nedir?",
+      "accepted_forms": ["sarnıç"],
+      "note": null
+    },
+    {
+      "id": "sarnıç_r2",
+      "prompt": "Eski zamanlarda kullanılan, toprağa gömülü su deposu söyle.",
+      "accepted_forms": ["sarnıç"],
+      "note": null
+    }
+  ]
+}

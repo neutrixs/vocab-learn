@@ -1,0 +1,43 @@
+{
+  "word": "eğri",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "curved, crooked, bent, twisted",
+  "sentences": [
+    {
+      "id": "eğri_s1",
+      "text": "Ağaç rüzgardan [eğri] büyümüştür.",
+      "note": null
+    },
+    {
+      "id": "eğri_s2",
+      "text": "Yol dağında [eğri]dir.",
+      "note": null
+    },
+    {
+      "id": "eğri_s3",
+      "text": "Onun dişleri biraz [eğri]dir.",
+      "note": null
+    },
+    {
+      "id": "eğri_s4",
+      "text": "[Eğri] çizgi matematikte eğriye örnek teşkil eder.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "eğri_r1",
+      "prompt": "Düz olmayan, kıvrılmış anlamına gelen sıfat nedir?",
+      "accepted_forms": ["eğri"],
+      "note": null
+    },
+    {
+      "id": "eğri_r2",
+      "prompt": "İngilizce 'curved' veya 'crooked' anlamına gelen Türkçe kelime nedir?",
+      "accepted_forms": ["eğri"],
+      "note": null
+    }
+  ]
+}

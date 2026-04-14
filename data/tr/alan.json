@@ -1,0 +1,43 @@
+{
+  "word": "alan",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "area",
+  "sentences": [
+    {
+      "id": "alan_s1",
+      "text": "Dikdörtgenin [alan]ı uzunluk çarpı genişliktir.",
+      "note": null
+    },
+    {
+      "id": "alan_s2",
+      "text": "Daire [alan]ını hesaplamak için formül vardır.",
+      "note": null
+    },
+    {
+      "id": "alan_s3",
+      "text": "[alan] metrekare ile ölçülür.",
+      "note": null
+    },
+    {
+      "id": "alan_s4",
+      "text": "Bahçenin [alan]ı 100 metrekaredir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "alan_r1",
+      "prompt": "Bir şeklin kapladığı yüzey ne denir?",
+      "accepted_forms": ["alan"],
+      "note": null
+    },
+    {
+      "id": "alan_r2",
+      "prompt": "Metrekare neyin ölçü birimidir?",
+      "accepted_forms": ["alan"],
+      "note": null
+    }
+  ]
+}

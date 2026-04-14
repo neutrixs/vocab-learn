@@ -1,0 +1,43 @@
+{
+  "word": "kadeh",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "glass, goblet, wine glass",
+  "sentences": [
+    {
+      "id": "kadeh_s1",
+      "text": "Şarap [kadeh]'ini dikkatle tuttu.",
+      "note": null
+    },
+    {
+      "id": "kadeh_s2",
+      "text": "Yemekten sonra sıcak çay [kadeh]'de verildi.",
+      "note": null
+    },
+    {
+      "id": "kadeh_s3",
+      "text": "Kristal [kadeh]'ler çok değerlidir.",
+      "note": null
+    },
+    {
+      "id": "kadeh_s4",
+      "text": "Şenliklerde uzun [kadeh]'ler kullanılır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kadeh_r1",
+      "prompt": "Şarap veya içki içmek için kullanılan bardak nedir?",
+      "accepted_forms": ["kadeh"],
+      "note": null
+    },
+    {
+      "id": "kadeh_r2",
+      "prompt": "Şeffaf cam veya kristalden yapılmış içme kabı söyle.",
+      "accepted_forms": ["kadeh"],
+      "note": null
+    }
+  ]
+}

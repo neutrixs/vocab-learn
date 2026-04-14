@@ -1,0 +1,43 @@
+{
+  "word": "daire dilimi",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "pie slice, sector of a circle",
+  "sentences": [
+    {
+      "id": "daire_s1",
+      "text": "[daire dilimi]nde merkez açı çok önemlidir.",
+      "note": null
+    },
+    {
+      "id": "daire_s2",
+      "text": "Pasta şeklindeki tatlı [daire dilimi]ne kesilmiştir.",
+      "note": null
+    },
+    {
+      "id": "daire_s3",
+      "text": "[daire dilimi] iki yarıçap ve bir yay ile sınırlandırılır.",
+      "note": null
+    },
+    {
+      "id": "daire_s4",
+      "text": "Grafikte veri [daire dilimi]yle gösterilmiştir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "daire_r1",
+      "prompt": "Dairenin merkez açı ile sınırlandırılan bölümü ne denir?",
+      "accepted_forms": ["daire dilimi"],
+      "note": null
+    },
+    {
+      "id": "daire_r2",
+      "prompt": "Pasta dilimi hangi geometrik bölgenin örneğidir?",
+      "accepted_forms": ["daire dilimi", "daire"],
+      "note": null
+    }
+  ]
+}

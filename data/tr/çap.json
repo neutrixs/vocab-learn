@@ -1,0 +1,43 @@
+{
+  "word": "çap",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "diameter",
+  "sentences": [
+    {
+      "id": "çap_s1",
+      "text": "Dairenin [çap]ı 10 metre.",
+      "note": null
+    },
+    {
+      "id": "çap_s2",
+      "text": "[Çap]ı bilince yarıçapı bulabilirsin.",
+      "note": null
+    },
+    {
+      "id": "çap_s3",
+      "text": "Bu borünün [çap]ı ne kadar?",
+      "note": null
+    },
+    {
+      "id": "çap_s4",
+      "text": "[Çap] merkez üzerinden geçer.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çap_r1",
+      "prompt": "Çap kelimesinin anlamı nedir?",
+      "accepted_forms": ["çap"],
+      "note": null
+    },
+    {
+      "id": "çap_r2",
+      "prompt": "Bir dairenin merkezinden geçerek iki ucunun kenarına uzanan çizgi hangi kelimeyle adlandırılır?",
+      "accepted_forms": ["çap"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "ebedilik",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "eternity, immortality, everlasting nature",
+  "sentences": [
+    {
+      "id": "ebedilik_s1",
+      "text": "Ruh [ebedilik]e doğru yolculuk yapar.",
+      "note": null
+    },
+    {
+      "id": "ebedilik_s2",
+      "text": "Sanat eserleri [ebedilik]e ulaşmaya çalışır.",
+      "note": null
+    },
+    {
+      "id": "ebedilik_s3",
+      "text": "[Ebedilik] insanoğlunun hep merak ettiği bir konudur.",
+      "note": null
+    },
+    {
+      "id": "ebedilik_s4",
+      "text": "Aşk ve dostluk [ebedilik]e değer taşıdığını düşünürüz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ebedilik_r1",
+      "prompt": "Sonsuzluk, sonsuz varlık durumu anlamına gelen sözcük nedir?",
+      "accepted_forms": ["ebedilik"],
+      "note": null
+    },
+    {
+      "id": "ebedilik_r2",
+      "prompt": "İngilizce 'eternity' anlamına gelen Türkçe kelime nedir?",
+      "accepted_forms": ["ebedilik"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "tencere",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "pot, pan, saucepan",
+  "sentences": [
+    {
+      "id": "tencere_s1",
+      "text": "Yemek pişirmek için büyük bir [tencere] kullan.",
+      "note": null
+    },
+    {
+      "id": "tencere_s2",
+      "text": "Su kaynadığında [tencere]'nin kapağı açılıyor.",
+      "note": null
+    },
+    {
+      "id": "tencere_s3",
+      "text": "Çorba [tencere]'de kaynatılıyor.",
+      "note": null
+    },
+    {
+      "id": "tencere_s4",
+      "text": "Mutfakta duran eski aluminyum [tencere]'ler var.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tencere_r1",
+      "prompt": "Yemek pişirmek için ocakta kullanılan metal kap nedir?",
+      "accepted_forms": ["tencere"],
+      "note": null
+    },
+    {
+      "id": "tencere_r2",
+      "prompt": "Çorba, yemek veya su kaynatmak için kullanılan kapı söyle.",
+      "accepted_forms": ["tencere"],
+      "note": null
+    }
+  ]
+}

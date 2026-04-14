@@ -1,0 +1,43 @@
+{
+  "word": "korkak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "cowardly, timid, fearful",
+  "sentences": [
+    {
+      "id": "korkak_s1",
+      "text": "[Korkak] bir davranış gösterme.",
+      "note": null
+    },
+    {
+      "id": "korkak_s2",
+      "text": "O [korkak] bir kişidir.",
+      "note": null
+    },
+    {
+      "id": "korkak_s3",
+      "text": "[Korkak] olmak çoğu zaman yanlıştır.",
+      "note": null
+    },
+    {
+      "id": "korkak_s4",
+      "text": "Bu [korkak] hareket onun karakterini gösterir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "korkak_r1",
+      "prompt": "Korkak kelimesinin anlamı nedir?",
+      "accepted_forms": ["korkak"],
+      "note": null
+    },
+    {
+      "id": "korkak_r2",
+      "prompt": "Korkusu çok fazla olan bir kişi hangi kelimeyle tanımlanır?",
+      "accepted_forms": ["korkak"],
+      "note": null
+    }
+  ]
+}

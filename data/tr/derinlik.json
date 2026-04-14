@@ -1,0 +1,43 @@
+{
+  "word": "derinlik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "depth",
+  "sentences": [
+    {
+      "id": "derinlik_s1",
+      "text": "Kuyu [derinlik]i 50 metredir.",
+      "note": null
+    },
+    {
+      "id": "derinlik_s2",
+      "text": "Denizin [derinlik]ini ölçmek zordur.",
+      "note": null
+    },
+    {
+      "id": "derinlik_s3",
+      "text": "Yüzme havuzunun [derinlik]i 2 metredir.",
+      "note": null
+    },
+    {
+      "id": "derinlik_s4",
+      "text": "[derinlik] artıkça ışık azalır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "derinlik_r1",
+      "prompt": "Bir şeyin yukarısından aşağısına olan uzaklığı ne denir?",
+      "accepted_forms": ["derinlik"],
+      "note": null
+    },
+    {
+      "id": "derinlik_r2",
+      "prompt": "Yüzme havuzunun ne kadar olduğundan bahsediyoruz?",
+      "accepted_forms": ["derinlik"],
+      "note": null
+    }
+  ]
+}

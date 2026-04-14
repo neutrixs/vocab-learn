@@ -1,0 +1,43 @@
+{
+  "word": "dik açı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "right angle",
+  "sentences": [
+    {
+      "id": "dik_s1",
+      "text": "Kare şekli [dik açı]lardan oluşur.",
+      "note": null
+    },
+    {
+      "id": "dik_s2",
+      "text": "Dikdörtgenin her köşesinde bir [dik açı] vardır.",
+      "note": null
+    },
+    {
+      "id": "dik_s3",
+      "text": "[dik açı] doksan derece olur.",
+      "note": null
+    },
+    {
+      "id": "dik_s4",
+      "text": "Bu duvar ile zemin [dik açı] oluştururlar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dik_r1",
+      "prompt": "Doksan derece olan açı ne tür açıdır?",
+      "accepted_forms": ["dik açı", "dik"],
+      "note": null
+    },
+    {
+      "id": "dik_r2",
+      "prompt": "Karenin her köşesinde ne vardır?",
+      "accepted_forms": ["dik açı", "dik"],
+      "note": null
+    }
+  ]
+}

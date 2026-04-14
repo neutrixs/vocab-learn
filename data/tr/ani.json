@@ -1,0 +1,43 @@
+{
+  "word": "ani",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "sudden, abrupt",
+  "sentences": [
+    {
+      "id": "ani_s1",
+      "text": "[Ani] bir karar almak iyi değildir.",
+      "note": null
+    },
+    {
+      "id": "ani_s2",
+      "text": "Fırtına çok [ani] başladı.",
+      "note": null
+    },
+    {
+      "id": "ani_s3",
+      "text": "[Ani] ölüm hepimizi şaşırttı.",
+      "note": null
+    },
+    {
+      "id": "ani_s4",
+      "text": "Trafikteki [ani] durma tehlikeli olabilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ani_r1",
+      "prompt": "Birdenbire olan, önceden uyarısız meydana gelen anlamına gelen sıfat nedir?",
+      "accepted_forms": ["ani"],
+      "note": null
+    },
+    {
+      "id": "ani_r2",
+      "prompt": "İngilizce 'sudden' anlamına gelen Türkçe kelime nedir?",
+      "accepted_forms": ["ani"],
+      "note": null
+    }
+  ]
+}

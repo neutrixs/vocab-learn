@@ -1,0 +1,43 @@
+{
+  "word": "daire parçası",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "arc, circular segment",
+  "sentences": [
+    {
+      "id": "daire_s1",
+      "text": "Dairenin [daire parçası]nı hesaplamak zordur.",
+      "note": null
+    },
+    {
+      "id": "daire_s2",
+      "text": "[daire parçası] merkezden çizilen iki yarıçap arasında kalan bölgedir.",
+      "note": null
+    },
+    {
+      "id": "daire_s3",
+      "text": "Pizza dilimi bir [daire parçası] örneğidir.",
+      "note": null
+    },
+    {
+      "id": "daire_s4",
+      "text": "Geometride [daire parçası]nın alanı formülle hesaplanır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "daire_r1",
+      "prompt": "Dairenin merkezinden çizilen iki yarıçap arasında kalan bölge ne denir?",
+      "accepted_forms": ["daire parçası"],
+      "note": null
+    },
+    {
+      "id": "daire_r2",
+      "prompt": "Pizza dilimi hangi geometrik şeklin örneğidir?",
+      "accepted_forms": ["daire parçası", "daire"],
+      "note": null
+    }
+  ]
+}

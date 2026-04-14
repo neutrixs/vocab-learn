@@ -1,0 +1,43 @@
+{
+  "word": "yamuk",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "trapezoid",
+  "sentences": [
+    {
+      "id": "yamuk_s1",
+      "text": "[Yamuk] bir çokgendir.",
+      "note": null
+    },
+    {
+      "id": "yamuk_s2",
+      "text": "Şekil [yamuk] olarak gösterilmiştir.",
+      "note": null
+    },
+    {
+      "id": "yamuk_s3",
+      "text": "[Yamuk]un paralel kenarları var.",
+      "note": null
+    },
+    {
+      "id": "yamuk_s4",
+      "text": "Bu [yamuk] alanını hesapla.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yamuk_r1",
+      "prompt": "Yamuk kelimesinin anlamı nedir?",
+      "accepted_forms": ["yamuk"],
+      "note": null
+    },
+    {
+      "id": "yamuk_r2",
+      "prompt": "Bir çift paralel kenarı olan dörtgen ne denir?",
+      "accepted_forms": ["yamuk"],
+      "note": null
+    }
+  ]
+}

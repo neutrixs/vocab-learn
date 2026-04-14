@@ -1,0 +1,43 @@
+{
+  "word": "varil",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "drum, barrel",
+  "sentences": [
+    {
+      "id": "varil_s1",
+      "text": "Petrol [varil]de taşınır.",
+      "note": null
+    },
+    {
+      "id": "varil_s2",
+      "text": "[varil]in kapasitesi 200 litredir.",
+      "note": null
+    },
+    {
+      "id": "varil_s3",
+      "text": "Metal [varil]lar endüstride kullanılır.",
+      "note": null
+    },
+    {
+      "id": "varil_s4",
+      "text": "İtfaiyeci [varil]dan su çektiler.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "varil_r1",
+      "prompt": "Petrol veya diğer sıvıları taşımak için kullanılan silindir şekilli kap ne denir?",
+      "accepted_forms": ["varil"],
+      "note": null
+    },
+    {
+      "id": "varil_r2",
+      "prompt": "Endüstriyel uygulamalarda petrol hangi konteyner de taşınır?",
+      "accepted_forms": ["varil"],
+      "note": null
+    }
+  ]
+}

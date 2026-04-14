@@ -1,0 +1,43 @@
+{
+  "word": "kesişme",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "intersection, crossing",
+  "sentences": [
+    {
+      "id": "kesişme_s1",
+      "text": "Sokaklar [kesişme]de bir trafik kazası oldu.",
+      "note": null
+    },
+    {
+      "id": "kesişme_s2",
+      "text": "İki yolun [kesişme]si tehlikeli bir yerdir.",
+      "note": null
+    },
+    {
+      "id": "kesişme_s3",
+      "text": "[kesişme]de dikkatli olmak gerekir.",
+      "note": null
+    },
+    {
+      "id": "kesişme_s4",
+      "text": "Sokağın [kesişme]sinde trafik ışığı vardır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kesişme_r1",
+      "prompt": "İki sokağın bir yerde karşılaştığı yer ne denir?",
+      "accepted_forms": ["kesişme"],
+      "note": null
+    },
+    {
+      "id": "kesişme_r2",
+      "prompt": "Trafik ışığının bulunduğu yer hangi kelimenin örneğidir?",
+      "accepted_forms": ["kesişme"],
+      "note": null
+    }
+  ]
+}

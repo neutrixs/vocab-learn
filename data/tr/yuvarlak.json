@@ -1,0 +1,43 @@
+{
+  "word": "yuvarlak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "round, circular, plump",
+  "sentences": [
+    {
+      "id": "yuvarlak_s1",
+      "text": "[Yuvarlak] bir topla oynadık.",
+      "note": null
+    },
+    {
+      "id": "yuvarlak_s2",
+      "text": "Masanın şekli [yuvarlak]tır.",
+      "note": null
+    },
+    {
+      "id": "yuvarlak_s3",
+      "text": "[Yuvarlak] yüzlü bir kadın gördüm.",
+      "note": null
+    },
+    {
+      "id": "yuvarlak_s4",
+      "text": "Bu [yuvarlak] nesne ne işe yarar?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yuvarlak_r1",
+      "prompt": "Yuvarlak kelimesinin anlamı nedir?",
+      "accepted_forms": ["yuvarlak"],
+      "note": null
+    },
+    {
+      "id": "yuvarlak_r2",
+      "prompt": "Dairesel olan bir şeyi hangi kelimeyle tanımlarız?",
+      "accepted_forms": ["yuvarlak"],
+      "note": null
+    }
+  ]
+}

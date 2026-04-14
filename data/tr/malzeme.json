@@ -1,0 +1,43 @@
+{
+  "word": "malzeme",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "material, ingredient, substance, component",
+  "sentences": [
+    {
+      "id": "malzeme_s1",
+      "text": "Bu pastayı yapmak için gerekli [malzeme]leri hazırladı.",
+      "note": null
+    },
+    {
+      "id": "malzeme_s2",
+      "text": "İnşaat için kaliteli [malzeme] seçmek çok önemlidir.",
+      "note": null
+    },
+    {
+      "id": "malzeme_s3",
+      "text": "[Malzeme] fiyatları bu ay yükseldi.",
+      "note": null
+    },
+    {
+      "id": "malzeme_s4",
+      "text": "Elbiseler farklı [malzeme]lerden yapılır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "malzeme_r1",
+      "prompt": "Pasta yapmak için kullanılan şeyler nedir?",
+      "accepted_forms": ["malzeme"],
+      "note": null
+    },
+    {
+      "id": "malzeme_r2",
+      "prompt": "İnşaatçı tarafından kullanılan madde, tuz, şeker gibi şeyler ne demektir?",
+      "accepted_forms": ["malzeme"],
+      "note": null
+    }
+  ]
+}

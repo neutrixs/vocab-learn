@@ -1,0 +1,43 @@
+{
+  "word": "ölçek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "scale, gauge",
+  "sentences": [
+    {
+      "id": "ölçek_s1",
+      "text": "Haritada [ölçek] 1:100.000'dir.",
+      "note": null
+    },
+    {
+      "id": "ölçek_s2",
+      "text": "Bu model binanın 1/50 [ölçek]indedir.",
+      "note": null
+    },
+    {
+      "id": "ölçek_s3",
+      "text": "[ölçek]i kontrol etmeden harita kullanılamaz.",
+      "note": null
+    },
+    {
+      "id": "ölçek_s4",
+      "text": "Müzik [ölçek]inde notalar sıralanır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ölçek_r1",
+      "prompt": "Harita veya modelde gerçek boyutla ilişki ne denir?",
+      "accepted_forms": ["ölçek"],
+      "note": null
+    },
+    {
+      "id": "ölçek_r2",
+      "prompt": "1:100.000 ne tür bilgi verir?",
+      "accepted_forms": ["ölçek"],
+      "note": null
+    }
+  ]
+}

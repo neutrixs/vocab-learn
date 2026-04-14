@@ -1,0 +1,43 @@
+{
+  "word": "miktar",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "amount, quantity",
+  "sentences": [
+    {
+      "id": "miktar_s1",
+      "text": "Çorbaya tuz [miktar]ı az olmalıdır.",
+      "note": null
+    },
+    {
+      "id": "miktar_s2",
+      "text": "Yağmur [miktar]ı bu yıl az oldu.",
+      "note": null
+    },
+    {
+      "id": "miktar_s3",
+      "text": "[miktar] ne kadar olacak?",
+      "note": null
+    },
+    {
+      "id": "miktar_s4",
+      "text": "Daha az [miktar]da birsey satın almak daha ucuz değildir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "miktar_r1",
+      "prompt": "Bir şeyin ne kadar olduğu ne denir?",
+      "accepted_forms": ["miktar"],
+      "note": null
+    },
+    {
+      "id": "miktar_r2",
+      "prompt": "Yağmur ... az oldu demek doğru mudur?",
+      "accepted_forms": ["miktar"],
+      "note": null
+    }
+  ]
+}

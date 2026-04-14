@@ -1,0 +1,43 @@
+{
+  "word": "kader",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "fate, destiny, fortune",
+  "sentences": [
+    {
+      "id": "kader_s1",
+      "text": "İnsanın [kader]i belirli midir?",
+      "note": null
+    },
+    {
+      "id": "kader_s2",
+      "text": "Çoğu insan [kader]e inanır.",
+      "note": null
+    },
+    {
+      "id": "kader_s3",
+      "text": "Bazılar [kader]i değiştirebileceğini düşünür.",
+      "note": null
+    },
+    {
+      "id": "kader_s4",
+      "text": "[Kader]i kabullenmek yaşamı kolaylaştırır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kader_r1",
+      "prompt": "Önceden belirlenen, değiştirilmesi mümkün olmayan durum anlamına gelen isim nedir?",
+      "accepted_forms": ["kader"],
+      "note": null
+    },
+    {
+      "id": "kader_r2",
+      "prompt": "İngilizce 'fate' veya 'destiny' anlamına gelen Türkçe kelime nedir?",
+      "accepted_forms": ["kader"],
+      "note": null
+    }
+  ]
+}

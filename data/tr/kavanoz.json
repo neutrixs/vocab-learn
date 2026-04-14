@@ -1,0 +1,43 @@
+{
+  "word": "kavanoz",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "jar",
+  "sentences": [
+    {
+      "id": "kavanoz_s1",
+      "text": "Marmeladı [kavanoz]a koyduk.",
+      "note": null
+    },
+    {
+      "id": "kavanoz_s2",
+      "text": "Bu [kavanoz] çok eski ve kütülüdür.",
+      "note": null
+    },
+    {
+      "id": "kavanoz_s3",
+      "text": "[kavanoz]un kapağı sıkıdır.",
+      "note": null
+    },
+    {
+      "id": "kavanoz_s4",
+      "text": "Turşuyu [kavanoz]da saklıyoruz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kavanoz_r1",
+      "prompt": "Marmelajı veya turşuyu saklayan cam kap ne denir?",
+      "accepted_forms": ["kavanoz"],
+      "note": null
+    },
+    {
+      "id": "kavanoz_r2",
+      "prompt": "Kapakla kapatılan yuvarlak cam ebe ne adı verilir?",
+      "accepted_forms": ["kavanoz"],
+      "note": null
+    }
+  ]
+}

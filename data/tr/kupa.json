@@ -1,0 +1,43 @@
+{
+  "word": "kupa",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "cup, trophy",
+  "sentences": [
+    {
+      "id": "kupa_s1",
+      "text": "Futbol turnuvasının [kupa]'sı çok güzel.",
+      "note": null
+    },
+    {
+      "id": "kupa_s2",
+      "text": "Kahvemi sıcak bir [kupa]'da içiyorum.",
+      "note": null
+    },
+    {
+      "id": "kupa_s3",
+      "text": "Şampiyon [kupa]'yı kaldırdığında seyirciler alkışladı.",
+      "note": null
+    },
+    {
+      "id": "kupa_s4",
+      "text": "Porselen [kupa]'lar yemeğe asılı duruyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kupa_r1",
+      "prompt": "Sporcu kazandığında aldığı metal veya cam şey nedir?",
+      "accepted_forms": ["kupa"],
+      "note": null
+    },
+    {
+      "id": "kupa_r2",
+      "prompt": "Sıcak çay veya kahveyi içmek için kullanılan kapı söyle.",
+      "accepted_forms": ["kupa"],
+      "note": null
+    }
+  ]
+}

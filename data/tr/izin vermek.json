@@ -1,0 +1,43 @@
+{
+  "word": "izin vermek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "phrase",
+  "english_gloss": "to allow, to permit, to give permission",
+  "sentences": [
+    {
+      "id": "izin_s1",
+      "text": "Babam bana bahçeye çıkmayı [izin vermek]ti.",
+      "note": null
+    },
+    {
+      "id": "izin_s2",
+      "text": "Öğretmen ödevini ertelemesine [izin vermek]ti.",
+      "note": null
+    },
+    {
+      "id": "izin_s3",
+      "text": "Hastane ziyaretçileri girmesine [izin vermek]iyor.",
+      "note": null
+    },
+    {
+      "id": "izin_s4",
+      "text": "Hava koşulları liman açılmasına [izin vermek]ti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "izin_r1",
+      "prompt": "Birinin bir şey yapmasına müsaade etmek, ruhsat vermek anlamına gelen ifade nedir?",
+      "accepted_forms": ["izin vermek"],
+      "note": null
+    },
+    {
+      "id": "izin_r2",
+      "prompt": "İngilizce 'to allow' anlamına gelen Türkçe cümle nedir?",
+      "accepted_forms": ["izin vermek"],
+      "note": null
+    }
+  ]
+}

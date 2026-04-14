@@ -1,0 +1,43 @@
+{
+  "word": "yarıçap",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "radius",
+  "sentences": [
+    {
+      "id": "yarıçap_s1",
+      "text": "Çap [yarıçap]ın iki katıdır.",
+      "note": null
+    },
+    {
+      "id": "yarıçap_s2",
+      "text": "[Yarıçap]ı r harfiyle gösterelim.",
+      "note": null
+    },
+    {
+      "id": "yarıçap_s3",
+      "text": "Bu dairenin [yarıçap]ı 5 cm'dir.",
+      "note": null
+    },
+    {
+      "id": "yarıçap_s4",
+      "text": "[Yarıçap] merkez ile çember arasının mesafesidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yarıçap_r1",
+      "prompt": "Yarıçap kelimesinin anlamı nedir?",
+      "accepted_forms": ["yarıçap"],
+      "note": null
+    },
+    {
+      "id": "yarıçap_r2",
+      "prompt": "Bir dairenin merkezi ile çemberi arasındaki mesafe hangi kelimeyle adlandırılır?",
+      "accepted_forms": ["yarıçap"],
+      "note": null
+    }
+  ]
+}

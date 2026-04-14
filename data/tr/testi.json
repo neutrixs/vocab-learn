@@ -1,0 +1,43 @@
+{
+  "word": "testi",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "water jug, earthen jar, pitcher",
+  "sentences": [
+    {
+      "id": "testi_s1",
+      "text": "Toprak [testi]'den soğuk su içerler.",
+      "note": null
+    },
+    {
+      "id": "testi_s2",
+      "text": "Eski [testi]'ler müzayedede satılmıştır.",
+      "note": null
+    },
+    {
+      "id": "testi_s3",
+      "text": "[Testi]'nin çatlak var, dikkat et.",
+      "note": null
+    },
+    {
+      "id": "testi_s4",
+      "text": "Halk [testi]'ye el kaynağı diyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "testi_r1",
+      "prompt": "Eski Türk evlerde topraktan yapılan su kabı nedir?",
+      "accepted_forms": ["testi"],
+      "note": null
+    },
+    {
+      "id": "testi_r2",
+      "prompt": "Pide, süt gibi şeyleri koymak için kullanılan pişmiş toprak kap söyle.",
+      "accepted_forms": ["testi"],
+      "note": null
+    }
+  ]
+}

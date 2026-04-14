@@ -1,0 +1,43 @@
+{
+  "word": "sepet",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "basket, hamper, wicker basket",
+  "sentences": [
+    {
+      "id": "sepet_s1",
+      "text": "Meyve [sepet]'ine yer yok.",
+      "note": null
+    },
+    {
+      "id": "sepet_s2",
+      "text": "Hasır [sepet]'i taşıyor.",
+      "note": null
+    },
+    {
+      "id": "sepet_s3",
+      "text": "[Sepet]'te yumurta var.",
+      "note": null
+    },
+    {
+      "id": "sepet_s4",
+      "text": "Piknik için [sepet] aldık.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sepet_r1",
+      "prompt": "Meyve, sebze, ekmek gibi şeyler taşımak için kullanılan hasır kap nedir?",
+      "accepted_forms": ["sepet"],
+      "note": null
+    },
+    {
+      "id": "sepet_r2",
+      "prompt": "Dokuma kumaş veya hasırdan yapılan taşımalı kap söyle.",
+      "accepted_forms": ["sepet"],
+      "note": null
+    }
+  ]
+}

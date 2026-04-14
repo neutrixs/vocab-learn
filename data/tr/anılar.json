@@ -1,0 +1,43 @@
+{
+  "word": "anılar",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "memories, recollections",
+  "sentences": [
+    {
+      "id": "anılar_s1",
+      "text": "Çocukluk [anılar]ım çok tatlıdır.",
+      "note": null
+    },
+    {
+      "id": "anılar_s2",
+      "text": "Onunla geçirdiğimiz [anılar] asla silinmeyecek.",
+      "note": null
+    },
+    {
+      "id": "anılar_s3",
+      "text": "Fotoğraflar güzel [anılar]ı geri getirir.",
+      "note": null
+    },
+    {
+      "id": "anılar_s4",
+      "text": "Yaşlılık [anılar]ını düşünerek geçer.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "anılar_r1",
+      "prompt": "Geçmişte yaşanılan ve hatırlanılan olaylar anlamına gelen çoğul isim nedir?",
+      "accepted_forms": ["anılar"],
+      "note": null
+    },
+    {
+      "id": "anılar_r2",
+      "prompt": "İngilizce 'memories' anlamına gelen Türkçe kelime nedir?",
+      "accepted_forms": ["anılar"],
+      "note": null
+    }
+  ]
+}

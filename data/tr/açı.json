@@ -1,0 +1,43 @@
+{
+  "word": "açı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "angle",
+  "sentences": [
+    {
+      "id": "açı_s1",
+      "text": "Üçgenlerin iç [açı]ları 180 derecedir.",
+      "note": null
+    },
+    {
+      "id": "açı_s2",
+      "text": "Bu [açı] 45 derecedir.",
+      "note": null
+    },
+    {
+      "id": "açı_s3",
+      "text": "[açı]yı ölçmek için iletki kullanırız.",
+      "note": null
+    },
+    {
+      "id": "açı_s4",
+      "text": "Düz [açı] 180 derecedir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "açı_r1",
+      "prompt": "İki ışının başlangıç noktasında oluşturdukları şey nedir?",
+      "accepted_forms": ["açı"],
+      "note": null
+    },
+    {
+      "id": "açı_r2",
+      "prompt": "Derece ile ölçülen geometrik kavram hangisidir?",
+      "accepted_forms": ["açı"],
+      "note": null
+    }
+  ]
+}

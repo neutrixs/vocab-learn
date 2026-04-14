@@ -1,0 +1,43 @@
+{
+  "word": "çevre çizgisi",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "circumference, perimeter",
+  "sentences": [
+    {
+      "id": "çevre_s1",
+      "text": "Dairenin [çevre çizgisi]ni ölç.",
+      "note": null
+    },
+    {
+      "id": "çevre_s2",
+      "text": "[Çevre çizgisi] 2πr formülüyle hesaplanır.",
+      "note": null
+    },
+    {
+      "id": "çevre_s3",
+      "text": "Bu şeklin [çevre çizgisi] 20 metre.",
+      "note": null
+    },
+    {
+      "id": "çevre_s4",
+      "text": "[Çevre çizgisi]ni bulabilir misin?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çevre_r1",
+      "prompt": "Çevre çizgisi kelimesinin anlamı nedir?",
+      "accepted_forms": ["çevre çizgisi"],
+      "note": null
+    },
+    {
+      "id": "çevre_r2",
+      "prompt": "Bir dairenin etrafındaki toplam mesafe hangi kelimeyle adlandırılır?",
+      "accepted_forms": ["çevre çizgisi"],
+      "note": null
+    }
+  ]
+}

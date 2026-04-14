@@ -7,36 +7,36 @@
   "sentences": [
     {
       "id": "boyut_s1",
-      "text": "Bu masanın [boyutu] çok büyüktür.",
+      "text": "Bu gömleğin [boyut]u L mi?",
       "note": null
     },
     {
       "id": "boyut_s2",
-      "text": "Küçük ve büyük [boyutlar] vardır.",
+      "text": "[boyut] açısından bu kutu çok küçük.",
       "note": null
     },
     {
       "id": "boyut_s3",
-      "text": "Yapının [boyutunu] mimarı belirlemiştir.",
+      "text": "Ayakkabı [boyut]u kaç?",
       "note": null
     },
     {
       "id": "boyut_s4",
-      "text": "Bu proje müthiş [boyutlara] ulaştı.",
+      "text": "Ekranın [boyut]u 55 inç olarak veriliyor.",
       "note": null
     }
   ],
   "recall_prompts": [
     {
       "id": "boyut_r1",
-      "prompt": "Bir nesnenin uzunluğu, genişliği ve yüksekliğinin ölçüsü nedir?",
-      "accepted_forms": ["boyut", "boyutu", "boyutlar"],
+      "prompt": "Bir giysi ne kadar büyük olduğu ne denir?",
+      "accepted_forms": ["boyut"],
       "note": null
     },
     {
       "id": "boyut_r2",
-      "prompt": "Giysi S, M, L gibi seçeneklerine ne denir?",
-      "accepted_forms": ["boyut", "boyutlar"],
+      "prompt": "Ayakkabı ne konusunda sorulur?",
+      "accepted_forms": ["boyut"],
       "note": null
     }
   ]

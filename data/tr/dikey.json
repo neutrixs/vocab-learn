@@ -1,0 +1,43 @@
+{
+  "word": "dikey",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "vertical",
+  "sentences": [
+    {
+      "id": "dikey_s1",
+      "text": "[Dikey] bir çizgi çiz.",
+      "note": null
+    },
+    {
+      "id": "dikey_s2",
+      "text": "Bina [dikey] bir yapıdır.",
+      "note": null
+    },
+    {
+      "id": "dikey_s3",
+      "text": "[Dikey] eksen y olarak adlandırılır.",
+      "note": null
+    },
+    {
+      "id": "dikey_s4",
+      "text": "Bu poster [dikey] şekilde asılmalı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dikey_r1",
+      "prompt": "Dikey kelimesinin anlamı nedir?",
+      "accepted_forms": ["dikey"],
+      "note": null
+    },
+    {
+      "id": "dikey_r2",
+      "prompt": "Yukarıdan aşağıya giden çizgi hangi kelimeyle tanımlanır?",
+      "accepted_forms": ["dikey"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "benzin bidonu",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "jerrycan, fuel container, gas can",
+  "sentences": [
+    {
+      "id": "benzin_s1",
+      "text": "Garajda duran [benzin bidonu]'nda kaç litre var?",
+      "note": null
+    },
+    {
+      "id": "benzin_s2",
+      "text": "Kırmızı plastik [benzin bidonu] çatıda saklanıyor.",
+      "note": null
+    },
+    {
+      "id": "benzin_s3",
+      "text": "Acil durum için [benzin bidonu]'nun kapağını açma.",
+      "note": null
+    },
+    {
+      "id": "benzin_s4",
+      "text": "Yol kenarında atılan eski [benzin bidonu]'nu gördü.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "benzin_r1",
+      "prompt": "Benzin veya yakıt depolamak için kullanılan metal veya plastik kap nedir?",
+      "accepted_forms": ["benzin bidonu"],
+      "note": null
+    },
+    {
+      "id": "benzin_r2",
+      "prompt": "Arabanın yakıtı bittiğinde kullanmak için taşınan kabı söyle.",
+      "accepted_forms": ["benzin bidonu"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "en büyük",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "biggest, largest, greatest",
+  "sentences": [
+    {
+      "id": "en_s1",
+      "text": "Dünyanın [en büyük] okyanusu hangisidir?",
+      "note": null
+    },
+    {
+      "id": "en_s2",
+      "text": "Bu değer [en büyük] olanıdır.",
+      "note": null
+    },
+    {
+      "id": "en_s3",
+      "text": "Ailenin [en büyük] üyesi kimdir?",
+      "note": null
+    },
+    {
+      "id": "en_s4",
+      "text": "[en büyük] sayı 999'dur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "en_r1",
+      "prompt": "Birçok şey arasında boyut açısından karşılaştırma yaptığında en yüksek olanını ne dersiz?",
+      "accepted_forms": ["en büyük"],
+      "note": null
+    },
+    {
+      "id": "en_r2",
+      "prompt": "Kardeşlerin içinde yaşı en fazla olan kişiye ne dersiniz?",
+      "accepted_forms": ["en büyük"],
+      "note": null
+    }
+  ]
+}

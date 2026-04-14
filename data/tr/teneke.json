@@ -1,0 +1,43 @@
+{
+  "word": "teneke",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "tin can, tin",
+  "sentences": [
+    {
+      "id": "teneke_s1",
+      "text": "Çöpü [teneke]ye attı.",
+      "note": null
+    },
+    {
+      "id": "teneke_s2",
+      "text": "[teneke] kutuda konserve vardır.",
+      "note": null
+    },
+    {
+      "id": "teneke_s3",
+      "text": "Gazoz [teneke]den soğuk kalır.",
+      "note": null
+    },
+    {
+      "id": "teneke_s4",
+      "text": "[teneke] kutuların çevresi keskindir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "teneke_r1",
+      "prompt": "Konserveyi saklayan metal kap ne denir?",
+      "accepted_forms": ["teneke"],
+      "note": null
+    },
+    {
+      "id": "teneke_r2",
+      "prompt": "Gazoz sıklıkla hangi tür kaptan içilir?",
+      "accepted_forms": ["teneke"],
+      "note": null
+    }
+  ]
+}

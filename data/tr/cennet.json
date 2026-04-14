@@ -1,0 +1,43 @@
+{
+  "word": "cennet",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "paradise, heaven",
+  "sentences": [
+    {
+      "id": "cennet_s1",
+      "text": "Dini inançlara göre [cennet] iyi insanlar için vardır.",
+      "note": null
+    },
+    {
+      "id": "cennet_s2",
+      "text": "Bu ada [cennet] gibi güzeldir.",
+      "note": null
+    },
+    {
+      "id": "cennet_s3",
+      "text": "Sahilde tatil yapmak [cennet]i andırır.",
+      "note": null
+    },
+    {
+      "id": "cennet_s4",
+      "text": "[Cennet]te ebedi mutluluk vardır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "cennet_r1",
+      "prompt": "Müslüman inancında iyi insanların gittikleri yer anlamına gelen sözcük nedir?",
+      "accepted_forms": ["cennet"],
+      "note": null
+    },
+    {
+      "id": "cennet_r2",
+      "prompt": "İngilizce 'heaven' anlamına gelen Türkçe kelime nedir?",
+      "accepted_forms": ["cennet"],
+      "note": null
+    }
+  ]
+}

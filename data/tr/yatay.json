@@ -1,0 +1,43 @@
+{
+  "word": "yatay",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "horizontal",
+  "sentences": [
+    {
+      "id": "yatay_s1",
+      "text": "[Yatay] bir çizgi çiz.",
+      "note": null
+    },
+    {
+      "id": "yatay_s2",
+      "text": "Ufuk [yatay] görünür.",
+      "note": null
+    },
+    {
+      "id": "yatay_s3",
+      "text": "Bu levha [yatay] konumlandırılmalı.",
+      "note": null
+    },
+    {
+      "id": "yatay_s4",
+      "text": "[Yatay] eksen x olarak adlandırılır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yatay_r1",
+      "prompt": "Yatay kelimesinin anlamı nedir?",
+      "accepted_forms": ["yatay"],
+      "note": null
+    },
+    {
+      "id": "yatay_r2",
+      "prompt": "Soldan sağa giden çizgi hangi kelimeyle tanımlanır?",
+      "accepted_forms": ["yatay"],
+      "note": null
+    }
+  ]
+}

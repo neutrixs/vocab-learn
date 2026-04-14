@@ -1,0 +1,43 @@
+{
+  "word": "hacim",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "volume",
+  "sentences": [
+    {
+      "id": "hacim_s1",
+      "text": "Kutunun [hacim]i çok küçüktür.",
+      "note": null
+    },
+    {
+      "id": "hacim_s2",
+      "text": "Bu sıvının [hacim]i 2 litredir.",
+      "note": null
+    },
+    {
+      "id": "hacim_s3",
+      "text": "[hacim] santimetreküp ile ölçülür.",
+      "note": null
+    },
+    {
+      "id": "hacim_s4",
+      "text": "Kürenin [hacim]i formülle hesaplanır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hacim_r1",
+      "prompt": "Bir nesnenin içi ne kadar yer kapladığını ifade eden kavram nedir?",
+      "accepted_forms": ["hacim"],
+      "note": null
+    },
+    {
+      "id": "hacim_r2",
+      "prompt": "Litre ve santimetreküp neyin ölçü birimleridir?",
+      "accepted_forms": ["hacim"],
+      "note": null
+    }
+  ]
+}

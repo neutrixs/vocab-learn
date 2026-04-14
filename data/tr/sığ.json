@@ -1,0 +1,43 @@
+{
+  "word": "sığ",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "shallow, superficial",
+  "sentences": [
+    {
+      "id": "sığ_s1",
+      "text": "Plajdaki bu kısım çok [sığ]dır.",
+      "note": null
+    },
+    {
+      "id": "sığ_s2",
+      "text": "Onun düşüncesi [sığ] ve anlamsızdır.",
+      "note": null
+    },
+    {
+      "id": "sığ_s3",
+      "text": "[Sığ] sularda tehlike yoktur.",
+      "note": null
+    },
+    {
+      "id": "sığ_s4",
+      "text": "Entelektüel derinlikten yoksun, [sığ] bilgi artık yeterli değildir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sığ_r1",
+      "prompt": "Su, kuyu veya diğer şeyler için derinliği az olan anlamına gelen sıfat nedir?",
+      "accepted_forms": ["sığ"],
+      "note": null
+    },
+    {
+      "id": "sığ_r2",
+      "prompt": "İngilizce 'shallow' anlamına gelen Türkçe kelime nedir?",
+      "accepted_forms": ["sığ"],
+      "note": null
+    }
+  ]
+}

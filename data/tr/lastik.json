@@ -1,0 +1,43 @@
+{
+  "word": "lastik",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "rubber, tire, elastic, elastic band",
+  "sentences": [
+    {
+      "id": "lastik_s1",
+      "text": "Arabanın [lastik]i patladi.",
+      "note": null
+    },
+    {
+      "id": "lastik_s2",
+      "text": "[Lastik] bilezik saçları toplamak için kullanılır.",
+      "note": null
+    },
+    {
+      "id": "lastik_s3",
+      "text": "Bu ayakkabının tabanı [lastik]ten yapılmış.",
+      "note": null
+    },
+    {
+      "id": "lastik_s4",
+      "text": "Bisiklet [lastik]leri değiştirilmesi gerekiyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "lastik_r1",
+      "prompt": "Arabanın tekerleği neyle kaplanmıştır?",
+      "accepted_forms": ["lastik"],
+      "note": null
+    },
+    {
+      "id": "lastik_r2",
+      "prompt": "Saçları toplamak için kullanılan esnek, elastik madde nedir?",
+      "accepted_forms": ["lastik"],
+      "note": null
+    }
+  ]
+}
