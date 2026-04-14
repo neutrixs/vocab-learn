@@ -18,5 +18,9 @@ export async function apiFetch(path: string, init?: RequestInit): Promise<Respon
   if (token) {
     headers['Authorization'] = `Bearer ${token}`;
   }
-  return fetch(path, { ...init, headers });
+  const res = await fetch(path, { ...init, headers });
+  if (res.status === 401) {
+    window.dispatchEvent(new Event('auth:unauthorized'));
+  }
+  return res;
 }

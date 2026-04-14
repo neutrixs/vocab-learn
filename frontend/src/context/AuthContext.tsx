@@ -1,4 +1,4 @@
-import { createContext, useContext, useState, useCallback, type ReactNode } from 'react';
+import { createContext, useContext, useState, useCallback, useEffect, type ReactNode } from 'react';
 
 interface User {
   token: string;
@@ -69,6 +69,12 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     saveUser(null);
     setUser(null);
   }, []);
+
+  useEffect(() => {
+    const handler = () => logout();
+    window.addEventListener('auth:unauthorized', handler);
+    return () => window.removeEventListener('auth:unauthorized', handler);
+  }, [logout]);
 
   return (
     <AuthContext.Provider value={{ user, login, register, logout }}>
