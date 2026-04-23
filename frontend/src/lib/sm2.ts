@@ -37,6 +37,15 @@ export function applyReview(card: SM2Card, grade: ReviewGrade): SM2Card {
     interval = 0;
   } else {
     repetitions += 1;
+    // Use elapsed time as effective interval when overdue
+    let effectiveInterval = interval;
+    if (card.last_reviewed && interval > 0) {
+      const elapsedHours = (Date.now() - parseDate(card.last_reviewed).getTime()) / 3_600_000;
+      if (elapsedHours > interval) {
+        effectiveInterval = elapsedHours;
+      }
+    }
+
     if (repetitions === 1) {
       interval = 4;
     } else if (repetitions === 2) {
@@ -44,7 +53,12 @@ export function applyReview(card: SM2Card, grade: ReviewGrade): SM2Card {
     } else if (repetitions === 3) {
       interval = 24;
     } else {
-      interval = Math.round(interval * ease_factor);
+      interval = Math.round(effectiveInterval * ease_factor);
+    }
+
+    // If overdue, ensure next interval reflects the actual gap
+    if (effectiveInterval > interval) {
+      interval = Math.round(effectiveInterval * ease_factor);
     }
   }
 
