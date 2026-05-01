@@ -1,0 +1,21 @@
+{
+  "word": "tapınak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "temple, shrine",
+  "sentences": [
+    {"id": "tapınak_s1", "text": "Eski [tapınak]ın duvarlarında yüzlerce yıllık sanat eserler bulunuyor.", "note": null},
+    {"id": "tapınak_s2", "text": "İlkbahar bayramında, halk [tapınak]a ziyaret etmek için yoğun bir akın gösteriyor.", "note": null},
+    {"id": "tapınak_s3", "text": "Bu [tapınak] dölüsürü koruma altında alınmıştır.", "note": null},
+    {"id": "tapınak_s4", "text": "[Tapınak]ın içerisinde sakin bir atmosfer hüküm sürmektedir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "tapınak_r1",
+      "prompt": "Dini ibadet ve kutsal törenler yapılan yer ne adına verilir?",
+      "accepted_forms": ["tapınak"],
+      "note": null
+    }
+  ]
+}

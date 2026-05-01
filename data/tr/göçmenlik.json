@@ -1,0 +1,21 @@
+{
+  "word": "göçmenlik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "immigration, being an immigrant",
+  "sentences": [
+    {"id": "gocmenlik_s1", "text": "[Göçmenlik] süreci çoğu zaman güç ve zorlayıcıdır.", "note": null},
+    {"id": "gocmenlik_s2", "text": "Yeni ülkede [göçmenlik] deneyimini paylaşıyor.", "note": null},
+    {"id": "gocmenlik_s3", "text": "[Göçmenlik] kimliği oluşturulması karmaşık bir süreçtir.", "note": null},
+    {"id": "gocmenlik_s4", "text": "Araştırma [göçmenlik]le ilgili sosyal sorunları inceledi.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "gocmenlik_r1",
+      "prompt": "Bir insanın bir ülkeden diğerine gitmesi ve orada yerleşmesi ... olarak bilinir.",
+      "accepted_forms": ["göçmenlik"],
+      "note": null
+    }
+  ]
+}

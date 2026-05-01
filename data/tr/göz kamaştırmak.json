@@ -1,0 +1,21 @@
+{
+  "word": "göz kamaştırmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to dazzle, to bedazzle, to blind with brilliance",
+  "sentences": [
+    {"id": "goz_kamastirmak_s1", "text": "Gelin kırmızı elbisede parlayan mücevherlerle [göz kamaştırmak]ta başardı.", "note": null},
+    {"id": "goz_kamastirmak_s2", "text": "Sarayın altın süslemeleri ve değerli taşları ziyaretçinin [göz kamaştırmak]ında, hiçbir kaynaktan nazar boncuğu almadı.", "note": null},
+    {"id": "goz_kamastirmak_s3", "text": "[Göz kamaştırmak]an tasarımı ve renklerle mimar bu dünyanın en güzel binasını yarattı.", "note": null},
+    {"id": "goz_kamastirmak_s4", "text": "Güneş ışığında kristal bir şişenin [göz kamaştırmak]ması çok güzel bir görüntüdür.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "goz_kamastirmak_r1",
+      "prompt": "Çok parlak ve güzel olan şeyler insanın gözünü alıklaştırması ne denir?",
+      "accepted_forms": ["göz kamaştırmak"],
+      "note": null
+    }
+  ]
+}

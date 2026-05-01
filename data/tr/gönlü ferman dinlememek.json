@@ -1,0 +1,21 @@
+{
+  "word": "gönlü ferman dinlememek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to be headstrong, to not listen to reason (of the heart)",
+  "sentences": [
+    {"id": "gonlu_ferman_dinlememek_s1", "text": "Genci [gönlü ferman dinlememek]tir ve öğütleri dinlemez.", "note": null},
+    {"id": "gonlu_ferman_dinlememek_s2", "text": "Başının çaresiz olmadığında [gönlü ferman dinlememek]en insanlar ileride pişmanlık duyarlar.", "note": null},
+    {"id": "gonlu_ferman_dinlememek_s3", "text": "Ebeveynlerinin nasihatine rağmen, evlilikteki kararını değiştirmedi; [gönlü ferman dinlememek]ti.", "note": null},
+    {"id": "gonlu_ferman_dinlememek_s4", "text": "[Gönlü ferman dinlememek] birçok genç insanın büyük hatası olmuştur.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "gonlu_ferman_dinlememek_r1",
+      "prompt": "Akıl ve mantığa uygun olmasa da kalbi istediği şeyi yapan insanlar ... nedir?",
+      "accepted_forms": ["gönlü ferman dinlememek"],
+      "note": null
+    }
+  ]
+}

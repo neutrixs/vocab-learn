@@ -1,0 +1,21 @@
+{
+  "word": "astronot",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "astronaut",
+  "sentences": [
+    {"id": "astronot_s1", "text": "[Astronot]lar uzay araştırmasında önemli rol oynamaktadırlar.", "note": null},
+    {"id": "astronot_s2", "text": "İlk ay'a ayak basan [astronot] Neil Armstrong olmuştur.", "note": null},
+    {"id": "astronot_s3", "text": "[Astronot]un uzayda yaşamını idame ettirmesi için özel ekipman gereklidir.", "note": null},
+    {"id": "astronot_s4", "text": "Türkiye'de ilk [astronot] Ülkü Temizel olup, uzay istasyonunda araştırma yapacaktır.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "astronot_r1",
+      "prompt": "Uzaya giden, ay yüzeyinde yürüyen kişi ne denir?",
+      "accepted_forms": ["astronot"],
+      "note": null
+    }
+  ]
+}

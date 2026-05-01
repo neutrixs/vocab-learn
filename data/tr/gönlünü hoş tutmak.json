@@ -1,0 +1,21 @@
+{
+  "word": "gönlünü hoş tutmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to keep someone content, to keep spirits up",
+  "sentences": [
+    {"id": "gonlunu_hos_tutmak_s1", "text": "Anne, kızının [gönlünü hoş tutmak] için ona sürpriz hediye aldı.", "note": null},
+    {"id": "gonlunu_hos_tutmak_s2", "text": "Dostunun acısında [gönlünü hoş tutmak] için ona iyi sözler söyledi.", "note": null},
+    {"id": "gonlunu_hos_tutmak_s3", "text": "[Gönlünü hoş tutmak]ın en iyi yolu onun sevdiği şeyleri yapabilmektir.", "note": null},
+    {"id": "gonlunu_hos_tutmak_s4", "text": "Hastalamış komşusunu ziyaret ederek [gönlünü hoş tutmak]ı bir gelenek haline getirdi.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "gonlunu_hos_tutmak_r1",
+      "prompt": "Birinin mutlu, memnun olmasını sağlamak anlamına gelen ifade nedir?",
+      "accepted_forms": ["gönlünü hoş tutmak"],
+      "note": null
+    }
+  ]
+}

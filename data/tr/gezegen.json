@@ -1,0 +1,21 @@
+{
+  "word": "gezegen",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "planet",
+  "sentences": [
+    {"id": "gezegen_s1", "text": "Mars kırmızı [gezegen] olarak bilinir.", "note": null},
+    {"id": "gezegen_s2", "text": "Güneş sistemi sekiz [gezegen]den oluşur.", "note": null},
+    {"id": "gezegen_s3", "text": "Dünya bizim yaşadığımız [gezegen]dir.", "note": null},
+    {"id": "gezegen_s4", "text": "Uzak [gezegen]ler çok soğuk ve karanlıktır.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "gezegen_r1",
+      "prompt": "Güneş etrafında dönen gök cisimlerine ... denir.",
+      "accepted_forms": ["gezegen"],
+      "note": null
+    }
+  ]
+}

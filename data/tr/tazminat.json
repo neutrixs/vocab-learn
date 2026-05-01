@@ -1,0 +1,21 @@
+{
+  "word": "tazminat",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "compensation, damages, indemnity",
+  "sentences": [
+    {"id": "tazminat_s1", "text": "Mağdur, [tazminat] talep etti.", "note": null},
+    {"id": "tazminat_s2", "text": "Mahkeme, [tazminat] miktarını belirledi.", "note": null},
+    {"id": "tazminat_s3", "text": "Şirket, hasardan dolayı [tazminat] ödemesi gerekti.", "note": null},
+    {"id": "tazminat_s4", "text": "[Tazminat], sekiz ay içinde ödendi.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "tazminat_r1",
+      "prompt": "Verilen hasarın karşılığı olarak ödenen tutara ne denir?",
+      "accepted_forms": ["tazminat"],
+      "note": null
+    }
+  ]
+}

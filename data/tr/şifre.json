@@ -1,0 +1,21 @@
+{
+  "word": "şifre",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "password, cipher, code",
+  "sentences": [
+    {"id": "sifre_s1", "text": "Hesabınızı korumak için güçlü bir [şifre] seçin.", "note": null},
+    {"id": "sifre_s2", "text": "Bu [şifre]yi hiç kimseyle paylaşmayınız.", "note": null},
+    {"id": "sifre_s3", "text": "Savaş zamanında askerler gizli [şifre] kullanıyorlardı.", "note": null},
+    {"id": "sifre_s4", "text": "[Şifre]nizi her üç ay değiştirmeniz önerilir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "sifre_r1",
+      "prompt": "Bilgisayar hesabına girmek için gerekli gizli kodlar nedir?",
+      "accepted_forms": ["şifre"],
+      "note": null
+    }
+  ]
+}

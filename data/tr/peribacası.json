@@ -1,0 +1,21 @@
+{
+  "word": "peribacası",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "fairy chimney (volcanic rock formation)",
+  "sentences": [
+    {"id": "peribacasi_s1", "text": "Kapadokya'nın ünlü [peribacası]ları hem turist hem de araştırmacıları cezbediyor.", "note": null},
+    {"id": "peribacasi_s2", "text": "Volkanik aktivitenin yarattığı [peribacası], doğanın şaheserini temsil ediyor.", "note": null},
+    {"id": "peribacasi_s3", "text": "Her bir [peribacası], yüzyıllar boyunca erozyonla biçimlenmiştir.", "note": null},
+    {"id": "peribacasi_s4", "text": "[Peribacası]ların içinde, ortaçağdan kalma yaşam alanları vardır.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "peribacasi_r1",
+      "prompt": "Kapadokya'da bulunan, volkanik taştan oluşan, dikey şekilde yükselen doğal oluşum ne demektir?",
+      "accepted_forms": ["peribacası"],
+      "note": null
+    }
+  ]
+}

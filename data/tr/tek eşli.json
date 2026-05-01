@@ -1,0 +1,21 @@
+{
+  "word": "tek eşli",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "monogamous",
+  "sentences": [
+    {"id": "tek_esli_s1", "text": "Bazı kuş türleri [tek eşli] hayvan grubu içerisinde yer alırlar.", "note": null},
+    {"id": "tek_esli_s2", "text": "İnsanlar çoğunlukla [tek eşli] ilişkiler kurarlar.", "note": null},
+    {"id": "tek_esli_s3", "text": "Kurtlar [tek eşli] memeliler olarak bilinen yapıya sahiptirler.", "note": null},
+    {"id": "tek_esli_s4", "text": "[Tek eşli] türler evlilik bağına sadık kalırlar.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "tek_esli_r1",
+      "prompt": "Sadece bir çiftleşme partnerine sahip olan hayvanlar ... olarak adlandırılırlar.",
+      "accepted_forms": ["tek eşli"],
+      "note": null
+    }
+  ]
+}

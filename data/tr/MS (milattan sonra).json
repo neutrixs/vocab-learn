@@ -1,0 +1,21 @@
+{
+  "word": "MS (milattan sonra)",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "AD (anno Domini / common era)",
+  "sentences": [
+    {"id": "ms_milattan_sonra_s1", "text": "[MS (milattan sonra)] 476 yılında Roma İmparatorluğu yıkıldı.", "note": null},
+    {"id": "ms_milattan_sonra_s2", "text": "İslamiyet [MS (milattan sonra)] 610 yılında ortaya çıkmıştır.", "note": null},
+    {"id": "ms_milattan_sonra_s3", "text": "Türkiye Cumhuriyeti [MS (milattan sonra)] 1923 yılında kuruldu.", "note": null},
+    {"id": "ms_milattan_sonra_s4", "text": "[MS (milattan sonra)] tarihler günümüze doğru yaklaşan zamanları belirtir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "ms_milattan_sonra_r1",
+      "prompt": "İsa'nın doğumundan sonraki tarihleri belirtmek için hangi kısaltma kullanılır?",
+      "accepted_forms": ["MS", "milattan sonra"],
+      "note": null
+    }
+  ]
+}

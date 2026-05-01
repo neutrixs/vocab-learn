@@ -1,0 +1,21 @@
+{
+  "word": "şempanze",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "chimpanzee",
+  "sentences": [
+    {"id": "sempanze_s1", "text": "[Şempanze] insanlarla genetik olarak yakın ilişkili bir primatdır.", "note": null},
+    {"id": "sempanze_s2", "text": "Hayvam bahçesinde [şempanze] ziyaretçilerin ilgisini çeken bir hayvan.", "note": null},
+    {"id": "sempanze_s3", "text": "[Şempanze] akıllı bir hayvan olup çeşitli araçlar kullanabilir.", "note": null},
+    {"id": "sempanze_s4", "text": "[Şempanze]ler sosyal hayvan olup grup halinde yaşarlar.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "sempanze_r1",
+      "prompt": "Afrika'da yaşayan, insanlara çok benzeyen akıllı maymun türü nedir?",
+      "accepted_forms": ["şempanze"],
+      "note": null
+    }
+  ]
+}

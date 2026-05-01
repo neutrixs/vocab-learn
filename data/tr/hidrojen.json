@@ -1,0 +1,21 @@
+{
+  "word": "hidrojen",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "hydrogen",
+  "sentences": [
+    {"id": "hidrojen_s1", "text": "[Hidrojen] ve oksijen su oluşturur.", "note": null},
+    {"id": "hidrojen_s2", "text": "Kimya laboratuvarında [hidrojen] gazını test ettik.", "note": null},
+    {"id": "hidrojen_s3", "text": "[Hidrojen] yakıt hücrelerinde kullanılabilir.", "note": null},
+    {"id": "hidrojen_s4", "text": "Yıldızlar [hidrojen]i füzyonda yakarak enerji üretir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "hidrojen_r1",
+      "prompt": "Periyodik tablonun ilk elementi olan hafif ve yanıcı gaz ... dır.",
+      "accepted_forms": ["hidrojen"],
+      "note": null
+    }
+  ]
+}

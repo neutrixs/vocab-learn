@@ -1,0 +1,21 @@
+{
+  "word": "rekortmen",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "record-holder, record-breaker",
+  "sentences": [
+    {"id": "rekortmen_s1", "text": "Olimpiyat şampiyonu yüzme [rekortmen]idir.", "note": null},
+    {"id": "rekortmen_s2", "text": "[Rekortmen] atlet spor dünyasında saygıyla görülür.", "note": null},
+    {"id": "rekortmen_s3", "text": "Yeni [rekortmen] stadyumda rekordu kırdığında alkışlandı.", "note": null},
+    {"id": "rekortmen_s4", "text": "[Rekortmen] performans antrenörleri tarafından analiz edilir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "rekortmen_r1",
+      "prompt": "Bir spor dalında rekor kıran veya rekord elinde tutan kişi ... olarak adlandırılır.",
+      "accepted_forms": ["rekortmen"],
+      "note": null
+    }
+  ]
+}

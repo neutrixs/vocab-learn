@@ -1,0 +1,21 @@
+{
+  "word": "soruşturmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to investigate, to probe",
+  "sentences": [
+    {"id": "sorusturmak_s1", "text": "Polis, suçu detaylı bir şekilde [soruşturmak]a başladı.", "note": null},
+    {"id": "sorusturmak_s2", "text": "Savcı, dosyayı [soruşturmak]ta dikkatli olmalıdır.", "note": null},
+    {"id": "sorusturmak_s3", "text": "Denetim kurulu, yolsuzluk iddialarını [soruşturmak]tan vazgeçmedi.", "note": null},
+    {"id": "sorusturmak_s4", "text": "Gazeteciler, hadiseleri [soruşturmak]ta ısrarcıydılar.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "sorusturmak_r1",
+      "prompt": "Bir olay veya iddia hakkında derinlemesine araştırma yapmak anlamına gelen fiil hangisidir?",
+      "accepted_forms": ["soruşturmak"],
+      "note": null
+    }
+  ]
+}

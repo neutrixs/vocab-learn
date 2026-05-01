@@ -1,0 +1,21 @@
+{
+  "word": "mahcup",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "embarrassed, ashamed, bashful",
+  "sentences": [
+    {"id": "mahcup_s1", "text": "Sınıfta [mahcup] bir şekilde oturdu.", "note": null},
+    {"id": "mahcup_s2", "text": "Yanlış yaptığı için [mahcup] görünüyordu.", "note": null},
+    {"id": "mahcup_s3", "text": "[Mahcup] bir çocuk sessizce köşede durmaktaydı.", "note": null},
+    {"id": "mahcup_s4", "text": "Hata yaptıktan sonra [mahcup] kalması doğal bir tepkidir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "mahcup_r1",
+      "prompt": "Utanç ve çekingenlikle karşı karşıya olan durumu tanımlamak için kullanılan sözcük?",
+      "accepted_forms": ["mahcup"],
+      "note": null
+    }
+  ]
+}

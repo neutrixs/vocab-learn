@@ -1,0 +1,21 @@
+{
+  "word": "bürokrasi",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "bureaucracy",
+  "sentences": [
+    {"id": "burokrasi_s1", "text": "Devletin [bürokrasi] sistemi çok karmaşıktır.", "note": null},
+    {"id": "burokrasi_s2", "text": "[Bürokrasi] nedeniyle birçok işlem uzun zaman alır.", "note": null},
+    {"id": "burokrasi_s3", "text": "Hükümet [bürokrasi]yi basitleştirmek için çalışıyor.", "note": null},
+    {"id": "burokrasi_s4", "text": "Modern [bürokrasi] dijital sistemlere geçmiştir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "burokrasi_r1",
+      "prompt": "Devletin yönetim sistemi ve kamu kurumlarının yapılandırılması anlamına gelen kelime nedir?",
+      "accepted_forms": ["bürokrasi"],
+      "note": null
+    }
+  ]
+}

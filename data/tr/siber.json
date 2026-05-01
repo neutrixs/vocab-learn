@@ -1,0 +1,21 @@
+{
+  "word": "siber",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "cyber",
+  "sentences": [
+    {"id": "siber_s1", "text": "[Siber] saldırılar şirketlerin verilerini tehdit ediyor.", "note": null},
+    {"id": "siber_s2", "text": "Hükümet [siber] güvenliği artırmak için yatırım yapıyor.", "note": null},
+    {"id": "siber_s3", "text": "[Siber] suçlar modern zamanda büyüyen bir endişedir.", "note": null},
+    {"id": "siber_s4", "text": "[Siber] uzmanlar sistem savunması için eğitiliyor.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "siber_r1",
+      "prompt": "İnternet ve bilgisayar ağlarına bağlı olan veya dijital alanda gerçekleşen ... saldırılardan söz edilir.",
+      "accepted_forms": ["siber"],
+      "note": null
+    }
+  ]
+}

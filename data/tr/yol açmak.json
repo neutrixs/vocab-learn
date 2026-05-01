@@ -1,0 +1,21 @@
+{
+  "word": "yol açmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to cause, to lead to, to give rise to",
+  "sentences": [
+    {"id": "yol_acmak_s1", "text": "Teknolojik gelişmeler yeni endüstrilere [yol açmak].", "note": null},
+    {"id": "yol_acmak_s2", "text": "Zayıf beslenme sağlık sorunlarına [yol açmak].", "note": null},
+    {"id": "yol_acmak_s3", "text": "Eğitim bireylerin daha iyi fırsatlarına [yol açmak].", "note": null},
+    {"id": "yol_acmak_s4", "text": "Stres ve uyku eksikliği zihinsel bozuklukların [yol açmak].", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "yol_acmak_r1",
+      "prompt": "Teknolojik gelişmeler yeni endüstrilere ... .",
+      "accepted_forms": ["yol açmak"],
+      "note": null
+    }
+  ]
+}

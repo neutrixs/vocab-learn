@@ -1,0 +1,21 @@
+{
+  "word": "dirençli",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "resilient, resistant, tough",
+  "sentences": [
+    {"id": "direncli_s1", "text": "Bu malzeme çok [dirençli] ve dayanıklıdır.", "note": null},
+    {"id": "direncli_s2", "text": "Sporcular [dirençli] beden ve ruh ile antrenman yaparlar.", "note": null},
+    {"id": "direncli_s3", "text": "[Dirençli] bitkiler kurakta da yaşayabilir.", "note": null},
+    {"id": "direncli_s4", "text": "Ağaç [dirençli] bir yapı malzemesidir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "direncli_r1",
+      "prompt": "Zorluklara karşı sağlam ve kolay yıkılmayan ... bir kişidir.",
+      "accepted_forms": ["dirençli"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "tanık",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "witness",
+  "sentences": [
+    {"id": "tanik_s1", "text": "[Tanık], davada önemli bilgi verdi.", "note": null},
+    {"id": "tanik_s2", "text": "Hâkim, [tanık]kı dinledi.", "note": null},
+    {"id": "tanik_s3", "text": "Olayı gören [tanık] polis çağırdı.", "note": null},
+    {"id": "tanik_s4", "text": "Mahkemede üç [tanık] ifade verdi.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "tanik_r1",
+      "prompt": "Bir olayı görüp mahkemede ifade veren kişiye ne denir?",
+      "accepted_forms": ["tanık"],
+      "note": null
+    }
+  ]
+}

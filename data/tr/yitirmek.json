@@ -1,0 +1,21 @@
+{
+  "word": "yitirmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to lose, to forfeit (literary)",
+  "sentences": [
+    {"id": "yitirmek_s1", "text": "Savaş nedeniyle binlerce kişi yaşamını [yitirmek]te mahkum oldu.", "note": null},
+    {"id": "yitirmek_s2", "text": "Hastanın umudunu [yitirmek]esi onun tedavi edilmesini imkansız hale getirdi.", "note": null},
+    {"id": "yitirmek_s3", "text": "Bir kez kaybedilen fırsat asla [yitirmek]ile tekrar dönemez.", "note": null},
+    {"id": "yitirmek_s4", "text": "Evden ayrılan çocukların ailelerine duyduğu bağlılığı [yitirmek]ememesi onların en büyük acısıdır.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "yitirmek_r1",
+      "prompt": "Sahip olduğunuz birini veya bir şeyi artık elinizde tutamayacak hale gelmek ne demektir?",
+      "accepted_forms": ["yitirmek"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "geri dönüştürmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to recycle",
+  "sentences": [
+    {"id": "geri_donusturmek_s1", "text": "Plastik şişeleri [geri dönüştürmek] çevre korumaya yardımcı olur.", "note": null},
+    {"id": "geri_donusturmek_s2", "text": "Okulla [geri dönüştürmek] programı başlattık.", "note": null},
+    {"id": "geri_donusturmek_s3", "text": "Metal ve cam gibi materyalleri [geri dönüştürmek] mümkündür.", "note": null},
+    {"id": "geri_donusturmek_s4", "text": "Atıkları [geri dönüştürmek] için ayrı kutular kullanmalıyız.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "geri_donusturmek_r1",
+      "prompt": "Plastik ve cam gibi materyalleri çevreci bir şekilde tekrar kullanmak için neler yapmalıyız?",
+      "accepted_forms": ["geri dönüştürmek"],
+      "note": null
+    }
+  ]
+}

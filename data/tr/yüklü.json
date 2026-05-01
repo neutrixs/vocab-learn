@@ -1,0 +1,21 @@
+{
+  "word": "yüklü",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "loaded, heavy, substantial",
+  "sentences": [
+    {"id": "yuklu_s1", "text": "Kabin, [yüklü] bavullarla doluydu.", "note": null},
+    {"id": "yuklu_s2", "text": "Bu sözleşme, [yüklü] sorumluluklar içeriyor.", "note": null},
+    {"id": "yuklu_s3", "text": "Harita, [yüklü] tarihsel bilgilerle bezenmişti.", "note": null},
+    {"id": "yuklu_s4", "text": "[Yüklü] cümleler okumak zor.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "yuklu_r1",
+      "prompt": "Ağır yük taşıyan veya önemli anlam taşıyan anlamına gelen kelime nedir?",
+      "accepted_forms": ["yüklü"],
+      "note": null
+    }
+  ]
+}

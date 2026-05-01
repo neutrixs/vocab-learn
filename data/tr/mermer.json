@@ -1,0 +1,21 @@
+{
+  "word": "mermer",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "marble",
+  "sentences": [
+    {"id": "mermer_s1", "text": "Bu saray sağlam ve güzel [mermer]den yapılmıştır.", "note": null},
+    {"id": "mermer_s2", "text": "[Mermer] taş heykelciliğinde kullanılan en ünlü malzeme olmuştur.", "note": null},
+    {"id": "mermer_s3", "text": "Banyo döşemesi parlak [mermer]den oluşmuştur.", "note": null},
+    {"id": "mermer_s4", "text": "Antik Yunan sanatçıları [mermer]i ustaca işlemişlerdir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "mermer_r1",
+      "prompt": "Binaların inşaasında ve heykellerin yapılmasında kullanılan sert taş malzeme ne demektir?",
+      "accepted_forms": ["mermer"],
+      "note": null
+    }
+  ]
+}

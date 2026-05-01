@@ -1,0 +1,21 @@
+{
+  "word": "işitme cihazı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "hearing aid",
+  "sentences": [
+    {"id": "isitme_cihazi_s1", "text": "Büyükbabası [işitme cihazı] kullanıyor.", "note": null},
+    {"id": "isitme_cihazi_s2", "text": "[İşitme cihazı] işitme kaybı olan kişilere yardımcı olur.", "note": null},
+    {"id": "isitme_cihazi_s3", "text": "Modern [işitme cihazı]ları çok küçüktür.", "note": null},
+    {"id": "isitme_cihazi_s4", "text": "[İşitme cihazı] kulaşının içine yerleştirilir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "isitme_cihazi_r1",
+      "prompt": "İşitme güçlüğü çeken kişilerin daha iyi duyabilmesi için kullandıkları elektronik cihaz ... dır.",
+      "accepted_forms": ["işitme cihazı"],
+      "note": null
+    }
+  ]
+}

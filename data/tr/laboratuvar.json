@@ -1,0 +1,21 @@
+{
+  "word": "laboratuvar",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "laboratory",
+  "sentences": [
+    {"id": "laboratuvar_s1", "text": "Kimya [laboratuvar]ında deneyleri yapıyoruz.", "note": null},
+    {"id": "laboratuvar_s2", "text": "[Laboratuvar] çalışanları numuneleri analiz ederler.", "note": null},
+    {"id": "laboratuvar_s3", "text": "Tıbbi [laboratuvar]da kan testleri yapılır.", "note": null},
+    {"id": "laboratuvar_s4", "text": "[Laboratuvar] malzemeleri çok pahalıdır.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "laboratuvar_r1",
+      "prompt": "Bilim insanları ve doktorların deney yapıp analizler yaptıkları yer ... dır.",
+      "accepted_forms": ["laboratuvar"],
+      "note": null
+    }
+  ]
+}

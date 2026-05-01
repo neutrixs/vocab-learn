@@ -1,0 +1,21 @@
+{
+  "word": "yer çekimi",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "gravity, gravitational pull",
+  "sentences": [
+    {"id": "yer_cekimi_s1", "text": "[Yer çekimi] tüm nesneleri Dünya'ya doğru çeker.", "note": null},
+    {"id": "yer_cekimi_s2", "text": "İsaac Newton [yer çekimi] hakkında önemli teoriler geliştirdi.", "note": null},
+    {"id": "yer_cekimi_s3", "text": "Ayın [yer çekimi] denizlerdeki gelgitleri etkiler.", "note": null},
+    {"id": "yer_cekimi_s4", "text": "[Yer çekimi] olmadan insanlar uzaya uçup giderlerdi.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "yer_cekimi_r1",
+      "prompt": "Tüm nesneleri Dünya'ya çeken doğal güç nedir?",
+      "accepted_forms": ["yer çekimi"],
+      "note": null
+    }
+  ]
+}

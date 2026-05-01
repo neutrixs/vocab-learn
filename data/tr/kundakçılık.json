@@ -1,0 +1,21 @@
+{
+  "word": "kundakçılık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "arson",
+  "sentences": [
+    {"id": "kundakccilik_s1", "text": "Polis [kundakçılık] suçunun faili kimliğini araştırıyor.", "note": null},
+    {"id": "kundakccilik_s2", "text": "[Kundakçılık] suçunda çok sayıda bina tahrip oldu.", "note": null},
+    {"id": "kundakccilik_s3", "text": "Soruşturma [kundakçılık]ın nedenlerini açığa çıkardı.", "note": null},
+    {"id": "kundakccilik_s4", "text": "İtfaiye [kundakçılık] için ateş söndürme eğitimini geliştirdi.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "kundakccilik_r1",
+      "prompt": "Bir binanın veya yapının kasıtlı olarak ateşe verilmesi suçu ... adı verilen eylemdir.",
+      "accepted_forms": ["kundakçılık"],
+      "note": null
+    }
+  ]
+}

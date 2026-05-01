@@ -1,0 +1,21 @@
+{
+  "word": "bitkin",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "exhausted, worn out",
+  "sentences": [
+    {"id": "bitkin_s1", "text": "Uzun seyahatten sonra ben [bitkin] bir haldeyim.", "note": null},
+    {"id": "bitkin_s2", "text": "[Bitkin] asker güvende bir yerde istirahat etmeyi hak ediyor.", "note": null},
+    {"id": "bitkin_s3", "text": "O [bitkin] yüzüyle odasına girdi ve derhal uyuyakaldı.", "note": null},
+    {"id": "bitkin_s4", "text": "Maçtan sonra oyuncular tamamen [bitkin] haldeydi.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "bitkin_r1",
+      "prompt": "Çok yorgun, güçsüz olan durumu tanımlayan sıfat nedir?",
+      "accepted_forms": ["bitkin"],
+      "note": null
+    }
+  ]
+}

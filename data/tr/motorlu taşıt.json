@@ -1,0 +1,21 @@
+{
+  "word": "motorlu taşıt",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "motor vehicle",
+  "sentences": [
+    {"id": "motorlu_tasit_s1", "text": "[Motorlu taşıt] ehliyet almak için sınav gereklidir.", "note": null},
+    {"id": "motorlu_tasit_s2", "text": "Ankara'da [motorlu taşıt] sayısı her yıl artmaktadır.", "note": null},
+    {"id": "motorlu_tasit_s3", "text": "[Motorlu taşıt] trafiğe çıkmadan önce kontrolü yapılmalıdır.", "note": null},
+    {"id": "motorlu_tasit_s4", "text": "[Motorlu taşıt] sigortası yasal bir gerekliliktir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "motorlu_tasit_r1",
+      "prompt": "Benzin ya da dizel yakıyla çalışan ve insanları taşıyan araç ne denir?",
+      "accepted_forms": ["motorlu taşıt"],
+      "note": null
+    }
+  ]
+}

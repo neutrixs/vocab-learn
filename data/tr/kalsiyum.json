@@ -1,0 +1,21 @@
+{
+  "word": "kalsiyum",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "calcium",
+  "sentences": [
+    {"id": "kalsiyum_s1", "text": "Sütün içinde [kalsiyum] vardır.", "note": null},
+    {"id": "kalsiyum_s2", "text": "[Kalsiyum] kemikleri güçlü ve sağlıklı yapar.", "note": null},
+    {"id": "kalsiyum_s3", "text": "Çocuğun gelişimi için yeterli [kalsiyum] gereklidir.", "note": null},
+    {"id": "kalsiyum_s4", "text": "Diş çürüğünü önlemek için [kalsiyum] çok önemlidir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "kalsiyum_r1",
+      "prompt": "Kemikler ve dişler için çok önemli olan mineral ... dır.",
+      "accepted_forms": ["kalsiyum"],
+      "note": null
+    }
+  ]
+}

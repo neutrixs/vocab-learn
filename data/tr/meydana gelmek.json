@@ -1,0 +1,21 @@
+{
+  "word": "meydana gelmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to occur, to happen, to come about",
+  "sentences": [
+    {"id": "meydana_gelmek_s1", "text": "Dün gecede bir trafik kazası [meydana gelmek].", "note": null},
+    {"id": "meydana_gelmek_s2", "text": "Tarihte büyük değişiklikler sık sık çatışmalardan [meydana gelmek].", "note": null},
+    {"id": "meydana_gelmek_s3", "text": "Kimya laboratuvarında beklenmeyen bir reaksiyon [meydana gelmek].", "note": null},
+    {"id": "meydana_gelmek_s4", "text": "Dönemsel değişiklikler doğal olarak yılda dört kez [meydana gelmek].", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "meydana_gelmek_r1",
+      "prompt": "Dün gece bir trafik kazası ... .",
+      "accepted_forms": ["meydana gelmek"],
+      "note": null
+    }
+  ]
+}

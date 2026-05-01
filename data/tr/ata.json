@@ -1,0 +1,21 @@
+{
+  "word": "ata",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "ancestor, forefather; also: horse (archaic/literary)",
+  "sentences": [
+    {"id": "ata_s1", "text": "Bizim [ata]larımız yüz yıl önce bu köyde yaşamışlardır.", "note": null},
+    {"id": "ata_s2", "text": "[Ata]larımızın bıraktığı miras korumalıyız.", "note": null},
+    {"id": "ata_s3", "text": "Osmanlı döneminde Türk [ata]ları usta binek hayvanı olarak kullanılırlardı.", "note": null},
+    {"id": "ata_s4", "text": "[Ata]larından gelen medeniyeti devam ettirmek bizim görevimizdir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "ata_r1",
+      "prompt": "Bizim öncesinde yaşamış, bize hayat veren insanlar nedir?",
+      "accepted_forms": ["ata"],
+      "note": null
+    }
+  ]
+}

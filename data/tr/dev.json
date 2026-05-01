@@ -1,0 +1,21 @@
+{
+  "word": "dev",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun/adjective",
+  "english_gloss": "giant; huge, enormous",
+  "sentences": [
+    {"id": "dev_s1", "text": "Masalda [dev] bir canavar bir dağın tepesinde yaşıyordu.", "note": null},
+    {"id": "dev_s2", "text": "Bu şehrin [dev] bir binaları şehrin sembolü haline gelmiştir.", "note": null},
+    {"id": "dev_s3", "text": "Arkadaşımın babası çok uzun boylu, bir [dev] gibi adamdır.", "note": null},
+    {"id": "dev_s4", "text": "[Dev] bir kriket endüstrisinin ortaya çıkmasında İngiltere öncü rol oynadı.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "dev_r1",
+      "prompt": "Efsanelerde çok uzun ve güçlü bir insan olan varlığa ne denir?",
+      "accepted_forms": ["dev"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "sorgulamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to question, to interrogate, to query",
+  "sentences": [
+    {"id": "sorgulamak_s1", "text": "Polis, şüpheliyi [sorgulamak] için ifade aldı.", "note": null},
+    {"id": "sorgulamak_s2", "text": "Avukat, tanığı dikkatli bir şekilde [sorgulamak]tı.", "note": null},
+    {"id": "sorgulamak_s3", "text": "Müdür, çalışanların kararını [sorgulamak]ta haklıydı.", "note": null},
+    {"id": "sorgulamak_s4", "text": "Biz, fikirleri [sorgulamak] zorundasız.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "sorgulamak_r1",
+      "prompt": "Birisine soruşturma yapmak veya soru sormak anlamına gelen fiil hangisidir?",
+      "accepted_forms": ["sorgulamak"],
+      "note": null
+    }
+  ]
+}

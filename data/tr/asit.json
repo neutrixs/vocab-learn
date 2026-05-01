@@ -1,0 +1,21 @@
+{
+  "word": "asit",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "acid",
+  "sentences": [
+    {"id": "asit_s1", "text": "[Asit]ler ve bazlar kimya biliminin temel konularıdır.", "note": null},
+    {"id": "asit_s2", "text": "Limon suyunda bulunan [asit] dişleri zayıflatabilir.", "note": null},
+    {"id": "asit_s3", "text": "Endüstride birçok [asit] çeşidi kullanılır.", "note": null},
+    {"id": "asit_s4", "text": "[Asit]e maruz kalan materyaller zamanla bozulabilir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "asit_r1",
+      "prompt": "Limon ve sirke gibi şeylerde bulunan, keskin tadlı kimyasal madde nedir?",
+      "accepted_forms": ["asit"],
+      "note": null
+    }
+  ]
+}

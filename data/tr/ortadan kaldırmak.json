@@ -1,0 +1,21 @@
+{
+  "word": "ortadan kaldırmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to eliminate, to remove, to get rid of",
+  "sentences": [
+    {"id": "ortadan_kaldirmak_s1", "text": "Hastalıkları [ortadan kaldırmak] için tıbbi araştırmalar gereklidir.", "note": null},
+    {"id": "ortadan_kaldirmak_s2", "text": "Hükümet sosyal sorunları [ortadan kaldırmak] için yeni politikalar uyguladı.", "note": null},
+    {"id": "ortadan_kaldirmak_s3", "text": "Tarım alanlarında zararlı böcekleri [ortadan kaldırmak] için pestisit kullanılır.", "note": null},
+    {"id": "ortadan_kaldirmak_s4", "text": "Ev temizliği sırasında tozları [ortadan kaldırmak] çok önemlidir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "ortadan_kaldirmak_r1",
+      "prompt": "Hükümet sosyal sorunları ... için yeni politikalar uyguladı.",
+      "accepted_forms": ["ortadan kaldırmak"],
+      "note": null
+    }
+  ]
+}

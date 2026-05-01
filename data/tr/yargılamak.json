@@ -1,0 +1,21 @@
+{
+  "word": "yargılamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to judge, to put on trial",
+  "sentences": [
+    {"id": "yargilamak_s1", "text": "Mahkeme onu ciddi suçlardan [yargılamak] için toplanmıştır.", "note": null},
+    {"id": "yargilamak_s2", "text": "Hiç kimse başkasını kendi değerleri doğrultusunda [yargılamak] hakkına sahip değildir.", "note": null},
+    {"id": "yargilamak_s3", "text": "Hakim davayı dikkatle [yargılamak] ve adil bir karar vermek zorundadır.", "note": null},
+    {"id": "yargilamak_s4", "text": "Toplum onun davranışlarını [yargılamak] için çok acele etti.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "yargilamak_r1",
+      "prompt": "Mahkemede bir kişinin suçu hakkında karar vermek ne demektir?",
+      "accepted_forms": ["yargılamak"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "uzay istasyonu",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "space station",
+  "sentences": [
+    {"id": "uzay_istasyonu_s1", "text": "[Uzay istasyonu] yörüngede insanların yaşayıp çalışabileceği bir yapıdır.", "note": null},
+    {"id": "uzay_istasyonu_s2", "text": "Uluslararası [uzay istasyonu] su bilim alanında önemli araştırmalar yapılıyor.", "note": null},
+    {"id": "uzay_istasyonu_s3", "text": "[Uzay istasyonu]nda yaşayan astronotlar çeşitli deneyler yürütürler.", "note": null},
+    {"id": "uzay_istasyonu_s4", "text": "[Uzay istasyonu] teknolojisinin gelişimi uzay araştırması için kritiktir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "uzay_istasyonu_r1",
+      "prompt": "Dünya yörüngesinde insanların yaşayıp çalıştığı yapı ne denir?",
+      "accepted_forms": ["uzay istasyonu"],
+      "note": null
+    }
+  ]
+}

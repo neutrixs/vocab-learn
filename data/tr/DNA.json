@@ -1,0 +1,21 @@
+{
+  "word": "DNA",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "DNA",
+  "sentences": [
+    {"id": "dna_s1", "text": "[DNA] canlıların genetik bilgisini içerir.", "note": null},
+    {"id": "dna_s2", "text": "Bilim insanları [DNA] dizilişini çözmüştür.", "note": null},
+    {"id": "dna_s3", "text": "[DNA] testleri suçluyu belirlemekte yardımcı olur.", "note": null},
+    {"id": "dna_s4", "text": "Her kişinin kendine özgü [DNA] yapısı vardır.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "dna_r1",
+      "prompt": "Canlıların kalıtsal özelliklerini taşıyan molekül ... olarak bilinir.",
+      "accepted_forms": ["DNA"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "sivri",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "sharp, pointed, acute",
+  "sentences": [
+    {"id": "sivri_s1", "text": "Bıçağın [sivri] ucu çok keskindir.", "note": null},
+    {"id": "sivri_s2", "text": "Dağın [sivri] tepesi bulutların içinde kaybolmuştur.", "note": null},
+    {"id": "sivri_s3", "text": "[Sivri] bir iğne ile dokuma yapılmıştır.", "note": null},
+    {"id": "sivri_s4", "text": "İnsan, [sivri] soruları sorduğunda çok dikkatli olmalıdır.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "sivri_r1",
+      "prompt": "Ucu dış çıkık, keskin olan şey hakkında kullanılan sıfat ne demektir?",
+      "accepted_forms": ["sivri"],
+      "note": null
+    }
+  ]
+}

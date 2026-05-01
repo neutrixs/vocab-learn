@@ -1,0 +1,21 @@
+{
+  "word": "MÖ (milattan önce)",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "BC (before Christ / before common era)",
+  "sentences": [
+    {"id": "mo_milattan_once_s1", "text": "Antik Mısır [MÖ (milattan önce)] 3000 yılından önce kurulmuştur.", "note": null},
+    {"id": "mo_milattan_once_s2", "text": "Aristoteles [MÖ (milattan önce)] 384 yılında doğmuştur.", "note": null},
+    {"id": "mo_milattan_once_s3", "text": "Troia Savaşı [MÖ (milattan önce)] 1194 yılında gerçekleşmiştir.", "note": null},
+    {"id": "mo_milattan_once_s4", "text": "[MÖ (milattan önce)] tarihler günümüzün öncesine işaret eder.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "mo_milattan_once_r1",
+      "prompt": "İsa'nın doğumundan önceki tarihleri belirtmek için hangi kısaltma kullanılır?",
+      "accepted_forms": ["MÖ", "milattan önce"],
+      "note": null
+    }
+  ]
+}

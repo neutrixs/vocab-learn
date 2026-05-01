@@ -1,0 +1,21 @@
+{
+  "word": "şantiye",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "construction site",
+  "sentences": [
+    {"id": "santiye_s1", "text": "Yeni hastane [şantiye]sinde işçiler gece gündüz çalışıyor.", "note": null},
+    {"id": "santiye_s2", "text": "[Şantiye]ye girenler güvenlik elbisesi giymek zorundadır.", "note": null},
+    {"id": "santiye_s3", "text": "Bu [şantiye]de yüzlerce insan istihdam edilecek.", "note": null},
+    {"id": "santiye_s4", "text": "[Şantiye]nin yakınında yaşayanlar gürültüden şikayetçi.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "santiye_r1",
+      "prompt": "Bir binanın yapılmakta olduğu yer nedir?",
+      "accepted_forms": ["şantiye"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "karga",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "crow",
+  "sentences": [
+    {"id": "karga_s1", "text": "Ağaçta oturan [karga] bağırıyordu.", "note": null},
+    {"id": "karga_s2", "text": "[Karga]lar zeki kuşlardır.", "note": null},
+    {"id": "karga_s3", "text": "Siyah renk [karga]yı diğer kuşlardan ayırır.", "note": null},
+    {"id": "karga_s4", "text": "[Karga] çiftliğinin etrafında dolaşıyor.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "karga_r1",
+      "prompt": "Siyah renkli ve 'kaa kaa' diye bağıran kuş ... dür.",
+      "accepted_forms": ["karga"],
+      "note": null
+    }
+  ]
+}

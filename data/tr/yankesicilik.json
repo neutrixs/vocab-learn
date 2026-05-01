@@ -1,0 +1,21 @@
+{
+  "word": "yankesicilik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "pickpocketing",
+  "sentences": [
+    {"id": "yankesicilik_s1", "text": "[Yankesicilik] şehirlerde sık görülen bir suçtur.", "note": null},
+    {"id": "yankesicilik_s2", "text": "Polis, [yankesicilik] olaylarına karşı mücadele ediyor.", "note": null},
+    {"id": "yankesicilik_s3", "text": "Tren istasyonunda [yankesicilik] olayları artmıştır.", "note": null},
+    {"id": "yankesicilik_s4", "text": "[Yankesicilik] suçundan hüküm giydi.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "yankesicilik_r1",
+      "prompt": "İnsanların cüzdanını gizlice çalan suça ne denir?",
+      "accepted_forms": ["yankesicilik"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "kinci",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "vindictive, vengeful; someone who holds grudges",
+  "sentences": [
+    {"id": "kinci_s1", "text": "[Kinci] bir kişinin affetmesi çok zordur.", "note": null},
+    {"id": "kinci_s2", "text": "Eski dostunun [kinci] tarafı çok rahatsız edici.", "note": null},
+    {"id": "kinci_s3", "text": "İntikam peşinde koşan [kinci] insanlar mutsuzluk yaşarlar.", "note": null},
+    {"id": "kinci_s4", "text": "[Kinci] yapısını değiştirmesi zaman alacaktır.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "kinci_r1",
+      "prompt": "Eski kötü muameleleri unutmayan ve intikam almak isteyen insan ... dır.",
+      "accepted_forms": ["kinci"],
+      "note": null
+    }
+  ]
+}

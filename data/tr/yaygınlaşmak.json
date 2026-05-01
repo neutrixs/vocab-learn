@@ -1,0 +1,21 @@
+{
+  "word": "yaygınlaşmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to become widespread, to spread",
+  "sentences": [
+    {"id": "yaygınlasmak_s1", "text": "Sosyal medyada yanlış bilgiler hızlı bir şekilde [yaygınlaşmak].", "note": null},
+    {"id": "yaygınlasmak_s2", "text": "Teknoloji okullar ve işyerlerinde [yaygınlaşmak].", "note": null},
+    {"id": "yaygınlasmak_s3", "text": "Yeni moda trendleri gençler arasında [yaygınlaşmak].", "note": null},
+    {"id": "yaygınlasmak_s4", "text": "Bulaşıcı hastalıklar kış mevsiminde [yaygınlaşmak] eğilimindedir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "yaygınlasmak_r1",
+      "prompt": "Sosyal medyada yanlış bilgiler hızlı bir şekilde ...",
+      "accepted_forms": ["yaygınlaşmak"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "rivayet",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "legend, rumor, hearsay, narrative",
+  "sentences": [
+    {"id": "rivayet_s1", "text": "Bir eski [rivayet]e göre bu tapınak bin yıl önce inşa edilmiştir.", "note": null},
+    {"id": "rivayet_s2", "text": "[Rivayet] ederler ki bu kahramanın üç başı varmış.", "note": null},
+    {"id": "rivayet_s3", "text": "Çoğunlukla [rivayet] doğrudan ziyade efsane kısmı daha fazladır.", "note": null},
+    {"id": "rivayet_s4", "text": "Halk arasında çeşitli [rivayet]ler bu olay hakkında anlatılmaktadır.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "rivayet_r1",
+      "prompt": "Çoğunlukla eski zamanlardan kalma, halk arasında anlatılan söylenti veya hikâye ne demektir?",
+      "accepted_forms": ["rivayet"],
+      "note": null
+    }
+  ]
+}

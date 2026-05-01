@@ -1,0 +1,21 @@
+{
+  "word": "cenaze",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "funeral, corpse, deceased",
+  "sentences": [
+    {"id": "cenaze_s1", "text": "[Cenaze] törenine çok sayıda dost ve akraba katıldı.", "note": null},
+    {"id": "cenaze_s2", "text": "Cami [cenaze] namazını kıldırmak üzere hazırlanıyordu.", "note": null},
+    {"id": "cenaze_s3", "text": "[Cenaze]nin mezara konması saat beşte yapılacaktır.", "note": null},
+    {"id": "cenaze_s4", "text": "Gelenek gereği tüm aile [cenaze] ziyaretinde bulundu.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "cenaze_r1",
+      "prompt": "Ölen bir kişinin vücudu veya ölüm sonrası tören ne demektir?",
+      "accepted_forms": ["cenaze"],
+      "note": null
+    }
+  ]
+}

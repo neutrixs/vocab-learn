@@ -1,0 +1,21 @@
+{
+  "word": "kalpazanlık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "counterfeiting (money)",
+  "sentences": [
+    {"id": "kalpazanlik_s1", "text": "Savcı [kalpazanlık] suçundan mahkemeyi hazırladı.", "note": null},
+    {"id": "kalpazanlik_s2", "text": "[Kalpazanlık] operasyonunda polis milyonlarca sahte parayı ele geçirdi.", "note": null},
+    {"id": "kalpazanlik_s3", "text": "Tarihsel olarak [kalpazanlık] ağır ceza gerektiren bir suçtu.", "note": null},
+    {"id": "kalpazanlik_s4", "text": "Para piyasasını korumak [kalpazanlık]la mücadele eder.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "kalpazanlik_r1",
+      "prompt": "Gerçek paraya benzer yapay veya sahte para üretmek ... olarak tanımlanır.",
+      "accepted_forms": ["kalpazanlık"],
+      "note": null
+    }
+  ]
+}

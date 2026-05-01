@@ -1,0 +1,21 @@
+{
+  "word": "ilgisini çekmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to attract one's interest, to catch one's attention",
+  "sentences": [
+    {"id": "ilgisini_cekmek_s1", "text": "Parlak renkler çocukların [ilgisini çekmek].", "note": null},
+    {"id": "ilgisini_cekmek_s2", "text": "Bu kitap okuyucuların [ilgisini çekmek] için yazılmıştır.", "note": null},
+    {"id": "ilgisini_cekmek_s3", "text": "Müzik ve dans performansı seyircilerin [ilgisini çekmek].", "note": null},
+    {"id": "ilgisini_cekmek_s4", "text": "Yeni buluşlar bilim topluluğunun [ilgisini çekmek] için önemlidir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "ilgisini_cekmek_r1",
+      "prompt": "Parlak renkler çocukların ... için bir şekilde hareket ederler.",
+      "accepted_forms": ["ilgisini çekmek"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "saydam",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "transparent, clear",
+  "sentences": [
+    {"id": "saydam_s1", "text": "Cam [saydam] bir malzeme olduğu için içini görebiliriz.", "note": null},
+    {"id": "saydam_s2", "text": "[Saydam] plastik torbalar içindeki malzemeyi açıkça görünür kılıyor.", "note": null},
+    {"id": "saydam_s3", "text": "Bu [saydam] açıklama konuyu tamamen aydınlatmıştır.", "note": null},
+    {"id": "saydam_s4", "text": "[Saydam] su saf ve temiz görünmektedir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "saydam_r1",
+      "prompt": "Işık geçiren ve içinden görmek mümkün olan malzeme nasıl tanımlanır?",
+      "accepted_forms": ["saydam"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "söyleşi",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "interview, conversation, chat",
+  "sentences": [
+    {"id": "soylesi_s1", "text": "Gazeteci, ünlü oyuncuyla [söyleşi] yapmış.", "note": null},
+    {"id": "soylesi_s2", "text": "Bu [söyleşi] çok ilgi çekici bulundu.", "note": null},
+    {"id": "soylesi_s3", "text": "Radyoda canlı [söyleşi] yayınlanacak.", "note": null},
+    {"id": "soylesi_s4", "text": "Başkan, basın sözcüsüyle [söyleşi] gerçekleştirdi.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "soylesi_r1",
+      "prompt": "Gazeteci ve siyasetçi arasındaki konuşmaya ne denir?",
+      "accepted_forms": ["söyleşi"],
+      "note": null
+    }
+  ]
+}

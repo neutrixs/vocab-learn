@@ -1,0 +1,21 @@
+{
+  "word": "tasarlamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to design, to plan, to devise",
+  "sentences": [
+    {"id": "tasarlamak_s1", "text": "Mimar yeni binayı [tasarlamak] için bilgisayar yazılımı kullanıyor.", "note": null},
+    {"id": "tasarlamak_s2", "text": "Mühendis güvenli bir sistem [tasarlamak] için çalışıyor.", "note": null},
+    {"id": "tasarlamak_s3", "text": "Tasarımcı modern ve şık kıyafetler [tasarlamak].", "note": null},
+    {"id": "tasarlamak_s4", "text": "Proje yöneticisi başarılı bir kampanya [tasarlamak] için stratejileri planladı.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "tasarlamak_r1",
+      "prompt": "Mimar yeni binayı ... için bilgisayar yazılımı kullanıyor.",
+      "accepted_forms": ["tasarlamak"],
+      "note": null
+    }
+  ]
+}

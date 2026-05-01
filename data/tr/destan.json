@@ -1,0 +1,21 @@
+{
+  "word": "destan",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "epic, legend, saga",
+  "sentences": [
+    {"id": "destan_s1", "text": "Türk halının [destan]ı belli ki çok eski zamanlardan başlamaktadır.", "note": null},
+    {"id": "destan_s2", "text": "Oğuz Kağan [destan]ı Türkçe edebiyatının ünlü eserlerinden biridir.", "note": null},
+    {"id": "destan_s3", "text": "Bu savaşçının yaşamı bir [destan] gibi anlatılmaktadır.", "note": null},
+    {"id": "destan_s4", "text": "Millet, [destan] gibi yaşananları nesiller boyu unuttuktan sonra ancak eski olur.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "destan_r1",
+      "prompt": "Kahramanca eylemler ve maceraları anlatan uzun hikâye ne demektir?",
+      "accepted_forms": ["destan"],
+      "note": null
+    }
+  ]
+}

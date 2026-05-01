@@ -1,0 +1,21 @@
+{
+  "word": "anıt mezar",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "monumental tomb, mausoleum",
+  "sentences": [
+    {"id": "anit_mezar_s1", "text": "Osmanlı döneminin ünlü komutanları için [anıt mezar]lar inşa edilmiştir.", "note": null},
+    {"id": "anit_mezar_s2", "text": "[Anıt mezar]ın mimarisi kuşları cezbeder; kanatlarını açacak şekilde tasarlanmıştır.", "note": null},
+    {"id": "anit_mezar_s3", "text": "Atatürk'ün kabirde yer alan [anıt mezar] Türkiye'nin simgesidir.", "note": null},
+    {"id": "anit_mezar_s4", "text": "Tarihçiler [anıt mezar]ların dönemin kültürünü yansıttığını söylerler.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "anit_mezar_r1",
+      "prompt": "Önemli kişilerin anısını yaşatmak için yapılan büyük mezar nedir?",
+      "accepted_forms": ["anıt mezar"],
+      "note": null
+    }
+  ]
+}

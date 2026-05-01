@@ -1,0 +1,21 @@
+{
+  "word": "katkı sağlamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to contribute, to make a contribution",
+  "sentences": [
+    {"id": "katki_saglamak_s1", "text": "Her öğrencinin sınıf etkinliğine [katkı sağlamak]ası beklenir.", "note": null},
+    {"id": "katki_saglamak_s2", "text": "Bilim insanları tıp alanına çok büyük [katkı sağlamak]ışlardır.", "note": null},
+    {"id": "katki_saglamak_s3", "text": "Toplumun kalkınması için hepimiz [katkı sağlamak]ak zorundayız.", "note": null},
+    {"id": "katki_saglamak_s4", "text": "[Katkı sağlamak]ın küçüğü büyüğü yoktur, her birisi değerlidir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "katki_saglamak_r1",
+      "prompt": "Bir işe, projeye veya topluma yardım etmek, destek olmak ne demektir?",
+      "accepted_forms": ["katkı sağlamak"],
+      "note": null
+    }
+  ]
+}

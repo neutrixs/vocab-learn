@@ -1,0 +1,21 @@
+{
+  "word": "sabıka",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "criminal record, prior offense",
+  "sentences": [
+    {"id": "sabika_s1", "text": "Polis [sabıka]sı kontrol etmek için arşive baktı.", "note": null},
+    {"id": "sabika_s2", "text": "Suçlu [sabıka]sı nedeniyle ağır ceza aldı.", "note": null},
+    {"id": "sabika_s3", "text": "[Sabıka]sı olan kişiler belirli işlerde çalışamaz.", "note": null},
+    {"id": "sabika_s4", "text": "Adalet sistemi [sabıka]yı dikkate alarak karar verir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "sabika_r1",
+      "prompt": "Bir kişinin geçmişteki suç kayıtları ve mahkumiyet tarihi ... olarak anılır.",
+      "accepted_forms": ["sabıka"],
+      "note": null
+    }
+  ]
+}

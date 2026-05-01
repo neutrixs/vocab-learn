@@ -1,0 +1,21 @@
+{
+  "word": "maden",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "mine, mineral, metal ore",
+  "sentences": [
+    {"id": "maden_s1", "text": "Türkiye'de çok sayıda [maden] işletmesi vardır.", "note": null},
+    {"id": "maden_s2", "text": "[Maden] işçileri çok zorlu şartlarda çalışırlar.", "note": null},
+    {"id": "maden_s3", "text": "Bu [maden] demir ve bakır içerir.", "note": null},
+    {"id": "maden_s4", "text": "[Maden] kaynakları ülkenin ekonomisinde önemli bir rol oynar.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "maden_r1",
+      "prompt": "Demir, bakır ve altın çıkarılan yer nedir?",
+      "accepted_forms": ["maden"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "söylenti",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "rumor, gossip",
+  "sentences": [
+    {"id": "soylenti_s1", "text": "Mahallede [söylenti] yayılıyor ki eski komşular evi satacakmış.", "note": null},
+    {"id": "soylenti_s2", "text": "[Söylenti]ye göre yeni bir dükkan açılacak burada.", "note": null},
+    {"id": "soylenti_s3", "text": "Bu [söylenti]nin gerçekle ilgisi yoktur.", "note": null},
+    {"id": "soylenti_s4", "text": "[Söylenti]ye kulak asma, kendi gözlemlerine güven.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "soylenti_r1",
+      "prompt": "Halk arasında yayılan, doğruluğu belli olmayan haberler nedir?",
+      "accepted_forms": ["söylenti"],
+      "note": null
+    }
+  ]
+}

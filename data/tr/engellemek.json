@@ -1,0 +1,21 @@
+{
+  "word": "engellemek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to block, to obstruct, to prevent",
+  "sentences": [
+    {"id": "engellemek_s1", "text": "Polis, gösterileri [engellemek] için bariyerler kurdu.", "note": null},
+    {"id": "engellemek_s2", "text": "Ağaç, görüşü [engellemek]ti.", "note": null},
+    {"id": "engellemek_s3", "text": "Yapı, trafiği [engellemek]ti.", "note": null},
+    {"id": "engellemek_s4", "text": "Biz bu planı [engellemek]e karar verdik.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "engellemek_r1",
+      "prompt": "Bir şeyin ilerlemesine mani olmak için kullanılan fiil hangisidir?",
+      "accepted_forms": ["engellemek"],
+      "note": null
+    }
+  ]
+}

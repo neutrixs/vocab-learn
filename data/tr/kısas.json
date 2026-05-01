@@ -1,0 +1,21 @@
+{
+  "word": "kısas",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "retaliation, lex talionis",
+  "sentences": [
+    {"id": "kisas_s1", "text": "İslamik hukuk sisteminde [kısas] ilkesi uygulanır.", "note": null},
+    {"id": "kisas_s2", "text": "[Kısas] kanunu iki taraf arasında uzlaşma sonucunda vazgeçilebilir.", "note": null},
+    {"id": "kisas_s3", "text": "Mahkeme [kısas] cezasını onayladı.", "note": null},
+    {"id": "kisas_s4", "text": "Tarihsel [kısas] uygulaması çoğu zaman göz yumma prensibiyle işledi.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "kisas_r1",
+      "prompt": "İslamik hukukta yapılan zararın aynısının suçluya yapılması ilkesi ... olarak adlandırılır.",
+      "accepted_forms": ["kısas"],
+      "note": null
+    }
+  ]
+}

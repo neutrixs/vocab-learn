@@ -1,0 +1,21 @@
+{
+  "word": "fokurdamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to bubble, to boil, to simmer noisily",
+  "sentences": [
+    {"id": "fokurdamak_s1", "text": "Pide fırınında ekmek pişerken mantı kaynayan suyu [fokurdamak]ta durmadı.", "note": null},
+    {"id": "fokurdamak_s2", "text": "[Fokurdamak]tan gelen ses mutfağı ılık tutuyordu.", "note": null},
+    {"id": "fokurdamak_s3", "text": "Çay kaynağında [fokurdamak]asını duyduktan sonra ocağı kapattı.", "note": null},
+    {"id": "fokurdamak_s4", "text": "Isıtılan suyun [fokurdamak]ması fiziksel bir olaydır.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "fokurdamak_r1",
+      "prompt": "Su veya başka sıvıların ısıdığında çıkardığı gürültülü ses nedir?",
+      "accepted_forms": ["fokurdamak"],
+      "note": null
+    }
+  ]
+}

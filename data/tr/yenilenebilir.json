@@ -1,0 +1,21 @@
+{
+  "word": "yenilenebilir",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "renewable, regenerable",
+  "sentences": [
+    {"id": "yenilenebilir_s1", "text": "Güneş enerjisi [yenilenebilir] bir enerji kaynağıdır.", "note": null},
+    {"id": "yenilenebilir_s2", "text": "[Yenilenebilir] enerji kaynakları çevre dostu çözümler sağlar.", "note": null},
+    {"id": "yenilenebilir_s3", "text": "Rüzgar ve su gibi [yenilenebilir] kaynaklar gelecekte daha önemli hale gelecektir.", "note": null},
+    {"id": "yenilenebilir_s4", "text": "Devlet [yenilenebilir] enerji projelerine yatırım yapmaktadır.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "yenilenebilir_r1",
+      "prompt": "Güneş enerjisi gibi kaynaklar ... bir enerji çeşididir.",
+      "accepted_forms": ["yenilenebilir"],
+      "note": null
+    }
+  ]
+}

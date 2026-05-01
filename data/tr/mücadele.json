@@ -1,0 +1,21 @@
+{
+  "word": "mücadele",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "struggle, fight, effort",
+  "sentences": [
+    {"id": "mucadele_s1", "text": "Sporcunun [mücadele]si takımı galibiyete götürdü.", "note": null},
+    {"id": "mucadele_s2", "text": "[Mücadele] koşullarında güç, kararlılık ve sebat gerekir.", "note": null},
+    {"id": "mucadele_s3", "text": "Toplum [mücadele]sinin sonucu halk haklarını kazandı.", "note": null},
+    {"id": "mucadele_s4", "text": "[Mücadele]nin her aşamasında başarısız olmamak gerekir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "mucadele_r1",
+      "prompt": "Belirli bir hedef uğruna yapılan emek ve çaba ... olarak adlandırılır.",
+      "accepted_forms": ["mücadele"],
+      "note": null
+    }
+  ]
+}

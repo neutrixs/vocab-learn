@@ -1,0 +1,21 @@
+{
+  "word": "muamma",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "mystery, enigma, puzzle",
+  "sentences": [
+    {"id": "muamma_s1", "text": "Kriminal dizi [muamma]yı çözmede harika.", "note": null},
+    {"id": "muamma_s2", "text": "İstatistikler [muamma] gibi görünüyor.", "note": null},
+    {"id": "muamma_s3", "text": "Mühendis yapının [muamma]sını anlamaya çalışıyor.", "note": null},
+    {"id": "muamma_s4", "text": "[Muamma]yı çözmek için araştırma yapmalıyız.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "muamma_r1",
+      "prompt": "Çözülmesi zor, anlaşılması güç olan durum ya da soru ... olarak adlandırılır.",
+      "accepted_forms": ["muamma"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "idrar",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "urine",
+  "sentences": [
+    {"id": "idrar_s1", "text": "Doktor hastanın [idrar] testini istedi.", "note": null},
+    {"id": "idrar_s2", "text": "[İdrar] rengi sağlık hakkında bilgi verir.", "note": null},
+    {"id": "idrar_s3", "text": "Böbrekler [idrar]ı filtreler.", "note": null},
+    {"id": "idrar_s4", "text": "[İdrar] analizi çeşitli hastalıkları belirlemede yardımcı olur.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "idrar_r1",
+      "prompt": "Böbrekler tarafından yapılan ve mesanede depolanan atık sıvı ... dır.",
+      "accepted_forms": ["idrar"],
+      "note": null
+    }
+  ]
+}

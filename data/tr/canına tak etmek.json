@@ -1,0 +1,21 @@
+{
+  "word": "canına tak etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to get on one's last nerve, to exasperate",
+  "sentences": [
+    {"id": "canina_tak_etmek_s1", "text": "Çocuğun sürekli argamanları babasının [canına tak etmek]meye başladı.", "note": null},
+    {"id": "canina_tak_etmek_s2", "text": "Yapılan hatalı kararlar herkesin [canına tak etmek]miş, hepsi öfkelidir.", "note": null},
+    {"id": "canina_tak_etmek_s3", "text": "[Canına tak etmek]en davranışları bir türlü bırakmaz mısın?", "note": null},
+    {"id": "canina_tak_etmek_s4", "text": "Toplantıda muhataplarının saf soruları kuru ağaç mütercisi [canına tak etmek]meye başladı.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "canina_tak_etmek_r1",
+      "prompt": "Birinin çok fazla üzüldüğü, sinirlendiği davranış hakkında ne söylersiniz?",
+      "accepted_forms": ["canına tak etmek"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "soygunculuk",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "robbery, banditry",
+  "sentences": [
+    {"id": "soygunculuk_s1", "text": "Polis [soygunculuk] olaylarının artmasından endişe ediyor.", "note": null},
+    {"id": "soygunculuk_s2", "text": "[Soygunculuk] suçları ağır ceza ile karşılanır.", "note": null},
+    {"id": "soygunculuk_s3", "text": "Tarihsel [soygunculuk] hikâyeleri halk masallarında anlatılır.", "note": null},
+    {"id": "soygunculuk_s4", "text": "[Soygunculuk]a karşı güvenlik önlemleri artırılmıştır.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "soygunculuk_r1",
+      "prompt": "Güç veya silah kullanarak birinin parasını veya değerli eşyalarını alıp kaçmak ... adı verilen suçtur.",
+      "accepted_forms": ["soygunculuk"],
+      "note": null
+    }
+  ]
+}

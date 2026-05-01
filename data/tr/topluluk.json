@@ -1,0 +1,21 @@
+{
+  "word": "topluluk",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "community, group, crowd",
+  "sentences": [
+    {"id": "topluluk_s1", "text": "[Topluluk] birlikte çalışarak büyük projeler gerçekleştirebilir.", "note": null},
+    {"id": "topluluk_s2", "text": "Okuldaki sosyal [topluluk]lar öğrencilerin gelişimine yardımcı olur.", "note": null},
+    {"id": "topluluk_s3", "text": "[Topluluk] için kişisel çıkarlarından fedakarlık etmek gerekli olabilir.", "note": null},
+    {"id": "topluluk_s4", "text": "Gözlemciler kalabalık [topluluk]u dikkatle inceliyordu.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "topluluk_r1",
+      "prompt": "Ortak amaçları ve düşünceleri olan insanlar grubu ne denir?",
+      "accepted_forms": ["topluluk"],
+      "note": null
+    }
+  ]
+}

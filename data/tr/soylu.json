@@ -1,0 +1,21 @@
+{
+  "word": "soylu",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun/adjective",
+  "english_gloss": "noble, aristocratic; nobleman",
+  "sentences": [
+    {"id": "soylu_s1", "text": "[Soylu] bir aile olması onu iyi bir kişi yapmaz.", "note": null},
+    {"id": "soylu_s2", "text": "Ortaçağda [soylu]lar yönetim ve askeri gücü ellerinde tutuyordu.", "note": null},
+    {"id": "soylu_s3", "text": "Onun [soylu] davranışları herkesine saygı telkin ediyordu.", "note": null},
+    {"id": "soylu_s4", "text": "O [soylu] bir hanım, çok zarafetli ve öğretiliydi.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "soylu_r1",
+      "prompt": "Soylu bir ailede doğan, yüksek statüsü olan kişi veya böyle bir davranış ne demektir?",
+      "accepted_forms": ["soylu"],
+      "note": null
+    }
+  ]
+}

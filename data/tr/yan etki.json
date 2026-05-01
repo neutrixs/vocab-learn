@@ -1,0 +1,21 @@
+{
+  "word": "yan etki",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "side effect",
+  "sentences": [
+    {"id": "yan_etki_s1", "text": "Bir ilaç almadan önce olası [yan etki] ler hakkında bilgi almalısınız.", "note": null},
+    {"id": "yan_etki_s2", "text": "Bu diyetin [yan etki] ler nedeniyle hassas insanlar tarafından uygulanmamalıdır.", "note": null},
+    {"id": "yan_etki_s3", "text": "Kimya tedavisinin [yan etki] leri hastayı zayıflatabilir.", "note": null},
+    {"id": "yan_etki_s4", "text": "Yeni ilaçların [yan etki] leri hakkında uzun vadeli araştırmalar yapılması gerekir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "yan_etki_r1",
+      "prompt": "İlaçların istenmediği sonuçlarına ... denir.",
+      "accepted_forms": ["yan etki"],
+      "note": null
+    }
+  ]
+}

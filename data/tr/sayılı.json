@@ -1,0 +1,21 @@
+{
+  "word": "sayılı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "numbered, few, counted",
+  "sentences": [
+    {"id": "sayili_s1", "text": "Hayatta [sayılı] kaç gün kalmıştır, bilmiyoruz.", "note": null},
+    {"id": "sayili_s2", "text": "[Sayılı] kişi bu yazara benzin yapıyor.", "note": null},
+    {"id": "sayili_s3", "text": "Başarılı oyuncu [sayılı] adamlardan biridir.", "note": null},
+    {"id": "sayili_s4", "text": "[Sayılı] yapı kalesi barındırıyor.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "sayili_r1",
+      "prompt": "Sayısı az, parmak sayılı, yani çok az olan anlamına gelen kelime ... dir.",
+      "accepted_forms": ["sayılı"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "kapak olmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to end up on the cover; to get caught (slang)",
+  "sentences": [
+    {"id": "kapak_olmak_s1", "text": "Ünlü oyuncu, dergi kapağına [kapak olmak]ı çok istedi.", "note": null},
+    {"id": "kapak_olmak_s2", "text": "Bu harita olayı [kapak olmak]ı haber yayınladı.", "note": null},
+    {"id": "kapak_olmak_s3", "text": "Futbolcu, mücbir sebeble [kapak olmak]tan kaçamadı.", "note": null},
+    {"id": "kapak_olmak_s4", "text": "Onu nihayet [kapak olmak]tı polis.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "kapak_olmak_r1",
+      "prompt": "Gazete manşetine çıkmak veya yakalanmak anlamına gelen ifade nedir?",
+      "accepted_forms": ["kapak olmak"],
+      "note": null
+    }
+  ]
+}

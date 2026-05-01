@@ -1,0 +1,21 @@
+{
+  "word": "lakap",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "nickname, epithet",
+  "sentences": [
+    {"id": "lakap_s1", "text": "Çocukluk arkadaşlarımız bana verilen [lakap]ı hâlâ kullanıyorlar.", "note": null},
+    {"id": "lakap_s2", "text": "Onun [lakap]ı \"Hızlı Ali\" idi çünkü çok başarılıydı.", "note": null},
+    {"id": "lakap_s3", "text": "Savaşçı bir [lakap] kazanmıştı: \"Arslan Kalpak\".", "note": null},
+    {"id": "lakap_s4", "text": "[Lakap], insanın gerçek adının yerine kullanılan ad gibidir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "lakap_r1",
+      "prompt": "Bir kişinin gerçek adı yerine kullanılan, genellikle onun özelliğini ifade eden ad ne demektir?",
+      "accepted_forms": ["lakap"],
+      "note": null
+    }
+  ]
+}

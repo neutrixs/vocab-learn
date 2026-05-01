@@ -1,0 +1,21 @@
+{
+  "word": "güneş panelleri",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "solar panels",
+  "sentences": [
+    {"id": "gunes_panelleri_s1", "text": "Çatının üzerinde [güneş panelleri] kurulu.", "note": null},
+    {"id": "gunes_panelleri_s2", "text": "[Güneş panelleri] güneş enerjisini elektriğe dönüştürür.", "note": null},
+    {"id": "gunes_panelleri_s3", "text": "Ev sahibi [güneş panelleri] ile enerji tasarrufu yapıyor.", "note": null},
+    {"id": "gunes_panelleri_s4", "text": "[Güneş panelleri] yıl sayısında kendini amorti eder.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "gunes_panelleri_r1",
+      "prompt": "Güneş ışığını elektrik enerjisine çeviren cihazlar ... olarak adlandırılır.",
+      "accepted_forms": ["güneş panelleri"],
+      "note": null
+    }
+  ]
+}

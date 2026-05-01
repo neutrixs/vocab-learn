@@ -1,0 +1,21 @@
+{
+  "word": "barkod",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "barcode",
+  "sentences": [
+    {"id": "barkod_s1", "text": "Ürünün [barkod]unu tarayıcı ile okudu.", "note": null},
+    {"id": "barkod_s2", "text": "[Barkod] sistemi envanteri takip etmeyi kolaylaştırır.", "note": null},
+    {"id": "barkod_s3", "text": "Kasada her ürünün [barkod]u vardır.", "note": null},
+    {"id": "barkod_s4", "text": "[Barkod] etiketleri paketlere yapıştırılır.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "barkod_r1",
+      "prompt": "Ürünler üzerine yapıştırılan ve satış noktasında okunan çizgili etiket ... denir.",
+      "accepted_forms": ["barkod"],
+      "note": null
+    }
+  ]
+}

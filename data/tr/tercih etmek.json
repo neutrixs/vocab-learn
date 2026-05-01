@@ -1,0 +1,21 @@
+{
+  "word": "tercih etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to prefer, to choose",
+  "sentences": [
+    {"id": "tercih_etmek_s1", "text": "Pek çok öğrenci üniversitede matematik yerine [tercih etmek]te İngilizcedir.", "note": null},
+    {"id": "tercih_etmek_s2", "text": "Kahvaltıda çoğu insan kahve [tercih etmek]te, bazıları çay seven vardır.", "note": null},
+    {"id": "tercih_etmek_s3", "text": "Tatilde dağa gitmesini, deniz kenarına gitmeyi [tercih etmek]te.", "note": null},
+    {"id": "tercih_etmek_s4", "text": "[Tercih etmek]in zevken meseledir, herkesinin farklı seçimi vardır.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "tercih_etmek_r1",
+      "prompt": "Başka bir şey yerine bir şeyi daha iyi bulmak anlamına gelen fiil nedir?",
+      "accepted_forms": ["tercih etmek"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "şantajcı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "blackmailer, extortionist",
+  "sentences": [
+    {"id": "santajci_s1", "text": "Polis, bir [şantajcı]yı yakalamıştır.", "note": null},
+    {"id": "santajci_s2", "text": "[Şantajcı], kurbanından para istedi.", "note": null},
+    {"id": "santajci_s3", "text": "Başkan, [şantajcı]dan şikâyet etti.", "note": null},
+    {"id": "santajci_s4", "text": "Mahkeme, [şantajcı]yı cezalandırdı.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "santajci_r1",
+      "prompt": "İnsanları tehdit ederek para alan kişiye ne denir?",
+      "accepted_forms": ["şantajcı"],
+      "note": null
+    }
+  ]
+}

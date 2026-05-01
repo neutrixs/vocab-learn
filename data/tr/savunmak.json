@@ -1,0 +1,21 @@
+{
+  "word": "savunmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to defend, to advocate for",
+  "sentences": [
+    {"id": "savunmak_s1", "text": "Avukat müvekkilini mahkemede [savunmak] için konuştu.", "note": null},
+    {"id": "savunmak_s2", "text": "Aktivist çevre koruma konusunda fikirlerini [savunmak] etmeye devam ediyor.", "note": null},
+    {"id": "savunmak_s3", "text": "Askerlerin görevi ülkenin sınırlarını [savunmak].", "note": null},
+    {"id": "savunmak_s4", "text": "Filosoflar ahlaki ilkelerini [savunmak] için argümanlar sunuyorlar.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "savunmak_r1",
+      "prompt": "Avukatın müvekkili mahkemede ... görevidir.",
+      "accepted_forms": ["savunmak"],
+      "note": null
+    }
+  ]
+}

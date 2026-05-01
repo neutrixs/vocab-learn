@@ -1,0 +1,21 @@
+{
+  "word": "ziynet",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "jewelry, ornament, adornment",
+  "sentences": [
+    {"id": "ziynet_s1", "text": "Gelin, altın [ziynet]lerle bezenmiş elbise giydi.", "note": null},
+    {"id": "ziynet_s2", "text": "Kadın, değerli [ziynet]lerini çantasında taşıdı.", "note": null},
+    {"id": "ziynet_s3", "text": "[Ziynet] tasarımcı, yeni koleksiyonunu tanıttı.", "note": null},
+    {"id": "ziynet_s4", "text": "Bu antika [ziynet], çok pahalıdır.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "ziynet_r1",
+      "prompt": "Kadınların takındığı güzellik aksessuarına ne denir?",
+      "accepted_forms": ["ziynet"],
+      "note": null
+    }
+  ]
+}

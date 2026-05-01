@@ -1,0 +1,21 @@
+{
+  "word": "yakıt",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "fuel",
+  "sentences": [
+    {"id": "yakit_s1", "text": "Araba [yakıt] deposu boşaldığında doldurmalısın.", "note": null},
+    {"id": "yakit_s2", "text": "[Yakıt] fiyatları ekonomi için önemli bir göstergedir.", "note": null},
+    {"id": "yakit_s3", "text": "Uçak [yakıt] çok miktarda tüketir.", "note": null},
+    {"id": "yakit_s4", "text": "[Yakıt] verimliliği modern arabaların tasarımında önemli bir faktördür.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "yakit_r1",
+      "prompt": "Motorlu araçları hareket ettirmek için kullanılan enerji kaynağı nedir?",
+      "accepted_forms": ["yakıt"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "gözlemevi",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "observatory",
+  "sentences": [
+    {"id": "gozlemevi_s1", "text": "[Gözlemevi]nde astronomlar yıldızları incelerler.", "note": null},
+    {"id": "gozlemevi_s2", "text": "Dünyadaki en büyük [gözlemevi]ler dağlara inşa edilmiştir.", "note": null},
+    {"id": "gozlemevi_s3", "text": "[Gözlemevi]nin teleskopları çok güçlüdür.", "note": null},
+    {"id": "gozlemevi_s4", "text": "Öğrenciler [gözlemevi]yi ziyaret ederek uzay hakkında öğrenirler.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "gozlemevi_r1",
+      "prompt": "Astronomlar yıldızları ve gezegenleri gözlemlemek için çalıştıkları yer ... dır.",
+      "accepted_forms": ["gözlemevi"],
+      "note": null
+    }
+  ]
+}

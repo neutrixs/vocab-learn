@@ -1,0 +1,21 @@
+{
+  "word": "kazara",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adverb",
+  "english_gloss": "accidentally, by accident",
+  "sentences": [
+    {"id": "kazara_s1", "text": "[Kazara] bardağı düştü ve kırıldı.", "note": null},
+    {"id": "kazara_s2", "text": "Bilgisayarı [kazara] kapalı kapattım.", "note": null},
+    {"id": "kazara_s3", "text": "[Kazara] eski arkadaşını sokakta gördü.", "note": null},
+    {"id": "kazara_s4", "text": "Dosyayı [kazara] sildim ve geri getiremedim.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "kazara_r1",
+      "prompt": "Planlamamış, istenmemiş bir şekilde olmuş olay ... gerçekleşmiş demektir.",
+      "accepted_forms": ["kazara"],
+      "note": null
+    }
+  ]
+}

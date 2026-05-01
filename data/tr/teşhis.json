@@ -1,0 +1,21 @@
+{
+  "word": "teşhis",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "diagnosis",
+  "sentences": [
+    {"id": "teshis_s1", "text": "Doktor hastanın [teşhis] ini koymak için çeşitli testler istedi.", "note": null},
+    {"id": "teshis_s2", "text": "[Teşhis] sonucu hastaya hemen tedavi verilmelidir.", "note": null},
+    {"id": "teshis_s3", "text": "Doğru bir [teşhis] tedavinin başarısı için çok önemlidir.", "note": null},
+    {"id": "teshis_s4", "text": "[Teşhis] klinik muayene ve laboratuvar sonuçlarına dayanır.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "teshis_r1",
+      "prompt": "Doktor tarafından hastanın hastalığının belirlenmesi işlemi nedir?",
+      "accepted_forms": ["teşhis"],
+      "note": null
+    }
+  ]
+}

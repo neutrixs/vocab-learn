@@ -1,0 +1,21 @@
+{
+  "word": "uğraşmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to struggle with, to deal with, to wrestle",
+  "sentences": [
+    {"id": "ugrasma_s1", "text": "Ev sahibi, sorunun çözümüyle [uğraşmak]ta zorluk çekti.", "note": null},
+    {"id": "ugrasma_s2", "text": "Teknisyen, makinenin hasarıyla [uğraşmak]ta meşguldü.", "note": null},
+    {"id": "ugrasma_s3", "text": "Avukat, davayla [uğraşmak] için çok zaman harcadı.", "note": null},
+    {"id": "ugrasma_s4", "text": "Öğrenci, matematik problemleriyle [uğraşmak]ta yoruldu.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "ugrasma_r1",
+      "prompt": "Bir problem veya zorluk ile başa çıkmak anlamına gelen fiil hangisidir?",
+      "accepted_forms": ["uğraşmak"],
+      "note": null
+    }
+  ]
+}

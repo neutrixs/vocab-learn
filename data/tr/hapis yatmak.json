@@ -1,0 +1,21 @@
+{
+  "word": "hapis yatmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to serve prison time, to do time",
+  "sentences": [
+    {"id": "hapis_yatmak_s1", "text": "Suçlu, üç yıl [hapis yatmak]tan sonra çıktı.", "note": null},
+    {"id": "hapis_yatmak_s2", "text": "İçeride [hapis yatmak] çok zor oldu.", "note": null},
+    {"id": "hapis_yatmak_s3", "text": "Birçok kişi bu suçtan [hapis yatmak]ta.", "note": null},
+    {"id": "hapis_yatmak_s4", "text": "Mahkeme, onu beş yıl [hapis yatmak]a mahkûm etti.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "hapis_yatmak_r1",
+      "prompt": "Ceza olarak hapishanede zaman geçirmek anlamına gelen ifade nedir?",
+      "accepted_forms": ["hapis yatmak"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "kanıtlamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to prove, to verify, to substantiate",
+  "sentences": [
+    {"id": "kanitlamak_s1", "text": "Savcı, suçu [kanıtlamak] için belgeler sundu.", "note": null},
+    {"id": "kanitlamak_s2", "text": "Deney, bu hipotezi [kanıtlamak]ta yardımcı oldu.", "note": null},
+    {"id": "kanitlamak_s3", "text": "Hâkim, deliller tarafından [kanıtlamak]ıldı.", "note": null},
+    {"id": "kanitlamak_s4", "text": "Müşteri, ürünün kalitesini [kanıtlamak]mak istedi.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "kanitlamak_r1",
+      "prompt": "Bir şeyin gerçek veya doğru olduğunu belge veya delille göstermek anlamına gelen fiil hangisidir?",
+      "accepted_forms": ["kanıtlamak"],
+      "note": null
+    }
+  ]
+}

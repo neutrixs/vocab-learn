@@ -1,0 +1,21 @@
+{
+  "word": "kozmonot",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "cosmonaut",
+  "sentences": [
+    {"id": "kozmonot_s1", "text": "[Kozmonot]lar uzay istasyonunda çalışır.", "note": null},
+    {"id": "kozmonot_s2", "text": "İlk [kozmonot] Yuri Gagarin'di.", "note": null},
+    {"id": "kozmonot_s3", "text": "[Kozmonot]lar uzaya gitmek için yoğun eğitim alırlar.", "note": null},
+    {"id": "kozmonot_s4", "text": "Rus [kozmonot]ları tarihte önemli rol oynadılar.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "kozmonot_r1",
+      "prompt": "Uzaya gitmek için eğitilmiş ve uzayda görev yapan profesyonel ... dır.",
+      "accepted_forms": ["kozmonot"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "genetik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "genetic; genetics",
+  "sentences": [
+    {"id": "genetik_s1", "text": "[Genetik] hastalıklar tedavi edilebilir.", "note": null},
+    {"id": "genetik_s2", "text": "Biyoloji sınıfında [genetik] konularını öğreniyoruz.", "note": null},
+    {"id": "genetik_s3", "text": "[Genetik] mühendislik tıpta devrim yaptı.", "note": null},
+    {"id": "genetik_s4", "text": "Çocuk babasının [genetik] özelliklerini taşıyor.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "genetik_r1",
+      "prompt": "Genlerle ve kalıtım ile ilgili olan ... çalışmalar tıpta çok önemlidir.",
+      "accepted_forms": ["genetik"],
+      "note": null
+    }
+  ]
+}

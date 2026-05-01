@@ -1,0 +1,21 @@
+{
+  "word": "tespit etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to determine, to identify, to establish",
+  "sentences": [
+    {"id": "tespit_etmek_s1", "text": "Doktor hastanın hastalığını [tespit etmek] için testler yaptı.", "note": null},
+    {"id": "tespit_etmek_s2", "text": "Polis suçlunun kimliğini [tespit etmek].", "note": null},
+    {"id": "tespit_etmek_s3", "text": "İnceleme eksiklikleri ve problemleri [tespit etmek] amaçlı.", "note": null},
+    {"id": "tespit_etmek_s4", "text": "Bilim insanları yeni türü [tespit etmek] için özel araştırma yaptılar.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "tespit_etmek_r1",
+      "prompt": "Doktor hastanın hastalığını ... için testler yaptı.",
+      "accepted_forms": ["tespit etmek"],
+      "note": null
+    }
+  ]
+}

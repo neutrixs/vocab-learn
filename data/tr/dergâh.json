@@ -1,0 +1,21 @@
+{
+  "word": "dergâh",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "dervish lodge, tekke",
+  "sentences": [
+    {"id": "dergah_s1", "text": "Sufi dervişler [dergâh]ta meditasyon yaparlar.", "note": null},
+    {"id": "dergah_s2", "text": "[Dergâh] İslami manevi eğitimin merkezi olmuştur.", "note": null},
+    {"id": "dergah_s3", "text": "Eski şehrdeki [dergâh] mimarisinde Osmanlı tarzını görebiliriz.", "note": null},
+    {"id": "dergah_s4", "text": "[Dergâh]da müritler şeyhin rehberliğinde ilerliyorlar.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "dergah_r1",
+      "prompt": "Sufi dervişlerin toplanıp meditasyon ve öğretim yaptığı tekke ... adı nedir?",
+      "accepted_forms": ["dergâh"],
+      "note": null
+    }
+  ]
+}

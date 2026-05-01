@@ -1,0 +1,21 @@
+{
+  "word": "barındırmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to shelter, to house, to harbor",
+  "sentences": [
+    {"id": "barındırmak_s1", "text": "Bu bina yüzlerce mülteci [barındırmak] için yapılmıştır.", "note": null},
+    {"id": "barındırmak_s2", "text": "Ormandaki ahır çiftçinin hayvanlarını [barındırmak]ta kullanılır.", "note": null},
+    {"id": "barındırmak_s3", "text": "Gizli bir odada değerli eserleri [barındırmak] tehlikeli olabilir.", "note": null},
+    {"id": "barındırmak_s4", "text": "Kütüphane bilginin hanelerini içinde [barındırmak]tadır.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "barındırmak_r1",
+      "prompt": "Birini veya bir şeyi içinde taşımak, yer almak anlamına gelen fiil nedir?",
+      "accepted_forms": ["barındırmak"],
+      "note": null
+    }
+  ]
+}

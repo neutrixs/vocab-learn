@@ -1,0 +1,21 @@
+{
+  "word": "ilerleme kaydetmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to make progress, to advance",
+  "sentences": [
+    {"id": "ilerleme_kaydetmek_s1", "text": "Öğrenciler düzenli çalışma ile hızlı [ilerleme kaydetmek].", "note": null},
+    {"id": "ilerleme_kaydetmek_s2", "text": "Şirket son çeyrekte önemli başarı [ilerleme kaydetmek].", "note": null},
+    {"id": "ilerleme_kaydetmek_s3", "text": "Araştırma projesi beklentiyi aşan [ilerleme kaydetmek].", "note": null},
+    {"id": "ilerleme_kaydetmek_s4", "text": "Spor takımının sezon sonuna kadar çok [ilerleme kaydetmek] bekleniyor.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "ilerleme_kaydetmek_r1",
+      "prompt": "Öğrenciler düzenli çalışma ile hızlı ... .",
+      "accepted_forms": ["ilerleme kaydetmek"],
+      "note": null
+    }
+  ]
+}

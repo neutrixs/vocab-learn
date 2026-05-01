@@ -1,0 +1,21 @@
+{
+  "word": "akustik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun/adjective",
+  "english_gloss": "acoustic; acoustics",
+  "sentences": [
+    {"id": "akustik_s1", "text": "Konser salonunun [akustik] özellikleri müzikal performanslar için mükemmeldir.", "note": null},
+    {"id": "akustik_s2", "text": "Mimar binanın [akustik] tasarımı üzerinde çok düşündü.", "note": null},
+    {"id": "akustik_s3", "text": "[Akustik] gitarlar elektrik gitarlardan farklı bir ses üretir.", "note": null},
+    {"id": "akustik_s4", "text": "Ses mühendisliği ve [akustik] bilimi çok yakın disiplinlerdir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "akustik_r1",
+      "prompt": "Bir yerin ses kalitesini açıklayan özelliğe ne denir?",
+      "accepted_forms": ["akustik"],
+      "note": null
+    }
+  ]
+}

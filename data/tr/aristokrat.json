@@ -1,0 +1,21 @@
+{
+  "word": "aristokrat",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "aristocrat",
+  "sentences": [
+    {"id": "aristokrat_s1", "text": "18. yüzyılda [aristokrat]lar halk üzerinde büyük güce sahipti.", "note": null},
+    {"id": "aristokrat_s2", "text": "O ailenin soyluluk geçmişi onu bir [aristokrat] yapmaktadır.", "note": null},
+    {"id": "aristokrat_s3", "text": "Devrimin amacı [aristokrat]ların gücünü kırmaktı.", "note": null},
+    {"id": "aristokrat_s4", "text": "Bir [aristokrat] olarak o, toplumun üst katmanında yaşıyordu.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "aristokrat_r1",
+      "prompt": "Soylu bir aileden gelen ve üst sınıfta yaşayan kişiye ne denir?",
+      "accepted_forms": ["aristokrat"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "word": "korsan",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "pirate; pirated",
+  "sentences": [
+    {"id": "korsan_s1", "text": "Eski dönemde [korsan]lar denizlerde ticaret gemilerine saldırıyorlardı.", "note": null},
+    {"id": "korsan_s2", "text": "Yazılım [korsan]lığı bir milyarlık endüstriye dönüştü.", "note": null},
+    {"id": "korsan_s3", "text": "[Korsan] radyo istasyonları izinsiz olarak yayın yapıyordu.", "note": null},
+    {"id": "korsan_s4", "text": "Film endüstrisi [korsan] kopyalama ile mücadele ediyor.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "korsan_r1",
+      "prompt": "Denizde ticaret gemilerini soyarak yaşayan veya izinsiz içerik dağıtan kişi ... olarak adlandırılır.",
+      "accepted_forms": ["korsan"],
+      "note": null
+    }
+  ]
+}

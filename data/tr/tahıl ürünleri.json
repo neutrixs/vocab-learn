@@ -1,0 +1,21 @@
+{
+  "word": "tahıl ürünleri",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "grain products, cereals",
+  "sentences": [
+    {"id": "tahil_urunleri_s1", "text": "[Tahıl ürünleri] sağlıklı bir diyet için önemli karbonhidrat kaynağıdır.", "note": null},
+    {"id": "tahil_urunleri_s2", "text": "Ekmek, pirinç ve makarna [tahıl ürünleri] nin örnekleridir.", "note": null},
+    {"id": "tahil_urunleri_s3", "text": "[Tahıl ürünleri] halk sağlığının temelini oluşturur.", "note": null},
+    {"id": "tahil_urunleri_s4", "text": "[Tahıl ürünleri] vitamin ve mineral bakımından zengindir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "tahil_urunleri_r1",
+      "prompt": "Buğday, arpa ve mısırdan üretilen gıda ürünleri hangi adla anılır?",
+      "accepted_forms": ["tahıl ürünleri"],
+      "note": null
+    }
+  ]
+}

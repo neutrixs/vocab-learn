@@ -1,0 +1,21 @@
+{
+  "word": "utandırmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to shame, to embarrass",
+  "sentences": [
+    {"id": "utandirmak_s1", "text": "Öğretmen, öğrenciyi sınıf önünde [utandırmak]ı uygun bulunmadı.", "note": null},
+    {"id": "utandirmak_s2", "text": "Arkadaş, onun gizli sırını açıklamakla [utandırmak]ta başarılı oldu.", "note": null},
+    {"id": "utandirmak_s3", "text": "Medya, siyasetçiyi milyonlar önünde [utandırmak]ı hedefledi.", "note": null},
+    {"id": "utandirmak_s4", "text": "Bunu yaparak ailesini [utandırmak]ın farkında değildir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "utandirmak_r1",
+      "prompt": "Birinin yüzünü kızartmak, hicvine uğramak anlamına gelen fiil hangisidir?",
+      "accepted_forms": ["utandırmak"],
+      "note": null
+    }
+  ]
+}

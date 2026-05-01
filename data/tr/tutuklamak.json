@@ -1,0 +1,21 @@
+{
+  "word": "tutuklamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to arrest, to detain",
+  "sentences": [
+    {"id": "tutuklamak_s1", "text": "Polis, şüpheliyi [tutuklamak]ta başarılı oldu.", "note": null},
+    {"id": "tutuklamak_s2", "text": "Hakim, suçluyu [tutuklamak] kararı verdi.", "note": null},
+    {"id": "tutuklamak_s3", "text": "Otoriteler, beş kişiyi [tutuklamak]tan kararlaştırdı.", "note": null},
+    {"id": "tutuklamak_s4", "text": "Kaçak suçlu, nihayet [tutuklamak]ıldı.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "tutuklamak_r1",
+      "prompt": "Birini hukuki sebeplerle gözaltına almak anlamına gelen fiil hangisidir?",
+      "accepted_forms": ["tutuklamak"],
+      "note": null
+    }
+  ]
+}

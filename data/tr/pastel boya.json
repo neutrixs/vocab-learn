@@ -1,0 +1,21 @@
+{
+  "word": "pastel boya",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "pastel crayon, pastel color",
+  "sentences": [
+    {"id": "pastel_boya_s1", "text": "Sanatçı [pastel boya] kullanarak güzel bir resim çizdi.", "note": null},
+    {"id": "pastel_boya_s2", "text": "[Pastel boya] yumuşak ve çeşitli renklerde bulunur.", "note": null},
+    {"id": "pastel_boya_s3", "text": "Resim dersinde [pastel boya] ile çalışmak çok eğlencelidir.", "note": null},
+    {"id": "pastel_boya_s4", "text": "[Pastel boya] ile yapılan sanat eserleri çok etkileyici görünür.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "pastel_boya_r1",
+      "prompt": "Sanat eserlerinde kullanılan, yumuşak dokulu renkli çubuk malzeme nedir?",
+      "accepted_forms": ["pastel boya"],
+      "note": null
+    }
+  ]
+}

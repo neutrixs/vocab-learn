@@ -1,0 +1,21 @@
+{
+  "word": "kapkaççılık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "bag-snatching, mugging",
+  "sentences": [
+    {"id": "kapkacccilik_s1", "text": "Şehirde [kapkaççılık] olayları arttığı için polis devriyeleri arttırıldı.", "note": null},
+    {"id": "kapkacccilik_s2", "text": "Kurban [kapkaççılık] saldırısından sonra travma yaşadı.", "note": null},
+    {"id": "kapkacccilik_s3", "text": "[Kapkaççılık] şehirdeki güvenlik sorunlarının bir parçasıdır.", "note": null},
+    {"id": "kapkacccilik_s4", "text": "Caddelerde [kapkaççılık]a karşı korunmak gerekir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "kapkacccilik_r1",
+      "prompt": "Sokakta hızla birine yaklaşıp çanta veya değerli eşya çalıp kaçmak ... adı verilen eylemdir.",
+      "accepted_forms": ["kapkaççılık"],
+      "note": null
+    }
+  ]
+}

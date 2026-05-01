@@ -1,0 +1,21 @@
+{
+  "word": "madeni para",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "coin, metal currency",
+  "sentences": [
+    {"id": "madeni_para_s1", "text": "Cebimde birkaç [madeni para] var.", "note": null},
+    {"id": "madeni_para_s2", "text": "[Madeni para] yüzünde Atatürk'ün portresi bulunur.", "note": null},
+    {"id": "madeni_para_s3", "text": "Çocuklar [madeni para] biriktirirler.", "note": null},
+    {"id": "madeni_para_s4", "text": "[Madeni para] ve kağıt paraya birlikte para denir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "madeni_para_r1",
+      "prompt": "Metal malzemeden yapılmış, yüzünde resim veya yazı olan ödeme aracı nedir?",
+      "accepted_forms": ["madeni para"],
+      "note": null
+    }
+  ]
+}

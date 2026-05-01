@@ -1,0 +1,21 @@
+{
+  "word": "oksijen",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "oxygen",
+  "sentences": [
+    {"id": "oksijen_s1", "text": "[Oksijen] canlıların hayatta kalması için gereklidir.", "note": null},
+    {"id": "oksijen_s2", "text": "Atmosferin yaklaşık %21'i [oksijen] den oluşur.", "note": null},
+    {"id": "oksijen_s3", "text": "Hastalar [oksijen] maskesi takarak rahat nefes alırlar.", "note": null},
+    {"id": "oksijen_s4", "text": "[Oksijen] kimya laboratuvarında çeşitli deneylerde kullanılır.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "oksijen_r1",
+      "prompt": "Canlıların solunumu için hayati önem taşıyan, havasız renk gaz element nedir?",
+      "accepted_forms": ["oksijen"],
+      "note": null
+    }
+  ]
+}

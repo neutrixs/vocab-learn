@@ -1,0 +1,21 @@
+{
+  "word": "soya",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "soy, soybean",
+  "sentences": [
+    {"id": "soya_s1", "text": "[Soya] ürünleri vejetaryen diyetinde önemli bir rol oynarlar.", "note": null},
+    {"id": "soya_s2", "text": "[Soya] fasulyesi protein açısından çok zengindir.", "note": null},
+    {"id": "soya_s3", "text": "[Soya] sosu Asya mutfağında sıkça kullanılan bir baharat.", "note": null},
+    {"id": "soya_s4", "text": "[Soya] bitkisi toprak için de faydalı bir tarım ürünüdür.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "soya_r1",
+      "prompt": "Yüksek protein içeriğine sahip olan, sosyal mutfakta sıkça kullanılan fasulye türü nedir?",
+      "accepted_forms": ["soya"],
+      "note": null
+    }
+  ]
+}

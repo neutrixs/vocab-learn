@@ -1,0 +1,21 @@
+{
+  "word": "petrol",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "petroleum, crude oil",
+  "sentences": [
+    {"id": "petrol_s1", "text": "[Petrol] dünya ekonomisinde stratejik bir kaynak olarak önemlidir.", "note": null},
+    {"id": "petrol_s2", "text": "[Petrol] araçların yakıt olarak kullanılır.", "note": null},
+    {"id": "petrol_s3", "text": "Orta Doğu ülkeleri [petrol] açısından zengin kaynaklara sahiptir.", "note": null},
+    {"id": "petrol_s4", "text": "[Petrol] fiyatlarının dalgalanması global ekonomiyi etkiler.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "petrol_r1",
+      "prompt": "Yerden çıkarılan ve motorlu araçlara yakıt olarak kullanılan siyah sıvı nedir?",
+      "accepted_forms": ["petrol"],
+      "note": null
+    }
+  ]
+}

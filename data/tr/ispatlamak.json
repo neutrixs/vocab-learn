@@ -1,0 +1,21 @@
+{
+  "word": "ispatlamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to prove, to demonstrate",
+  "sentences": [
+    {"id": "ispatlamak_s1", "text": "Avukat, müvekkilinin masumiyetini [ispatlamak]a çalıştı.", "note": null},
+    {"id": "ispatlamak_s2", "text": "Bilim, bu teorinin doğru olduğunu [ispatlamak]ta başarılı oldu.", "note": null},
+    {"id": "ispatlamak_s3", "text": "Kanıtlar, suçlu olduğunu [ispatlamak]tır.", "note": null},
+    {"id": "ispatlamak_s4", "text": "Matematiksel bir formülü [ispatlamak] gerekir.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "ispatlamak_r1",
+      "prompt": "Bir şeyin doğru veya yanlış olduğunu göstermek anlamına gelen fiil hangisidir?",
+      "accepted_forms": ["ispatlamak"],
+      "note": null
+    }
+  ]
+}

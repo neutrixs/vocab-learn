@@ -1,0 +1,21 @@
+{
+  "word": "kaya",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "rock, boulder, cliff",
+  "sentences": [
+    {"id": "kaya_s1", "text": "Dağın tepesinde dev bir [kaya] taşı bulunuyordu.", "note": null},
+    {"id": "kaya_s2", "text": "Deniz [kaya]larına karşı ısrarla dalgalarını fırlatıyordu.", "note": null},
+    {"id": "kaya_s3", "text": "Çocuklar [kaya]nın üstüne tırmanmaya çalışıyordu.", "note": null},
+    {"id": "kaya_s4", "text": "Bu [kaya] binlerce yıldır burada durmaktadır.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "kaya_r1",
+      "prompt": "Çok sert, doğal taş yapısı olan nesne ne demektir?",
+      "accepted_forms": ["kaya"],
+      "note": null
+    }
+  ]
+}

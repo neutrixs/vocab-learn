@@ -1,0 +1,21 @@
+{
+  "word": "atasözü",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "proverb, saying",
+  "sentences": [
+    {"id": "atasozi_s1", "text": "Eski bir [atasözü] der ki: \"Acı ilaçtır, tatlı hastalıktır.\"", "note": null},
+    {"id": "atasozi_s2", "text": "Türk kültürü birçok bilge [atasözü] ile doludur.", "note": null},
+    {"id": "atasozi_s3", "text": "Bu duruma uygun bir [atasözü] var mı biliyor musunuz?", "note": null},
+    {"id": "atasozi_s4", "text": "Dedelerimizin [atasözü]leri günümüzde de geçerliliğini koruyor.", "note": null}
+  ],
+  "recall_prompts": [
+    {
+      "id": "atasozi_r1",
+      "prompt": "Geçmiş kuşaklardan gelen, bir öğretim veya uyarı içeren kısa sözlere ne denir?",
+      "accepted_forms": ["atasözü"],
+      "note": null
+    }
+  ]
+}
