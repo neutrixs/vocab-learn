@@ -86,5 +86,25 @@ make build            # builds frontend + Go binary → bin/server
 ## Data Directory Rules
 
 - **Never use the Read tool on `data/`** — the directory contains thousands of files and is too large to browse or read directly.
+- **NEVER read `data/tr/_index.json` with the Read tool** — it is enormous and will nuke the context window. Always load it programmatically (Python, `jq`, etc.).
 - **Always interact with `data/` programmatically** — use `jq`, shell scripts, or Python.
 - **If reading is truly unavoidable**, limit output length (e.g. `head`, `jq` with `limit/2`, or `--head-limit` on Grep).
+
+## Adding New Vocabulary Words
+
+The user will provide a file (e.g. `WORDS_TEMP.txt`, one word per line) with candidate Turkish words to add.
+
+### Step 1 — Deduplicate
+Run a Python script that cross-references the input file against `data/tr/_index.json` (case-insensitive). Remove duplicates from the input file, leaving only words not yet in the index.
+
+### Step 2 — Generate word files
+Use the `/gen-vocab` skill. It handles batching, Haiku agent dispatch, the JSON schema, ID rules, filename conventions, and everything else. The user will specify how many words to process in one go.
+
+### Step 3 — Update the index programmatically
+After generation, run a Python script that reads each new `.json` file, builds index entries `{word, file, difficulty, part_of_speech, tags: []}`, appends them to `data/tr/_index.json`, re-sorts by `word.lower()`, and writes the file. **Never edit the index manually.**
+
+### Step 4 — Validate
+Run the `/fix-vocab` skill. It detects and fixes bracket errors in sentences/prompts and checks index consistency (missing files, orphaned files).
+
+### Step 5 — Clean up
+Re-run the deduplication script from Step 1 to strip all now-indexed words from the input file.
