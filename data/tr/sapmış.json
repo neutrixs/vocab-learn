@@ -1,0 +1,53 @@
+{
+  "word": "sapmış",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "deviated, soured, off, rotten",
+  "sentences": [
+    {
+      "id": "sapmış_s1",
+      "text": "Sütün [sapmış] olduğunu tadından anlıyor.",
+      "note": null
+    },
+    {
+      "id": "sapmış_s2",
+      "text": "Yol [sapmış] bir virajda doğru yöne dönüyordu.",
+      "note": null
+    },
+    {
+      "id": "sapmış_s3",
+      "text": "Meyveler [sapmış] görünüyordu, satılamaz hale gelmiş.",
+      "note": null
+    },
+    {
+      "id": "sapmış_s4",
+      "text": "[Sapmış] yoldan kurtulup doğru yola döndü.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sapmış_r1",
+      "prompt": "Gıdaların zaman geçtikçe bozularak uygun olmadığı duruma ne denir?",
+      "accepted_forms": [
+        "sapmış",
+        "sapmışlık",
+        "sapmış olması",
+        "sapma"
+      ],
+      "note": null
+    },
+    {
+      "id": "sapmış_r2",
+      "prompt": "Planından çok uzaklaşmış, yanlış kararlar alan adam, ... birine benziyor.",
+      "accepted_forms": [
+        "sapmış",
+        "sapmış birisi",
+        "sapan",
+        "sapmış adama"
+      ],
+      "note": null
+    }
+  ]
+}

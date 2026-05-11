@@ -1,0 +1,43 @@
+{
+  "word": "döşemek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to cover, to spread, to lay down",
+  "sentences": [
+    {
+      "id": "döşemek_s1",
+      "text": "Usta odanın zeminini mermer taşlarıyla [döşedi].",
+      "note": null
+    },
+    {
+      "id": "döşemek_s2",
+      "text": "Bahçenin yollarını çakıl taşlarıyla [döşeyecekler].",
+      "note": null
+    },
+    {
+      "id": "döşemek_s3",
+      "text": "Yatak odası yeni bir halıyla [döşendi].",
+      "note": null
+    },
+    {
+      "id": "döşemek_s4",
+      "text": "Piknik için masayı çiçeklerle [döşedi].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "döşemek_r1",
+      "prompt": "Bir alanın zemine veya yüzeyine bir malzeme yaymak veya koymak anlamındaki fiil nedir?",
+      "accepted_forms": ["döşemek", "döşedi", "döşeyecek", "döşeyen"],
+      "note": null
+    },
+    {
+      "id": "döşemek_r2",
+      "prompt": "Salon yeni parke ile ... oldu.",
+      "accepted_forms": ["döşendi", "döşenmiş"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "nezaket",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "politeness, courtesy, refinement",
+  "sentences": [
+    {
+      "id": "nezaket_s1",
+      "text": "Onun [nezaket]i herkesi etkiledi.",
+      "note": null
+    },
+    {
+      "id": "nezaket_s2",
+      "text": "[Nezaket] ve saygı insanları bir araya getirir.",
+      "note": null
+    },
+    {
+      "id": "nezaket_s3",
+      "text": "Kültürlü birinin [nezaket] göstermesi beklenen bir davranışdır.",
+      "note": null
+    },
+    {
+      "id": "nezaket_s4",
+      "text": "Görüşmede [nezaket] kurallı davranış uygulanmıştır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "nezaket_r1",
+      "prompt": "İnsan ile iletişim kurarken yapılan ince davranış ve sayılı kural nedir?",
+      "accepted_forms": ["nezaket", "nezaketi", "nezaketin"],
+      "note": null
+    },
+    {
+      "id": "nezaket_r2",
+      "prompt": "Kibar ve saygılı davranış gösteren bir kişi ... sergiler.",
+      "accepted_forms": ["nezaket", "nezaketi"],
+      "note": null
+    }
+  ]
+}

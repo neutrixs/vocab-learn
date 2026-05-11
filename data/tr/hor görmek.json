@@ -1,0 +1,43 @@
+{
+  "word": "hor görmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to despise, to scorn, to look down on",
+  "sentences": [
+    {
+      "id": "hor görmek_s1",
+      "text": "Zengin adamın yoksulu [hor görmesi] insani değerleri reddeder.",
+      "note": null
+    },
+    {
+      "id": "hor görmek_s2",
+      "text": "Onun [hor görüş] davranışı çevresindekileri kırıyordu.",
+      "note": null
+    },
+    {
+      "id": "hor görmek_s3",
+      "text": "İnsanları [hor görmek] çirkin bir karakterin işaretidir.",
+      "note": null
+    },
+    {
+      "id": "hor görmek_s4",
+      "text": "Onu [hor görüyor] oldukça çünkü ailesi düşük gelir grubunda.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hor görmek_r1",
+      "prompt": "Bir kişiye veya gruba saygısızlık yaparak aşağılamak anlamında kullanılan deyim nedir?",
+      "accepted_forms": ["hor görmek", "hor görme", "hor gördü"],
+      "note": null
+    },
+    {
+      "id": "hor görmek_r2",
+      "prompt": "Başkalarının özür dileye ait değeri olmadığını ve ... söyleyin.",
+      "accepted_forms": ["hor görmek", "hor görmesi", "hor görüyor"],
+      "note": null
+    }
+  ]
+}

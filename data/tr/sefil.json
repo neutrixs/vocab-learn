@@ -1,0 +1,43 @@
+{
+  "word": "sefil",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "wretched, miserable, contemptible",
+  "sentences": [
+    {
+      "id": "sefil_s1",
+      "text": "[Sefil] bir yaşam sürdürmektedir.",
+      "note": null
+    },
+    {
+      "id": "sefil_s2",
+      "text": "Bu [sefil] düzen sonunda değişecek.",
+      "note": null
+    },
+    {
+      "id": "sefil_s3",
+      "text": "Onun [sefil] durumu herkesin merhamet göstermesine yol açtı.",
+      "note": null
+    },
+    {
+      "id": "sefil_s4",
+      "text": "Şehrin [sefil] sokaklarında milyonlar yaşıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sefil_r1",
+      "prompt": "Yokluk içinde ve ızdırapla yaşayan bir kişi ... durumda demektir.",
+      "accepted_forms": ["sefil", "sefilce", "sefillik", "sefildir"],
+      "note": null
+    },
+    {
+      "id": "sefil_r2",
+      "prompt": "Başka kimse gibi düşünülmeyecek kadar değersiz ve mutsuz yaşamı ... diyebiliriz.",
+      "accepted_forms": ["sefil", "sefildir", "sefilce", "sefilm"],
+      "note": null
+    }
+  ]
+}

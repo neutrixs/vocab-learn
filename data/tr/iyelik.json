@@ -1,0 +1,53 @@
+{
+  "word": "iyelik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "possession, ownership",
+  "sentences": [
+    {
+      "id": "iyelik_s1",
+      "text": "[İyelik] hakkı, kişinin mülkünü korur.",
+      "note": null
+    },
+    {
+      "id": "iyelik_s2",
+      "text": "Eşyaların [iyelik]ini kanıtlamak gerekebilir.",
+      "note": null
+    },
+    {
+      "id": "iyelik_s3",
+      "text": "Bir şeyin [iyelik]ine sahip olmak, sorumluluk getirir.",
+      "note": null
+    },
+    {
+      "id": "iyelik_s4",
+      "text": "Gayrimenkul [iyelik]i, tapu ile belgelenir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "iyelik_r1",
+      "prompt": "Birinin bir şeye sahip olma durumunu ifade eden resmi terim nedir?",
+      "accepted_forms": [
+        "iyelik",
+        "iyeliği",
+        "iyeliğin",
+        "iyelikleri"
+      ],
+      "note": null
+    },
+    {
+      "id": "iyelik_r2",
+      "prompt": "Araba ... için sigorta poliçesi yapılır.",
+      "accepted_forms": [
+        "iyelik",
+        "iyeliği",
+        "iyeliğin",
+        "iyelikleri"
+      ],
+      "note": null
+    }
+  ]
+}

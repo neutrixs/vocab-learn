@@ -1,0 +1,43 @@
+{
+  "word": "başaramamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to fail to, to be unable to succeed",
+  "sentences": [
+    {
+      "id": "başaramamak_s1",
+      "text": "Sınavda [başaramamak] istemiyorum, çok çalışmam gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "başaramamak_s2",
+      "text": "Proje hedeflerine [başaramamadık] bu dönem çok zor oldu.",
+      "note": null
+    },
+    {
+      "id": "başaramamak_s3",
+      "text": "O müşteri ile iş yapmada [başaramamayan] birçok kişi var.",
+      "note": null
+    },
+    {
+      "id": "başaramamak_s4",
+      "text": "Ne kadar çalışsa da başarıyı [başaramamaktan] kurtulmuş değil.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "başaramamak_r1",
+      "prompt": "Yeterli kaynak olmadan, takım projeyi tamamlayamadı. Onlar projeyi ___.",
+      "accepted_forms": ["başaramamadı", "başaramamak", "başaramamıştı", "başaramamışlar"],
+      "note": null
+    },
+    {
+      "id": "başaramamak_r2",
+      "prompt": "Birçok girişim olmasına rağmen, hedefi gerçekleştiremedi. Hedefi ___ kötü bir durum.",
+      "accepted_forms": ["başaramamak", "başaramaması", "başaramaması", "başaramamaktan"],
+      "note": null
+    }
+  ]
+}

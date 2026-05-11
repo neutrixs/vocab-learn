@@ -1,0 +1,43 @@
+{
+  "word": "tebliğ",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "notification, summons, service of notice",
+  "sentences": [
+    {
+      "id": "tebliğ_s1",
+      "text": "Mahkeme davacı [tebliğ] göndermesi için ciro edildi.",
+      "note": null
+    },
+    {
+      "id": "tebliğ_s2",
+      "text": "[tebliğ] maktubesinin alındığını imza ile onaylaması gerekir.",
+      "note": null
+    },
+    {
+      "id": "tebliğ_s3",
+      "text": "Yasal [tebliğ] prosedürü yasayla belirtilmiştir.",
+      "note": null
+    },
+    {
+      "id": "tebliğ_s4",
+      "text": "Davada [tebliğ] yapılmadığı için mahkeme kararını erteledi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tebliğ_r1",
+      "prompt": "Mahkeme veya resmi kurum tarafından birilerine gönderilen ve alındığının onaylanması gereken resmi yazı nedir?",
+      "accepted_forms": ["tebliğ", "tebliği", "tebliğde"],
+      "note": null
+    },
+    {
+      "id": "tebliğ_r2",
+      "prompt": "Davacı ... aldığında, mahkemeye katılmak için belirlenen tarihe kadar olan süresi başlamıştır.",
+      "accepted_forms": ["tebliğ", "tebliği", "tebliğini"],
+      "note": null
+    }
+  ]
+}

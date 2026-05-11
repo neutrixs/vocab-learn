@@ -1,0 +1,43 @@
+{
+  "word": "çıtırdamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to crackle, to crunch",
+  "sentences": [
+    {
+      "id": "çıtırdamak_s1",
+      "text": "Ateş tehlikeli şekilde [çıtırdamaktadır].",
+      "note": null
+    },
+    {
+      "id": "çıtırdamak_s2",
+      "text": "Çimlerin üstünde yürürken ayakkabılar [çıtırdıyor].",
+      "note": null
+    },
+    {
+      "id": "çıtırdamak_s3",
+      "text": "Kapı menteşeleri [çıtırdayarak] açıldı.",
+      "note": null
+    },
+    {
+      "id": "çıtırdamak_s4",
+      "text": "Tavada yumurta [çıtırdatırken] tuz ekledim.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çıtırdamak_r1",
+      "prompt": "Kurumuş yapraklar yerde ... zaman sevdiğim ses çıkarır",
+      "accepted_forms": ["çıtırdamak", "çıtırda", "çıtırdasılar", "çıtırdarken"],
+      "note": null
+    },
+    {
+      "id": "çıtırdamak_r2",
+      "prompt": "Patatesi kızartırken yağda ... ses gözümüzü şaşırtır",
+      "accepted_forms": ["çıtırdama", "çıtırdarken", "çıtırdar"],
+      "note": null
+    }
+  ]
+}

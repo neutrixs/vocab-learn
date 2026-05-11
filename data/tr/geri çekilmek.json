@@ -1,0 +1,43 @@
+{
+  "word": "geri çekilmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to withdraw, to pull back, to retreat",
+  "sentences": [
+    {
+      "id": "geri çekilmek_s1",
+      "text": "Askerler düşman saldırısı karşısında [geri çekildiler].",
+      "note": null
+    },
+    {
+      "id": "geri çekilmek_s2",
+      "text": "[Geri çekilip] güvenli yere varıldı.",
+      "note": null
+    },
+    {
+      "id": "geri çekilmek_s3",
+      "text": "Kurtlar gürültü duyunca [geri çekildiler].",
+      "note": null
+    },
+    {
+      "id": "geri çekilmek_s4",
+      "text": "Su [geri çekilerek] plaja döndü.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "geri çekilmek_r1",
+      "prompt": "Tehlike karşısında arkaya doğru hareket etmeye ... denir.",
+      "accepted_forms": ["geri çekilmek", "geri çekildiler", "geri çekilerek", "geri çekiliyor"],
+      "note": null
+    },
+    {
+      "id": "geri çekilmek_r2",
+      "prompt": "Dalgalar kıyıya vurup sonra ...",
+      "accepted_forms": ["geri çekildiler", "geri çekilir", "geri çekilmek", "geri çekiliyorlar"],
+      "note": null
+    }
+  ]
+}

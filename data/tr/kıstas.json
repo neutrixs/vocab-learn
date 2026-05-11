@@ -1,0 +1,43 @@
+{
+  "word": "kıstas",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "criterion, measure, standard, yardstick",
+  "sentences": [
+    {
+      "id": "kıstas_s1",
+      "text": "Başarı [kıstas] olarak para miktarı kullanılmamalı.",
+      "note": null
+    },
+    {
+      "id": "kıstas_s2",
+      "text": "Adil [kıstas] herkes için aynı kurallar olmalı.",
+      "note": null
+    },
+    {
+      "id": "kıstas_s3",
+      "text": "Üniversite seçiminde akademik [kıstas] önemlidir.",
+      "note": null
+    },
+    {
+      "id": "kıstas_s4",
+      "text": "Kalitenin [kıstas] ürünün dayanıklılığıyla ölçülür.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kıstas_r1",
+      "prompt": "Bir şeyin iyi mi kötü mü olduğunu belirlemeye yarayan ölçü veya standart?",
+      "accepted_forms": ["kıstas", "kıstası", "kıstasa", "kıstasın"],
+      "note": null
+    },
+    {
+      "id": "kıstas_r2",
+      "prompt": "Karşılaştırma yapmak veya hüküm vermek için kullanılan referans noktası?",
+      "accepted_forms": ["kıstas", "kıstası", "kıstasa", "kıstasın"],
+      "note": null
+    }
+  ]
+}

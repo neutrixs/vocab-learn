@@ -1,0 +1,43 @@
+{
+  "word": "bedbaht",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "unlucky, unfortunate, wretched, luckless",
+  "sentences": [
+    {
+      "id": "bedbaht_s1",
+      "text": "Bu [bedbaht] adam hiçbir şeyde başarılı olamadı.",
+      "note": null
+    },
+    {
+      "id": "bedbaht_s2",
+      "text": "[Bedbaht] kadının kader ona pek acı olmuş.",
+      "note": null
+    },
+    {
+      "id": "bedbaht_s3",
+      "text": "[Bedbaht] bir prensessin hikayesi insanı çok etkiledi.",
+      "note": null
+    },
+    {
+      "id": "bedbaht_s4",
+      "text": "Onun [bedbaht] sonuyla roman bitti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bedbaht_r1",
+      "prompt": "Kaderinin ne kadar olumsuz olduğunu belirtmek istediğimizde ... diyebiliriz.",
+      "accepted_forms": ["bedbaht", "bedbahta", "bedbahttır", "bedbahtlık"],
+      "note": null
+    },
+    {
+      "id": "bedbaht_r2",
+      "prompt": "Hayal kırıklığı ve olumsuz kader deneyimi olan kişiler ... insanlar olarak tanımlanır.",
+      "accepted_forms": ["bedbaht", "bedbahttır", "bedbahtlar", "bedbahta"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "hoş karşılamak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "phrase",
+  "english_gloss": "to welcome, to greet warmly",
+  "sentences": [
+    {
+      "id": "hoş karşılamak_s1",
+      "text": "Aile misafiri [hoş karşıladı].",
+      "note": null
+    },
+    {
+      "id": "hoş karşılamak_s2",
+      "text": "[Hoş karşılanarak] eve girdi.",
+      "note": null
+    },
+    {
+      "id": "hoş karşılamak_s3",
+      "text": "Hediyeyi [hoş karşılaması] anlamına geliyordu.",
+      "note": null
+    },
+    {
+      "id": "hoş karşılamak_s4",
+      "text": "Yeni öğrenci sınıf tarafından [hoş karşılandı].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hoş karşılamak_r1",
+      "prompt": "Birini sıcak ve içten bir şekilde kabul etmeye ... denir.",
+      "accepted_forms": ["hoş karşılamak", "hoş karşıladı", "hoş karşılandı", "hoş karşılaması"],
+      "note": null
+    },
+    {
+      "id": "hoş karşılamak_r2",
+      "prompt": "Ziyaretçi kalp açıkken ...",
+      "accepted_forms": ["hoş karşılandı", "hoş karşılamak", "hoş karşılanıyor", "hoş karşılanması"],
+      "note": null
+    }
+  ]
+}

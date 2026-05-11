@@ -1,0 +1,41 @@
+{
+  "word": "meşale",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "torch, beacon",
+  "sentences": [
+    {
+      "id": "meşale_s1",
+      "text": "[Meşale] karanlık yolu aydınlattı.",
+      "note": null
+    },
+    {
+      "id": "meşale_s2",
+      "text": "Roma'daki heykelde [meşale] tutulur.",
+      "note": null
+    },
+    {
+      "id": "meşale_s3",
+      "text": "Antik çağda [meşale]ler ışık kaynağıydı.",
+      "note": null
+    },
+    {
+      "id": "meşale_s4",
+      "text": "[Meşale]nin ışığı uzaktan görülür.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "meşale_r1",
+      "prompt": "Gece yolda işaret yapmak için kullanılan ateşli araç nedir?",
+      "accepted_forms": ["meşale", "meşale'nin", "meşaleler", "meşalenin"]
+    },
+    {
+      "id": "meşale_r2",
+      "prompt": "Dönemin insanları bu ... ile yolda yürürdü.",
+      "accepted_forms": ["meşale", "meşale'yi", "meşaleyi", "meşalenin"]
+    }
+  ]
+}

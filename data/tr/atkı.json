@@ -1,0 +1,53 @@
+{
+  "word": "atkı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "weft, warp yarn, scarf",
+  "sentences": [
+    {
+      "id": "atkı_s1",
+      "text": "Dokuma makinesinde [atkı] ve çözgü ipliği birlikte çalışır.",
+      "note": null
+    },
+    {
+      "id": "atkı_s2",
+      "text": "Kumaşın kalitesi, [atkı]nın inceliğine bağlıdır.",
+      "note": null
+    },
+    {
+      "id": "atkı_s3",
+      "text": "Pazarlamacı, renkli bir [atkı] giyerek sunuma katıldı.",
+      "note": null
+    },
+    {
+      "id": "atkı_s4",
+      "text": "Kış aylarında kalın [atkı] giyilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "atkı_r1",
+      "prompt": "Boyun ve omuz etrafına sarılan kumaş ve tüylü aksesuara ne denir?",
+      "accepted_forms": [
+        "atkı",
+        "atkısı",
+        "atkıyı",
+        "atkılar"
+      ],
+      "note": null
+    },
+    {
+      "id": "atkı_r2",
+      "prompt": "Dokumacılıkta çözgü ipliğinin arasına geçirilen yatay ipliğe ... denir.",
+      "accepted_forms": [
+        "atkı",
+        "atkısı",
+        "atkıyı",
+        "atkılar"
+      ],
+      "note": null
+    }
+  ]
+}

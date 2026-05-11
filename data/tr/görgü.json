@@ -1,0 +1,43 @@
+{
+  "word": "görgü",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "manners, courtesy, decorum",
+  "sentences": [
+    {
+      "id": "görgü_s1",
+      "text": "Çocuklar okulda [görgü] kurallarını öğrenirler.",
+      "note": null
+    },
+    {
+      "id": "görgü_s2",
+      "text": "[görgü] eksikliği insanları sosyal hayattan uzaklaştırır.",
+      "note": null
+    },
+    {
+      "id": "görgü_s3",
+      "text": "Ev sahipleri konuklarına [görgü] ve nezaket gösterirler.",
+      "note": null
+    },
+    {
+      "id": "görgü_s4",
+      "text": "Davette uyulması gereken [görgü] kuralları vardır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "görgü_r1",
+      "prompt": "İyi ... olan kişiler toplumda saygı görürler.",
+      "accepted_forms": ["görgü", "görgüsü"],
+      "note": null
+    },
+    {
+      "id": "görgü_r2",
+      "prompt": "Sofra ... üniversitelerde de kurs olarak verilir.",
+      "accepted_forms": ["görgüsü", "görgü"],
+      "note": null
+    }
+  ]
+}

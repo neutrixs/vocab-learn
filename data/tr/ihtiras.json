@@ -1,0 +1,43 @@
+{
+  "word": "ihtiras",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "passion, zeal, fervent desire",
+  "sentences": [
+    {
+      "id": "ihtiras_s1",
+      "text": "Müzisyenin sanatına karşı [ihtiras] izleyenleri etkiler.",
+      "note": null
+    },
+    {
+      "id": "ihtiras_s2",
+      "text": "[ihtiras] ile çalışan insanlar hedeflerine daha kolay ulaşır.",
+      "note": null
+    },
+    {
+      "id": "ihtiras_s3",
+      "text": "Araştırmacının keşif [ihtiras] onu ileriye taşımıştır.",
+      "note": null
+    },
+    {
+      "id": "ihtiras_s4",
+      "text": "Gençlerin [ihtiras] kalkınma motoru olabilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ihtiras_r1",
+      "prompt": "Akademisyenin bilim ... onu araştırma yapmaya zorladi.",
+      "accepted_forms": ["ihtiras", "ihtirasıyla"],
+      "note": null
+    },
+    {
+      "id": "ihtiras_r2",
+      "prompt": "Sanatçı ... ile yapıtlarını hayata geçirir.",
+      "accepted_forms": ["ihtiras", "ihtirasla"],
+      "note": null
+    }
+  ]
+}

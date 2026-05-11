@@ -1,0 +1,38 @@
+{
+  "word": "böcek sokması",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "phrase",
+  "english_gloss": "insect bite, bug bite",
+  "sentences": [
+    {
+      "id": "böcek sokması_s1",
+      "text": "Yazında [böcek sokması] çok sık görülür ve kaşıntı yapar.",
+      "note": null
+    },
+    {
+      "id": "böcek sokması_s2",
+      "text": "Kolumda [böcek sokması] izleri hala kırmızı duruyor.",
+      "note": null
+    },
+    {
+      "id": "böcek sokması_s3",
+      "text": "[böcek sokması] hemen antihistamin ile tedavi edilmelidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "böcek sokması_r1",
+      "prompt": "Yaz aylarında dış mekanda cilt üzerine yapılan sivrisinek veya arı tarafından oluşturulan yaşlı hangi terim?",
+      "accepted_forms": ["böcek sokması", "böcek sokmasu", "böcek sokmalarında", "böcek sokmalarının"],
+      "note": null
+    },
+    {
+      "id": "böcek sokması_r2",
+      "prompt": "Hasaratlı bir türün diş veya akrep bölgesinden kılıçla yapılan temas?",
+      "accepted_forms": ["böcek sokması", "böcek sokmasu", "böcek sokmalarında", "böcek sokmalarının"],
+      "note": null
+    }
+  ]
+}

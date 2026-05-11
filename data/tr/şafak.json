@@ -1,0 +1,43 @@
+{
+  "word": "şafak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "dawn, daybreak",
+  "sentences": [
+    {
+      "id": "şafak_s1",
+      "text": "Her sabah [şafak] vakti uyandım ve yürüyüşe çıktım.",
+      "note": null
+    },
+    {
+      "id": "şafak_s2",
+      "text": "[Şafak] ışığı gökyüzünü pembe renge boyamıştır.",
+      "note": null
+    },
+    {
+      "id": "şafak_s3",
+      "text": "Kuşlar [şafak] söylediklerini duymak harika.",
+      "note": null
+    },
+    {
+      "id": "şafak_s4",
+      "text": "[Şafak] vaktinde dağlara tırmandığımız zaman manzara çok güzeldi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şafak_r1",
+      "prompt": "Gün doğması anlamında ... saati erkene kalkan insanların tercihidir",
+      "accepted_forms": ["şafak", "şafakta", "şafağı"],
+      "note": null
+    },
+    {
+      "id": "şafak_r2",
+      "prompt": "Romantik filmler sıklıkla ... ışığında aşk sahneleri gösterir",
+      "accepted_forms": ["şafak", "şafağının"],
+      "note": null
+    }
+  ]
+}

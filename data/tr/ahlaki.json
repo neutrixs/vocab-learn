@@ -1,0 +1,43 @@
+{
+  "word": "ahlaki",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "moral, ethical (relating to morality)",
+  "sentences": [
+    {
+      "id": "ahlaki_s1",
+      "text": "[ahlaki] değerler insan yaşamında önemlidir.",
+      "note": null
+    },
+    {
+      "id": "ahlaki_s2",
+      "text": "Hukuk sistemi [ahlaki] ilkelere dayanmalıdır.",
+      "note": null
+    },
+    {
+      "id": "ahlaki_s3",
+      "text": "Dini ve [ahlaki] öğretiler birlikte yürür.",
+      "note": null
+    },
+    {
+      "id": "ahlaki_s4",
+      "text": "[ahlaki] sorumluluğu görmezden gelmek çok ciddi bir hatadır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ahlaki_r1",
+      "prompt": "Doğru ve yanlışı, iyi ve kötüyü belirleyen değerler sistemine ilişkin sıfat?",
+      "accepted_forms": ["ahlaki", "ahlakı", "ahlakının", "ahlakında"],
+      "note": null
+    },
+    {
+      "id": "ahlaki_r2",
+      "prompt": "Etik kurallar ve sosyal normlara göre belirlenen davranış standartlarını tanımlayan?",
+      "accepted_forms": ["ahlaki", "ahlakı", "ahlakının", "ahlakında"],
+      "note": null
+    }
+  ]
+}

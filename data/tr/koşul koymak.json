@@ -1,0 +1,43 @@
+{
+  "word": "koşul koymak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to set a condition, to impose a condition",
+  "sentences": [
+    {
+      "id": "koşul koymak_s1",
+      "text": "Patronumuz projeyi onaylamadan önce bazı [koşullar koymak] istedi.",
+      "note": null
+    },
+    {
+      "id": "koşul koymak_s2",
+      "text": "Evlenmeden önce ailem çeşitli [koşullar koydular].",
+      "note": null
+    },
+    {
+      "id": "koşul koymak_s3",
+      "text": "Oyuncu yeni kontratı imzalamak için maaş artışı [koşulu koydular].",
+      "note": null
+    },
+    {
+      "id": "koşul koymak_s4",
+      "text": "Öğretmen devamsızlığa karşı katı [koşullar koymaya] başladı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "koşul koymak_r1",
+      "prompt": "Bir sözleşmede taraflar birbirlerine haklarını tanımak için ... isteyebilirler.",
+      "accepted_forms": ["koşul koyar", "koşul koymak", "koşullar koydular", "koşul koyması"],
+      "note": null
+    },
+    {
+      "id": "koşul koymak_r2",
+      "prompt": "Borç vermek isteyenler genellikle geri ödeme şartı olarak ... isterler.",
+      "accepted_forms": ["koşul koymak", "koşullar koymak", "koşul koydular", "koşul koyarlar"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "tüzel",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "legal entity, corporate",
+  "sentences": [
+    {
+      "id": "tüzel_s1",
+      "text": "[tüzel] kişilik, şirketlere insan gibi haklar verir.",
+      "note": null
+    },
+    {
+      "id": "tüzel_s2",
+      "text": "Dernek [tüzel] bir kuruluştur.",
+      "note": null
+    },
+    {
+      "id": "tüzel_s3",
+      "text": "[tüzel] kimliğe sahip kurumlar dava açabilirler.",
+      "note": null
+    },
+    {
+      "id": "tüzel_s4",
+      "text": "Vakıf [tüzel] kişi olarak hukuki durum kazanır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tüzel_r1",
+      "prompt": "Şirketler ... kişi olarak muhasebe defterleri tutarlar.",
+      "accepted_forms": ["tüzel", "tüzel"],
+      "note": null
+    },
+    {
+      "id": "tüzel_r2",
+      "prompt": "Kar amacı gütmeyen örgütler ... statüde bulunabilirler.",
+      "accepted_forms": ["tüzel", "tüzel"],
+      "note": null
+    }
+  ]
+}

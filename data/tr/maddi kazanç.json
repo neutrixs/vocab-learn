@@ -1,0 +1,43 @@
+{
+  "word": "maddi kazanç",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "material gain, financial profit, monetary benefit",
+  "sentences": [
+    {
+      "id": "maddi kazanç_s1",
+      "text": "Şirket bu yıl önemli [maddi kazanç] elde etti ve hissedarları çok memnun.",
+      "note": null
+    },
+    {
+      "id": "maddi kazanç_s2",
+      "text": "Gönüllü çalışmak sadece [maddi kazanç] için değil, insanlara yardım etmek içindir.",
+      "note": null
+    },
+    {
+      "id": "maddi kazanç_s3",
+      "text": "Para kazanmanın yanı sıra, bu iş [maddi kazanç] kadar manevi tatmin de sağlıyor.",
+      "note": null
+    },
+    {
+      "id": "maddi kazanç_s4",
+      "text": "Bazı insanlar [maddi kazanç] elde etmek için etik değerlerini feda ederler.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "maddi kazanç_r1",
+      "prompt": "Bir iş veya yatırımdan elde edilen para veya finansal faydasını anlatır, hangi iki kelimeli ifade kullanılır?",
+      "accepted_forms": ["maddi kazanç", "maddi kazancı", "maddi kazançlar", "kazanç"],
+      "note": null
+    },
+    {
+      "id": "maddi kazanç_r2",
+      "prompt": "İşletme bu proje sayesinde büyük ... sağlamış ve geleceği daha iyi görünüyor.",
+      "accepted_forms": ["maddi kazanç", "maddi kazanç sağladı", "kazanç", "finansal fayda"],
+      "note": null
+    }
+  ]
+}

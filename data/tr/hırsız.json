@@ -1,0 +1,46 @@
+{
+  "word": "hırsız",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "thief, stealer",
+  "sentences": [
+    {
+      "id": "hırsız_s1",
+      "text": "[Hırsız] evden elektrik çaldı.",
+      "note": null
+    },
+    {
+      "id": "hırsız_s2",
+      "text": "Bu [hırsız]ın dosyası çok kalındır.",
+      "note": null
+    },
+    {
+      "id": "hırsız_s3",
+      "text": "[Hırsız]ı yakalamak için kameralar kuruldu.",
+      "note": null
+    },
+    {
+      "id": "hırsız_s4",
+      "text": "Gece [hırsız]lar aktif olur.",
+      "note": null
+    },
+    {
+      "id": "hırsız_s5",
+      "text": "Komşumuzun [hırsız]ı var mı diye endişeli.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hırsız_r1",
+      "prompt": "Başkasına ait olan şeyi gizlice alan kişiye ne denir?",
+      "accepted_forms": ["hırsız", "hırsız'ın", "hırsızlar", "hırsızın"]
+    },
+    {
+      "id": "hırsız_r2",
+      "prompt": "Polis kızışmış; bir ... yakalanmıştır.",
+      "accepted_forms": ["hırsız", "hırsız'ı", "hırsızı", "hırsızdan"]
+    }
+  ]
+}

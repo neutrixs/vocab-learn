@@ -1,0 +1,43 @@
+{
+  "word": "perişan",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "distraught, devastated, forlorn, wretched",
+  "sentences": [
+    {
+      "id": "perişan_s1",
+      "text": "Haber aldıktan sonra yüzü [perişan] oldu.",
+      "note": null
+    },
+    {
+      "id": "perişan_s2",
+      "text": "Kaybettiği saç ve kıyafetleri [perişan] görünüyordu.",
+      "note": null
+    },
+    {
+      "id": "perişan_s3",
+      "text": "[Perişan] bir şekilde merdivenlerden aşağı indi.",
+      "note": null
+    },
+    {
+      "id": "perişan_s4",
+      "text": "Savaştan sonra şehir tamamen [perişan] hale gelmişti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "perişan_r1",
+      "prompt": "Büyük üzüntü veya kurtulmaz durumda olan kişinin halini ... olarak tanımlarız.",
+      "accepted_forms": ["perişan", "perişan halde", "perişandır", "perişanlar"],
+      "note": null
+    },
+    {
+      "id": "perişan_r2",
+      "prompt": "Sıkıntıdan ve üzüntüden yıkılmış olan bir insanın görünümü ... demek doğru bir ifadedir.",
+      "accepted_forms": ["perişan", "perişandır", "perişan halinde", "perişan durumdadır"],
+      "note": null
+    }
+  ]
+}

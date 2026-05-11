@@ -1,0 +1,43 @@
+{
+  "word": "zavallı",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "poor, pitiful, unfortunate, wretched",
+  "sentences": [
+    {
+      "id": "zavallı_s1",
+      "text": "[Zavallı] adamın başından ne çok olay geçti.",
+      "note": null
+    },
+    {
+      "id": "zavallı_s2",
+      "text": "[Zavallı] çocuklar soğuk kış günlerinde sokakta uyuyor.",
+      "note": null
+    },
+    {
+      "id": "zavallı_s3",
+      "text": "Bunlar [zavallı] mahlukları hep kandırıyor.",
+      "note": null
+    },
+    {
+      "id": "zavallı_s4",
+      "text": "Hayal kırıklığına uğrayan [zavallı] prens başı alıp gitti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "zavallı_r1",
+      "prompt": "İnsanın acısını gördüğümüzde, o kişiye ... demek duyguları ifade eder.",
+      "accepted_forms": ["zavallı", "zavallıya", "zavallılık", "zavallıcık"],
+      "note": null
+    },
+    {
+      "id": "zavallı_r2",
+      "prompt": "Alçak durumdaki ve sıkıntılı olan bir insanı ... sıfatıyla tanımlayabiliriz.",
+      "accepted_forms": ["zavallı", "zavallıdır", "zavallısı", "zavallının"],
+      "note": null
+    }
+  ]
+}

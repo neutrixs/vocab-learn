@@ -1,0 +1,43 @@
+{
+  "word": "tıpkı",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adverb",
+  "english_gloss": "exactly like, just like, precisely",
+  "sentences": [
+    {
+      "id": "tıpkı_s1",
+      "text": "[Tıpkı] annesinin yüzü gibi, kızının yüzü de aynı.",
+      "note": null
+    },
+    {
+      "id": "tıpkı_s2",
+      "text": "Servi ağacı [tıpkı] İtalya'nın simgesi gibi görünür.",
+      "note": null
+    },
+    {
+      "id": "tıpkı_s3",
+      "text": "[Tıpkı] kurşun gibi sallantılı ve ağır idi.",
+      "note": null
+    },
+    {
+      "id": "tıpkı_s4",
+      "text": "Bu meyve [tıpkı] muz gibi tatlandıkça yemesi daha iyi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tıpkı_r1",
+      "prompt": "... annesine benziyor diye duydum ben de katılıyorum",
+      "accepted_forms": ["tıpkı", "tıpkı mı", "tıpkı değil"],
+      "note": null
+    },
+    {
+      "id": "tıpkı_r2",
+      "prompt": "... dünkü gün gibi, bu iş de çok acele yapılmalı.",
+      "accepted_forms": ["tıpkı", "bugün"],
+      "note": null
+    }
+  ]
+}

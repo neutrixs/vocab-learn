@@ -1,0 +1,43 @@
+{
+  "word": "kendini beğenmişlik",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "self-conceit, self-satisfaction, vanity",
+  "sentences": [
+    {
+      "id": "kendini beğenmişlik_s1",
+      "text": "Onun [kendini beğenmişlik]i herkese göz çarpıyordu.",
+      "note": null
+    },
+    {
+      "id": "kendini beğenmişlik_s2",
+      "text": "[Kendini beğenmişlik] çoğu zaman başarısızlığa yol açar.",
+      "note": null
+    },
+    {
+      "id": "kendini beğenmişlik_s3",
+      "text": "Böyle bir [kendini beğenmişlik] tavrı yaklaşamı masumlaştırmaz.",
+      "note": null
+    },
+    {
+      "id": "kendini beğenmişlik_s4",
+      "text": "Başarıyı [kendini beğenmişlik] izlemesi çok sıkça görülür.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kendini beğenmişlik_r1",
+      "prompt": "Biriyle aşırı memnun olmak ve kendine fazla güvenmek neye denir?",
+      "accepted_forms": ["kendini beğenmişlik", "kendini beğenmişliği", "kendini beğenmişliğin"],
+      "note": null
+    },
+    {
+      "id": "kendini beğenmişlik_r2",
+      "prompt": "Kişinin ... onu çevresinden uzaklaştırıyor.",
+      "accepted_forms": ["kendini beğenmişliği", "kendini beğenmişlik"],
+      "note": null
+    }
+  ]
+}

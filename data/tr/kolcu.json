@@ -1,0 +1,43 @@
+{
+  "word": "kolcu",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "armrest, arm support",
+  "sentences": [
+    {
+      "id": "kolcu_s1",
+      "text": "Sandalyenin [kolcu]ları çok rahat ve yumuşak.",
+      "note": null
+    },
+    {
+      "id": "kolcu_s2",
+      "text": "Tren koltuğunun [kolcu]su kırılmış.",
+      "note": null
+    },
+    {
+      "id": "kolcu_s3",
+      "text": "Eski koltuk [kolcu]larını değiştirmesi gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "kolcu_s4",
+      "text": "[Kolcu]ya yaslanarak kitap okudum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kolcu_r1",
+      "prompt": "Koltuğun yanlarında, elini koyabileceğin kısımlar ne denir?",
+      "accepted_forms": ["kolcu", "kolcusu", "kolcular", "kolcularının"],
+      "note": null
+    },
+    {
+      "id": "kolcu_r2",
+      "prompt": "Uçak koltuğunun kaynağında iki ... vardır.",
+      "accepted_forms": ["kolcu", "kolcular", "kolcularının"],
+      "note": null
+    }
+  ]
+}

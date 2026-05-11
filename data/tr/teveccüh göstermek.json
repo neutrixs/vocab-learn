@@ -1,0 +1,38 @@
+{
+  "word": "teveccüh göstermek",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "phrase",
+  "english_gloss": "to show favor, to be inclined towards",
+  "sentences": [
+    {
+      "id": "teveccüh göstermek_s1",
+      "text": "Başkan dış politikada yeni stratejilere [teveccüh göstermek] istediğini açıkladı.",
+      "note": null
+    },
+    {
+      "id": "teveccüh göstermek_s2",
+      "text": "Genç nesil yeni kuşak müzisyenlere [teveccüh göstermektedir].",
+      "note": null
+    },
+    {
+      "id": "teveccüh göstermek_s3",
+      "text": "Pazarlar belirli markalara [teveccüh göstermek] eğilimindedir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "teveccüh göstermek_r1",
+      "prompt": "Birine ya da bir şeye özel ilgi ve sempati göstermek anlamındaki ifade nedir?",
+      "accepted_forms": ["teveccüh göstermek", "teveccüh göstermektedir", "teveccüh göstereceği"],
+      "note": null
+    },
+    {
+      "id": "teveccüh göstermek_r2",
+      "prompt": "Milliyetçi hareketler ... eğiliminde olan siyasetçiler çoğunluğu oluşturuyor.",
+      "accepted_forms": ["teveccüh göstermek", "teveccüh gösteren"],
+      "note": null
+    }
+  ]
+}

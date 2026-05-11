@@ -1,0 +1,43 @@
+{
+  "word": "koşula bağlamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to make conditional, to put something on a condition",
+  "sentences": [
+    {
+      "id": "koşula bağlamak_s1",
+      "text": "Hükümet yardımı verilen miktarı bütçeye [koşula bağladı].",
+      "note": null
+    },
+    {
+      "id": "koşula bağlamak_s2",
+      "text": "Destekleyiciler kendi desteğini çeşitli [koşullara bağladılar].",
+      "note": null
+    },
+    {
+      "id": "koşula bağlamak_s3",
+      "text": "Proje finansmanı bazı teknik şartlara [koşula bağlanmıştır].",
+      "note": null
+    },
+    {
+      "id": "koşula bağlamak_s4",
+      "text": "Antrenör oyuncuların katılımını iyi performansa [koşula bağlamak] istedi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "koşula bağlamak_r1",
+      "prompt": "Banka kredisini belirli garantilere ... istemişti.",
+      "accepted_forms": ["koşula bağlamak", "koşula bağladı", "koşullara bağlamak", "koşula bağlanmak"],
+      "note": null
+    },
+    {
+      "id": "koşula bağlamak_r2",
+      "prompt": "Sponsorlar desteğini başarılı sonuçlara ... istiyorlar.",
+      "accepted_forms": ["koşula bağlamak", "koşula bağlıyor", "koşullara bağlamak", "koşula bağladılar"],
+      "note": null
+    }
+  ]
+}

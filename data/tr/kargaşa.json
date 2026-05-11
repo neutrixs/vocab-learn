@@ -1,0 +1,43 @@
+{
+  "word": "kargaşa",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "disorder, confusion, commotion",
+  "sentences": [
+    {
+      "id": "kargaşa_s1",
+      "text": "Seçim günü şehirde [kargaşa] yaşanmıştır.",
+      "note": null
+    },
+    {
+      "id": "kargaşa_s2",
+      "text": "Yangında yaşanan [kargaşa] son derece tehlikeliydi.",
+      "note": null
+    },
+    {
+      "id": "kargaşa_s3",
+      "text": "[kargaşa] ortamında kimse kendisine sakin kalamıyor.",
+      "note": null
+    },
+    {
+      "id": "kargaşa_s4",
+      "text": "Politikacılar [kargaşa] durumunu yatıştırması için çağrıda bulundu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kargaşa_r1",
+      "prompt": "Deprem sonrası şehirde oluşan ... giderek artmaktadır.",
+      "accepted_forms": ["kargaşa", "kargaşanın"],
+      "note": null
+    },
+    {
+      "id": "kargaşa_r2",
+      "prompt": "Pazarda ve caddelerde görülen ... halkı rahatsız ediyor.",
+      "accepted_forms": ["kargaşa", "kargaşanın"],
+      "note": null
+    }
+  ]
+}

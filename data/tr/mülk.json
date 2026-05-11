@@ -1,0 +1,48 @@
+{
+  "word": "mülk",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "property, possession, estate",
+  "sentences": [
+    {
+      "id": "mülk_s1",
+      "text": "Çiftçi, geniş [mülk]lere sahiptir.",
+      "note": null
+    },
+    {
+      "id": "mülk_s2",
+      "text": "Bu [mülk] yüz yıldır ailesinin mülkü olmuştur.",
+      "note": null
+    },
+    {
+      "id": "mülk_s3",
+      "text": "[Mülk] sahipliği hukuki bir sorumluluğu beraberinde getirir.",
+      "note": null
+    },
+    {
+      "id": "mülk_s4",
+      "text": "Mirasa kalan [mülk]ler sıklıkla anlaşmazlığa sebep olmaktadır.",
+      "note": null
+    },
+    {
+      "id": "mülk_s5",
+      "text": "Devlet [mülk]lerinin yönetimi ciddi bir meseledir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "mülk_r1",
+      "prompt": "Bir kişinin sahip olduğu ve hukuki olarak kontrolünde olan arazi veya bina ... olarak adlandırılır.",
+      "accepted_forms": ["mülk", "mülkü", "mülkleri", "mülkün"],
+      "note": null
+    },
+    {
+      "id": "mülk_r2",
+      "prompt": "Çiftçi ve toprak sahibinin kontrolü altında olan tarım arazisi ... sayılır.",
+      "accepted_forms": ["mülk", "mülkünün"],
+      "note": null
+    }
+  ]
+}

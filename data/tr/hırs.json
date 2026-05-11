@@ -1,0 +1,43 @@
+{
+  "word": "hırs",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "ambition, greed, aspiration",
+  "sentences": [
+    {
+      "id": "hırs_s1",
+      "text": "Başarı için [hırs] gereklidir ama aşırı tutkusu hatalara yol açar.",
+      "note": null
+    },
+    {
+      "id": "hırs_s2",
+      "text": "[hırs] dolu insanlar hedeflerine ulaşmak için çok çalışır.",
+      "note": null
+    },
+    {
+      "id": "hırs_s3",
+      "text": "Politikacının [hırs] onu yanlış kararlar almaya itmiştir.",
+      "note": null
+    },
+    {
+      "id": "hırs_s4",
+      "text": "[hırs] ölçüsüz olduğunda insanı yok eder.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hırs_r1",
+      "prompt": "Genci ... yüksek hedeflere ulaştırmıştır.",
+      "accepted_forms": ["hırs", "hırsı"],
+      "note": null
+    },
+    {
+      "id": "hırs_r2",
+      "prompt": "Denetim olmayan ... bireyi zarara uğratır.",
+      "accepted_forms": ["hırs", "hırsın"],
+      "note": null
+    }
+  ]
+}

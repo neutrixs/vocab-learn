@@ -1,0 +1,53 @@
+{
+  "word": "ispat etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to prove, to demonstrate, to verify",
+  "sentences": [
+    {
+      "id": "ispat etmek_s1",
+      "text": "Matematikçi, teoremin doğru olduğunu [ispat etme]k için saatlerce çalıştı.",
+      "note": null
+    },
+    {
+      "id": "ispat etmek_s2",
+      "text": "Avukat, müvekkilinin suçsuz olduğunu [ispat etme]ye kararlı.",
+      "note": null
+    },
+    {
+      "id": "ispat etmek_s3",
+      "text": "Araştırmacılar, hipotezlerini [ispat etme]k için deney yapıyorlar.",
+      "note": null
+    },
+    {
+      "id": "ispat etmek_s4",
+      "text": "Belgeleriyle iddiasını [ispat etme]yi başardı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ispat etmek_r1",
+      "prompt": "Bir şeyin doğru veya yanlış olduğunu belge ve delillerle göstermek anlamına gelen fiil nedir?",
+      "accepted_forms": [
+        "ispat etmek",
+        "ispat etme",
+        "ispat etti",
+        "ispat ettim"
+      ],
+      "note": null
+    },
+    {
+      "id": "ispat etmek_r2",
+      "prompt": "Bilim insanları, bulguları ile teorilerini ... zorundadırlar.",
+      "accepted_forms": [
+        "ispat etmek",
+        "ispat etme",
+        "ispat etmeleri",
+        "ispat etmesi"
+      ],
+      "note": null
+    }
+  ]
+}

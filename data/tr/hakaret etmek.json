@@ -1,0 +1,41 @@
+{
+  "word": "hakaret etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to insult, to offend, to curse",
+  "sentences": [
+    {
+      "id": "hakaret etmek_s1",
+      "text": "Ona [hakaret et]meyin, saygılı olun.",
+      "note": null
+    },
+    {
+      "id": "hakaret etmek_s2",
+      "text": "O kişiye [hakaret et]tiği için dava açıldı.",
+      "note": null
+    },
+    {
+      "id": "hakaret etmek_s3",
+      "text": "[Hakaret et]mek suçtur.",
+      "note": null
+    },
+    {
+      "id": "hakaret etmek_s4",
+      "text": "Sözüyle herkese [hakaret et]meyi alışkanlık edinmişti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hakaret etmek_r1",
+      "prompt": "Birine kötü söz söyleyerek saygısızlık yapmak anlamına gelen ifade nedir?",
+      "accepted_forms": ["hakaret etmek", "hakaret et", "hakaret etti", "hakaretin etmek"]
+    },
+    {
+      "id": "hakaret etmek_r2",
+      "prompt": "Mahkeme başkanına ... kişi cezalandırıldı.",
+      "accepted_forms": ["hakaret etmek", "hakaret eden", "hakaret etti", "hakarete"]
+    }
+  ]
+}

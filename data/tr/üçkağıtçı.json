@@ -1,0 +1,43 @@
+{
+  "word": "üçkağıtçı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "swindler, con artist (traditional three-card-trick player)",
+  "sentences": [
+    {
+      "id": "üçkağıtçı_s1",
+      "text": "Sokakta dolaşan [üçkağıtçı]lar insanları aldatmak için hile oyunları oynarlar.",
+      "note": null
+    },
+    {
+      "id": "üçkağıtçı_s2",
+      "text": "Eski zamanlardan beri [üçkağıtçı] çeşitli aldatma teknikleri geliştirmişlerdir.",
+      "note": null
+    },
+    {
+      "id": "üçkağıtçı_s3",
+      "text": "İstanbul'un kalabalık meydanlarında [üçkağıtçı]lar turist avlıyorlardı.",
+      "note": null
+    },
+    {
+      "id": "üçkağıtçı_s4",
+      "text": "Bu [üçkağıtçı] müşterilerine asla kazanma şansı vermiyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "üçkağıtçı_r1",
+      "prompt": "Geleneksel kart oyunuyla insanları aldatan ve cebinden para çalan kimse kimdir?",
+      "accepted_forms": ["üçkağıtçı", "üçkağıtçıyı", "üçkağıtçının", "üçkağıtçılar", "üçkağıtçıyla"],
+      "note": null
+    },
+    {
+      "id": "üçkağıtçı_r2",
+      "prompt": "Hileli oyunlarla yoldan geçenleri kandıran dolandırıcının adı nedir?",
+      "accepted_forms": ["üçkağıtçı", "üçkağıtçının", "üçkağıtçıyı", "üçkağıtçılara", "üçkağıtçılı"],
+      "note": null
+    }
+  ]
+}

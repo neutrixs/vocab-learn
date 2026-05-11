@@ -1,0 +1,48 @@
+{
+  "word": "hileci",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "cheater, trickster, deceiver",
+  "sentences": [
+    {
+      "id": "hileci_s1",
+      "text": "Oyundaki [hileci] diğer oyuncuları kandırmak için gizli işaretler kullanıyordu.",
+      "note": null
+    },
+    {
+      "id": "hileci_s2",
+      "text": "[Hileci]nin hileyi fark ettiğinde çevresindeki herkes çok kızdı.",
+      "note": null
+    },
+    {
+      "id": "hileci_s3",
+      "text": "Sporcu [hileci] olarak bilinir ve birçok yarışmadan diskalifiye edilmiştir.",
+      "note": null
+    },
+    {
+      "id": "hileci_s4",
+      "text": "Sınavda [hileci]ler cevap kağıtlarını değiştirerek not almaya çalışmışlardır.",
+      "note": null
+    },
+    {
+      "id": "hileci_s5",
+      "text": "Adil olmayan davranış sergileyen [hileci] oyuncuyu takımdan attılar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hileci_r1",
+      "prompt": "Oyun, spor veya sınavda hile yapıp kuralları çiğneyen kişi nedir?",
+      "accepted_forms": ["hileci", "hileciyi", "hilecinin", "hileciler", "hileciye"],
+      "note": null
+    },
+    {
+      "id": "hileci_r2",
+      "prompt": "Adil olmayan yollarla avantaj elde etmeye çalışan ve kandırıcı olarak bilinen bireyin adı nedir?",
+      "accepted_forms": ["hileci", "hilecinin", "hileciyi", "hilecilere", "hilecilı"],
+      "note": null
+    }
+  ]
+}

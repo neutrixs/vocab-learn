@@ -1,0 +1,43 @@
+{
+  "word": "kalbur",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "sieve, fine sifter",
+  "sentences": [
+    {
+      "id": "kalbur_s1",
+      "text": "Usta unun temizlenmesi için [kalbur] kullandı.",
+      "note": null
+    },
+    {
+      "id": "kalbur_s2",
+      "text": "Mutfakta elek kadar sık olmasada [kalbur] da ihtiyaç duyulan bir araçtır.",
+      "note": null
+    },
+    {
+      "id": "kalbur_s3",
+      "text": "Arpa [kalburdan] geçirilerek saflığı sınanır.",
+      "note": null
+    },
+    {
+      "id": "kalbur_s4",
+      "text": "[Kalburdan] geçen parçacıklar çok ince olur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kalbur_r1",
+      "prompt": "Tıpkı elek gibi, taneleri ve tozu ayırmak için kullanılan ince delikli alet nedir?",
+      "accepted_forms": ["kalbur", "kalburdan", "kalburda", "kalburu"],
+      "note": null
+    },
+    {
+      "id": "kalbur_r2",
+      "prompt": "Tahılların temizlenmesinde ... vasıtasıyla yapılır.",
+      "accepted_forms": ["kalbur", "kalburla"],
+      "note": null
+    }
+  ]
+}

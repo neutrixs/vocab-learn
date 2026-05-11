@@ -1,0 +1,53 @@
+{
+  "word": "mal mülk",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "property, possessions, wealth",
+  "sentences": [
+    {
+      "id": "mal mülk_s1",
+      "text": "Mirasçılar [mal mülk]ü eşit olarak paylaştılar.",
+      "note": null
+    },
+    {
+      "id": "mal mülk_s2",
+      "text": "Zengin iş adamı, çok fazla [mal mülk]e sahiptir.",
+      "note": null
+    },
+    {
+      "id": "mal mülk_s3",
+      "text": "Savaş sırasında [mal mülk]ü kaybetmek zorunda kaldı.",
+      "note": null
+    },
+    {
+      "id": "mal mülk_s4",
+      "text": "Aralarında [mal mülk] anlaşmazlığı yaşanıyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "mal mülk_r1",
+      "prompt": "Birisinin sahip olduğu para, eşya ve taşınmazlar genel olarak neye denir?",
+      "accepted_forms": [
+        "mal mülk",
+        "mal mülke",
+        "mal mülkü",
+        "mal mülkün"
+      ],
+      "note": null
+    },
+    {
+      "id": "mal mülk_r2",
+      "prompt": "Evinin ... , öz değerinden daha az bir fiyatla satılmak zorunda kaldı.",
+      "accepted_forms": [
+        "mal mülk",
+        "mal mülke",
+        "mal mülkü",
+        "mal mülkün"
+      ],
+      "note": null
+    }
+  ]
+}

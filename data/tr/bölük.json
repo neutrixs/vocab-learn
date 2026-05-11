@@ -1,0 +1,43 @@
+{
+  "word": "bölük",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "company (military unit), group, section",
+  "sentences": [
+    {
+      "id": "bölük_s1",
+      "text": "Asker [bölük] komutanının emrini dinledi.",
+      "note": null
+    },
+    {
+      "id": "bölük_s2",
+      "text": "İk [bölük] sabah erken saatte yola çıktı.",
+      "note": null
+    },
+    {
+      "id": "bölük_s3",
+      "text": "Ordunun [bölük] sayısı stratejik önemli harikadır.",
+      "note": null
+    },
+    {
+      "id": "bölük_s4",
+      "text": "Tümen birden çok [bölük] ten oluşur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bölük_r1",
+      "prompt": "Orduda yaklaşık 150 askerden oluşan askeri bir yapı ve birim?",
+      "accepted_forms": ["bölük", "bölüğü", "bölüğe", "bölüğün"],
+      "note": null
+    },
+    {
+      "id": "bölük_r2",
+      "prompt": "Tabur altında bulunan ve komutan tarafından yönetilen askeri grup?",
+      "accepted_forms": ["bölük", "bölüğü", "bölüğe", "bölüğün"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "firari",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "fugitive, escaped person",
+  "sentences": [
+    {
+      "id": "firari_s1",
+      "text": "Polis kaçak [firari] suçluyu yakalamak için yoğun bir arama başlattı.",
+      "note": null
+    },
+    {
+      "id": "firari_s2",
+      "text": "[Firari] asker sınırdan kaçmaya çalışıyordu.",
+      "note": null
+    },
+    {
+      "id": "firari_s3",
+      "text": "Ülke genelinde [firari] aranıyor ve tutuklanması için emir çıkarıldı.",
+      "note": null
+    },
+    {
+      "id": "firari_s4",
+      "text": "[Firari] diye adlandırılan bu kişi yıllardır saklanmaktadır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "firari_r1",
+      "prompt": "Cezaevinden kaçan ve aranan kişiye ne denir?",
+      "accepted_forms": ["firari", "firariler"],
+      "note": null
+    },
+    {
+      "id": "firari_r2",
+      "prompt": "İçişleri Bakanlığı ... suçluyu yakalamak için arama başlattı.",
+      "accepted_forms": ["firari", "firarinin", "firarılarının"],
+      "note": null
+    }
+  ]
+}

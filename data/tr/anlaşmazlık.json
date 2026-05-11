@@ -1,0 +1,43 @@
+{
+  "word": "anlaşmazlık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "disagreement, dispute, conflict",
+  "sentences": [
+    {
+      "id": "anlaşmazlık_s1",
+      "text": "Iki komşu arasında [anlaşmazlık] çıktı ve mahkemeye gitmek zorunda kaldılar.",
+      "note": null
+    },
+    {
+      "id": "anlaşmazlık_s2",
+      "text": "Proje hakkındaki [anlaşmazlık] ekip üyelerini uzun bir toplantı yapmaya zorladı.",
+      "note": null
+    },
+    {
+      "id": "anlaşmazlık_s3",
+      "text": "Siyasi [anlaşmazlık]lar seçim döneminde daha da artmıştır.",
+      "note": null
+    },
+    {
+      "id": "anlaşmazlık_s4",
+      "text": "Kira [anlaşmazlık]ı ev sahibi ve kiracı arasında ciddi sorunlara yol açtı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "anlaşmazlık_r1",
+      "prompt": "İki kişi veya grup arasında farklı fikirlerin sebep olduğu durum nedir?",
+      "accepted_forms": ["anlaşmazlık", "anlaşmazlığı", "anlaşmazlığın", "anlaşmazlığım"],
+      "note": null
+    },
+    {
+      "id": "anlaşmazlık_r2",
+      "prompt": "Taraflar arasında görüş ayrılığından kaynaklanan çatışmanın adı nedir?",
+      "accepted_forms": ["anlaşmazlık", "anlaşmazlığa", "anlaşmazlıklar", "anlaşmazlıktan"],
+      "note": null
+    }
+  ]
+}

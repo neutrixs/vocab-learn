@@ -1,0 +1,53 @@
+{
+  "word": "eşarp",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "scarf, muffler",
+  "sentences": [
+    {
+      "id": "eşarp_s1",
+      "text": "Kış günü boynuna [eşarp] sardı.",
+      "note": null
+    },
+    {
+      "id": "eşarp_s2",
+      "text": "Yazın hafif [eşarp] kullanmak hoştur.",
+      "note": null
+    },
+    {
+      "id": "eşarp_s3",
+      "text": "Mavi renk [eşarp]ı elbisesiyle çok güzel duruyordu.",
+      "note": null
+    },
+    {
+      "id": "eşarp_s4",
+      "text": "Seyahatte, [eşarp]ı daima çantasında taşırım.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "eşarp_r1",
+      "prompt": "Boyun, başlık ve omuz etrafına sarılan dokuma aksesuarı nedir?",
+      "accepted_forms": [
+        "eşarp",
+        "eşarpı",
+        "eşarplar",
+        "eşarpla"
+      ],
+      "note": null
+    },
+    {
+      "id": "eşarp_r2",
+      "prompt": "Soğuk havada sıcak tutmak için boyuna ... sardı.",
+      "accepted_forms": [
+        "eşarp",
+        "eşarpı",
+        "eşarplar",
+        "eşarpla"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "yarı yarıya",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "phrase",
+  "english_gloss": "half and half, in equal parts",
+  "sentences": [
+    {
+      "id": "yarı yarıya_s1",
+      "text": "Fiyatı [yarı yarıya] düşürdüler.",
+      "note": null
+    },
+    {
+      "id": "yarı yarıya_s2",
+      "text": "[Yarı yarıya] paylaşmak daha adil olur.",
+      "note": null
+    },
+    {
+      "id": "yarı yarıya_s3",
+      "text": "Harcama [yarı yarıya] bölündü.",
+      "note": null
+    },
+    {
+      "id": "yarı yarıya_s4",
+      "text": "Keki [yarı yarıya] kestiler.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yarı yarıya_r1",
+      "prompt": "İki taraf için eşit miktarda bölüştürme ne diye adlandırılır?",
+      "accepted_forms": ["yarı yarıya", "yarı yarıya olarak", "yarı yarıya bölüştür", "yarı yarıya pay"]
+    },
+    {
+      "id": "yarı yarıya_r2",
+      "prompt": "Masrafları ... paylaşmak en adil yöntemdir.",
+      "accepted_forms": ["yarı yarıya", "yarı yarıya olarak", "yarı yarıya konusunda", "yarı yarıya'dan"]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "çekişme",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "struggle, tug-of-war, contention",
+  "sentences": [
+    {
+      "id": "çekişme_s1",
+      "text": "Iki ülke su kaynakları üzerinde [çekişme] yaşıyor.",
+      "note": null
+    },
+    {
+      "id": "çekişme_s2",
+      "text": "Aile içi [çekişme] yıllar boyunca herkesin moralini bozmuştur.",
+      "note": null
+    },
+    {
+      "id": "çekişme_s3",
+      "text": "[Çekişme]nin sonucu hukuki bir davanın açılması oldu.",
+      "note": null
+    },
+    {
+      "id": "çekişme_s4",
+      "text": "Miras konusundaki [çekişme] kardeşleri birbirinden soğuttu.",
+      "note": null
+    },
+    {
+      "id": "çekişme_s5",
+      "text": "Siyasi [çekişme]ler ülkenin kalkınmasını engellemiştir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çekişme_r1",
+      "prompt": "Bir şey için iki tarafın ısrarla mücadelesi neye denir?",
+      "accepted_forms": ["çekişme", "çekişmeyi", "çekişmesin", "çekişmeden", "çekişmeler"],
+      "note": null
+    },
+    {
+      "id": "çekişme_r2",
+      "prompt": "Taraflar arasında bir kaynak veya hak üzerindeki güç mücadelesi nedir?",
+      "accepted_forms": ["çekişme", "çekişmesi", "çekişmeye", "çekişmelik", "çekişmeler"],
+      "note": null
+    }
+  ]
+}

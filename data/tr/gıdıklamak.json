@@ -1,0 +1,48 @@
+{
+  "word": "gıdıklamak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to tickle",
+  "sentences": [
+    {
+      "id": "gıdıklamak_s1",
+      "text": "Babanız sizin alt tarafınızı [gıdıkla]mıştır.",
+      "note": null
+    },
+    {
+      "id": "gıdıklamak_s2",
+      "text": "Çocuklar, birbirlerini [gıdıkla]maya başladı.",
+      "note": null
+    },
+    {
+      "id": "gıdıklamak_s3",
+      "text": "O, kızkardeşini [gıdıkla]dığında çığlık atarak gülüyordu.",
+      "note": null
+    },
+    {
+      "id": "gıdıklamak_s4",
+      "text": "[Gıdıkla]nmaktan hoşlanmayan çocuklar vardır.",
+      "note": null
+    },
+    {
+      "id": "gıdıklamak_s5",
+      "text": "Kaşıntı hissi beni [gıdıkla]dı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gıdıklamak_r1",
+      "prompt": "Beden üzerine hafif dokunuş yaparak birini güldürme hareketi ... olarak adlandırılır.",
+      "accepted_forms": ["gıdıklamak", "gıdıklıyor", "gıdıkla", "gıdıklar"],
+      "note": null
+    },
+    {
+      "id": "gıdıklamak_r2",
+      "prompt": "Parmakların hafif hareketiyle birini gülmek ve kıvranmak zorunda bırakmak ... demektir.",
+      "accepted_forms": ["gıdıklamak", "gıdıklamaktır"],
+      "note": null
+    }
+  ]
+}

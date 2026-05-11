@@ -1,0 +1,43 @@
+{
+  "word": "ırkçı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "racist",
+  "sentences": [
+    {
+      "id": "ırkçı_s1",
+      "text": "[Irkçı] tutumlar toplumda ayrılık ve nefret yaratır.",
+      "note": null
+    },
+    {
+      "id": "ırkçı_s2",
+      "text": "O [ırkçı] insanın görüşleri çok tehlikelidir.",
+      "note": null
+    },
+    {
+      "id": "ırkçı_s3",
+      "text": "[Irkçılık] tüm medeniyetlerde kınanan bir olaydır.",
+      "note": null
+    },
+    {
+      "id": "ırkçı_s4",
+      "text": "[Irkçı] davranışlar insani değerlerle çelişir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ırkçı_r1",
+      "prompt": "Diğer ırklara karşı ayrımcı, nefretçi tutumlar sergileyen kişiye ne denir?",
+      "accepted_forms": ["ırkçı", "ırkçı kişi", "ırkçıdır", "ırkçılar"],
+      "note": null
+    },
+    {
+      "id": "ırkçı_r2",
+      "prompt": "Farklı etnik grupları aşağılayan ve ayrımcılık yapan birisi ___ olarak bilinir.",
+      "accepted_forms": ["ırkçı", "ırkçıdır", "ırkçı birisi", "ırkçılar"],
+      "note": null
+    }
+  ]
+}

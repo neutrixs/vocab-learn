@@ -1,0 +1,43 @@
+{
+  "word": "kendini savunma",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "self-defense",
+  "sentences": [
+    {
+      "id": "kendini savunma_s1",
+      "text": "[kendini savunma] dersleri çoğu spor merkezi tarafından sunulmaktadır.",
+      "note": null
+    },
+    {
+      "id": "kendini savunma_s2",
+      "text": "Genç kadınlar [kendini savunma] becerilerini öğrenmek istemektedirler.",
+      "note": null
+    },
+    {
+      "id": "kendini savunma_s3",
+      "text": "[kendini savunma] tekniği saldırıdan kişiyi korumasına yardımcı olmaktadır.",
+      "note": null
+    },
+    {
+      "id": "kendini savunma_s4",
+      "text": "Öğretmen öğrencilere [kendini savunma] yöntemlerini göstermiştir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kendini savunma_r1",
+      "prompt": "Saldırıya karşı ve tehlikeden korunmak için gerekli fiziksel ve teknik becerileri öğretme yöntemi nedir?",
+      "accepted_forms": ["kendini savunma", "kendini savunmasını", "kendini savunmanın"],
+      "note": null
+    },
+    {
+      "id": "kendini savunma_r2",
+      "prompt": "Her kadın aşırı tehlike durumunda ... yöntemlerini bilmelidir.",
+      "accepted_forms": ["kendini savunma", "kendini savunmanın", "kendini savunmasını"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "sürüm",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "version, release, edition",
+  "sentences": [
+    {
+      "id": "sürüm_s1",
+      "text": "Yazılımın yeni [sürüm]ü önemli özellikleri içeriyor.",
+      "note": null
+    },
+    {
+      "id": "sürüm_s2",
+      "text": "Kitabın üçüncü [sürüm]ü tamamen yeniden yazılmış.",
+      "note": null
+    },
+    {
+      "id": "sürüm_s3",
+      "text": "İşletim sistemi [sürüm]ü güvenlik açısından kritik.",
+      "note": null
+    },
+    {
+      "id": "sürüm_s4",
+      "text": "Eski [sürüm]ü kullanmaya devam etmek riskli olabilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sürüm_r1",
+      "prompt": "Yazılım veya kitabın belirli bir zaman noktasında yayınlanan şekline ne denir?",
+      "accepted_forms": [
+        "sürüm",
+        "sürümü",
+        "sürümün",
+        "sürümler"
+      ],
+      "note": null
+    },
+    {
+      "id": "sürüm_r2",
+      "prompt": "İşletim sisteminin en son ... indirmek güvenliği artırır.",
+      "accepted_forms": [
+        "sürüm",
+        "sürümü",
+        "sürümün",
+        "sürümler"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "talihsiz",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "unlucky, unfortunate, hapless",
+  "sentences": [
+    {
+      "id": "talihsiz_s1",
+      "text": "[Talihsiz] bir kaza onu hastaneye götürdü.",
+      "note": null
+    },
+    {
+      "id": "talihsiz_s2",
+      "text": "O [talihsiz] insan, yaşamını hiçbir başarı olmadan geçirdi.",
+      "note": null
+    },
+    {
+      "id": "talihsiz_s3",
+      "text": "[Talihsiz]lik onun ailesine de bulaştı gibi görünüyor.",
+      "note": null
+    },
+    {
+      "id": "talihsiz_s4",
+      "text": "Proje, [talihsiz] bir başlangıçtan sonra iptal edildi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "talihsiz_r1",
+      "prompt": "Şansı kötü olan ve kötü şeyler başına gelen kişi ... olarak adlandırılır.",
+      "accepted_forms": ["talihsiz", "talihsizin", "talihsizi", "talihsizlerdir"],
+      "note": null
+    },
+    {
+      "id": "talihsiz_r2",
+      "prompt": "Bir olay veya durum, kötü zamanda gerçekleşirse ... sayılır.",
+      "accepted_forms": ["talihsiz", "talihsizdir"],
+      "note": null
+    }
+  ]
+}

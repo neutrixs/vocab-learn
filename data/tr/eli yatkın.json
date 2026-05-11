@@ -1,0 +1,53 @@
+{
+  "word": "eli yatkın",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "skillful, handy, dexterous",
+  "sentences": [
+    {
+      "id": "eli yatkın_s1",
+      "text": "Terzi çok [eli yatkın] biriydi, her işi kusursuz yapardı.",
+      "note": null
+    },
+    {
+      "id": "eli yatkın_s2",
+      "text": "[Eli yatkın] ustalar, bu projeyi bir ayda bitirdi.",
+      "note": null
+    },
+    {
+      "id": "eli yatkın_s3",
+      "text": "Annem, çok [eli yatkın] olduğu için hepimizin elbisesini dikti.",
+      "note": null
+    },
+    {
+      "id": "eli yatkın_s4",
+      "text": "Mobilya tamiratında [eli yatkın] birini bulmak zor olabilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "eli yatkın_r1",
+      "prompt": "Sanat ve zanaat alanında beceri ve yetenekle yapma kabiliyeti olan kişi nasıl tanımlanır?",
+      "accepted_forms": [
+        "eli yatkın",
+        "eli yatkın kişi",
+        "eli yatkında",
+        "eli yatkının"
+      ],
+      "note": null
+    },
+    {
+      "id": "eli yatkın_r2",
+      "prompt": "Bu ... marangoz, özel dekoratif kapı tasarımında uzmanlaşmış.",
+      "accepted_forms": [
+        "eli yatkın",
+        "eli yatkın",
+        "eli yatkın kişi",
+        "eli yatkında"
+      ],
+      "note": null
+    }
+  ]
+}

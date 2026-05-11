@@ -1,0 +1,43 @@
+{
+  "word": "meşru müdafaa",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "phrase",
+  "english_gloss": "lawful defense, right to self-defense",
+  "sentences": [
+    {
+      "id": "meşru müdafaa_s1",
+      "text": "Ceza hukuku [meşru müdafaa]'yı bir savunma hakkı olarak kabul etmektedir.",
+      "note": null
+    },
+    {
+      "id": "meşru müdafaa_s2",
+      "text": "[meşru müdafaa] hakkı kişiyi baskı ve saldırıdan korumaktadır.",
+      "note": null
+    },
+    {
+      "id": "meşru müdafaa_s3",
+      "text": "Mahkeme [meşru müdafaa] argümanını karar vermek için dikkate aldı.",
+      "note": null
+    },
+    {
+      "id": "meşru müdafaa_s4",
+      "text": "[meşru müdafaa] prensibine göre, haksız saldırıya karşı kendini savunmak yasal haklardan biridir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "meşru müdafaa_r1",
+      "prompt": "Hukuk sisteminde, haksız ve ani bir saldırıya karşı kendini korumanın yasal hakkı nedir?",
+      "accepted_forms": ["meşru müdafaa", "meşru müdafaası", "meşru müdafaayla"],
+      "note": null
+    },
+    {
+      "id": "meşru müdafaa_r2",
+      "prompt": "Ceza kanununa göre ... ilkesi bir kişinin haksız saldırıya karşı kendini koruma hakkını güvence altına almaktadır.",
+      "accepted_forms": ["meşru müdafaa", "meşru müdafaanın", "meşru müdafaaları"],
+      "note": null
+    }
+  ]
+}

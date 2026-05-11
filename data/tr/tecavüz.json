@@ -1,0 +1,43 @@
+{
+  "word": "tecavüz",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "aggression, assault, violation, encroachment",
+  "sentences": [
+    {
+      "id": "tecavüz_s1",
+      "text": "Devlet sınırlarına [tecavüz] etmek savaş işlemidir.",
+      "note": null
+    },
+    {
+      "id": "tecavüz_s2",
+      "text": "İnsan hakları konusunda [tecavüz] kesinlikle yasak olmalıdır.",
+      "note": null
+    },
+    {
+      "id": "tecavüz_s3",
+      "text": "Mahkeme onu özel mülkiyete [tecavüz] etmekten suçlu buldu.",
+      "note": null
+    },
+    {
+      "id": "tecavüz_s4",
+      "text": "Uluslararası hukuk [tecavüz] eylemlerine karşı korumalı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tecavüz_r1",
+      "prompt": "Bir ülkenin sınırlarına veya başka kişinin haklarına şiddete başvurarak yapılan saldırı?",
+      "accepted_forms": ["tecavüz", "tecavüzü", "tecavüze", "tecavüzün"],
+      "note": null
+    },
+    {
+      "id": "tecavüz_r2",
+      "prompt": "Yasalara veya kişinin gizliliğine karşı yapılan hukuksuz bir eylem veya ihlal?",
+      "accepted_forms": ["tecavüz", "tecavüzü", "tecavüze", "tecavüzün"],
+      "note": null
+    }
+  ]
+}

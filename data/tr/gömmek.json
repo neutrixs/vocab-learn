@@ -1,0 +1,43 @@
+{
+  "word": "gömmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to bury, to hide, to conceal",
+  "sentences": [
+    {
+      "id": "gömmek_s1",
+      "text": "Köpek, bulduğu kemik bahçeye [gömmek] istedi.",
+      "note": null
+    },
+    {
+      "id": "gömmek_s2",
+      "text": "Dedesi savaşta öldü ve şehir mezarlığına [gömmek] olundu.",
+      "note": null
+    },
+    {
+      "id": "gömmek_s3",
+      "text": "Gerçeği saklamaya ve [gömmek] çalışması sonunda ortaya çıktı.",
+      "note": null
+    },
+    {
+      "id": "gömmek_s4",
+      "text": "Hazine haritaya göre ağacın altına [gömmek] edilmiş olmalıdır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gömmek_r1",
+      "prompt": "Bir şeyi yeraltına koymak veya gizlemek anlamında hangi fiil kullanılır?",
+      "accepted_forms": ["gömmek", "gömülen", "gömülü", "gömme"],
+      "note": null
+    },
+    {
+      "id": "gömmek_r2",
+      "prompt": "Çiftçi tatlı patates tohumlarını toprağa ... için bahçeye gitti.",
+      "accepted_forms": ["gömmek", "gömtü", "gömme", "gömüş"],
+      "note": null
+    }
+  ]
+}

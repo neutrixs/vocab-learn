@@ -1,0 +1,41 @@
+{
+  "word": "eşkıya",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "brigand, rogue",
+  "sentences": [
+    {
+      "id": "eşkıya_s1",
+      "text": "[Eşkıya]lar kafile yağmaladılar.",
+      "note": null
+    },
+    {
+      "id": "eşkıya_s2",
+      "text": "Bu [eşkıya]nın suçu çoktur.",
+      "note": null
+    },
+    {
+      "id": "eşkıya_s3",
+      "text": "[Eşkıya]lık Anadolu'da uzun süre devam etti.",
+      "note": null
+    },
+    {
+      "id": "eşkıya_s4",
+      "text": "Yol [eşkıya]lardan güvenli değildir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "eşkıya_r1",
+      "prompt": "Yolda insanları korkutan ve yağmalayan suçlu ne diye adlandırılır?",
+      "accepted_forms": ["eşkıya", "eşkıya'nın", "eşkıyalar", "eşkıyanın"]
+    },
+    {
+      "id": "eşkıya_r2",
+      "prompt": "Tarihte bu ... çiftçileri rahatsız etmiş.",
+      "accepted_forms": ["eşkıya", "eşkıyalar", "eşkıyayı", "eşkıya'yı"]
+    }
+  ]
+}

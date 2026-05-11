@@ -1,0 +1,43 @@
+{
+  "word": "şart koşmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to stipulate, to make a condition, to impose terms, to demand as a prerequisite",
+  "sentences": [
+    {
+      "id": "şart koşmak_s1",
+      "text": "İş bulunduktan sonra çalışmaya başlama [şart koşmak] normal bir istektir.",
+      "note": null
+    },
+    {
+      "id": "şart koşmak_s2",
+      "text": "Banka kredisi verirken belirli gereksinimleri [şart koşmak] zorundadır.",
+      "note": null
+    },
+    {
+      "id": "şart koşmak_s3",
+      "text": "Ailesinin izni olmadan evlenmek konusunda çok katı [şart koşmak] kültürü vardı.",
+      "note": null
+    },
+    {
+      "id": "şart koşmak_s4",
+      "text": "Antrenör, takıma katılmak için iyi kondisyon [şart koşmak]ı kesindir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şart koşmak_r1",
+      "prompt": "Birinin veya bir kurumun belirli gereksinimleri veya koşulları gerekli kılması anlamında hangi fiil cümlesi kullanılır?",
+      "accepted_forms": ["şart koşmak", "şart koştü", "şart koşması", "şart koşuyordu"],
+      "note": null
+    },
+    {
+      "id": "şart koşmak_r2",
+      "prompt": "Müteahhit, projeyi başlamak için yeterli finansman ... ve anlaşmada yazılı tutuldu.",
+      "accepted_forms": ["şart koştu", "şart koşmuş", "şart koşmıştır", "istedi"],
+      "note": null
+    }
+  ]
+}

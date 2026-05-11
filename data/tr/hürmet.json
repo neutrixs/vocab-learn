@@ -1,0 +1,43 @@
+{
+  "word": "hürmet",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "respect, reverence, deference",
+  "sentences": [
+    {
+      "id": "hürmet_s1",
+      "text": "Öğrenciler öğretmenlerine [hürmet] göstermeleri gerekir.",
+      "note": null
+    },
+    {
+      "id": "hürmet_s2",
+      "text": "[Hürmet] duygusunu taşımayan insanlar toplumda yer bulamazlar.",
+      "note": null
+    },
+    {
+      "id": "hürmet_s3",
+      "text": "Yaşlılara [hürmet] göstermek bizim geleneklerimizin bir parçasıdır.",
+      "note": null
+    },
+    {
+      "id": "hürmet_s4",
+      "text": "Başkanın [hürmet]ini hepsi paylaştı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hürmet_r1",
+      "prompt": "Birisinin değerine saygı göstermek ve onu onurlandırmak ... olarak ifade edilir.",
+      "accepted_forms": ["hürmet", "hürmetini", "hürmete", "hürmeti"],
+      "note": null
+    },
+    {
+      "id": "hürmet_r2",
+      "prompt": "Başkasına karşı gösterilen saygı ve itaat duygusu ... olarak adlandırılır.",
+      "accepted_forms": ["hürmet", "hürmetinin"],
+      "note": null
+    }
+  ]
+}

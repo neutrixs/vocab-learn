@@ -1,0 +1,43 @@
+{
+  "word": "muğlak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "vague, ambiguous, unclear",
+  "sentences": [
+    {
+      "id": "muğlak_s1",
+      "text": "Verilmiş olan talimatlar çok [muğlak] idi.",
+      "note": null
+    },
+    {
+      "id": "muğlak_s2",
+      "text": "Politikacının [muğlak] konuşmaları herkesin kafasını karıştırdı.",
+      "note": null
+    },
+    {
+      "id": "muğlak_s3",
+      "text": "Hukuk söz konusu olduğunda [muğlak] ifadelerin yeri yoktur.",
+      "note": null
+    },
+    {
+      "id": "muğlak_s4",
+      "text": "Bu cümlenin anlamı çok [muğlak].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "muğlak_r1",
+      "prompt": "Anlamı net değil, belirsiz olan şeyleri tanımlamak için kullanılan sıfat nedir?",
+      "accepted_forms": ["muğlak", "muğlakça", "muğlaklar", "muğlaktan"],
+      "note": null
+    },
+    {
+      "id": "muğlak_r2",
+      "prompt": "Bir söz ya da yazı açıkça anlaşılmıyorsa ... bir ifade kullanıldığı söylenir.",
+      "accepted_forms": ["muğlak", "muğlak"],
+      "note": null
+    }
+  ]
+}

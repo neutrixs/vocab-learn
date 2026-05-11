@@ -1,0 +1,43 @@
+{
+  "word": "sulak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "watery, wet, moist",
+  "sentences": [
+    {
+      "id": "sulak_s1",
+      "text": "Bu bölge çok [sulak] ve yeşildir.",
+      "note": null
+    },
+    {
+      "id": "sulak_s2",
+      "text": "[Sulak] araziler tarım için idealdir.",
+      "note": null
+    },
+    {
+      "id": "sulak_s3",
+      "text": "Kuş cenneti [sulak] ortamda yaşar.",
+      "note": null
+    },
+    {
+      "id": "sulak_s4",
+      "text": "Gözleri [sulak] ve kızarmış.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sulak_r1",
+      "prompt": "Su içeriği fazla olan arazi türüne ne denir?",
+      "accepted_forms": ["sulak", "sulak bir yer", "sulağa", "sulakları"],
+      "note": null
+    },
+    {
+      "id": "sulak_r2",
+      "prompt": "Bataklık ve turbalık alanlar ... ortamlar.",
+      "accepted_forms": ["sulak", "sulak alanlar", "sulakları"],
+      "note": null
+    }
+  ]
+}

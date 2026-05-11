@@ -1,0 +1,48 @@
+{
+  "word": "saygı",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "respect, regard, esteem",
+  "sentences": [
+    {
+      "id": "saygı_s1",
+      "text": "Onun çalışmasına karşı [saygı] duymak gerekir.",
+      "note": null
+    },
+    {
+      "id": "saygı_s2",
+      "text": "[Saygı], insan ilişkilerinin temelini oluşturur.",
+      "note": null
+    },
+    {
+      "id": "saygı_s3",
+      "text": "Öğretmene [saygı] göstermek eğitimin bir parçasıdır.",
+      "note": null
+    },
+    {
+      "id": "saygı_s4",
+      "text": "Karşılıklı [saygı] olmadan başarılı bir ilişki kurulamaz.",
+      "note": null
+    },
+    {
+      "id": "saygı_s5",
+      "text": "[Saygı]sızlık toplumda cezalandırılan bir davranıştır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "saygı_r1",
+      "prompt": "Birinin değerine ve önemini tanıyarak gösterilen tutum ... olarak adlandırılır.",
+      "accepted_forms": ["saygı", "saygısı", "saygıya", "saygılarını"],
+      "note": null
+    },
+    {
+      "id": "saygı_r2",
+      "prompt": "Başkasının duygularına ve haklarına karşı gösterilen duyarlılık ve itibar ... demektir.",
+      "accepted_forms": ["saygı", "saygıdır"],
+      "note": null
+    }
+  ]
+}

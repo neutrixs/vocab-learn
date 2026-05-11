@@ -1,0 +1,43 @@
+{
+  "word": "mürekkep",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "ink",
+  "sentences": [
+    {
+      "id": "mürekkep_s1",
+      "text": "Kalem [mürekkep] ile yazı yazılır.",
+      "note": null
+    },
+    {
+      "id": "mürekkep_s2",
+      "text": "Yazıcının [mürekkep] kartuşu boşalmıştır.",
+      "note": null
+    },
+    {
+      "id": "mürekkep_s3",
+      "text": "[mürekkep] rengi siyah, mavi veya diğer renkler olabilir.",
+      "note": null
+    },
+    {
+      "id": "mürekkep_s4",
+      "text": "Antika kağıda [mürekkep] ile yazılmış mektuplar bulunmuştur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "mürekkep_r1",
+      "prompt": "Kalem, yazıcı veya çizim aletleri ile yazı ve resim yapmada kullanılan sıvı madde nedir?",
+      "accepted_forms": ["mürekkep", "mürekebi", "mürekkepte"],
+      "note": null
+    },
+    {
+      "id": "mürekkep_r2",
+      "prompt": "Yazıcının ... şişesinin içindeki sıvı rengarenk olabilir ve kağıda yazı bırakır.",
+      "accepted_forms": ["mürekkep", "mürekkebi", "mürekeple"],
+      "note": null
+    }
+  ]
+}

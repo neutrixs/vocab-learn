@@ -1,0 +1,48 @@
+{
+  "word": "içermek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to contain, to include",
+  "sentences": [
+    {
+      "id": "içermek_s1",
+      "text": "Bu kutu pek çok hazırlanmış ürün [içer].",
+      "note": null
+    },
+    {
+      "id": "içermek_s2",
+      "text": "Kitap birçok farklı konuyu [içer]iyor.",
+      "note": null
+    },
+    {
+      "id": "içermek_s3",
+      "text": "Ürün, zararlı kemyasallar [içer]mektedir.",
+      "note": null
+    },
+    {
+      "id": "içermek_s4",
+      "text": "Program çeşitli başlıkları [içer]en bölümlere ayrılmıştır.",
+      "note": null
+    },
+    {
+      "id": "içermek_s5",
+      "text": "Gazeteye yayımlanan makale önemli bilgiler [içer]mektedir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "içermek_r1",
+      "prompt": "Bir şeyin içinde başka bir şey bulunması demek olan fiil ... olarak adlandırılır.",
+      "accepted_forms": ["içermek", "içeriyor", "içerir", "içerirsen"],
+      "note": null
+    },
+    {
+      "id": "içermek_r2",
+      "prompt": "Bu cümlede kaç paragraf ..., bakalım?",
+      "accepted_forms": ["içeriyor", "içerir", "içermektedir"],
+      "note": null
+    }
+  ]
+}

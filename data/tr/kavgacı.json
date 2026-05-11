@@ -1,0 +1,43 @@
+{
+  "word": "kavgacı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "quarrelsome person, fighter",
+  "sentences": [
+    {
+      "id": "kavgacı_s1",
+      "text": "O adamın [kavgacı] bir mizacı vardır.",
+      "note": null
+    },
+    {
+      "id": "kavgacı_s2",
+      "text": "Mahallede herkes onu [kavgacı] diye biliyordu.",
+      "note": null
+    },
+    {
+      "id": "kavgacı_s3",
+      "text": "[Kavgacı] bir karakter her zaman tartışmaya hazır olur.",
+      "note": null
+    },
+    {
+      "id": "kavgacı_s4",
+      "text": "Bu [kavgacı] öğrenci sınıfta sorun çıkarmaktadır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kavgacı_r1",
+      "prompt": "Sık sık kavga etmeyi seven kişiye ne denir?",
+      "accepted_forms": ["kavgacı", "kavgacıdır", "kavgacılar"],
+      "note": null
+    },
+    {
+      "id": "kavgacı_r2",
+      "prompt": "Karakteri tartışmacı ve münakaşacı olan bir ... kişi.",
+      "accepted_forms": ["kavgacı", "kavgacılık"],
+      "note": null
+    }
+  ]
+}

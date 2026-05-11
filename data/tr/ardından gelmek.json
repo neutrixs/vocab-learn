@@ -1,0 +1,43 @@
+{
+  "word": "ardından gelmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to follow, to come after, to pursue",
+  "sentences": [
+    {
+      "id": "ardından gelmek_s1",
+      "text": "Lider grubun önünde yürüdü ve diğerleri [ardından gelmek] zorunda kaldı.",
+      "note": null
+    },
+    {
+      "id": "ardından gelmek_s2",
+      "text": "Babasının adımlarını izlemek için [ardından gelmek] isteyen bir çocuk vardı.",
+      "note": null
+    },
+    {
+      "id": "ardından gelmek_s3",
+      "text": "Filmin önceki sahnesi bittikten sonra karanlık sahne [ardından gelmek] gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "ardından gelmek_s4",
+      "text": "Başarılı olmak istiyorsanız iyi öğretmenlerin [ardından gelmek] mantıklıdır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ardından gelmek_r1",
+      "prompt": "Birinin veya bir şeyin peşinden takip etmek, arka tarafına düşmek anlamında hangi fiil cümlesi kullanılır?",
+      "accepted_forms": ["ardından gelmek", "ardından geldi", "ardından gelen", "ardından gelirse"],
+      "note": null
+    },
+    {
+      "id": "ardından gelmek_r2",
+      "prompt": "Kuru otun yangını söndürdükten sonra çok duman ... ve herkes boğulacak gibi hissetti.",
+      "accepted_forms": ["ardından geldi", "ardından gelmeye başladı", "geldi", "ardından gelmekteydi"],
+      "note": null
+    }
+  ]
+}

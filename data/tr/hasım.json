@@ -1,0 +1,43 @@
+{
+  "word": "hasım",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "enemy, opponent, rival",
+  "sentences": [
+    {
+      "id": "hasım_s1",
+      "text": "Savaşta [hasım]ı yenmek için stratejiler geliştirildi.",
+      "note": null
+    },
+    {
+      "id": "hasım_s2",
+      "text": "Ticari [hasım]larının hareketlerini yakından izliyordu.",
+      "note": "ticari = commercial"
+    },
+    {
+      "id": "hasım_s3",
+      "text": "[Hasım]ı tanımak savaşta başarının anahtarıdır.",
+      "note": null
+    },
+    {
+      "id": "hasım_s4",
+      "text": "İki ülkenin [hasım]lıkları yüzyıllardır sürüyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hasım_r1",
+      "prompt": "Birine karşı savaşan veya rekabet eden kişi ... olarak adlandırılır.",
+      "accepted_forms": ["hasım", "hasımım", "hasımı", "hasımımın"],
+      "note": null
+    },
+    {
+      "id": "hasım_r2",
+      "prompt": "Politikada, birbirine karşı gelen iki kamp veya iki lider ... sayılır.",
+      "accepted_forms": ["hasım", "hasımlar", "hasımlık"],
+      "note": null
+    }
+  ]
+}

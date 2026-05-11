@@ -1,0 +1,38 @@
+{
+  "word": "kamış",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "reed, cane",
+  "sentences": [
+    {
+      "id": "kamış_s1",
+      "text": "Göl kenarında [kamış]lar rüzgarda sallanıyor.",
+      "note": null
+    },
+    {
+      "id": "kamış_s2",
+      "text": "[Kamış]tan yapılmış eşyalar çok dayanıklıdır.",
+      "note": null
+    },
+    {
+      "id": "kamış_s3",
+      "text": "Su kuşları [kamış]lar arasında yuva yaparlar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kamış_r1",
+      "prompt": "Su kenarında yetişen, uzun ve düz bitkiye ne denir?",
+      "accepted_forms": ["kamış", "kamışlar", "kamışı", "kamıştan"],
+      "note": null
+    },
+    {
+      "id": "kamış_r2",
+      "prompt": "Gölün kenarındaki ince, oyuk saçak yapılı bitki türü ___ denir.",
+      "accepted_forms": ["kamış", "kamışlar", "kamış türü", "kamışlı"],
+      "note": null
+    }
+  ]
+}

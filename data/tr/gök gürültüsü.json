@@ -1,0 +1,43 @@
+{
+  "word": "gök gürültüsü",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "thunder, the sound of thunder",
+  "sentences": [
+    {
+      "id": "gök gürültüsü_s1",
+      "text": "Elektrikli bir fırtınada [gök gürültüsü] ve şimşek sık sık tekrarlanır.",
+      "note": null
+    },
+    {
+      "id": "gök gürültüsü_s2",
+      "text": "Gökyüzündeki bulutlar çarpıştığında [gök gürültüsü] meydana gelir.",
+      "note": null
+    },
+    {
+      "id": "gök gürültüsü_s3",
+      "text": "Köy insanları [gök gürültüsü]nü duydular ve hızlı bir şekilde içeri girdi.",
+      "note": null
+    },
+    {
+      "id": "gök gürültüsü_s4",
+      "text": "[gök gürültüsü] nedeniyle dışarı çıkmak tehlikeli olabilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gök gürültüsü_r1",
+      "prompt": "Elektrik fırtınasının en karakteristik sesleri arasından biri olan gürültüyü ifade eden iki sözcüklü terim nedir?",
+      "accepted_forms": ["gök gürültüsü", "gök gürlemesi", "gürültü", "göğün gürültüsü"],
+      "note": null
+    },
+    {
+      "id": "gök gürültüsü_r2",
+      "prompt": "Kova dolusu yağmur yağarken, şiddetli ... duyuldu ve herkes çamaşırını içeri almak için koştu.",
+      "accepted_forms": ["gök gürültüsü", "gürültü", "gök sesi", "gürlemesi"],
+      "note": null
+    }
+  ]
+}

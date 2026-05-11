@@ -1,0 +1,43 @@
+{
+  "word": "ayrım",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "distinction, differentiation",
+  "sentences": [
+    {
+      "id": "ayrım_s1",
+      "text": "İyi ve kötü arasında bir [ayrım] yapmak gerekir.",
+      "note": null
+    },
+    {
+      "id": "ayrım_s2",
+      "text": "Öğretmen öğrencilerin başarısında [ayrım] gözetmiştir.",
+      "note": null
+    },
+    {
+      "id": "ayrım_s3",
+      "text": "Hukuki açıdan bu iki durum arasında çok büyük bir [ayrım] vardır.",
+      "note": null
+    },
+    {
+      "id": "ayrım_s4",
+      "text": "Cinsiyet [ayrımı] yaptığı için işten çıkarıldı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ayrım_r1",
+      "prompt": "İki şey arasındaki farklılığı belirtmek için kullanılan isim nedir?",
+      "accepted_forms": ["ayrım", "ayrımı", "ayrıma", "ayrımdan"],
+      "note": null
+    },
+    {
+      "id": "ayrım_r2",
+      "prompt": "Eğitim ve iş hayatında insanlar arasında ... yapılmaması gerekir.",
+      "accepted_forms": ["ayrım", "ayrımlar", "ayrımcılık"],
+      "note": null
+    }
+  ]
+}

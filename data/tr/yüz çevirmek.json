@@ -1,0 +1,43 @@
+{
+  "word": "yüz çevirmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to turn one's back on, to snub, to shun",
+  "sentences": [
+    {
+      "id": "yüz çevirmek_s1",
+      "text": "Eski dostları ona [yüz çevirdiler].",
+      "note": null
+    },
+    {
+      "id": "yüz çevirmek_s2",
+      "text": "Zenginliğini kaybedince, herkes ona [yüz çevirdi].",
+      "note": null
+    },
+    {
+      "id": "yüz çevirmek_s3",
+      "text": "Vatan topraklarına [yüz çeviren] insanlara merhamet etmek zor.",
+      "note": null
+    },
+    {
+      "id": "yüz çevirmek_s4",
+      "text": "Hiç kimse ona böyle [yüz çevirme] hakkını düşünmedi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yüz çevirmek_r1",
+      "prompt": "Birisi kötü zamanında yardım etmeyip onu görmezden geldiğinde, ona ... diyebiliriz.",
+      "accepted_forms": ["yüz çevirmek", "yüz çevirdiler", "yüz çevirmiş", "yüz çevirme"],
+      "note": null
+    },
+    {
+      "id": "yüz çevirmek_r2",
+      "prompt": "Bir dostun sıkıntılı zamanında ona ... demek, onun sadık olmayan olduğunun işaretidir.",
+      "accepted_forms": ["yüz çevirmek", "yüz çevirmesi", "yüz çevirdi", "yüz çeviriyorum"],
+      "note": null
+    }
+  ]
+}

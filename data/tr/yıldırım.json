@@ -1,0 +1,43 @@
+{
+  "word": "yıldırım",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "lightning, bolt of lightning, thunderbolt",
+  "sentences": [
+    {
+      "id": "yıldırım_s1",
+      "text": "Fırtında sırasında [yıldırım] çakması gökyüzünü aydınlattı.",
+      "note": null
+    },
+    {
+      "id": "yıldırım_s2",
+      "text": "Ağaca çarpan [yıldırım] onu ikiye böldü ve yangın çıktı.",
+      "note": null
+    },
+    {
+      "id": "yıldırım_s3",
+      "text": "[yıldırım] hızı saniyede 300.000 km/s kadar olabilir.",
+      "note": null
+    },
+    {
+      "id": "yıldırım_s4",
+      "text": "Antik çağda insanlar [yıldırım]ı tanrının gazabı olarak düşünüyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yıldırım_r1",
+      "prompt": "Elektrikli fırtınalarda gökyüzünde ışıl ışıl parıldayan, çok hızlı gelen elektrik boşalmasını ifade eden kelime nedir?",
+      "accepted_forms": ["yıldırım", "yıldırımı", "yıldırımlar", "şimşek"],
+      "note": null
+    },
+    {
+      "id": "yıldırım_r2",
+      "prompt": "Gökyüzünden inen ... ağacı ateşe attı ve orman yangını başladı.",
+      "accepted_forms": ["yıldırım", "yıldırımlar", "şimşek", "elektrik"],
+      "note": null
+    }
+  ]
+}

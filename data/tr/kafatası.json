@@ -1,0 +1,43 @@
+{
+  "word": "kafatası",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "skull",
+  "sentences": [
+    {
+      "id": "kafatası_s1",
+      "text": "Arkeologlar antik mezardan bir [kafatası] çıkardılar.",
+      "note": null
+    },
+    {
+      "id": "kafatası_s2",
+      "text": "Doktor hastaların [kafatasını] röntgen cihazında inceledi.",
+      "note": null
+    },
+    {
+      "id": "kafatası_s3",
+      "text": "Beyin [kafatasının] içinde korunur.",
+      "note": null
+    },
+    {
+      "id": "kafatası_s4",
+      "text": "Kazada maruz kaldığı darbe [kafatasında] ciddi hasar meydana getirdi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kafatası_r1",
+      "prompt": "İnsan vücudunun baş kısmında beyin ve yüz organlarını çevreleyen kemik yapısı nedir?",
+      "accepted_forms": ["kafatası", "kafatasını", "kafatasının", "kafatasından"],
+      "note": null
+    },
+    {
+      "id": "kafatası_r2",
+      "prompt": "Kemik iskeletinin en önemli bölümlerinden biri olan beyin kutusu ... olarak adlandırılır.",
+      "accepted_forms": ["kafatası", "kafatasının"],
+      "note": null
+    }
+  ]
+}

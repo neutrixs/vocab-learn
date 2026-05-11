@@ -1,0 +1,43 @@
+{
+  "word": "ürkek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "timid, shy, easily frightened",
+  "sentences": [
+    {
+      "id": "ürkek_s1",
+      "text": "[Ürkek] çocuk kalabalık ortamında tedirgin olur.",
+      "note": null
+    },
+    {
+      "id": "ürkek_s2",
+      "text": "Tavşan doğası gereği [ürkek] bir hayvandır.",
+      "note": null
+    },
+    {
+      "id": "ürkek_s3",
+      "text": "[Ürkek]liği yüzünden yeni insanlardan kaçıyor.",
+      "note": null
+    },
+    {
+      "id": "ürkek_s4",
+      "text": "[Ürkek] ses işitince hemen kaçıştı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ürkek_r1",
+      "prompt": "Kolayca korkuya kapılan, cesur olmayan kişiye ne denir?",
+      "accepted_forms": ["ürkek", "ürkek kişi", "ürkek çocuk", "ürkekler"],
+      "note": null
+    },
+    {
+      "id": "ürkek_r2",
+      "prompt": "Yabancı insanlardan tedirgin olduğu için çocuk ... denilir.",
+      "accepted_forms": ["ürkek", "ürkek bir", "ürkekliği", "ürkek oluyor"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "çaresiz",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "helpless, without remedy, resourceless, at a loss",
+  "sentences": [
+    {
+      "id": "çaresiz_s1",
+      "text": "Ailesine yardım edemediği için kendisini [çaresiz] hissediyordu.",
+      "note": null
+    },
+    {
+      "id": "çaresiz_s2",
+      "text": "Maç sonu yaklaştıkça oyuncu [çaresiz] bir pozisyonda kalmıştı.",
+      "note": null
+    },
+    {
+      "id": "çaresiz_s3",
+      "text": "Param bitip de kira ödeyemeyen genç kız [çaresiz] durum karşısında ağladı.",
+      "note": null
+    },
+    {
+      "id": "çaresiz_s4",
+      "text": "Başını belaya sokan arkadaşını kurtaramamak beni [çaresiz] ve mutsuz bıraktı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çaresiz_r1",
+      "prompt": "Bir çözüm ya da yol bulamamış, ne yapacağını bilmeyen insanı tanımlamak için hangi sıfat kullanılır?",
+      "accepted_forms": ["çaresiz", "çaresizce", "çaresizlik", "çaresiz"],
+      "note": null
+    },
+    {
+      "id": "çaresiz_r2",
+      "prompt": "Bu durumda hiçbir şey yapamadığı için kendisini ... hissetti ve yardım istedi.",
+      "accepted_forms": ["çaresiz", "çaresizce", "aciz", "yardımsız"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "çetin",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "difficult, hard, tough",
+  "sentences": [
+    {
+      "id": "çetin_s1",
+      "text": "Bu sınav çok [çetin] bir test olacaktır.",
+      "note": null
+    },
+    {
+      "id": "çetin_s2",
+      "text": "Dağcılar [çetin] koşullar altında yolculuk yaptı.",
+      "note": null
+    },
+    {
+      "id": "çetin_s3",
+      "text": "[Çetin] bir müzakereyle anlaşma sağlandı.",
+      "note": null
+    },
+    {
+      "id": "çetin_s4",
+      "text": "Taş [çetin] bir madde olduğu için işlenmesi zordur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çetin_r1",
+      "prompt": "İleri matematik konu başarısızlık oranı yüksek çünkü ... hale getirilmiştir",
+      "accepted_forms": ["çetin", "çetindir"],
+      "note": null
+    },
+    {
+      "id": "çetin_r2",
+      "prompt": "Donmuş çikolata ... bir yüzeye sahiptir",
+      "accepted_forms": ["çetin", "çetindir"],
+      "note": null
+    }
+  ]
+}

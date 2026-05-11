@@ -1,0 +1,43 @@
+{
+  "word": "sadık",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "loyal, faithful, devoted",
+  "sentences": [
+    {
+      "id": "sadık_s1",
+      "text": "Köpek sahibine çok [sadık].",
+      "note": null
+    },
+    {
+      "id": "sadık_s2",
+      "text": "[Sadık] bir arkadaş insan en büyük hazinesidir.",
+      "note": null
+    },
+    {
+      "id": "sadık_s3",
+      "text": "Devlete [sadık] kalmak görevimiz.",
+      "note": null
+    },
+    {
+      "id": "sadık_s4",
+      "text": "[Sadık]lık dostluk için önemlidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sadık_r1",
+      "prompt": "Birine veya bir şeye bağlı, onu hiç terk etmeyecek olan kişi nasıl bir kişidir?",
+      "accepted_forms": ["sadık", "sadık bir", "sadıkları", "sadık kişi"],
+      "note": null
+    },
+    {
+      "id": "sadık_r2",
+      "prompt": "Köpekler doğası gereği herkese ... hayvan değildir, ama sahibine çok ... olurlar.",
+      "accepted_forms": ["sadık", "sadıktır", "sadıkları", "sadık olmak"],
+      "note": null
+    }
+  ]
+}

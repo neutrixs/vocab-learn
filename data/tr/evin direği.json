@@ -1,0 +1,43 @@
+{
+  "word": "evin direği",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "pillar of the family, head of household",
+  "sentences": [
+    {
+      "id": "evin direği_s1",
+      "text": "Babasının ölümünden sonra en büyük oğlu [evin direği] oldu.",
+      "note": null
+    },
+    {
+      "id": "evin direği_s2",
+      "text": "Anne, [evin direği]ni tamamen destekledi.",
+      "note": null
+    },
+    {
+      "id": "evin direği_s3",
+      "text": "[Evin direğ]inin sorumluluğu büyük ve ağırdır.",
+      "note": null
+    },
+    {
+      "id": "evin direği_s4",
+      "text": "Geleneksel toplumda [evin direği] çoğu zaman babadır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "evin direği_r1",
+      "prompt": "Aile hayatının merkezinde olan ve ailenin refahından sorumlu olan kişiye verilen ad ... dir.",
+      "accepted_forms": ["evin direği", "evin direğinin", "evin direğini"],
+      "note": null
+    },
+    {
+      "id": "evin direği_r2",
+      "prompt": "Bir ailenin başında duran ve sorumluluk taşıyan kişi aynı zamanda ... sayılır.",
+      "accepted_forms": ["evin direği", "evin direğidir"],
+      "note": null
+    }
+  ]
+}

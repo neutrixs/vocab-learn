@@ -1,0 +1,43 @@
+{
+  "word": "onaylamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to approve, to sanction, to endorse, to ratify",
+  "sentences": [
+    {
+      "id": "onaylamak_s1",
+      "text": "Bütçe başkan tarafından [onayla] nmalı.",
+      "note": null
+    },
+    {
+      "id": "onaylamak_s2",
+      "text": "Proje [onayla] nmadan başlayamayız.",
+      "note": null
+    },
+    {
+      "id": "onaylamak_s3",
+      "text": "Yasa meclisten [onayla] nması gerekti.",
+      "note": null
+    },
+    {
+      "id": "onaylamak_s4",
+      "text": "Doktor tedavi planını [onayla] dı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "onaylamak_r1",
+      "prompt": "Bir şeyin yapılmasına veya uygulanmasına resmi izin veya onay vermek?",
+      "accepted_forms": ["onayla", "onaylar", "onayladı", "onaylamak", "onaylama"],
+      "note": null
+    },
+    {
+      "id": "onaylamak_r2",
+      "prompt": "Yasal veya yönetimsel bir karar veya tasarıyı kabul etmek ve onayını vermek?",
+      "accepted_forms": ["onayla", "onaylar", "onayladı", "onaylamak", "onaylama"],
+      "note": null
+    }
+  ]
+}

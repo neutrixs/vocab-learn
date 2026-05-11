@@ -1,0 +1,43 @@
+{
+  "word": "gösterişsiz",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "unpretentious, simple, unadorned",
+  "sentences": [
+    {
+      "id": "gösterişsiz_s1",
+      "text": "Milyarder bir [gösterişsiz] evde yaşamayı tercih eder.",
+      "note": null
+    },
+    {
+      "id": "gösterişsiz_s2",
+      "text": "Restoran [gösterişsiz] fakat lezzetli yemekler sunmaktadır.",
+      "note": null
+    },
+    {
+      "id": "gösterişsiz_s3",
+      "text": "[gösterişsiz] tasarım genellikle zarif ve modern görünümlüdür.",
+      "note": null
+    },
+    {
+      "id": "gösterişsiz_s4",
+      "text": "Ofis [gösterişsiz] mobilyalar ile dekore edilmiş fakat çok işlevseldir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gösterişsiz_r1",
+      "prompt": "Lüks veya şı görünüş amaçlamayan, basit ve zarif olan bir şeyin niteliği nedir?",
+      "accepted_forms": ["gösterişsiz", "gösterişsizdir", "gösterişsizliği"],
+      "note": null
+    },
+    {
+      "id": "gösterişsiz_r2",
+      "prompt": "Bu ... ama sıcak ve davetkar bir cafe herkesin sevdiği buluşma noktasıdır.",
+      "accepted_forms": ["gösterişsiz", "gösterişsizdir", "gösterişsizce"],
+      "note": null
+    }
+  ]
+}

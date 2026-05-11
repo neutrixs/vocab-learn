@@ -1,0 +1,43 @@
+{
+  "word": "açgözlülük",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "greed, avarice, covetousness",
+  "sentences": [
+    {
+      "id": "açgözlülük_s1",
+      "text": "[açgözlülük] insanları işlemek için itebilir.",
+      "note": null
+    },
+    {
+      "id": "açgözlülük_s2",
+      "text": "Zengin olma arzusu [açgözlülük] haline dönüşmüştür.",
+      "note": null
+    },
+    {
+      "id": "açgözlülük_s3",
+      "text": "[açgözlülük] nedeniyle çok insanın işini kaybetti.",
+      "note": null
+    },
+    {
+      "id": "açgözlülük_s4",
+      "text": "Tarihte [açgözlülük] pek çok imparatorluğu yıkmıştır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "açgözlülük_r1",
+      "prompt": "Muhasebeci ... ile yapılan yolsuzluklar ortaya çıkarmıştır.",
+      "accepted_forms": ["açgözlülük", "açgözlülüğünü"],
+      "note": null
+    },
+    {
+      "id": "açgözlülük_r2",
+      "prompt": "Tüccarın ... onu müşterilerini kaybettirdi.",
+      "accepted_forms": ["açgözlülük", "açgözlülüğü"],
+      "note": null
+    }
+  ]
+}

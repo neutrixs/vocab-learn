@@ -1,0 +1,48 @@
+{
+  "word": "itibar",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "reputation, prestige, trust",
+  "sentences": [
+    {
+      "id": "itibar_s1",
+      "text": "Uzun yıllar boyunca iyi bir [itibar] kazandı.",
+      "note": null
+    },
+    {
+      "id": "itibar_s2",
+      "text": "Şirketin [itibar]ı pazardan uzaklaştırıldıktan sonra gözle görülür şekilde düştü.",
+      "note": null
+    },
+    {
+      "id": "itibar_s3",
+      "text": "[İtibar]ı zedeleyici haberler medyada yayıldı.",
+      "note": null
+    },
+    {
+      "id": "itibar_s4",
+      "text": "Doktor, hastaları arasında yüksek bir [itibar]a sahipti.",
+      "note": null
+    },
+    {
+      "id": "itibar_s5",
+      "text": "Bir kez kaybettiğin [itibar]ı geri almak çok zordur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "itibar_r1",
+      "prompt": "Birinin başkası tarafından saygı ve güven görmesi demek olan kavram ... olarak adlandırılır.",
+      "accepted_forms": ["itibar", "itibara", "itibara", "itibarı"],
+      "note": null
+    },
+    {
+      "id": "itibar_r2",
+      "prompt": "Uzun müddet iyiliğiyle tanınan bir kişi nasıl bir ... kazanır?",
+      "accepted_forms": ["itibar", "itibare", "itibara"],
+      "note": null
+    }
+  ]
+}

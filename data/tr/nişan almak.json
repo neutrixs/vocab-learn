@@ -1,0 +1,43 @@
+{
+  "word": "nişan almak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to aim, to take aim",
+  "sentences": [
+    {
+      "id": "nişan almak_s1",
+      "text": "Avcı hedefe [nişan aldı] ve ateş etti.",
+      "note": null
+    },
+    {
+      "id": "nişan almak_s2",
+      "text": "[Nişan alarak] top atıştı.",
+      "note": null
+    },
+    {
+      "id": "nişan almak_s3",
+      "text": "Asker silahını ve [nişan aldı] hedefi.",
+      "note": null
+    },
+    {
+      "id": "nişan almak_s4",
+      "text": "[Nişan almadan] ateş etme.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "nişan almak_r1",
+      "prompt": "Hedefe doğru gitmesi için amaç kare almaya ... denir.",
+      "accepted_forms": ["nişan almak", "nişan alınır", "nişan aldı", "nişan almadan"],
+      "note": null
+    },
+    {
+      "id": "nişan almak_r2",
+      "prompt": "Atıcı tabancasını kaldırıp ...",
+      "accepted_forms": ["nişan aldı", "nişan almak", "nişan alarak", "nişan alacak"],
+      "note": null
+    }
+  ]
+}

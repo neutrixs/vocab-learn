@@ -1,0 +1,43 @@
+{
+  "word": "beyhudelik",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "uselessness, futility, vainness",
+  "sentences": [
+    {
+      "id": "beyhudelik_s1",
+      "text": "Bu eforların [beyhudelik]ine kanaat getirdi.",
+      "note": null
+    },
+    {
+      "id": "beyhudelik_s2",
+      "text": "[Beyhudelik] yüzünden çok zaman kaybettik.",
+      "note": null
+    },
+    {
+      "id": "beyhudelik_s3",
+      "text": "Hayatta [beyhudelik]ten kaçınmalıyız.",
+      "note": null
+    },
+    {
+      "id": "beyhudelik_s4",
+      "text": "Onun tüm çabaları [beyhudelik] içinde boşa gitti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "beyhudelik_r1",
+      "prompt": "Hiçbir fayda sağlamayan boş ve anlamsız şeylere ne denir?",
+      "accepted_forms": ["beyhudelik", "beyhudeliği", "beyhudeliğin"],
+      "note": null
+    },
+    {
+      "id": "beyhudelik_r2",
+      "prompt": "İşe yaramayan çabanın ... bunu başından beri öngörebilirdi.",
+      "accepted_forms": ["beyhudeliği", "beyhudelik"],
+      "note": null
+    }
+  ]
+}

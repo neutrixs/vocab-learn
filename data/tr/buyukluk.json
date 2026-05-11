@@ -1,0 +1,38 @@
+{
+  "word": "buyukluk",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "greatness, grandeur, size",
+  "sentences": [
+    {
+      "id": "buyukluk_s1",
+      "text": "Bu imparatorluğun [buyukluk]ü tüm dünyayı etkilerdi.",
+      "note": null
+    },
+    {
+      "id": "buyukluk_s2",
+      "text": "Onun başarısının [buyukluk]ü anlattığından daha çok.",
+      "note": null
+    },
+    {
+      "id": "buyukluk_s3",
+      "text": "[Buyukluk] bazen insanları gözü kapalı yapar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "buyukluk_r1",
+      "prompt": "Bir şeyin büyük ve görkemli olması durumunu ifade eden kelime nedir?",
+      "accepted_forms": ["buyukluk", "buyukluğu", "buyuklugu", "buyuklukte"],
+      "note": null
+    },
+    {
+      "id": "buyukluk_r2",
+      "prompt": "Onun mirasının ___ asırlar boyunca anılacak.",
+      "accepted_forms": ["buyukluk", "buyuklugu", "buyukluğu", "buyukluktan"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "baston",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "cane, stick, baton",
+  "sentences": [
+    {
+      "id": "baston_s1",
+      "text": "Yaşlı adamın eli [baston]da duruyor.",
+      "note": null
+    },
+    {
+      "id": "baston_s2",
+      "text": "Polis [baston]unuzu düşürdü mü?",
+      "note": null
+    },
+    {
+      "id": "baston_s3",
+      "text": "Yürüyüş sırasında [baston]la yürümek denge sağlar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "baston_r1",
+      "prompt": "Yaşlı ve engelli insanlar yürürken tutmak için ne kullanırlar?",
+      "accepted_forms": ["baston", "bastonu", "bastonla", "bastona"],
+      "note": null
+    },
+    {
+      "id": "baston_r2",
+      "prompt": "Dengesini kaybetmiş olan çocuk, yardım için annesinin ___ tuttu.",
+      "accepted_forms": ["bastonunu", "baston", "bastona", "bastonla"],
+      "note": null
+    }
+  ]
+}

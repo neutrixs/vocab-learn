@@ -1,0 +1,43 @@
+{
+  "word": "araştırma-geliştirme",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "research and development",
+  "sentences": [
+    {
+      "id": "araştırma-geliştirme_s1",
+      "text": "[araştırma-geliştirme] yatırımları bilimsel ilerlemelerin anahtarıdır.",
+      "note": null
+    },
+    {
+      "id": "araştırma-geliştirme_s2",
+      "text": "Üniversiteler ve şirketler [araştırma-geliştirme] projelerinde işbirliği yapmaktadırlar.",
+      "note": null
+    },
+    {
+      "id": "araştırma-geliştirme_s3",
+      "text": "[araştırma-geliştirme] bölümü yeni ürün tasarımından sorumludur.",
+      "note": null
+    },
+    {
+      "id": "araştırma-geliştirme_s4",
+      "text": "Hükümet [araştırma-geliştirme] faaliyetlerini teşvik etmek için vergi indirimlerini artırmıştır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "araştırma-geliştirme_r1",
+      "prompt": "Yeni teknoloji ve ürün inovasyon için bilimsel çalışmalar yapılması süreci hangi adla anılır?",
+      "accepted_forms": ["araştırma-geliştirme", "araştırma-geliştirmeye", "araştırma-geliştirmesi"],
+      "note": null
+    },
+    {
+      "id": "araştırma-geliştirme_r2",
+      "prompt": "Otomotiv endüstrisinde ... bölümü elektrikli araçların geliştirilmesinden sorumludur.",
+      "accepted_forms": ["araştırma-geliştirme", "araştırma-geliştirmenin", "araştırma-geliştirmeler"],
+      "note": null
+    }
+  ]
+}

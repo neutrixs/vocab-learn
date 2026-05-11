@@ -1,0 +1,43 @@
+{
+  "word": "coşkulu",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "enthusiastic, eager, spirited, exuberant",
+  "sentences": [
+    {
+      "id": "coşkulu_s1",
+      "text": "[coşkulu] öğrenciler derslere aktif katılırlar.",
+      "note": null
+    },
+    {
+      "id": "coşkulu_s2",
+      "text": "Antrenör [coşkulu] bir ses tonuyla takımı motive etti.",
+      "note": null
+    },
+    {
+      "id": "coşkulu_s3",
+      "text": "Konserde [coşkulu] hayranlar müzik dinliyorlardı.",
+      "note": null
+    },
+    {
+      "id": "coşkulu_s4",
+      "text": "[coşkulu] bir ruh haliyle işe başladı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "coşkulu_r1",
+      "prompt": "Bir şeye karşı büyük heyecan, tutku ve canlılık gösteren insan?",
+      "accepted_forms": ["coşkulu", "coşkulu", "coşkulunu", "coşkulunun"],
+      "note": null
+    },
+    {
+      "id": "coşkulu_r2",
+      "prompt": "Enerji ve pozitif duygusu yüksek olan ve bunu göz yüzüne yansıtan kişi?",
+      "accepted_forms": ["coşkulu", "coşkulu", "coşkulunu", "coşkulunun"],
+      "note": null
+    }
+  ]
+}

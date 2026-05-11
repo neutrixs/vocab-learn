@@ -1,0 +1,43 @@
+{
+  "word": "ricat etmek",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "phrase",
+  "english_gloss": "to retreat, to withdraw (military term)",
+  "sentences": [
+    {
+      "id": "ricat etmek_s1",
+      "text": "Ordu düşmanın ilerleyişi karşısında [ricat etti].",
+      "note": null
+    },
+    {
+      "id": "ricat etmek_s2",
+      "text": "Birliklerin [ricat etmesi] gerekiyordu.",
+      "note": null
+    },
+    {
+      "id": "ricat etmek_s3",
+      "text": "[Ricat ederek] savunma hattına çekilindi.",
+      "note": null
+    },
+    {
+      "id": "ricat etmek_s4",
+      "text": "Komutan [ricat etme] emrini verdi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ricat etmek_r1",
+      "prompt": "Askeri terimde, düşmanın saldırısı karşısında geri çekilmeye ne denir?",
+      "accepted_forms": ["ricat etmek", "ricat etti", "ricat ettiler", "ricat ettiği"],
+      "note": null
+    },
+    {
+      "id": "ricat etmek_r2",
+      "prompt": "Ordu stratejik nedenlerle ...",
+      "accepted_forms": ["ricat etti", "ricat etmek", "ricat etmeyi", "ricat ederek"],
+      "note": null
+    }
+  ]
+}

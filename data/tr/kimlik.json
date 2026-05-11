@@ -1,0 +1,48 @@
+{
+  "word": "kimlik",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "identity, ID",
+  "sentences": [
+    {
+      "id": "kimlik_s1",
+      "text": "Kişinin [kimlik] bilgilerini doğrulamak gerekir.",
+      "note": null
+    },
+    {
+      "id": "kimlik_s2",
+      "text": "Otel [kimlik] belgesini talep etti.",
+      "note": null
+    },
+    {
+      "id": "kimlik_s3",
+      "text": "[kimlik] hırsızlığı ciddi bir suçtur.",
+      "note": null
+    },
+    {
+      "id": "kimlik_s4",
+      "text": "Ülkenin kültürel [kimlik] çok zengindir.",
+      "note": null
+    },
+    {
+      "id": "kimlik_s5",
+      "text": "[kimlik] doğrulama için iki faktörlü kimlik gerekebilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kimlik_r1",
+      "prompt": "Uçakta binmeden ... kontrol yapılır.",
+      "accepted_forms": ["kimlik", "kimliğin"],
+      "note": null
+    },
+    {
+      "id": "kimlik_r2",
+      "prompt": "Kişinin ... belgesinde adı, soyadı ve doğum tarihi yazılıdır.",
+      "accepted_forms": ["kimlik", "kimliği"],
+      "note": null
+    }
+  ]
+}

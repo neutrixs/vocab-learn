@@ -1,0 +1,43 @@
+{
+  "word": "elek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "sieve, strainer",
+  "sentences": [
+    {
+      "id": "elek_s1",
+      "text": "Aşçı un siftesi için [elek] kullanıyor.",
+      "note": null
+    },
+    {
+      "id": "elek_s2",
+      "text": "Tarım işçileri tahılı arıtmak için [elekte] geçirdiler.",
+      "note": null
+    },
+    {
+      "id": "elek_s3",
+      "text": "[Elek] yardımıyla toz ve kalın parçalar ayrılır.",
+      "note": null
+    },
+    {
+      "id": "elek_s4",
+      "text": "Bulaşık yıkamada kullanılan [elek] mutfakta gerekli bir araçtır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "elek_r1",
+      "prompt": "Tane veya toza benzer maddeleri ayırmak için kullanılan delikli mutfak aracı nedir?",
+      "accepted_forms": ["elek", "elekte", "elektin", "elektler"],
+      "note": null
+    },
+    {
+      "id": "elek_r2",
+      "prompt": "Un, şeker gibi malzemeleri ince hale getirmek için ... kullanılır.",
+      "accepted_forms": ["elek", "elektronuk"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "nüfus cüzdanı",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "national ID card",
+  "sentences": [
+    {
+      "id": "nüfus cüzdanı_s1",
+      "text": "Kaydını yapmak için [nüfus cüzdanı] gerekmektedir.",
+      "note": null
+    },
+    {
+      "id": "nüfus cüzdanı_s2",
+      "text": "Havalimanında [nüfus cüzdanı] veya pasaport kontrolü yapılır.",
+      "note": null
+    },
+    {
+      "id": "nüfus cüzdanı_s3",
+      "text": "[nüfus cüzdanı] ismini, doğum tarihini ve vatandaşlığını gösterir.",
+      "note": null
+    },
+    {
+      "id": "nüfus cüzdanı_s4",
+      "text": "Bankada hesap açmak için geçerli bir [nüfus cüzdanı] lazım.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "nüfus cüzdanı_r1",
+      "prompt": "Oy vermek için ... göstermek zorunludur.",
+      "accepted_forms": ["nüfus cüzdanı", "nüfus cüzdanını"],
+      "note": null
+    },
+    {
+      "id": "nüfus cüzdanı_r2",
+      "prompt": "Resepsiyon ... görmek istedi.",
+      "accepted_forms": ["nüfus cüzdanı", "nüfus cüzdanını"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "süzgeç",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "filter, strainer",
+  "sentences": [
+    {
+      "id": "süzgeç_s1",
+      "text": "Kahveyi hazırlamadan önce [süzgeç] kullanmalısın.",
+      "note": null
+    },
+    {
+      "id": "süzgeç_s2",
+      "text": "Su arıtmak için modern [süzgeçler] kullanılıyor.",
+      "note": null
+    },
+    {
+      "id": "süzgeç_s3",
+      "text": "Çay yapılarken [süzgeçten] çay yaprakları filtre edilir.",
+      "note": null
+    },
+    {
+      "id": "süzgeç_s4",
+      "text": "Hava [süzgecinin] kirli olduğu zaman değiştirilmesi gerekir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "süzgeç_r1",
+      "prompt": "Sıvıları veya havayı temizlemek için zararlı maddeleri ayırmaya yarayan araç nedir?",
+      "accepted_forms": ["süzgeç", "süzgeçten", "süzgeçleri", "süzgeci"],
+      "note": null
+    },
+    {
+      "id": "süzgeç_r2",
+      "prompt": "Kahvenin posa kısmı ... tarafından ayrılır.",
+      "accepted_forms": ["süzgeç", "süzgeçle"],
+      "note": null
+    }
+  ]
+}

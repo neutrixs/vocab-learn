@@ -1,0 +1,43 @@
+{
+  "word": "şart koymak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to set a condition, to impose a requirement",
+  "sentences": [
+    {
+      "id": "şart koymak_s1",
+      "text": "Öğretmen sınava katılmak için dersi geçmeyi [şart koydular].",
+      "note": null
+    },
+    {
+      "id": "şart koymak_s2",
+      "text": "İşveren yeni çalışanlardan lisan bilmesini [şart koymuştur].",
+      "note": null
+    },
+    {
+      "id": "şart koymak_s3",
+      "text": "Anlaşmaya göre satıcı zamanında teslimatı [şart koymak] zorundaydı.",
+      "note": null
+    },
+    {
+      "id": "şart koymak_s4",
+      "text": "Kulüp yeni transferler için düşük fiyat [şartı koydular].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şart koymak_r1",
+      "prompt": "Sözleşmede taraflar birbirlerine belirli kuralları ... istiyorlar.",
+      "accepted_forms": ["şart koymak", "şart koydular", "şartlar koymak", "şart koyarlar"],
+      "note": null
+    },
+    {
+      "id": "şart koymak_r2",
+      "prompt": "Bir işi yapmayı kabul etmeden önce kişi ... isteyebilir.",
+      "accepted_forms": ["şart koymak", "şartlar koymak", "şart koyması", "şart koydular"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "imha etmek",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "phrase",
+  "english_gloss": "to destroy, to eliminate, to annihilate",
+  "sentences": [
+    {
+      "id": "imha etmek_s1",
+      "text": "Askeri operasyon düşman tarafını [imha etmek] amacındaydı.",
+      "note": null
+    },
+    {
+      "id": "imha etmek_s2",
+      "text": "Tarih boyunca uygarlıklar birbirini [imha etmiştir].",
+      "note": null
+    },
+    {
+      "id": "imha etmek_s3",
+      "text": "Bu parazit ekinleri [imha eder] ve hasat kaybı sağlar.",
+      "note": null
+    },
+    {
+      "id": "imha etmek_s4",
+      "text": "Doktor mikroba karşı tedavi [imha etmeye] yönelikti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "imha etmek_r1",
+      "prompt": "Savaşta asker düşmanı ... çalıştıkları bellidir",
+      "accepted_forms": ["imha etmek", "imha etmeye", "imha etti", "imha etmeleri"],
+      "note": null
+    },
+    {
+      "id": "imha etmek_r2",
+      "prompt": "Zararlı haşereler ... için kimyasal ilaç kullanılır",
+      "accepted_forms": ["imha etmek", "imha etmesi", "imha etmeyi", "imha etmek için"],
+      "note": null
+    }
+  ]
+}

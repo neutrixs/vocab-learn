@@ -1,0 +1,48 @@
+{
+  "word": "inandırmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to convince, to persuade",
+  "sentences": [
+    {
+      "id": "inandırmak_s1",
+      "text": "Onu bu plan kötü bir fikir olduğuna [inandır] başardık.",
+      "note": null
+    },
+    {
+      "id": "inandırmak_s2",
+      "text": "Babam hiçbir zaman onu [inandır] olamadı.",
+      "note": null
+    },
+    {
+      "id": "inandırmak_s3",
+      "text": "İyi çalışman gerekir eğer seni universiteye [inandır] istiyorsam.",
+      "note": null
+    },
+    {
+      "id": "inandırmak_s4",
+      "text": "Doktor hastaya tedavi etmek gerektiğini [inandır] etmeli.",
+      "note": null
+    },
+    {
+      "id": "inandırmak_s5",
+      "text": "Onu hata yaptığını [inandır] etmek zor oldu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "inandırmak_r1",
+      "prompt": "Başkasını bir şeyin doğru olduğuna veya yapması gerektiğine karar verdirmek için kullanılan fiil?",
+      "accepted_forms": ["inandır", "inandırır", "inandırdı", "inandırmak", "inandırma"],
+      "note": null
+    },
+    {
+      "id": "inandırmak_r2",
+      "prompt": "Birinin fikrinden bahsettiğinde onun görüşünü değiştirmek ve doğruluğunu kabul etmesini sağlamak?",
+      "accepted_forms": ["inandır", "inandırır", "inandırdı", "inandırmak", "inandırma"],
+      "note": null
+    }
+  ]
+}

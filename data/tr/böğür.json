@@ -1,0 +1,43 @@
+{
+  "word": "böğür",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "roar, bellow, loud shout",
+  "sentences": [
+    {
+      "id": "böğür_s1",
+      "text": "Aslanın [böğürü] ormanda yankılandı.",
+      "note": null
+    },
+    {
+      "id": "böğür_s2",
+      "text": "Boğanın [böğürü] hayvancılık filminde çok etkili gösterildi.",
+      "note": null
+    },
+    {
+      "id": "böğür_s3",
+      "text": "İçi sıkılan çocuk bir [böğür] attı.",
+      "note": null
+    },
+    {
+      "id": "böğür_s4",
+      "text": "Maç sırasında tribünden gelen [böğür] ve çığlıklar kulakları sağır ediyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "böğür_r1",
+      "prompt": "Hayvanlar tarafından ya da insanlar tarafından yapılan güçlü, ağır ses nedir?",
+      "accepted_forms": ["böğür", "böğürü", "böğüre", "böğürlerini"],
+      "note": null
+    },
+    {
+      "id": "böğür_r2",
+      "prompt": "Aslan ormanın derinliklerinden çıkardığı ... duyuldu.",
+      "accepted_forms": ["böğür", "böğürü"],
+      "note": null
+    }
+  ]
+}

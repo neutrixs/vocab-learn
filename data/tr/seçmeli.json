@@ -1,0 +1,43 @@
+{
+  "word": "seçmeli",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "optional, elective",
+  "sentences": [
+    {
+      "id": "seçmeli_s1",
+      "text": "Üniversitede [seçmeli] dersler öğrencilerin ilgisine göre belirlenir.",
+      "note": null
+    },
+    {
+      "id": "seçmeli_s2",
+      "text": "Bu [seçmeli] kursu almak zorlu değildir.",
+      "note": null
+    },
+    {
+      "id": "seçmeli_s3",
+      "text": "[Seçmeli] konular dersin sonraki bölümünde ele alınacak.",
+      "note": null
+    },
+    {
+      "id": "seçmeli_s4",
+      "text": "Öğrenci dört [seçmeli] dersin arasından birini seçebilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "seçmeli_r1",
+      "prompt": "Zorunlu dersin karşıtı olan ... dersler öğrencinin seçimidir",
+      "accepted_forms": ["seçmeli", "seçmeli dersler"],
+      "note": null
+    },
+    {
+      "id": "seçmeli_r2",
+      "prompt": "Fizik bir zorunlu ders ama spor ... bir derstir",
+      "accepted_forms": ["seçmeli", "seçmeldir"],
+      "note": null
+    }
+  ]
+}

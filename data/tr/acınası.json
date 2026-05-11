@@ -1,0 +1,43 @@
+{
+  "word": "acınası",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "pitiful, wretched, miserable",
+  "sentences": [
+    {
+      "id": "acınası_s1",
+      "text": "Sokakta gördüğüm [acınası] köpek çok hasta görünüyordu.",
+      "note": null
+    },
+    {
+      "id": "acınası_s2",
+      "text": "O [acınası] halde para istemek yerine hiçbir şey söylemedi.",
+      "note": null
+    },
+    {
+      "id": "acınası_s3",
+      "text": "Savaştan sonra şehrin [acınası] durumu gördüğümde üzüldüm.",
+      "note": null
+    },
+    {
+      "id": "acınası_s4",
+      "text": "Mutsuz çocuğun [acınası] bakışları kimsenin kalbini kırmamıştı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "acınası_r1",
+      "prompt": "Çok zavallı ve sefil durumda olan şeyi tanımlamak için hangi kelimeyi kullanırız?",
+      "accepted_forms": ["acınası", "acınasını", "acınasına", "acınasıdır"],
+      "note": null
+    },
+    {
+      "id": "acınası_r2",
+      "prompt": "Mutsuzluğu ve yoksulluğu gözlemlendiğinde insanın ağlakça hissetmesine neden olan durumu ifade eden kelime?",
+      "accepted_forms": ["acınası", "acınasını", "acınasına", "acınasının"],
+      "note": null
+    }
+  ]
+}

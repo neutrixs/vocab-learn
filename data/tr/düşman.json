@@ -1,0 +1,48 @@
+{
+  "word": "düşman",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "enemy, foe, adversary",
+  "sentences": [
+    {
+      "id": "düşman_s1",
+      "text": "Savaş sırasında [düşman] ordusu geri çekildi.",
+      "note": null
+    },
+    {
+      "id": "düşman_s2",
+      "text": "[Düşman]ın stratejisini anlamak önemlidir.",
+      "note": null
+    },
+    {
+      "id": "düşman_s3",
+      "text": "Eski [düşman]lar sonunda barış anlaşması imzaladılar.",
+      "note": null
+    },
+    {
+      "id": "düşman_s4",
+      "text": "[Düşman]lık ilişkiler yıllar boyunca devam etti.",
+      "note": null
+    },
+    {
+      "id": "düşman_s5",
+      "text": "Kimse gerçek [düşman]larını tanımak istemez.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "düşman_r1",
+      "prompt": "Savaşta karşı tarafta olan ve size karşı savaşan kişi ... olarak adlandırılır.",
+      "accepted_forms": ["düşman", "düşmanı", "düşmanın", "düşmanlar"],
+      "note": null
+    },
+    {
+      "id": "düşman_r2",
+      "prompt": "Birine olan kötü niyetli ve tahrip edici ilişki ... ilişkisi olarak bilinir.",
+      "accepted_forms": ["düşman", "düşmanlık"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "ağırbaşlılık",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "seriousness, dignity, gravity",
+  "sentences": [
+    {
+      "id": "ağırbaşlılık_s1",
+      "text": "Onun [ağırbaşlılık]ı ve ciddi tavrı herkesi etkiledi.",
+      "note": null
+    },
+    {
+      "id": "ağırbaşlılık_s2",
+      "text": "[Ağırbaşlılık] bir lider için gerekli bir özelliktir.",
+      "note": null
+    },
+    {
+      "id": "ağırbaşlılık_s3",
+      "text": "Gençleri [ağırbaşlılık] öğretmek toplumun görevi.",
+      "note": null
+    },
+    {
+      "id": "ağırbaşlılık_s4",
+      "text": "[Ağırbaşlılık] göstermek bazen konuşmamaktan başlar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ağırbaşlılık_r1",
+      "prompt": "Insanın ciddi, düşünceli ve ağırbaşlı davranma şekline ne denir?",
+      "accepted_forms": ["ağırbaşlılık", "ağırbaşlılığı", "ağırbaşlılıkla", "ağırbaşlılıktan"],
+      "note": null
+    },
+    {
+      "id": "ağırbaşlılık_r2",
+      "prompt": "Ciddi bir konuşma sırasında gösterilen, eğilim ve dikkatli tutumun işareti ___ dır.",
+      "accepted_forms": ["ağırbaşlılık", "ağırbaşlılığı", "ağırbaşlılık göstermesi", "ağırbaşlılığın"],
+      "note": null
+    }
+  ]
+}

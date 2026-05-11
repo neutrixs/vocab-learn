@@ -1,0 +1,43 @@
+{
+  "word": "yok etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to destroy, to wipe out, to ruin",
+  "sentences": [
+    {
+      "id": "yok etmek_s1",
+      "text": "Orman yangını binlerce ağacı [yok etmiştir].",
+      "note": null
+    },
+    {
+      "id": "yok etmek_s2",
+      "text": "Bu virüs tüm verileri [yok etme] konusunda tehlikelidir.",
+      "note": null
+    },
+    {
+      "id": "yok etmek_s3",
+      "text": "Savaş bütün şehri [yok etti].",
+      "note": null
+    },
+    {
+      "id": "yok etmek_s4",
+      "text": "Hastalık popülasyonun çoğunu [yok etmek] tehlikesine taşır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yok etmek_r1",
+      "prompt": "Terör ... etmek için ordu harekete geçti",
+      "accepted_forms": ["yok etmek", "yok etmeyi", "yok etti", "yok etmeye"],
+      "note": null
+    },
+    {
+      "id": "yok etmek_r2",
+      "prompt": "Zararlı böcekleri ... için tarım ilaçları kullanılır",
+      "accepted_forms": ["yok etmek", "yok etmesi", "yok etmeyi"],
+      "note": null
+    }
+  ]
+}

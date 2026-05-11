@@ -1,0 +1,43 @@
+{
+  "word": "hakir görmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to belittle, to demean, to disdain",
+  "sentences": [
+    {
+      "id": "hakir görmek_s1",
+      "text": "Başarılı öğrenci zayıf olanları [hakir görmüyor].",
+      "note": null
+    },
+    {
+      "id": "hakir görmek_s2",
+      "text": "Onun [hakir görüş] tutumu insanları uzaklaştırıyordu.",
+      "note": null
+    },
+    {
+      "id": "hakir görmek_s3",
+      "text": "Kimsenin [hakir görülmek] hakkı yoktur.",
+      "note": null
+    },
+    {
+      "id": "hakir görmek_s4",
+      "text": "Patronun çalışanlarını [hakir görmesi] işletmeyi tehdit eder.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hakir görmek_r1",
+      "prompt": "Bir kişinin değerini ve önemini azaltarak aşağılamak anlamında hangi deyim kullanılır?",
+      "accepted_forms": ["hakir görmek", "hakir görme", "hakir gördü"],
+      "note": null
+    },
+    {
+      "id": "hakir görmek_r2",
+      "prompt": "Kibar bir insan başkalarını asla ... için çalışır.",
+      "accepted_forms": ["hakir görmez", "hakir görmemek", "hakir görmemelidir"],
+      "note": null
+    }
+  ]
+}

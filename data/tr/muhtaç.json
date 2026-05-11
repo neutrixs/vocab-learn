@@ -1,0 +1,43 @@
+{
+  "word": "muhtaç",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "needy, in need of, dependent on",
+  "sentences": [
+    {
+      "id": "muhtaç_s1",
+      "text": "Bu yaşlı adam başkalarının yardımına [muhtaç] kalmış.",
+      "note": null
+    },
+    {
+      "id": "muhtaç_s2",
+      "text": "[Muhtaç] insanların sosyal yardım alması devletin görevi.",
+      "note": null
+    },
+    {
+      "id": "muhtaç_s3",
+      "text": "Sağlıklı bir insanın başkasına [muhtaç] olması nadir bir durumdur.",
+      "note": null
+    },
+    {
+      "id": "muhtaç_s4",
+      "text": "Travmanın ardından psikolojik yardıma [muhtaç] hale geldi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "muhtaç_r1",
+      "prompt": "Başkasının yardımına ihtiyacı olan, bağımlı olan birini tanımlamak için hangi kelime kullanılır?",
+      "accepted_forms": ["muhtaç", "muhtaç birisi", "muhtaç kişi", "muhtaçtır"],
+      "note": null
+    },
+    {
+      "id": "muhtaç_r2",
+      "prompt": "Onu hayatta tutmak için başkasının desteğine ___ olduğu açık.",
+      "accepted_forms": ["muhtaç", "muhtaç olduğu", "muhtaçtır", "muhtaç hale"],
+      "note": null
+    }
+  ]
+}

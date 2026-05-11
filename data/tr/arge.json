@@ -1,0 +1,43 @@
+{
+  "word": "arge",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "R&D, research and development",
+  "sentences": [
+    {
+      "id": "arge_s1",
+      "text": "Şirket yeni ürünler geliştirmek için [arge] bölümüne yatırım yapıyor.",
+      "note": null
+    },
+    {
+      "id": "arge_s2",
+      "text": "[arge] faaliyetleri teknolojik ilerlemenin temelini oluşturur.",
+      "note": null
+    },
+    {
+      "id": "arge_s3",
+      "text": "Farmasötik endüstrisinde [arge] masrafları oldukça yüksektir.",
+      "note": null
+    },
+    {
+      "id": "arge_s4",
+      "text": "Devlet [arge] projelerine destek vermek için özel vergiler koymuştur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "arge_r1",
+      "prompt": "Bir şirketin yeni ilaç geliştirme, yazılım tasarımı ve teknoloji araştırması gibi faaliyetleri hangi bölümün sorumluluğundadır?",
+      "accepted_forms": ["arge", "argeye", "argesi"],
+      "note": null
+    },
+    {
+      "id": "arge_r2",
+      "prompt": "Modern teknoloji şirketleri gelişim için ... departmanlarına milyonlarca dolar harcamaktadırlar.",
+      "accepted_forms": ["arge", "argelik", "argelerle"],
+      "note": null
+    }
+  ]
+}

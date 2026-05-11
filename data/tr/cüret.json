@@ -1,0 +1,43 @@
+{
+  "word": "cüret",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "audacity, impudence, nerve, temerity",
+  "sentences": [
+    {
+      "id": "cüret_s1",
+      "text": "Onun [cüreti], herkesi şaşırttı ve kızdırdı.",
+      "note": null
+    },
+    {
+      "id": "cüret_s2",
+      "text": "Bu adamın bana karşı [cüreti] var mı diye hayretim kalmadı.",
+      "note": null
+    },
+    {
+      "id": "cüret_s3",
+      "text": "Müdürün [cüreti] olmadan bu kadar risk almayı kimse düşünmüş olamazdı.",
+      "note": null
+    },
+    {
+      "id": "cüret_s4",
+      "text": "Çocuğun öğretmenine karşı gösterdiği [cüret] hoş karşılanmadı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "cüret_r1",
+      "prompt": "Birisi kötü davranış veya sert söz söylediğinde, onun gösterdiği saygısızlığa ... denir.",
+      "accepted_forms": ["cüret", "cüreti", "cüreten", "cüretten"],
+      "note": null
+    },
+    {
+      "id": "cüret_r2",
+      "prompt": "Böyle bir kötü ve beyin olmayan işi yapabilmek için büyük ... gerekir.",
+      "accepted_forms": ["cüret", "cüreti", "cüret görmek", "cüreten"],
+      "note": null
+    }
+  ]
+}

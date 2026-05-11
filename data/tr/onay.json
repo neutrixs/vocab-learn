@@ -1,0 +1,43 @@
+{
+  "word": "onay",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "approval, confirmation, endorsement",
+  "sentences": [
+    {
+      "id": "onay_s1",
+      "text": "Projenizdeki tüm değişiklikleri yönetici [onayı] olmadan yapamam.",
+      "note": null
+    },
+    {
+      "id": "onay_s2",
+      "text": "Bütçe [onayı] için meclise sunuldu.",
+      "note": null
+    },
+    {
+      "id": "onay_s3",
+      "text": "İnsan Kaynakları Müdürü'nün [onayını] almamız gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "onay_s4",
+      "text": "Başkan'dan [onay] belgesi aldı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "onay_r1",
+      "prompt": "Resmi kabul veya doğrulama anlamında kullanılan sözcük nedir?",
+      "accepted_forms": ["onay", "onayı", "onaya", "onaylar"],
+      "note": null
+    },
+    {
+      "id": "onay_r2",
+      "prompt": "Yönetici bir talep hakkında ... verdi.",
+      "accepted_forms": ["onay", "onayını"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "güverte",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "deck (of a ship)",
+  "sentences": [
+    {
+      "id": "güverte_s1",
+      "text": "Yolcular [güverte]de hava aldılar.",
+      "note": null
+    },
+    {
+      "id": "güverte_s2",
+      "text": "Gemi [güverte]si yıkandı.",
+      "note": null
+    },
+    {
+      "id": "güverte_s3",
+      "text": "[Güverte]ye çıktığında güneş parlıyordu.",
+      "note": null
+    },
+    {
+      "id": "güverte_s4",
+      "text": "Kaptan [güverte]de yürüyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "güverte_r1",
+      "prompt": "Geminin üstüne, yolcuların yürüdüğü açık alana ne denir?",
+      "accepted_forms": ["güverte", "güvertede", "güvertenin", "güvertesi"],
+      "note": null
+    },
+    {
+      "id": "güverte_r2",
+      "prompt": "Gemi ... hava almak için halkayı yokluyoruz.",
+      "accepted_forms": ["güverte", "güvertede", "güverteden", "güvertenin"],
+      "note": null
+    }
+  ]
+}

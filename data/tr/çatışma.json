@@ -1,0 +1,43 @@
+{
+  "word": "çatışma",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "conflict, clash, dispute",
+  "sentences": [
+    {
+      "id": "çatışma_s1",
+      "text": "[Çatışma] iki taraf arasında başladı.",
+      "note": null
+    },
+    {
+      "id": "çatışma_s2",
+      "text": "[Çatışma]yı çözmek için müzakere gerekir.",
+      "note": null
+    },
+    {
+      "id": "çatışma_s3",
+      "text": "İkinci Dünya Savaşı büyük bir [çatışma]ydı.",
+      "note": null
+    },
+    {
+      "id": "çatışma_s4",
+      "text": "[Çatışma]ların nedeni yanlış anlamadırlar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çatışma_r1",
+      "prompt": "İki tarafın birbirine karşı gelişi, uyuşmazlık olayına ne denir?",
+      "accepted_forms": ["çatışma", "çatışması", "çatışmaları", "çatışmaya"],
+      "note": null
+    },
+    {
+      "id": "çatışma_r2",
+      "prompt": "Savaş ve şiddet içeren karşılaşmaya ... denir.",
+      "accepted_forms": ["çatışma", "çatışmalar", "çatışmaları", "çatışmasından"],
+      "note": null
+    }
+  ]
+}

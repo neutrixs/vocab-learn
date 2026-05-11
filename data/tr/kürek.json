@@ -1,0 +1,43 @@
+{
+  "word": "kürek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "oar, paddle, shovel",
+  "sentences": [
+    {
+      "id": "kürek_s1",
+      "text": "Kayık için iki [kürek] gerekir.",
+      "note": null
+    },
+    {
+      "id": "kürek_s2",
+      "text": "[Kürek]lerle çapa çektik.",
+      "note": null
+    },
+    {
+      "id": "kürek_s3",
+      "text": "Bahçede çalışırken [kürek] kullanıyorum.",
+      "note": null
+    },
+    {
+      "id": "kürek_s4",
+      "text": "[Kürek] sapının kenarı sürttü.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kürek_r1",
+      "prompt": "Kayık kütükle ne sürülür?",
+      "accepted_forms": ["kürek", "kürekle", "kürekleri", "kürekten"],
+      "note": null
+    },
+    {
+      "id": "kürek_r2",
+      "prompt": "Arazi hazırlanırken toprağı ... ile kazıp taşıdılar.",
+      "accepted_forms": ["kürek", "kürekle", "kürekleri", "yer"],
+      "note": null
+    }
+  ]
+}

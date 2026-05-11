@@ -1,0 +1,43 @@
+{
+  "word": "mızrak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "spear, lance",
+  "sentences": [
+    {
+      "id": "mızrak_s1",
+      "text": "Antik çağda savaşçılar [mızrakla] savaşırlardı.",
+      "note": null
+    },
+    {
+      "id": "mızrak_s2",
+      "text": "Müzede Osmanlı döneminin [mızraklarını] görebilirsiniz.",
+      "note": null
+    },
+    {
+      "id": "mızrak_s3",
+      "text": "Boğa güreşinde toreador [mızrakla] boğayı dikkatle kışkırtırdı.",
+      "note": null
+    },
+    {
+      "id": "mızrak_s4",
+      "text": "Asker [mızrak] atıştırması yaparak eğitim aldı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "mızrak_r1",
+      "prompt": "Uzun bir sopa ucunda keskin uç olan eski silah nedir?",
+      "accepted_forms": ["mızrak", "mızrakla", "mızrakları", "mızrağı"],
+      "note": null
+    },
+    {
+      "id": "mızrak_r2",
+      "prompt": "Antik Roma askerlerinin kullandığı en önemli silahlarddan biri ... idi.",
+      "accepted_forms": ["mızrak", "mızraklar"],
+      "note": null
+    }
+  ]
+}

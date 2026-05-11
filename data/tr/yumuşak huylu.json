@@ -1,0 +1,43 @@
+{
+  "word": "yumuşak huylu",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "gentle, mild-tempered, meek, docile",
+  "sentences": [
+    {
+      "id": "yumuşak huylu_s1",
+      "text": "[yumuşak huylu] bir kişi hiç kimseyle tartışmaz.",
+      "note": null
+    },
+    {
+      "id": "yumuşak huylu_s2",
+      "text": "Öğretmen [yumuşak huylu] ama çok etkili.",
+      "note": null
+    },
+    {
+      "id": "yumuşak huylu_s3",
+      "text": "[yumuşak huylu] insanlar sık sık istismara uğrarlar.",
+      "note": null
+    },
+    {
+      "id": "yumuşak huylu_s4",
+      "text": "Kütüphaneci [yumuşak huylu] bir şekilde soruları yanıtladı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yumuşak huylu_r1",
+      "prompt": "Kişiliği yumuşak, nazik ve çatışmayı seven olmayan insan?",
+      "accepted_forms": ["yumuşak huylu", "yumuşak huylunun", "yumuşak huyluda", "yumuşak huyludan"],
+      "note": null
+    },
+    {
+      "id": "yumuşak huylu_r2",
+      "prompt": "Bir kişinin agresif olmayan, zayıf kararlı ve hoşgörülü davranışını tanımlayan?",
+      "accepted_forms": ["yumuşak huylu", "yumuşak huylunun", "yumuşak huyluda", "yumuşak huyludan"],
+      "note": null
+    }
+  ]
+}

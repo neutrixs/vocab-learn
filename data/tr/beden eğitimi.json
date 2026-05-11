@@ -1,0 +1,43 @@
+{
+  "word": "beden eğitimi",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "phrase",
+  "english_gloss": "physical education",
+  "sentences": [
+    {
+      "id": "beden eğitimi_s1",
+      "text": "Okulda [beden eğitimi] dersi haftada üç gün verilmektedir.",
+      "note": null
+    },
+    {
+      "id": "beden eğitimi_s2",
+      "text": "[Beden eğitimi] sınıfında öğrenciler futbol oynuyorlar.",
+      "note": null
+    },
+    {
+      "id": "beden eğitimi_s3",
+      "text": "Üniversitede [beden eğitimi] hocası Mehmet'tir.",
+      "note": null
+    },
+    {
+      "id": "beden eğitimi_s4",
+      "text": "Düzenli [beden eğitimi] aktiviteleri çocukları sağlıklı tutar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "beden eğitimi_r1",
+      "prompt": "Okulda beden ve spor gelişimini amaçlayan dersin adı nedir?",
+      "accepted_forms": ["beden eğitimi", "beden eğitimini"],
+      "note": null
+    },
+    {
+      "id": "beden eğitimi_r2",
+      "prompt": "Öğrenciler ... sırasında stadyumda antreman yaparlar.",
+      "accepted_forms": ["beden eğitiminde", "beden eğitimi"],
+      "note": null
+    }
+  ]
+}

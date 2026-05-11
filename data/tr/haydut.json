@@ -1,0 +1,41 @@
+{
+  "word": "haydut",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "bandit, outlaw",
+  "sentences": [
+    {
+      "id": "haydut_s1",
+      "text": "Osmanlı döneminde [haydut]lar dağlarda saklanırdı.",
+      "note": null
+    },
+    {
+      "id": "haydut_s2",
+      "text": "Bu [haydut], yolcuları soymuş.",
+      "note": null
+    },
+    {
+      "id": "haydut_s3",
+      "text": "[Haydut]luk suç olarak cezalandırılır.",
+      "note": null
+    },
+    {
+      "id": "haydut_s4",
+      "text": "Tarih kitapları bu ünlü [haydut]tan bahseder.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "haydut_r1",
+      "prompt": "Dağlarda yaşayan ve yolcuları soyan kişiye ne denir?",
+      "accepted_forms": ["haydut", "haydut'a", "hayduttur", "haydut'un"]
+    },
+    {
+      "id": "haydut_r2",
+      "prompt": "Tarihi romanlarda yer alan bu ... insanları korkuttu.",
+      "accepted_forms": ["haydut", "haydutun", "haydutlar", "haydutın"]
+    }
+  ]
+}

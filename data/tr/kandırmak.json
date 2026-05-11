@@ -1,0 +1,43 @@
+{
+  "word": "kandırmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to deceive, to trick, to cheat",
+  "sentences": [
+    {
+      "id": "kandırmak_s1",
+      "text": "Sahtekâr bütün müşterileri [kandır] etmişti.",
+      "note": null
+    },
+    {
+      "id": "kandırmak_s2",
+      "text": "Beni uydurmacı hikayeyle [kandır] etmeye çalışma.",
+      "note": null
+    },
+    {
+      "id": "kandırmak_s3",
+      "text": "Dolandırıcı insanları parayı hızlıca vermesine [kandır] etti.",
+      "note": null
+    },
+    {
+      "id": "kandırmak_s4",
+      "text": "Ona yalan söyleyerek [kandır] etmek etik değildi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kandırmak_r1",
+      "prompt": "Birisini aldatmak, hileli bir şekilde yanıltmak için kullanılan fiil?",
+      "accepted_forms": ["kandır", "kandırır", "kandırdı", "kandırmak", "kandırma"],
+      "note": null
+    },
+    {
+      "id": "kandırmak_r2",
+      "prompt": "Birini yanlış bir inanca veya yapıya ikna ederek çıkar elde etmek?",
+      "accepted_forms": ["kandır", "kandırır", "kandırdı", "kandırmak", "kandırma"],
+      "note": null
+    }
+  ]
+}

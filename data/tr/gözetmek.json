@@ -1,0 +1,43 @@
+{
+  "word": "gözetmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to watch, to observe, to guard, to supervise",
+  "sentences": [
+    {
+      "id": "gözetmek_s1",
+      "text": "Öğretmen sınıfı dikkatle [gözetme]ktedir.",
+      "note": null
+    },
+    {
+      "id": "gözetmek_s2",
+      "text": "Asker sınırları gece [gözetme]ktor.",
+      "note": "gözetmek has variant gözetimi/gözetir in some contexts"
+    },
+    {
+      "id": "gözetmek_s3",
+      "text": "Anne, bahçede oynayan çocuklarını [gözetme]ktedir.",
+      "note": null
+    },
+    {
+      "id": "gözetmek_s4",
+      "text": "Kameralar [gözetme]k ve izlemek için kurulmuştur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gözetmek_r1",
+      "prompt": "Birini veya bir şeyi dikkatle izlemek ve kontrol altında tutmak ... olarak adlandırılır.",
+      "accepted_forms": ["gözetmek", "gözetler", "gözetme", "gözetiyor"],
+      "note": null
+    },
+    {
+      "id": "gözetmek_r2",
+      "prompt": "Bir sahada veya etkinlikte düzeni sağlamak için insanları gözlemlemek ... demektir.",
+      "accepted_forms": ["gözetmek", "gözetmektir"],
+      "note": null
+    }
+  ]
+}

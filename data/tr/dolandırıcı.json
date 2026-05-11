@@ -1,0 +1,48 @@
+{
+  "word": "dolandırıcı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "swindler, fraud, con artist",
+  "sentences": [
+    {
+      "id": "dolandırıcı_s1",
+      "text": "Sahte yatırım şemasını yöneteni [dolandırıcı] polis tarafından yakalandı.",
+      "note": null
+    },
+    {
+      "id": "dolandırıcı_s2",
+      "text": "Çok sayıda [dolandırıcı] çevrimiçi satış sitelerini sahte mağazalar olarak kurmaktadırlar.",
+      "note": null
+    },
+    {
+      "id": "dolandırıcı_s3",
+      "text": "Bu [dolandırıcı] yaşlı insanları telefonla arayarak paralarını almıştır.",
+      "note": null
+    },
+    {
+      "id": "dolandırıcı_s4",
+      "text": "[Dolandırıcı]nın işlediği suç çok sayıda insanı finansal olarak zarara uğratmıştır.",
+      "note": null
+    },
+    {
+      "id": "dolandırıcı_s5",
+      "text": "Polis [dolandırıcı] çetesini başarıyla çözmüştür.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dolandırıcı_r1",
+      "prompt": "İnsanları hile ve yalan söylemeyle kandırıp paralarını veya değerli eşyalarını alan kimse nedir?",
+      "accepted_forms": ["dolandırıcı", "dolandırıcıyı", "dolandırıcının", "dolandırıcılar", "dolandırıcıya"],
+      "note": null
+    },
+    {
+      "id": "dolandırıcı_r2",
+      "prompt": "Sahte yatırım promisleri veya yalan sözlerle insanların menkul değerlerini ele geçiren kişi kimdir?",
+      "accepted_forms": ["dolandırıcı", "dolandırıcının", "dolandırıcıyı", "dolandırıcılara", "dolandırıcılı"],
+      "note": null
+    }
+  ]
+}

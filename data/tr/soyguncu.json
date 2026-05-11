@@ -1,0 +1,41 @@
+{
+  "word": "soyguncu",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "robber, thief",
+  "sentences": [
+    {
+      "id": "soyguncu_s1",
+      "text": "[Soyguncu]lar bankayı soymaya çalıştı.",
+      "note": null
+    },
+    {
+      "id": "soyguncu_s2",
+      "text": "Bu [soyguncu]nun kimliği belirlenmiştir.",
+      "note": null
+    },
+    {
+      "id": "soyguncu_s3",
+      "text": "Polis [soyguncu]lardan arıyor.",
+      "note": null
+    },
+    {
+      "id": "soyguncu_s4",
+      "text": "[Soyguncu]nun ele geçirilmesi herkesin rahatını sağladı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "soyguncu_r1",
+      "prompt": "Halk bankaya girip para çalan kişiye ne denir?",
+      "accepted_forms": ["soyguncu", "soyguncu'ya", "soyguncular", "soyguncunun"]
+    },
+    {
+      "id": "soyguncu_r2",
+      "prompt": "Polis bu ... karşısında çaresiz kaldı.",
+      "accepted_forms": ["soyguncu", "soyguncuyu", "soyguncunun", "soyguncu'yu"]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "bölmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to divide, to split, to separate",
+  "sentences": [
+    {
+      "id": "bölmek_s1",
+      "text": "Kızlar odayı perdeyle iki parçaya [böldüler].",
+      "note": null
+    },
+    {
+      "id": "bölmek_s2",
+      "text": "Öğretmen sınıfı gruplara [böldü].",
+      "note": null
+    },
+    {
+      "id": "bölmek_s3",
+      "text": "Miras kardeşler arasında adil şekilde [bölündü].",
+      "note": null
+    },
+    {
+      "id": "bölmek_s4",
+      "text": "Bir sayıyı başka bir sayıya [bölmek] için matematik bilgisi gerekir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bölmek_r1",
+      "prompt": "Bir şeyi iki ya da daha fazla parçaya ayırmak anlamındaki fiil nedir?",
+      "accepted_forms": ["bölmek", "böldü", "böldüler", "bölünen"],
+      "note": null
+    },
+    {
+      "id": "bölmek_r2",
+      "prompt": "Matematikte bir sayıyı başka bir sayıya ... işlemi yaparız.",
+      "accepted_forms": ["bölmek", "bölüyüz"],
+      "note": null
+    }
+  ]
+}

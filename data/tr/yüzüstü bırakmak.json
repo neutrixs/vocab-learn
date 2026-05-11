@@ -1,0 +1,43 @@
+{
+  "word": "yüzüstü bırakmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to abandon, to desert, to leave in the lurch, to let down",
+  "sentences": [
+    {
+      "id": "yüzüstü bırakmak_s1",
+      "text": "Arkadaşını zor zamanında [yüzüstü bırakmak] çok alçak bir davranıştır.",
+      "note": null
+    },
+    {
+      "id": "yüzüstü bırakmak_s2",
+      "text": "Güven ve bağlılık çerçevesinde, kimseyi [yüzüstü bırakmak] yasaktır.",
+      "note": null
+    },
+    {
+      "id": "yüzüstü bırakmak_s3",
+      "text": "Hastalık onu zayıf bir konumda [yüzüstü bırakmak] ve tek başına kaldı.",
+      "note": null
+    },
+    {
+      "id": "yüzüstü bırakmak_s4",
+      "text": "Proje başında olan kişiyi [yüzüstü bırakmak] yapılan çalışmayı tehlikeye attı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yüzüstü bırakmak_r1",
+      "prompt": "Zor zamanda insanı düşüp kalmasına veya hiçbir yardım görmemesine sebep olmak anlamında hangi fiil cümlesi kullanılır?",
+      "accepted_forms": ["yüzüstü bırakmak", "yüzüstü bıraktı", "yüzüstü bırakması", "terk etmek"],
+      "note": null
+    },
+    {
+      "id": "yüzüstü bırakmak_r2",
+      "prompt": "Zorluklarla karşı karşıya olan arkadaşını ... sadece vicdani sorumluluk değil, aynı zamanda dostluk görevidir.",
+      "accepted_forms": ["yüzüstü bırakmamak", "yüzüstü bırakma", "terketmemek", "destek olmak"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "terbiye",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "upbringing, education, manners",
+  "sentences": [
+    {
+      "id": "terbiye_s1",
+      "text": "Ailenin verdiği [terbiye] çocuğun karakterini şekillendirir.",
+      "note": null
+    },
+    {
+      "id": "terbiye_s2",
+      "text": "Saygılı davranışlar iyi [terbiye] göstergesidir.",
+      "note": null
+    },
+    {
+      "id": "terbiye_s3",
+      "text": "Okul ve ailede alınan [terbiye] bireyi etkilemektedir.",
+      "note": null
+    },
+    {
+      "id": "terbiye_s4",
+      "text": "[terbiye] almayan çocuklar toplumda sorun yaşarlar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "terbiye_r1",
+      "prompt": "Çocuğa verilen iyi ... onun geleceğini belirler.",
+      "accepted_forms": ["terbiye", "terbiyeleri"],
+      "note": null
+    },
+    {
+      "id": "terbiye_r2",
+      "prompt": "Başarılı bireyler genellikle iyi ... görmüş kişilerdir.",
+      "accepted_forms": ["terbiye", "terbiyesi"],
+      "note": null
+    }
+  ]
+}

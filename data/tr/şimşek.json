@@ -1,0 +1,43 @@
+{
+  "word": "şimşek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "lightning, flash of lightning",
+  "sentences": [
+    {
+      "id": "şimşek_s1",
+      "text": "[şimşek] gökyüzünü parlatan hızlı bir ışık darbesidir.",
+      "note": null
+    },
+    {
+      "id": "şimşek_s2",
+      "text": "Kız kardeş [şimşek] gördü ve korku içinde ağlamaya başladı.",
+      "note": null
+    },
+    {
+      "id": "şimşek_s3",
+      "text": "Kuvvetli fırtınada bir [şimşek] çakması elektrik kesintisine neden oldu.",
+      "note": null
+    },
+    {
+      "id": "şimşek_s4",
+      "text": "[şimşek] yıldırımdan daha hızlı hareket eder ve gözle takip edilemez.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şimşek_r1",
+      "prompt": "Fırtının en hızlı ve ışıldayan özelliği olan, bulutlar arasında veya buluttan yere inen elektrik boşalmasını hangi kelimeyle adlandırırız?",
+      "accepted_forms": ["şimşek", "şimşekleri", "şimşek çakması", "yıldırım"],
+      "note": null
+    },
+    {
+      "id": "şimşek_r2",
+      "prompt": "Fırtınanın en korkunç anları, gök gürültüsü ve ... aynı anda çakması zamanıdır.",
+      "accepted_forms": ["şimşek", "şimşeklerin", "yıldırım", "elektrik"],
+      "note": null
+    }
+  ]
+}

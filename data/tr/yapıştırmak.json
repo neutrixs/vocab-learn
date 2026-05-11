@@ -1,0 +1,43 @@
+{
+  "word": "yapıştırmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to stick, to paste, to glue",
+  "sentences": [
+    {
+      "id": "yapıştırmak_s1",
+      "text": "Çocuk resim kağıdına sticker [yapıştır]dı.",
+      "note": null
+    },
+    {
+      "id": "yapıştırmak_s2",
+      "text": "Duvarına resimleri [yapıştır]mak istiyorum.",
+      "note": null
+    },
+    {
+      "id": "yapıştırmak_s3",
+      "text": "Kağıtları tutkal ile [yapıştır]mak gerekmektedir.",
+      "note": null
+    },
+    {
+      "id": "yapıştırmak_s4",
+      "text": "Kaybolan tiyatro bileti biraz da açısı [yapıştır]mak için biletin kenarını yapıştırdı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yapıştırmak_r1",
+      "prompt": "Tutkal veya yapışkan madde kullanarak iki şeyi bir araya getirmek anlamını ifade eden fiil nedir?",
+      "accepted_forms": ["yapıştırmak", "yapıştır", "yapıştırma"],
+      "note": null
+    },
+    {
+      "id": "yapıştırmak_r2",
+      "prompt": "Poster duvarın üzerine ... için yapışkan bantı kullandı.",
+      "accepted_forms": ["yapıştırmak", "yapıştırması", "yapıştırması"],
+      "note": null
+    }
+  ]
+}

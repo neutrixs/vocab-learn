@@ -1,0 +1,43 @@
+{
+  "word": "kıymetli",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "valuable, precious",
+  "sentences": [
+    {
+      "id": "kıymetli_s1",
+      "text": "Bu [kıymetli] kolye benim için çok önemli.",
+      "note": null
+    },
+    {
+      "id": "kıymetli_s2",
+      "text": "Kütüphanede [kıymetli] kitaplar saklanmaktadır.",
+      "note": null
+    },
+    {
+      "id": "kıymetli_s3",
+      "text": "Zamanı çok [kıymetli] bir kaynaktır.",
+      "note": null
+    },
+    {
+      "id": "kıymetli_s4",
+      "text": "[Kıymetli] taşlar müzayedede satılacak.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kıymetli_r1",
+      "prompt": "Altından yapılmış bir yüzük çok ... (değerli anlamında)",
+      "accepted_forms": ["kıymetli", "kıymetlidir", "kıymettli"],
+      "note": null
+    },
+    {
+      "id": "kıymetli_r2",
+      "prompt": "Bu sanat eserinin ... bir yer vardır müzede",
+      "accepted_forms": ["kıymetli", "kıymettli"],
+      "note": null
+    }
+  ]
+}

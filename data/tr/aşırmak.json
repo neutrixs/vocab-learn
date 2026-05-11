@@ -1,0 +1,43 @@
+{
+  "word": "aşırmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to steal, to pilfer, to lift",
+  "sentences": [
+    {
+      "id": "aşırmak_s1",
+      "text": "Çocuk marketten bir çikolata [aşır]dı.",
+      "note": null
+    },
+    {
+      "id": "aşırmak_s2",
+      "text": "Hırsız bankadan para [aşırma]ya cüret etti.",
+      "note": null
+    },
+    {
+      "id": "aşırmak_s3",
+      "text": "[Aşırılan] eşyaları geri almak zorundayız.",
+      "note": null
+    },
+    {
+      "id": "aşırmak_s4",
+      "text": "Sanat müzesinden bazı tablolar [aşırıl]mıştır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "aşırmak_r1",
+      "prompt": "Sahip olmadığı bir şeyi gizlice alıp götürmek anlamını taşıyan fiil nedir?",
+      "accepted_forms": ["aşırmak", "aşırma", "aşırılan"],
+      "note": null
+    },
+    {
+      "id": "aşırmak_r2",
+      "prompt": "Haraç çalan kişi hakkında ... suçundan dava açıldı.",
+      "accepted_forms": ["aşırmak", "aşırması", "aşırma"],
+      "note": null
+    }
+  ]
+}

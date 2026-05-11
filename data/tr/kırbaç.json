@@ -1,0 +1,41 @@
+{
+  "word": "kırbaç",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "whip, lash (variant of kamçı)",
+  "sentences": [
+    {
+      "id": "kırbaç_s1",
+      "text": "[Kırbaç] hayvanları yönlendirmede kullanılır.",
+      "note": null
+    },
+    {
+      "id": "kırbaç_s2",
+      "text": "Tarihte [kırbaç] ceza aletiydi.",
+      "note": null
+    },
+    {
+      "id": "kırbaç_s3",
+      "text": "[Kırbaç]ın ucu çok keskindir.",
+      "note": null
+    },
+    {
+      "id": "kırbaç_s4",
+      "text": "[Kırbaç] sesi insanları korkutur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kırbaç_r1",
+      "prompt": "Sesi çok yüksek olan ve hayvanlara ıslak atılan ceza aletidir nedir?",
+      "accepted_forms": ["kırbaç", "kırbaç'ı", "kırbaçı", "kırbaçlar"]
+    },
+    {
+      "id": "kırbaç_r2",
+      "prompt": "Bu ... hayvan üzerine vurulduğunda ses çıkar.",
+      "accepted_forms": ["kırbaç", "kırbaç'ın", "kırbaçın", "kırbaçla"]
+    }
+  ]
+}

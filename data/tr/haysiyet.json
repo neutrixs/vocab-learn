@@ -1,0 +1,43 @@
+{
+  "word": "haysiyet",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "honor, dignity, self-respect",
+  "sentences": [
+    {
+      "id": "haysiyet_s1",
+      "text": "Bir insanın [haysiyet]i, onun kimliğinin en önemli parçasıdır.",
+      "note": null
+    },
+    {
+      "id": "haysiyet_s2",
+      "text": "Haklı olmakla ilgili [haysiyet] meselesi yüzünden çekişme çıktı.",
+      "note": "ilgili = related"
+    },
+    {
+      "id": "haysiyet_s3",
+      "text": "[Haysiyet]ini korumak için cesurca bir karar aldı.",
+      "note": null
+    },
+    {
+      "id": "haysiyet_s4",
+      "text": "Çalışanların [haysiyet]ine saygı göstermek işverenlerin sorumluluk.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "haysiyet_r1",
+      "prompt": "İnsan değerini ve öz saygısını ifade eden soyut kavram nedir? ...",
+      "accepted_forms": ["haysiyet", "haysiyeti", "haysiyetine", "haysiyetim"],
+      "note": null
+    },
+    {
+      "id": "haysiyet_r2",
+      "prompt": "Birisinin kişisel namusu ve onuruna karşılık gelen kelime hangisidir?",
+      "accepted_forms": ["haysiyet", "haysiyeti", "haysiyetini"],
+      "note": null
+    }
+  ]
+}

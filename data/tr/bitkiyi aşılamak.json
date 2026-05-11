@@ -1,0 +1,38 @@
+{
+  "word": "bitkiyi aşılamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to graft a plant",
+  "sentences": [
+    {
+      "id": "bitkiyi aşılamak_s1",
+      "text": "Bahçıvan, elma ağacına armut dalı [aşılamak] istedi.",
+      "note": null
+    },
+    {
+      "id": "bitkiyi aşılamak_s2",
+      "text": "Bu [bitkiyi aşılamak] tekniği çiftçilerin geleneksel yöntemidir.",
+      "note": null
+    },
+    {
+      "id": "bitkiyi aşılamak_s3",
+      "text": "Yazın başında bahçıvana [bitkiyi aşılamak] işini yaptırmaya başladı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bitkiyi aşılamak_r1",
+      "prompt": "Bahçıvaning amacı çeşitli meyveleri bir ağaca ... için farklı dallar kullanmasıdır.",
+      "accepted_forms": ["aşılamak", "aşılamaktır", "aşıladığı"],
+      "note": null
+    },
+    {
+      "id": "bitkiyi aşılamak_r2",
+      "prompt": "Çiftçiler verimliliği artırmak için ... tekniğini sıkça kullanırlar.",
+      "accepted_forms": ["aşılama", "bitkiyi aşılamak", "aşılayan"],
+      "note": null
+    }
+  ]
+}

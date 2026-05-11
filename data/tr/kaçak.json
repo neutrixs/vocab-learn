@@ -1,0 +1,43 @@
+{
+  "word": "kaçak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "smuggled, illegal, clandestine",
+  "sentences": [
+    {
+      "id": "kaçak_s1",
+      "text": "Gümrüklerde [kaçak] mallar yakalanıyor.",
+      "note": null
+    },
+    {
+      "id": "kaçak_s2",
+      "text": "[Kaçak] elektrik kullanımı suçtur.",
+      "note": null
+    },
+    {
+      "id": "kaçak_s3",
+      "text": "Polis [kaçak] yayılayan yapıları bastı.",
+      "note": null
+    },
+    {
+      "id": "kaçak_s4",
+      "text": "Bu [kaçak] üretim tesisi kapatılmıştır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kaçak_r1",
+      "prompt": "Sınırdan gizli geçirilen ve yasal olmayan ... mallar gümrükte bulundu",
+      "accepted_forms": ["kaçak", "kaçak mallar"],
+      "note": null
+    },
+    {
+      "id": "kaçak_r2",
+      "prompt": "Devlete vergi ödenmeden yapılan ... üretim yasa dışıdır",
+      "accepted_forms": ["kaçak", "kaçak üretim"],
+      "note": null
+    }
+  ]
+}

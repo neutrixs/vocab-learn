@@ -1,0 +1,43 @@
+{
+  "word": "küçümsemek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to belittle, to underestimate, to scorn",
+  "sentences": [
+    {
+      "id": "küçümsemek_s1",
+      "text": "Onun yeteneklerini [küçümse]memek gerekir.",
+      "note": null
+    },
+    {
+      "id": "küçümsemek_s2",
+      "text": "Başarılar [küçümsen]miş bir işçinin başında olabilir.",
+      "note": null
+    },
+    {
+      "id": "küçümsemek_s3",
+      "text": "Rakibini [küçümsemek] çoğu zaman mağlubiyete yol açar.",
+      "note": null
+    },
+    {
+      "id": "küçümsemek_s4",
+      "text": "Sporcu hazırlarını [küçümsemedi], aksine iyi bir sonuç elde etti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "küçümsemek_r1",
+      "prompt": "Bir kişinin veya şeyin önemini ve değerini gözardı etmek anlamını taşıyan fiil nedir?",
+      "accepted_forms": ["küçümsemek", "küçümseme", "küçümsenen"],
+      "note": null
+    },
+    {
+      "id": "küçümsemek_r2",
+      "prompt": "Başarısını ... olan birisi daima mahkum olur.",
+      "accepted_forms": ["küçümsenen", "küçümsemesi", "küçümsemek"],
+      "note": null
+    }
+  ]
+}

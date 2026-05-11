@@ -1,0 +1,43 @@
+{
+  "word": "inme",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "stroke (medical condition)",
+  "sentences": [
+    {
+      "id": "inme_s1",
+      "text": "Babası 65 yaşında [inme] geçirdi.",
+      "note": null
+    },
+    {
+      "id": "inme_s2",
+      "text": "Yüksek tansiyon [inme] riskini artırır.",
+      "note": null
+    },
+    {
+      "id": "inme_s3",
+      "text": "[İnme] sonrasında fizik tedavi çok önemlidir.",
+      "note": null
+    },
+    {
+      "id": "inme_s4",
+      "text": "Doktor hastanın [inme] belirtileri olup olmadığını kontrol etti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "inme_r1",
+      "prompt": "Beyinde kan akışı aniden durduğunda, kişi ... geçirir.",
+      "accepted_forms": ["inme", "inmesi", "inmeden", "inmesi"],
+      "note": null
+    },
+    {
+      "id": "inme_r2",
+      "prompt": "Yüksek yaşlı birçok kişi ... veya kalp hastalığı riskinde olabilir.",
+      "accepted_forms": ["inme", "inmesi", "inmelerin", "inmeler"],
+      "note": null
+    }
+  ]
+}

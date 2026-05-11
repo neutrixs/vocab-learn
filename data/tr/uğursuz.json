@@ -1,0 +1,43 @@
+{
+  "word": "uğursuz",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "unlucky, inauspicious, ill-fated",
+  "sentences": [
+    {
+      "id": "uğursuz_s1",
+      "text": "[Uğursuz] bir durum meydana geldi.",
+      "note": null
+    },
+    {
+      "id": "uğursuz_s2",
+      "text": "Bu [uğursuz] işe başlamış olmaktan pişman oldu.",
+      "note": null
+    },
+    {
+      "id": "uğursuz_s3",
+      "text": "[Uğursuz] bir hadir, evlilik töreninde kaotik bir atmosfer yaratmıştır.",
+      "note": null
+    },
+    {
+      "id": "uğursuz_s4",
+      "text": "İlk [uğursuz] seçim, onları başarısızlığa götürdü.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "uğursuz_r1",
+      "prompt": "Şansı kötü görünen, talihsiz bir kişi veya olay ... olarak adlandırılır.",
+      "accepted_forms": ["uğursuz", "uğursuzu", "uğursuzlar", "uğursuzluk"],
+      "note": null
+    },
+    {
+      "id": "uğursuz_r2",
+      "prompt": "Türk kültüründe, kötü enerjisi olan veya şans getirmeyen bir durum ... sayılır.",
+      "accepted_forms": ["uğursuz", "uğursuzdu"],
+      "note": null
+    }
+  ]
+}

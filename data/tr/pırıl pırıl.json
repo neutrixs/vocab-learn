@@ -1,0 +1,43 @@
+{
+  "word": "pırıl pırıl",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adverb",
+  "english_gloss": "sparkling, glittering, shiny",
+  "sentences": [
+    {
+      "id": "pırıl pırıl_s1",
+      "text": "Yeni araba [pırıl pırıl] ve çok güzel görünüyor.",
+      "note": null
+    },
+    {
+      "id": "pırıl pırıl_s2",
+      "text": "Inci [pırıl pırıl] ışıl ışıl parıldıyor.",
+      "note": null
+    },
+    {
+      "id": "pırıl pırıl_s3",
+      "text": "Pencere cam [pırıl pırıl] temizdir.",
+      "note": null
+    },
+    {
+      "id": "pırıl pırıl_s4",
+      "text": "Konyada altın takılar [pırıl pırıl] sergiye konmuştur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "pırıl pırıl_r1",
+      "prompt": "Bir şeyin parlak ışığı ve parlayan görünüş için hangi sözcük sıkça kullanılır?",
+      "accepted_forms": ["pırıl pırıl", "pırıl pırıla", "pırıl pırıldan"],
+      "note": null
+    },
+    {
+      "id": "pırıl pırıl_r2",
+      "prompt": "Mücevherat ... temiz tutulmuş ve güzelliğini korumaktadır.",
+      "accepted_forms": ["pırıl pırıl", "pırıl pırılca", "pırıl pırıl"],
+      "note": null
+    }
+  ]
+}

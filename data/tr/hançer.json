@@ -1,0 +1,43 @@
+{
+  "word": "hançer",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "dagger",
+  "sentences": [
+    {
+      "id": "hançer_s1",
+      "text": "Osmanlı döneminde askerler [hançer] taşırlardı.",
+      "note": null
+    },
+    {
+      "id": "hançer_s2",
+      "text": "Müzede eski bir [hançer] sergilenmektedir.",
+      "note": null
+    },
+    {
+      "id": "hançer_s3",
+      "text": "[hançer] kısa fakat keskin bir bıçaktır.",
+      "note": null
+    },
+    {
+      "id": "hançer_s4",
+      "text": "Kahramanda [hançer]ler çeşitli harita ve desenlerle dekore edilmiştir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hançer_r1",
+      "prompt": "Osmanlı döneminde asiler tarafından taşınan, kısa ve keskin bıçak şeklindeki silah nedir?",
+      "accepted_forms": ["hançer", "hançeri", "hançerde"],
+      "note": null
+    },
+    {
+      "id": "hançer_r2",
+      "prompt": "Tarihçi müzede eski bir ... yayını incelemiş ve bunun 500 yıl öncesine ait olduğunu söylemiştir.",
+      "accepted_forms": ["hançer", "hançerin", "hançerle"],
+      "note": null
+    }
+  ]
+}

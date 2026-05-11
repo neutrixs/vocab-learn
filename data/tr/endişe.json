@@ -1,0 +1,38 @@
+{
+  "word": "endişe",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "worry, anxiety, concern",
+  "sentences": [
+    {
+      "id": "endişe_s1",
+      "text": "Sağlığımız hakkındaki [endişe] hepimizi etkiliyor.",
+      "note": null
+    },
+    {
+      "id": "endişe_s2",
+      "text": "Geleceği hakkında [endişe] duymak çok normal bir duygudur.",
+      "note": null
+    },
+    {
+      "id": "endişe_s3",
+      "text": "Çok fazla [endişe] yapmak sağlığımıza zarar verebilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "endişe_r1",
+      "prompt": "Bir şey hakkında duyulan kaygı, düşünce ve tedirginliği ifade eden kelime nedir?",
+      "accepted_forms": ["endişe", "endişesi", "endişeye", "endişeden"],
+      "note": null
+    },
+    {
+      "id": "endişe_r2",
+      "prompt": "Sınavdan önce hissettiği ___ yüzünden iyi uyuyamadı.",
+      "accepted_forms": ["endişe", "endişesi", "endişeyi", "endişeydi"],
+      "note": null
+    }
+  ]
+}

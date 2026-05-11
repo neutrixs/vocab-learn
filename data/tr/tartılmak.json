@@ -1,0 +1,43 @@
+{
+  "word": "tartılmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to be weighed, to be discussed, to be debated",
+  "sentences": [
+    {
+      "id": "tartılmak_s1",
+      "text": "Bu konu parlamento'da uzun süre [tartılmak] zorunda kaldı.",
+      "note": null
+    },
+    {
+      "id": "tartılmak_s2",
+      "text": "Meyvelerin kalitesi satın almadan önce [tartılmak] gerekir.",
+      "note": null
+    },
+    {
+      "id": "tartılmak_s3",
+      "text": "Öneriler ayrıntıyla [tartılmak] ve değerlendirilmesi gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "tartılmak_s4",
+      "text": "Hasta haftada iki kez [tartılmak] için klinige gitmektedir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tartılmak_r1",
+      "prompt": "Bir sorunun tüm yönleri dikkatlice incelenip konuşulması anlamına gelen fiil nedir?",
+      "accepted_forms": ["tartılmak", "tartışılmak", "tartılması", "tartılmıştır"],
+      "note": null
+    },
+    {
+      "id": "tartılmak_r2",
+      "prompt": "Doktor, hastayı tedavinin etkisini görmek için düzenli olarak ... gerektiğini söyledi.",
+      "accepted_forms": ["tartılması", "tartılmasını", "tartmak", "tartılması gerek"],
+      "note": null
+    }
+  ]
+}

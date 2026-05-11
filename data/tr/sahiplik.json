@@ -1,0 +1,53 @@
+{
+  "word": "sahiplik",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "ownership, proprietorship",
+  "sentences": [
+    {
+      "id": "sahiplik_s1",
+      "text": "Evin [sahiplik]i, anneden oğula geçti.",
+      "note": null
+    },
+    {
+      "id": "sahiplik_s2",
+      "text": "Işletme [sahiplik]i hakkında hukuki anlaşmazlıklar vardı.",
+      "note": null
+    },
+    {
+      "id": "sahiplik_s3",
+      "text": "Arazi [sahiplik]ini kanıtlamak için belge sunması gerekti.",
+      "note": null
+    },
+    {
+      "id": "sahiplik_s4",
+      "text": "[Sahiplik] hakkı, yasalar tarafından korunur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sahiplik_r1",
+      "prompt": "Bir şeyin kime ait olduğunu gösteren hak veya durum nedir?",
+      "accepted_forms": [
+        "sahiplik",
+        "sahiplikleri",
+        "sahipliği",
+        "sahipliğin"
+      ],
+      "note": null
+    },
+    {
+      "id": "sahiplik_r2",
+      "prompt": "Taşınmazın hukuki ... için tapuda kayıtlı olması gerekir.",
+      "accepted_forms": [
+        "sahiplik",
+        "sahiplikleri",
+        "sahipliği",
+        "sahipliğin"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "versiyon",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "version, variant, interpretation",
+  "sentences": [
+    {
+      "id": "versiyon_s1",
+      "text": "Filmin İngilizce [versiyon]u, Türkçe çevirisiyle farklı.",
+      "note": null
+    },
+    {
+      "id": "versiyon_s2",
+      "text": "Olay hakkında birçok farklı [versiyon] vardı.",
+      "note": null
+    },
+    {
+      "id": "versiyon_s3",
+      "text": "Resepsiyonist, [versiyon]unu anlatmak istedi.",
+      "note": null
+    },
+    {
+      "id": "versiyon_s4",
+      "text": "Bu müzik parçasının canlı [versiyon]u daha etkileyici.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "versiyon_r1",
+      "prompt": "Aynı şeyin farklı biçimde anlatılmış ya da yapılmış şekline ne denir?",
+      "accepted_forms": [
+        "versiyon",
+        "versiyonu",
+        "versiyonun",
+        "versiyonlar"
+      ],
+      "note": null
+    },
+    {
+      "id": "versiyon_r2",
+      "prompt": "Bu kitabın İngilizce ... çok daha kısa.",
+      "accepted_forms": [
+        "versiyon",
+        "versiyonu",
+        "versiyonun",
+        "versiyonlar"
+      ],
+      "note": null
+    }
+  ]
+}

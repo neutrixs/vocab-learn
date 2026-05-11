@@ -1,0 +1,41 @@
+{
+  "word": "elli elli",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "phrase",
+  "english_gloss": "fifty-fifty, equal split",
+  "sentences": [
+    {
+      "id": "elli elli_s1",
+      "text": "Kazancı [elli elli] paylaştırma kararı aldılar.",
+      "note": null
+    },
+    {
+      "id": "elli elli_s2",
+      "text": "Boyu [elli elli] orandadır.",
+      "note": null
+    },
+    {
+      "id": "elli elli_s3",
+      "text": "Sorumluluk [elli elli] paylaşılacak.",
+      "note": null
+    },
+    {
+      "id": "elli elli_s4",
+      "text": "Fırsat [elli elli] tüm taraflara açık.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "elli elli_r1",
+      "prompt": "Her iki kişi veya taraf eşit şekilde pay aldığında ne denir?",
+      "accepted_forms": ["elli elli", "elli elli olarak", "elli elli paylaş", "elli elli bölüş"]
+    },
+    {
+      "id": "elli elli_r2",
+      "prompt": "Ortaklığın kâr ... bölünecektir.",
+      "accepted_forms": ["elli elli", "elli elli'ye", "elli elliye", "elli elli olarak"]
+    }
+  ]
+}

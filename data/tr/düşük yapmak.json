@@ -1,0 +1,38 @@
+{
+  "word": "düşük yapmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to lower, to reduce",
+  "sentences": [
+    {
+      "id": "düşük yapmak_s1",
+      "text": "Ses düzeyini [düşük yapmak] için uzaktan kumandayı kullan.",
+      "note": null
+    },
+    {
+      "id": "düşük yapmak_s2",
+      "text": "Fiyatları [düşük yaparak] daha fazla müşteri çekmeyi hedefliyoruz.",
+      "note": null
+    },
+    {
+      "id": "düşük yapmak_s3",
+      "text": "Hava sıcaklığı bu hafta çok [düşük yapacak].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "düşük yapmak_r1",
+      "prompt": "Gürültü çok fazla olduğu için onu azaltmak gerekiyordu. Radyonun sesini ___.",
+      "accepted_forms": ["düşük yaptı", "düşük yapmak", "düşük yapmalı", "düşük yapması"],
+      "note": null
+    },
+    {
+      "id": "düşük yapmak_r2",
+      "prompt": "Kaliteden ödün vermeden ürün maliyetini azaltmak istiyoruz. Fiyatları ___.",
+      "accepted_forms": ["düşük yapmalıyız", "düşük yapacağız", "düşük yapmak", "düşük yaptık"],
+      "note": null
+    }
+  ]
+}

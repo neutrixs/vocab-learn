@@ -1,0 +1,43 @@
+{
+  "word": "araç gereç",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "phrase",
+  "english_gloss": "tools, equipment, implements",
+  "sentences": [
+    {
+      "id": "araç gereç_s1",
+      "text": "Usta, işini yapabilmesi için gerekli tüm [araç gereç] getirdi.",
+      "note": null
+    },
+    {
+      "id": "araç gereç_s2",
+      "text": "Depo'da birçok [araç gereç] depolanmaktadır.",
+      "note": null
+    },
+    {
+      "id": "araç gereç_s3",
+      "text": "Proje için gereken [araç gereç] temininin bir hafta süreceğini düşünüyorum.",
+      "note": null
+    },
+    {
+      "id": "araç gereç_s4",
+      "text": "Bahçe işlemleri için basit [araç gereç] yeterlidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "araç gereç_r1",
+      "prompt": "İşleri yapmak için gerekli malzeme ve aletlere genel olarak ne denir?",
+      "accepted_forms": ["araç gereç", "araç-gereç"],
+      "note": null
+    },
+    {
+      "id": "araç gereç_r2",
+      "prompt": "Marangozun çalışması için lazım olan ... neler?",
+      "accepted_forms": ["araç gereç", "araç-gereç"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "adap",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "courtesy, propriety, politeness",
+  "sentences": [
+    {
+      "id": "adap_s1",
+      "text": "[adap] kurallarına uyarak konuşmalı ve davranmalısın.",
+      "note": null
+    },
+    {
+      "id": "adap_s2",
+      "text": "Misafire karşı gösterilen [adap] onu hoşnut eder.",
+      "note": null
+    },
+    {
+      "id": "adap_s3",
+      "text": "Toplumda [adap] kurallarını bilmek gerekir.",
+      "note": null
+    },
+    {
+      "id": "adap_s4",
+      "text": "[adap] eksikliği insana saygısızlık gösterir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "adap_r1",
+      "prompt": "Resmi bir davet ... ile katılınız.",
+      "accepted_forms": ["adap", "adapla", "adapını"],
+      "note": null
+    },
+    {
+      "id": "adap_r2",
+      "prompt": "Yaşlılara ve öğretmenlere ... göstermek toplum kuralıdır.",
+      "accepted_forms": ["adap", "adabını"],
+      "note": null
+    }
+  ]
+}

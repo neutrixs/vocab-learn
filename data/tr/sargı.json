@@ -1,0 +1,43 @@
+{
+  "word": "sargı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "wrapping, bandage, binding",
+  "sentences": [
+    {
+      "id": "sargı_s1",
+      "text": "Yaralı koluna [sargı] sarılmıştır.",
+      "note": null
+    },
+    {
+      "id": "sargı_s2",
+      "text": "Doktor hastaaya [sargı] pası yaparak iyileşmesini belirtti.",
+      "note": null
+    },
+    {
+      "id": "sargı_s3",
+      "text": "Çiçekler kağıt [sargı] ile guzel bir şekilde sunulmuştur.",
+      "note": null
+    },
+    {
+      "id": "sargı_s4",
+      "text": "[Sargı] dökülse diye kulağını kontrol etti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sargı_r1",
+      "prompt": "Kırılan kolun taşınması için doktor ... yapmıştır",
+      "accepted_forms": ["sargı", "sargısı", "sargılar"],
+      "note": null
+    },
+    {
+      "id": "sargı_r2",
+      "prompt": "Hediye paketlerin üzeri dekoratif ... ile kaplanmıştır",
+      "accepted_forms": ["sargı", "sargılarla"],
+      "note": null
+    }
+  ]
+}

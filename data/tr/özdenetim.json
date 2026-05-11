@@ -1,0 +1,41 @@
+{
+  "word": "özdenetim",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "self-control, self-discipline",
+  "sentences": [
+    {
+      "id": "özdenetim_s1",
+      "text": "[Özdenetim] başarının anahtarıdır.",
+      "note": null
+    },
+    {
+      "id": "özdenetim_s2",
+      "text": "Sporcu [özdenetim] disipliniyle çalışır.",
+      "note": null
+    },
+    {
+      "id": "özdenetim_s3",
+      "text": "[Özdenetim]i geliştirmek zaman alır.",
+      "note": null
+    },
+    {
+      "id": "özdenetim_s4",
+      "text": "Öğrenciler [özdenetim] öğrenmelidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "özdenetim_r1",
+      "prompt": "Kendi davranışlarını kontrol etme yeteneği nedir?",
+      "accepted_forms": ["özdenetim", "özdenetimi", "özdenetimin", "özdenetimler"]
+    },
+    {
+      "id": "özdenetim_r2",
+      "prompt": "Başarılı insanlar güçlü ... geliştirir.",
+      "accepted_forms": ["özdenetim", "özdenetimi", "özdenetimim", "özdenetim'i"]
+    }
+  ]
+}

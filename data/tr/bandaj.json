@@ -1,0 +1,43 @@
+{
+  "word": "bandaj",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "bandage, band-aid",
+  "sentences": [
+    {
+      "id": "bandaj_s1",
+      "text": "Küçük yaraya [bandaj] yapıştırdı.",
+      "note": null
+    },
+    {
+      "id": "bandaj_s2",
+      "text": "Hastanede [bandaj] malzemeleri her gün değiştirilir.",
+      "note": null
+    },
+    {
+      "id": "bandaj_s3",
+      "text": "Futbolcu [bandaj] ile başını sardırtti.",
+      "note": null
+    },
+    {
+      "id": "bandaj_s4",
+      "text": "[Bandaj] çıkarmaya çalışırken çocuk ağladı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bandaj_r1",
+      "prompt": "Hafif yaralar için birinci yardım malzemesi olan ... kullanılır",
+      "accepted_forms": ["bandaj", "bandajlar", "bandajı"],
+      "note": null
+    },
+    {
+      "id": "bandaj_r2",
+      "prompt": "Sporcu yaralanmıştır ve hastabakıcı ... ile sarmıştır",
+      "accepted_forms": ["bandaj", "bandajla", "bandajlarla"],
+      "note": null
+    }
+  ]
+}

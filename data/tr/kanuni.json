@@ -1,0 +1,43 @@
+{
+  "word": "kanuni",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "legal, in accordance with law",
+  "sentences": [
+    {
+      "id": "kanuni_s1",
+      "text": "Bu faaliyetler [kanuni] çerçevede yürütülmektedir.",
+      "note": null
+    },
+    {
+      "id": "kanuni_s2",
+      "text": "Hükümetin [kanuni] yetkisi anayasada belirtilmiştir.",
+      "note": null
+    },
+    {
+      "id": "kanuni_s3",
+      "text": "[kanuni] gerekliliklerden kaçınamayız.",
+      "note": null
+    },
+    {
+      "id": "kanuni_s4",
+      "text": "Suçlular [kanuni] olarak mahkemeye çıkarılırlar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kanuni_r1",
+      "prompt": "Devlet müdahalesi ... yetkileri içinde kalmalıdır.",
+      "accepted_forms": ["kanuni", "kanuni"],
+      "note": null
+    },
+    {
+      "id": "kanuni_r2",
+      "prompt": "Bu ... hak ve yükümlülükler sözleşmede yazılıdır.",
+      "accepted_forms": ["kanuni", "kanuni"],
+      "note": null
+    }
+  ]
+}

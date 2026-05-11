@@ -1,0 +1,43 @@
+{
+  "word": "oymacılık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "the craft or art of carving, engraving work",
+  "sentences": [
+    {
+      "id": "oymacılık_s1",
+      "text": "[Oymacılık] sanatı generasyonlar tarafından aktarılmıştır.",
+      "note": null
+    },
+    {
+      "id": "oymacılık_s2",
+      "text": "Dedesinin [oymacılık] mesleğini torunları sürdürmektedir.",
+      "note": null
+    },
+    {
+      "id": "oymacılık_s3",
+      "text": "Anadolu'da [oymacılık] tarihsel bir sanat olarak korunmaya çalışılmaktadır.",
+      "note": null
+    },
+    {
+      "id": "oymacılık_s4",
+      "text": "Genç ustanın [oymacılık] konusundaki başarısı seçkili müşterileri çekmiştir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "oymacılık_r1",
+      "prompt": "Ahşap veya taşları şekillediren zanaatçının mesleki dalına ... denir.",
+      "accepted_forms": ["oymacılık", "oymacılığı", "oymacılığında", "oymacılığın"],
+      "note": null
+    },
+    {
+      "id": "oymacılık_r2",
+      "prompt": "Türk el sanatlarının önemli bir dalı olan ... geleneksel kültürümüzün parçasıdır.",
+      "accepted_forms": ["oymacılık", "oymacılığa", "oymacılığın", "oymacılığında"],
+      "note": null
+    }
+  ]
+}

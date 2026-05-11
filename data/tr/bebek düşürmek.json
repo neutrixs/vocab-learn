@@ -1,0 +1,38 @@
+{
+  "word": "bebek düşürmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to miscarry, to lose a pregnancy",
+  "sentences": [
+    {
+      "id": "bebek düşürmek_s1",
+      "text": "Zor bir dönem yaşadı ve ne yazık ki [bebek düşürdü].",
+      "note": null
+    },
+    {
+      "id": "bebek düşürmek_s2",
+      "text": "Doktor, ağır fiziksel aktiviteden kaçınması gerektiğini, aksi halde [bebek düşürebileceğini] söyledi.",
+      "note": null
+    },
+    {
+      "id": "bebek düşürmek_s3",
+      "text": "Stres altında olan kadınlar bazen [bebek düşürme] riski taşırlar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bebek düşürmek_r1",
+      "prompt": "Hamileliğinde komplikasyonlar yaşadığı için, maalesef gebe kalamadı. O ___ acısını taşıdı.",
+      "accepted_forms": ["bebek düşürdü", "bebek düşürmek", "bebek düşürme", "bebek düşürdüğü"],
+      "note": null
+    },
+    {
+      "id": "bebek düşürmek_r2",
+      "prompt": "Kaza sırasında istemeden hamile kalıp, aylar sonra hamileliğini kaybetti. O ___ yaşadı.",
+      "accepted_forms": ["bebek düşürdü", "bebek düşürme", "bebek düşürmek", "bebek düşürmesi"],
+      "note": null
+    }
+  ]
+}

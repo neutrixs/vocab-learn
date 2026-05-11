@@ -1,0 +1,43 @@
+{
+  "word": "tutkunu",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "devoted, passionate, obsessed, keen",
+  "sentences": [
+    {
+      "id": "tutkunu_s1",
+      "text": "Kardeşim müzik [tutkunu] olduğu için her gün gitar çalıyor.",
+      "note": null
+    },
+    {
+      "id": "tutkunu_s2",
+      "text": "Çalışkanlar spor [tutkunu] kişilerdir.",
+      "note": null
+    },
+    {
+      "id": "tutkunu_s3",
+      "text": "Mimar [tutkunu] bir mühendisler tasarımı insan olmalı.",
+      "note": null
+    },
+    {
+      "id": "tutkunu_s4",
+      "text": "Kitap [tutkunu] okuyucular her haftada yeni eserleri keşfeder.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tutkunu_r1",
+      "prompt": "Bir şeyi çok sevip buna karşı ilgili ve meraklı olan kişiyi tanımlayan sıfat?",
+      "accepted_forms": ["tutkunu", "tutkunu", "tutkununun", "tutkulu"],
+      "note": null
+    },
+    {
+      "id": "tutkunu_r2",
+      "prompt": "Bir aktiviteye veya ilgiye yoğun bir şekilde adanmış ve onu seven kişi?",
+      "accepted_forms": ["tutkunu", "tutkunu", "tutkununun", "tutkulu"],
+      "note": null
+    }
+  ]
+}

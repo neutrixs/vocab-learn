@@ -1,0 +1,53 @@
+{
+  "word": "sıra dağlar",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "mountain range, range of mountains",
+  "sentences": [
+    {
+      "id": "sıra dağlar_s1",
+      "text": "Anadolu'daki [sıra dağlar], coğrafyayı belirler.",
+      "note": null
+    },
+    {
+      "id": "sıra dağlar_s2",
+      "text": "[Sıra dağlar]ın zirvesine çıkmak, zorlayıcıydı.",
+      "note": null
+    },
+    {
+      "id": "sıra dağlar_s3",
+      "text": "Harita üzerinde [sıra dağlar]ı işaretlemek gerekli.",
+      "note": null
+    },
+    {
+      "id": "sıra dağlar_s4",
+      "text": "[Sıra dağlar]ın eteğinde küçük bir köy vardır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sıra dağlar_r1",
+      "prompt": "Birbirinin peşi sıra uzanan, yüksek arazi kütlesinin topluluğuna ne denir?",
+      "accepted_forms": [
+        "sıra dağlar",
+        "sıra dağları",
+        "sıra dağların",
+        "sıra dağların"
+      ],
+      "note": null
+    },
+    {
+      "id": "sıra dağlar_r2",
+      "prompt": "Toros ve Pontus ... coğrafyaya önemli etkide bulunur.",
+      "accepted_forms": [
+        "sıra dağlar",
+        "sıra dağları",
+        "sıra dağların",
+        "sıra dağlarıdır"
+      ],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "hırçın",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "grumpy, irritable, bad-tempered, cantankerous",
+  "sentences": [
+    {
+      "id": "hırçın_s1",
+      "text": "Babası sabahları çok [hırçın] olur ve kimse onunla konuşmak istemez.",
+      "note": null
+    },
+    {
+      "id": "hırçın_s2",
+      "text": "Hasta [hırçın] davranışı gösterdikten sonra hemşire çok sabırlı kaldı.",
+      "note": null
+    },
+    {
+      "id": "hırçın_s3",
+      "text": "Yaşlı adam [hırçın] bir sesle 'Buradan git!' diye bağırdı.",
+      "note": null
+    },
+    {
+      "id": "hırçın_s4",
+      "text": "Öğretmeni dersinde [hırçın] tavırları yüzünden öğrencileri ürkekti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hırçın_r1",
+      "prompt": "Birinin moodu bozuk olduğunda ve her şeye kızgın bir şekilde davrandığını anlatmak için hangi sıfat kullanılır?",
+      "accepted_forms": ["hırçın", "hırçına", "hırçını", "hırçınca"],
+      "note": null
+    },
+    {
+      "id": "hırçın_r2",
+      "prompt": "Sabah erkenden uyanan bu ... adam, çocuklara seslenmek bile istemiyor.",
+      "accepted_forms": ["hırçın", "hırçın", "hırçın", "hırçınlık"],
+      "note": null
+    }
+  ]
+}

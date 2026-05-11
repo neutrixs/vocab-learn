@@ -1,0 +1,41 @@
+{
+  "word": "şehvet",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "lust, passion, carnal desire",
+  "sentences": [
+    {
+      "id": "şehvet_s1",
+      "text": "[Şehvet] insanı körleştirebilir.",
+      "note": null
+    },
+    {
+      "id": "şehvet_s2",
+      "text": "Din bu tür [şehvet]leri yasaklar.",
+      "note": null
+    },
+    {
+      "id": "şehvet_s3",
+      "text": "[Şehvet]in kölesi olmamak önemlidir.",
+      "note": null
+    },
+    {
+      "id": "şehvet_s4",
+      "text": "Sufi yazarlar [şehvet]ten kaçınmayı öğretir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şehvet_r1",
+      "prompt": "Kontrol edilmesi zor olan kötü arzu türüne ne denir?",
+      "accepted_forms": ["şehvet", "şehvet'in", "şehvetler", "şehvetin"]
+    },
+    {
+      "id": "şehvet_r2",
+      "prompt": "Ahlaki değerlere aykırı olan bu ... kişi yıkabilir.",
+      "accepted_forms": ["şehvet", "şehveti", "şehvetler", "şehvet'i"]
+    }
+  ]
+}

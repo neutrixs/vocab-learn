@@ -1,0 +1,43 @@
+{
+  "word": "aksi",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "contrary, obstinate, stubborn, opposite; bad luck",
+  "sentences": [
+    {
+      "id": "aksi_s1",
+      "text": "Çocuk [aksi] davranışları göstermek yerine annesi söylediklerini dinlemelidir.",
+      "note": null
+    },
+    {
+      "id": "aksi_s2",
+      "text": "Bu durumda bir şey yaparsanız [aksi] sonuç çıkabilir.",
+      "note": null
+    },
+    {
+      "id": "aksi_s3",
+      "text": "Mehmet çok [aksi] bir kişi olup kimsenin tavsiyesini almak istemez.",
+      "note": null
+    },
+    {
+      "id": "aksi_s4",
+      "text": "Ne yazık ki [aksi] durum ortaya çıktı ve tüm planlar değiştirilmek zorunda kaldı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "aksi_r1",
+      "prompt": "Birinin inatçı, tuhaf ve zıt davranışlar göstermesini anlatır, başına kötü şeyler gelirse bunu ifade etmek için hangi kelime kullanılır?",
+      "accepted_forms": ["aksi", "aksine", "aksı", "aksılık"],
+      "note": null
+    },
+    {
+      "id": "aksi_r2",
+      "prompt": "Eğer bu yoldan gidersen ... sonuçla karşı karşıya kalabilirsin.",
+      "accepted_forms": ["aksi", "aksiye", "aksi", "kötü"],
+      "note": null
+    }
+  ]
+}

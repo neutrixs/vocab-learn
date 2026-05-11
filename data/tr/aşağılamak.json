@@ -1,0 +1,46 @@
+{
+  "word": "aşağılamak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to insult, to humiliate, to degrade",
+  "sentences": [
+    {
+      "id": "aşağılamak_s1",
+      "text": "Kimseyi [aşağıla]mamız gerekir.",
+      "note": null
+    },
+    {
+      "id": "aşağılamak_s2",
+      "text": "O sözler beni çok [aşağıla]dı.",
+      "note": null
+    },
+    {
+      "id": "aşağılamak_s3",
+      "text": "Başkalarını [aşağıla]mak doğru değildir.",
+      "note": null
+    },
+    {
+      "id": "aşağılamak_s4",
+      "text": "Öğretmen öğrencisini [aşağıla]mamalıdır.",
+      "note": null
+    },
+    {
+      "id": "aşağılamak_s5",
+      "text": "Halk onu [aşağıla]yarak alaştırır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "aşağılamak_r1",
+      "prompt": "Birinin onurunu çiğneyerek onu rezil etmek anlamına gelen fiil nedir?",
+      "accepted_forms": ["aşağılamak", "aşağılama", "aşağıla", "aşağıladı"]
+    },
+    {
+      "id": "aşağılamak_r2",
+      "prompt": "Arkadaşını böyle ... yapmamalısın.",
+      "accepted_forms": ["aşağılamak", "aşağılama", "aşağılayan", "aşağılat"]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "alçakgönüllü",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "humble, modest",
+  "sentences": [
+    {
+      "id": "alçakgönüllü_s1",
+      "text": "Başarılı bir insan olmasına rağmen, Ahmet çok [alçakgönüllü] birisidir.",
+      "note": null
+    },
+    {
+      "id": "alçakgönüllü_s2",
+      "text": "Öğretmen öğrencilerine [alçakgönüllü] olmayı ve kibir sahibi olmamayı öğretmiştir.",
+      "note": null
+    },
+    {
+      "id": "alçakgönüllü_s3",
+      "text": "[alçakgönüllü] insanlar kendi başarılarını abartmaz ve diğerlerini saygı ile değerlendirir.",
+      "note": null
+    },
+    {
+      "id": "alçakgönüllü_s4",
+      "text": "Onun [alçakgönüllü] tavırları etrafındaki herkesi etkilemiştir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "alçakgönüllü_r1",
+      "prompt": "Kibirli olmayan, kendisini yükseltmeyen ve başkalarını saygı ile gören bir kişinin özellikleri nelerdir?",
+      "accepted_forms": ["alçakgönüllü", "alçakgönüllüdür", "alçakgönüllülüğü"],
+      "note": null
+    },
+    {
+      "id": "alçakgönüllü_r2",
+      "prompt": "Bu başarılı ve zengin adam çok ... biri, hiçbir zaman kendisinden bahsetmez.",
+      "accepted_forms": ["alçakgönüllü", "alçakgönüllüydü", "alçakgönüllü"],
+      "note": null
+    }
+  ]
+}

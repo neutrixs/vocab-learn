@@ -1,0 +1,43 @@
+{
+  "word": "kaynakça",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "bibliography, references, sources",
+  "sentences": [
+    {
+      "id": "kaynakça_s1",
+      "text": "Makalenin sonunda bir [kaynakça] listesi yer alır.",
+      "note": null
+    },
+    {
+      "id": "kaynakça_s2",
+      "text": "Akademik yazılarda [kaynakça] bölümü oldukça önemlidir.",
+      "note": null
+    },
+    {
+      "id": "kaynakça_s3",
+      "text": "[Kaynakça]yı düzgün bir şekilde hazırlamak araştırma çalışmasının temel parçasıdır.",
+      "note": null
+    },
+    {
+      "id": "kaynakça_s4",
+      "text": "Doktora tezinin [kaynakça]sı yüz sayfadan fazlaydı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kaynakça_r1",
+      "prompt": "Bir araştırma çalışmasının sonunda kullanılan kaynakların listesi ... olarak adlandırılır.",
+      "accepted_forms": ["kaynakça", "kaynakçada", "kaynakçası", "kaynakçayı"],
+      "note": null
+    },
+    {
+      "id": "kaynakça_r2",
+      "prompt": "Bilimsel bir makalede, yazarın kullandığı kitaplar ve kaynaklarının adı geçtiği bölüm hangisidir?",
+      "accepted_forms": ["kaynakça", "kaynakçada"],
+      "note": null
+    }
+  ]
+}

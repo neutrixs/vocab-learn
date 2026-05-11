@@ -1,0 +1,43 @@
+{
+  "word": "ferman",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "edict, decree (Ottoman)",
+  "sentences": [
+    {
+      "id": "ferman_s1",
+      "text": "Sultan [ferman] çıkararak yeni vergiyi uygulamaya başladı.",
+      "note": null
+    },
+    {
+      "id": "ferman_s2",
+      "text": "Osmanlı arşivinde çok sayıda [ferman] bulunmuştur.",
+      "note": null
+    },
+    {
+      "id": "ferman_s3",
+      "text": "[ferman] hükümdar tarafından imzalanan ve kaidesini belirten bir yazılı emirdi.",
+      "note": null
+    },
+    {
+      "id": "ferman_s4",
+      "text": "Dışardan gelen [ferman] valinin evinde saklanmıştı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ferman_r1",
+      "prompt": "Osmanlı İmparatorluğunda, Sultanın imzasıyla verdiği resmi yasa veya kararın adı nedir?",
+      "accepted_forms": ["ferman", "fermannı", "fermanda"],
+      "note": null
+    },
+    {
+      "id": "ferman_r2",
+      "prompt": "Vali kentin yönetim kurallarını değiştirmek için Sultanın ... talebinde bulundu.",
+      "accepted_forms": ["ferman", "fermanını", "fermanla"],
+      "note": null
+    }
+  ]
+}

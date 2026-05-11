@@ -1,0 +1,48 @@
+{
+  "word": "şanssız",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "unlucky, unfortunate",
+  "sentences": [
+    {
+      "id": "şanssız_s1",
+      "text": "[Şanssız] bir dönem yaşadı.",
+      "note": null
+    },
+    {
+      "id": "şanssız_s2",
+      "text": "Pek çok [şanssız] olay onun hayatını değiştirdi.",
+      "note": null
+    },
+    {
+      "id": "şanssız_s3",
+      "text": "[Şanssız]lar hiç dersin sonu alamıyor.",
+      "note": null
+    },
+    {
+      "id": "şanssız_s4",
+      "text": "O, kendisini [şanssız] hissediyordu.",
+      "note": null
+    },
+    {
+      "id": "şanssız_s5",
+      "text": "[Şanssız]lık hiç kimseyi takip etmek istemez.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şanssız_r1",
+      "prompt": "Kötü talihle karşı karşıya gelen insan veya durum ... olarak adlandırılır.",
+      "accepted_forms": ["şanssız", "şanssızı", "şanssızlar", "şanssızlık"],
+      "note": null
+    },
+    {
+      "id": "şanssız_r2",
+      "prompt": "Sürekli olumsuz şeyler başında olan bir kişi, kendisini ... hissetmeye başlar.",
+      "accepted_forms": ["şanssız", "şanssızlığını"],
+      "note": null
+    }
+  ]
+}

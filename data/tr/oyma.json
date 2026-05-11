@@ -1,0 +1,43 @@
+{
+  "word": "oyma",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "carving, engraving, relief",
+  "sentences": [
+    {
+      "id": "oyma_s1",
+      "text": "Sanat eseri ahşaptan [oyma] tekniğiyle yapılmıştır.",
+      "note": null
+    },
+    {
+      "id": "oyma_s2",
+      "text": "Türk sanatında [oyma] işleri çok önemli bir yer tutmaktadır.",
+      "note": null
+    },
+    {
+      "id": "oyma_s3",
+      "text": "Taş [oyma] sanatının temelleri çok eskilere dayanır.",
+      "note": null
+    },
+    {
+      "id": "oyma_s4",
+      "text": "Ustanın yaptığı [oyma] çalışmalar müze tarafından satın alındı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "oyma_r1",
+      "prompt": "Ahşaba veya taşa sanatsal tasarımlar uygulayarak şekil verme işlemine ... denir.",
+      "accepted_forms": ["oyma", "oyması", "oymasında", "oymalı"],
+      "note": null
+    },
+    {
+      "id": "oyma_r2",
+      "prompt": "Osmanlı dekorasyonunda figürlü desenlerin yapılmış hali ... olarak bilinir.",
+      "accepted_forms": ["oyma", "oyma işi", "oymaları", "oymalar"],
+      "note": null
+    }
+  ]
+}

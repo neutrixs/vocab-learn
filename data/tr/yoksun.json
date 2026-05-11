@@ -1,0 +1,38 @@
+{
+  "word": "yoksun",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "deprived of, lacking, without",
+  "sentences": [
+    {
+      "id": "yoksun_s1",
+      "text": "Bu ülkedeki milyonlarca insan temiz su [yoksun].",
+      "note": null
+    },
+    {
+      "id": "yoksun_s2",
+      "text": "[Yoksun] kalınan temel hak ve özgürlükler insan onurunu incitir.",
+      "note": null
+    },
+    {
+      "id": "yoksun_s3",
+      "text": "Eğitim imkanından [yoksun] olan çocuklar toplumun geleceğidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yoksun_r1",
+      "prompt": "Bir şeyden mahrum olan, olmayan, onu bulunmayan durumu tanımlamak için hangi kelime kullanılır?",
+      "accepted_forms": ["yoksun", "yoksundur", "yoksun kalmış", "yoksun olan"],
+      "note": null
+    },
+    {
+      "id": "yoksun_r2",
+      "prompt": "Gerekli kaynaklar olmadan yaşayan insanlar beslenme imkanından ___ durumdadır.",
+      "accepted_forms": ["yoksun", "yoksundur", "yoksun olmuş", "yoksun durumdadır"],
+      "note": null
+    }
+  ]
+}

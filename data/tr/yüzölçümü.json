@@ -1,0 +1,43 @@
+{
+  "word": "yüzölçümü",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "surface area",
+  "sentences": [
+    {
+      "id": "yüzölçümü_s1",
+      "text": "Karenin [yüzölçümü] uzunluk çarpı genişlik formülüyle hesaplanır.",
+      "note": null
+    },
+    {
+      "id": "yüzölçümü_s2",
+      "text": "Bu üçgenin [yüzölçümü] dokuz metrekare olarak ölçülmüştür.",
+      "note": null
+    },
+    {
+      "id": "yüzölçümü_s3",
+      "text": "Geometri dersinde [yüzölçümü] hesaplama yöntemi öğrendik.",
+      "note": null
+    },
+    {
+      "id": "yüzölçümü_s4",
+      "text": "Yapının [yüzölçümü] artmakla elektrik tüketimi de artar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yüzölçümü_r1",
+      "prompt": "Bir dairenin ... π × r² formülüyle hesaplanır.",
+      "accepted_forms": ["yüzölçümü"],
+      "note": null
+    },
+    {
+      "id": "yüzölçümü_r2",
+      "prompt": "Geometride ... ölçümü yapılan bir matematik konusudur.",
+      "accepted_forms": ["yüzölçümü"],
+      "note": null
+    }
+  ]
+}

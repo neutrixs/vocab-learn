@@ -1,0 +1,43 @@
+{
+  "word": "astsubay",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "non-commissioned officer (NCO), sergeant",
+  "sentences": [
+    {
+      "id": "astsubay_s1",
+      "text": "[astsubay] orduya katılmadan önce eğitim kurslarına katılmaya zorunludur.",
+      "note": null
+    },
+    {
+      "id": "astsubay_s2",
+      "text": "Askerlik hayatında [astsubay], subay ile asker arasında bir köprü görevini görmektedir.",
+      "note": null
+    },
+    {
+      "id": "astsubay_s3",
+      "text": "[astsubay]ın sorumluluğu oldukça önemli ve ciddidir.",
+      "note": null
+    },
+    {
+      "id": "astsubay_s4",
+      "text": "Merkerzi [astsubay] seçilmesi birçok asker için büyük bir onur sayılır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "astsubay_r1",
+      "prompt": "Orduда, bir çocuk subay ile adi asker arasında sırada bulunan, komuta kademesinin alt kısmında yer alan rütbeler grubuna ne denir?",
+      "accepted_forms": ["astsubay", "astsubaylar", "astsubayın"],
+      "note": null
+    },
+    {
+      "id": "astsubay_r2",
+      "prompt": "Dönem tamamlandığında, Mehmet ... rütbesine yükseltildi ve yeni görevini almaya başladı.",
+      "accepted_forms": ["astsubay", "astsubaylık", "astsubaye"],
+      "note": null
+    }
+  ]
+}

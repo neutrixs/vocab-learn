@@ -1,0 +1,43 @@
+{
+  "word": "teveccüh",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "inclination, favor, preference",
+  "sentences": [
+    {
+      "id": "teveccüh_s1",
+      "text": "Yönetmenin [teveccüh]ü genç oyunculara doğruydu.",
+      "note": null
+    },
+    {
+      "id": "teveccüh_s2",
+      "text": "Politikacının [teveccüh]ü zengin yatırımcılara gözüküyordu.",
+      "note": null
+    },
+    {
+      "id": "teveccüh_s3",
+      "text": "[Teveccüh] görmek isteyenler sık sık hayal kırıklığına uğrarlar.",
+      "note": null
+    },
+    {
+      "id": "teveccüh_s4",
+      "text": "Sultan'ın [teveccüh]ü saray müzisyenine verilmişti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "teveccüh_r1",
+      "prompt": "Bir kimsenin veya kurumun belirli kişiye veya şeye karşı gösterdiği yakın ilgi ve tercihe ne denir?",
+      "accepted_forms": ["teveccüh", "teveccühü", "teveccühün"],
+      "note": null
+    },
+    {
+      "id": "teveccüh_r2",
+      "prompt": "Zengin ailenin ... nedeniyle genç kızın seçimi yapıldı.",
+      "accepted_forms": ["teveccühü", "teveccüh"],
+      "note": null
+    }
+  ]
+}

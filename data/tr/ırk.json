@@ -1,0 +1,43 @@
+{
+  "word": "ırk",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "race, breed, ethnicity, lineage",
+  "sentences": [
+    {
+      "id": "ırk_s1",
+      "text": "Farklı [ırk] insanlar aynı ülkede barış içinde yaşayabilir.",
+      "note": null
+    },
+    {
+      "id": "ırk_s2",
+      "text": "Bu köpek [ırk]ı çok ender ve sadece Türkiye'de bulunur.",
+      "note": null
+    },
+    {
+      "id": "ırk_s3",
+      "text": "[ırk]ıbilim insan gruplarının genetik fark ve benzerlikleri inceler.",
+      "note": null
+    },
+    {
+      "id": "ırk_s4",
+      "text": "Kemal Atatürk, tüm [ırk]ları eşit olarak kabul eden bir lider idi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ırk_r1",
+      "prompt": "İnsanların veya hayvanların genetik özelliklere dayalı gruplandırılmasını ifade eden kelime nedir?",
+      "accepted_forms": ["ırk", "ırka", "ırkı", "ırkların"],
+      "note": null
+    },
+    {
+      "id": "ırk_r2",
+      "prompt": "Bu ... köpekleri Orta Asya'da binlerce yıldır yetiştiriliyor.",
+      "accepted_forms": ["ırk", "ırkın", "ırka ait", "ırksal"],
+      "note": null
+    }
+  ]
+}

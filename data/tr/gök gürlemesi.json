@@ -1,0 +1,43 @@
+{
+  "word": "gök gürlemesi",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "thunder, the sound of thunder",
+  "sentences": [
+    {
+      "id": "gök gürlemesi_s1",
+      "text": "Fırtınanın ortasında [gök gürlemesi] o kadar şiddetli idi ki camlar titredi.",
+      "note": null
+    },
+    {
+      "id": "gök gürlemesi_s2",
+      "text": "Çocuk [gök gürlemesi] sesinden korku ve merak duyuyordu.",
+      "note": null
+    },
+    {
+      "id": "gök gürlemesi_s3",
+      "text": "Yıldırım çakması ve [gök gürlemesi] aynı anda olmaz, ses ışıktan sonra gelir.",
+      "note": null
+    },
+    {
+      "id": "gök gürlemesi_s4",
+      "text": "[gök gürlemesi] duydum ve hemen depoyu kapatıp evde kalma kararı aldım.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gök gürlemesi_r1",
+      "prompt": "Fırtına sırasında bulutlardan gelen gürültülü ve dehşet verici sesi hangi kelimelerle adlandırırız?",
+      "accepted_forms": ["gök gürlemesi", "gök gürültüsü", "göğün gürlemesi", "gürlemesi"],
+      "note": null
+    },
+    {
+      "id": "gök gürlemesi_r2",
+      "prompt": "Çok korkutucu bir fırtınada ... çok şiddetli ve kulakları sağır ediyordu.",
+      "accepted_forms": ["gök gürlemesi", "gürlemesi", "gök sesi", "gürültü"],
+      "note": null
+    }
+  ]
+}

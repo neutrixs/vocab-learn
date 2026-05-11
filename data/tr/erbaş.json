@@ -1,0 +1,43 @@
+{
+  "word": "erbaş",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "lance corporal, junior NCO rank",
+  "sentences": [
+    {
+      "id": "erbaş_s1",
+      "text": "[erbaş] asker onlardan daha tecrübeli ve sorumlu bir konumdadır.",
+      "note": null
+    },
+    {
+      "id": "erbaş_s2",
+      "text": "Yüzbaşı [erbaş]ın iyi bir lider olduğunu söylemiştir.",
+      "note": null
+    },
+    {
+      "id": "erbaş_s3",
+      "text": "[erbaş] rütbesi astsubay ile asker arasında bir köprü sayılır.",
+      "note": null
+    },
+    {
+      "id": "erbaş_s4",
+      "text": "Askerlik hizmetinde [erbaş] olduktan sonra, birçok kişi subaylığa ilişkin eğitim alır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "erbaş_r1",
+      "prompt": "Orduya asker olarak görevli olanlar arasında, daha tecrübeli ve sorumlu konumdaki rütbeler grubunun adı nedir?",
+      "accepted_forms": ["erbaş", "erbaşlar", "erbaşın"],
+      "note": null
+    },
+    {
+      "id": "erbaş_r2",
+      "prompt": "Ali üç yıl asker olduktan sonra ... rütbesine yükseltildi ve yeni görevine başladı.",
+      "accepted_forms": ["erbaş", "erbaşlık", "erbaşa"],
+      "note": null
+    }
+  ]
+}

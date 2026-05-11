@@ -1,0 +1,43 @@
+{
+  "word": "yarmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to tear, to split, to cleave",
+  "sentences": [
+    {
+      "id": "yarmak_s1",
+      "text": "Çocuk kağıdı kasıtlı olarak [yarıyor].",
+      "note": null
+    },
+    {
+      "id": "yarmak_s2",
+      "text": "Balık [yarmadan] tutan hazırlanmaz.",
+      "note": null
+    },
+    {
+      "id": "yarmak_s3",
+      "text": "Abi kardeşi [yarıp] derdini söyledi.",
+      "note": null
+    },
+    {
+      "id": "yarmak_s4",
+      "text": "Gemi fırtınanın ortasında [yarıp] geçti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yarmak_r1",
+      "prompt": "Bir şeyin ortasından geçmek ya da yapısını bozmak anlamındaki fiil nedir?",
+      "accepted_forms": ["yarmak", "yarıyor", "yarıp", "yarması"],
+      "note": null
+    },
+    {
+      "id": "yarmak_r2",
+      "prompt": "Balığı pişirmek için önce ortasından ... gerekir.",
+      "accepted_forms": ["yarmak", "yarması"],
+      "note": null
+    }
+  ]
+}

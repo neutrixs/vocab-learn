@@ -1,0 +1,43 @@
+{
+  "word": "şeffaf",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "transparent, clear, open",
+  "sentences": [
+    {
+      "id": "şeffaf_s1",
+      "text": "Cam çok [şeffaf] bir maddedir.",
+      "note": null
+    },
+    {
+      "id": "şeffaf_s2",
+      "text": "Hükümetin [şeffaf] bir politikası vardır.",
+      "note": null
+    },
+    {
+      "id": "şeffaf_s3",
+      "text": "[Şeffaf] plastik keseler pazarlarında kullanılır.",
+      "note": null
+    },
+    {
+      "id": "şeffaf_s4",
+      "text": "Onun [şeffaf] tutumu başarısının anahtarıydı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şeffaf_r1",
+      "prompt": "Işığın geçtiği ve içinden görebildiğiniz bir malzemenin özelliğine ne denir?",
+      "accepted_forms": ["şeffaf", "şeffafılık", "şeffaflık"],
+      "note": null
+    },
+    {
+      "id": "şeffaf_r2",
+      "prompt": "Söyledikleri doğru ve gizli olmayan ... bir kişi.",
+      "accepted_forms": ["şeffaf", "şeffaf bir", "şeffafı"],
+      "note": null
+    }
+  ]
+}

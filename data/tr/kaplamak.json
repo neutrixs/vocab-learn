@@ -1,0 +1,43 @@
+{
+  "word": "kaplamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to cover, to coat",
+  "sentences": [
+    {
+      "id": "kaplamak_s1",
+      "text": "Dönerci pastırmayı [kaplamak] için peynir kullanmıştır.",
+      "note": null
+    },
+    {
+      "id": "kaplamak_s2",
+      "text": "Sofraya beyaz bir örtü [kaplayan] ben daha sonra oturdum.",
+      "note": null
+    },
+    {
+      "id": "kaplamak_s3",
+      "text": "Bu tablo tahtayla [kaplanmış] ve korumaya alınmıştır.",
+      "note": null
+    },
+    {
+      "id": "kaplamak_s4",
+      "text": "Mühendisler köprüyü özel bir katmanla [kaplarlar].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kaplamak_r1",
+      "prompt": "Yağmurdan korumak için atı ... için branda getirildi",
+      "accepted_forms": ["kaplamak", "kaplaması", "kaplayan"],
+      "note": null
+    },
+    {
+      "id": "kaplamak_r2",
+      "prompt": "Çikolata çilekleri ... için ocak başında eritti",
+      "accepted_forms": ["kaplamak", "kaplayacak", "kaplaması"],
+      "note": null
+    }
+  ]
+}

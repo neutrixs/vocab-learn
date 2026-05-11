@@ -1,0 +1,43 @@
+{
+  "word": "gözcü",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "lookout, sentinel, scout",
+  "sentences": [
+    {
+      "id": "gözcü_s1",
+      "text": "[Gözcü], üzerinden gelen her şeyi görmek için tepedeydi.",
+      "note": null
+    },
+    {
+      "id": "gözcü_s2",
+      "text": "Geminin [gözcü]su düşmanı ilk gördü.",
+      "note": null
+    },
+    {
+      "id": "gözcü_s3",
+      "text": "[Gözcü]ler şehrin etrafını izliyorlardı.",
+      "note": null
+    },
+    {
+      "id": "gözcü_s4",
+      "text": "Asker [gözcü] olarak atandı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gözcü_r1",
+      "prompt": "Askeri kampın çevresini izlemek için atanan kişiye ne denir?",
+      "accepted_forms": ["gözcü", "gözcüsü", "gözcüler", "gözcülerinin"],
+      "note": null
+    },
+    {
+      "id": "gözcü_r2",
+      "prompt": "Gemi bordası ... olarak beklemek üzere atandı.",
+      "accepted_forms": ["gözcü", "gözcüsü", "gözcüler"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "buyruk",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "order, command, directive",
+  "sentences": [
+    {
+      "id": "buyruk_s1",
+      "text": "Komutan [buyruk] verdi ve askerler harekete geçtiler.",
+      "note": null
+    },
+    {
+      "id": "buyruk_s2",
+      "text": "[buyruk] yerine getirilmezse disiplin cezası uygulanır.",
+      "note": null
+    },
+    {
+      "id": "buyruk_s3",
+      "text": "Cumhubaşkanı hükümet [buyruk]unu imzaladı.",
+      "note": null
+    },
+    {
+      "id": "buyruk_s4",
+      "text": "Öğretmenin [buyruk]unu derhal yapması gerekir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "buyruk_r1",
+      "prompt": "Yetkili bir kişi tarafından başkalarına yapılması istenilen, yapılması zorunlu olan şey nedir?",
+      "accepted_forms": ["buyruk", "buyruğu", "buyruğunda"],
+      "note": null
+    },
+    {
+      "id": "buyruk_r2",
+      "prompt": "Polis ... verdi: herkes sahaya alınacak ve kimlik kontrol edilecektir.",
+      "accepted_forms": ["buyruk", "buyruğu", "buyruğunu"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "ışıl ışıl",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adverb",
+  "english_gloss": "gleaming, shimmering, brightly",
+  "sentences": [
+    {
+      "id": "ışıl ışıl_s1",
+      "text": "Gümüş gözlük [ışıl ışıl] parıldıyor.",
+      "note": null
+    },
+    {
+      "id": "ışıl ışıl_s2",
+      "text": "Çocuğun gözleri [ışıl ışıl] ışınıyordu.",
+      "note": null
+    },
+    {
+      "id": "ışıl ışıl_s3",
+      "text": "Denize vuran güneş [ışıl ışıl] yanıp sönüyordu.",
+      "note": null
+    },
+    {
+      "id": "ışıl ışıl_s4",
+      "text": "Kız [ışıl ışıl] temiz giysileriyle evden çıktı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ışıl ışıl_r1",
+      "prompt": "Bir şeyin parlak ve berrak ışığı yayan haline verilen sıfat ne olmuştur?",
+      "accepted_forms": ["ışıl ışıl", "ışıl ışıla", "ışıl ışıldan"],
+      "note": null
+    },
+    {
+      "id": "ışıl ışıl_r2",
+      "prompt": "Elmaslar ... parlayan çerçeve içinde sergilenmekteydi.",
+      "accepted_forms": ["ışıl ışıl", "ışıl ışılca", "ışıl ışıl"],
+      "note": null
+    }
+  ]
+}

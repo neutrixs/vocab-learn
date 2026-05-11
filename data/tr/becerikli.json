@@ -1,0 +1,53 @@
+{
+  "word": "becerikli",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "capable, skillful, competent",
+  "sentences": [
+    {
+      "id": "becerikli_s1",
+      "text": "[Becerikli] bir yönetici, işletmeyi kurtarıyor.",
+      "note": null
+    },
+    {
+      "id": "becerikli_s2",
+      "text": "Sporcu, [becerikli] bir hamleyle turnuvayı kazandı.",
+      "note": null
+    },
+    {
+      "id": "becerikli_s3",
+      "text": "[Becerikli] hemşire, hastaya etkili bakım sağlıyor.",
+      "note": null
+    },
+    {
+      "id": "becerikli_s4",
+      "text": "Proje yöneticisi [becerikli] bir liderlik gösterdi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "becerikli_r1",
+      "prompt": "İşini iyi yapan, yetkin ve başarılı kişi nasıl nitelendirilir?",
+      "accepted_forms": [
+        "becerikli",
+        "becerikli kişi",
+        "becerikli birisi",
+        "becerikli doktor"
+      ],
+      "note": null
+    },
+    {
+      "id": "becerikli_r2",
+      "prompt": "Ekibin en ... üyeleri, bu zor projede başarılı oldular.",
+      "accepted_forms": [
+        "becerikli",
+        "becerikli",
+        "becerikli çalışan",
+        "becerikli üyeler"
+      ],
+      "note": null
+    }
+  ]
+}

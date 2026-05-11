@@ -1,0 +1,43 @@
+{
+  "word": "umutsuz",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "hopeless, desperate, without hope, despairing",
+  "sentences": [
+    {
+      "id": "umutsuz_s1",
+      "text": "Hastanın durumu çok kötü ve doktor [umutsuz] bir tavır takındı.",
+      "note": null
+    },
+    {
+      "id": "umutsuz_s2",
+      "text": "Savaş sonunda kaybeden taraf [umutsuz] bir durumda kalmıştı.",
+      "note": null
+    },
+    {
+      "id": "umutsuz_s3",
+      "text": "İş bulmakta [umutsuz] hisseden genç adamın çabaları sonunda karşılık buldu.",
+      "note": null
+    },
+    {
+      "id": "umutsuz_s4",
+      "text": "Şüpheci insanlar [umutsuz] bir bakış açısıyla geleceğe bakıyorlardı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "umutsuz_r1",
+      "prompt": "Hiçbir çare veya iyileşme şansı olmadığını düşünen biri hangi sıfatla nitelendirilir?",
+      "accepted_forms": ["umutsuz", "umutsuzca", "umutsuzluğu", "umutsuz"],
+      "note": null
+    },
+    {
+      "id": "umutsuz_r2",
+      "prompt": "Bu ... durumdan kurtulmak için yasal yardım almak gerekir.",
+      "accepted_forms": ["umutsuz", "umutsuz", "korkunç", "ümitsiz"],
+      "note": null
+    }
+  ]
+}

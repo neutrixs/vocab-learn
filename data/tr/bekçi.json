@@ -1,0 +1,53 @@
+{
+  "word": "bekçi",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "guard, watchman, sentry",
+  "sentences": [
+    {
+      "id": "bekçi_s1",
+      "text": "[Bekçi], bütün gece kapıda nöbet tutuyor.",
+      "note": null
+    },
+    {
+      "id": "bekçi_s2",
+      "text": "İş yeri [bekçi]si, her girişi denetliyor.",
+      "note": null
+    },
+    {
+      "id": "bekçi_s3",
+      "text": "Gece [bekçi]leri, binaları korumakla görevlidir.",
+      "note": null
+    },
+    {
+      "id": "bekçi_s4",
+      "text": "[Bekçi]nin sivil kıyafetli olup olmadığını sormak garip olurdu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bekçi_r1",
+      "prompt": "Bir yeri veya binayı görmek ve korumakla görevli kişi kimdir?",
+      "accepted_forms": [
+        "bekçi",
+        "bekçisi",
+        "bekçiyi",
+        "bekçiler"
+      ],
+      "note": null
+    },
+    {
+      "id": "bekçi_r2",
+      "prompt": "Okul kapısında duran ... çocukların güvenini sağlar.",
+      "accepted_forms": [
+        "bekçi",
+        "bekçisi",
+        "bekçi",
+        "bekçiler"
+      ],
+      "note": null
+    }
+  ]
+}

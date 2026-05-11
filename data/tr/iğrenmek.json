@@ -1,0 +1,43 @@
+{
+  "word": "iğrenmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to be disgusted, to feel revulsion",
+  "sentences": [
+    {
+      "id": "iğrenmek_s1",
+      "text": "Kurtlar ölü hayvandan [iğreniyorlar].",
+      "note": null
+    },
+    {
+      "id": "iğrenmek_s2",
+      "text": "Birçok insan hamamböceklerinden [iğreniyor].",
+      "note": null
+    },
+    {
+      "id": "iğrenmek_s3",
+      "text": "Çocuk sebzeden [iğrenince], annesi ona yemek yemesi için ısrar etti.",
+      "note": null
+    },
+    {
+      "id": "iğrenmek_s4",
+      "text": "Hasta kokudan [iğreniyorum] demiş.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "iğrenmek_r1",
+      "prompt": "Kötü bir görünüm veya koku gördüğümüzde, biz ondan ... konumuz.",
+      "accepted_forms": ["iğreniyoruz", "iğrenmedik", "iğrenmiş", "iğreniyorum"],
+      "note": null
+    },
+    {
+      "id": "iğrenmek_r2",
+      "prompt": "Pis bir şeyden karşı duygular uyandığında, o şeyden ... doğaldır.",
+      "accepted_forms": ["iğrenmek", "iğreniyorum", "iğreniyor", "iğrenebiliriz"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "beyin kanaması",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "brain hemorrhage, intracranial bleeding",
+  "sentences": [
+    {
+      "id": "beyin kanaması_s1",
+      "text": "Kaza sonrası hastaya [beyin kanaması] tanısı kondu.",
+      "note": null
+    },
+    {
+      "id": "beyin kanaması_s2",
+      "text": "[Beyin kanaması] ciddi bir sağlık probleminden kaynaklanabilir.",
+      "note": null
+    },
+    {
+      "id": "beyin kanaması_s3",
+      "text": "Çok yüksek tansiyon [beyin kanamsı] riski oluşturabilir.",
+      "note": null
+    },
+    {
+      "id": "beyin kanaması_s4",
+      "text": "Doktor [beyin kanaması] belirtileri açısından hastayı kontrol etti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "beyin kanaması_r1",
+      "prompt": "Beyin içinde kan damarı kırıldığında ve kan sızması başladığında, bu durum ... denir.",
+      "accepted_forms": ["beyin kanaması", "beyin kanamsına", "beyin kanamsı", "beyin kanamsından"],
+      "note": null
+    },
+    {
+      "id": "beyin kanaması_r2",
+      "prompt": "Trafik kazasında ciddi kafa travması ... riskini artırabilir.",
+      "accepted_forms": ["beyin kanaması", "beyin kanamsı", "beyin kanamasını", "beyin kanamsını"],
+      "note": null
+    }
+  ]
+}

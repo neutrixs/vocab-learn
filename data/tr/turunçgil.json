@@ -1,0 +1,43 @@
+{
+  "word": "turunçgil",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "citrus fruit",
+  "sentences": [
+    {
+      "id": "turunçgil_s1",
+      "text": "Portakal bir çeşit [turunçgil]dir.",
+      "note": null
+    },
+    {
+      "id": "turunçgil_s2",
+      "text": "[Turunçgil]ler C vitamini açısından zengindir.",
+      "note": null
+    },
+    {
+      "id": "turunçgil_s3",
+      "text": "Bahçede birçok [turunçgil] ağacı vardır.",
+      "note": null
+    },
+    {
+      "id": "turunçgil_s4",
+      "text": "[Turunçgil] hastalıkları kontrol etmek önemlidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "turunçgil_r1",
+      "prompt": "Portakal, limon, greyfurt ve mandalina hangi meyve grubuna aittir?",
+      "accepted_forms": ["turunçgil", "turunçgiller", "turunçgildir", "turunçgildir"],
+      "note": null
+    },
+    {
+      "id": "turunçgil_r2",
+      "prompt": "Tropik ve subtropik bölgelerde yetiştirilen ... meyveler çok sağlıklıdır.",
+      "accepted_forms": ["turunçgil", "turunçgiller", "turunçgil tür", "turunçgilden"],
+      "note": null
+    }
+  ]
+}

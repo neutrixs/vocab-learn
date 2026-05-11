@@ -1,0 +1,43 @@
+{
+  "word": "özdeş",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "identical, the same, equivalent",
+  "sentences": [
+    {
+      "id": "özdeş_s1",
+      "text": "Bu iki geminin tasarımları neredeyse [özdeş].",
+      "note": null
+    },
+    {
+      "id": "özdeş_s2",
+      "text": "[Özdeş] ikizler birbirinden ayırt etmek zor.",
+      "note": null
+    },
+    {
+      "id": "özdeş_s3",
+      "text": "Matematiksel denklem [özdeş] değişkenlere sahiptir.",
+      "note": null
+    },
+    {
+      "id": "özdeş_s4",
+      "text": "Bu süt ürünleri [özdeş] beslenme değerine sahiptir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "özdeş_r1",
+      "prompt": "İki görüntü birbirine ... olduğunu söyleyebiliriz",
+      "accepted_forms": ["özdeş", "özdeş mi", "özdeş değil"],
+      "note": null
+    },
+    {
+      "id": "özdeş_r2",
+      "prompt": "A ve A'nın matematiksel değeri ... dir",
+      "accepted_forms": ["özdeş", "özdeştir"],
+      "note": null
+    }
+  ]
+}

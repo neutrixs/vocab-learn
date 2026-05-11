@@ -1,0 +1,43 @@
+{
+  "word": "küçük görmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to look down on, to despise, to belittle",
+  "sentences": [
+    {
+      "id": "küçük görmek_s1",
+      "text": "Hiç kimse başka insanları [küçük görmelidir].",
+      "note": null
+    },
+    {
+      "id": "küçük görmek_s2",
+      "text": "Başarılı insanlar genellikle başkalarını [küçük görmezler].",
+      "note": null
+    },
+    {
+      "id": "küçük görmek_s3",
+      "text": "Onun insanları [küçük gören] tavrı berbat söyleniyordu.",
+      "note": null
+    },
+    {
+      "id": "küçük görmek_s4",
+      "text": "Eğer birini [küçük görüyorsan], bunu çok iyi sakla.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "küçük görmek_r1",
+      "prompt": "Başka bir kişiye aşağı bir pozisyondanmış gibi davranmak anlamındaki deyim nedir?",
+      "accepted_forms": ["küçük görmek", "küçük görme", "küçük gördü"],
+      "note": null
+    },
+    {
+      "id": "küçük görmek_r2",
+      "prompt": "Hiç kimse başkasını ... bir hastalık işaretidir.",
+      "accepted_forms": ["küçük görmemelidir", "küçük görmek", "küçük gören"],
+      "note": null
+    }
+  ]
+}

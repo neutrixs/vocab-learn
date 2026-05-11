@@ -1,0 +1,43 @@
+{
+  "word": "büklüm",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "bent, twisted, crooked",
+  "sentences": [
+    {
+      "id": "büklüm_s1",
+      "text": "Demin alınan eski testeresi [büklüm] idi ve kullanılmıyordu.",
+      "note": null
+    },
+    {
+      "id": "büklüm_s2",
+      "text": "Yoldan çıkıp [büklüm] patika izledik ormanın içine.",
+      "note": null
+    },
+    {
+      "id": "büklüm_s3",
+      "text": "Çatının [büklüm] kiremitleri yağmurda sızan suyun sebebiydi.",
+      "note": null
+    },
+    {
+      "id": "büklüm_s4",
+      "text": "Şeytanın [büklüm] kalpli insanları tanıyoruz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "büklüm_r1",
+      "prompt": "Doğru olmayan, eğriltilmiş ve ileri doğru kıvrılmış anlamına gelen kelime?",
+      "accepted_forms": ["büklüm", "büklümü", "büklüme", "büklümün"],
+      "note": null
+    },
+    {
+      "id": "büklüm_r2",
+      "prompt": "Bir şeyin özünde veya şeklinde var olan bozulmuş durumunu tanımlayan sıfat?",
+      "accepted_forms": ["büklüm", "büklümü", "büklüme", "büklümün"],
+      "note": null
+    }
+  ]
+}

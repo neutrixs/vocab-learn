@@ -1,0 +1,43 @@
+{
+  "word": "iki yüzlü",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "two-faced, deceitful, hypocritical",
+  "sentences": [
+    {
+      "id": "iki yüzlü_s1",
+      "text": "Onun [iki yüzlü] davranışları bana çok enerji harcattırıyor.",
+      "note": null
+    },
+    {
+      "id": "iki yüzlü_s2",
+      "text": "Başı arkada [iki yüzlü] konuşan insanlardan uzak durmak gerekir.",
+      "note": null
+    },
+    {
+      "id": "iki yüzlü_s3",
+      "text": "İnsanlar genellikle [iki yüzlü] davranışların sahibini severler mi?",
+      "note": null
+    },
+    {
+      "id": "iki yüzlü_s4",
+      "text": "Dostluğunda [iki yüzlü] olmamak çok önemlidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "iki yüzlü_r1",
+      "prompt": "Birinin yüzüne güvenilir gibi görünen ama arkasında kötü konuşan kişi ne denir?",
+      "accepted_forms": ["iki yüzlü", "iki yüzlüdür", "iki yüzlü kişi", "iki yüzlü birisi"],
+      "note": null
+    },
+    {
+      "id": "iki yüzlü_r2",
+      "prompt": "Samimi olmayan ve sahte olan bir insanı tanımlamak için ___ kelimesini kullanırız.",
+      "accepted_forms": ["iki yüzlü", "iki yüzlü", "iki yüzlü kişi", "iki yüzlüdür"],
+      "note": null
+    }
+  ]
+}

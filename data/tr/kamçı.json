@@ -1,0 +1,41 @@
+{
+  "word": "kamçı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "whip, lash",
+  "sentences": [
+    {
+      "id": "kamçı_s1",
+      "text": "Harita [kamçı]yla atları yönlendirdi.",
+      "note": null
+    },
+    {
+      "id": "kamçı_s2",
+      "text": "Eski çağlarda [kamçı] ceza aletiydi.",
+      "note": null
+    },
+    {
+      "id": "kamçı_s3",
+      "text": "[Kamçı] çiftçi tarafından kullanılır.",
+      "note": null
+    },
+    {
+      "id": "kamçı_s4",
+      "text": "[Kamçı]nın sesi duyuldu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kamçı_r1",
+      "prompt": "Atları ve hayvanları hareketlendirmek için kullanılan araç nedir?",
+      "accepted_forms": ["kamçı", "kamçı'yı", "kamçıyı", "kamçılar"]
+    },
+    {
+      "id": "kamçı_r2",
+      "prompt": "Çiftçinin kullandığı bu ... at hızını kontrol eder.",
+      "accepted_forms": ["kamçı", "kamçı'yla", "kamçıyla", "kamçının"]
+    }
+  ]
+}

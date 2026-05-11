@@ -1,0 +1,43 @@
+{
+  "word": "ayrımcılık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "discrimination",
+  "sentences": [
+    {
+      "id": "ayrımcılık_s1",
+      "text": "Irksal [ayrımcılık] bugün bile birçok ülkede sorun olmaya devam ediyor.",
+      "note": null
+    },
+    {
+      "id": "ayrımcılık_s2",
+      "text": "Dinî [ayrımcılığa] karşı her zaman mücadele etmek gerekir.",
+      "note": null
+    },
+    {
+      "id": "ayrımcılık_s3",
+      "text": "Cinsiyet [ayrımcılığı] ortadan kaldırmak için yasalar çıkarıldı.",
+      "note": null
+    },
+    {
+      "id": "ayrımcılık_s4",
+      "text": "Bu firma hiçbir şekilde [ayrımcılığa] tolerans göstermez.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ayrımcılık_r1",
+      "prompt": "İnsan haklarına aykırı, insanlar arasında haksız farklı muamele yapma uygulaması nedir?",
+      "accepted_forms": ["ayrımcılık", "ayrımcılığı", "ayrımcılığa", "ayrımcılıklar"],
+      "note": null
+    },
+    {
+      "id": "ayrımcılık_r2",
+      "prompt": "Birleşmiş Milletler ... karşı başarılı kampanyalar yürütmektedir.",
+      "accepted_forms": ["ayrımcılığa", "ayrımcılık"],
+      "note": null
+    }
+  ]
+}

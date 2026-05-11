@@ -1,0 +1,53 @@
+{
+  "word": "nöbetçi",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "duty officer, person on duty, watch",
+  "sentences": [
+    {
+      "id": "nöbetçi_s1",
+      "text": "Hastanede [nöbetçi], acil vakaları ele almak için hazır bulunur.",
+      "note": null
+    },
+    {
+      "id": "nöbetçi_s2",
+      "text": "[Nöbetçi] hemşire, gece boyunca hastaları kontrol etti.",
+      "note": null
+    },
+    {
+      "id": "nöbetçi_s3",
+      "text": "Polis [nöbetçi]si, gece boyunca görev yapıyor.",
+      "note": null
+    },
+    {
+      "id": "nöbetçi_s4",
+      "text": "Bugünün [nöbetçi]si saat 20:00'de gelecek.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "nöbetçi_r1",
+      "prompt": "Belirli bir saatte görevde olan ve sorumlu olan kişi nedir?",
+      "accepted_forms": [
+        "nöbetçi",
+        "nöbetçisi",
+        "nöbetçiyi",
+        "nöbetçiler"
+      ],
+      "note": null
+    },
+    {
+      "id": "nöbetçi_r2",
+      "prompt": "Acil serviste şu anda görevde olan ... doktor muayene etmek için hazırlanıyor.",
+      "accepted_forms": [
+        "nöbetçi",
+        "nöbetçi",
+        "nöbetçi doktor",
+        "nöbetçiler"
+      ],
+      "note": null
+    }
+  ]
+}
