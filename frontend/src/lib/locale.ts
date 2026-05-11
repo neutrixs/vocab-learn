@@ -85,6 +85,8 @@ const tr: UILocale = {
     conjunction: 'BAĞLAÇ',
     postposition: 'EDAT',
     interjection: 'ÜNLEM',
+    'noun/adjective': 'İSİM/SIFAT',
+    phrase: 'İFADE',
   },
 
   nav_home: 'Ana Sayfa',
@@ -161,6 +163,8 @@ const en: UILocale = {
     conjunction: 'CONJUNCTION',
     postposition: 'POSTPOSITION',
     interjection: 'INTERJECTION',
+    'noun/adjective': 'NOUN/ADJECTIVE',
+    phrase: 'PHRASE',
   },
 
   nav_home: 'Home',
