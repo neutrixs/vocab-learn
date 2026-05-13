@@ -1,0 +1,38 @@
+{
+  "word": "fark gözetmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to make a distinction, to discriminate",
+  "sentences": [
+    {
+      "id": "fark gözetmek_s1",
+      "text": "Hiç [fark gözetmek] etmediği için herkese eşit davranırdı.",
+      "note": null
+    },
+    {
+      "id": "fark gözetmek_s2",
+      "text": "Zengin ve fakir arasında [fark gözetmemesi] takdir edilir.",
+      "note": null
+    },
+    {
+      "id": "fark gözetmek_s3",
+      "text": "Öğretmen öğrenciler arasında [fark gözetmemelidir].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "fark gözetmek_r1",
+      "prompt": "İnsanlar arasında ayrım yapma veya ayırımcılık yapma anlamında hangi ifade kullanılır?",
+      "accepted_forms": ["fark gözetmek", "fark gözetmemek", "fark gözetmiş", "fark gözetmeyen"],
+      "note": null
+    },
+    {
+      "id": "fark gözetmek_r2",
+      "prompt": "İyi bir lider tüm çalışanları arasında _____ etmez.",
+      "accepted_forms": ["fark gözetmez", "fark gözetmiyor", "fark gözetmez"],
+      "note": null
+    }
+  ]
+}

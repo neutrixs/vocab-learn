@@ -1,0 +1,36 @@
+{
+  "word": "talimat",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "instruction, directive",
+  "sentences": [
+    {
+      "id": "talimat_s1",
+      "text": "Doktor hastaya tıbbi [talimat] verdi.",
+      "note": null
+    },
+    {
+      "id": "talimat_s2",
+      "text": "[Talimat]ları dikkatlice oku ve uygula.",
+      "note": null
+    },
+    {
+      "id": "talimat_s3",
+      "text": "Yönetici çalışanlara yeni [talimat]lar iletti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "talimat_r1",
+      "prompt": "Öğretmen ödevle ilgili _____ yazılı olarak verdi.",
+      "accepted_forms": ["talimat", "talimatlar", "talimattı", "talimatını"]
+    },
+    {
+      "id": "talimat_r2",
+      "prompt": "Makine kullanmak için _____ takip et.",
+      "accepted_forms": ["talimatı", "talimatları", "talimat"]
+    }
+  ]
+}

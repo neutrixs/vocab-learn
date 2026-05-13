@@ -1,0 +1,43 @@
+{
+  "word": "kesinleşmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to become definite, to be finalized",
+  "sentences": [
+    {
+      "id": "kesinleşmek_s1",
+      "text": "Toplantıdan sonra karar [kesinleşti].",
+      "note": null
+    },
+    {
+      "id": "kesinleşmek_s2",
+      "text": "Randevu saati henüz [kesinleşmedi].",
+      "note": null
+    },
+    {
+      "id": "kesinleşmek_s3",
+      "text": "Proje başlangıç tarihi [kesinleşince] duyuru yapılacak.",
+      "note": null
+    },
+    {
+      "id": "kesinleşmek_s4",
+      "text": "Sözleşme imzalandıktan sonra anlaşma [kesinleşti].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kesinleşmek_r1",
+      "prompt": "Bir şeyin belirsiz veya değişken olmaktan çıkıp artık değişmeyecek hale gelmesini anlatan fiil nedir?",
+      "accepted_forms": ["kesinleşmek", "kesinleşti", "kesinleşir", "kesinleşince"],
+      "note": null
+    },
+    {
+      "id": "kesinleşmek_r2",
+      "prompt": "Müzakere sona erdikten sonra anlaşmanın son şekli ne olur?",
+      "accepted_forms": ["kesinleşir", "kesinleşti", "kesinleşmek", "kesinleştir"],
+      "note": null
+    }
+  ]
+}

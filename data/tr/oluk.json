@@ -1,0 +1,43 @@
+{
+  "word": "oluk",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "gutter, groove, channel",
+  "sentences": [
+    {
+      "id": "oluk_s1",
+      "text": "Çatının [oluk]ları temizlendi.",
+      "note": null
+    },
+    {
+      "id": "oluk_s2",
+      "text": "Yağmur [oluk]tan akıyor.",
+      "note": null
+    },
+    {
+      "id": "oluk_s3",
+      "text": "[Oluk] sisteminin bakımı önemlidir.",
+      "note": null
+    },
+    {
+      "id": "oluk_s4",
+      "text": "Tren rayının yanında [oluk] yapılmıştır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "oluk_r1",
+      "prompt": "Çatıdan yağmur suyunun akıtıldığı metal veya plastik boru",
+      "accepted_forms": ["oluk", "oluğu", "oluklarda", "oluktan"],
+      "note": null
+    },
+    {
+      "id": "oluk_r2",
+      "prompt": "Bir şeyin akması veya geçmesi için yapılmış kanal",
+      "accepted_forms": ["oluk", "oluklar", "oluğun", "oluğa"],
+      "note": null
+    }
+  ]
+}

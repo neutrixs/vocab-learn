@@ -1,0 +1,43 @@
+{
+  "word": "bronz",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "bronze",
+  "sentences": [
+    {
+      "id": "bronz_s1",
+      "text": "Bu antik heykel saf [bronz]dan yapılmıştır.",
+      "note": null
+    },
+    {
+      "id": "bronz_s2",
+      "text": "Olimpiyat oyunlarında kazananlar [bronz], gümüş ve altın madalya alırlar.",
+      "note": null
+    },
+    {
+      "id": "bronz_s3",
+      "text": "[bronz] Çağında teknoloji büyük ilerleme kaydetti.",
+      "note": null
+    },
+    {
+      "id": "bronz_s4",
+      "text": "Bu [bronz] tablo sanat galerilerinde değerli bir eserdir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bronz_r1",
+      "prompt": "Antik çağda önemli bir metalli madde olan ve Bronz Çağ olarak adlandırılan dönemi veren metal nedir?",
+      "accepted_forms": ["bronz", "bronzu", "bronzdan", "bronz metal"],
+      "note": null
+    },
+    {
+      "id": "bronz_r2",
+      "prompt": "Spor yarışmalarında üçüncü sıradaki kazananın aldığı, altın ve gümüşten sonraki madalyanın rengi nedir?",
+      "accepted_forms": ["bronz", "bronzdan yapılmış", "bronz madalya", "bronz ödül"],
+      "note": null
+    }
+  ]
+}

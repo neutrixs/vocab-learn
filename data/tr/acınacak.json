@@ -1,0 +1,48 @@
+{
+  "word": "acınacak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "pitiable, pitiful, deserving of pity",
+  "sentences": [
+    {
+      "id": "acınacak_s1",
+      "text": "Çocuğun [acınacak] durumu herkesi etkiledi.",
+      "note": null
+    },
+    {
+      "id": "acınacak_s2",
+      "text": "Mağdurların [acınacak] hikayelerini dinlemek zordur.",
+      "note": null
+    },
+    {
+      "id": "acınacak_s3",
+      "text": "[acınacak] bir durumdaki aileyi yardımcı olmaya çalıştık.",
+      "note": null
+    },
+    {
+      "id": "acınacak_s4",
+      "text": "Hastanın [acınacak] halini gördüğümde üzüldüm.",
+      "note": null
+    },
+    {
+      "id": "acınacak_s5",
+      "text": "Bu [acınacak] koşullar insanlar için vazgeçilmez değil.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "acınacak_r1",
+      "prompt": "Acı çeken ve bize merhamet duygularını uyandıran kimse veya şey ...",
+      "accepted_forms": ["acınacak", "acınacağı", "acınacakları"],
+      "note": null
+    },
+    {
+      "id": "acınacak_r2",
+      "prompt": "Çocuğun yoksul ve hasta hali gerçekten ... idi.",
+      "accepted_forms": ["acınacak", "acınacaktı"],
+      "note": null
+    }
+  ]
+}

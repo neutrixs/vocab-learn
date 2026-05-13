@@ -1,0 +1,43 @@
+{
+  "word": "mide bulantısı",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "nausea, feeling sick",
+  "sentences": [
+    {
+      "id": "mide bulantısı_s1",
+      "text": "Gemide [mide bulantısı] hissediyorum.",
+      "note": null
+    },
+    {
+      "id": "mide bulantısı_s2",
+      "text": "Bu ilaç kullandıktan sonra [mide bulantısı] başladı.",
+      "note": null
+    },
+    {
+      "id": "mide bulantısı_s3",
+      "text": "Hasta çocuk [mide bulantısı]ndan şikayet ediyor.",
+      "note": null
+    },
+    {
+      "id": "mide bulantısı_s4",
+      "text": "[mide bulantısı] genellikle stres ve sinirlilikle ilgilidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "mide bulantısı_r1",
+      "prompt": "Kusmak istediğini hisseden kişinin yaşadığı rahatsızlığa ne denir?",
+      "accepted_forms": ["mide bulantısı", "mide bulantısı hissediyorum", "mide bulantısı var", "mide bulantısının"],
+      "note": null
+    },
+    {
+      "id": "mide bulantısı_r2",
+      "prompt": "Denizde kötü hava koşullarında insanlar genellikle hangi semptomdan şikayet ederler?",
+      "accepted_forms": ["mide bulantısından", "mide bulantısı", "mide bulantısıyla", "mide bulantısı hissetmek"],
+      "note": null
+    }
+  ]
+}

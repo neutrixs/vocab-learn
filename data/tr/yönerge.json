@@ -1,0 +1,36 @@
+{
+  "word": "yönerge",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "guideline, directive",
+  "sentences": [
+    {
+      "id": "yönerge_s1",
+      "text": "Kurum [yönerge]lerine göre çalışılmalı.",
+      "note": null
+    },
+    {
+      "id": "yönerge_s2",
+      "text": "Sağlık [yönerge]si tüm hastanelere gönderildi.",
+      "note": null
+    },
+    {
+      "id": "yönerge_s3",
+      "text": "Proje [yönerge]sini okudun mu?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yönerge_r1",
+      "prompt": "Devlet _____ yayınladı.",
+      "accepted_forms": ["yönerge", "yönergeleri", "yönergeler", "yönergesi"]
+    },
+    {
+      "id": "yönerge_r2",
+      "prompt": "Bu _____ herkese duyurulmuş.",
+      "accepted_forms": ["yönerge", "yönergeler", "yönergesi"]
+    }
+  ]
+}

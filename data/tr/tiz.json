@@ -1,0 +1,43 @@
+{
+  "word": "tiz",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "shrill, high-pitched, piercing",
+  "sentences": [
+    {
+      "id": "tiz_s1",
+      "text": "Kuşun [tiz] çığlığı sabah erken saatlerinde duyuldu.",
+      "note": null
+    },
+    {
+      "id": "tiz_s2",
+      "text": "Sesi çok [tiz] olduğu için herkesi rahatsız ediyordu.",
+      "note": null
+    },
+    {
+      "id": "tiz_s3",
+      "text": "[Tiz] bir sesin işitilmesi çoğu insanda hoşnutsuzluk yaratır.",
+      "note": null
+    },
+    {
+      "id": "tiz_s4",
+      "text": "Flütün [tiz] sesleri müzisyenin teknik becerisini gösterir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tiz_r1",
+      "prompt": "Çok yüksek ve rahatsız edici sesi tanımlayan sıfat nedir?",
+      "accepted_forms": ["tiz", "tiz bir", "tize", "tizdir"],
+      "note": null
+    },
+    {
+      "id": "tiz_r2",
+      "prompt": "Kuş çığlığının ses kalitesini tanımlamak için hangi kelimeyi kullanırsınız?",
+      "accepted_forms": ["tiz", "tiz sesli", "tiz çığlık", "tizi"],
+      "note": null
+    }
+  ]
+}

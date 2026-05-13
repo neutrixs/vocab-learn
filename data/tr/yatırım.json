@@ -1,0 +1,43 @@
+{
+  "word": "yatırım",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "investment",
+  "sentences": [
+    {
+      "id": "yatırım_s1",
+      "text": "Borsa'ya [yatırım] yapmak riskli olabilir.",
+      "note": null
+    },
+    {
+      "id": "yatırım_s2",
+      "text": "[Yatırımınız] iyi bir getiri sağlayabilir.",
+      "note": null
+    },
+    {
+      "id": "yatırım_s3",
+      "text": "Eğitime yapılan [yatırım] en değerli olanıdır.",
+      "note": null
+    },
+    {
+      "id": "yatırım_s4",
+      "text": "[Yatırım] kararlarını dikkatlice alma gerekir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yatırım_r1",
+      "prompt": "Gelecekte kar elde etmek amacıyla para ya da kaynak ayırma işlemi nedir?",
+      "accepted_forms": ["yatırım", "yatırımı", "yatırımlar", "yatırımının"],
+      "note": null
+    },
+    {
+      "id": "yatırım_r2",
+      "prompt": "Hisse senetlerine _____ yapmak istiyorum.",
+      "accepted_forms": ["yatırım"],
+      "note": null
+    }
+  ]
+}

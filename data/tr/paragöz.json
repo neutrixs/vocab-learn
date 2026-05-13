@@ -1,0 +1,43 @@
+{
+  "word": "paragöz",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "unscrupulous person, cheat, swindler",
+  "sentences": [
+    {
+      "id": "paragöz_s1",
+      "text": "Bu [paragöz] dolandırıcı birçok kişiyi zarara uğrattı.",
+      "note": null
+    },
+    {
+      "id": "paragöz_s2",
+      "text": "[Paragöz] birisi onu kandırıp tüm parasını aldı.",
+      "note": null
+    },
+    {
+      "id": "paragöz_s3",
+      "text": "Sokakta [paragöz] insanlardan dikkat etmek gerekir.",
+      "note": null
+    },
+    {
+      "id": "paragöz_s4",
+      "text": "O [paragöz] adam bütün tasarruflarını çalıp kaçtı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "paragöz_r1",
+      "prompt": "Başkalarının parasını aldatarak çalmaya çalışan hilekâr bir kişiyi ne diye çağırırız?",
+      "accepted_forms": ["paragöz", "paragöz kişi", "paragöz adam"],
+      "note": null
+    },
+    {
+      "id": "paragöz_r2",
+      "prompt": "Hilesiyle insanları zarara uğratan, dolandırıcı birini tanımlamak için hangi kelime kullanırız?",
+      "accepted_forms": ["paragöz", "paragöz birisi", "paragöz olmak"],
+      "note": null
+    }
+  ]
+}

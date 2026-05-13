@@ -1,0 +1,43 @@
+{
+  "word": "yönlendirmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to direct, to guide, to steer",
+  "sentences": [
+    {
+      "id": "yönlendirmek_s1",
+      "text": "Öğretmen öğrenciyi doğru yola [yönlendir]ti.",
+      "note": null
+    },
+    {
+      "id": "yönlendirmek_s2",
+      "text": "Trafik polisi arabaları [yönlendir]iyor.",
+      "note": null
+    },
+    {
+      "id": "yönlendirmek_s3",
+      "text": "Danışman müşteriyi iyi bir seçime [yönlendirdi].",
+      "note": null
+    },
+    {
+      "id": "yönlendirmek_s4",
+      "text": "Bu projede ben sizi [yönlendir]eceğim.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yönlendirmek_r1",
+      "prompt": "Doktor hastayı doğru tedaviye ... etti.",
+      "accepted_forms": ["yönlendirdi", "yönlendir", "yönlendirmiş"],
+      "note": null
+    },
+    {
+      "id": "yönlendirmek_r2",
+      "prompt": "Rehberimiz bizi turun tamamı boyunca ... ediyor.",
+      "accepted_forms": ["yönlendiriyor", "yönlendir", "yönlendirme"],
+      "note": null
+    }
+  ]
+}

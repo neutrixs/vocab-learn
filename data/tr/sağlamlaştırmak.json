@@ -1,0 +1,43 @@
+{
+  "word": "sağlamlaştırmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to solidify, to strengthen, to stabilize",
+  "sentences": [
+    {
+      "id": "sağlamlaştırmak_s1",
+      "text": "Müteahhit binanın yapısını [sağlamlaştırmak] için çalışıyor.",
+      "note": null
+    },
+    {
+      "id": "sağlamlaştırmak_s2",
+      "text": "Emniyet kemeri [sağlamlaştırmak] için sistemde iyileştirme yapıldı.",
+      "note": null
+    },
+    {
+      "id": "sağlamlaştırmak_s3",
+      "text": "Yönetim kontrolünü [sağlamlaştırmak] için yeni kurallar uyguladı.",
+      "note": null
+    },
+    {
+      "id": "sağlamlaştırmak_s4",
+      "text": "Temelini daha iyi [sağlamlaştırmak] amacıyla inşaat devam ediyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sağlamlaştırmak_r1",
+      "prompt": "Bir yapının, kurumun ya da ilişkinin daha sağlam, güvenilir ve dayanıklı hale getirilmesi için yapılan işlem nedir?",
+      "accepted_forms": ["sağlamlaştırmak", "sağlamlaştırılı", "sağlamlaştırdı", "sağlamlaştırması"],
+      "note": null
+    },
+    {
+      "id": "sağlamlaştırmak_r2",
+      "prompt": "İnşaatlarda zeminleri daha dirençli kılmak amacıyla hangi fiil kullanılır?",
+      "accepted_forms": ["sağlamlaştırmak", "sağlamlaştırma", "sağlamlaştırması", "sağlamlaştırıyor"],
+      "note": null
+    }
+  ]
+}

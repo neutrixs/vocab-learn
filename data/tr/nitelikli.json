@@ -1,0 +1,43 @@
+{
+  "word": "nitelikli",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "qualified, competent, skilled, high-quality",
+  "sentences": [
+    {
+      "id": "nitelikli_s1",
+      "text": "[Nitelikli] bir doktor bulmak zor.",
+      "note": null
+    },
+    {
+      "id": "nitelikli_s2",
+      "text": "Bu projeye [nitelikli] mühendisler gerekli.",
+      "note": null
+    },
+    {
+      "id": "nitelikli_s3",
+      "text": "[Nitelikli] personel işletmenin başarısıdır.",
+      "note": null
+    },
+    {
+      "id": "nitelikli_s4",
+      "text": "[Nitelikli] kağıt ve mürekkep ile iyi yazı yazılır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "nitelikli_r1",
+      "prompt": "Belirli bir işi yapabileceği bilgisi ve yetenekleri olan kişi veya nesneyi tanımlayan sözcük.",
+      "accepted_forms": ["nitelikli", "niteliksiz", "nitelikli", "niteliği"],
+      "note": null
+    },
+    {
+      "id": "nitelikli_r2",
+      "prompt": "Yeterli bilgi ve beceriye sahip, profesyonel standartları karşılayan ürün veya insan.",
+      "accepted_forms": ["nitelikli", "niteliğini", "niteliğe", "niteliğin"],
+      "note": null
+    }
+  ]
+}

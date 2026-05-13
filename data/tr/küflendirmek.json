@@ -1,0 +1,43 @@
+{
+  "word": "küflendirmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to mold, to cause to get moldy",
+  "sentences": [
+    {
+      "id": "küflendirmek_s1",
+      "text": "Nemli ortam ekmeği hızlıca [küflendiriyor].",
+      "note": null
+    },
+    {
+      "id": "küflendirmek_s2",
+      "text": "Uygunsuz depolama koşulları üzümü [küflendirdi].",
+      "note": null
+    },
+    {
+      "id": "küflendirmek_s3",
+      "text": "Kütüphanede çok nemli olan alan kitapları [küflendirmek] için uygun koşullar oluşturuyor.",
+      "note": null
+    },
+    {
+      "id": "küflendirmek_s4",
+      "text": "Dışarıdan getirilen malları bu şekilde [küflendirme]ye çalışıyoruz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "küflendirmek_r1",
+      "prompt": "Yiyecekleri veya maddeleri nemlendirerek küf görmesine neden olmak hangi işlemdir?",
+      "accepted_forms": ["küflendirmek", "küflendiriyor", "küflendirdi", "küflendirtme"],
+      "note": null
+    },
+    {
+      "id": "küflendirmek_r2",
+      "prompt": "Uygunsuz depolama koşullarında ekmek veya gıda maddelerini bozuk hale getirmek ne denir?",
+      "accepted_forms": ["küflendirmek", "küflendirme", "küflendirir", "küflendirilen"],
+      "note": null
+    }
+  ]
+}

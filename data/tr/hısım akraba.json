@@ -1,0 +1,43 @@
+{
+  "word": "hısım akraba",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "phrase",
+  "english_gloss": "relative, kinsman",
+  "sentences": [
+    {
+      "id": "hısım akraba_s1",
+      "text": "[Hısım akraba]ları dün ziyarete geldi.",
+      "note": null
+    },
+    {
+      "id": "hısım akraba_s2",
+      "text": "Bayramda bütün [hısım akraba]lar toplanır.",
+      "note": null
+    },
+    {
+      "id": "hısım akraba_s3",
+      "text": "[Hısım akraba]sı ona yardım etti.",
+      "note": null
+    },
+    {
+      "id": "hısım akraba_s4",
+      "text": "Evlilikten sonra [hısım akraba]ların sayısı arttı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hısım akraba_r1",
+      "prompt": "Kan bağıyla ilişkili olan aile fertleri",
+      "accepted_forms": ["hısım akraba", "hısım akrabası", "hısım akrabaları", "hısım akrabalar"],
+      "note": null
+    },
+    {
+      "id": "hısım akraba_r2",
+      "prompt": "Ailenin yakın veya uzak üyeleri",
+      "accepted_forms": ["hısım akraba", "hısım akrabam", "hısım akrabamız", "hısım akraba ile"],
+      "note": null
+    }
+  ]
+}

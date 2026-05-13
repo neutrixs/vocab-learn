@@ -1,0 +1,43 @@
+{
+  "word": "bükük",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "bent, curved, crooked, hunched",
+  "sentences": [
+    {
+      "id": "bükük_s1",
+      "text": "Yaşlı adam [bükük] sırtıyla yürüyordu.",
+      "note": null
+    },
+    {
+      "id": "bükük_s2",
+      "text": "Demir çubuk [bükük] durumda kalmıştı.",
+      "note": null
+    },
+    {
+      "id": "bükük_s3",
+      "text": "[Bükük] ağacın gövdesi güzeldi.",
+      "note": null
+    },
+    {
+      "id": "bükük_s4",
+      "text": "[Bükük] değneğini düzeltmeye çalışıyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bükük_r1",
+      "prompt": "Düz olmayan, kıvrım ve bükümle şekil almış fiziksel durum.",
+      "accepted_forms": ["bükük", "bükük", "bükükler", "bükük"],
+      "note": null
+    },
+    {
+      "id": "bükük_r2",
+      "prompt": "Şekli değiştirilmiş, eğilmiş ve açılmamış nesne veya vücut pozisyonu.",
+      "accepted_forms": ["bükük", "bükükten", "bükük", "bükü"],
+      "note": null
+    }
+  ]
+}

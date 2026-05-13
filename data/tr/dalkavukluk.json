@@ -1,0 +1,43 @@
+{
+  "word": "dalkavukluk",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "buffoonery, clownish behavior, foolishness",
+  "sentences": [
+    {
+      "id": "dalkavukluk_s1",
+      "text": "Toplantıda [dalkavukluk] yaparak herkesi gülmeye getirdi.",
+      "note": null
+    },
+    {
+      "id": "dalkavukluk_s2",
+      "text": "[Dalkavukluk]tan başka bir şey yapmıyor artık.",
+      "note": null
+    },
+    {
+      "id": "dalkavukluk_s3",
+      "text": "Onun [dalkavukluk] yüzünden hiç ciddiye alınmaz.",
+      "note": null
+    },
+    {
+      "id": "dalkavukluk_s4",
+      "text": "[Dalkavukluk] yerine biraz sorumluluk gösterse iyi olur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dalkavukluk_r1",
+      "prompt": "Gülünç ve mantıksız davranışlar yaparak insanları eğlenme amaçlı şakalaştırma.",
+      "accepted_forms": ["dalkavukluk", "dalkavukluğu", "dalkavukluktan", "dalkavukluklardan"],
+      "note": null
+    },
+    {
+      "id": "dalkavukluk_r2",
+      "prompt": "Ciddi olmayan, mantıksız ve komik davranış biçimini tanımlayan sözcük.",
+      "accepted_forms": ["dalkavukluk", "dalkavukluğa", "dalkavukluklar", "dalkavukluğın"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "aydınlatmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to illuminate, to light up, to clarify, to enlighten",
+  "sentences": [
+    {
+      "id": "aydınlatmak_s1",
+      "text": "Elektrik ampulleri odayı [aydınlatmak] için kullanılır.",
+      "note": null
+    },
+    {
+      "id": "aydınlatmak_s2",
+      "text": "Öğretmen karmaşık konuyu örneklerle [aydınlatmaya] çalıştı.",
+      "note": null
+    },
+    {
+      "id": "aydınlatmak_s3",
+      "text": "Polis olay hakkında daha fazla bilgi [aydınlattığında] suçlu bulundu.",
+      "note": null
+    },
+    {
+      "id": "aydınlatmak_s4",
+      "text": "Sokaklar şafak vaktinde doğal ışık tarafından [aydınlatılır].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "aydınlatmak_r1",
+      "prompt": "Karanlık bir yeri ışık vasıtasıyla görünür kılmak hangi fiille ifade edilir?",
+      "accepted_forms": ["aydınlatmak", "aydınlattı", "aydınlatıyor", "aydınlat"],
+      "note": null
+    },
+    {
+      "id": "aydınlatmak_r2",
+      "prompt": "Karmaşık bir konuyu açıklamak veya anlaşılır kılmak anlamında hangi kelimeyi kullanırsınız?",
+      "accepted_forms": ["aydınlatmak", "aydınlatması", "aydınlattığında", "aydınlatan"],
+      "note": null
+    }
+  ]
+}

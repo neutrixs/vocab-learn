@@ -1,0 +1,43 @@
+{
+  "word": "lağım",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "sewer, drain",
+  "sentences": [
+    {
+      "id": "lağım_s1",
+      "text": "Şehrin [lağım] sistemi çok eski ve bakım görmüyor.",
+      "note": null
+    },
+    {
+      "id": "lağım_s2",
+      "text": "[Lağım] borularında sıkışıklık yaşanıyor.",
+      "note": null
+    },
+    {
+      "id": "lağım_s3",
+      "text": "Su tahliye için [lağım] hatları kullanılır.",
+      "note": null
+    },
+    {
+      "id": "lağım_s4",
+      "text": "Tesisatçı [lağım] arızasını tamir etti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "lağım_r1",
+      "prompt": "Ev atıklarının akıtıldığı yeraltı sistemi nedir?",
+      "accepted_forms": ["lağım", "lağımı", "lağım sistemi"],
+      "note": null
+    },
+    {
+      "id": "lağım_r2",
+      "prompt": "Evdeki pis suların akıtıldığı borulara ne denir?",
+      "accepted_forms": ["lağım", "lağımlar", "lağım boruları"],
+      "note": null
+    }
+  ]
+}

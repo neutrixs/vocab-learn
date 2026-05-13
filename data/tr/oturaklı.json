@@ -1,0 +1,43 @@
+{
+  "word": "oturaklı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "solid, stable, established",
+  "sentences": [
+    {
+      "id": "oturaklı_s1",
+      "text": "Onun [oturaklı] bir işi ve evi vardır.",
+      "note": null
+    },
+    {
+      "id": "oturaklı_s2",
+      "text": "[Oturaklı] bir müşteri grubu işinin başarısını garantiler.",
+      "note": null
+    },
+    {
+      "id": "oturaklı_s3",
+      "text": "Sandalyenin ayakları [oturaklı]dır.",
+      "note": null
+    },
+    {
+      "id": "oturaklı_s4",
+      "text": "[Oturaklı] geliri olan insanlar daha huzurlu yaşarlar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "oturaklı_r1",
+      "prompt": "Güvenli, stabil ve kalıcı olan şeyleri tanımlamak için hangi sıfat kullanılır?",
+      "accepted_forms": ["oturaklı", "oturaklısı", "oturaklıdır", "oturaklısında"],
+      "note": null
+    },
+    {
+      "id": "oturaklı_r2",
+      "prompt": "Ayakları sağlam ve _____ olan bir koltuk tercih ederim.",
+      "accepted_forms": ["oturaklı"],
+      "note": null
+    }
+  ]
+}

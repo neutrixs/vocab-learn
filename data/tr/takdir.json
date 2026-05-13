@@ -1,0 +1,43 @@
+{
+  "word": "takdir",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "destiny, fate, determination, appreciation",
+  "sentences": [
+    {
+      "id": "takdir_s1",
+      "text": "[Takdir]e boyun eğmek insanı huzurlu yapar.",
+      "note": null
+    },
+    {
+      "id": "takdir_s2",
+      "text": "Hayatın [takdir]i bazen beklentilerimizden farklı olur.",
+      "note": null
+    },
+    {
+      "id": "takdir_s3",
+      "text": "Onun başarısı [takdir] edilmeyi hak ediyor.",
+      "note": null
+    },
+    {
+      "id": "takdir_s4",
+      "text": "[Takdir] etmek demek birinin çalışmasını tanımak demektir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "takdir_r1",
+      "prompt": "Birinin yapabileceğinin ötesinde olan ve başka bir güç tarafından belirlenmiş olan durum?",
+      "accepted_forms": ["takdir", "takdiri", "takdire", "taqdirin"],
+      "note": null
+    },
+    {
+      "id": "takdir_r2",
+      "prompt": "Birinin çalışmasının, başarısının değerini tanımak ve saygı göstermek?",
+      "accepted_forms": ["takdir", "takdir etmek", "takdire", "taqdirin"],
+      "note": null
+    }
+  ]
+}

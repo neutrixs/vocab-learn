@@ -1,0 +1,43 @@
+{
+  "word": "sıvamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to whitewash, to plaster, to coat",
+  "sentences": [
+    {
+      "id": "sıvamak_s1",
+      "text": "Ustalar duvarı beyaz renkte [sıva]dılar.",
+      "note": null
+    },
+    {
+      "id": "sıvamak_s2",
+      "text": "Ev sahibi evini [sıva]ttırmak için usta buldu.",
+      "note": null
+    },
+    {
+      "id": "sıvamak_s3",
+      "text": "Bahçe duvarını [sıva]mak gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "sıvamak_s4",
+      "text": "Inşaat işçileri binayı [sıva]yıp boyamışlar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sıvamak_r1",
+      "prompt": "Duvarın üzerine harç döküp düz ve pürüzsüz hale getirmek anlamına gelen fiil nedir?",
+      "accepted_forms": ["sıvamak", "sıva", "sıvadı", "sıvattı"],
+      "note": null
+    },
+    {
+      "id": "sıvamak_r2",
+      "prompt": "Tuğla duvarın üzerine çimento karışımı uygulamak için hangi fiili kullanırız?",
+      "accepted_forms": ["sıvamak", "sıvandı", "sıvadı", "sıvaması"],
+      "note": null
+    }
+  ]
+}

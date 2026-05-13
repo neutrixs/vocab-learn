@@ -1,0 +1,43 @@
+{
+  "word": "çöküntü",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "collapse, cave-in, depression",
+  "sentences": [
+    {
+      "id": "çöküntü_s1",
+      "text": "Madenin [çöküntü]sü nedeniyle işçilerin tahliyesi yapıldı.",
+      "note": null
+    },
+    {
+      "id": "çöküntü_s2",
+      "text": "Yol [çöküntü]nden dolayı kapalı.",
+      "note": null
+    },
+    {
+      "id": "çöküntü_s3",
+      "text": "Zemin [çöküntü]ne karşı önlemler alınması gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "çöküntü_s4",
+      "text": "Ekonomide [çöküntü] yaşandığını herkes biliyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çöküntü_r1",
+      "prompt": "Bir yapının ya da zeminin aniden çökmesiyle oluşan durum ...",
+      "accepted_forms": ["çöküntü", "çöküntüsü", "çöküntüden", "çöküntüye"],
+      "note": null
+    },
+    {
+      "id": "çöküntü_r2",
+      "prompt": "Tünelden kaynaklanan ... yüzünden yol kapandı.",
+      "accepted_forms": ["çöküntü", "çöküntü"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "dalga geçmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "phrase",
+  "english_gloss": "to make fun of, to tease, to mock",
+  "sentences": [
+    {
+      "id": "dalga geçmek_s1",
+      "text": "Ablası ona hep [dalga geçer].",
+      "note": null
+    },
+    {
+      "id": "dalga geçmek_s2",
+      "text": "Kimse onun kıyafetinden [dalga geçmek] istemez.",
+      "note": null
+    },
+    {
+      "id": "dalga geçmek_s3",
+      "text": "Onların [dalga geçmesi] beni rahatsız ediyor.",
+      "note": null
+    },
+    {
+      "id": "dalga geçmek_s4",
+      "text": "[Dalga geçme], lütfen seninle ciddi konuşmak istiyorum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dalga geçmek_r1",
+      "prompt": "Birini alay ederek veya onu güldürerek espri yapmak?",
+      "accepted_forms": ["dalga geçmek", "dalga geçer", "dalga geçti", "dalga geçiyorum"],
+      "note": null
+    },
+    {
+      "id": "dalga geçmek_r2",
+      "prompt": "Birinin davranışı veya görünüşü hakkında komik şekilde yorum yapmak?",
+      "accepted_forms": ["dalga geçmek", "dalga geçti", "dalga geçme", "dalga geçerken"],
+      "note": null
+    }
+  ]
+}

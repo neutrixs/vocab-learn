@@ -1,0 +1,38 @@
+{
+  "word": "teşekkül etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to be formed, to be established, to take shape",
+  "sentences": [
+    {
+      "id": "teşekkül etmek_s1",
+      "text": "Yeni hükümet birkaç hafta içinde [teşekkül etmek] üzere olduğu duyuruldu.",
+      "note": null
+    },
+    {
+      "id": "teşekkül etmek_s2",
+      "text": "Bu komite üç ay öncesinde [teşekkül etmek]ti ve çok başarılı işler yaptı.",
+      "note": null
+    },
+    {
+      "id": "teşekkül etmek_s3",
+      "text": "Yeni anayasa taslağı resmi olarak [teşekkül etmek] için bekleniyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "teşekkül etmek_r1",
+      "prompt": "Yeni bir denetim kurulu bu yıl ... ve harekete geçti.",
+      "accepted_forms": ["teşekkül etti", "teşekkül etmiş", "teşekkül"],
+      "note": null
+    },
+    {
+      "id": "teşekkül etmek_r2",
+      "prompt": "Parlamenter sistemi için gerekli ... bir seçim yapılacak.",
+      "accepted_forms": ["teşekkül etmek", "teşekkülü", "teşekkülün"],
+      "note": null
+    }
+  ]
+}

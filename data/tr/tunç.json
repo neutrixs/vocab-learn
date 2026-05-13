@@ -1,0 +1,43 @@
+{
+  "word": "tunç",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "bronze",
+  "sentences": [
+    {
+      "id": "tunç_s1",
+      "text": "Atatürk heykeli [tunç]tan yapılmıştır.",
+      "note": null
+    },
+    {
+      "id": "tunç_s2",
+      "text": "Antik çağda [tunç] silahların üretiminde önemli bir malzeme idi.",
+      "note": null
+    },
+    {
+      "id": "tunç_s3",
+      "text": "Müzede eski [tunç] madeni paralar sergileniyor.",
+      "note": null
+    },
+    {
+      "id": "tunç_s4",
+      "text": "Bu [tunç] heykel 2000 yıllık tarihte sahiptir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tunç_r1",
+      "prompt": "Bakır ve kalay karışımından oluşan ve antik çağda silahlar yapımında kullanılan metal nedir?",
+      "accepted_forms": ["tunç", "tunçtan", "tunç ise", "tunçla"],
+      "note": null
+    },
+    {
+      "id": "tunç_r2",
+      "prompt": "Heykelcilik ve sanat eserlerinde genellikle kullanılan göz kamaştırıcı, altın rengi metalleri ne denir?",
+      "accepted_forms": ["tunç", "tunçu", "tunçtan", "tunç veya bronz"],
+      "note": null
+    }
+  ]
+}

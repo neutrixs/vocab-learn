@@ -1,0 +1,36 @@
+{
+  "word": "diyanet işleri başkanlığı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "Directorate of Religious Affairs",
+  "sentences": [
+    {
+      "id": "diyanet işleri başkanlığı_s1",
+      "text": "[Diyanet işleri başkanlığı] Müslümanları yönlendirir.",
+      "note": null
+    },
+    {
+      "id": "diyanet işleri başkanlığı_s2",
+      "text": "[Diyanet işleri başkanlığı] tarafından vaazlar hazırlanır.",
+      "note": null
+    },
+    {
+      "id": "diyanet işleri başkanlığı_s3",
+      "text": "Camiler [diyanet işleri başkanlığı]ına bağlı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "diyanet işleri başkanlığı_r1",
+      "prompt": "_____ Türkiye'de dinî işleri koordine eder.",
+      "accepted_forms": ["diyanet işleri başkanlığı", "diyanet işleri başkanlığının", "diyanetçe"]
+    },
+    {
+      "id": "diyanet işleri başkanlığı_r2",
+      "prompt": "Cami imamı _____ emrindedir.",
+      "accepted_forms": ["diyanet işleri başkanlığının", "diyanet işleri başkanlığı"]
+    }
+  ]
+}

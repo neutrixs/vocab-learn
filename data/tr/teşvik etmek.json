@@ -1,0 +1,43 @@
+{
+  "word": "teşvik etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to encourage, promote, incite",
+  "sentences": [
+    {
+      "id": "teşvik etmek_s1",
+      "text": "Öğretmen öğrencileri akademik başarıya [teşvik etmek] için çalışıyor.",
+      "note": null
+    },
+    {
+      "id": "teşvik etmek_s2",
+      "text": "Hükümet yenilenebilir enerji kullanımını [teşvik ediyor].",
+      "note": null
+    },
+    {
+      "id": "teşvik etmek_s3",
+      "text": "Ailesi onu bu kariyer yolunda [teşvik etti].",
+      "note": null
+    },
+    {
+      "id": "teşvik etmek_s4",
+      "text": "Spor eğitmeneri sporcu olmaya [teşvik etmiş].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "teşvik etmek_r1",
+      "prompt": "Velilerin çocuklarını okula devam etmeye isteklendirmeleri lazım. Ne yapmalılar?",
+      "accepted_forms": ["teşvik etmeli", "teşvik etmek", "teşvik ediyor", "teşvik ettik"],
+      "note": null
+    },
+    {
+      "id": "teşvik etmek_r2",
+      "prompt": "Doktor hastalara sağlıklı yaşamayı ___.",
+      "accepted_forms": ["teşvik ediyor", "teşvik etmek", "teşvik etti", "teşvik ettim"],
+      "note": null
+    }
+  ]
+}

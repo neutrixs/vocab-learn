@@ -1,0 +1,43 @@
+{
+  "word": "batık",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "sunken, sunk, submerged",
+  "sentences": [
+    {
+      "id": "batık_s1",
+      "text": "Denizde [batık] bir gemi bulundu.",
+      "note": null
+    },
+    {
+      "id": "batık_s2",
+      "text": "Eski şehrin [batık] kalıntıları arkeologlar tarafından inceleniyor.",
+      "note": null
+    },
+    {
+      "id": "batık_s3",
+      "text": "Göldeki [batık] ağaçlar su altında kalmıştı.",
+      "note": null
+    },
+    {
+      "id": "batık_s4",
+      "text": "Titanic [batık] bir gemi olarak bilinir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "batık_r1",
+      "prompt": "Denizin dibinde bulunan bir gemi nasıl sifatlanır?",
+      "accepted_forms": ["batık", "batıktır", "batık gemi"],
+      "note": null
+    },
+    {
+      "id": "batık_r2",
+      "prompt": "Su altında kalmış hazineler ___ sayılır.",
+      "accepted_forms": ["batık", "batık hazine", "batık eserler"],
+      "note": null
+    }
+  ]
+}

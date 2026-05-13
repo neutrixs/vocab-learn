@@ -1,0 +1,43 @@
+{
+  "word": "aşama aşama",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "phrase",
+  "english_gloss": "step by step, gradually, stage by stage",
+  "sentences": [
+    {
+      "id": "aşama aşama_s1",
+      "text": "Proje [aşama aşama] ilerledi.",
+      "note": null
+    },
+    {
+      "id": "aşama aşama_s2",
+      "text": "[Aşama aşama], dil öğrenmek başarılı olur.",
+      "note": null
+    },
+    {
+      "id": "aşama aşama_s3",
+      "text": "İnşaat [aşama aşama] tamamlanıyor.",
+      "note": null
+    },
+    {
+      "id": "aşama aşama_s4",
+      "text": "[Aşama aşama] ilerlemeyi takip etmek kolaydır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "aşama aşama_r1",
+      "prompt": "Bir işi bir kerede yapmamaları, yavaş yavaş yapılması nasıl adlandırılır?",
+      "accepted_forms": ["aşama aşama", "aşama aşamasına", "aşamada"],
+      "note": null
+    },
+    {
+      "id": "aşama aşama_r2",
+      "prompt": "Dil öğrenme ___ başarıya ulaşır.",
+      "accepted_forms": ["aşama aşama", "aşamada aşamada"],
+      "note": null
+    }
+  ]
+}

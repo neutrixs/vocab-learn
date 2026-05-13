@@ -1,0 +1,43 @@
+{
+  "word": "sahiden",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adverb",
+  "english_gloss": "truly, really, genuinely, seriously",
+  "sentences": [
+    {
+      "id": "sahiden_s1",
+      "text": "[Sahiden] hiç inandım.",
+      "note": null
+    },
+    {
+      "id": "sahiden_s2",
+      "text": "Sana [sahiden] gerçeği söylemek istiyorum.",
+      "note": null
+    },
+    {
+      "id": "sahiden_s3",
+      "text": "[Sahiden] sen öyle mi düşünüyorsun?",
+      "note": null
+    },
+    {
+      "id": "sahiden_s4",
+      "text": "Bu [sahiden] en iyi restorandır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sahiden_r1",
+      "prompt": "Birisinin gerçekten ne düşündüğünü sorgulamak için cevap ver: ___ mi?",
+      "accepted_forms": ["sahiden", "gerçekten", "doğru mu"],
+      "note": null
+    },
+    {
+      "id": "sahiden_r2",
+      "prompt": "Bir şeyi ___ açıklamak istiyorum, hiç şaka yapmıyorum.",
+      "accepted_forms": ["sahiden", "gerçekten"],
+      "note": null
+    }
+  ]
+}

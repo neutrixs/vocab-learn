@@ -1,0 +1,43 @@
+{
+  "word": "içine doğma",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "innate, inborn, inherent",
+  "sentences": [
+    {
+      "id": "içine doğma_s1",
+      "text": "Müzik yapma yeteneği ona [içine doğma] idi.",
+      "note": null
+    },
+    {
+      "id": "içine doğma_s2",
+      "text": "[İçine doğma] bir güzellik vardı onun yüzünde.",
+      "note": null
+    },
+    {
+      "id": "içine doğma_s3",
+      "text": "Bazıları liderlik becerilerini [içine doğma] olarak taşırlar.",
+      "note": null
+    },
+    {
+      "id": "içine doğma_s4",
+      "text": "[İçine doğma] korkusu herkesi zarar görmekten korur.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "içine doğma_r1",
+      "prompt": "Doğuştan gelen, öğrenilmeyen ve doğal olan özellik ne denir?",
+      "accepted_forms": ["içine doğma", "içinde doğma", "içine doğmadır"],
+      "note": null
+    },
+    {
+      "id": "içine doğma_r2",
+      "prompt": "Yetenekler bazen ___ olabilir, eğitim gerektirmez.",
+      "accepted_forms": ["içine doğma", "içinde doğma"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "saptırmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to deflect, to divert, to lead astray, to sidetrack",
+  "sentences": [
+    {
+      "id": "saptırmak_s1",
+      "text": "Konudan [saptır]ma, lütfen cevap ver.",
+      "note": null
+    },
+    {
+      "id": "saptırmak_s2",
+      "text": "Ona kötü insanlar tarafından [saptırıl]dı.",
+      "note": null
+    },
+    {
+      "id": "saptırmak_s3",
+      "text": "Dikkatini başka konulara [saptırma]k kolay değil.",
+      "note": null
+    },
+    {
+      "id": "saptırmak_s4",
+      "text": "Beni yanlış yola [saptır]mamaya çalış.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "saptırmak_r1",
+      "prompt": "Birini doğru yoldan veya konudan uzaklaştırıp başka tarafa yönlendirmek.",
+      "accepted_forms": ["saptırmak", "saptırma", "saptırıldı", "saptırmayı"],
+      "note": null
+    },
+    {
+      "id": "saptırmak_r2",
+      "prompt": "Dikkat veya ilgiyi bir konudan başka bir şeye kaydırmak.",
+      "accepted_forms": ["saptırmak", "saptırdı", "saptırılmak", "saptırarak"],
+      "note": null
+    }
+  ]
+}

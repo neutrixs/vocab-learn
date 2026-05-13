@@ -1,0 +1,38 @@
+{
+  "word": "karşı çıkmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to oppose, to resist",
+  "sentences": [
+    {
+      "id": "karşı çıkmak_s1",
+      "text": "Halk, hükümetin kararına [karşı çık]tı ve protesto düzenledi.",
+      "note": null
+    },
+    {
+      "id": "karşı çıkmak_s2",
+      "text": "Arkadaşı [karşı çık]ıp, bu fikrin yanlış olduğunu söyledi.",
+      "note": null
+    },
+    {
+      "id": "karşı çıkmak_s3",
+      "text": "Doktor, [karşı çık]an hastalara açık bir şekilde uyarılar yaptı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "karşı çıkmak_r1",
+      "prompt": "Bir fikre veya kişiye direniş göstermek ne demektir?",
+      "accepted_forms": ["karşı çıkmak", "karşı çık", "karşı çıktı", "karşı çıkıyor"],
+      "note": null
+    },
+    {
+      "id": "karşı çıkmak_r2",
+      "prompt": "Protesto etmek ve isyan etmek anlamında hangi fiil cümlesi kullanılır?",
+      "accepted_forms": ["karşı çıkmak", "karşı çıkıyor", "karşı çıktığında"],
+      "note": null
+    }
+  ]
+}

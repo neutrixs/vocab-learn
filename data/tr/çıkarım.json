@@ -1,0 +1,43 @@
+{
+  "word": "çıkarım",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "inference, deduction, conclusion",
+  "sentences": [
+    {
+      "id": "çıkarım_s1",
+      "text": "Verilerden mantıklı bir [çıkarım] yaptığımızı düşünüyorum.",
+      "note": null
+    },
+    {
+      "id": "çıkarım_s2",
+      "text": "Bilim insanının [çıkarım]ları kanıtlara dayanmalıdır.",
+      "note": null
+    },
+    {
+      "id": "çıkarım_s3",
+      "text": "Yanlış [çıkarım]lar yanlış sonuçlara yol açar.",
+      "note": null
+    },
+    {
+      "id": "çıkarım_s4",
+      "text": "Mantık dersinde [çıkarım] metodları öğretilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çıkarım_r1",
+      "prompt": "Verilen bilgilerden mantık yoluyla yeni bir sonuca varma",
+      "accepted_forms": ["çıkarım", "çıkarımlar", "çıkarımda", "çıkarımını"],
+      "note": null
+    },
+    {
+      "id": "çıkarım_r2",
+      "prompt": "Bilgilerden yola çıkarak sonuç bulmak",
+      "accepted_forms": ["çıkarım", "çıkarım yapmak", "çıkarımı", "çıkarımlar"],
+      "note": null
+    }
+  ]
+}

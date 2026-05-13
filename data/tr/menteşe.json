@@ -1,0 +1,43 @@
+{
+  "word": "menteşe",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "hinge",
+  "sentences": [
+    {
+      "id": "menteşe_s1",
+      "text": "Kapının [menteşesi] kırıldı.",
+      "note": null
+    },
+    {
+      "id": "menteşe_s2",
+      "text": "[Menteşe] olmadan kapı açılamaz.",
+      "note": null
+    },
+    {
+      "id": "menteşe_s3",
+      "text": "Dolabın [menteşeleri] pas tutmuş.",
+      "note": null
+    },
+    {
+      "id": "menteşe_s4",
+      "text": "Yeni [menteşeler] takması gerekiyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "menteşe_r1",
+      "prompt": "Kapı ve pencerelerin dönmesini sağlayan metal parçasına ne denir?",
+      "accepted_forms": ["menteşe", "menteşesi", "menteşeleri", "menteşeyi"],
+      "note": null
+    },
+    {
+      "id": "menteşe_r2",
+      "prompt": "Dolabın kapısı _____ tarafından sağlam tutulur.",
+      "accepted_forms": ["menteşe", "menteşeler", "menteşeyle", "menteşelerle"],
+      "note": null
+    }
+  ]
+}

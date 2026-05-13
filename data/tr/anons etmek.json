@@ -1,0 +1,43 @@
+{
+  "word": "anons etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to announce publicly, to advertise",
+  "sentences": [
+    {
+      "id": "anons etmek_s1",
+      "text": "Şirket yeni ürünü haber ajanslarında [anons etti].",
+      "note": null
+    },
+    {
+      "id": "anons etmek_s2",
+      "text": "Seçim sonuçları resmi olarak [anons edildi].",
+      "note": null
+    },
+    {
+      "id": "anons etmek_s3",
+      "text": "Konseri sosyal medyada [anons etmek] gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "anons etmek_s4",
+      "text": "Makam müdürü istifasını basına [anons etti].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "anons etmek_r1",
+      "prompt": "Bir haberi veya haberi geniş kitleye duyurmak anlamına gelen deyim nedir?",
+      "accepted_forms": ["anons etmek", "anons etti", "anons edilen", "anons edilir"],
+      "note": null
+    },
+    {
+      "id": "anons etmek_r2",
+      "prompt": "Bir etkinliği veya ürünü halk tarafından duyulması için yapılan haber verme işlemi nedir?",
+      "accepted_forms": ["anons etmek", "anons etti", "anons edilmek", "anons et"],
+      "note": null
+    }
+  ]
+}

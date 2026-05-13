@@ -1,0 +1,43 @@
+{
+  "word": "layık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "worthy, deserving, befitting",
+  "sentences": [
+    {
+      "id": "layık_s1",
+      "text": "O şehir [layık] bir ödüle layık.",
+      "note": null
+    },
+    {
+      "id": "layık_s2",
+      "text": "Çalışması [layık] saygı görmüştür.",
+      "note": null
+    },
+    {
+      "id": "layık_s3",
+      "text": "Bu [layık] olmayan davranış herkesin tepkisini çekti.",
+      "note": null
+    },
+    {
+      "id": "layık_s4",
+      "text": "[layık] olmayan muamele yüzünden ayrıldı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "layık_r1",
+      "prompt": "Hak ettiği şekilde davranılmaya ... olan bir kişi veya şey",
+      "accepted_forms": ["layık", "layıktır", "layıkça"],
+      "note": null
+    },
+    {
+      "id": "layık_r2",
+      "prompt": "O ödüle gerçekten ... görünüyor.",
+      "accepted_forms": ["layık", "layıktır"],
+      "note": null
+    }
+  ]
+}

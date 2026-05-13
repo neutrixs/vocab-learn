@@ -1,0 +1,43 @@
+{
+  "word": "tökezlemek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to stumble, trip, falter",
+  "sentences": [
+    {
+      "id": "tökezlemek_s1",
+      "text": "Karanlıkta [tökezledi] ve düştü.",
+      "note": null
+    },
+    {
+      "id": "tökezlemek_s2",
+      "text": "Merdivenlerde [tökezle]me dikkat et.",
+      "note": null
+    },
+    {
+      "id": "tökezlemek_s3",
+      "text": "Çocuk oyununda [tökezlemiş] ve ağlamaya başladı.",
+      "note": null
+    },
+    {
+      "id": "tökezlemek_s4",
+      "text": "Polis peşinde gelen suçlu [tökezleyip] yakalandı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tökezlemek_r1",
+      "prompt": "Ayağını kaçırarak yere düşmek ne denir?",
+      "accepted_forms": ["tökezlemek", "tökezledi", "tökezleme", "tökezlemiş"],
+      "note": null
+    },
+    {
+      "id": "tökezlemek_r2",
+      "prompt": "Karanlıkta kimse ___ riskiyle yürür.",
+      "accepted_forms": ["tökezlemek", "tökezleyip", "tökezlenip"],
+      "note": null
+    }
+  ]
+}

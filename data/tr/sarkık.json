@@ -1,0 +1,43 @@
+{
+  "word": "sarkık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "hanging, drooping, saggy, slack",
+  "sentences": [
+    {
+      "id": "sarkık_s1",
+      "text": "Pencerenin [sarkık] perdeleri hava almasını engelliyordu.",
+      "note": null
+    },
+    {
+      "id": "sarkık_s2",
+      "text": "Ağacın [sarkık] dallarını kesmek gerekiyordu.",
+      "note": null
+    },
+    {
+      "id": "sarkık_s3",
+      "text": "Telin [sarkık] kısmında bir kuş yuvası vardı.",
+      "note": null
+    },
+    {
+      "id": "sarkık_s4",
+      "text": "[Sarkık] duruşuyla hasta ve halsiz görünüyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sarkık_r1",
+      "prompt": "Aşağı doğru sallanmak veya düşmek durumundaki, gevşek ve ağırlığı altında eğilen hâl.",
+      "accepted_forms": ["sarkık", "sarkığı", "sarkık", "sarkığın"],
+      "note": null
+    },
+    {
+      "id": "sarkık_r2",
+      "prompt": "Çatık durumda olmayan, gergin olmayan ve aşağıya doğru yönelik fiziksel durum.",
+      "accepted_forms": ["sarkık", "sarkıklar", "sarkığını", "sarkığı"],
+      "note": null
+    }
+  ]
+}

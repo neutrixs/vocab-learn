@@ -1,0 +1,43 @@
+{
+  "word": "görenek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "custom, tradition, practice, usage",
+  "sentences": [
+    {
+      "id": "görenek_s1",
+      "text": "Bu [görenek] Anadolu'da çok yaygındır.",
+      "note": null
+    },
+    {
+      "id": "görenek_s2",
+      "text": "Eski [görenek]leri unutmayalım.",
+      "note": null
+    },
+    {
+      "id": "görenek_s3",
+      "text": "[Görenek]e göre düğün üç gün sürer.",
+      "note": null
+    },
+    {
+      "id": "görenek_s4",
+      "text": "[Görenek]leri korumak kültürü korumaktır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "görenek_r1",
+      "prompt": "Toplumun uzun yıllar içinde geliştirmiş olduğu davranış şekli veya uygulama.",
+      "accepted_forms": ["görenek", "görenekleri", "göreneklerin", "görenek"],
+      "note": null
+    },
+    {
+      "id": "görenek_r2",
+      "prompt": "Belirli bir kültürde veya topluluğun jenerasyon geçirmesinde takip edilen alışkanlık.",
+      "accepted_forms": ["görenek", "gören", "göreneklere", "görenekçi"],
+      "note": null
+    }
+  ]
+}

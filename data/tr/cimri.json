@@ -1,0 +1,43 @@
+{
+  "word": "cimri",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "stingy, miserly, tight-fisted",
+  "sentences": [
+    {
+      "id": "cimri_s1",
+      "text": "Bu [cimri] adam para harcamak istemez.",
+      "note": null
+    },
+    {
+      "id": "cimri_s2",
+      "text": "Onun [cimri] davranışları herkesi rahatsız eder.",
+      "note": null
+    },
+    {
+      "id": "cimri_s3",
+      "text": "İş yerinde çok [cimri] bir patron var.",
+      "note": null
+    },
+    {
+      "id": "cimri_s4",
+      "text": "[Cimri] bir kişi asla bahşiş vermez.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "cimri_r1",
+      "prompt": "Çok az para harcayan ve cömert olmayan bir kişiyi tanımlamak için hangi sıfatı kullanırız?",
+      "accepted_forms": ["cimri", "cimri bir", "cimridir"],
+      "note": null
+    },
+    {
+      "id": "cimri_r2",
+      "prompt": "Bir adamın parası çok ama kimseye yardım etmek istemeyen tavrını nasıl anlatırız?",
+      "accepted_forms": ["cimri", "cimrilik", "cimri davranış"],
+      "note": null
+    }
+  ]
+}

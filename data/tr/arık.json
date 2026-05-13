@@ -1,0 +1,43 @@
+{
+  "word": "arık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "pure, clean, unmixed",
+  "sentences": [
+    {
+      "id": "arık_s1",
+      "text": "Bu su [arık] ve içilmeye hazırdır.",
+      "note": null
+    },
+    {
+      "id": "arık_s2",
+      "text": "Altının [arık] kalitesi çok yüksektir.",
+      "note": null
+    },
+    {
+      "id": "arık_s3",
+      "text": "[Arık] bir ortamda çalışmak daha verimlidir.",
+      "note": null
+    },
+    {
+      "id": "arık_s4",
+      "text": "Yağın [arık] olduğundan emin olmak gerekir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "arık_r1",
+      "prompt": "Hiçbir şeyin karışmadığı, tamamen saf olan malzemeyi tanımlamak için hangi sıfatı kullanırız?",
+      "accepted_forms": ["arık", "arık", "arık"],
+      "note": null
+    },
+    {
+      "id": "arık_r2",
+      "prompt": "Kimyasalların hiçbir katkı olmadan bulunduğu durumu ifade eden kelime?",
+      "accepted_forms": ["arık", "arık", "arık"],
+      "note": null
+    }
+  ]
+}

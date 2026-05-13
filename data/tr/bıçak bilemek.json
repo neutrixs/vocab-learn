@@ -1,0 +1,43 @@
+{
+  "word": "bıçak bilemek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to sharpen a knife, to hone",
+  "sentences": [
+    {
+      "id": "bıçak bilemek_s1",
+      "text": "Aşçı her gün mutfakta [bıçak bilemeyi] yapıyor.",
+      "note": null
+    },
+    {
+      "id": "bıçak bilemek_s2",
+      "text": "Keskin kalması için bıçağını düzenli [bilemesi] lazım.",
+      "note": null
+    },
+    {
+      "id": "bıçak bilemek_s3",
+      "text": "[Bıçak bilemek] bir sanat ve beceri gerektirir.",
+      "note": null
+    },
+    {
+      "id": "bıçak bilemek_s4",
+      "text": "Usta bir aşçı gibi bıçağını ustalıkla [biler].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bıçak bilemek_r1",
+      "prompt": "Aşçının bıçağı keskin tutması için ne yapması gerekir?",
+      "accepted_forms": ["bıçak bilemek", "bilemesi", "bileme", "bilemeli"],
+      "note": null
+    },
+    {
+      "id": "bıçak bilemek_r2",
+      "prompt": "Mutfakta keskin bıçağı tutmak için bunu yaparsınız: bıçağı ___.",
+      "accepted_forms": ["bilemek", "bilerim", "bilemeli", "bilmelidir"],
+      "note": null
+    }
+  ]
+}

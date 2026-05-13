@@ -1,0 +1,43 @@
+{
+  "word": "önsezi",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "premonition, presentiment, hunch",
+  "sentences": [
+    {
+      "id": "önsezi_s1",
+      "text": "Bir [önsezi] hissi bana kötü bir şey olacağını söylüyordu.",
+      "note": null
+    },
+    {
+      "id": "önsezi_s2",
+      "text": "[Önsezi]yle, kazadan sakınmayı başardı.",
+      "note": null
+    },
+    {
+      "id": "önsezi_s3",
+      "text": "Çoğu insan zaman zaman [önsezi] deneyimler.",
+      "note": null
+    },
+    {
+      "id": "önsezi_s4",
+      "text": "[Önsezi] duygularına güvenmesi doğru kararlar almasına yardım etti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "önsezi_r1",
+      "prompt": "Bilinçaltında gelen ve seni uyaran fikir ne denir?",
+      "accepted_forms": ["önsezi", "ön hissi", "önseziler"],
+      "note": null
+    },
+    {
+      "id": "önsezi_r2",
+      "prompt": "Mantıkla açıklanamayan fakat gerçek olmayan ___.",
+      "accepted_forms": ["önsezi", "önsezisi", "önsezi hissi"],
+      "note": null
+    }
+  ]
+}

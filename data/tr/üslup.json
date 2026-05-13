@@ -1,0 +1,43 @@
+{
+  "word": "üslup",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "style, manner",
+  "sentences": [
+    {
+      "id": "üslup_s1",
+      "text": "Bu yazarın [üslup]u çok özgün ve etkileyicidir.",
+      "note": null
+    },
+    {
+      "id": "üslup_s2",
+      "text": "Resim sanatında her sanatçının kendi [üslup]u vardır.",
+      "note": null
+    },
+    {
+      "id": "üslup_s3",
+      "text": "Müzik bestecisinin [üslup]u başka müzisyenleri etkilemiştir.",
+      "note": null
+    },
+    {
+      "id": "üslup_s4",
+      "text": "Mimarlıkta modernist [üslup] 20. yüzyılda popüler oldu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "üslup_r1",
+      "prompt": "Bir yazarın, sanatçının veya müzisyenin kişiye özgü anlatım ve ifade biçimine ne denir?",
+      "accepted_forms": ["üslup", "üslupla", "üslubu", "üslupta"],
+      "note": null
+    },
+    {
+      "id": "üslup_r2",
+      "prompt": "Sanat eserlerinde sanatçının imzası veya kişisel karakterini gösteren özelliğe ne denir?",
+      "accepted_forms": ["üslup", "üslupları", "üslupun", "üslup kullanmak"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "şaşmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to be surprised, to astonish",
+  "sentences": [
+    {
+      "id": "şaşmak_s1",
+      "text": "Haberi duyunca [şaştı]m.",
+      "note": null
+    },
+    {
+      "id": "şaşmak_s2",
+      "text": "Öğretmeninin cevapı beni çok [şaşırttı].",
+      "note": null
+    },
+    {
+      "id": "şaşmak_s3",
+      "text": "Filmin sonundan [şaşmış] kalmıştır.",
+      "note": null
+    },
+    {
+      "id": "şaşmak_s4",
+      "text": "Onun başarısından [şaşmak] normal bir tepkidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şaşmak_r1",
+      "prompt": "Beklenmemiş bir haber aldığında sen ... kalırsın.",
+      "accepted_forms": ["şaşırsın", "şaşıp kalırsın", "şaşarsın"],
+      "note": null
+    },
+    {
+      "id": "şaşmak_r2",
+      "prompt": "Kimse onun bu kararından ... kalmamıştır.",
+      "accepted_forms": ["şaşmamış", "şaşmaz"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "karşı koymak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to resist, to stand against, to oppose",
+  "sentences": [
+    {
+      "id": "karşı koymak_s1",
+      "text": "Halk, olumsuz yasa tasarısına [karşı koydu] ve kampanya başlattı.",
+      "note": null
+    },
+    {
+      "id": "karşı koymak_s2",
+      "text": "Dünyadaki birçok ülke, savaşa [karşı koymak] için bir araya geldiler.",
+      "note": null
+    },
+    {
+      "id": "karşı koymak_s3",
+      "text": "Güçlü bir kahraman kötüye [karşı koymak] için hazırlanıyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "karşı koymak_r1",
+      "prompt": "Bir tehdidin veya zulüme karşı direnç göstermek ne demektir?",
+      "accepted_forms": ["karşı koymak", "karşı koydu", "karşı koydular", "karşı koyar"],
+      "note": null
+    },
+    {
+      "id": "karşı koymak_r2",
+      "prompt": "Olumsuz bir duruma veya baskıya direnmek anlamında hangi fiili cümle vardır?",
+      "accepted_forms": ["karşı koymak", "karşı koydu", "karşı koyabilirim"],
+      "note": null
+    }
+  ]
+}

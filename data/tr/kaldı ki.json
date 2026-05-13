@@ -1,0 +1,43 @@
+{
+  "word": "kaldı ki",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "moreover, besides, let alone",
+  "sentences": [
+    {
+      "id": "kaldı ki_s1",
+      "text": "Yeterli para yok, [kaldı ki] tatile gitmek istiyoruz.",
+      "note": null
+    },
+    {
+      "id": "kaldı ki_s2",
+      "text": "Türkçe zor, [kaldı ki] Arapça daha da zordur.",
+      "note": null
+    },
+    {
+      "id": "kaldı ki_s3",
+      "text": "Odasını temizlemedi, [kaldı ki] bahçeyi de ihmal etti.",
+      "note": null
+    },
+    {
+      "id": "kaldı ki_s4",
+      "text": "Bu işi ben yapamazsam, [kaldı ki] kimse yapamaz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kaldı ki_r1",
+      "prompt": "Bir şeyin zor olduğunu söylemek istersen ... kullanırsın.",
+      "accepted_forms": ["kaldı ki", "kaldı", "kaldı da"],
+      "note": null
+    },
+    {
+      "id": "kaldı ki_r2",
+      "prompt": "Ev temiz değil, ... bahçe harap durumda.",
+      "accepted_forms": ["kaldı ki", "kaldı", "kaldı da"],
+      "note": null
+    }
+  ]
+}

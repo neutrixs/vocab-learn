@@ -1,0 +1,43 @@
+{
+  "word": "yamultmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to distort, to twist, to misrepresent, to falsify",
+  "sentences": [
+    {
+      "id": "yamultmak_s1",
+      "text": "Haberleri [yamultma]k yanlıştır.",
+      "note": null
+    },
+    {
+      "id": "yamultmak_s2",
+      "text": "Gerçekleri [yamultıyorlar] ve yalan söylüyorlar.",
+      "note": null
+    },
+    {
+      "id": "yamultmak_s3",
+      "text": "Onun sözlerini [yamultma]ya çalışıyorsunuz.",
+      "note": null
+    },
+    {
+      "id": "yamultmak_s4",
+      "text": "Tarihi [yamultma]yalım, doğru şekilde bildirelim.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yamultmak_r1",
+      "prompt": "Bir şeyin asıl anlamını değiştirmek, çarpıtmak veya yanlış şekilde sunmak.",
+      "accepted_forms": ["yamultmak", "yamultma", "yamultılmak", "yamultarak"],
+      "note": null
+    },
+    {
+      "id": "yamultmak_r2",
+      "prompt": "Sözleri veya bilgileri kasıtlı olarak yanlış ve çarpık şekilde aktarmak.",
+      "accepted_forms": ["yamultmak", "yamultma", "yamultıyor", "yamultılmış"],
+      "note": null
+    }
+  ]
+}

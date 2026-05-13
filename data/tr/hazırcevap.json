@@ -1,0 +1,36 @@
+{
+  "word": "hazırcevap",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "quick-witted, ready with an answer",
+  "sentences": [
+    {
+      "id": "hazırcevap_s1",
+      "text": "Başkan [hazırcevap] bir insandır.",
+      "note": null
+    },
+    {
+      "id": "hazırcevap_s2",
+      "text": "[Hazırcevap] olmak sosyal hayatta avantaj sağlar.",
+      "note": null
+    },
+    {
+      "id": "hazırcevap_s3",
+      "text": "Avukat [hazırcevap] cevaplar verdi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hazırcevap_r1",
+      "prompt": "Komedyen _____ kişilerdir.",
+      "accepted_forms": ["hazırcevap", "hazırcevap"]
+    },
+    {
+      "id": "hazırcevap_r2",
+      "prompt": "Söz söylemek için _____ olmak gerekir.",
+      "accepted_forms": ["hazırcevap", "hazırcevap"]
+    }
+  ]
+}

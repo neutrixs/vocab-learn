@@ -1,0 +1,36 @@
+{
+  "word": "köz",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "ember, glowing coal",
+  "sentences": [
+    {
+      "id": "köz_s1",
+      "text": "Ocağın içinde [köz]ler yanıyor.",
+      "note": null
+    },
+    {
+      "id": "köz_s2",
+      "text": "[Köz]ün üstünde et pişiriyoruz.",
+      "note": null
+    },
+    {
+      "id": "köz_s3",
+      "text": "Ateş [köz]lere dönüştü.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "köz_r1",
+      "prompt": "Mangal kebabı _____ üzerinde pişer.",
+      "accepted_forms": ["köz", "közde", "köz", "kızıl"]
+    },
+    {
+      "id": "köz_r2",
+      "prompt": "Sönmek üzere olan ocaktaki _____ kızıldı.",
+      "accepted_forms": ["köz", "közler", "köz"]
+    }
+  ]
+}

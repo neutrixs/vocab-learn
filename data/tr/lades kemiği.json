@@ -1,0 +1,43 @@
+{
+  "word": "lades kemiği",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "keel (part of a ship)",
+  "sentences": [
+    {
+      "id": "lades kemiği_s1",
+      "text": "[Lades kemiği] geminin temelini oluşturur.",
+      "note": null
+    },
+    {
+      "id": "lades kemiği_s2",
+      "text": "Gemi tasarımında [lades kemiğinin] büyüklüğü önemlidir.",
+      "note": null
+    },
+    {
+      "id": "lades kemiği_s3",
+      "text": "Denizciler [lades kemiğini] kontrol etmelidir.",
+      "note": null
+    },
+    {
+      "id": "lades kemiği_s4",
+      "text": "[Lades kemiği] hasarlı gemilerin sürüklenmesini engeller.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "lades kemiği_r1",
+      "prompt": "Geminin alt yapısının adı nedir? ... denir.",
+      "accepted_forms": ["lades kemiği", "lades kemiğidir", "lades kemiğinin"],
+      "note": null
+    },
+    {
+      "id": "lades kemiği_r2",
+      "prompt": "Gemi dizaynında çok önemli olan temel yapı ... dir.",
+      "accepted_forms": ["lades kemiği", "lades kemiğidir"],
+      "note": null
+    }
+  ]
+}

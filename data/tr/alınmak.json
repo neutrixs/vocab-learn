@@ -1,0 +1,43 @@
+{
+  "word": "alınmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to be taken, to be captured, to be offended",
+  "sentences": [
+    {
+      "id": "alınmak_s1",
+      "text": "Onu söz duyduğunda çabuk [alın]ıyor.",
+      "note": null
+    },
+    {
+      "id": "alınmak_s2",
+      "text": "Biraz küçümsemeci davrandığımda [alın]dı.",
+      "note": null
+    },
+    {
+      "id": "alınmak_s3",
+      "text": "Birçok şeyden kolayca [alın]ıyor.",
+      "note": null
+    },
+    {
+      "id": "alınmak_s4",
+      "text": "Tavırımdan yanlış anlama yapıp [alın]ması istenmiyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "alınmak_r1",
+      "prompt": "Birisinin söz veya davranışı yüzünden incinen, rencide hissetmek anlamına gelen fiil nedir?",
+      "accepted_forms": ["alınmak", "alındı", "alınıyor", "alınır"],
+      "note": null
+    },
+    {
+      "id": "alınmak_r2",
+      "prompt": "Espri veya şaka bir şekilde kişiyi incittikten sonra 'Niye alındın?' demek için hangi fiili kullanırız?",
+      "accepted_forms": ["alınmak", "alındın", "alınması", "alıp"],
+      "note": null
+    }
+  ]
+}

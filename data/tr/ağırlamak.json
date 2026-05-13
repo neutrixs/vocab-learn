@@ -1,0 +1,43 @@
+{
+  "word": "ağırlamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to entertain (a guest), to host",
+  "sentences": [
+    {
+      "id": "ağırlamak_s1",
+      "text": "Annem misafirleri güzel yiyeceklerle [ağırla]dı.",
+      "note": null
+    },
+    {
+      "id": "ağırlamak_s2",
+      "text": "Bizi [ağırladığı] için çok teşekkür ettim.",
+      "note": null
+    },
+    {
+      "id": "ağırlamak_s3",
+      "text": "Turist rehberi grubu çaylarla [ağırlamak]tadır.",
+      "note": null
+    },
+    {
+      "id": "ağırlamak_s4",
+      "text": "Gelen konukları iyi [ağırlamak] nasıl yapılır?",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ağırlamak_r1",
+      "prompt": "Evinize gelen misafirleri hoş bir ortamda ... etmeliyiz.",
+      "accepted_forms": ["ağırlamalı", "ağırlamak", "ağırlamamız"],
+      "note": null
+    },
+    {
+      "id": "ağırlamak_r2",
+      "prompt": "Restoran müşterileri yemek ve içkilerle ... etti.",
+      "accepted_forms": ["ağırladı", "ağırla", "ağırlamıştı"],
+      "note": null
+    }
+  ]
+}

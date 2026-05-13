@@ -1,0 +1,43 @@
+{
+  "word": "çelişmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to contradict, to be in conflict",
+  "sentences": [
+    {
+      "id": "çelişmek_s1",
+      "text": "Onun sözleri [çelişti] ve mantığa aykırıydı.",
+      "note": null
+    },
+    {
+      "id": "çelişmek_s2",
+      "text": "Bu iki ifade birbirleriyle [çelişir] mi? Evet, tamamen zıttır.",
+      "note": null
+    },
+    {
+      "id": "çelişmek_s3",
+      "text": "Bilim ve dini inançlar bazen [çelişebilir] ama bu başka bir konudur.",
+      "note": null
+    },
+    {
+      "id": "çelişmek_s4",
+      "text": "Politikacının bugünkü söylediği dünkü sözüyle [çelişti].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çelişmek_r1",
+      "prompt": "İki fikir birbirinin tam tersi olduğunda onlar ... eder.",
+      "accepted_forms": ["çelişir", "çelişmek", "çelişti", "çelişiyorlar"],
+      "note": null
+    },
+    {
+      "id": "çelişmek_r2",
+      "prompt": "Dün söyletiğim ve bugün söylediği arasında çok fark varsa, ne denebilir?",
+      "accepted_forms": ["çelişti", "çelişiyor", "çelişebilir", "çelişmek"],
+      "note": null
+    }
+  ]
+}

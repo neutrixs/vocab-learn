@@ -1,0 +1,43 @@
+{
+  "word": "kanalizasyon",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "sewerage, sewage system, drainage",
+  "sentences": [
+    {
+      "id": "kanalizasyon_s1",
+      "text": "Şehrin [kanalizasyon] sistemi iyileştirilmesi gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "kanalizasyon_s2",
+      "text": "Eski [kanalizasyon] borularının değiştirilmesi planlanıyor.",
+      "note": null
+    },
+    {
+      "id": "kanalizasyon_s3",
+      "text": "[Kanalizasyon] suyu arıtma tesisine gönderiliyor.",
+      "note": null
+    },
+    {
+      "id": "kanalizasyon_s4",
+      "text": "Belediye [kanalizasyon] hattı inşaatı tamamladı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kanalizasyon_r1",
+      "prompt": "İnsanların kullandığı kirli ve atık suların toplanıp arıtıldığı sistem veya altyapı nedir?",
+      "accepted_forms": ["kanalizasyon", "kanalizasyonu", "kanalizasyonun", "kanalizasyonda"],
+      "note": null
+    },
+    {
+      "id": "kanalizasyon_r2",
+      "prompt": "Ev ve işletmelerden çıkan günlük kullanım sularını şehir dışına veya arıtma tesisine taşıyan yer altı hattının genel adı nedir?",
+      "accepted_forms": ["kanalizasyon", "kanalizasyonlar", "kanalizasyonları", "kanalizasyonunda"],
+      "note": null
+    }
+  ]
+}

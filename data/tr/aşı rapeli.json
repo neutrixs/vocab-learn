@@ -1,0 +1,36 @@
+{
+  "word": "aşı rapeli",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "sheepdog with spotted/motley coat, mongrel",
+  "sentences": [
+    {
+      "id": "aşı rapeli_s1",
+      "text": "Çobanın [aşı rapeli] köpeği çok sadıktır.",
+      "note": null
+    },
+    {
+      "id": "aşı rapeli_s2",
+      "text": "[Aşı rapeli] bir hayvan sürüyü koruyor.",
+      "note": null
+    },
+    {
+      "id": "aşı rapeli_s3",
+      "text": "Yörede [aşı rapeli] köpekler oldukça yaygındır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "aşı rapeli_r1",
+      "prompt": "Çobanlık yapan _____ köpekler güvenilirdir.",
+      "accepted_forms": ["aşı rapeli", "aşı rapeli"]
+    },
+    {
+      "id": "aşı rapeli_r2",
+      "prompt": "Köpekler arasında _____ ırkı sık görülür.",
+      "accepted_forms": ["aşı rapeli", "aşı rapeli"]
+    }
+  ]
+}

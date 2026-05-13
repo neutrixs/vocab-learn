@@ -1,0 +1,48 @@
+{
+  "word": "duyurmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to announce, to inform, to make known",
+  "sentences": [
+    {
+      "id": "duyurmak_s1",
+      "text": "Müdür toplantıyı [duyur]du.",
+      "note": null
+    },
+    {
+      "id": "duyurmak_s2",
+      "text": "Radyoda haber [duyur]uluyor.",
+      "note": null
+    },
+    {
+      "id": "duyurmak_s3",
+      "text": "Harita sonucunu halka [duyur]acaklar.",
+      "note": null
+    },
+    {
+      "id": "duyurmak_s4",
+      "text": "Yönetim yeni kararını çalışanlara [duyur]du.",
+      "note": null
+    },
+    {
+      "id": "duyurmak_s5",
+      "text": "Karakolda kişisinin kaybı [duyur]du.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "duyurmak_r1",
+      "prompt": "Birçok kişiye haber veya kararı bildirmek, iletmek anlamına gelen fiil nedir?",
+      "accepted_forms": ["duyurmak", "duyurdu", "duyuruyor", "duyurması"],
+      "note": null
+    },
+    {
+      "id": "duyurmak_r2",
+      "prompt": "Şirket kamuya yeni ürünü tanıtmak için ne yapar?",
+      "accepted_forms": ["duyurur", "duyurmak", "duyurulur", "duyurması"],
+      "note": null
+    }
+  ]
+}

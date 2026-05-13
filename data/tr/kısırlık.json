@@ -1,0 +1,43 @@
+{
+  "word": "kısırlık",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "infertility, sterility, barrenness",
+  "sentences": [
+    {
+      "id": "kısırlık_s1",
+      "text": "[Kısırlık] birçok çiftin sorunudur.",
+      "note": null
+    },
+    {
+      "id": "kısırlık_s2",
+      "text": "Doktor [kısırlığın] nedenini buldu.",
+      "note": null
+    },
+    {
+      "id": "kısırlık_s3",
+      "text": "Tedavi [kısırlığı] çözmek için çeşitli yöntemler vardır.",
+      "note": null
+    },
+    {
+      "id": "kısırlık_s4",
+      "text": "[Kısırlık] sorunu hekime danışılmalıdır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kısırlık_r1",
+      "prompt": "Çocuk sahibi olamayan çiftlerin sorunu çoğu zaman ... dir.",
+      "accepted_forms": ["kısırlık", "kısırlığı", "kısırlıktır"],
+      "note": null
+    },
+    {
+      "id": "kısırlık_r2",
+      "prompt": "Modern tıp pek çok ... sorununu çözebilmektedir.",
+      "accepted_forms": ["kısırlık", "kısırlığı"],
+      "note": null
+    }
+  ]
+}

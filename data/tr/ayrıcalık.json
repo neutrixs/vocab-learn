@@ -1,0 +1,36 @@
+{
+  "word": "ayrıcalık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "privilege, preferential right",
+  "sentences": [
+    {
+      "id": "ayrıcalık_s1",
+      "text": "Milletvekili ayakta [ayrıcalık] sahibi.",
+      "note": null
+    },
+    {
+      "id": "ayrıcalık_s2",
+      "text": "Kamu görevlisinin [ayrıcalık]ları vardır.",
+      "note": null
+    },
+    {
+      "id": "ayrıcalık_s3",
+      "text": "[Ayrıcalık] istismarı cezalandırılır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ayrıcalık_r1",
+      "prompt": "Parlamenter sistem _____ sağlar.",
+      "accepted_forms": ["ayrıcalık", "ayrıcalıklar", "ayrıcalığı"]
+    },
+    {
+      "id": "ayrıcalık_r2",
+      "prompt": "Milletvekili _____ kötüye kullanmamali.",
+      "accepted_forms": ["ayrıcalığını", "ayrıcalıklarını", "ayrıcalık"]
+    }
+  ]
+}

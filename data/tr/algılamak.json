@@ -1,0 +1,43 @@
+{
+  "word": "algılamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to perceive, to sense",
+  "sentences": [
+    {
+      "id": "algılamak_s1",
+      "text": "Köpek insanların kokusu uzaktan [algılayabilir].",
+      "note": null
+    },
+    {
+      "id": "algılamak_s2",
+      "text": "Tehlikeyi [algıladığında] kaçtı.",
+      "note": null
+    },
+    {
+      "id": "algılamak_s3",
+      "text": "Duyuları açık olan insanlar çevreyi daha iyi [algılarlar].",
+      "note": null
+    },
+    {
+      "id": "algılamak_s4",
+      "text": "Müzisyen her notayı hassasiyetle [algılar].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "algılamak_r1",
+      "prompt": "Duyularımız aracılığıyla çevreden bir şey hissetmek ve anlamak demektir?",
+      "accepted_forms": ["algılamak", "algılayabilir", "algılarız", "algılar"],
+      "note": null
+    },
+    {
+      "id": "algılamak_r2",
+      "prompt": "Gözümüzde bir değişiklik varsa, o değişikliği _____ ederiz.",
+      "accepted_forms": ["algılarız", "algılayabiliriz", "algılama"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "kışkırtmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to incite, provoke, stir up",
+  "sentences": [
+    {
+      "id": "kışkırtmak_s1",
+      "text": "Onun sözleri halkı [kışkırtmak] için tasarlanmıştı.",
+      "note": null
+    },
+    {
+      "id": "kışkırtmak_s2",
+      "text": "Polisler göstericileri [kışkırtma] talimatı aldı.",
+      "note": null
+    },
+    {
+      "id": "kışkırtmak_s3",
+      "text": "Çocuklar birbirlerini [kışkırtıyor] ve kavga çıkıyor.",
+      "note": null
+    },
+    {
+      "id": "kışkırtmak_s4",
+      "text": "Medya, halkın duygularını [kışkırtmak] istemiyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kışkırtmak_r1",
+      "prompt": "Arkadaşın seni bilerek öfkelendirmeye çalışıyor. Onun yapması gereken şeyi söyle.",
+      "accepted_forms": ["kışkırtıyor", "kışkırtmak", "kışkırttı", "kışkırtma"],
+      "note": null
+    },
+    {
+      "id": "kışkırtmak_r2",
+      "prompt": "Siyasiler oy almak için seçmenleri ___. Bu etik değildir.",
+      "accepted_forms": ["kışkırtıyor", "kışkırtıyorlar", "kışkırtmak", "kışkırtıyor"],
+      "note": null
+    }
+  ]
+}

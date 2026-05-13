@@ -1,0 +1,43 @@
+{
+  "word": "sindirmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to digest, to absorb, to assimilate",
+  "sentences": [
+    {
+      "id": "sindirmek_s1",
+      "text": "Yağlı yemekleri [sindirmek] vücut için zordur.",
+      "note": null
+    },
+    {
+      "id": "sindirmek_s2",
+      "text": "Ön bilgi olmadan karmaşık bir metni [sindirmek] çok güç olabilir.",
+      "note": null
+    },
+    {
+      "id": "sindirmek_s3",
+      "text": "Büyük bir kayıp yaşadıktan sonra acıyı [sindirmek] zaman alır.",
+      "note": null
+    },
+    {
+      "id": "sindirmek_s4",
+      "text": "Öğrenciler dersi [sindiremedikleri] zaman sınavda başarısız olurlar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sindirmek_r1",
+      "prompt": "Yediğimiz yemeklerin vücutta dönüştürülüp emilmesi hangi fiille ifade edilir?",
+      "accepted_forms": ["sindirmek", "sindirir", "sindirdi", "sindirme"],
+      "note": null
+    },
+    {
+      "id": "sindirmek_r2",
+      "prompt": "Karmaşık bir fikri veya bilgiyi anlayarak kendi düşüncemize katmak anlamında hangi kelimeyi kullanırsınız?",
+      "accepted_forms": ["sindirmek", "sindiriyor", "sindirdi", "sindir"],
+      "note": null
+    }
+  ]
+}

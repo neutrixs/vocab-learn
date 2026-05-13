@@ -1,0 +1,43 @@
+{
+  "word": "şekil vermek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to shape, to give form, to form",
+  "sentences": [
+    {
+      "id": "şekil vermek_s1",
+      "text": "Ressam kiliye [şekil ver]erek heykelse başlıyor.",
+      "note": null
+    },
+    {
+      "id": "şekil vermek_s2",
+      "text": "Yapı tasarımcısı binaların [şekil ver]iyor.",
+      "note": null
+    },
+    {
+      "id": "şekil vermek_s3",
+      "text": "Aşçı pastaya güzel [şekil ver]di.",
+      "note": null
+    },
+    {
+      "id": "şekil vermek_s4",
+      "text": "Eğitim çocukların karakterine [şekil ver]ir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şekil vermek_r1",
+      "prompt": "Bir malzemeyi düz formundan belirli bir görünüme dönüştürmek işlemine ne denir?",
+      "accepted_forms": ["şekil vermek", "şekil veriyor", "şekil verdi", "şekil verebilirim"],
+      "note": null
+    },
+    {
+      "id": "şekil vermek_r2",
+      "prompt": "Sanatçı veya tasarımcı fikirlerini somut bir form haline getirmek için ne yapmalı?",
+      "accepted_forms": ["şekil vermek", "şekil vermesi", "şekil veriyor", "şekil vermek gerekir"],
+      "note": null
+    }
+  ]
+}

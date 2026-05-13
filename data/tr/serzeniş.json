@@ -1,0 +1,43 @@
+{
+  "word": "serzeniş",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "reproach, complaint, rebuke",
+  "sentences": [
+    {
+      "id": "serzeniş_s1",
+      "text": "Babası onun davranışından dolayı [serzeniş] etti.",
+      "note": null
+    },
+    {
+      "id": "serzeniş_s2",
+      "text": "Onun [serzeniş]i adil ve yerinde idi.",
+      "note": null
+    },
+    {
+      "id": "serzeniş_s3",
+      "text": "[Serzeniş] kelimesi eski Türkçede daha sık kullanılmıştır.",
+      "note": null
+    },
+    {
+      "id": "serzeniş_s4",
+      "text": "Kız arkadaşının [serzeniş]ine razı oldu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "serzeniş_r1",
+      "prompt": "Birinin yanlış davranışı nedeniyle ona karşı yapılan ağır eleştiri?",
+      "accepted_forms": ["serzeniş", "serzeniş", "serzeniş", "serzeniş"],
+      "note": null
+    },
+    {
+      "id": "serzeniş_r2",
+      "prompt": "Kişiye adil bir şekilde yapılan ve haklı nedenleri olan ağır söz?",
+      "accepted_forms": ["serzeniş", "serzeniş", "serzeniş", "serzeniş"],
+      "note": null
+    }
+  ]
+}

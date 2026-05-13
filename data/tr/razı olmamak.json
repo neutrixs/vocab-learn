@@ -1,0 +1,38 @@
+{
+  "word": "razı olmamak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to disagree, to refuse to consent, to not accept",
+  "sentences": [
+    {
+      "id": "razı olmamak_s1",
+      "text": "Çocuk yemek yemeye [razı olmadı] ve ısrar etti.",
+      "note": null
+    },
+    {
+      "id": "razı olmamak_s2",
+      "text": "Babası evlenme planına [razı olmamıştır] ve tepki göstermişti.",
+      "note": null
+    },
+    {
+      "id": "razı olmamak_s3",
+      "text": "Müdür talebi reddettiğinde çalışan [razı olmadı] ve başka seçenek aradı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "razı olmamak_r1",
+      "prompt": "Birisi istediği şey yapmasına izin verilmediğinde, onun ne yaptığını söyleriz?",
+      "accepted_forms": ["razı olmadı", "razı olmamak", "razı olmamıştır"],
+      "note": null
+    },
+    {
+      "id": "razı olmamak_r2",
+      "prompt": "Teklifi kabul etmeyi reddedilen kişi, bu durumu ... diyerek ifade edebilir.",
+      "accepted_forms": ["razı olmadım", "razı olmamam", "razı olmayacak"],
+      "note": null
+    }
+  ]
+}

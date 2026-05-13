@@ -1,0 +1,43 @@
+{
+  "word": "ürkmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to shy away, to flinch from",
+  "sentences": [
+    {
+      "id": "ürkmek_s1",
+      "text": "At gürültüden [ürküyor].",
+      "note": null
+    },
+    {
+      "id": "ürkmek_s2",
+      "text": "Zorluktan [ürkmemek] gerekir.",
+      "note": null
+    },
+    {
+      "id": "ürkmek_s3",
+      "text": "Yılan çocuğu gördüğünde [ürküp] kaçtı.",
+      "note": null
+    },
+    {
+      "id": "ürkmek_s4",
+      "text": "İşçi hava durumundan [ürküyor].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ürkmek_r1",
+      "prompt": "Çocuk karanlıktan ... gidiyor.",
+      "accepted_forms": ["ürkmeye", "ürküyor", "ürkmektedir"],
+      "note": null
+    },
+    {
+      "id": "ürkmek_r2",
+      "prompt": "Dişçiden ... birçok insan vardır.",
+      "accepted_forms": ["ürkmeyen", "ürkmez", "ürkmeyenler"],
+      "note": null
+    }
+  ]
+}

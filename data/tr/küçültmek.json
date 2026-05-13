@@ -1,0 +1,43 @@
+{
+  "word": "küçültmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to make small, to reduce, to minimize",
+  "sentences": [
+    {
+      "id": "küçültmek_s1",
+      "text": "Bu programı kullanarak resmi [küçültmek] mümkündür.",
+      "note": null
+    },
+    {
+      "id": "küçültmek_s2",
+      "text": "Ürünün fiyatını [küçültmek] pazarında rekabet edebilmek için gereklidir.",
+      "note": null
+    },
+    {
+      "id": "küçültmek_s3",
+      "text": "Başarısız olmakla insanları [küçültmek] etik açıdan yanlıştır.",
+      "note": null
+    },
+    {
+      "id": "küçültmek_s4",
+      "text": "Evi [küçültmek] karar verdikten sonra taşıyacakları eşya seçmek zor oldu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "küçültmek_r1",
+      "prompt": "Bir fotoğrafın boyutunu ayakta etmek için hangi işlemi yaparsınız?",
+      "accepted_forms": ["küçültmek", "küçültür", "küçültüyor", "küçülttü"],
+      "note": null
+    },
+    {
+      "id": "küçültmek_r2",
+      "prompt": "Birisinin prestijini veya değerini düşürmek anlamında hangi fiil kullanılır?",
+      "accepted_forms": ["küçültmek", "küçültüyor", "küçülttü", "küçültecek"],
+      "note": null
+    }
+  ]
+}

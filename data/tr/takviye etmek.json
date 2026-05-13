@@ -1,0 +1,43 @@
+{
+  "word": "takviye etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to reinforce, to strengthen, to support",
+  "sentences": [
+    {
+      "id": "takviye etmek_s1",
+      "text": "Ordu zayıf noktaları [takviye etmek] için asker gönderdi.",
+      "note": null
+    },
+    {
+      "id": "takviye etmek_s2",
+      "text": "Öğrenci zayıf olduğu dersleri [takviye etmek] için özel ders almaya başladı.",
+      "note": null
+    },
+    {
+      "id": "takviye etmek_s3",
+      "text": "Hemşireler doktorları [takviye etmek] için çalışıyor.",
+      "note": null
+    },
+    {
+      "id": "takviye etmek_s4",
+      "text": "Kolunun gücünü [takviye etmek] için egzersiz yapması gerekiyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "takviye etmek_r1",
+      "prompt": "Ordu zayıf bir bölgeye ekstra asker göndererek ne yapar?",
+      "accepted_forms": ["takviye etmek", "takviye etti", "takviye ediyor", "takviye etmesi"],
+      "note": null
+    },
+    {
+      "id": "takviye etmek_r2",
+      "prompt": "Bir grup veya bölümün gücünü artırmak için ek kaynak veya personel gönderme işleminin adı nedir?",
+      "accepted_forms": ["takviye etmek", "takviye edilir", "takviye eden", "takviye etmedik"],
+      "note": null
+    }
+  ]
+}

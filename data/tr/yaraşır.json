@@ -1,0 +1,43 @@
+{
+  "word": "yaraşır",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to suit, to become, to befit",
+  "sentences": [
+    {
+      "id": "yaraşır_s1",
+      "text": "Bu renk ona çok [yaraşır].",
+      "note": null
+    },
+    {
+      "id": "yaraşır_s2",
+      "text": "Onu böyle davranmak [yaraşır]mı?",
+      "note": null
+    },
+    {
+      "id": "yaraşır_s3",
+      "text": "O kız dalgın görüntüsüne iyice [yaraşır].",
+      "note": null
+    },
+    {
+      "id": "yaraşır_s4",
+      "text": "Polis üniforması ona hiç [yaraşmaz].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yaraşır_r1",
+      "prompt": "Bir kişiye ya da bir duruma uygun ve güzel duran şey ...",
+      "accepted_forms": ["yaraşır", "yaraşıyor", "yaraşmaz", "yaraşıp"],
+      "note": null
+    },
+    {
+      "id": "yaraşır_r2",
+      "prompt": "Bu elbise ona çok ... görünüyor.",
+      "accepted_forms": ["yaraşır", "yaraşıyor"],
+      "note": null
+    }
+  ]
+}

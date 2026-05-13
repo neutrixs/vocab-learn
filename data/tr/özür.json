@@ -1,0 +1,43 @@
+{
+  "word": "özür",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "apology, excuse",
+  "sentences": [
+    {
+      "id": "özür_s1",
+      "text": "Geç kaldığım için [özür] dilerim.",
+      "note": null
+    },
+    {
+      "id": "özür_s2",
+      "text": "Herkesin [özür] dileme hakkı vardır.",
+      "note": null
+    },
+    {
+      "id": "özür_s3",
+      "text": "Onun [özürü] samimi görünmüyordu.",
+      "note": null
+    },
+    {
+      "id": "özür_s4",
+      "text": "Lütfen bana [özür] kabul et.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "özür_r1",
+      "prompt": "Yanlışlık yaptığında birine bunu söylersin: 'Affedersin, senden ...'",
+      "accepted_forms": ["özür", "özür dilerim", "özür diliyorum"],
+      "note": null
+    },
+    {
+      "id": "özür_r2",
+      "prompt": "Kütüphanede sesin çıktı ve rahatsız oldum. ... dilerim diyorsun.",
+      "accepted_forms": ["özür", "özürler"],
+      "note": null
+    }
+  ]
+}

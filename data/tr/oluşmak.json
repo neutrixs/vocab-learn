@@ -1,0 +1,43 @@
+{
+  "word": "oluşmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to form, to be formed, to arise, to come into being",
+  "sentences": [
+    {
+      "id": "oluşmak_s1",
+      "text": "Bulutlar gökyüzünde [oluşmak] ile güzel bir manzara yarattı.",
+      "note": null
+    },
+    {
+      "id": "oluşmak_s2",
+      "text": "Bu grup yeni bir sosyal medya platformunda [oluşmak]tı.",
+      "note": null
+    },
+    {
+      "id": "oluşmak_s3",
+      "text": "Dinlerin çoğu insanoğlunun temel ihtiyaçlarından [oluşmak]tır.",
+      "note": null
+    },
+    {
+      "id": "oluşmak_s4",
+      "text": "Dünyadaki en güzel şeyler yavaş yavaş [oluşmak]tır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "oluşmak_r1",
+      "prompt": "Su ve hava karışımı ne zaman ... ?",
+      "accepted_forms": ["oluşmak", "oluşur", "oluşmuş"],
+      "note": null
+    },
+    {
+      "id": "oluşmak_r2",
+      "prompt": "Yeni bir fikir zihnimizde ... işlemini başlattı.",
+      "accepted_forms": ["oluşmak", "oluştu", "oluşmasıyla"],
+      "note": null
+    }
+  ]
+}

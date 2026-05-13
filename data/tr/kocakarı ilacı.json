@@ -1,0 +1,43 @@
+{
+  "word": "kocakarı ilacı",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "old wife's remedy, folk remedy, home remedy",
+  "sentences": [
+    {
+      "id": "kocakarı ilacı_s1",
+      "text": "Bazı insanlar hala [kocakarı ilacına] güvenirler ve tıbbi tedaviden kaçınırlar.",
+      "note": null
+    },
+    {
+      "id": "kocakarı ilacı_s2",
+      "text": "Tıp öğretmeni [kocakarı ilacının] bilim tarafından kanıtlanmadığını öğrencilere anlattı.",
+      "note": null
+    },
+    {
+      "id": "kocakarı ilacı_s3",
+      "text": "[Kocakarı ilacı] olarak tanınan soğuk algınlığı tedavisi, aslında hiçbir faydası olmayabilir.",
+      "note": null
+    },
+    {
+      "id": "kocakarı ilacı_s4",
+      "text": "Geleneksel [kocakarı ilacıları], modern tıp tarafından çoğunlukla reddedilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kocakarı ilacı_r1",
+      "prompt": "Bilimsel kanıt olmaksızın, geleneksel yollarla veya söylentiye dayanarak yapılan tedavi yöntemi hangi isimle anılır?",
+      "accepted_forms": ["kocakarı ilacı", "kocakarı ilacına", "kocakarı ilacının", "kocakarı ilacıdır"],
+      "note": null
+    },
+    {
+      "id": "kocakarı ilacı_r2",
+      "prompt": "Etkisi ispatlanmamış, halk arasında uygulanan, ev yapımı çare hangi terimle bilinir?",
+      "accepted_forms": ["kocakarı ilacı", "kocakarı ilacısı", "kocakarı ilacını", "kocakarı ilacıların"],
+      "note": null
+    }
+  ]
+}

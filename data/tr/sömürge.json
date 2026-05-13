@@ -1,0 +1,43 @@
+{
+  "word": "sömürge",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "colony, settlement",
+  "sentences": [
+    {
+      "id": "sömürge_s1",
+      "text": "Avrupalı ülkeler Afrikaya pek çok [sömürge] kurdu.",
+      "note": null
+    },
+    {
+      "id": "sömürge_s2",
+      "text": "Bu [sömürge], büyük ülkenin bir parçasıydı.",
+      "note": null
+    },
+    {
+      "id": "sömürge_s3",
+      "text": "Tarih dersinde sömürgecilik ve [sömürge]ler hakkında öğrendik.",
+      "note": null
+    },
+    {
+      "id": "sömürge_s4",
+      "text": "Birçok [sömürge] bağımsızlık savaşlarıyla özgür oldu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sömürge_r1",
+      "prompt": "Güçlü bir ülkenin başka topraklarda kurduğu yerleşim alanına ne denir?",
+      "accepted_forms": ["sömürge", "sömürge denilen", "sömürgeyi", "sömürgeler"],
+      "note": null
+    },
+    {
+      "id": "sömürge_r2",
+      "prompt": "19. yüzyılda İngiltere, Fransa ve diğer Avrupa güçleri Asya ve Afrika'da birçok ne kurdu?",
+      "accepted_forms": ["sömürge", "sömürge kurdu", "sömürgeler", "sömürge olmak"],
+      "note": null
+    }
+  ]
+}

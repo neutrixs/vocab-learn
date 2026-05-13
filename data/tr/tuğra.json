@@ -1,0 +1,43 @@
+{
+  "word": "tuğra",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "tughra, royal monogram, sultan's seal",
+  "sentences": [
+    {
+      "id": "tuğra_s1",
+      "text": "Müze eski [tuğra]ları sergiliyor.",
+      "note": null
+    },
+    {
+      "id": "tuğra_s2",
+      "text": "Osmanlı sultanlarının [tuğra]sı çok ilginçti.",
+      "note": null
+    },
+    {
+      "id": "tuğra_s3",
+      "text": "Ferman [tuğra] ile imzalanırdı.",
+      "note": null
+    },
+    {
+      "id": "tuğra_s4",
+      "text": "[tuğra] sanat tarihinin önemli bir parçasıdır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tuğra_r1",
+      "prompt": "Osmanlı sultanlarının resmi damgası veya imzası ...",
+      "accepted_forms": ["tuğra", "tuğrası", "tuğrayla", "tuğralar"],
+      "note": null
+    },
+    {
+      "id": "tuğra_r2",
+      "prompt": "Sultanın resmi belgelerinde yer alan karmaşık ve sanatsal imzası ...",
+      "accepted_forms": ["tuğra", "tuğrası"],
+      "note": null
+    }
+  ]
+}

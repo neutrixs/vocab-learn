@@ -1,0 +1,43 @@
+{
+  "word": "hayranlık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "admiration, amazement",
+  "sentences": [
+    {
+      "id": "hayranlık_s1",
+      "text": "Onun başarılarına karşı [hayranlık] duydum.",
+      "note": null
+    },
+    {
+      "id": "hayranlık_s2",
+      "text": "Sanatçının [hayranlığını] kazanmak için yıllarca çalışması gerekti.",
+      "note": null
+    },
+    {
+      "id": "hayranlık_s3",
+      "text": "[Hayranlık] ve saygı birlikte yürür.",
+      "note": null
+    },
+    {
+      "id": "hayranlık_s4",
+      "text": "Insanlar genellikle başarılı insanlar için [hayranlık] hissederler.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hayranlık_r1",
+      "prompt": "Birinin yeteneklerine ve başarılarına karşı hissettiğimiz pozitif duyguya ne denir?",
+      "accepted_forms": ["hayranlık", "hayranlığı", "hayranlıkla", "hayranlıklı"],
+      "note": null
+    },
+    {
+      "id": "hayranlık_r2",
+      "prompt": "Ünlü bir oyuncuya karşı _____ duymak çok doğaldır.",
+      "accepted_forms": ["hayranlık", "hayranlığı", "hayranlık"],
+      "note": null
+    }
+  ]
+}

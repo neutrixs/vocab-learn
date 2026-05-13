@@ -1,0 +1,43 @@
+{
+  "word": "kalıtımsal",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "hereditary, genetic, inherited",
+  "sentences": [
+    {
+      "id": "kalıtımsal_s1",
+      "text": "Bazı hastalıklar [kalıtımsal] olarak ailede geçebilir.",
+      "note": null
+    },
+    {
+      "id": "kalıtımsal_s2",
+      "text": "İnsan yetenekleri hem [kalıtımsal] hem de çevresel faktörlere bağlıdır.",
+      "note": null
+    },
+    {
+      "id": "kalıtımsal_s3",
+      "text": "Gözün rengi [kalıtımsal] bir özellik olarak babadan çocuğa geçer.",
+      "note": null
+    },
+    {
+      "id": "kalıtımsal_s4",
+      "text": "Bu [kalıtımsal] hastalık tedavi edilebilecek hale gelmiştir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kalıtımsal_r1",
+      "prompt": "Ebeveynlerden çocuklara aktarılan özellikler ... olarak adlandırılır.",
+      "accepted_forms": ["kalıtımsal", "kalıtsal"],
+      "note": null
+    },
+    {
+      "id": "kalıtımsal_r2",
+      "prompt": "Bu hastalığın ... bir yapısı var ve nesilden nesile geçiyor.",
+      "accepted_forms": ["kalıtımsal", "kalıtsal"],
+      "note": null
+    }
+  ]
+}

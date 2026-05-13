@@ -1,0 +1,43 @@
+{
+  "word": "kafa bulmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to reach an agreement, to get along, to find common ground",
+  "sentences": [
+    {
+      "id": "kafa bulmak_s1",
+      "text": "İki ekip nihayet [kafa buldu]lar.",
+      "note": null
+    },
+    {
+      "id": "kafa bulmak_s2",
+      "text": "Onlar hiç [kafa bulamadı]lar.",
+      "note": null
+    },
+    {
+      "id": "kafa bulmak_s3",
+      "text": "[Kafa bulmak] için açık sözlü olmak gerekir.",
+      "note": null
+    },
+    {
+      "id": "kafa bulmak_s4",
+      "text": "Birbirleriyle [kafa bulacaklarını] sanıyordum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kafa bulmak_r1",
+      "prompt": "İki kişinin veya grupların ortak noktayı bularak anlaşmaya varmak?",
+      "accepted_forms": ["kafa bulmak", "kafa buldu", "kafa bulamadı", "kafa buluyor"],
+      "note": null
+    },
+    {
+      "id": "kafa bulmak_r2",
+      "prompt": "Anlaşmazlıklar üstesinden gelerek birbirleriyle uyum sağlamak?",
+      "accepted_forms": ["kafa bulmak", "kafa bulduk", "kafa bulacağız", "kafa buluş"],
+      "note": null
+    }
+  ]
+}

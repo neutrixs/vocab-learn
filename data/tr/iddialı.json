@@ -1,0 +1,43 @@
+{
+  "word": "iddialı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "ambitious, confident, bold",
+  "sentences": [
+    {
+      "id": "iddialı_s1",
+      "text": "Bu şirketin [iddialı] hedefleri var.",
+      "note": null
+    },
+    {
+      "id": "iddialı_s2",
+      "text": "Oyuncu [iddialı] bir performans sergiledi.",
+      "note": null
+    },
+    {
+      "id": "iddialı_s3",
+      "text": "[İddialı] tasarım projesinin başarısı şüpheli.",
+      "note": null
+    },
+    {
+      "id": "iddialı_s4",
+      "text": "Sanat eserinin [iddialı] konsepti tartışmalı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "iddialı_r1",
+      "prompt": "Kendisine güven duyuyor, kendi kabiliyetinden emin olan",
+      "accepted_forms": ["iddialı", "iddialı bir şekilde", "iddialı olarak", "iddialı bir"],
+      "note": null
+    },
+    {
+      "id": "iddialı_r2",
+      "prompt": "Cesur, meydan okuyucu, başarı hedefleri yüksek",
+      "accepted_forms": ["iddialı", "iddialısı", "iddialı bir", "iddialısında"],
+      "note": null
+    }
+  ]
+}

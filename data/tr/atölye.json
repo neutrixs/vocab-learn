@@ -1,0 +1,43 @@
+{
+  "word": "atölye",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "workshop, atelier, studio",
+  "sentences": [
+    {
+      "id": "atölye_s1",
+      "text": "Sanatçı kendi [atölye]sinde çalışıyor.",
+      "note": null
+    },
+    {
+      "id": "atölye_s2",
+      "text": "Marangozun [atölye]si şehrin kenarında yer alıyor.",
+      "note": null
+    },
+    {
+      "id": "atölye_s3",
+      "text": "[Atölye]de çeşitli araç ve gereçler vardır.",
+      "note": null
+    },
+    {
+      "id": "atölye_s4",
+      "text": "Mimar [atölye]sinde tasarım üzerinde çalışıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "atölye_r1",
+      "prompt": "Sanatçı, zanaatçı veya ustanın çalışma yeri",
+      "accepted_forms": ["atölye", "atölyesi", "atölyede", "atölyeyi"],
+      "note": null
+    },
+    {
+      "id": "atölye_r2",
+      "prompt": "Üretim veya tasarımın yapıldığı işyeri",
+      "accepted_forms": ["atölye", "atölyeler", "atölye si", "atölyesin"],
+      "note": null
+    }
+  ]
+}

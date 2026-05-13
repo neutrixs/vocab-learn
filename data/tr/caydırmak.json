@@ -1,0 +1,43 @@
+{
+  "word": "caydırmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to discourage, to deter, to dissuade",
+  "sentences": [
+    {
+      "id": "caydırmak_s1",
+      "text": "Olumsuz yorumlar genci başarıdan [caydır]madı ama moralini bozdu.",
+      "note": null
+    },
+    {
+      "id": "caydırmak_s2",
+      "text": "Polis, uygunsuz davranıştan insanları [caydırıyor] ve aşırı cezalar uyguluyor.",
+      "note": null
+    },
+    {
+      "id": "caydırmak_s3",
+      "text": "Başarısızlık onu hedefinden [caydır]madı.",
+      "note": null
+    },
+    {
+      "id": "caydırmak_s4",
+      "text": "Zorluklar onu hayal kırıklığından [caydırmadı] ve devam etti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "caydırmak_r1",
+      "prompt": "Birini yapmak istediği şeyden vazgeçmesine neden olmak ne demektir?",
+      "accepted_forms": ["caydırmak", "caydırdı", "caydırıyor", "caydırır"],
+      "note": null
+    },
+    {
+      "id": "caydırmak_r2",
+      "prompt": "Kötü deneyim veya uyarı bir kişiyi belirli bir şeyden ... eder.",
+      "accepted_forms": ["caydırır", "caydırmak", "caydırabilir", "caydırması"],
+      "note": null
+    }
+  ]
+}

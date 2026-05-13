@@ -1,0 +1,43 @@
+{
+  "word": "gerçekten",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adverb",
+  "english_gloss": "really, truly, actually",
+  "sentences": [
+    {
+      "id": "gerçekten_s1",
+      "text": "Bu film [gerçekten] güzel, kesinlikle izlemelisin.",
+      "note": null
+    },
+    {
+      "id": "gerçekten_s2",
+      "text": "Sana [gerçekten] söylüyorum, bundan daha iyi bir yol yok.",
+      "note": null
+    },
+    {
+      "id": "gerçekten_s3",
+      "text": "Dün gece [gerçekten] çok soğuk hava vardı.",
+      "note": null
+    },
+    {
+      "id": "gerçekten_s4",
+      "text": "O kadar [gerçekten] çalıştı ki başarıyı hak etti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gerçekten_r1",
+      "prompt": "Bu kitap çok iyiydi, ... söylüyorum.",
+      "accepted_forms": ["gerçekten", "hakikaten", "doğrusu"],
+      "note": null
+    },
+    {
+      "id": "gerçekten_r2",
+      "prompt": "O ... çalışkan bir öğrencidir.",
+      "accepted_forms": ["gerçekten", "hakikaten"],
+      "note": null
+    }
+  ]
+}

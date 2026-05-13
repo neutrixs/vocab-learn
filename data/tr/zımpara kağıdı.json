@@ -1,0 +1,38 @@
+{
+  "word": "zımpara kağıdı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "sandpaper",
+  "sentences": [
+    {
+      "id": "zımpara kağıdı_s1",
+      "text": "Boyacı [zımpara kağıdı] ile ahşabı hazırladı.",
+      "note": null
+    },
+    {
+      "id": "zımpara kağıdı_s2",
+      "text": "Değişik tanelerdeki [zımpara kağıdı] satın aldık.",
+      "note": null
+    },
+    {
+      "id": "zımpara kağıdı_s3",
+      "text": "Bu [zımpara kağıdı] çok kaba, daha ince bir tane lazım.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "zımpara kağıdı_r1",
+      "prompt": "Ahşabın pürüzlerini gidermek için hangi malzeme kullanılır?",
+      "accepted_forms": ["zımpara kağıdı", "zımpara kağıdını", "zımpara kağıdıyla", "zımpara kağıdı kullan"],
+      "note": null
+    },
+    {
+      "id": "zımpara kağıdı_r2",
+      "prompt": "İnşaatta yüzey hazırlığında kullanılan zıtlanmış öğeye ne denir?",
+      "accepted_forms": ["zımpara kağıdı", "zımpara kağıdı denilen", "zımparası kağıt", "zımpara kağıdını"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "algı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "perception, awareness, conception",
+  "sentences": [
+    {
+      "id": "algı_s1",
+      "text": "İnsanların olaylar hakkındaki [algısı] çoğunlukla kültürel ve kişisel deneyimlerden kaynaklanır.",
+      "note": null
+    },
+    {
+      "id": "algı_s2",
+      "text": "Renklerin [algısı] kişiden kişiye farklılık gösterebilir.",
+      "note": null
+    },
+    {
+      "id": "algı_s3",
+      "text": "Yaşlılıkla beraber işitme [algısı] azalır.",
+      "note": null
+    },
+    {
+      "id": "algı_s4",
+      "text": "Halkın hükümet hakkındaki [algısı] seçim sonuçlarını doğrudan etkiler.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "algı_r1",
+      "prompt": "İnsanın dış dünyayı hissetme ve anlama yeteneğine verilen isim nedir?",
+      "accepted_forms": ["algı", "algısı", "algının", "algıları"],
+      "note": null
+    },
+    {
+      "id": "algı_r2",
+      "prompt": "Birisinin herhangi bir konuda sahip olduğu görüş veya anlayış hangi kelimeyle adlandırılır?",
+      "accepted_forms": ["algı", "algısı", "algılar", "algısına"],
+      "note": null
+    }
+  ]
+}

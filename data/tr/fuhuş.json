@@ -1,0 +1,43 @@
+{
+  "word": "fuhuş",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "prostitution",
+  "sentences": [
+    {
+      "id": "fuhuş_s1",
+      "text": "[Fuhuş] yüzyıllar boyunca var olan bir fenomen.",
+      "note": null
+    },
+    {
+      "id": "fuhuş_s2",
+      "text": "Sosyoloji dersinde [fuhuş] konusu tartışıldı.",
+      "note": null
+    },
+    {
+      "id": "fuhuş_s3",
+      "text": "[Fuhuş] karşıtı hareketin tarihi ilginç.",
+      "note": null
+    },
+    {
+      "id": "fuhuş_s4",
+      "text": "Hükümet [fuhuş] ile mücadele etmeyi hedefledi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "fuhuş_r1",
+      "prompt": "Cinsel hizmet karşılığında para alma işi",
+      "accepted_forms": ["fuhuş", "fuhuşa", "fuhuş yapmak", "fuhuştan"],
+      "note": null
+    },
+    {
+      "id": "fuhuş_r2",
+      "prompt": "Parayla cinsel ilişkiye girme ticareti",
+      "accepted_forms": ["fuhuş", "fuhuşu", "fuhuşun", "fuhuş dünyası"],
+      "note": null
+    }
+  ]
+}

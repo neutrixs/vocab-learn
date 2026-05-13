@@ -1,0 +1,43 @@
+{
+  "word": "vasıflı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "qualified, skilled, competent, capable",
+  "sentences": [
+    {
+      "id": "vasıflı_s1",
+      "text": "[Vasıflı] bir öğretmen aramız var.",
+      "note": null
+    },
+    {
+      "id": "vasıflı_s2",
+      "text": "Bu harita [vasıflı] harita uzmanı tarafından yapılmış.",
+      "note": null
+    },
+    {
+      "id": "vasıflı_s3",
+      "text": "[Vasıflı] çalışanlar kurumu başarıya götürür.",
+      "note": null
+    },
+    {
+      "id": "vasıflı_s4",
+      "text": "[Vasıflı] olmayan işlerden kaçınmalıyız.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "vasıflı_r1",
+      "prompt": "Belirli bir konuda yeterli bilgiye ve kabiliyete sahip olan kişi veya nesne.",
+      "accepted_forms": ["vasıflı", "vasıfsız", "vasıflıyım", "vasıflı"],
+      "note": null
+    },
+    {
+      "id": "vasıflı_r2",
+      "prompt": "Gerekli özellik ve beceriye sahip, belirli standartları karşılayan profesyonel.",
+      "accepted_forms": ["vasıflı", "vasıflılar", "vasıflılık", "vasıflı"],
+      "note": null
+    }
+  ]
+}

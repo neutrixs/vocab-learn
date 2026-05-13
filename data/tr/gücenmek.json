@@ -1,0 +1,43 @@
+{
+  "word": "gücenmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to be offended, to take offense, to get angry",
+  "sentences": [
+    {
+      "id": "gücenmek_s1",
+      "text": "Arkadaşım bana [güce]ndi ve konuşmuyor.",
+      "note": null
+    },
+    {
+      "id": "gücenmek_s2",
+      "text": "Pazarlık teklifi karşısında satıcı [güce]ndi.",
+      "note": null
+    },
+    {
+      "id": "gücenmek_s3",
+      "text": "Hafif bir eleştiriye bile [güce]nen insanlar vardır.",
+      "note": null
+    },
+    {
+      "id": "gücenmek_s4",
+      "text": "Eğer [güce]nmezsen çok sevinirim.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gücenmek_r1",
+      "prompt": "Birinin davranışı veya söz yüzünden kırgın ve sinirli olmak anlamına gelen fiil nedir?",
+      "accepted_forms": ["gücenmek", "güçendi", "güceniyor", "gücenme"],
+      "note": null
+    },
+    {
+      "id": "gücenmek_r2",
+      "prompt": "Bir işletmeci yapılan teklife karşı ters kesilip kızıp gitmesi için hangi fiili kullanırız?",
+      "accepted_forms": ["gücenmek", "güçendi", "gücenmiş", "gücenebilir"],
+      "note": null
+    }
+  ]
+}

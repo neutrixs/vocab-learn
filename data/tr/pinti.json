@@ -1,0 +1,36 @@
+{
+  "word": "pinti",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adjective",
+  "english_gloss": "stingy, miserly, tight-fisted",
+  "sentences": [
+    {
+      "id": "pinti_s1",
+      "text": "Adam [pinti] bir kişidir ve hiçbir şey vermiyor.",
+      "note": null
+    },
+    {
+      "id": "pinti_s2",
+      "text": "[Pinti] yaşam hiçbir zevk vermez.",
+      "note": null
+    },
+    {
+      "id": "pinti_s3",
+      "text": "Onu [pinti] olmasıyla çocukluk arkadaşları bile bilirler.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "pinti_r1",
+      "prompt": "Baba çok _____ ve para harcamaz.",
+      "accepted_forms": ["pinti", "pinti"]
+    },
+    {
+      "id": "pinti_r2",
+      "prompt": "_____ insanlar başkasının parasını sevmezler.",
+      "accepted_forms": ["pinti", "pinti"]
+    }
+  ]
+}

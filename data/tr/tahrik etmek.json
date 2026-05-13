@@ -1,0 +1,43 @@
+{
+  "word": "tahrik etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to provoke, incite, excite",
+  "sentences": [
+    {
+      "id": "tahrik etmek_s1",
+      "text": "Onu olumsuz düşüncelerle [tahrik etmek] istemiyorum.",
+      "note": null
+    },
+    {
+      "id": "tahrik etmek_s2",
+      "text": "Halk mitinginde nefret söylemi ile birilerini [tahrik etme].",
+      "note": null
+    },
+    {
+      "id": "tahrik etmek_s3",
+      "text": "Köpek, çocuğu tehlikeli bir şekilde [tahrik etti].",
+      "note": null
+    },
+    {
+      "id": "tahrik etmek_s4",
+      "text": "Sözcükleriniz onun öfkesini [tahrik etmiş].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tahrik etmek_r1",
+      "prompt": "Sevgiliniz kasıtlı olarak seni öfkelendirmeye çalışıyor. Ne yapıyor?",
+      "accepted_forms": ["tahrik ediyor", "tahrik etmek", "tahrik etti", "tahrik ettim"],
+      "note": null
+    },
+    {
+      "id": "tahrik etmek_r2",
+      "prompt": "Ateş ile bir hayvanı ___ tehlikelidir.",
+      "accepted_forms": ["tahrik etmek", "tahrik ediyor", "tahrik ettik"],
+      "note": null
+    }
+  ]
+}

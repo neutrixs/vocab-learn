@@ -1,0 +1,43 @@
+{
+  "word": "yokuş",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "slope, hill, incline",
+  "sentences": [
+    {
+      "id": "yokuş_s1",
+      "text": "Dağın [yokuş]unda yürümek zor.",
+      "note": null
+    },
+    {
+      "id": "yokuş_s2",
+      "text": "Bu cadde çok dik bir [yokuş].",
+      "note": null
+    },
+    {
+      "id": "yokuş_s3",
+      "text": "Bisiklet ile [yokuş]tan aşağı inmek hızlı.",
+      "note": null
+    },
+    {
+      "id": "yokuş_s4",
+      "text": "Arabam [yokuş]u çıkarken güç istiyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yokuş_r1",
+      "prompt": "Dik bir arazi parçasının adı nedir?",
+      "accepted_forms": ["yokuş", "yokuşu", "yokuşta", "yokuştan"],
+      "note": null
+    },
+    {
+      "id": "yokuş_r2",
+      "prompt": "Dağın yukarısına doğru giden ... yüzünden yürümek zordur.",
+      "accepted_forms": ["yokuş", "yokuşu"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "alt yapı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "infrastructure",
+  "sentences": [
+    {
+      "id": "alt yapı_s1",
+      "text": "Ülkenin gelişmesi için güçlü bir [alt yapı] gereklidir.",
+      "note": null
+    },
+    {
+      "id": "alt yapı_s2",
+      "text": "Yollar, köprüler ve elektrik sistemi [alt yapı]nın önemli parçalarıdır.",
+      "note": null
+    },
+    {
+      "id": "alt yapı_s3",
+      "text": "Bu şehrin [alt yapı]sı eski ve yenilemeye ihtiyaç duyuyor.",
+      "note": null
+    },
+    {
+      "id": "alt yapı_s4",
+      "text": "Modern işletmeler, iyi bir [alt yapı] olmadan başarılı olamaz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "alt yapı_r1",
+      "prompt": "Bir şehri geliştirmek için yollar, elektrik, su sistemleri gibi temel olanakların tümü ne denir?",
+      "accepted_forms": ["alt yapı", "alt yapısı", "alt yapıya", "alt yapılar"],
+      "note": null
+    },
+    {
+      "id": "alt yapı_r2",
+      "prompt": "Bir teknoloji şirketinin sunucuları, veri merkezleri ve ağları onun ... olarak nitelendirilir.",
+      "accepted_forms": ["alt yapı", "alt yapısı", "alt yapısını"],
+      "note": null
+    }
+  ]
+}

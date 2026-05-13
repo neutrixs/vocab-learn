@@ -1,0 +1,43 @@
+{
+  "word": "gözlem",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "observation",
+  "sentences": [
+    {
+      "id": "gözlem_s1",
+      "text": "Bilim insanı dikkatli bir [gözlem] yaparak sonuç çıkardı.",
+      "note": null
+    },
+    {
+      "id": "gözlem_s2",
+      "text": "Onun [gözlemleri] çok değerli ve yararlı olmuştur.",
+      "note": null
+    },
+    {
+      "id": "gözlem_s3",
+      "text": "Uzun [gözlem] süresince pek çok veri topladılar.",
+      "note": null
+    },
+    {
+      "id": "gözlem_s4",
+      "text": "[Gözlem] yaptıktan sonra rapor yazması gerekiyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gözlem_r1",
+      "prompt": "Bir bilim insanının veri toplamak için yaptığı dikkatlice inceleme ve kayıt işlemi nedir?",
+      "accepted_forms": ["gözlem", "gözlemleme", "gözlemleri", "gözleminin"],
+      "note": null
+    },
+    {
+      "id": "gözlem_r2",
+      "prompt": "Doktor hastayı tedavi etmeden önce hastalığı hakkında bilgi edinmek için ne yapar?",
+      "accepted_forms": ["gözlem", "gözlemleri", "gözlemci", "gözlemlemek"],
+      "note": null
+    }
+  ]
+}

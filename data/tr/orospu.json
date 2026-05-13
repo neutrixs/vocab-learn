@@ -1,0 +1,43 @@
+{
+  "word": "orospu",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "prostitute, whore",
+  "sentences": [
+    {
+      "id": "orospu_s1",
+      "text": "Sokak dilinde [orospu] sözü hakaret olarak kullanılır.",
+      "note": null
+    },
+    {
+      "id": "orospu_s2",
+      "text": "İstanbul'un eski [orospu] mahalleleri tarihi bir miras.",
+      "note": null
+    },
+    {
+      "id": "orospu_s3",
+      "text": "[Orospu] kelimesi türkçede çok ağır bir söz.",
+      "note": null
+    },
+    {
+      "id": "orospu_s4",
+      "text": "Klasik edebiyatta [orospu] karakterleri de vardır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "orospu_r1",
+      "prompt": "Sokak dilinde fuhuş yapan kadına verilen ağır isim",
+      "accepted_forms": ["orospu", "orospu gibi", "orospu muşu", "orospu nun"],
+      "note": null
+    },
+    {
+      "id": "orospu_r2",
+      "prompt": "Türkçede kadını hakir gören bir küfür sözü",
+      "accepted_forms": ["orospu", "orospu sözü", "orospu diye", "orospu mu"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "karşılıksız",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "unreturned, unrequited, one-way",
+  "sentences": [
+    {
+      "id": "karşılıksız_s1",
+      "text": "O, arkadaşına [karşılıksız] olarak para verdi ve geri almanı beklememesi.",
+      "note": null
+    },
+    {
+      "id": "karşılıksız_s2",
+      "text": "Onun [karşılıksız] sevgisi hiçbir zaman karşılık bulmadı.",
+      "note": null
+    },
+    {
+      "id": "karşılıksız_s3",
+      "text": "[Karşılıksız] bir aşkta yaşamak acı vericidir.",
+      "note": null
+    },
+    {
+      "id": "karşılıksız_s4",
+      "text": "O, [karşılıksız] olarak ailesine yardım etmeyi sürdürdü.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "karşılıksız_r1",
+      "prompt": "Bir kişi sevgisini ifade ettiği halde cevap almadığında buna ne denir?",
+      "accepted_forms": ["karşılıksız", "karşılıksız aşk", "karşılıksızı"],
+      "note": null
+    },
+    {
+      "id": "karşılıksız_r2",
+      "prompt": "Yardım alan kişi ödeme yapmazsa bu yardım ... tur.",
+      "accepted_forms": ["karşılıksız", "karşılıksızsa"],
+      "note": null
+    }
+  ]
+}

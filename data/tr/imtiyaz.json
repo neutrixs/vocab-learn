@@ -1,0 +1,36 @@
+{
+  "word": "imtiyaz",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "privilege, franchise, license",
+  "sentences": [
+    {
+      "id": "imtiyaz_s1",
+      "text": "Şirkete tren işletme [imtiyaz]ı verildi.",
+      "note": null
+    },
+    {
+      "id": "imtiyaz_s2",
+      "text": "[İmtiyaz] sahibi haber gazetesi yayın yapıyor.",
+      "note": null
+    },
+    {
+      "id": "imtiyaz_s3",
+      "text": "Devlet [imtiyaz]ları kontrol eder.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "imtiyaz_r1",
+      "prompt": "Gazete yayınlamak için _____ gerekir.",
+      "accepted_forms": ["imtiyaz", "imtiyazı", "imtiyazlar"]
+    },
+    {
+      "id": "imtiyaz_r2",
+      "prompt": "Kamu hizmeti _____ ile verilir.",
+      "accepted_forms": ["imtiyaz", "imtiyazlarla", "imtiyazla"]
+    }
+  ]
+}

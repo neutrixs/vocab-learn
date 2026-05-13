@@ -1,0 +1,43 @@
+{
+  "word": "kıyas",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "analogy, comparison, proportion",
+  "sentences": [
+    {
+      "id": "kıyas_s1",
+      "text": "İslam hukuku [kıyas] esasına dayanır.",
+      "note": null
+    },
+    {
+      "id": "kıyas_s2",
+      "text": "[Kıyas] yoluyla benzer durumlar çözülür.",
+      "note": null
+    },
+    {
+      "id": "kıyas_s3",
+      "text": "Matematiksel [kıyas] oranları gösterir.",
+      "note": null
+    },
+    {
+      "id": "kıyas_s4",
+      "text": "[Kıyas] yaklaşımı bilimsel akıl yürütmede önemlidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kıyas_r1",
+      "prompt": "İslam hukukunda bilinmeyen bir meseleyi bilinen benzer durumla karşılaştırarak çözmek yöntemi?",
+      "accepted_forms": ["kıyas", "kıyasa", "kıyasına", "kıyaslar"],
+      "note": null
+    },
+    {
+      "id": "kıyas_r2",
+      "prompt": "İki şeyin oransal ilişkisini belirtmek için yapılan mantıksal karşılaştırma?",
+      "accepted_forms": ["kıyas", "kıyasa", "kıyasla", "kıyaslama"],
+      "note": null
+    }
+  ]
+}

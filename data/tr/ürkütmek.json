@@ -1,0 +1,43 @@
+{
+  "word": "ürkütmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to frighten, to scare away",
+  "sentences": [
+    {
+      "id": "ürkütmek_s1",
+      "text": "Gürültü kuşları [ürkütüyor].",
+      "note": null
+    },
+    {
+      "id": "ürkütmek_s2",
+      "text": "Onu [ürkütmek] istemiyorum.",
+      "note": null
+    },
+    {
+      "id": "ürkütmek_s3",
+      "text": "Köpek sesinden [ürkütülmüş] görünüyor.",
+      "note": null
+    },
+    {
+      "id": "ürkütmek_s4",
+      "text": "Kaptan gemiyi kaybetmek korkusuyla [ürkütülmüştü].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ürkütmek_r1",
+      "prompt": "Tatlı hayvan yavrusunu yüksek sesle ... istememeliyiz.",
+      "accepted_forms": ["ürkütmek", "ürkütmemeliyiz", "ürkütmemelisiniz"],
+      "note": null
+    },
+    {
+      "id": "ürkütmek_r2",
+      "prompt": "Avı korkuyla ... eden avcı başarısız kalır.",
+      "accepted_forms": ["ürkütüp", "ürkütüyorsa"],
+      "note": null
+    }
+  ]
+}

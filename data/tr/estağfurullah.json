@@ -1,0 +1,43 @@
+{
+  "word": "estağfurullah",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "God forbid, heaven forbid, far be it",
+  "sentences": [
+    {
+      "id": "estağfurullah_s1",
+      "text": "Estağfurullah, ben asla böyle bir şey yapamam!",
+      "note": null
+    },
+    {
+      "id": "estağfurullah_s2",
+      "text": "Estağfurullah, o kadar kötü olabilir miyim?",
+      "note": null
+    },
+    {
+      "id": "estağfurullah_s3",
+      "text": "[Estağfurullah], düşüncesine bile katlanamam.",
+      "note": null
+    },
+    {
+      "id": "estağfurullah_s4",
+      "text": "Estağfurullah, sana bu tür bir iftira atmak istemerim.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "estağfurullah_r1",
+      "prompt": "Kötü bir düşünceden ya da kötü bir olaydan Tanrı'ya sığınmak için söylenen ifade.",
+      "accepted_forms": ["estağfurullah", "estağfurullaah"],
+      "note": null
+    },
+    {
+      "id": "estağfurullah_r2",
+      "prompt": "Çok olumsuz bir durumun ya da önerisinin çok uzağında olmak anlamında söylenen İslami söz.",
+      "accepted_forms": ["estağfurullah", "estağfurullaah", "estafiurullah"],
+      "note": null
+    }
+  ]
+}

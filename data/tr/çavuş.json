@@ -1,0 +1,43 @@
+{
+  "word": "çavuş",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "sergeant, non-commissioned officer",
+  "sentences": [
+    {
+      "id": "çavuş_s1",
+      "text": "Askerî birlikte [çavuş] rütbesi çok önemliydi.",
+      "note": null
+    },
+    {
+      "id": "çavuş_s2",
+      "text": "[Çavuş], astlarına talimat vermekten sorumlu.",
+      "note": null
+    },
+    {
+      "id": "çavuş_s3",
+      "text": "Ordu hiyerarşisinde [çavuş] er ile subay arasında duruyor.",
+      "note": null
+    },
+    {
+      "id": "çavuş_s4",
+      "text": "Eski Osmanlı ordusunda [çavuş] rütbesi bulunuyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çavuş_r1",
+      "prompt": "Orduda astlarına talimat veren subay olmayanlar nasıl çağrılır?",
+      "accepted_forms": ["çavuş", "çavuşlar", "çavuştır"],
+      "note": null
+    },
+    {
+      "id": "çavuş_r2",
+      "prompt": "Asker ___ er ile subay arasında bir rütbe.",
+      "accepted_forms": ["çavuş", "çavuşu", "çavuştur"],
+      "note": null
+    }
+  ]
+}

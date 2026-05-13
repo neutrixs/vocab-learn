@@ -1,0 +1,38 @@
+{
+  "word": "ayrım yapmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to discriminate, to make distinction",
+  "sentences": [
+    {
+      "id": "ayrım yapmak_s1",
+      "text": "Cinsiyete göre [ayrım yapmak] yanlıştır.",
+      "note": null
+    },
+    {
+      "id": "ayrım yapmak_s2",
+      "text": "Irkı nedeniyle [ayrım yapan] kişiler var.",
+      "note": null
+    },
+    {
+      "id": "ayrım yapmak_s3",
+      "text": "Dini inanca göre [ayrım yapmamız] gerekiyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ayrım yapmak_r1",
+      "prompt": "Kişileri veya grupları farklı muameleye tabi tutmak, ayırımcılık demektir?",
+      "accepted_forms": ["ayrım yapmak", "ayrım yapan", "ayrım yapmaz", "ayrım yaptı"],
+      "note": null
+    },
+    {
+      "id": "ayrım yapmak_r2",
+      "prompt": "Tüm insanlara eşit davranmalıyız; hiç kimse ... daha iyi olur.",
+      "accepted_forms": ["ayrım yapmamalı", "ayrım yapmazsa", "ayrım yapmadığında"],
+      "note": null
+    }
+  ]
+}

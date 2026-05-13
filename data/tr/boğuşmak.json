@@ -1,0 +1,43 @@
+{
+  "word": "boğuşmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to wrestle, to struggle, to grapple",
+  "sentences": [
+    {
+      "id": "boğuşmak_s1",
+      "text": "İki pehlivan mat ortasında [boğuş]uyor.",
+      "note": null
+    },
+    {
+      "id": "boğuşmak_s2",
+      "text": "Hayat [boğuşmak]ları insanı güçlendirir.",
+      "note": null
+    },
+    {
+      "id": "boğuşmak_s3",
+      "text": "Onlar yıllardır zorluklarla [boğuş]maktadırlar.",
+      "note": null
+    },
+    {
+      "id": "boğuşmak_s4",
+      "text": "[Boğuş]ma sporunda başarılı olmak için antrenman gerekir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "boğuşmak_r1",
+      "prompt": "İki kişinin birbirine sarılarak güç kullanarak yarıştığı spor faaliyeti?",
+      "accepted_forms": ["boğuşmak", "boğuşur", "boğuştu", "boğuşuyor"],
+      "note": null
+    },
+    {
+      "id": "boğuşmak_r2",
+      "prompt": "Zorluk ve engellere karşı mücadele etmek anlamına gelen fiil?",
+      "accepted_forms": ["boğuşmak", "boğuştu", "boğuşmuş", "boğuşacak"],
+      "note": null
+    }
+  ]
+}

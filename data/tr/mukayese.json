@@ -1,0 +1,43 @@
+{
+  "word": "mukayese",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "comparison, contrast",
+  "sentences": [
+    {
+      "id": "mukayese_s1",
+      "text": "[Mukayese] yaparak iki ürünün farkını anladık.",
+      "note": null
+    },
+    {
+      "id": "mukayese_s2",
+      "text": "Edebiyat dersinde eserler [mukayese]si yapılmaktadır.",
+      "note": null
+    },
+    {
+      "id": "mukayese_s3",
+      "text": "Tarihsel [mukayese] olayları daha iyi anlamamızı sağlar.",
+      "note": null
+    },
+    {
+      "id": "mukayese_s4",
+      "text": "[Mukayese] yöntemiyle farklılıkları görmek kolaydır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "mukayese_r1",
+      "prompt": "İki ya da daha fazla şeyi yan yana koyarak benzerlikleri ve farklılıklarını belirten işlem?",
+      "accepted_forms": ["mukayese", "mukayeseyi", "mukayesede", "mukayeseler"],
+      "note": null
+    },
+    {
+      "id": "mukayese_r2",
+      "prompt": "Edebi eserlerin tarzlarını, fikirlerini karşılaştırma işlemi?",
+      "accepted_forms": ["mukayese", "mukayese", "karşılaştırma", "mukayesesi"],
+      "note": null
+    }
+  ]
+}

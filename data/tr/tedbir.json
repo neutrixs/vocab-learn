@@ -1,0 +1,43 @@
+{
+  "word": "tedbir",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "measure, precaution, step",
+  "sentences": [
+    {
+      "id": "tedbir_s1",
+      "text": "Hükümet ekonomik kriz için acil [tedbir]ler aldı.",
+      "note": null
+    },
+    {
+      "id": "tedbir_s2",
+      "text": "Güvenlik [tedbir]leri tüm giriş kapılarına yerleştirildi.",
+      "note": null
+    },
+    {
+      "id": "tedbir_s3",
+      "text": "Öğretmen sınıf disiplini için bazı [tedbir]ler almak zorunda.",
+      "note": null
+    },
+    {
+      "id": "tedbir_s4",
+      "text": "Salgının yayılmasını kısıtlamak için [tedbir]ler uygulanmalı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tedbir_r1",
+      "prompt": "Olumsuz bir durumu engellemek ya da sonuçlarını azaltmak için alınan adım ...",
+      "accepted_forms": ["tedbir", "tedbirleri", "tedbirler", "tedbir"],
+      "note": null
+    },
+    {
+      "id": "tedbir_r2",
+      "prompt": "Kışa hazırlanmak için önceden ... almamız gerekiyor.",
+      "accepted_forms": ["tedbir", "tedbirler"],
+      "note": null
+    }
+  ]
+}

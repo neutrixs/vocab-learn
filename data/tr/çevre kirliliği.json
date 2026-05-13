@@ -1,0 +1,43 @@
+{
+  "word": "çevre kirliliği",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "environmental pollution, environmental contamination",
+  "sentences": [
+    {
+      "id": "çevre kirliliği_s1",
+      "text": "[Çevre kirliliği] dünya üzerinde en ciddi sorunlardan biridir.",
+      "note": null
+    },
+    {
+      "id": "çevre kirliliği_s2",
+      "text": "Endüstrileşme [çevre kirliliğini] ciddi şekilde arttırmıştır.",
+      "note": null
+    },
+    {
+      "id": "çevre kirliliği_s3",
+      "text": "[Çevre kirliliğinden] kaynaklanan hastalıklar her yıl milyonlarca insanı etkiliyor.",
+      "note": null
+    },
+    {
+      "id": "çevre kirliliği_s4",
+      "text": "Plastik atıklar [çevre kirliliğinin] en önemli sebeplerinden biridir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çevre kirliliği_r1",
+      "prompt": "Hava, su ve toprağın kimyasal ve fiziksel olarak bozulması ve kirletilmesi hangi terimle adlandırılır?",
+      "accepted_forms": ["çevre kirliliği", "çevre kirliliğine", "çevre kirliliğinin", "çevre kirliliğini"],
+      "note": null
+    },
+    {
+      "id": "çevre kirliliği_r2",
+      "prompt": "Fabrikaların ve araçların yayıldığı zehirli gazlar hangi sorunu oluşturur?",
+      "accepted_forms": ["çevre kirliliği", "çevre kirliliğinin", "çevre kirliliğine", "çevre kirliliğini"],
+      "note": null
+    }
+  ]
+}

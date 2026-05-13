@@ -1,0 +1,43 @@
+{
+  "word": "şüphe",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "doubt, suspicion",
+  "sentences": [
+    {
+      "id": "şüphe_s1",
+      "text": "Onun [şüphesi] vardır.",
+      "note": null
+    },
+    {
+      "id": "şüphe_s2",
+      "text": "[Şüphesiz] onu seveceğiz.",
+      "note": null
+    },
+    {
+      "id": "şüphe_s3",
+      "text": "Hakim kararını [şüphesiz] aldı.",
+      "note": null
+    },
+    {
+      "id": "şüphe_s4",
+      "text": "[Şüpheye] kapılmamak lazım.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "şüphe_r1",
+      "prompt": "Bir konuya inanmakta tereddüt etttiğinizde ... duyuyorsunuz.",
+      "accepted_forms": ["şüphe", "şüpheler", "şüphe hissedersiniz"],
+      "note": null
+    },
+    {
+      "id": "şüphe_r2",
+      "prompt": "Bu doğru ... var.",
+      "accepted_forms": ["şüphe", "şüpheli", "şüphesi"],
+      "note": null
+    }
+  ]
+}

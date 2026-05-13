@@ -1,0 +1,43 @@
+{
+  "word": "telif hakkı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "copyright, intellectual property right",
+  "sentences": [
+    {
+      "id": "telif hakkı_s1",
+      "text": "Bu kitabın [telif hakkı] yazar tarafından korunmaktadır.",
+      "note": null
+    },
+    {
+      "id": "telif hakkı_s2",
+      "text": "[Telif hakkı] ihlali ciddi cezalara yol açabilir.",
+      "note": null
+    },
+    {
+      "id": "telif hakkı_s3",
+      "text": "Müzisyen [telif hakkı] hakkında avukat tuttu.",
+      "note": null
+    },
+    {
+      "id": "telif hakkı_s4",
+      "text": "Yazılımın [telif hakkı] şirket tarafından sahiplenilmiştir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "telif hakkı_r1",
+      "prompt": "Bir eserin yazarının bunu paylaşması veya satması konusunda sahip olduğu yasal hak nedir?",
+      "accepted_forms": ["telif hakkı", "telif hakları", "telif hakkının"],
+      "note": null
+    },
+    {
+      "id": "telif hakkı_r2",
+      "prompt": "Bir şarkıcının eserine karşı yasayla korunan hak ne adıyla anılır?",
+      "accepted_forms": ["telif hakkı", "telif hakkından", "telif haklarını"],
+      "note": null
+    }
+  ]
+}

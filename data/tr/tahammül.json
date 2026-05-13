@@ -1,0 +1,43 @@
+{
+  "word": "tahammül",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "tolerance, patience, forbearance",
+  "sentences": [
+    {
+      "id": "tahammül_s1",
+      "text": "Çok gürültüye karşı [tahammül]ü yok.",
+      "note": null
+    },
+    {
+      "id": "tahammül_s2",
+      "text": "[Tahammül] erdem en zor zaman da gösterilir.",
+      "note": null
+    },
+    {
+      "id": "tahammül_s3",
+      "text": "Öğretmen sinirli öğrencilere [tahammül] gösterdi.",
+      "note": null
+    },
+    {
+      "id": "tahammül_s4",
+      "text": "Sabrı ve [tahammül]ü olmayan kimse çok hata yapar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tahammül_r1",
+      "prompt": "Birinin rahatsız edici davranışa sabırla karşılık vermesi hangi özelliğini gösterir?",
+      "accepted_forms": ["tahammülü", "tahammülünü", "tahammülle"],
+      "note": null
+    },
+    {
+      "id": "tahammül_r2",
+      "prompt": "Din ve ahlak öğretisinde ___ bir değerdir.",
+      "accepted_forms": ["tahammül", "tahammül erdem", "tahammülü"],
+      "note": null
+    }
+  ]
+}

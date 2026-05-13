@@ -1,0 +1,43 @@
+{
+  "word": "tıka basa doldurmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to cram full, to stuff completely, to pack tightly",
+  "sentences": [
+    {
+      "id": "tıka basa doldurmak_s1",
+      "text": "Çantasını kitapla [tıka basa doldurmak] isteyen Ahmet çantaya sıkıştırıyor.",
+      "note": null
+    },
+    {
+      "id": "tıka basa doldurmak_s2",
+      "text": "Kasa bilet satıcısı havluları [tıka basa doldurmak] için rafı tam doldurdu.",
+      "note": null
+    },
+    {
+      "id": "tıka basa doldurmak_s3",
+      "text": "Kutuyu mücevherle [tıka basa doldurmak] için daha fazla alan bulmaya çalıştı.",
+      "note": null
+    },
+    {
+      "id": "tıka basa doldurmak_s4",
+      "text": "Sandığı erzakla [tıka basa doldurmak] için sırası gelmiş.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tıka basa doldurmak_r1",
+      "prompt": "Bir kutuyu veya çantayı ağzına kadar sıkıştırmak suretiyle doldurma işleminin adı nedir?",
+      "accepted_forms": ["tıka basa doldurmak", "tıka basa doldurdu", "tıka basa dolduru", "tıka basa dolduruyor"],
+      "note": null
+    },
+    {
+      "id": "tıka basa doldurmak_r2",
+      "prompt": "Bir kapı ağzını, bir kutu ağzını ya da benzer bir açıklığı hemen hemen ağzına kadar dışarıya taşan eşyalarla doldurmak ne demektir?",
+      "accepted_forms": ["tıka basa doldurmak", "tıka basa doldurması", "tıka basa dolduracak", "tıka basa doldur"],
+      "note": null
+    }
+  ]
+}

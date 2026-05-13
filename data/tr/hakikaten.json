@@ -1,0 +1,43 @@
+{
+  "word": "hakikaten",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "adverb",
+  "english_gloss": "truly, really, actually, indeed",
+  "sentences": [
+    {
+      "id": "hakikaten_s1",
+      "text": "[Hakikaten] çok güzel bir gün.",
+      "note": null
+    },
+    {
+      "id": "hakikaten_s2",
+      "text": "Seni [hakikaten] seviyorum.",
+      "note": null
+    },
+    {
+      "id": "hakikaten_s3",
+      "text": "[Hakikaten] bu senin hatand mı?",
+      "note": null
+    },
+    {
+      "id": "hakikaten_s4",
+      "text": "Bana [hakikaten] ne olduğunu söyle.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hakikaten_r1",
+      "prompt": "Birinin söylediği şeyi onaylaması için cevapla: ___ mi?",
+      "accepted_forms": ["hakikaten", "gerçekten", "doğru mu"],
+      "note": null
+    },
+    {
+      "id": "hakikaten_r2",
+      "prompt": "Bir durumun ___ böyle olduğunu söylemek istiyorum.",
+      "accepted_forms": ["hakikaten", "gerçekten"],
+      "note": null
+    }
+  ]
+}

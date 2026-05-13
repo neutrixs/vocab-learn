@@ -1,0 +1,43 @@
+{
+  "word": "önlem",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "precaution, measure, step",
+  "sentences": [
+    {
+      "id": "önlem_s1",
+      "text": "Sağlık durumunuzu korumak için [önlem] almak çok önemlidir.",
+      "note": null
+    },
+    {
+      "id": "önlem_s2",
+      "text": "Hükümet, hastalığın yayılmasını durdurmak için birçok [önlem] aldı.",
+      "note": null
+    },
+    {
+      "id": "önlem_s3",
+      "text": "Bu [önlem]ler sayesinde kazalar azalabilir.",
+      "note": null
+    },
+    {
+      "id": "önlem_s4",
+      "text": "[Önlem] almanın erken dönemde başlanması daha etkilidir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "önlem_r1",
+      "prompt": "Kış mevsiminde gripten korunmak için neler yapılmalı? Örnek: Aşı yaptırmak, ılık su içmek gibi...",
+      "accepted_forms": ["önlem", "önlemler", "önleme", "önlemleri"],
+      "note": null
+    },
+    {
+      "id": "önlem_r2",
+      "prompt": "Güvenlik açısından binaya hangi ... alınması gerekir? Kameralar, kapıcı vb.",
+      "accepted_forms": ["önlem", "önlemler", "önlemlerin"],
+      "note": null
+    }
+  ]
+}

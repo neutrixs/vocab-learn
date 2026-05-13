@@ -1,0 +1,43 @@
+{
+  "word": "dargınlık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "resentment, irritation, pique",
+  "sentences": [
+    {
+      "id": "dargınlık_s1",
+      "text": "Onun [dargınlığı] çok uzun sürdü.",
+      "note": null
+    },
+    {
+      "id": "dargınlık_s2",
+      "text": "[Dargınlık] ilişkileri zayıflatabilir.",
+      "note": null
+    },
+    {
+      "id": "dargınlık_s3",
+      "text": "Kötü bir sözle [dargınlık] başlayabilir.",
+      "note": null
+    },
+    {
+      "id": "dargınlık_s4",
+      "text": "[Dargınlığını] gidermek için başını açması gerekiyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dargınlık_r1",
+      "prompt": "Birisiyle arası bozuk olduğunda, kişinin hissettiği olumsuz duygu nedir?",
+      "accepted_forms": ["dargınlık", "dargınlığı", "dargınlığını", "dargınlığından"],
+      "note": null
+    },
+    {
+      "id": "dargınlık_r2",
+      "prompt": "Kızı babasından _____ hissettiğinde, onunla konuşmak istemedi.",
+      "accepted_forms": ["dargınlık", "dargın"],
+      "note": null
+    }
+  ]
+}

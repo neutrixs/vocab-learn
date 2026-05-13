@@ -1,0 +1,43 @@
+{
+  "word": "yağcılık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "flattery, fawning, sycophancy",
+  "sentences": [
+    {
+      "id": "yağcılık_s1",
+      "text": "[Yağcılık] yoluyla kişi çabuk ilerleyemez.",
+      "note": null
+    },
+    {
+      "id": "yağcılık_s2",
+      "text": "Müdürün [yağcılık]tan çok sıkıldığını herkes biliyor.",
+      "note": null
+    },
+    {
+      "id": "yağcılık_s3",
+      "text": "[Yağcılık] yapan insanlar genellikle güvenilmez olur.",
+      "note": null
+    },
+    {
+      "id": "yağcılık_s4",
+      "text": "Siz bu [yağcılık]tan vazgeçip dürüst olsanız.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yağcılık_r1",
+      "prompt": "Hoşlanıldığı kişiyi aşırı ölçüde ve samimiyetsiz şekilde övme davranışı.",
+      "accepted_forms": ["yağcılık", "yağcılığı", "yağcılıktan", "yağcılıklardan"],
+      "note": null
+    },
+    {
+      "id": "yağcılık_r2",
+      "prompt": "Kişinin gerçek duygularını gizleyerek onu beğeni göz ile görme muamelesi.",
+      "accepted_forms": ["yağcılık", "yağcılığa", "yağcılıklar", "yağcılığın"],
+      "note": null
+    }
+  ]
+}

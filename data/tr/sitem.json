@@ -1,0 +1,43 @@
+{
+  "word": "sitem",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "reproach, complaint, grievance",
+  "sentences": [
+    {
+      "id": "sitem_s1",
+      "text": "Onun [sitem]i oldukça acı verici idi.",
+      "note": null
+    },
+    {
+      "id": "sitem_s2",
+      "text": "[Sitem]leri dinledim ama yapabileceğim bir şey yoktu.",
+      "note": null
+    },
+    {
+      "id": "sitem_s3",
+      "text": "Anne, oğlunun hatasından dolayı [sitem] etmektedir.",
+      "note": null
+    },
+    {
+      "id": "sitem_s4",
+      "text": "Onun [sitem] dolu bakışı beni kahretti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sitem_r1",
+      "prompt": "Birinin kendisine karşı haksız davranış yaptığını ve bundan duyduğu üzüntüyü ifade etmesi?",
+      "accepted_forms": ["sitem", "sitemi", "sitemleri", "sitemi"],
+      "note": null
+    },
+    {
+      "id": "sitem_r2",
+      "prompt": "Hayal kırıklığı ve duyulan ıstırabı belirten, genellikle yakın kişilere yönelik ifade?",
+      "accepted_forms": ["sitem", "sitemi", "siteme", "sitemler"],
+      "note": null
+    }
+  ]
+}

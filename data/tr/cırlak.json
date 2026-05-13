@@ -1,0 +1,43 @@
+{
+  "word": "cırlak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "hoarse, croaky, raspy",
+  "sentences": [
+    {
+      "id": "cırlak_s1",
+      "text": "Hastalıktan sonra ses [cırlak] kalmıştır.",
+      "note": null
+    },
+    {
+      "id": "cırlak_s2",
+      "text": "[Cırlak] bir sesin işitilmesi hoş değildir.",
+      "note": null
+    },
+    {
+      "id": "cırlak_s3",
+      "text": "Çok çalışkanlık yüzünden öğretmenin sesi [cırlak] hale geldi.",
+      "note": null
+    },
+    {
+      "id": "cırlak_s4",
+      "text": "Sigara içenlerde çoğunlukla [cırlak] ses işitilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "cırlak_r1",
+      "prompt": "Kızgınlık veya hastalıktan ötürü kısıl kısıl olan sesi tanımlamak için hangi kelimeyi kullanırsınız?",
+      "accepted_forms": ["cırlak", "cırlak ses", "cırlağı", "cırlak bir"],
+      "note": null
+    },
+    {
+      "id": "cırlak_r2",
+      "prompt": "Dumanla kirlenmiş havada insanların geliştirebileceği ses kalitesi nedir?",
+      "accepted_forms": ["cırlak", "cırlak ses", "cırlak sesin", "cırlaklaşma"],
+      "note": null
+    }
+  ]
+}

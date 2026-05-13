@@ -1,0 +1,43 @@
+{
+  "word": "sağanak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "downpour, heavy rain, cloudburst",
+  "sentences": [
+    {
+      "id": "sağanak_s1",
+      "text": "Ani [sağanak] yağışından dolayı dışarı çıkamadık.",
+      "note": null
+    },
+    {
+      "id": "sağanak_s2",
+      "text": "[sağanak] nedeniyle okul tatil edildi.",
+      "note": null
+    },
+    {
+      "id": "sağanak_s3",
+      "text": "Hava durumu raporu bu hafta [sağanak] uyarısı yaptı.",
+      "note": null
+    },
+    {
+      "id": "sağanak_s4",
+      "text": "[sağanak] sebebiyle yollar sular altında kaldı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sağanak_r1",
+      "prompt": "Çok hızlı ve bol bir şekilde yağan yağmur ...",
+      "accepted_forms": ["sağanak", "sağanağa", "sağanaktan", "sağanaklı"],
+      "note": null
+    },
+    {
+      "id": "sağanak_r2",
+      "prompt": "Ani ve güçlü ... nedeniyle sokaklar su kaplı kaldı.",
+      "accepted_forms": ["sağanak", "sağanaklar"],
+      "note": null
+    }
+  ]
+}

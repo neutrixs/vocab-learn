@@ -1,0 +1,43 @@
+{
+  "word": "öngörü",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "foresight, prediction",
+  "sentences": [
+    {
+      "id": "öngörü_s1",
+      "text": "Ekonomist gelecek yılın [öngörü]sünü yaptı.",
+      "note": null
+    },
+    {
+      "id": "öngörü_s2",
+      "text": "Uzmanların [öngörü]leri çoğu zaman doğru çıkmıyor.",
+      "note": null
+    },
+    {
+      "id": "öngörü_s3",
+      "text": "[Öngörü] becerisi işletme yönetiminde çok önemlidir.",
+      "note": null
+    },
+    {
+      "id": "öngörü_s4",
+      "text": "Hava durumunun [öngörü]sü teknoloji sayesinde daha doğru hale geldi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "öngörü_r1",
+      "prompt": "Gelecekte neler olacağını önceden bilme yeteneği veya tahmin",
+      "accepted_forms": ["öngörü", "öngörüler", "öngörüsü"],
+      "note": null
+    },
+    {
+      "id": "öngörü_r2",
+      "prompt": "Bir olayın geleceğe yönelik tahmini",
+      "accepted_forms": ["öngörü", "öngörü yapmak", "öngörüleri"],
+      "note": null
+    }
+  ]
+}

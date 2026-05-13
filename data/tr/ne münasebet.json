@@ -1,0 +1,38 @@
+{
+  "word": "ne münasebet",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "what nonsense, how inappropriate",
+  "sentences": [
+    {
+      "id": "ne münasebet_s1",
+      "text": "[Ne münasebet], böyle bir şey söylenemez!",
+      "note": null
+    },
+    {
+      "id": "ne münasebet_s2",
+      "text": "Onun sunduğu teklif [ne münasebet]! Bunu kabul edemem.",
+      "note": null
+    },
+    {
+      "id": "ne münasebet_s3",
+      "text": "[Ne münasebet] diye bağırdı annesi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ne münasebet_r1",
+      "prompt": "Birinin uygunsuz veya saçma bir şey söylemesine tepki olarak kullanılan ifade nedir?",
+      "accepted_forms": ["ne münasebet"],
+      "note": null
+    },
+    {
+      "id": "ne münasebet_r2",
+      "prompt": "Böyle bir teklifi kabul edemem, _____!",
+      "accepted_forms": ["ne münasebet"],
+      "note": null
+    }
+  ]
+}

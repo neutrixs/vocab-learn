@@ -1,0 +1,43 @@
+{
+  "word": "başarılı olmak",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "phrase",
+  "english_gloss": "to succeed, to be successful",
+  "sentences": [
+    {
+      "id": "başarılı olmak_s1",
+      "text": "Sınıfını geçmek istiyorsan çok çalışmalısın [başarılı olmak]ı için.",
+      "note": null
+    },
+    {
+      "id": "başarılı olmak_s2",
+      "text": "O proje [başarılı oldu].",
+      "note": null
+    },
+    {
+      "id": "başarılı olmak_s3",
+      "text": "Hayatta [başarılı olmak] kolay değildir.",
+      "note": null
+    },
+    {
+      "id": "başarılı olmak_s4",
+      "text": "Antrenman sayesinde sporcu [başarılı oldu].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "başarılı olmak_r1",
+      "prompt": "Bir hedefi gerçekleştirmek veya amaca ulaşmak",
+      "accepted_forms": ["başarılı olmak", "başarılı oldu", "başarılı olur", "başarılı olması"],
+      "note": null
+    },
+    {
+      "id": "başarılı olmak_r2",
+      "prompt": "İstenen sonucu almak, işi başarıyla tamamlamak",
+      "accepted_forms": ["başarılı olmak", "başarılı olacak", "başarılı olacağım", "başarılı olduk"],
+      "note": null
+    }
+  ]
+}

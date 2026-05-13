@@ -1,0 +1,43 @@
+{
+  "word": "gurbette",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "exile, separation from homeland",
+  "sentences": [
+    {
+      "id": "gurbette_s1",
+      "text": "Uzun [gurbette] yılları sonra memleketine döndü.",
+      "note": null
+    },
+    {
+      "id": "gurbette_s2",
+      "text": "[Gurbette] iken ailesini çok özledi.",
+      "note": null
+    },
+    {
+      "id": "gurbette_s3",
+      "text": "Şair [gurbette]nin acısını şiirlerinde anlatır.",
+      "note": null
+    },
+    {
+      "id": "gurbette_s4",
+      "text": "[Gurbette] yaşayan insanlar vatanlarını hiç unutmazlar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "gurbette_r1",
+      "prompt": "Kişinin anavatanından ayrı, uzak yerlerde yaşadığı dönem?",
+      "accepted_forms": ["gurbette", "gurbetin", "gurbettede", "gurbetteyi"],
+      "note": null
+    },
+    {
+      "id": "gurbette_r2",
+      "prompt": "Türk edebiyatında sıkça karşılaşılan, vatanından uzakta yaşama acısı?",
+      "accepted_forms": ["gurbette", "gurbettelik", "gurbetçi", "gurbet"],
+      "note": null
+    }
+  ]
+}

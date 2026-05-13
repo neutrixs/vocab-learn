@@ -1,0 +1,38 @@
+{
+  "word": "cırtlak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "hoarse, raspy (variant of cırlak)",
+  "sentences": [
+    {
+      "id": "cırtlak_s1",
+      "text": "Soğuk algınlığından sonra sesi [cırtlak] olmuştur.",
+      "note": null
+    },
+    {
+      "id": "cırtlak_s2",
+      "text": "[Cırtlak] bir gırtlaktan çıkan ses kulağa çok tuhaf gelir.",
+      "note": null
+    },
+    {
+      "id": "cırtlak_s3",
+      "text": "Bağırırken sesi [cırtlak] diye tanımlayabilirsiniz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "cırtlak_r1",
+      "prompt": "Hastalık sonrası veya yoğun kullanımdan kaynaklanan hoş olmayan ses tonunu tanımlayan kelime nedir?",
+      "accepted_forms": ["cırtlak", "cırtlak ses", "cırtlağı", "cırtlak bir"],
+      "note": null
+    },
+    {
+      "id": "cırtlak_r2",
+      "prompt": "Gırtlağından çıkan rahatsız edici sesi adlandırmak için hangi sıfatı kullanırsınız?",
+      "accepted_forms": ["cırtlak", "cırtlak gırtlak", "cırtlağın", "cırtlaklaşmış"],
+      "note": null
+    }
+  ]
+}

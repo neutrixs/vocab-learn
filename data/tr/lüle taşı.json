@@ -1,0 +1,38 @@
+{
+  "word": "lüle taşı",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "meerschaum, pipe stone",
+  "sentences": [
+    {
+      "id": "lüle taşı_s1",
+      "text": "Dedemin [lüle taşı] pipo çok güzeldir.",
+      "note": null
+    },
+    {
+      "id": "lüle taşı_s2",
+      "text": "[Lüle taşı] kullanılarak yapılan pipoların kalitesi yüksektir.",
+      "note": null
+    },
+    {
+      "id": "lüle taşı_s3",
+      "text": "Osmanlı döneminde [lüle taşı]ndan pipoların dış ticareti yapılırdı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "lüle taşı_r1",
+      "prompt": "Tütün pipo yapımında kullanılan, beyaz renkli mineral malzeme?",
+      "accepted_forms": ["lüle taşı", "lüle taşının", "lületaşı", "lülesi"],
+      "note": null
+    },
+    {
+      "id": "lüle taşı_r2",
+      "prompt": "Meerschaum olarak da bilinir ve Osmanlıda çok değerli sayılan taş?",
+      "accepted_forms": ["lüle taşı", "lülü taş", "lülütaş", "meerschaum"],
+      "note": null
+    }
+  ]
+}

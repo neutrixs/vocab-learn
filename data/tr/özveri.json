@@ -1,0 +1,43 @@
+{
+  "word": "özveri",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "dedication, devotion, self-sacrifice",
+  "sentences": [
+    {
+      "id": "özveri_s1",
+      "text": "Doktor hastalarına büyük bir [özveri] ile bakıyor.",
+      "note": null
+    },
+    {
+      "id": "özveri_s2",
+      "text": "Öğretmenin [özveri]si öğrencileri tarafından takdir ediliyor.",
+      "note": null
+    },
+    {
+      "id": "özveri_s3",
+      "text": "[Özveri] ve çalışma başarının anahtarıdır.",
+      "note": null
+    },
+    {
+      "id": "özveri_s4",
+      "text": "Onun çalışmalarındaki [özveri]yle hepimiz etkilendik.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "özveri_r1",
+      "prompt": "Kişinin kendi çıkarlarını gözardı ederek bir işe veya bir kimseye tamamıyla bağlanması ve yardım etmesi anlamına gelen isim nedir?",
+      "accepted_forms": ["özveri", "özveriyle", "özveriyi", "özverisine"],
+      "note": null
+    },
+    {
+      "id": "özveri_r2",
+      "prompt": "Meslek gereği insanlar halka hizmet ederken gösterdikleri sorumluluk ve bağlılık türüne ne denir?",
+      "accepted_forms": ["özveri", "özveriyle", "özveriyi", "özverileri"],
+      "note": null
+    }
+  ]
+}

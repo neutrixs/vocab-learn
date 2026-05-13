@@ -1,0 +1,43 @@
+{
+  "word": "bütçe",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "budget",
+  "sentences": [
+    {
+      "id": "bütçe_s1",
+      "text": "Hükümet bu yıl [bütçe]yi artırdı.",
+      "note": null
+    },
+    {
+      "id": "bütçe_s2",
+      "text": "Şirketin [bütçe]si sınırlı olduğundan tasarruf yapması gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "bütçe_s3",
+      "text": "[bütçe] planlama yapılmadan harcama yapamayız.",
+      "note": null
+    },
+    {
+      "id": "bütçe_s4",
+      "text": "Bu projenin [bütçe]si yetersiz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "bütçe_r1",
+      "prompt": "Parasal kaynakların planlı kullanılması için hazırlanan tahminli masraf planı ...",
+      "accepted_forms": ["bütçe", "bütçeyi", "bütçede", "bütçesi"],
+      "note": null
+    },
+    {
+      "id": "bütçe_r2",
+      "prompt": "Bir yıllık harcamalar için önceden belirlenen ... tutarı hesaplandı.",
+      "accepted_forms": ["bütçe", "bütçenin"],
+      "note": null
+    }
+  ]
+}

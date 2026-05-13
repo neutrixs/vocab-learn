@@ -1,0 +1,43 @@
+{
+  "word": "kalıba dökmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to cast, to mold, to shape in a mold",
+  "sentences": [
+    {
+      "id": "kalıba dökmek_s1",
+      "text": "Dönerci et hamurunu kalıba [dök]erek şekil veriyor.",
+      "note": null
+    },
+    {
+      "id": "kalıba dökmek_s2",
+      "text": "Bu heykeltıraş metal heykellerini kalıba [dök]müş.",
+      "note": null
+    },
+    {
+      "id": "kalıba dökmek_s3",
+      "text": "Fırıncı ekmeği kalıba [dökmek]ten önce karıştırıyor.",
+      "note": null
+    },
+    {
+      "id": "kalıba dökmek_s4",
+      "text": "Sanayide ürünler hızlıca kalıba [dök]ülüyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kalıba dökmek_r1",
+      "prompt": "Erginmiş metali veya ermiş malzemeyi bir kapının içine koyarak belirli bir şekil vermek hangi işlem olarak adlandırılır?",
+      "accepted_forms": ["kalıba dök", "kalıba dökmek", "kalıba döküyor", "kalıba döktü"],
+      "note": null
+    },
+    {
+      "id": "kalıba dökmek_r2",
+      "prompt": "Heykelcilik ve metalurji çalışmalarında önceden hazırlanmış şekillere sıvı malzeme dökerek ürün oluşturu işlemine ne denir?",
+      "accepted_forms": ["kalıba dökmek", "kalıba döküyor", "kalıba dökülüyor", "kalıba döktüğü"],
+      "note": null
+    }
+  ]
+}

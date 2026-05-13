@@ -1,0 +1,38 @@
+{
+  "word": "tiz sesli",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "shrill-voiced, high-voiced",
+  "sentences": [
+    {
+      "id": "tiz sesli_s1",
+      "text": "[Tiz sesli] kız çocuğunun şarkısı tiyatroda izleyicileri etkiledi.",
+      "note": null
+    },
+    {
+      "id": "tiz sesli_s2",
+      "text": "Opera sanatçısının [tiz sesli] performansı müzik severler tarafından çok beğenildi.",
+      "note": null
+    },
+    {
+      "id": "tiz sesli_s3",
+      "text": "[Tiz sesli] bir kameraman filmin sesini düzeltmesi gerektiğini söyledi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tiz sesli_r1",
+      "prompt": "Yüksek ve keskin bir ses tonuna sahip biriyi tanımlamak için kullanılan ifade nedir?",
+      "accepted_forms": ["tiz sesli", "tiz ses", "tiz sesi", "tiz sesli olan"],
+      "note": null
+    },
+    {
+      "id": "tiz sesli_r2",
+      "prompt": "Soprano şarkıcısının ses özelliğini en iyi tanımlayan ifade hangisidir?",
+      "accepted_forms": ["tiz sesli", "tiz sesi", "tiz sesli kız", "tiz seslidir"],
+      "note": null
+    }
+  ]
+}

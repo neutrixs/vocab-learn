@@ -1,0 +1,43 @@
+{
+  "word": "akis",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "reverberation, echo, repercussion",
+  "sentences": [
+    {
+      "id": "akis_s1",
+      "text": "Kütüphanede [akis] çok fazla duyuluyor.",
+      "note": null
+    },
+    {
+      "id": "akis_s2",
+      "text": "Dağlarda [akis]ını oluşturan ses yankılanmaktadır.",
+      "note": null
+    },
+    {
+      "id": "akis_s3",
+      "text": "Bu olayın sosyal medyada [akisı] büyük oldu.",
+      "note": null
+    },
+    {
+      "id": "akis_s4",
+      "text": "Sözlerinin [akisini] hala ülke genelinde hissediyoruz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "akis_r1",
+      "prompt": "Bir sesin mağara veya dağlarda tekrar duyulması gibi, bir olayın veya sözün toplumda meydana getirdiği etki ve yayılmaya ne denir?",
+      "accepted_forms": ["akis", "akisini", "akisı", "akislari"],
+      "note": null
+    },
+    {
+      "id": "akis_r2",
+      "prompt": "Ses dalgalarının bir engelden geri dönerek tekrar duyulması olayına benzer şekilde, bir haberin ya da olayın meydana getirdiği hissiyat nedir?",
+      "accepted_forms": ["akis", "akisini", "akisler", "akisinin"],
+      "note": null
+    }
+  ]
+}

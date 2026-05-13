@@ -1,0 +1,43 @@
+{
+  "word": "tebliğ etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to notify, to inform officially, to serve notice",
+  "sentences": [
+    {
+      "id": "tebliğ etmek_s1",
+      "text": "Mahkeme kararı davacıya [tebliğ edildi].",
+      "note": null
+    },
+    {
+      "id": "tebliğ etmek_s2",
+      "text": "İşletme çalışandan fesih bildirisini [tebliğ etti].",
+      "note": null
+    },
+    {
+      "id": "tebliğ etmek_s3",
+      "text": "Cezanın infazı önce mahkûma [tebliğ edilmek] gerekir.",
+      "note": null
+    },
+    {
+      "id": "tebliğ etmek_s4",
+      "text": "Polis operasyon hakkında halka bilgi [tebliğ etti].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tebliğ etmek_r1",
+      "prompt": "Hukuki bir karar veya bildirim resmi yollarla ilgili kişiye ulaştırma işlemi nedir?",
+      "accepted_forms": ["tebliğ etmek", "tebliğ etti", "tebliğ edildi", "tebliğ edilmek"],
+      "note": null
+    },
+    {
+      "id": "tebliğ etmek_r2",
+      "prompt": "Mahkemede hakim verdiği cezayı mahkûma resmen bildirmek için ne yapar?",
+      "accepted_forms": ["tebliğ eder", "tebliğ etmek", "tebliğ etti", "tebliğ edilir"],
+      "note": null
+    }
+  ]
+}

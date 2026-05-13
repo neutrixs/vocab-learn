@@ -1,0 +1,36 @@
+{
+  "word": "çanta",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "bag, satchel",
+  "sentences": [
+    {
+      "id": "çanta_s1",
+      "text": "Öğrenci [çanta]sını sırtında taşıyor.",
+      "note": null
+    },
+    {
+      "id": "çanta_s2",
+      "text": "[Çanta]nın içinde defterleri var.",
+      "note": null
+    },
+    {
+      "id": "çanta_s3",
+      "text": "Siyah deri [çanta] çok pahalı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çanta_r1",
+      "prompt": "Kızın renkli _____ vardı.",
+      "accepted_forms": ["çanta", "çantası", "çantalar"]
+    },
+    {
+      "id": "çanta_r2",
+      "prompt": "İş adamı evraklarını _____ koydu.",
+      "accepted_forms": ["çantaya", "çantaya", "çanta"]
+    }
+  ]
+}

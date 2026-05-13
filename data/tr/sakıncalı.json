@@ -1,0 +1,43 @@
+{
+  "word": "sakıncalı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "objectionable, inappropriate, problematic",
+  "sentences": [
+    {
+      "id": "sakıncalı_s1",
+      "text": "Onun [sakıncalı] sözleri duyunca sinirledim.",
+      "note": null
+    },
+    {
+      "id": "sakıncalı_s2",
+      "text": "Bu davranış sosyal olarak [sakıncalıdır].",
+      "note": null
+    },
+    {
+      "id": "sakıncalı_s3",
+      "text": "[Sakıncalı] bir soru sordum mı acaba?",
+      "note": null
+    },
+    {
+      "id": "sakıncalı_s4",
+      "text": "Yönetici [sakıncalı] fikirleri kabul etmeyecek.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sakıncalı_r1",
+      "prompt": "Uygunsuz, ters, veya soruna neden olabilecek şeyleri tanımlamak için kullanılan sıfat nedir?",
+      "accepted_forms": ["sakıncalı", "sakıncalıdır", "sakıncalı", "sakıncalıysa"],
+      "note": null
+    },
+    {
+      "id": "sakıncalı_r2",
+      "prompt": "Bu konuşmayı burada yapmak _____ olabilir, başka zaman konuşalım.",
+      "accepted_forms": ["sakıncalı"],
+      "note": null
+    }
+  ]
+}

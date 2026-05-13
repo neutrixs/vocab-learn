@@ -1,0 +1,38 @@
+{
+  "word": "teferruat",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "details, trifles, minutiae",
+  "sentences": [
+    {
+      "id": "teferruat_s1",
+      "text": "Büyük resme bakmamak için [teferruat]a odaklanma hatası yapılmamalı.",
+      "note": null
+    },
+    {
+      "id": "teferruat_s2",
+      "text": "Projeyi başarılı kılmak için [teferruat]ı önemsemek gerekir.",
+      "note": null
+    },
+    {
+      "id": "teferruat_s3",
+      "text": "Müdür [teferruat]la ilgilenmeyip stratejik konulara odaklandı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "teferruat_r1",
+      "prompt": "Önemli olmayan ama dikkat edilmesi gereken küçük ayrıntılar ...",
+      "accepted_forms": ["teferruat", "teferruattan", "teferruatı", "teferruatla"],
+      "note": null
+    },
+    {
+      "id": "teferruat_r2",
+      "prompt": "Ana konudan sapmayarak sadece ... üzerinde durmamamız lazım.",
+      "accepted_forms": ["teferruat", "teferruat ta"],
+      "note": null
+    }
+  ]
+}

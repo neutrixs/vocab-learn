@@ -1,0 +1,43 @@
+{
+  "word": "öksüz",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "orphan, without parents",
+  "sentences": [
+    {
+      "id": "öksüz_s1",
+      "text": "[Öksüz] çocuk yetimhanede büyüdü.",
+      "note": null
+    },
+    {
+      "id": "öksüz_s2",
+      "text": "Savaşta birçok [öksüz] çocuk kaldı.",
+      "note": null
+    },
+    {
+      "id": "öksüz_s3",
+      "text": "Derneği [öksüz] ve zavallı çocuklara yardım ediyor.",
+      "note": null
+    },
+    {
+      "id": "öksüz_s4",
+      "text": "[Öksüz] kalmış kız kardeşimi evlatlık almak istiyorum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "öksüz_r1",
+      "prompt": "Anne ve babası olmayan veya kaybetmiş çocuk anlamına gelen kelime nedir?",
+      "accepted_forms": ["öksüz", "öksüz çocuk", "öksüzü", "öksüzler"],
+      "note": null
+    },
+    {
+      "id": "öksüz_r2",
+      "prompt": "Ebeveynleri vefat etmiş, yalnız kalmış bir çocuğu tanımlamak için hangi sıfatı kullanırız?",
+      "accepted_forms": ["öksüz", "öksüzün", "öksüz kişi", "öksüzden"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "word": "görmezden gelmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "phrase",
+  "english_gloss": "to ignore, to disregard, to turn a blind eye",
+  "sentences": [
+    {
+      "id": "görmezden gelmek_s1",
+      "text": "Annesi çocuğun hatalarını [görmezden geldi].",
+      "note": null
+    },
+    {
+      "id": "görmezden gelmek_s2",
+      "text": "Yöneticiler problemleri [görmezden gelemezler].",
+      "note": null
+    },
+    {
+      "id": "görmezden gelmek_s3",
+      "text": "Haksızlığı [görmezden gelip] susmak yanlıştır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "görmezden gelmek_r1",
+      "prompt": "Kötü davranışı _____ uygun değildir.",
+      "accepted_forms": ["görmezden gelmek", "görmezden gel", "görmezden gelemez", "görmezden gelip"]
+    },
+    {
+      "id": "görmezden gelmek_r2",
+      "prompt": "Öğretmen öğrencinin cümlesi hatasını _____ olamaz.",
+      "accepted_forms": ["görmezden gelip", "görmezden gelmek", "görmezden gel"]
+    }
+  ]
+}

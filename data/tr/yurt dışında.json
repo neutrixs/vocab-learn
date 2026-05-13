@@ -1,0 +1,43 @@
+{
+  "word": "yurt dışında",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "phrase",
+  "english_gloss": "abroad, outside the country",
+  "sentences": [
+    {
+      "id": "yurt dışında_s1",
+      "text": "Kardeşim [yurt dışında] çalışmaktadır.",
+      "note": null
+    },
+    {
+      "id": "yurt dışında_s2",
+      "text": "[Yurt dışında] eğitim almak istiyor.",
+      "note": null
+    },
+    {
+      "id": "yurt dışında_s3",
+      "text": "Birçok Türk [yurt dışında] yaşamaktadır.",
+      "note": null
+    },
+    {
+      "id": "yurt dışında_s4",
+      "text": "[Yurt dışında] tatil yapmak pahalıdır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yurt dışında_r1",
+      "prompt": "Türkiye sınırları dışında kalan bölgeleri ifade eden ifade?",
+      "accepted_forms": ["yurt dışında", "yurt dışına", "yurt dışından", "yurtdışında"],
+      "note": null
+    },
+    {
+      "id": "yurt dışında_r2",
+      "prompt": "Başka bir ülkede olmayı veya yaşamayı tanımlamak için kullanılan iki kelimelik ifade?",
+      "accepted_forms": ["yurt dışında", "yurt dışında", "yurt dışında", "yurtdışında"],
+      "note": null
+    }
+  ]
+}

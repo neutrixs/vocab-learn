@@ -1,0 +1,43 @@
+{
+  "word": "delik",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "hole, opening",
+  "sentences": [
+    {
+      "id": "delik_s1",
+      "text": "Duvarın üzerinde bir [delik] var.",
+      "note": null
+    },
+    {
+      "id": "delik_s2",
+      "text": "Çorapın [delik]i göz çarpıyor.",
+      "note": null
+    },
+    {
+      "id": "delik_s3",
+      "text": "Kapının [delik]inden bak.",
+      "note": null
+    },
+    {
+      "id": "delik_s4",
+      "text": "Dişte [delik] oluştu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "delik_r1",
+      "prompt": "Bir şeyin içinden geçebileceği açıklık",
+      "accepted_forms": ["delik", "delikleri", "delikleri", "deliktir"],
+      "note": null
+    },
+    {
+      "id": "delik_r2",
+      "prompt": "Kumaş, dişi, duvar gibi şeylerde boş alan",
+      "accepted_forms": ["delik", "deliğin", "deliğe", "delikleri"],
+      "note": null
+    }
+  ]
+}

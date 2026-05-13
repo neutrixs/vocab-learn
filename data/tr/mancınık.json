@@ -1,0 +1,43 @@
+{
+  "word": "mancınık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "catapult, trebuchet",
+  "sentences": [
+    {
+      "id": "mancınık_s1",
+      "text": "Orta çağda savaşlarda [mancınık] kullanılıyordu.",
+      "note": null
+    },
+    {
+      "id": "mancınık_s2",
+      "text": "[Mancınık], kaya ve hasar attığı bir silahı.",
+      "note": null
+    },
+    {
+      "id": "mancınık_s3",
+      "text": "Kaleler [mancınık]la vuruluyordu.",
+      "note": null
+    },
+    {
+      "id": "mancınık_s4",
+      "text": "Tarihçiler [mancınık]ın teknik detaylarını inceliyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "mancınık_r1",
+      "prompt": "Orta çağ savaşçıları büyük taşları attmak için hangi aleti kullanıyorlardı?",
+      "accepted_forms": ["mancınık", "mancınığı", "mancınıkları"],
+      "note": null
+    },
+    {
+      "id": "mancınık_r2",
+      "prompt": "Kaleler savaşında ince ___ ile vurulurdu.",
+      "accepted_forms": ["mancınık", "mancınıkla", "mancınığa"],
+      "note": null
+    }
+  ]
+}

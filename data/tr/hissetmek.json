@@ -1,0 +1,43 @@
+{
+  "word": "hissetmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to feel, to sense",
+  "sentences": [
+    {
+      "id": "hissetmek_s1",
+      "text": "Soğuğu [hissediyorum] çünkü ceket giymemişim.",
+      "note": null
+    },
+    {
+      "id": "hissetmek_s2",
+      "text": "Kalp atışını [hissetti].",
+      "note": null
+    },
+    {
+      "id": "hissetmek_s3",
+      "text": "Mutluluğu yüzünde [hissetmek] mümkün.",
+      "note": null
+    },
+    {
+      "id": "hissetmek_s4",
+      "text": "Bazen insanlar birbirini derinden [hissederler].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hissetmek_r1",
+      "prompt": "Bedensel veya duygusal olarak bir şeyin varlığını bilmek demektir?",
+      "accepted_forms": ["hissetmek", "hissediyorum", "hissetti", "hissederler"],
+      "note": null
+    },
+    {
+      "id": "hissetmek_r2",
+      "prompt": "Çimlerde yalınayak yürüdüğümde, otun yumuşaklığını _____ ederim.",
+      "accepted_forms": ["hissederim", "hissetiyorum", "hissediyorum"],
+      "note": null
+    }
+  ]
+}

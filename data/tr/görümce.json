@@ -1,0 +1,43 @@
+{
+  "word": "görümce",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "sister-in-law (husband's sister)",
+  "sentences": [
+    {
+      "id": "görümce_s1",
+      "text": "Eşimin kızkardeşi yani [görümcem] bugün ziyarete geldi.",
+      "note": null
+    },
+    {
+      "id": "görümce_s2",
+      "text": "[Görümcem]le çok iyi anlaşıyorum ve yakınız.",
+      "note": null
+    },
+    {
+      "id": "görümce_s3",
+      "text": "[Görümce]nin düğüne tüm aile davetli.",
+      "note": null
+    },
+    {
+      "id": "görümce_s4",
+      "text": "Eşimin kız kardeşlerine [görümce] denir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "görümce_r1",
+      "prompt": "Bir kişinin eşinin kız kardeşine ne ad verilir?",
+      "accepted_forms": ["görümce", "görümcem", "görümcesi", "görümceleri"],
+      "note": null
+    },
+    {
+      "id": "görümce_r2",
+      "prompt": "Evlendikten sonra karısının veya kocasının kız kardeşi olarak ailenin hangi üyesine ne denir?",
+      "accepted_forms": ["görümce", "görümceleri", "görümcesini", "görümcelerine"],
+      "note": null
+    }
+  ]
+}

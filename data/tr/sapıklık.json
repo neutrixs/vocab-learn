@@ -1,0 +1,43 @@
+{
+  "word": "sapıklık",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "deviance, perversion, depravity",
+  "sentences": [
+    {
+      "id": "sapıklık_s1",
+      "text": "Böyle [sapıklık] davranışlara toplum sert tepki verir.",
+      "note": null
+    },
+    {
+      "id": "sapıklık_s2",
+      "text": "[Sapıklık]tan korunmak için iyi bir eğitim şarttır.",
+      "note": null
+    },
+    {
+      "id": "sapıklık_s3",
+      "text": "Onun [sapıklık] yolunda kaybolan ömrü çok yazık.",
+      "note": null
+    },
+    {
+      "id": "sapıklık_s4",
+      "text": "[Sapıklık] düşüncelerinden kendisini kurtarması gerekiyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sapıklık_r1",
+      "prompt": "Ahlak dışı, uygunsuz davranış veya düşünce sistemine ne denir?",
+      "accepted_forms": ["sapıklık", "sapıklığı", "sapıklıklar", "sapıklığın"],
+      "note": null
+    },
+    {
+      "id": "sapıklık_r2",
+      "prompt": "Sosyal normları ve ahlak kurallarını ağır şekilde ihlal etme durumunu tanımlayan sözcük nedir?",
+      "accepted_forms": ["sapıklık", "sapıklığa", "sapıklıktan", "sapıklığında"],
+      "note": null
+    }
+  ]
+}

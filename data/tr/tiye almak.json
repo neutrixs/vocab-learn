@@ -1,0 +1,43 @@
+{
+  "word": "tiye almak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to make fun of, to tease, to mock",
+  "sentences": [
+    {
+      "id": "tiye almak_s1",
+      "text": "Arkadaşları ona [tiye alıyor]lar.",
+      "note": null
+    },
+    {
+      "id": "tiye almak_s2",
+      "text": "Komik şeyler söyleyerek onu [tiye aldı].",
+      "note": null
+    },
+    {
+      "id": "tiye almak_s3",
+      "text": "Sınıfta kimse onu [tiye almak] istemez.",
+      "note": null
+    },
+    {
+      "id": "tiye almak_s4",
+      "text": "Onu [tiye alma], çünkü bu onun hissiyatını incitir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "tiye almak_r1",
+      "prompt": "Birinin eksiklikleri veya garip yönleri için ona alay etmek ve gülmek?",
+      "accepted_forms": ["tiye almak", "tiye aldı", "tiye alıyor", "tiye alınmak"],
+      "note": null
+    },
+    {
+      "id": "tiye almak_r2",
+      "prompt": "Birini hafif şekilde eğlendirme amacıyla veya kötü amaçla alay etmek?",
+      "accepted_forms": ["tiye almak", "tiye aldı", "tiye alır", "tiye alınmış"],
+      "note": null
+    }
+  ]
+}

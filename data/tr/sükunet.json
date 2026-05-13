@@ -1,0 +1,43 @@
+{
+  "word": "sükunet",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "peace, tranquility, calm",
+  "sentences": [
+    {
+      "id": "sükunet_s1",
+      "text": "Kütüphanede [sükunet] ve sessizlik hüküm sürüyor.",
+      "note": null
+    },
+    {
+      "id": "sükunet_s2",
+      "text": "[Sükunet] içinde kitap okumak çok keyifli.",
+      "note": null
+    },
+    {
+      "id": "sükunet_s3",
+      "text": "Ormanda [sükunetini] buldum.",
+      "note": null
+    },
+    {
+      "id": "sükunet_s4",
+      "text": "Yaşlı adam [sükunet] ile dinleniyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sükunet_r1",
+      "prompt": "Sessizlik ve huzur ortamında var olan durum nedir?",
+      "accepted_forms": ["sükunet", "sükuneti", "sükunetin", "sükunetini"],
+      "note": null
+    },
+    {
+      "id": "sükunet_r2",
+      "prompt": "Kütüphanedeki _____ ortamı insanları rahatlatan bir yönü vardır.",
+      "accepted_forms": ["sükunet"],
+      "note": null
+    }
+  ]
+}

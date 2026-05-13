@@ -1,0 +1,43 @@
+{
+  "word": "emanet",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "trust, safekeeping, deposit",
+  "sentences": [
+    {
+      "id": "emanet_s1",
+      "text": "Bu değerli eşyaları sana [emanet] ediyorum.",
+      "note": null
+    },
+    {
+      "id": "emanet_s2",
+      "text": "Anne'nin kolyeleri ona [emanet]ti.",
+      "note": null
+    },
+    {
+      "id": "emanet_s3",
+      "text": "[Emanet] edilen paraları dikkatlice sakladım.",
+      "note": null
+    },
+    {
+      "id": "emanet_s4",
+      "text": "Bu sır bana [emanet] olarak verildi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "emanet_r1",
+      "prompt": "Birinin sana teslim ettiği ve güvenle koruması gereken şey nedir?",
+      "accepted_forms": ["emanet", "emaneti", "emanete", "emanetine"],
+      "note": null
+    },
+    {
+      "id": "emanet_r2",
+      "prompt": "Babam bana bir yüzük _____ etti ve ben çok özen göstererek korudum.",
+      "accepted_forms": ["emanet"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "uç",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "edge, tip, end",
+  "sentences": [
+    {
+      "id": "uç_s1",
+      "text": "Masanın [uç]unda bir vazo var.",
+      "note": null
+    },
+    {
+      "id": "uç_s2",
+      "text": "Kalem [uç]u kırıldı.",
+      "note": null
+    },
+    {
+      "id": "uç_s3",
+      "text": "Yol [uç]unda bir mağaza bulunmaktadır.",
+      "note": null
+    },
+    {
+      "id": "uç_s4",
+      "text": "Ip'in [uç]ları dışarıya doğru çıkıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "uç_r1",
+      "prompt": "Bir nesnenin en dış veya son kısmı",
+      "accepted_forms": ["uç", "ucunun", "uçları", "ucunda"],
+      "note": null
+    },
+    {
+      "id": "uç_r2",
+      "prompt": "Bir çizginin, yolun veya nesnenin sonu",
+      "accepted_forms": ["uç", "uçta", "uçtan", "uçlara"],
+      "note": null
+    }
+  ]
+}

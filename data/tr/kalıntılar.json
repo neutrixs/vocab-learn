@@ -1,0 +1,38 @@
+{
+  "word": "kalıntılar",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "remnants, remains, traces",
+  "sentences": [
+    {
+      "id": "kalıntılar_s1",
+      "text": "Mezopotamya medeniyetinin [kalıntılar]ı çok değerlidir.",
+      "note": null
+    },
+    {
+      "id": "kalıntılar_s2",
+      "text": "Bahçedeki eski evin [kalıntılar]ı hala görülüyor.",
+      "note": null
+    },
+    {
+      "id": "kalıntılar_s3",
+      "text": "Tarihçiler bu [kalıntılar] inceleyerek geçmişi yeniden inşa ediyorlar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kalıntılar_r1",
+      "prompt": "Eski uygarlıklardan geriye kalan taş yapıları ve parçaları neye denir?",
+      "accepted_forms": ["kalıntılar", "kalıntılarını", "kalıntılardan", "kalıntılardır"],
+      "note": null
+    },
+    {
+      "id": "kalıntılar_r2",
+      "prompt": "Yıkıntılardan ve eski dönemlerden geriye kalan izler ne olarak adlandırılır?",
+      "accepted_forms": ["kalıntılar", "kalıntılar denir", "kalıntılarla", "kalıntılarının"],
+      "note": null
+    }
+  ]
+}

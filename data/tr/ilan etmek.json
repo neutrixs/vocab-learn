@@ -1,0 +1,43 @@
+{
+  "word": "ilan etmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to declare, to announce officially, to proclaim",
+  "sentences": [
+    {
+      "id": "ilan etmek_s1",
+      "text": "Cumhubaşkanı savaşı [ilan etti].",
+      "note": null
+    },
+    {
+      "id": "ilan etmek_s2",
+      "text": "Hükümet olağanüstü halleri [ilan etmek] zorunda kaldı.",
+      "note": null
+    },
+    {
+      "id": "ilan etmek_s3",
+      "text": "Bağımsızlık tek taraflı olarak [ilan edildi].",
+      "note": null
+    },
+    {
+      "id": "ilan etmek_s4",
+      "text": "İkinci bir olay üzerine acil durumu [ilan ettiler].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ilan etmek_r1",
+      "prompt": "Resmi olarak, kamu alanında duyurulmak üzere bir durum veya kararı tanıtmak anlamına gelen fiil nedir?",
+      "accepted_forms": ["ilan etmek", "ilan etti", "ilan edildi", "ilan etmesi"],
+      "note": null
+    },
+    {
+      "id": "ilan etmek_r2",
+      "prompt": "Bir ülke veya lider bağımsızlığını, savaş ilan etmek gibi önemli bir karar vermek için ne yapar?",
+      "accepted_forms": ["ilan eder", "ilan etmek", "ilan etti", "ilan edilir"],
+      "note": null
+    }
+  ]
+}

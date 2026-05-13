@@ -1,0 +1,43 @@
+{
+  "word": "ağarmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to dawn, to break (of day)",
+  "sentences": [
+    {
+      "id": "ağarmak_s1",
+      "text": "Sabah [ağar]ken kuşlar şarkı söylenmeye başlayan.",
+      "note": null
+    },
+    {
+      "id": "ağarmak_s2",
+      "text": "Güneş [ağarıp] çıktığında şehir uyandı.",
+      "note": null
+    },
+    {
+      "id": "ağarmak_s3",
+      "text": "Gece geçti ve gündüz [ağar]ken dışarı çıktık.",
+      "note": null
+    },
+    {
+      "id": "ağarmak_s4",
+      "text": "Ufuk [ağarırken] gecenin karanlığı yavaş yavaş gidiyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ağarmak_r1",
+      "prompt": "Gece sona erip gün başladığını anlatmak için hangi fiil kullanılır?",
+      "accepted_forms": ["ağarmak", "ağar", "ağarıyor", "ağardı", "ağarır"],
+      "note": null
+    },
+    {
+      "id": "ağarmak_r2",
+      "prompt": "Sabah ufuk çizgisinin açılması ve ışık artması ne zaman ... eder?",
+      "accepted_forms": ["ağar", "ağarmak", "ağardı", "ağarırken"],
+      "note": null
+    }
+  ]
+}

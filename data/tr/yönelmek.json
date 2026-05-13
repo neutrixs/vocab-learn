@@ -1,0 +1,43 @@
+{
+  "word": "yönelmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to turn towards, to head for",
+  "sentences": [
+    {
+      "id": "yönelmek_s1",
+      "text": "Adımlarını kütüphaneye [yöneltti].",
+      "note": null
+    },
+    {
+      "id": "yönelmek_s2",
+      "text": "Gözleri kapıya [yöneldi].",
+      "note": null
+    },
+    {
+      "id": "yönelmek_s3",
+      "text": "Yolcular istasyona [yöneliyor]lar.",
+      "note": null
+    },
+    {
+      "id": "yönelmek_s4",
+      "text": "Dalgalar karaya [yönelmektedir].",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yönelmek_r1",
+      "prompt": "Hedefin varsa o yöne ... lazım.",
+      "accepted_forms": ["yönelmek", "yönelmelisin", "yöneltmeliyiz"],
+      "note": null
+    },
+    {
+      "id": "yönelmek_r2",
+      "prompt": "Kuş gökyüzüne ... gitti.",
+      "accepted_forms": ["yöneldi", "yönelmiş", "yönelik"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "fahişe",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "prostitute, harlot",
+  "sentences": [
+    {
+      "id": "fahişe_s1",
+      "text": "Tarihi romanda [fahişe] karakteri önemli bir rol oynadı.",
+      "note": null
+    },
+    {
+      "id": "fahişe_s2",
+      "text": "Eski şehirlerde [fahişe]ler yoğun bir yaşam sürüyordu.",
+      "note": null
+    },
+    {
+      "id": "fahişe_s3",
+      "text": "[Fahişe] hayatı hakkında araştırma yapıyorum.",
+      "note": null
+    },
+    {
+      "id": "fahişe_s4",
+      "text": "Kitapta kadının [fahişe] olarak yaşadığı dönem anlatılıyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "fahişe_r1",
+      "prompt": "Cinsel ilişki karşılığında para alan kadın",
+      "accepted_forms": ["fahişe", "fahişenin", "fahişeler", "fahişelik"],
+      "note": null
+    },
+    {
+      "id": "fahişe_r2",
+      "prompt": "Fuhuş yaparak geçim sağlayan kadın",
+      "accepted_forms": ["fahişe", "fahişesi", "fahişeyle", "fahişeler"],
+      "note": null
+    }
+  ]
+}

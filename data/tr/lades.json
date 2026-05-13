@@ -1,0 +1,43 @@
+{
+  "word": "lades",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "cargo, lading, freight (maritime/commerce term)",
+  "sentences": [
+    {
+      "id": "lades_s1",
+      "text": "Gemi [lades]ini limanda boşalttı.",
+      "note": null
+    },
+    {
+      "id": "lades_s2",
+      "text": "[Lades] belgesi tüm ticari işlemlerde gereklidir.",
+      "note": null
+    },
+    {
+      "id": "lades_s3",
+      "text": "Kaptan [ladesinin] ağırlığını kontrol etti.",
+      "note": null
+    },
+    {
+      "id": "lades_s4",
+      "text": "[Lades] geminin güvenli seyrüseferini sağlamak için dağıtılmalıdır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "lades_r1",
+      "prompt": "Gemi kargo taşımaktadır buna ... denir.",
+      "accepted_forms": ["lades", "ladesin", "ladesini"],
+      "note": null
+    },
+    {
+      "id": "lades_r2",
+      "prompt": "Limanda boşaltılan mallar ne? ...",
+      "accepted_forms": ["lades", "ladesdir", "ladesin"],
+      "note": null
+    }
+  ]
+}

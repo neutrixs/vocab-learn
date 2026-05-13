@@ -1,0 +1,43 @@
+{
+  "word": "yankı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "echo",
+  "sentences": [
+    {
+      "id": "yankı_s1",
+      "text": "Kanyonda verdiği ses bir [yankı] oluşturdu.",
+      "note": null
+    },
+    {
+      "id": "yankı_s2",
+      "text": "[Yankısı] kulakta uzun süre kaldı.",
+      "note": null
+    },
+    {
+      "id": "yankı_s3",
+      "text": "Mağarada [yankı]lar çoğalarak geri döndü.",
+      "note": null
+    },
+    {
+      "id": "yankı_s4",
+      "text": "Onun konuşmasının [yankısı] hala halkta devam ediyor.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yankı_r1",
+      "prompt": "Sesin bir cisimden geri dönerek tekrar duyulması fenomenine ne denir?",
+      "accepted_forms": ["yankı", "yankısı", "yankılar", "yankının"],
+      "note": null
+    },
+    {
+      "id": "yankı_r2",
+      "prompt": "Tiyatroda bir oyuncunun sesi gerisinden gelen tekrarlı ses türüne ne denilir?",
+      "accepted_forms": ["yankı", "yankılar", "yankısından", "yankısı"],
+      "note": null
+    }
+  ]
+}

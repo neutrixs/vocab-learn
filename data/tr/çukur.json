@@ -1,0 +1,43 @@
+{
+  "word": "çukur",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "hole, pit, cavity",
+  "sentences": [
+    {
+      "id": "çukur_s1",
+      "text": "Yerde derin bir [çukur] var.",
+      "note": null
+    },
+    {
+      "id": "çukur_s2",
+      "text": "Köpek bahçede [çukur] kazmaya başladı.",
+      "note": null
+    },
+    {
+      "id": "çukur_s3",
+      "text": "Araba [çukur]a düştü.",
+      "note": null
+    },
+    {
+      "id": "çukur_s4",
+      "text": "İnsan [çukur]dan kurtarıldı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çukur_r1",
+      "prompt": "Toprağın içinde ya da yüzeyinde açılmış derinlik",
+      "accepted_forms": ["çukur", "çukura", "çukurda", "çukurdan"],
+      "note": null
+    },
+    {
+      "id": "çukur_r2",
+      "prompt": "Bir şeyin içine girebileceği boş alan",
+      "accepted_forms": ["çukur", "çukuru", "çukurlu", "çukurlar"],
+      "note": null
+    }
+  ]
+}

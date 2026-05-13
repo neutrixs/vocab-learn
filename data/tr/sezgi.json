@@ -1,0 +1,43 @@
+{
+  "word": "sezgi",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "intuition, hunch, gut feeling",
+  "sentences": [
+    {
+      "id": "sezgi_s1",
+      "text": "Anneler çocuklarının tehlikede olduğunu [sezgilerine] güvenerek bulurlar.",
+      "note": null
+    },
+    {
+      "id": "sezgi_s2",
+      "text": "[Sezgisi] güçlü olan insanlar, olayları tahmin etmede başarılı olabilirler.",
+      "note": null
+    },
+    {
+      "id": "sezgi_s3",
+      "text": "İş hayatında [sezgi] ve analitik düşünme birlikte başarıyı getirir.",
+      "note": null
+    },
+    {
+      "id": "sezgi_s4",
+      "text": "Sadece mantık değil, [sezgi] de karar vermede önemli rol oynar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sezgi_r1",
+      "prompt": "Mantıksal akıl yürütme olmadan, bir şeyi hissetmeye istinaden bildikleri sanmak anlamındaki kelime nedir?",
+      "accepted_forms": ["sezgi", "sezgisi", "sezgileri", "sezgiye"],
+      "note": null
+    },
+    {
+      "id": "sezgi_r2",
+      "prompt": "Henüz kanıtlanmamış ama doğru olacağını içten hissetmek hangi kelime ile adlandırılır?",
+      "accepted_forms": ["sezgi", "sezgisine", "sezgilerine", "sezgisinin"],
+      "note": null
+    }
+  ]
+}

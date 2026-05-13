@@ -1,0 +1,43 @@
+{
+  "word": "sendelemek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to stagger, sway, lose balance",
+  "sentences": [
+    {
+      "id": "sendelemek_s1",
+      "text": "Yorgunluktan adam [sendeledi] ve desteke ihtiyacı vardı.",
+      "note": null
+    },
+    {
+      "id": "sendelemek_s2",
+      "text": "Gemi fırtınada [sendeliyor] ve yolcular korkuyor.",
+      "note": null
+    },
+    {
+      "id": "sendelemek_s3",
+      "text": "Hastalık onu zayıflatıp [sendetlemişti].",
+      "note": null
+    },
+    {
+      "id": "sendelemek_s4",
+      "text": "[Sendelemeyi] duran kişi hastadır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sendelemek_r1",
+      "prompt": "Hasta ve zayıf olan insan yürürken ne yapar?",
+      "accepted_forms": ["sendeleme", "sendeledi", "sendeliyor", "sendelemek"],
+      "note": null
+    },
+    {
+      "id": "sendelemek_r2",
+      "prompt": "Rüzgarın güçü ağacı ___ yapabilir.",
+      "accepted_forms": ["sendetmek", "sendeletti", "sendelemek"],
+      "note": null
+    }
+  ]
+}

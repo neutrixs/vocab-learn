@@ -1,0 +1,43 @@
+{
+  "word": "fedakarlık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "sacrifice, altruism, self-sacrifice",
+  "sentences": [
+    {
+      "id": "fedakarlık_s1",
+      "text": "Onun [fedakarlığı] asla unutulmayacak.",
+      "note": null
+    },
+    {
+      "id": "fedakarlık_s2",
+      "text": "Anne-babaların çocukları için yaptığı [fedakarlık] sınırsızdır.",
+      "note": null
+    },
+    {
+      "id": "fedakarlık_s3",
+      "text": "Kurtuluş savaşında pek çok insanın [fedakarlığı] vardır.",
+      "note": null
+    },
+    {
+      "id": "fedakarlık_s4",
+      "text": "[Fedakarlık] insanlığın en yüce duygularından biridir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "fedakarlık_r1",
+      "prompt": "Kişinin kendi çıkarlarını feda ederek başkasının yararı için çalışması ve acı çekmesi anlamına gelen isim nedir?",
+      "accepted_forms": ["fedakarlık", "fedakarlığı", "fedakarlığını", "fedakarlığından"],
+      "note": null
+    },
+    {
+      "id": "fedakarlık_r2",
+      "prompt": "Savaşlarda vatan uğruna ölümü göze alıp savaşan askerlerin tavırlarına ne ad verilir?",
+      "accepted_forms": ["fedakarlık", "fedakarlıklar", "fedakarlığı", "fedakarlıklarından"],
+      "note": null
+    }
+  ]
+}

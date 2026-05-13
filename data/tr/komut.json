@@ -1,0 +1,36 @@
+{
+  "word": "komut",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "command, order",
+  "sentences": [
+    {
+      "id": "komut_s1",
+      "text": "Mühendis ekibe bir [komut] verdi.",
+      "note": null
+    },
+    {
+      "id": "komut_s2",
+      "text": "Bilgisayar [komut]larını öğrenmen gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "komut_s3",
+      "text": "Oğlan polis [komut]una uydu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "komut_r1",
+      "prompt": "Asker ____ izni olmadan ilerleyemez.",
+      "accepted_forms": ["komut", "komutlar", "komutun", "komutuna"]
+    },
+    {
+      "id": "komut_r2",
+      "prompt": "Programcı terminalde ynl _____ yazıyor.",
+      "accepted_forms": ["komut", "komutlar", "komutlar"]
+    }
+  ]
+}

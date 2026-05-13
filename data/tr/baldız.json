@@ -1,0 +1,43 @@
+{
+  "word": "baldız",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "sister-in-law (brother's wife)",
+  "sentences": [
+    {
+      "id": "baldız_s1",
+      "text": "Abimin eşi yani [baldızım] dün doğum yaptı.",
+      "note": null
+    },
+    {
+      "id": "baldız_s2",
+      "text": "[Baldızım]la mütercim olurken sık sık sohbet ediyorum.",
+      "note": null
+    },
+    {
+      "id": "baldız_s3",
+      "text": "[Baldız]ının acısına ortak olmak gerekiyor.",
+      "note": null
+    },
+    {
+      "id": "baldız_s4",
+      "text": "Erkek kardeşimin eşine [baldız] denir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "baldız_r1",
+      "prompt": "Bir kişinin erkek kardeşinin eşine ne ad verilir?",
+      "accepted_forms": ["baldız", "baldızım", "baldızı", "baldızları"],
+      "note": null
+    },
+    {
+      "id": "baldız_r2",
+      "prompt": "Evlenmiş olan erkek kardeşin kendi ailesine getirmiş olduğu kadının aile ilişkilerde adı nedir?",
+      "accepted_forms": ["baldız", "baldızları", "baldızını", "baldızlarının"],
+      "note": null
+    }
+  ]
+}

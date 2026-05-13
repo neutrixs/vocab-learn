@@ -1,0 +1,43 @@
+{
+  "word": "biçimlendirmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to shape, to format, to form",
+  "sentences": [
+    {
+      "id": "biçimlendirmek_s1",
+      "text": "Tasarımcı projeyi profesyonel olarak [biçimlendiriyor].",
+      "note": null
+    },
+    {
+      "id": "biçimlendirmek_s2",
+      "text": "Yazı işleri müdürü raporu doğru şekilde [biçimlendirdi].",
+      "note": null
+    },
+    {
+      "id": "biçimlendirmek_s3",
+      "text": "Bilgisayar programı metin dosyasını otomatik olarak [biçimlendiriyor].",
+      "note": null
+    },
+    {
+      "id": "biçimlendirmek_s4",
+      "text": "Bu sürümüdür teknisyeni denetim listesini [biçimlendirmek] istedi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "biçimlendirmek_r1",
+      "prompt": "Metni veya belgeyi düzgün bir düzen içine koymak ve organize etmek hangi işlem olarak adlandırılır?",
+      "accepted_forms": ["biçimlendirmek", "biçimlendiriyor", "biçimlendirildi", "biçimlendirdi"],
+      "note": null
+    },
+    {
+      "id": "biçimlendirmek_r2",
+      "prompt": "Bilgisayar uygulamalarında metin, sayfa veya veri yapısını belirli bir standarda göre düzenlemek ne denir?",
+      "accepted_forms": ["biçimlendirmek", "biçimlendirme", "biçimlendir", "biçimlendirileceği"],
+      "note": null
+    }
+  ]
+}

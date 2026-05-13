@@ -1,0 +1,43 @@
+{
+  "word": "hırslı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "ambitious, aspiring, avid",
+  "sentences": [
+    {
+      "id": "hırslı_s1",
+      "text": "Genç öğrenci, [hırslı] bir şekilde hedeflerine ulaşmaya çalışıyordu.",
+      "note": null
+    },
+    {
+      "id": "hırslı_s2",
+      "text": "[Hırslı] insanlar genellikle başarıya daha fazla ulaşırlar.",
+      "note": null
+    },
+    {
+      "id": "hırslı_s3",
+      "text": "O, [hırslı] bir lider olup projesini hayata geçirdi.",
+      "note": null
+    },
+    {
+      "id": "hırslı_s4",
+      "text": "Sporcu, [hırslı] çabasıyla madalya kazandı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hırslı_r1",
+      "prompt": "Büyük hedeflere sahip ve bunları başarmak için çok çalışan kişi nasıl nitelendirilir?",
+      "accepted_forms": ["hırslı", "hırslıdır", "hırslısı"],
+      "note": null
+    },
+    {
+      "id": "hırslı_r2",
+      "prompt": "Başarı için yoğun bir şekilde çalışan ve hedef alan kişiye ... denir.",
+      "accepted_forms": ["hırslı", "hırslı bir kişi"],
+      "note": null
+    }
+  ]
+}

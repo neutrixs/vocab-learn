@@ -1,0 +1,43 @@
+{
+  "word": "ıssız",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "desolate, deserted, uninhabited, lonely",
+  "sentences": [
+    {
+      "id": "ıssız_s1",
+      "text": "[Issız] bir adaya sürüldü.",
+      "note": null
+    },
+    {
+      "id": "ıssız_s2",
+      "text": "[Issız] çölde gitmek tehlikeli olabilir.",
+      "note": null
+    },
+    {
+      "id": "ıssız_s3",
+      "text": "Bu [ıssız] yere hiç kimse gelmez.",
+      "note": null
+    },
+    {
+      "id": "ıssız_s4",
+      "text": "[Issız] sokakta yalnız yürümekten korkuyordum.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ıssız_r1",
+      "prompt": "İnsan olmayan, yaşayan varlık tarafından ziyaret edilmeyen yer veya bölge.",
+      "accepted_forms": ["ıssız", "ıssızda", "ıssız", "ıssızın"],
+      "note": null
+    },
+    {
+      "id": "ıssız_r2",
+      "prompt": "Nüfusu olmayan, hiç kimsenin yerleşmediği boş ve sessiz alan.",
+      "accepted_forms": ["ıssız", "ıssızlar", "ıssızlık", "ıssızlıkta"],
+      "note": null
+    }
+  ]
+}

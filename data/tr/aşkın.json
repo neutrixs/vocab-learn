@@ -1,0 +1,36 @@
+{
+  "word": "aşkın",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "adjective",
+  "english_gloss": "excessive, beyond, transcendent",
+  "sentences": [
+    {
+      "id": "aşkın_s1",
+      "text": "Öğrenci [aşkın] başarı arzusu ile çalışıyor.",
+      "note": null
+    },
+    {
+      "id": "aşkın_s2",
+      "text": "[Aşkın] egoisizm ilişkileri bozar.",
+      "note": null
+    },
+    {
+      "id": "aşkın_s3",
+      "text": "Felsefede [aşkın]lık kavramı vardır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "aşkın_r1",
+      "prompt": "Çocuğun _____ merakı onu her yere götürüyor.",
+      "accepted_forms": ["aşkın", "aşkın"]
+    },
+    {
+      "id": "aşkın_r2",
+      "prompt": "_____ hırs insanı yok eder.",
+      "accepted_forms": ["aşkın", "aşkın"]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "yalakalık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "sycophancy, bootlicking, servility",
+  "sentences": [
+    {
+      "id": "yalakalık_s1",
+      "text": "[Yalakalık] yapıp patronunun hoşuna gitmeye çalışıyor.",
+      "note": null
+    },
+    {
+      "id": "yalakalık_s2",
+      "text": "[Yalakalık]tan hiç para veya saygı kazanmayacaksın.",
+      "note": null
+    },
+    {
+      "id": "yalakalık_s3",
+      "text": "Onun [yalakalık] tutumu tüm ekip tarafından bilinir.",
+      "note": null
+    },
+    {
+      "id": "yalakalık_s4",
+      "text": "[Yalakalık] insanın kişiliğini ve özgürlüğünü yok eder.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "yalakalık_r1",
+      "prompt": "Başkasına aşırı uyum göstererek ve övmek yoluyla kazanç sağlamaya çalışmak.",
+      "accepted_forms": ["yalakalık", "yalakalığı", "yalakalıktan", "yalakalıklardan"],
+      "note": null
+    },
+    {
+      "id": "yalakalık_r2",
+      "prompt": "Otoritenin hoşuna gitmeye çalışan, düşkünlük yapan davranış.",
+      "accepted_forms": ["yalakalık", "yalakalığa", "yalakalıklar", "yalakalığın"],
+      "note": null
+    }
+  ]
+}

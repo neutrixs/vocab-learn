@@ -1,0 +1,38 @@
+{
+  "word": "ibaret olmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "to amount to, to come down to, to consist of",
+  "sentences": [
+    {
+      "id": "ibaret olmak_s1",
+      "text": "Onun başarısı sıkı çalışmaya [ibaret olmak] ile başladı.",
+      "note": null
+    },
+    {
+      "id": "ibaret olmak_s2",
+      "text": "Hayattaki gerçek mutluluk sevgi ve sağlığa [ibaret olmak]tır.",
+      "note": null
+    },
+    {
+      "id": "ibaret olmak_s3",
+      "text": "Bu projesi yalnızca bir kaç saatlik çalışmaya [ibaret olmak]tı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ibaret olmak_r1",
+      "prompt": "Zenginliğin gerçek anlamı ailenin yanında olmaya ... .",
+      "accepted_forms": ["ibaret olmak", "ibaret", "ibarettir"],
+      "note": null
+    },
+    {
+      "id": "ibaret olmak_r2",
+      "prompt": "Bu sözleşme sadece bir sayfa metin olup hiçbir şeye ...",
+      "accepted_forms": ["ibaret olmak", "ibaret değil"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "ihtiyat",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "precaution, caution, reserve",
+  "sentences": [
+    {
+      "id": "ihtiyat_s1",
+      "text": "Yeni bir işe başlarken [ihtiyat] ile hareket etmek akıllıcadır.",
+      "note": null
+    },
+    {
+      "id": "ihtiyat_s2",
+      "text": "Eğer bir [ihtiyat] fonu olsaydı, mali sıkıntıdan kurtulabilirdik.",
+      "note": null
+    },
+    {
+      "id": "ihtiyat_s3",
+      "text": "Doktor, hastaya [ihtiyat] ile ilaç kullanmasını tavsiye etti.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "ihtiyat_r1",
+      "prompt": "Bilinmeyen bir durumda dikkatli ve tedbirli olmak anlamına gelen kelime nedir?",
+      "accepted_forms": ["ihtiyat", "ihtiyatla", "ihtiyatı", "ihtiyatla"],
+      "note": null
+    },
+    {
+      "id": "ihtiyat_r2",
+      "prompt": "Finansal güvenlik için para biriktirmek aslında bir çeşit ... demektir.",
+      "accepted_forms": ["ihtiyat", "ihtiyatı", "ihtiyat"],
+      "note": null
+    }
+  ]
+}

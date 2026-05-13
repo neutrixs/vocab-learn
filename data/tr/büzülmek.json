@@ -1,0 +1,43 @@
+{
+  "word": "büzülmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to shrink, to contract, to wrinkle",
+  "sentences": [
+    {
+      "id": "büzülmek_s1",
+      "text": "Kumaş sıcak suda [büzülmek] istemiyorsa dikkat etmelisiniz.",
+      "note": null
+    },
+    {
+      "id": "büzülmek_s2",
+      "text": "Koru yüzü soğuktan [büzülmüştür].",
+      "note": null
+    },
+    {
+      "id": "büzülmek_s3",
+      "text": "Yaşlılıkla insan cildinin [büzülmesi] kaçınılmazdır.",
+      "note": null
+    },
+    {
+      "id": "büzülmek_s4",
+      "text": "[Büzülmek] deri problemlerinden kaçınmak için moisturizer kullanabilirsiniz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "büzülmek_r1",
+      "prompt": "Kumaşın yıkandıktan sonra daha küçük ve kırışık hale gelmesi hangi kelimeyle anlatılır?",
+      "accepted_forms": ["büzülmek", "büzülür", "büzülmüş", "büzültmek"],
+      "note": null
+    },
+    {
+      "id": "büzülmek_r2",
+      "prompt": "Soğuk havada veya yaşlanmakla cilt ne olur?",
+      "accepted_forms": ["büzülür", "büzülmek", "büzülür", "büzülmüş"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "eli sıkı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "phrase",
+  "english_gloss": "stingy, tightfisted, miserly (lit. tight-handed)",
+  "sentences": [
+    {
+      "id": "eli sıkı_s1",
+      "text": "Dedem [eli sıkı] bir adamdır, hiç harcamaz.",
+      "note": null
+    },
+    {
+      "id": "eli sıkı_s2",
+      "text": "Bu şirketin müdürü [eli sıkı], zam vermek istemez.",
+      "note": null
+    },
+    {
+      "id": "eli sıkı_s3",
+      "text": "[Eli sıkı] insanlar başkalarına nadiren yardım ederler.",
+      "note": null
+    },
+    {
+      "id": "eli sıkı_s4",
+      "text": "Arkadaşım [eli sıkı] olduğu için hep ödediğim para geri gelmez.",
+      "note": null
+    },
+    {
+      "id": "eli sıkı_s5",
+      "text": "[Eli sıkı] bir komşumuz var, her zaman mahsul paylaşmaz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "eli sıkı_r1",
+      "prompt": "Parası olduğu halde cömert olmayan, harcamaktan korkup pul tutan bir kişiyi tanımlamak için hangi deyimi kullanırız?",
+      "accepted_forms": ["eli sıkı", "eli sıkı bir", "eli sıkı kişi"],
+      "note": null
+    },
+    {
+      "id": "eli sıkı_r2",
+      "prompt": "Arkadaşına çok az para borç veren, her şeyin hesabını tutan biri nasıl anlatılır?",
+      "accepted_forms": ["eli sıkı", "eli sıkı insan", "eli sıkı olması"],
+      "note": null
+    }
+  ]
+}

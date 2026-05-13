@@ -1,0 +1,43 @@
+{
+  "word": "kürtaj",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "abortion, curettage",
+  "sentences": [
+    {
+      "id": "kürtaj_s1",
+      "text": "Doktor [kürtaj] işlemini açıklayıcı bir şekilde anlatmış.",
+      "note": null
+    },
+    {
+      "id": "kürtaj_s2",
+      "text": "[Kürtaj] konusu türkiye'de çok tartışmalı bir konu.",
+      "note": null
+    },
+    {
+      "id": "kürtaj_s3",
+      "text": "Tıbbi gerekliliklere göre [kürtaj] yapılabilir.",
+      "note": null
+    },
+    {
+      "id": "kürtaj_s4",
+      "text": "Hastane [kürtaj] prosedürü hakkında bilgi verdi.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kürtaj_r1",
+      "prompt": "Tıbbi olarak yapılan hamileliği sonlandırma işlemi",
+      "accepted_forms": ["kürtaj", "kürtaj işlemi", "kürtajı"],
+      "note": null
+    },
+    {
+      "id": "kürtaj_r2",
+      "prompt": "Hamileliği sonlandıran tıbbi prosedür",
+      "accepted_forms": ["kürtaj", "kürtajlar", "kürtaj yapılması"],
+      "note": null
+    }
+  ]
+}

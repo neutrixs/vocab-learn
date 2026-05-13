@@ -1,0 +1,43 @@
+{
+  "word": "döllemek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to fertilize, to impregnate",
+  "sentences": [
+    {
+      "id": "döllemek_s1",
+      "text": "Çiftçi tarlasını gübre ile [döllemek] için bahar bekliyor.",
+      "note": null
+    },
+    {
+      "id": "döllemek_s2",
+      "text": "Arılar çiçekleri [dölleyerek] bitkilerin üremesini sağlıyor.",
+      "note": null
+    },
+    {
+      "id": "döllemek_s3",
+      "text": "Toprak yeterince [döllenirse] mahsul daha iyi olur.",
+      "note": null
+    },
+    {
+      "id": "döllemek_s4",
+      "text": "Su ısıl [döllemede] önemli bir rol oynar.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "döllemek_r1",
+      "prompt": "Tarım işlerinde toprağı veya bitkileri üremelerine yardımcı olmak amacıyla besin maddesiyle doldurmak anlamına gelen fiil nedir?",
+      "accepted_forms": ["döllemek", "dölleyen", "dölledi", "döllemesi"],
+      "note": null
+    },
+    {
+      "id": "döllemek_r2",
+      "prompt": "Bitkilerin üreyebilmeleri için yapılan ve düşük düzeyde başlayan biyolojik işlem nedir?",
+      "accepted_forms": ["döllemek", "döllenir", "döllenme", "dölleyerek"],
+      "note": null
+    }
+  ]
+}

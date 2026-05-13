@@ -1,0 +1,43 @@
+{
+  "word": "özümsemek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to assimilate, to absorb, to internalize",
+  "sentences": [
+    {
+      "id": "özümsemek_s1",
+      "text": "Çocuklar anaokulu döneminde pek çok sosyal beceriyi [özümser].",
+      "note": null
+    },
+    {
+      "id": "özümsemek_s2",
+      "text": "Sanatçılar eğitim süresinde teknik bilgisini [özümlemek] için yıllar çalışırlar.",
+      "note": null
+    },
+    {
+      "id": "özümsemek_s3",
+      "text": "Yeni bir dili [özümlemek] sabır ve disiplin gerektirir.",
+      "note": null
+    },
+    {
+      "id": "özümsemek_s4",
+      "text": "Bu konuyu tamamen [özümleyene] kadar dersi tekrar etmelisiniz.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "özümsemek_r1",
+      "prompt": "Bir bilgiyi derinlemesine öğrenerek kendi bilgimize katmak anlamında kullanılan fiil nedir?",
+      "accepted_forms": ["özümsemek", "özümseyen", "özümledi", "özümlüyor"],
+      "note": null
+    },
+    {
+      "id": "özümsemek_r2",
+      "prompt": "Çocukların çevrelerindeki değerleri ve davranışları alması hangi kelimeyle ifade edilir?",
+      "accepted_forms": ["özümsemek", "özümlüyor", "özümlediler", "özümsesin"],
+      "note": null
+    }
+  ]
+}

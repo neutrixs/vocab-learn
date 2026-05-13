@@ -1,0 +1,43 @@
+{
+  "word": "kalıntı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "remnant, remainder, trace",
+  "sentences": [
+    {
+      "id": "kalıntı_s1",
+      "text": "Antik şehrin [kalıntı]ları tourlar tarafından ziyaret ediliyor.",
+      "note": null
+    },
+    {
+      "id": "kalıntı_s2",
+      "text": "Yemeğin [kalıntı]sını bir fırlatma kutusuna koyduk.",
+      "note": null
+    },
+    {
+      "id": "kalıntı_s3",
+      "text": "Geçmiş dönemin [kalıntı]ları hala toplumda görülüyor.",
+      "note": null
+    },
+    {
+      "id": "kalıntı_s4",
+      "text": "Eski binanın [kalıntı]larından tarihi ilişkiler anlaşılabilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "kalıntı_r1",
+      "prompt": "Eski medeniyetlerin yıkılmış yapılarının geriye kalan parçalarına ne denir?",
+      "accepted_forms": ["kalıntı", "kalıntılar", "kalıntıları", "kalıntısı"],
+      "note": null
+    },
+    {
+      "id": "kalıntı_r2",
+      "prompt": "Yemenin veya başka bir şeyin tamamen tüketilmemesi sonucu artakalan parça nedir?",
+      "accepted_forms": ["kalıntı", "kalıntısı", "kalıntılar", "kalıntıdan"],
+      "note": null
+    }
+  ]
+}

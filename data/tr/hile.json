@@ -1,0 +1,43 @@
+{
+  "word": "hile",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "noun",
+  "english_gloss": "trick, deception, stratagem",
+  "sentences": [
+    {
+      "id": "hile_s1",
+      "text": "Satıcı müşteriye [hile] yaparak aldattı.",
+      "note": null
+    },
+    {
+      "id": "hile_s2",
+      "text": "Onun [hile]leri kimse tarafından fark edilmedi.",
+      "note": null
+    },
+    {
+      "id": "hile_s3",
+      "text": "Bu oyunu kazanmak için [hile] kullanmak yasak.",
+      "note": null
+    },
+    {
+      "id": "hile_s4",
+      "text": "[hile] yoluyla mal çalmak cezalanabilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hile_r1",
+      "prompt": "Birini yanıltmak veya aldatmak için kullanılan akıllı yöntem ...",
+      "accepted_forms": ["hile", "hilesiz", "hileli", "hilesiyle"],
+      "note": null
+    },
+    {
+      "id": "hile_r2",
+      "prompt": "Oyunda ... yaparak rakibi kazanmaya çalıştı.",
+      "accepted_forms": ["hile", "hileler"],
+      "note": null
+    }
+  ]
+}

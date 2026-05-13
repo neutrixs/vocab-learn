@@ -1,0 +1,43 @@
+{
+  "word": "boyunduruk",
+  "lang": "tr",
+  "difficulty": 3,
+  "part_of_speech": "noun",
+  "english_gloss": "yoke, bondage, oppression",
+  "sentences": [
+    {
+      "id": "boyunduruk_s1",
+      "text": "İnsanlar [boyunduruk]tan kurtulma için savaş verdiler.",
+      "note": null
+    },
+    {
+      "id": "boyunduruk_s2",
+      "text": "Bu yasalar halkı [boyunduruk] altına almıştır.",
+      "note": null
+    },
+    {
+      "id": "boyunduruk_s3",
+      "text": "Köle [boyunduruk]unu çıkarmak istiyordu ama gücü yoktu.",
+      "note": null
+    },
+    {
+      "id": "boyunduruk_s4",
+      "text": "[Boyunduruk] çıkarmadan özgürlüğe ulaşmak mümkün değildir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "boyunduruk_r1",
+      "prompt": "Tarihte, kölelerin boynundaki demir halka veya bağ ne denir? Metaforik olarak zulüm ve baskı da simgeler.",
+      "accepted_forms": ["boyunduruk", "boyunduruğu", "boyunduruğun", "boyunduruk"],
+      "note": null
+    },
+    {
+      "id": "boyunduruk_r2",
+      "prompt": "Bir medeniyetin halkını baskı ve zulüm altında tutma durumuna ... denir.",
+      "accepted_forms": ["boyunduruk", "boyunduruğu", "boyunduruk altında"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "küçülmek",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to shrink, to become small, to diminish",
+  "sentences": [
+    {
+      "id": "küçülmek_s1",
+      "text": "Şehirden uzaklaştıkça binalar [küçülmek] göründü.",
+      "note": null
+    },
+    {
+      "id": "küçülmek_s2",
+      "text": "Ekonomik kriz nedeniyle şirketler [küçülmek] zorunda kaldı.",
+      "note": null
+    },
+    {
+      "id": "küçülmek_s3",
+      "text": "Bir fikirden vazgeçmek, onun içinde kendinizi [küçülmek] hissettirir.",
+      "note": null
+    },
+    {
+      "id": "küçülmek_s4",
+      "text": "Çorap [küçülmüş] ve artık geçmiyordu.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "küçülmek_r1",
+      "prompt": "Uzaklaşan bir nesne gözlerde daha küçük görüntü oluştururken, bunu açıklamak için hangi fiili kullanırsınız?",
+      "accepted_forms": ["küçülür", "küçülmek", "küçülmüş", "küçülür"],
+      "note": null
+    },
+    {
+      "id": "küçülmek_r2",
+      "prompt": "Bir işletmenin personel sayısını ve operasyonlarını azaltması hangi kelimeyle ifade edilir?",
+      "accepted_forms": ["küçülmek", "küçültür", "küçülüyor", "küçülmüş"],
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "çarpıtmak",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "verb",
+  "english_gloss": "to distort, twist, misrepresent",
+  "sentences": [
+    {
+      "id": "çarpıtmak_s1",
+      "text": "Bazı gazeteler haberleri [çarpıt]arak yayınlıyorlar.",
+      "note": null
+    },
+    {
+      "id": "çarpıtmak_s2",
+      "text": "Onun sözlerini [çarpıt]ma, tam olarak ne söyledi?",
+      "note": null
+    },
+    {
+      "id": "çarpıtmak_s3",
+      "text": "Gerçekleri [çarpıt]mak etik değildir.",
+      "note": null
+    },
+    {
+      "id": "çarpıtmak_s4",
+      "text": "Demir ısıtıldığında şekli [çarpıl]abilir.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "çarpıtmak_r1",
+      "prompt": "Gazete haberlerin anlamını değiştirerek yanlış bir şekilde sunduğunda, haberleri ne yapmış olur?",
+      "accepted_forms": ["çarpıtır", "çarpıtırlar", "çarpıtıyor", "çarpıttı"],
+      "note": null
+    },
+    {
+      "id": "çarpıtmak_r2",
+      "prompt": "Birinin söylediklerini yanlış anlatarak olumsuz bir intiba bırakmak için ne yapmak gerekir?",
+      "accepted_forms": ["çarpıtmak", "çarpıtmamız", "çarpıtabiliriz", "çarpıtıldı"],
+      "note": null
+    }
+  ]
+}

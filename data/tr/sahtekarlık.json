@@ -1,0 +1,43 @@
+{
+  "word": "sahtekarlık",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "fraud, deception, forgery",
+  "sentences": [
+    {
+      "id": "sahtekarlık_s1",
+      "text": "Adamı [sahtekarlık] suçundan tutuklandı.",
+      "note": null
+    },
+    {
+      "id": "sahtekarlık_s2",
+      "text": "Kimlik [sahtekarlık]ı ciddi bir suç.",
+      "note": null
+    },
+    {
+      "id": "sahtekarlık_s3",
+      "text": "Polis [sahtekarlık] yapan şahısları araştırıyor.",
+      "note": null
+    },
+    {
+      "id": "sahtekarlık_s4",
+      "text": "[sahtekarlık] yüzünden hükümete mübaşir tarafından kapsamlı soruşturma yapıldı.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "sahtekarlık_r1",
+      "prompt": "Belgeyi taklit ederek veya kimliği gizleyerek insanları aldatma eylemi ...",
+      "accepted_forms": ["sahtekarlık", "sahtekarlığı", "sahtekarlığın"],
+      "note": null
+    },
+    {
+      "id": "sahtekarlık_r2",
+      "prompt": "Para veya para ile mübaşir ... yüzünden polis soruşturma başlattı.",
+      "accepted_forms": ["sahtekarlık", "sahtekarlığı"],
+      "note": null
+    }
+  ]
+}

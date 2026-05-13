@@ -1,0 +1,43 @@
+{
+  "word": "zulüm",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "oppression, tyranny, cruelty",
+  "sentences": [
+    {
+      "id": "zulüm_s1",
+      "text": "Halk yıllarca [zulüm]e maruz kaldı ve sonunda isyan etti.",
+      "note": null
+    },
+    {
+      "id": "zulüm_s2",
+      "text": "[Zulüm]ün sonunda daima adalet gelir.",
+      "note": null
+    },
+    {
+      "id": "zulüm_s3",
+      "text": "Bu ülkede [zulüm]e karşı kimse sesini çıkaramıyordu.",
+      "note": null
+    },
+    {
+      "id": "zulüm_s4",
+      "text": "Tarih, [zulüm]leri unutmaz ve öğretileri vardır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "zulüm_r1",
+      "prompt": "Güçlü olanın güçsüz olana yaptığı haksız ve zalimce davranış ne denir?",
+      "accepted_forms": ["zulüm", "zulüme", "zulümü", "zulümleri"],
+      "note": null
+    },
+    {
+      "id": "zulüm_r2",
+      "prompt": "Tarihte pek çok halk ... altında acı çekmiştir. Lütfen bu kelimeyi tamamlayın.",
+      "accepted_forms": ["zulüm", "zulüme", "zulüme maruz"],
+      "note": null
+    }
+  ]
+}

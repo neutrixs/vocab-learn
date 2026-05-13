@@ -1,0 +1,43 @@
+{
+  "word": "hayal kırıklığı",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "disappointment",
+  "sentences": [
+    {
+      "id": "hayal kırıklığı_s1",
+      "text": "Filmin kötü olması bana [hayal kırıklığı] verdi.",
+      "note": null
+    },
+    {
+      "id": "hayal kırıklığı_s2",
+      "text": "[Hayal kırıklığı] çok acı veren bir duygudur.",
+      "note": null
+    },
+    {
+      "id": "hayal kırıklığı_s3",
+      "text": "Beklentilerin [hayal kırıklığı]na dönüşebilir.",
+      "note": null
+    },
+    {
+      "id": "hayal kırıklığı_s4",
+      "text": "[Hayal kırıklığı]nı hissettiğinde düşüp kalkmamaya çalışır.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "hayal kırıklığı_r1",
+      "prompt": "Beklediğin şey olmadığında, beklentilerin yerine getirilmediğinde yaşanan duygudur?",
+      "accepted_forms": ["hayal kırıklığı", "hayal kırıklığına", "hayal kırıklığında", "hayal kırıklığını"],
+      "note": null
+    },
+    {
+      "id": "hayal kırıklığı_r2",
+      "prompt": "Sınıfta başarısız olunca büyük bir _____ yaşadım.",
+      "accepted_forms": ["hayal kırıklığı"],
+      "note": null
+    }
+  ]
+}

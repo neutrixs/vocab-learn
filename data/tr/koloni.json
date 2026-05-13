@@ -1,0 +1,43 @@
+{
+  "word": "koloni",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "colony",
+  "sentences": [
+    {
+      "id": "koloni_s1",
+      "text": "Arılar büyük bir [koloni]de yaşarlar.",
+      "note": null
+    },
+    {
+      "id": "koloni_s2",
+      "text": "Eski zamanlarda İngiltere pek çok [koloni] kurmaya çalışmıştır.",
+      "note": null
+    },
+    {
+      "id": "koloni_s3",
+      "text": "Penguen [koloni]leri Antarktika'da yaşıyor.",
+      "note": null
+    },
+    {
+      "id": "koloni_s4",
+      "text": "Bu karınca [koloni]si çok organize ve disiplinli.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "koloni_r1",
+      "prompt": "Arıların, karıncaların veya penguenlerin topluca yaşadığı grup veya yerleşim alanına ne denir?",
+      "accepted_forms": ["koloni", "koloniye", "koloniyi", "koloniler"],
+      "note": null
+    },
+    {
+      "id": "koloni_r2",
+      "prompt": "Tarihte güçlü ülkelerin başka topraklarda kurduğu yerleşim veya hakim alanın adı nedir?",
+      "accepted_forms": ["koloni", "koloniyi", "kolonilerini", "kolonilik"],
+      "note": null
+    }
+  ]
+}

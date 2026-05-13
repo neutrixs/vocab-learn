@@ -1,0 +1,43 @@
+{
+  "word": "dürtmek",
+  "lang": "tr",
+  "difficulty": 1,
+  "part_of_speech": "verb",
+  "english_gloss": "to push, to nudge, to poke",
+  "sentences": [
+    {
+      "id": "dürtmek_s1",
+      "text": "Kız arkadaşını [dürt]ti ve birlikte ilerlediler.",
+      "note": null
+    },
+    {
+      "id": "dürtmek_s2",
+      "text": "Polis protestoculuları yumuşakça [dürt]emeye başladı.",
+      "note": null
+    },
+    {
+      "id": "dürtmek_s3",
+      "text": "Çocuk annesini [dürt]erek dikkatini çekmeye çalıştı.",
+      "note": null
+    },
+    {
+      "id": "dürtmek_s4",
+      "text": "Tren yavaş yavaş ilerlerken ben onu [dürt]üm.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "dürtmek_r1",
+      "prompt": "Kişinin kolunu veya vücudunun bir bölümünü hafifçe vurarak tepki vermesini sağlamak ...",
+      "accepted_forms": ["dürtmek", "dürtüyor", "dürtüyorum", "dürt"],
+      "note": null
+    },
+    {
+      "id": "dürtmek_r2",
+      "prompt": "Okul bahçesinde çocuk arkadaşını hafifçe ... ve onu oyuna davet etti.",
+      "accepted_forms": ["dürtmek", "dürtüyor", "dürtüyor"],
+      "note": null
+    }
+  ]
+}

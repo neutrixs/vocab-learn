@@ -1,0 +1,43 @@
+{
+  "word": "süngü",
+  "lang": "tr",
+  "difficulty": 2,
+  "part_of_speech": "noun",
+  "english_gloss": "bayonet",
+  "sentences": [
+    {
+      "id": "süngü_s1",
+      "text": "Asker tüfeğine [süngü]sünü tak tı.",
+      "note": null
+    },
+    {
+      "id": "süngü_s2",
+      "text": "Tarihi [süngü]ler müzede sergileniyor.",
+      "note": null
+    },
+    {
+      "id": "süngü_s3",
+      "text": "[Süngü]nün ucu çok keskindir.",
+      "note": null
+    },
+    {
+      "id": "süngü_s4",
+      "text": "Askerler [süngü] ile hücum ettiler.",
+      "note": null
+    }
+  ],
+  "recall_prompts": [
+    {
+      "id": "süngü_r1",
+      "prompt": "Tüfeğin ucuna takılan sivri, keskin metal silah nedir?",
+      "accepted_forms": ["süngü", "süngüsü", "süngüler", "süngüyle"],
+      "note": null
+    },
+    {
+      "id": "süngü_r2",
+      "prompt": "Asker tüfeğinin ucuna tak ıp yakından dövüşmek için kullandığı silah adı nedir?",
+      "accepted_forms": ["süngü", "süngüsü", "süngüyü", "süngüsün"],
+      "note": null
+    }
+  ]
+}
