@@ -12,6 +12,7 @@ func NewRouter(db *sql.DB, jwtSecret []byte, dataDir string) http.Handler {
 
 	auth := NewAuthHandler(db, jwtSecret)
 	words := NewWordsHandler(dataDir)
+	texts := NewTextsHandler(dataDir)
 	progress := NewProgressHandler(db)
 	settings := NewSettingsHandler(db)
 
@@ -24,6 +25,11 @@ func NewRouter(db *sql.DB, jwtSecret []byte, dataDir string) http.Handler {
 	// Words (public)
 	mux.HandleFunc("GET /api/words/{lang}", words.Index)
 	mux.HandleFunc("GET /api/words/{lang}/{word}", words.Word)
+
+	// Texts (public)
+	mux.HandleFunc("GET /api/texts/{lang}", texts.Index)
+	mux.HandleFunc("GET /api/texts/{lang}/topics", texts.Topics)
+	mux.HandleFunc("GET /api/texts/{lang}/{id}", texts.Text)
 
 	// Progress (authenticated)
 	mux.Handle("GET /api/progress/{lang}", requireAuth(http.HandlerFunc(progress.Get)))

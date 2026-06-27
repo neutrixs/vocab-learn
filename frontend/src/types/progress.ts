@@ -14,8 +14,13 @@ export interface LangStats {
   total_correct: number;
 }
 
+export interface ReadState {
+  read_at: string;
+}
+
 export interface LangProgress {
   cards: Record<string, SM2Card>;
+  reads: Record<string, ReadState>;
   stats: LangStats;
 }
 

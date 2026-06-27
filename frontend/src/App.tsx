@@ -6,6 +6,7 @@ import { SettingsProvider } from './context/SettingsContext';
 import { AppShell } from './components/layout/AppShell';
 import { HomePage } from './pages/HomePage';
 import { StudyPage } from './pages/StudyPage';
+import { MetinPage } from './pages/MetinPage';
 import { SettingsPage } from './pages/SettingsPage';
 import { LoginPage } from './pages/LoginPage';
 
@@ -18,6 +19,7 @@ function AuthenticatedApp() {
           <Routes>
             <Route path="/" element={<HomePage />} />
             <Route path="/study" element={<StudyPage />} />
+            <Route path="/metin" element={<MetinPage />} />
             <Route path="/settings" element={<SettingsPage />} />
           </Routes>
           </AppShell>

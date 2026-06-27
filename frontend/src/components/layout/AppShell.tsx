@@ -34,6 +34,12 @@ export function AppShell({ children }: { children: ReactNode }) {
             {t.nav_home}
           </Link>
           <Link
+            to="/metin"
+            className={`nav-link ${pathname.startsWith('/metin') ? 'nav-link-active' : ''}`}
+          >
+            {t.nav_metin}
+          </Link>
+          <Link
             to="/settings"
             className={`nav-link ${pathname === '/settings' ? 'nav-link-active' : ''}`}
           >

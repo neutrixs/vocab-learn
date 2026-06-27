@@ -63,6 +63,7 @@ export function ensureCards(
 ): LangProgress {
   const existing = progress ?? {
     cards: {},
+    reads: {},
     stats: { streak_days: 0, last_study_date: null, total_reviews: 0, total_correct: 0 },
   };
   const cards = { ...existing.cards };

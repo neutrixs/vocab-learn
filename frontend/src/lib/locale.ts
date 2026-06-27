@@ -7,7 +7,22 @@ export interface UILocale {
 
   /** Navigation */
   nav_home: string;
+  nav_metin: string;
   nav_settings: string;
+
+  /** Metin (reading texts) */
+  metin_title: string;
+  metin_subtitle: string;
+  metin_today: string;
+  metin_archive: string;
+  metin_mark_read: string;
+  metin_marked_read: string;
+  metin_read_badge: string;
+  metin_empty: string;
+  metin_back: string;
+  metin_not_in_vocab: string;
+  metin_open: string;
+  metin_close: string;
 
   /** Home page */
   home_title: string;
@@ -90,7 +105,21 @@ const tr: UILocale = {
   },
 
   nav_home: 'Ana Sayfa',
+  nav_metin: 'Metin',
   nav_settings: 'Ayarlar',
+
+  metin_title: 'Günlük Metin',
+  metin_subtitle: 'Bağlam içinde sözcükler',
+  metin_today: 'BUGÜNKÜ METİN',
+  metin_archive: 'ARŞİV',
+  metin_mark_read: 'Okudum ✓',
+  metin_marked_read: 'OKUNDU ✓',
+  metin_read_badge: 'OKUNDU',
+  metin_empty: 'Henüz metin yok.',
+  metin_back: '← Geri',
+  metin_not_in_vocab: 'Bu kelime sözlükte yok.',
+  metin_open: 'Oku',
+  metin_close: 'Kapat',
 
   home_title: 'Sözcük Öğren',
   home_subtitle: 'Türkçe',
@@ -168,7 +197,21 @@ const en: UILocale = {
   },
 
   nav_home: 'Home',
+  nav_metin: 'Reading',
   nav_settings: 'Settings',
+
+  metin_title: 'Daily Reading',
+  metin_subtitle: 'Vocabulary in context',
+  metin_today: "TODAY'S READING",
+  metin_archive: 'ARCHIVE',
+  metin_mark_read: 'Mark as read ✓',
+  metin_marked_read: 'READ ✓',
+  metin_read_badge: 'READ',
+  metin_empty: 'No texts yet.',
+  metin_back: '← Back',
+  metin_not_in_vocab: 'Not in vocabulary.',
+  metin_open: 'Read',
+  metin_close: 'Close',
 
   home_title: 'Sözcük Learn',
   home_subtitle: 'English',
