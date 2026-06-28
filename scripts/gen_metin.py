@@ -154,7 +154,10 @@ def extract_json(raw: str) -> dict:
         raise SystemExit(f"Model output is not valid JSON: {e}\n--- raw ---\n{raw}")
 
 
-def validate(payload: dict, words: list[dict]) -> None:
+def validate(payload: dict, words: list[dict]) -> list[str]:
+    """Validate the model output. Returns the list of bracketed lemmas that are
+    not yet present in the word DB (these are allowed; they render as plain text
+    in the app until their dictionary entries are generated)."""
     for key in ("title", "body", "vocab"):
         if key not in payload:
             raise SystemExit(f"Missing key: {key}")
@@ -169,19 +172,22 @@ def validate(payload: dict, words: list[dict]) -> None:
     if "[[" in body:
         raise SystemExit("body contains '[[' (nested brackets are not allowed)")
 
-    # Verify brackets are well-formed and lemmas exist.
+    # Verify brackets are well-formed. Lemmas are NOT required to already exist in
+    # the word DB — a relevant word may be marked now and have its dictionary entry
+    # generated later. Missing lemmas are reported as a warning (see below).
     lemma_set = {w["word"].lower() for w in words}
     seen_lemmas: list[str] = []
     seen_lemmas_set: set[str] = set()
+    missing: list[str] = []
     for match in BRACKET_RE.finditer(body):
         display, lemma = match.group(1), match.group(2)
         if not display.strip() or not lemma.strip():
             raise SystemExit(f"Empty bracket part in: {match.group(0)}")
-        if lemma.lower() not in lemma_set:
-            raise SystemExit(f"Lemma not in word index: '{lemma}' (in {match.group(0)})")
         if lemma not in seen_lemmas_set:
             seen_lemmas_set.add(lemma)
             seen_lemmas.append(lemma)
+            if lemma.lower() not in lemma_set:
+                missing.append(lemma)
 
     # Detect stray brackets / pipes outside the well-formed token.
     stripped = BRACKET_RE.sub("X", body)
@@ -204,6 +210,18 @@ def validate(payload: dict, words: list[dict]) -> None:
     word_count = len([t for t in re.split(r"\s+", plain) if t])
     if word_count < 130 or word_count > 280:
         raise SystemExit(f"body length out of range: {word_count} words (target 150–250)")
+
+    if missing:
+        print(
+            "⚠ "
+            + str(len(missing))
+            + " bracketed lemma(s) are not yet in the word DB and will render as "
+            "plain text in the app until generated: "
+            + ", ".join(missing),
+            file=sys.stderr,
+        )
+
+    return missing
 
 
 def main() -> None:
@@ -253,7 +271,7 @@ def main() -> None:
     print(f"→ Generating text for {date.isoformat()} · {topic['id']}/{sub['id']}", file=sys.stderr)
     raw = call_anthropic(system, user_prompt, words_json)
     payload = extract_json(raw)
-    validate(payload, words)
+    missing = validate(payload, words)
 
     entry = {
         "id": text_id,
@@ -287,6 +305,15 @@ def main() -> None:
     ] + [t for t in index.get("texts", []) if t.get("id") != text_id]
     save_texts_index(args.lang, index)
     print(f"✓ Updated data/{args.lang}/texts/_index.json")
+
+    # FUTURE: generate dictionary entries for any lemmas not yet in the DB so the
+    # app can make them tappable. For now we only report them — the reader renders
+    # unknown lemmas as plain text, so the text is still fully usable.
+    if missing:
+        print(
+            f"  ↳ {len(missing)} lemma(s) still need word files: " + ", ".join(missing),
+            file=sys.stderr,
+        )
 
 
 if __name__ == "__main__":

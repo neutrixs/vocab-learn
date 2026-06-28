@@ -15,12 +15,15 @@ export function WordPreviewModal({ lemma, onClose }: WordPreviewModalProps) {
   const { lang } = useLanguage();
   const t = getLocale(lang);
   const [word, setWord] = useState<WordEntry | null>(null);
-  const [notFound, setNotFound] = useState(false);
+  const [failed, setFailed] = useState(false);
 
+  // The reader only makes a word tappable when it exists in the index, so this
+  // fetch is expected to hit the cache and succeed. The failure branch is just a
+  // quiet guard against an index/file mismatch.
   useEffect(() => {
     let cancelled = false;
     setWord(null);
-    setNotFound(false);
+    setFailed(false);
     loadWord(lang, lemma)
       .then((entry) => {
         if (cancelled) return;
@@ -28,7 +31,7 @@ export function WordPreviewModal({ lemma, onClose }: WordPreviewModalProps) {
       })
       .catch(() => {
         if (cancelled) return;
-        setNotFound(true);
+        setFailed(true);
       });
     return () => { cancelled = true; };
   }, [lang, lemma]);
@@ -49,13 +52,8 @@ export function WordPreviewModal({ lemma, onClose }: WordPreviewModalProps) {
       aria-modal="true"
     >
       <div className="modal-card card" onClick={(e) => e.stopPropagation()}>
-        {!word && !notFound && <p className="text-secondary">{t.loading}</p>}
-        {notFound && (
-          <>
-            <h3 className="modal-word">{lemma}</h3>
-            <p className="text-secondary">{t.metin_not_in_vocab}</p>
-          </>
-        )}
+        {!word && !failed && <p className="text-secondary">{t.loading}</p>}
+        {failed && <h3 className="modal-word">{lemma}</h3>}
         {word && (
           <>
             <div className="modal-header">
