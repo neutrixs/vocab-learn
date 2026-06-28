@@ -4,6 +4,7 @@ import { Card } from '../components/ui/Card';
 import { Badge } from '../components/ui/Badge';
 import { Button } from '../components/ui/Button';
 import { MetinReader } from '../components/metin/MetinReader';
+import { MetinBrowse } from '../components/metin/MetinBrowse';
 import { useLanguage } from '../context/LanguageContext';
 import { useProgress } from '../context/ProgressContext';
 import { loadTextsIndex, loadTopics } from '../lib/dataLoader';
@@ -32,6 +33,7 @@ export function MetinPage() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [openId, setOpenId] = useState<string | null>(null);
+  const [view, setView] = useState<'latest' | 'browse'>('latest');
 
   useEffect(() => {
     let cancelled = false;
@@ -77,40 +79,71 @@ export function MetinPage() {
       {loading && <p className="text-secondary">{t.loading}</p>}
       {error && <p className="error-text">{error}</p>}
 
-      {!loading && !error && !today && (
-        <Card>
-          <p className="text-secondary">{t.metin_empty}</p>
-        </Card>
-      )}
+      {!loading && !error && (
+        <>
+          <div className="metin-tabs">
+            <button
+              className={`metin-tab ${view === 'latest' ? 'metin-tab-active' : ''}`}
+              onClick={() => setView('latest')}
+            >
+              {t.metin_tab_latest}
+            </button>
+            <button
+              className={`metin-tab ${view === 'browse' ? 'metin-tab-active' : ''}`}
+              onClick={() => setView('browse')}
+            >
+              {t.metin_tab_topics}
+            </button>
+          </div>
 
-      {today && (
-        <Card className="metin-today-card">
-          <h3 className="card-section-title">{t.metin_today}</h3>
-          <TextRow
-            entry={today}
-            topics={topics}
-            lang={lang}
-            isRead={isTextRead(lang, today.id)}
-            onOpen={() => setOpenId(today.id)}
-            large
-            readBadge={t.metin_read_badge}
-            openLabel={t.metin_open}
-          />
-        </Card>
-      )}
+          {view === 'latest' ? (
+            <>
+              {!today && (
+                <Card>
+                  <p className="text-secondary">{t.metin_empty}</p>
+                </Card>
+              )}
 
-      {archive.length > 0 && (
-        <Card className="metin-archive-card">
-          <h3 className="card-section-title">{t.metin_archive}</h3>
-          <ArchiveGrouped
-            entries={archive}
-            topics={topics}
-            lang={lang}
-            isTextRead={isTextRead}
-            onOpen={(id) => setOpenId(id)}
-            readBadge={t.metin_read_badge}
-          />
-        </Card>
+              {today && (
+                <Card className="metin-today-card">
+                  <h3 className="card-section-title">{t.metin_today}</h3>
+                  <TextRow
+                    entry={today}
+                    topics={topics}
+                    lang={lang}
+                    isRead={isTextRead(lang, today.id)}
+                    onOpen={() => setOpenId(today.id)}
+                    large
+                    readBadge={t.metin_read_badge}
+                    openLabel={t.metin_open}
+                  />
+                </Card>
+              )}
+
+              {archive.length > 0 && (
+                <Card className="metin-archive-card">
+                  <h3 className="card-section-title">{t.metin_archive}</h3>
+                  <ArchiveGrouped
+                    entries={archive}
+                    topics={topics}
+                    lang={lang}
+                    isTextRead={isTextRead}
+                    onOpen={(id) => setOpenId(id)}
+                    readBadge={t.metin_read_badge}
+                  />
+                </Card>
+              )}
+            </>
+          ) : (
+            <MetinBrowse
+              topics={topics}
+              texts={sorted}
+              lang={lang}
+              isTextRead={isTextRead}
+              onOpen={(id) => setOpenId(id)}
+            />
+          )}
+        </>
       )}
     </div>
   );

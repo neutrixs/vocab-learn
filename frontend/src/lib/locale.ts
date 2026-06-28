@@ -25,6 +25,11 @@ export interface UILocale {
   metin_close: string;
   metin_highlight_show: string;
   metin_highlight_hide: string;
+  metin_tab_latest: string;
+  metin_tab_topics: string;
+  metin_all_topics: string;
+  metin_none_yet: string;
+  metin_text_count: (n: number) => string;
 
   /** Home page */
   home_title: string;
@@ -124,6 +129,11 @@ const tr: UILocale = {
   metin_close: 'Kapat',
   metin_highlight_show: 'Vurguları Göster',
   metin_highlight_hide: 'Vurguları Gizle',
+  metin_tab_latest: 'Son',
+  metin_tab_topics: 'Konular',
+  metin_all_topics: '← Tüm Konular',
+  metin_none_yet: 'Henüz metin yok',
+  metin_text_count: (n) => `${n} metin`,
 
   home_title: 'Sözcük Öğren',
   home_subtitle: 'Türkçe',
@@ -218,6 +228,11 @@ const en: UILocale = {
   metin_close: 'Close',
   metin_highlight_show: 'Show highlights',
   metin_highlight_hide: 'Hide highlights',
+  metin_tab_latest: 'Latest',
+  metin_tab_topics: 'Topics',
+  metin_all_topics: '← All topics',
+  metin_none_yet: 'No texts yet',
+  metin_text_count: (n) => `${n} text${n === 1 ? '' : 's'}`,
 
   home_title: 'Sözcük Learn',
   home_subtitle: 'English',
