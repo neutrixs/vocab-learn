@@ -17,14 +17,18 @@ interface MetinReaderProps {
 // Matches `[display|lemma]` tokens. Disallows nested `[` or `]` in either side.
 const BRACKET_RE = /(\[[^\][|]+\|[^\][|]+\])/g;
 
+const HIGHLIGHT_PREF_KEY = 'metin_highlight';
+
 /**
  * Renders a paragraph, turning `[display|lemma]` tokens into tappable highlights.
  * A word is only highlighted/clickable when its lemma exists in the word DB
- * (`known`). Unknown lemmas are rendered as plain prose — no highlight, no tap.
+ * (`known`) AND highlighting is enabled. Otherwise the plain inflected form is
+ * shown — unknown lemmas always render as plain prose.
  */
 function renderParagraph(
   text: string,
   known: Set<string>,
+  highlight: boolean,
   onWordClick: (lemma: string) => void,
 ): ReactNode[] {
   const parts = text.split(BRACKET_RE);
@@ -34,7 +38,7 @@ function renderParagraph(
       const pipe = inner.indexOf('|');
       const display = inner.slice(0, pipe);
       const lemma = inner.slice(pipe + 1);
-      if (known.has(lemma.toLowerCase())) {
+      if (highlight && known.has(lemma.toLowerCase())) {
         return (
           <button
             key={i}
@@ -46,7 +50,7 @@ function renderParagraph(
           </button>
         );
       }
-      // Not in the DB → just show the plain inflected form.
+      // Highlighting off, or word not in the DB → just show the plain form.
       return <span key={i}>{display}</span>;
     }
     return <span key={i}>{part}</span>;
@@ -61,6 +65,18 @@ export function MetinReader({ textId, onBack }: MetinReaderProps) {
   const [known, setKnown] = useState<Set<string>>(new Set());
   const [error, setError] = useState<string | null>(null);
   const [openLemma, setOpenLemma] = useState<string | null>(null);
+  const [highlight, setHighlight] = useState<boolean>(
+    () => localStorage.getItem(HIGHLIGHT_PREF_KEY) !== 'off',
+  );
+
+  function toggleHighlight() {
+    setHighlight((on) => {
+      const next = !on;
+      localStorage.setItem(HIGHLIGHT_PREF_KEY, next ? 'on' : 'off');
+      if (!next) setOpenLemma(null);
+      return next;
+    });
+  }
 
   useEffect(() => {
     let cancelled = false;
@@ -98,6 +114,14 @@ export function MetinReader({ textId, onBack }: MetinReaderProps) {
     <div className="page metin-reader-page">
       <div className="metin-reader-toolbar">
         <Button variant="ghost" onClick={onBack}>{t.metin_back}</Button>
+        <Button
+          variant="secondary"
+          size="sm"
+          onClick={toggleHighlight}
+          aria-pressed={highlight}
+        >
+          {highlight ? t.metin_highlight_hide : t.metin_highlight_show}
+        </Button>
       </div>
 
       {error && <p className="error-text">{error}</p>}
@@ -111,7 +135,7 @@ export function MetinReader({ textId, onBack }: MetinReaderProps) {
           </div>
           <div className="metin-body">
             {paragraphs.map((p, i) => (
-              <p key={i}>{renderParagraph(p, known, setOpenLemma)}</p>
+              <p key={i}>{renderParagraph(p, known, highlight, setOpenLemma)}</p>
             ))}
           </div>
           <div className="metin-reader-actions">

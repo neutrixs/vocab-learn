@@ -23,6 +23,8 @@ export interface UILocale {
   metin_not_in_vocab: string;
   metin_open: string;
   metin_close: string;
+  metin_highlight_show: string;
+  metin_highlight_hide: string;
 
   /** Home page */
   home_title: string;
@@ -120,6 +122,8 @@ const tr: UILocale = {
   metin_not_in_vocab: 'Bu kelime sözlükte yok.',
   metin_open: 'Oku',
   metin_close: 'Kapat',
+  metin_highlight_show: 'Vurguları Göster',
+  metin_highlight_hide: 'Vurguları Gizle',
 
   home_title: 'Sözcük Öğren',
   home_subtitle: 'Türkçe',
@@ -212,6 +216,8 @@ const en: UILocale = {
   metin_not_in_vocab: 'Not in vocabulary.',
   metin_open: 'Read',
   metin_close: 'Close',
+  metin_highlight_show: 'Show highlights',
+  metin_highlight_hide: 'Hide highlights',
 
   home_title: 'Sözcük Learn',
   home_subtitle: 'English',
