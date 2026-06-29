@@ -1,4 +1,4 @@
-import type { ProgressStore, SM2Card } from '../types/progress';
+import type { ProgressStore, ReadState, SM2Card } from '../types/progress';
 
 function today(): string {
   return new Date().toISOString().split('T')[0];
@@ -26,6 +26,36 @@ export function filterValidCards(cards: Record<string, unknown>): Record<string,
     }
   }
   return result;
+}
+
+function isValidRead(v: unknown): v is ReadState {
+  if (!v || typeof v !== 'object') return false;
+  const r = v as Record<string, unknown>;
+  return typeof r.read_at === 'string';
+}
+
+/**
+ * Splits a mixed server-returned map into SM-2 word cards and text-read markers.
+ * Keys prefixed with "text::" are read markers; everything else is validated as SM-2.
+ */
+export function splitCardsAndReads(raw: Record<string, unknown>): {
+  cards: Record<string, SM2Card>;
+  reads: Record<string, ReadState>;
+} {
+  const cards: Record<string, SM2Card> = {};
+  const reads: Record<string, ReadState> = {};
+  for (const [key, value] of Object.entries(raw)) {
+    if (key.startsWith('text::')) {
+      if (isValidRead(value)) {
+        reads[key.slice('text::'.length)] = value;
+      }
+      continue;
+    }
+    if (isValidCard(value)) {
+      cards[key] = value;
+    }
+  }
+  return { cards, reads };
 }
 
 export function emptyStore(): ProgressStore {

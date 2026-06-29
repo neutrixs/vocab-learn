@@ -4,6 +4,7 @@ import (
 	"database/sql"
 	"encoding/json"
 	"net/http"
+	"strings"
 
 	"vocab-learn/internal/middleware"
 )
@@ -81,8 +82,18 @@ func (h *ProgressHandler) Put(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	// Validate each card has the required SM2 fields.
+	// Validate each card.
+	// SM-2 word cards must carry the full set of scheduler fields.
+	// "text::*" entries are opaque read-state markers — accept any valid JSON object.
 	for key, raw := range body.Cards {
+		if strings.HasPrefix(key, "text::") {
+			var obj map[string]any
+			if err := json.Unmarshal(raw, &obj); err != nil {
+				http.Error(w, `{"error":"invalid card: `+key+`"}`, http.StatusBadRequest)
+				return
+			}
+			continue
+		}
 		var card struct {
 			Due     *string  `json:"due"`
 			Created *string  `json:"created"`

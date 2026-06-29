@@ -15,6 +15,10 @@ dist-ssr
 # Go
 bin/
 
+# Python
+__pycache__/
+*.pyc
+
 # Server config (local only)
 deploy/
 *.db

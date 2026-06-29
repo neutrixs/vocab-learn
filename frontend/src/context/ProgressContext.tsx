@@ -1,7 +1,7 @@
 import { createContext, useContext, useReducer, useEffect, useRef, useCallback, type ReactNode } from 'react';
-import type { ProgressStore, SM2Card, LangProgress, LangStats } from '../types/progress';
+import type { ProgressStore, SM2Card, ReadState, LangProgress, LangStats } from '../types/progress';
 import type { ReviewGrade } from '../types/study';
-import { emptyStore, filterValidCards } from '../lib/storage';
+import { emptyStore, splitCardsAndReads } from '../lib/storage';
 import { applyReview, newCard } from '../lib/sm2';
 import { updateStreak } from '../lib/storage';
 import { apiFetch } from '../lib/apiClient';
@@ -12,24 +12,38 @@ interface ProgressContextValue {
   getLangProgress: (lang: string) => LangProgress | undefined;
   getCard: (lang: string, cardKey: string) => SM2Card;
   recordReview: (lang: string, cardKey: string, grade: ReviewGrade) => void;
+  recordTextRead: (lang: string, textId: string) => void;
+  isTextRead: (lang: string, textId: string) => boolean;
   resetLang: (lang: string) => void;
   resetAll: () => void;
 }
 
 type Action =
   | { type: 'RECORD_REVIEW'; lang: string; cardKey: string; grade: ReviewGrade }
+  | { type: 'RECORD_TEXT_READ'; lang: string; textId: string; readAt: string }
   | { type: 'RESET_LANG'; lang: string }
   | { type: 'RESET_ALL' }
-  | { type: 'MERGE_SERVER'; lang: string; cards: Record<string, SM2Card>; stats: LangStats | null };
+  | {
+      type: 'MERGE_SERVER';
+      lang: string;
+      cards: Record<string, SM2Card>;
+      reads: Record<string, ReadState>;
+      stats: LangStats | null;
+    };
+
+function emptyLangProgress(): LangProgress {
+  return {
+    cards: {},
+    reads: {},
+    stats: { streak_days: 0, last_study_date: null, total_reviews: 0, total_correct: 0 },
+  };
+}
 
 function reducer(store: ProgressStore, action: Action): ProgressStore {
   switch (action.type) {
     case 'RECORD_REVIEW': {
       const { lang, cardKey, grade } = action;
-      const lp = store.languages[lang] ?? {
-        cards: {},
-        stats: { streak_days: 0, last_study_date: null, total_reviews: 0, total_correct: 0 },
-      };
+      const lp = store.languages[lang] ?? emptyLangProgress();
       const card = lp.cards[cardKey] ?? newCard();
       const updated = applyReview(card, grade);
       const newLp: LangProgress = {
@@ -47,14 +61,28 @@ function reducer(store: ProgressStore, action: Action): ProgressStore {
       };
       return updateStreak(withLang, lang);
     }
+    case 'RECORD_TEXT_READ': {
+      const { lang, textId, readAt } = action;
+      const lp = store.languages[lang] ?? emptyLangProgress();
+      if (lp.reads[textId]) return store;
+      const newLp: LangProgress = {
+        ...lp,
+        reads: { ...lp.reads, [textId]: { read_at: readAt } },
+      };
+      return {
+        ...store,
+        languages: { ...store.languages, [lang]: newLp },
+      };
+    }
     case 'RESET_LANG': {
-      const { [action.lang]: _, ...rest } = store.languages;
+      const rest = { ...store.languages };
+      delete rest[action.lang];
       return { ...store, languages: rest };
     }
     case 'RESET_ALL':
       return { version: 1, languages: {} };
     case 'MERGE_SERVER': {
-      const { lang, cards, stats: serverStats } = action;
+      const { lang, cards, reads, stats: serverStats } = action;
       const defaultStats: LangStats = { streak_days: 0, last_study_date: null, total_reviews: 0, total_correct: 0 };
 
       // Server cards have absolute priority — overwrite local.
@@ -65,6 +93,7 @@ function reducer(store: ProgressStore, action: Action): ProgressStore {
           ...store.languages,
           [lang]: {
             cards,
+            reads,
             stats: { ...defaultStats, ...serverStats },
           },
         },
@@ -77,23 +106,26 @@ function reducer(store: ProgressStore, action: Action): ProgressStore {
 
 const ProgressContext = createContext<ProgressContextValue>({} as ProgressContextValue);
 
+type DirtyPayload = SM2Card | ReadState;
+
 export function ProgressProvider({ children }: { children: ReactNode }) {
   const [store, dispatch] = useReducer(reducer, undefined, emptyStore);
   const { lang } = useLanguage();
   const flushTimer = useRef<ReturnType<typeof setInterval> | undefined>(undefined);
 
-  // Track dirty cards in a ref so it's never stale.
-  const dirtyRef = useRef(new Map<string, Map<string, SM2Card>>());
+  // Track dirty entries in a ref so it's never stale.
+  // Inner map keys are full card_keys (SM-2 "word::mode" or "text::id").
+  const dirtyRef = useRef(new Map<string, Map<string, DirtyPayload>>());
 
   // Keep a ref to the latest store so flushDirty can read current stats.
   const storeRef = useRef(store);
   useEffect(() => { storeRef.current = store; }, [store]);
 
   const flushDirty = useCallback(async () => {
-    for (const [l, cards] of dirtyRef.current) {
-      if (cards.size === 0) continue;
-      const payload: Record<string, SM2Card> = {};
-      for (const [k, v] of cards) payload[k] = v;
+    for (const [l, entries] of dirtyRef.current) {
+      if (entries.size === 0) continue;
+      const payload: Record<string, DirtyPayload> = {};
+      for (const [k, v] of entries) payload[k] = v;
       const stats = storeRef.current.languages[l]?.stats ?? null;
       try {
         const res = await apiFetch(`/api/progress/${l}`, {
@@ -101,7 +133,7 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ cards: payload, stats }),
         });
-        if (res.ok) cards.clear();
+        if (res.ok) entries.clear();
       } catch {
         // Will retry next flush.
       }
@@ -114,13 +146,16 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
     let cancelled = false;
     (async () => {
       let serverCards: Record<string, SM2Card> = {};
+      let serverReads: Record<string, ReadState> = {};
       let serverStats: LangStats | null = null;
       try {
         const res = await apiFetch(`/api/progress/${lang}`);
         if (res.ok) {
           const data = await res.json();
           if (data && typeof data === 'object') {
-            serverCards = filterValidCards(data.cards ?? {});
+            const split = splitCardsAndReads(data.cards ?? {});
+            serverCards = split.cards;
+            serverReads = split.reads;
             serverStats = data.stats ?? null;
           }
         }
@@ -128,8 +163,18 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
 
       if (cancelled) return;
 
-      if (Object.keys(serverCards).length > 0 || serverStats) {
-        dispatch({ type: 'MERGE_SERVER', lang, cards: serverCards, stats: serverStats });
+      if (
+        Object.keys(serverCards).length > 0 ||
+        Object.keys(serverReads).length > 0 ||
+        serverStats
+      ) {
+        dispatch({
+          type: 'MERGE_SERVER',
+          lang,
+          cards: serverCards,
+          reads: serverReads,
+          stats: serverStats,
+        });
       }
     })();
     return () => { cancelled = true; };
@@ -165,6 +210,15 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
       if (!dirty.has(lang)) dirty.set(lang, new Map());
       dirty.get(lang)!.set(cardKey, updated);
     },
+    recordTextRead: (lang, textId) => {
+      if (store.languages[lang]?.reads[textId]) return;
+      const readAt = new Date().toISOString();
+      dispatch({ type: 'RECORD_TEXT_READ', lang, textId, readAt });
+      const dirty = dirtyRef.current;
+      if (!dirty.has(lang)) dirty.set(lang, new Map());
+      dirty.get(lang)!.set(`text::${textId}`, { read_at: readAt });
+    },
+    isTextRead: (lang, textId) => !!store.languages[lang]?.reads[textId],
     resetLang: (lang) => {
       dispatch({ type: 'RESET_LANG', lang });
       apiFetch(`/api/progress/${lang}`, { method: 'DELETE' })

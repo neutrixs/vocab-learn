@@ -1,0 +1,54 @@
+{
+  "topics": [
+    {
+      "id": "health",
+      "label_tr": "Sağlık",
+      "label_en": "Health",
+      "subtopics": [
+        {"id": "general-sickness", "label_tr": "Genel Hastalık", "label_en": "General Sickness"},
+        {"id": "hospital-visit",   "label_tr": "Hastane Ziyareti", "label_en": "Hospital Visit"},
+        {"id": "pharmacy",         "label_tr": "Eczane",          "label_en": "Pharmacy"}
+      ]
+    },
+    {
+      "id": "daily-life",
+      "label_tr": "Günlük Hayat",
+      "label_en": "Daily Life",
+      "subtopics": [
+        {"id": "morning-routine", "label_tr": "Sabah Rutini",   "label_en": "Morning Routine"},
+        {"id": "groceries",       "label_tr": "Market Alışverişi", "label_en": "Groceries"},
+        {"id": "public-transport","label_tr": "Toplu Taşıma",   "label_en": "Public Transport"}
+      ]
+    },
+    {
+      "id": "food",
+      "label_tr": "Yemek",
+      "label_en": "Food",
+      "subtopics": [
+        {"id": "restaurant",       "label_tr": "Restoranda",       "label_en": "At the Restaurant"},
+        {"id": "home-cooking",     "label_tr": "Evde Yemek",       "label_en": "Cooking at Home"},
+        {"id": "turkish-cuisine",  "label_tr": "Türk Mutfağı",     "label_en": "Turkish Cuisine"}
+      ]
+    },
+    {
+      "id": "travel",
+      "label_tr": "Seyahat",
+      "label_en": "Travel",
+      "subtopics": [
+        {"id": "airport",        "label_tr": "Havalimanı",     "label_en": "At the Airport"},
+        {"id": "hotel",          "label_tr": "Otelde",         "label_en": "At the Hotel"},
+        {"id": "sightseeing",    "label_tr": "Gezi",           "label_en": "Sightseeing"}
+      ]
+    },
+    {
+      "id": "work",
+      "label_tr": "İş",
+      "label_en": "Work",
+      "subtopics": [
+        {"id": "office",       "label_tr": "Ofiste",       "label_en": "At the Office"},
+        {"id": "job-interview","label_tr": "İş Görüşmesi", "label_en": "Job Interview"},
+        {"id": "meetings",     "label_tr": "Toplantılar",  "label_en": "Meetings"}
+      ]
+    }
+  ]
+}
