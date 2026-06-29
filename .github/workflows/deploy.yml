@@ -1,0 +1,28 @@
+name: Deploy
+
+# On every push to the deploy branch, SSH into the server and update it.
+# GitHub stays the source of truth; the server just pulls + rebuilds.
+
+on:
+  push:
+    branches: [main]      # change to "metin" to deploy that branch while it's unmerged
+  workflow_dispatch:        # lets you trigger a deploy manually from the Actions tab
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy over SSH
+        uses: appleboy/ssh-action@v1
+        with:
+          host: ${{ secrets.DEPLOY_HOST }}
+          username: ${{ secrets.DEPLOY_USER }}
+          key: ${{ secrets.DEPLOY_SSH_KEY }}
+          # port: ${{ secrets.DEPLOY_PORT }}   # uncomment if SSH isn't on 22
+          script: |
+            set -e
+            cd ${{ secrets.DEPLOY_PATH }}
+            git fetch origin
+            git reset --hard origin/main        # match the branch above
+            make build
+            sudo systemctl restart vocab-learn  # change to however you run the app
