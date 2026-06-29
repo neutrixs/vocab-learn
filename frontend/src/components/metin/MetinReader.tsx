@@ -80,8 +80,8 @@ export function MetinReader({ textId, onBack }: MetinReaderProps) {
 
   useEffect(() => {
     let cancelled = false;
-    setText(null);
-    setError(null);
+    // text/error start null on mount; the parent keys this component on textId,
+    // so navigating to another text remounts and resets them (no in-effect reset).
     // Load the text and the word index in parallel. The index is the source of
     // truth for which lemmas exist; only those become tappable.
     Promise.all([loadText(lang, textId), loadIndex(lang)])

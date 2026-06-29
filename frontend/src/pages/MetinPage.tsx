@@ -26,6 +26,13 @@ function subtopicLabel(topics: TopicsConfig | null, topicId: string, subtopicId:
 
 export function MetinPage() {
   const { lang } = useLanguage();
+  // Key the page on lang: switching language remounts and resets loading/error
+  // state instead of resetting it synchronously inside the load effect.
+  return <MetinPageInner key={lang} />;
+}
+
+function MetinPageInner() {
+  const { lang } = useLanguage();
   const { isTextRead } = useProgress();
   const t = getLocale(lang);
   const [index, setIndex] = useState<TextsIndex | null>(null);
@@ -37,8 +44,8 @@ export function MetinPage() {
 
   useEffect(() => {
     let cancelled = false;
-    setLoading(true);
-    setError(null);
+    // loading starts true and error null on mount; the wrapper keys this on lang,
+    // so a language switch remounts and resets them (no in-effect reset needed).
     Promise.all([loadTextsIndex(lang), loadTopics(lang)])
       .then(([idx, tops]) => {
         if (cancelled) return;
@@ -66,6 +73,7 @@ export function MetinPage() {
   if (openId) {
     return (
       <MetinReader
+        key={openId}
         textId={openId}
         onBack={() => setOpenId(null)}
       />
