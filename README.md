@@ -10,6 +10,8 @@ Two study modes per word:
 - **Recognition** — read a Turkish sentence, recall the meaning
 - **Active Recall** — answer a Turkish prompt by typing the correct form
 
+Beyond flashcards, **Metin** offers daily short Turkish reading texts on rotating topics. Words that exist in your vocabulary DB are highlighted and tappable — tap one to preview its entry inline while reading.
+
 ## Setup
 
 ```bash
@@ -31,7 +33,8 @@ make build            # builds frontend + Go binary
 |----------|---------|-------------|
 | `PORT` | `8080` | Server port |
 | `DATA_DIR` | `./data` | Word data directory |
-| `DB_PATH` | `./vocab-learn.db` | SQLite database path |
+| `DB_DIR` | _(required)_ | Directory holding `vocab-learn.db` and `.jwt_secret`. Created if missing; keep it outside the work tree so a deploy's `git clean` can't wipe it. |
+| `DIST_DIR` | `./frontend/dist` | Built frontend path |
 
 ## Project Structure
 
@@ -39,21 +42,30 @@ make build            # builds frontend + Go binary
 vocab-learn/
 ├── cmd/server/              Go server entry point
 ├── internal/
-│   ├── api/                 HTTP handlers (auth, words, progress)
+│   ├── api/                 HTTP handlers (auth, words, progress, texts, settings)
 │   ├── db/                  SQLite schema + init
 │   └── middleware/          JWT auth
 ├── data/
 │   └── tr/                  Turkish word files
 │       ├── _index.json      Word registry
-│       └── *.json           One file per word
+│       ├── *.json           One file per word
+│       └── texts/           Daily reading texts ("metin")
+│           ├── _index.json  Text registry
+│           ├── _topics.json Topic / subtopic catalog
+│           └── *.json       One file per text
 ├── frontend/                Vite + React + TypeScript
 │   ├── src/
-│   │   ├── components/      UI and study components
-│   │   ├── context/         Auth, Language, Progress providers
+│   │   ├── components/      UI, study, and metin (reader/browse) components
+│   │   ├── context/         Auth, Language, Progress, Settings providers
 │   │   ├── lib/             SM-2 algorithm, scheduler, data loading
-│   │   ├── pages/           Home, Study, Settings, Login
+│   │   ├── pages/           Home, Study, Metin, Settings, Login
 │   │   └── types/           TypeScript type definitions
 │   └── package.json
+├── metin/
+│   └── spec.md              Writing rules for reading texts (shared by API + Claude Code paths)
+├── scripts/
+│   ├── gen_metin.py         Daily reading-text generator (--pick / --generate / --ingest)
+│   └── requirements.txt
 ├── Makefile
 └── go.mod
 ```
