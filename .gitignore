@@ -21,6 +21,7 @@ __pycache__/
 
 # Server config (local only)
 deploy/
+devdata/
 *.db
 *.db-wal
 *.db-shm

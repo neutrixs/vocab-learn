@@ -1,7 +1,7 @@
 .PHONY: dev-server dev-frontend build clean
 
 dev-server:
-	go run ./cmd/server
+	DB_DIR=./devdata go run ./cmd/server
 
 dev-frontend:
 	cd frontend && npm run dev

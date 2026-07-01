@@ -7,6 +7,7 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"path/filepath"
 	"strings"
 
 	"vocab-learn/internal/api"
@@ -16,9 +17,17 @@ import (
 func main() {
 	port := envOr("PORT", "8080")
 	dataDir := envOr("DATA_DIR", "./data")
-	dbPath := envOr("DB_PATH", "./vocab-learn.db")
-	jwtSecret := loadSecret()
 	distDir := envOr("DIST_DIR", "./frontend/dist")
+
+	dbDir := os.Getenv("DB_DIR")
+	if dbDir == "" {
+		log.Fatal("DB_DIR must be set (directory to store vocab-learn.db and .jwt_secret, outside the repo/work tree)")
+	}
+	if err := os.MkdirAll(dbDir, 0700); err != nil {
+		log.Fatalf("db dir: %v", err)
+	}
+	dbPath := filepath.Join(dbDir, "vocab-learn.db")
+	jwtSecret := loadSecret(filepath.Join(dbDir, ".jwt_secret"))
 
 	database, err := db.Open(dbPath)
 	if err != nil {
@@ -63,9 +72,8 @@ func envOr(key, fallback string) string {
 	return fallback
 }
 
-func loadSecret() []byte {
+func loadSecret(secretFile string) []byte {
 	// Persist a generated secret to a file so it survives restarts.
-	secretFile := ".jwt_secret"
 	if data, err := os.ReadFile(secretFile); err == nil {
 		s := strings.TrimSpace(string(data))
 		if b, err := hex.DecodeString(s); err == nil && len(b) >= 32 {

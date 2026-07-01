@@ -22,7 +22,7 @@ make build            # builds frontend + Go binary → bin/server
 
 - `PORT` — server port (default 8080)
 - `DATA_DIR` — word data directory (default `./data`)
-- `DB_PATH` — SQLite database path (default `./vocab-learn.db`)
+- `DB_DIR` — **required**, no default. Directory (created if missing) holding `vocab-learn.db` and `.jwt_secret`. Keep this outside the repo/work tree so a deploy's `git clean` never touches it.
 - `DIST_DIR` — built frontend path (default `./frontend/dist`)
 
 ## Project Structure
