@@ -29,4 +29,4 @@ jobs:
           chmod 600 ~/.ssh/deploy_key
           ssh-keyscan -H "$DEPLOY_HOST" >> ~/.ssh/known_hosts 2>/dev/null
           git remote add deploy "$DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_GIT_DIR"
-          GIT_SSH_COMMAND="ssh -i ~/.ssh/deploy_key" git push deploy HEAD:main
+          GIT_SSH_COMMAND="ssh -i ~/.ssh/deploy_key" git push --force deploy HEAD:main
